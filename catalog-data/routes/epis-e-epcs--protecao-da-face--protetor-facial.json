@@ -1,0 +1,61 @@
+{
+  "title": "PROTETOR FACIAL",
+  "parentLabel": "Proteção Da Face",
+  "description": "Produtos da categoria protetor facial em proteção da face.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Da Face",
+      "to": "/epis-e-epcs/protecao-da-face"
+    },
+    {
+      "label": "PROTETOR FACIAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13327",
+      "title": "PROTETOR FACIAL POLYMER INCOLOR CA 51387",
+      "brand": "POLYMER",
+      "brandCode": "1225",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "8960",
+      "category": "PROTETOR FACIAL",
+      "categorySlug": "protetor-facial",
+      "path": "/protetor-facial-polymer-incolor-ca-51387-13327",
+      "image": "/products/images/0133/13327.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Face",
+      "sectionSlug": "protecao-da-face"
+    },
+    {
+      "code": "13169",
+      "title": "PROTETOR FACIAL V-GARD 240 FOG CA34386 X",
+      "brand": "MSA",
+      "brandCode": "9",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "311831",
+      "category": "PROTETOR FACIAL",
+      "categorySlug": "protetor-facial",
+      "path": "/protetor-facial-vgard-240-fog-ca34386-x-13169",
+      "image": "/products/images/0131/13169.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Face",
+      "sectionSlug": "protecao-da-face"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--protecao-da-face--protetor-facial"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "DIADEBOX",
+  "parentLabel": "Marca",
+  "description": "Produtos DIADEBOX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DIADEBOX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12992",
+      "title": "BOBINA PLASTICO BOLHA 40X20M - SUPER RES",
+      "brand": "DIADEBOX",
+      "brandCode": "1168",
+      "supplier": "M A SILVERIO UNIPESSOAL LTDA",
+      "supplierCode": "6031",
+      "manufacturerCode": "MLB5242688716 _182670954",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/bobina-plastico-bolha-40x20m--super-res-12992",
+      "image": "/products/images/0129/12992.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1168--diadebox"
+  }
+}

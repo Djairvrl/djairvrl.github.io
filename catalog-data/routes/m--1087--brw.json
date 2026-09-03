@@ -1,0 +1,36 @@
+{
+  "title": "BRW",
+  "parentLabel": "Marca",
+  "description": "Produtos BRW disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRW"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12497",
+      "title": "GRAMPO GALV 106/6 3500P GR1066",
+      "brand": "BRW",
+      "brandCode": "1087",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7898936754936",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/grampo-galv-1066-3500p-gr1066-12497",
+      "image": "/products/images/0124/12497.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1087--brw"
+  }
+}

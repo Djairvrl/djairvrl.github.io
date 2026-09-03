@@ -1,0 +1,112 @@
+{
+  "title": "CORRENTES ZEBRADA",
+  "parentLabel": "Equipamentos de Proteção Coletiva — EPC",
+  "description": "Produtos da categoria correntes zebrada em equipamentos de proteção coletiva — epc.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Equipamentos de Proteção Coletiva — EPC",
+      "to": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "label": "CORRENTES ZEBRADA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1249",
+      "title": "CORRENTE PLASTICA ELO G VERMELHA",
+      "brand": "DELTA PLUS",
+      "brandCode": "53",
+      "supplier": "DELTA PLUS BRASIL INDUSTRIA E COMERCIO DE EPI LTDA",
+      "supplierCode": "89",
+      "manufacturerCode": "525",
+      "category": "CORRENTES ZEBRADA",
+      "categorySlug": "correntes-zebrada",
+      "path": "/corrente-plastica-elo-g-vermelha-1249",
+      "image": "/products/images/0012/1249.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "6549",
+      "title": "CORRENTE PLS ELO PEQ AM/PT",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "FERREIRA COSTA CIA LTDA",
+      "supplierCode": "1089",
+      "manufacturerCode": "1005219",
+      "category": "CORRENTES ZEBRADA",
+      "categorySlug": "correntes-zebrada",
+      "path": "/corrente-pls-elo-peq-ampt-6549",
+      "image": "/products/images/0065/6549.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "3060",
+      "title": "CORRENTE PLÁSTICA DE SINALIZAÇÃO ELO GRANDE VM/BR - VENDIDA POR METRO - KTELI",
+      "brand": "KTELI",
+      "brandCode": "124",
+      "supplier": "KTELI INDUSTRIA E COMERCIO LTDA - ME",
+      "supplierCode": "330",
+      "manufacturerCode": "25149",
+      "category": "CORRENTES ZEBRADA",
+      "categorySlug": "correntes-zebrada",
+      "path": "/corrente-plastica-de-sinalizacao-elo-grande-vmbr--vendida-por-metro--kteli-3060",
+      "image": "/products/images/0030/3060.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "1251",
+      "title": "CORRENTE PLÁSTICA ZEBRADA DE ISOLAMENTO ELO PEQUENO - KTELI",
+      "brand": "KTELI",
+      "brandCode": "124",
+      "supplier": "KTELI INDUSTRIA E COMERCIO LTDA - ME",
+      "supplierCode": "330",
+      "manufacturerCode": "1323",
+      "category": "CORRENTES ZEBRADA",
+      "categorySlug": "correntes-zebrada",
+      "path": "/corrente-plastica-zebrada-de-isolamento-elo-pequeno--kteli-1251",
+      "image": "/products/images/0012/1251.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "1250",
+      "title": "CORRENTE PLÁSTICA ZEBRADA EM PEAD  ELO GRANDE AMARELO E PRETO - KTELI",
+      "brand": "KTELI",
+      "brandCode": "124",
+      "supplier": "KTELI INDUSTRIA E COMERCIO LTDA - ME",
+      "supplierCode": "330",
+      "manufacturerCode": "6184",
+      "category": "CORRENTES ZEBRADA",
+      "categorySlug": "correntes-zebrada",
+      "path": "/corrente-plastica-zebrada-em-pead-elo-grande-amarelo-e-preto--kteli-1250",
+      "image": "/products/images/0012/1250.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--equipamentos-de-protecao-coletiva-epc--correntes-zebrada"
+  }
+}

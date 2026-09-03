@@ -1,0 +1,106 @@
+{
+  "title": "Sinalização de Segurança",
+  "parentLabel": "Departamento",
+  "description": "Produtos de RICKSON DOMINGOS DO COUTO 70016788486 neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança"
+    }
+  ],
+  "children": [
+    {
+      "name": "Placas de Advertência e Emergência",
+      "slug": "placas-de-advertencia-e-emergencia",
+      "path": "/sinalizacao-de-seguranca/placas-de-advertencia-e-emergencia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Sinalização Viária, Tráfego e Delimitação",
+      "slug": "sinalizacao-viaria-trafego-e-delimitacao",
+      "path": "/sinalizacao-de-seguranca/sinalizacao-viaria-trafego-e-delimitacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Adesivo Refletivo Grau Prismático Iii",
+      "slug": "adesivo-refletivo-grau-prismatico-iii",
+      "path": "/sinalizacao-de-seguranca/adesivo-refletivo-grau-prismatico-iii",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Placas E Dispositivos",
+      "slug": "placas-e-dispositivos",
+      "path": "/sinalizacao-de-seguranca/placas-e-dispositivos",
+      "count": 179,
+      "categories": [
+        {
+          "name": "SINALIZAÇÃO DE EXTINTORES",
+          "slug": "sinalizacao-de-extintores",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-extintores",
+          "count": 27
+        },
+        {
+          "name": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+          "slug": "sinalizacao-de-proibicao-e-alerta",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-proibicao-e-alerta",
+          "count": 7
+        },
+        {
+          "name": "SINALIZAÇÃO EQUIPAMENTOS",
+          "slug": "sinalizacao-equipamentos",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-equipamentos",
+          "count": 2
+        },
+        {
+          "name": "SINALIZAÇÃO ROTA DE FUGA",
+          "slug": "sinalizacao-rota-de-fuga",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-rota-de-fuga",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÃO VIÁRIA",
+          "slug": "sinalizacao-viaria",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-viaria",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÕES DIVERSAS",
+          "slug": "sinalizacoes-diversas",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacoes-diversas",
+          "count": 71
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1204",
+    "name": "RICKSON DOMINGOS DO COUTO 70016788486"
+  },
+  "products": [
+    {
+      "code": "2309",
+      "title": "PLACA DE ADVERT 30X20 CM EM ALUMINIO",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "RICKSON DOMINGOS DO COUTO 70016788486",
+      "supplierCode": "1204",
+      "manufacturerCode": "2309",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-de-advert-30x20-cm-em-aluminio-2309",
+      "image": "/products/images/0023/2309.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "sinalizacao-de-seguranca--fornecedor-1204"
+  }
+}

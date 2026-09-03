@@ -1,0 +1,87 @@
+{
+  "title": "VERTICALIZE",
+  "parentLabel": "Marca",
+  "description": "Produtos VERTICALIZE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VERTICALIZE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11970",
+      "title": "LONGARINA LEVE CAD. A/C.500 KG PL 2000MM",
+      "brand": "VERTICALIZE",
+      "brandCode": "1012",
+      "supplier": "SOEPOXI COMERCIO E SERVICO DE PINTURA ELETROSTATICA LTDA",
+      "supplierCode": "2924",
+      "manufacturerCode": "LG-C-172",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/longarina-leve-cad-ac500-kg-pl-2000mm-11970",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11971",
+      "title": "LONGARINA LEVE CAD. A/C._500 KG. PL_ 200",
+      "brand": "VERTICALIZE",
+      "brandCode": "1012",
+      "supplier": "SOEPOXI COMERCIO E SERVICO DE PINTURA ELETROSTATICA LTDA",
+      "supplierCode": "2924",
+      "manufacturerCode": "LG-C-172",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/longarina-leve-cad-ac500-kg-pl-200-11971",
+      "image": "/products/images/0119/11971.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11969",
+      "title": "MONTANTE A/C_2000 X 500 X 80 MM.",
+      "brand": "VERTICALIZE",
+      "brandCode": "1012",
+      "supplier": "SOEPOXI COMERCIO E SERVICO DE PINTURA ELETROSTATICA LTDA",
+      "supplierCode": "2924",
+      "manufacturerCode": "MTRS-80-019",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/montante-ac2000-x-500-x-80-mm-11969",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11972",
+      "title": "PLANO METÁLICO 2000X500",
+      "brand": "VERTICALIZE",
+      "brandCode": "1012",
+      "supplier": "SOEPOXI COMERCIO E SERVICO DE PINTURA ELETROSTATICA LTDA",
+      "supplierCode": "2924",
+      "manufacturerCode": "PML-212",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/plano-metalico-2000x500-11972",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--1012--verticalize"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "CARBRINK",
+  "parentLabel": "Marca",
+  "description": "Produtos CARBRINK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CARBRINK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7416",
+      "title": "APAGADOR P/ QUADR BRANCO CARBRINK",
+      "brand": "CARBRINK",
+      "brandCode": "458",
+      "supplier": "G. R. INFORMATICA LTDA",
+      "supplierCode": "1129",
+      "manufacturerCode": "001313",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/apagador-p-quadr-branco-carbrink-7416",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--458--carbrink"
+  }
+}

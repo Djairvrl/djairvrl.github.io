@@ -1,0 +1,22 @@
+{
+  "title": "Amarração de Carga",
+  "parentLabel": "Amarração e Elevação",
+  "description": "Soluções de amarração de carga disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Amarração de Carga"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "amarracao-e-elevacao--amarracao-de-carga"
+  }
+}

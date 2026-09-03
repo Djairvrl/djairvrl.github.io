@@ -1,0 +1,104 @@
+{
+  "title": "CLIMA SOFT",
+  "parentLabel": "Marca",
+  "description": "Produtos CLIMA SOFT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CLIMA SOFT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10769",
+      "title": "BACTERICIDA FORT AIR 1L TALCO",
+      "brand": "CLIMA SOFT",
+      "brandCode": "810",
+      "supplier": "C. A. S. DOS SANTOS GODOI",
+      "supplierCode": "4072",
+      "manufacturerCode": "TB000105",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/bactericida-fort-air-1l-talco-10769",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10766",
+      "title": "COLETOR P/ LIMPEZA AC 9-12 AZUL",
+      "brand": "CLIMA SOFT",
+      "brandCode": "810",
+      "supplier": "C. A. S. DOS SANTOS GODOI",
+      "supplierCode": "4072",
+      "manufacturerCode": "CPLAC91BS",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/coletor-p-limpeza-ac-912-azul-10766",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10767",
+      "title": "LIMPA ALUMINIO POLISH D+ 1L",
+      "brand": "CLIMA SOFT",
+      "brandCode": "810",
+      "supplier": "C. A. S. DOS SANTOS GODOI",
+      "supplierCode": "4072",
+      "manufacturerCode": "4433D+",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/limpa-aluminio-polish-d-1l-10767",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10775",
+      "title": "LIMPEZA AR COND. 9-12 BTUS BOLSA COLE",
+      "brand": "CLIMA SOFT",
+      "brandCode": "810",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10775",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/limpeza-ar-cond-912-btus-bolsa-cole-10775",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "10768",
+      "title": "PULVERIZADOR MANUAL 2L PALISAD",
+      "brand": "CLIMA SOFT",
+      "brandCode": "810",
+      "supplier": "C. A. S. DOS SANTOS GODOI",
+      "supplierCode": "4072",
+      "manufacturerCode": "647388",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulverizador-manual-2l-palisad-10768",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--810--clima-soft"
+  }
+}

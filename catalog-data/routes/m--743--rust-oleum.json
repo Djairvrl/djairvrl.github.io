@@ -1,0 +1,36 @@
+{
+  "title": "RUST OLEUM",
+  "parentLabel": "Marca",
+  "description": "Produtos RUST OLEUM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RUST OLEUM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10025",
+      "title": "TINTA SPRAY ANTIFERRUGEM 395ML COR BRONZE LATÃO ANTIGO  RUST OLEUM REF 272055",
+      "brand": "RUST OLEUM",
+      "brandCode": "743",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "272055",
+      "category": "INIBIDOR DE FERRUGEM",
+      "categorySlug": "inibidor-de-ferrugem",
+      "path": "/tinta-spray-antiferrugem-395ml-cor-bronze-latao-antigo-rust-oleum-ref-272055-10025",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--743--rust-oleum"
+  }
+}

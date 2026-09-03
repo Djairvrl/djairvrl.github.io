@@ -1,0 +1,36 @@
+{
+  "title": "QUALITY FIX",
+  "parentLabel": "Marca",
+  "description": "Produtos QUALITY FIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "QUALITY FIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7101",
+      "title": "PEGA TUBO HORIZONTAL ABERT.50 MM -6 TON",
+      "brand": "QUALITY FIX",
+      "brandCode": "417",
+      "supplier": "QUALITY FIX DO BRASIL, INDUSTRIA, COMERCIO, IMP E EXP LTDA",
+      "supplierCode": "1506",
+      "manufacturerCode": "PT-TPH-06,0T-50",
+      "category": "PEGA",
+      "categorySlug": "pega",
+      "path": "/pega-tubo-horizontal-abert50-mm-6-ton-7101",
+      "image": "/products/images/0071/7101.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--417--quality-fix"
+  }
+}

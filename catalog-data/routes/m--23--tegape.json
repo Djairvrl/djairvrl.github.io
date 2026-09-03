@@ -1,0 +1,53 @@
+{
+  "title": "TEGAPE",
+  "parentLabel": "Marca",
+  "description": "Produtos TEGAPE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TEGAPE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6121",
+      "title": "TELA DE PROTECAO  GUARDA - CORPO",
+      "brand": "TEGAPE",
+      "brandCode": "23",
+      "supplier": "TEGAPE IMP E COM DE TEC TECNICOS LTDA",
+      "supplierCode": "267",
+      "manufacturerCode": "005088",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-de-protecao-guarda--corpo-6121",
+      "image": "/products/images/0061/6121.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "1164",
+      "title": "TELA TAPUME LARANJA 1,20X50M EM PEAD - TEGAPE TELAS",
+      "brand": "TEGAPE",
+      "brandCode": "23",
+      "supplier": "TEGAPE IMP E COM DE TEC TECNICOS LTDA",
+      "supplierCode": "267",
+      "manufacturerCode": "006443",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-tapume-laranja-120x50m-em-pead--tegape-telas-1164",
+      "image": "/products/images/0011/1164.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--23--tegape"
+  }
+}

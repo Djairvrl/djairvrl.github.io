@@ -1,0 +1,104 @@
+{
+  "title": "VOLVO",
+  "parentLabel": "Marca",
+  "description": "Produtos VOLVO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VOLVO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12889",
+      "title": "FILTRO COMBUSTIVEL SEPARADOR DE AGUA",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "21746575",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-combustivel-separador-de-agua-12889",
+      "image": "/products/images/0128/12889.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12888",
+      "title": "FILTRO DE AR VOLVO PENTA",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "21377909",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-ar-volvo-penta-12888",
+      "image": "/products/images/0128/12888.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12892",
+      "title": "FILTRO DE OLEO GENUINO/ORIGINAL",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "23958454",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-oleo-genuinooriginal-12892",
+      "image": "/products/images/0128/12892.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12893",
+      "title": "FILTRO DE OLEO GENUINO/ORIGINAL",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "23958454",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-oleo-genuinooriginal-12893",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12891",
+      "title": "FILTRO SEPARADOR DE AGUA DE COMBUSTIVEL",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "21538975",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-separador-de-agua-de-combustivel-12891",
+      "image": "/products/images/0128/12891.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--1151--volvo"
+  }
+}

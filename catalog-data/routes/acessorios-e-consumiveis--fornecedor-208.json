@@ -1,0 +1,1391 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Produtos de DORMER PRAMET SOLUCOES PARA USINAGEM neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "208",
+    "name": "DORMER PRAMET SOLUCOES PARA USINAGEM"
+  },
+  "products": [
+    {
+      "code": "928",
+      "title": "BROCA AÇO RÁPIDO HSS 10,5MM HASTE PARALELA A1114 DORMER REF A11410.5B",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A11410.5B",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-aco-rapido-hss-105mm-haste-paralela-a1114-dormer-ref-a114105b-928",
+      "image": "/products/images/0009/928.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "883",
+      "title": "BROCA AÇO RÁPIDO HSS 10MM DIN338 A114 - DORMER A11410.0B",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A11410.0B",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-aco-rapido-hss-10mm-din338-a114--dormer-a114100b-883",
+      "image": "/products/images/0008/883.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "885",
+      "title": "BROCA AÇO RÁPIDO HSS 6,5MM DIN338 A114 - DORMER A1146.5B",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A1146.5B",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-aco-rapido-hss-65mm-din338-a114--dormer-a11465b-885",
+      "image": "/products/images/0008/885.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "930",
+      "title": "BROCA AÇO RÁPIDO HSS 7MM HASTE PARALELA A1114 DORMER REF A1147.0B",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A1147.0B",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-aco-rapido-hss-7mm-haste-paralela-a1114-dormer-ref-a11470b-930",
+      "image": "/products/images/0009/930.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "931",
+      "title": "BROCA AÇO RÁPIDO HSS 9MM HASTE PARALELA A1114 DORMER REF A1149.0B",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A1149.0B",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-aco-rapido-hss-9mm-haste-paralela-a1114-dormer-ref-a11490b-931",
+      "image": "/products/images/0009/931.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7363",
+      "title": "BROCA DE AÇO RÁPIDO HSS TIN 10MM - DORMER A00210.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A00210.0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hss-tin-10mm--dormer-a002100-7363",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7364",
+      "title": "BROCA DE AÇO RÁPIDO HSS TIN 11MM - DORMER A00211.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A00211.0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hss-tin-11mm--dormer-a002110-7364",
+      "image": "/products/images/0073/7364.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7365",
+      "title": "BROCA DE AÇO RÁPIDO HSS TIN 12MM - DORMER A00212.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A00212.0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hss-tin-12mm--dormer-a002120-7365",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7366",
+      "title": "BROCA DE AÇO RÁPIDO HSS TIN 13MM - DORMER A00213.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A00213.0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hss-tin-13mm--dormer-a002130-7366",
+      "image": "/products/images/0073/7366.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7361",
+      "title": "BROCA DE AÇO RÁPIDO HSS TIN 6,0MM - DORMER A0026.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A0026.0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hss-tin-60mm--dormer-a00260-7361",
+      "image": "/products/images/0073/7361.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7362",
+      "title": "BROCA DE AÇO RÁPIDO HSS TIN 8,0MM - DORMER A0028.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A0028.0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hss-tin-80mm--dormer-a00280-7362",
+      "image": "/products/images/0073/7362.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7536",
+      "title": "BROCA DIN1897 18,0MM A120",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A12018,0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-din1897-180mm-a120-7536",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7535",
+      "title": "BROCA DIN34514,5MM A130",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A13014,5",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-din345145mm-a130-7535",
+      "image": "/products/images/0075/7535.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7532",
+      "title": "BROCA HASTE REDUZIDA_A170",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A17018.5",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-haste-reduzidaa170-7532",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "608",
+      "title": "BROCA HSS 12MM HASTE PARALELA A1114 DORMER REF A11412.0B",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A11412.0B",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-12mm-haste-paralela-a1114-dormer-ref-a114120b-608",
+      "image": "/products/images/0006/608.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "881",
+      "title": "BROCA SDS PLUS 6X160MM PARA CONCRETO -  DORMER  REF A8066.0X160B",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A8066.0X160B",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-sds-plus-6x160mm-para-concreto--dormer-ref-a80660x160b-881",
+      "image": "/products/images/0008/881.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7533",
+      "title": "BROCADIN 34518,5MM A130",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A13018,5",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/brocadin-345185mm-a130-7533",
+      "image": "/products/images/0075/7533.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7534",
+      "title": "BROCADIN34520,0MM A130",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "A13020,0",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/brocadin345200mm-a130-7534",
+      "image": "/products/images/0075/7534.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7139",
+      "title": "COSSINETE HSS ISO 2568 M6",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "F100M6",
+      "category": "COSSINETE",
+      "categorySlug": "cossinete",
+      "path": "/cossinete-hss-iso-2568-m6-7139",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7138",
+      "title": "COSSINETE M4 ISO 2568 HSS - 6G 1.75XP",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "F100M4",
+      "category": "COSSINETE",
+      "categorySlug": "cossinete",
+      "path": "/cossinete-m4-iso-2568-hss--6g-175xp-7138",
+      "image": "/products/images/0071/7138.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7360",
+      "title": "JOGO DE LIMAS ROTATIVAS 5 PEÇAS - DORMER P88001",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P88001",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/jogo-de-limas-rotativas-5-pecas--dormer-p88001-7360",
+      "image": "/products/images/0073/7360.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13022",
+      "title": "JOGO DE MACHO C 2 PECAS M12X1,75MM",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "E100M12NO9",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/jogo-de-macho-c-2-pecas-m12x175mm-13022",
+      "image": "/products/images/0130/13022.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13016",
+      "title": "JOGO DE MACHO C 2 PEÇAS M20X1,5",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "E105M20X1,5",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/jogo-de-macho-c-2-pecas-m20x15-13016",
+      "image": "/products/images/0130/13016.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13017",
+      "title": "JOGO DE MACHO C 3 PEÇAS M6X1MM",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "E100M6NO8",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/jogo-de-macho-c-3-pecas-m6x1mm-13017",
+      "image": "/products/images/0130/13017.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7359",
+      "title": "LIMA ROTATIVA CILINDRICA ARVORE ARREDONDADA 12,7 X 6,0MM - DORMER P81112.7X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P81112.7X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-arvore-arredondada-127-x-60mm--dormer-p811127x60-7359",
+      "image": "/products/images/0073/7359.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7356",
+      "title": "LIMA ROTATIVA CILINDRICA ARVORE ARREDONDADA 6,0 X 6,0MM - DORMER P8116.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8116.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-arvore-arredondada-60-x-60mm--dormer-p81160x60-7356",
+      "image": "/products/images/0073/7356.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7357",
+      "title": "LIMA ROTATIVA CILINDRICA ARVORE ARREDONDADA 8,0 X 6,0MM - DORMER P8118.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8118.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-arvore-arredondada-80-x-60mm--dormer-p81180x60-7357",
+      "image": "/products/images/0073/7357.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7358",
+      "title": "LIMA ROTATIVA CILINDRICA ARVORE ARREDONDADA 9,6 X 6,0MM - DORMER P8119.6X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8119.6X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-arvore-arredondada-96-x-60mm--dormer-p81196x60-7358",
+      "image": "/products/images/0073/7358.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7351",
+      "title": "LIMA ROTATIVA CILINDRICA COM CORTE NO TOPO 12,7 X 6,0MM - DORMER P80312.7X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P80312.7X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-corte-no-topo-127-x-60mm--dormer-p803127x60-7351",
+      "image": "/products/images/0073/7351.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7348",
+      "title": "LIMA ROTATIVA CILINDRICA COM CORTE NO TOPO 6,0 X 6,0MM - DORMER P8036.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8036.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-corte-no-topo-60-x-60mm--dormer-p80360x60-7348",
+      "image": "/products/images/0073/7348.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7349",
+      "title": "LIMA ROTATIVA CILINDRICA COM CORTE NO TOPO 8,0 X 6,0MM - DORMER P8038.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8038.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-corte-no-topo-80-x-60mm--dormer-p80380x60-7349",
+      "image": "/products/images/0073/7349.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7350",
+      "title": "LIMA ROTATIVA CILINDRICA COM CORTE NO TOPO 9,6 X 6,0MM - DORMER P8039.6X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8039.6X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-corte-no-topo-96-x-60mm--dormer-p80396x60-7350",
+      "image": "/products/images/0073/7350.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7355",
+      "title": "LIMA ROTATIVA CILINDRICA COM TOPO ESFÉRICO 12,7 X 6,0MM - DORMER P80512.7X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P80512.7X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-topo-esferico-127-x-60mm--dormer-p805127x60-7355",
+      "image": "/products/images/0073/7355.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7352",
+      "title": "LIMA ROTATIVA CILINDRICA COM TOPO ESFÉRICO 6,0 X 6,0MM - DORMER P8056.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8056.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-topo-esferico-60-x-60mm--dormer-p80560x60-7352",
+      "image": "/products/images/0073/7352.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7353",
+      "title": "LIMA ROTATIVA CILINDRICA COM TOPO ESFÉRICO 8,0 X 6,0MM - DORMER P8058.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8058.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-topo-esferico-80-x-60mm--dormer-p80580x60-7353",
+      "image": "/products/images/0073/7353.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7354",
+      "title": "LIMA ROTATIVA CILINDRICA COM TOPO ESFÉRICO 9,6 X 6,0MM - DORMER P8059.6X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8059.6X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-com-topo-esferico-96-x-60mm--dormer-p80596x60-7354",
+      "image": "/products/images/0073/7354.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7343",
+      "title": "LIMA ROTATIVA CILINDRICA SEM CORTE NO TOPO  6 X 6MM - DORMER P8016.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8016.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-sem-corte-no-topo-6-x-6mm--dormer-p80160x60-7343",
+      "image": "/products/images/0073/7343.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7344",
+      "title": "LIMA ROTATIVA CILINDRICA SEM CORTE NO TOPO  8 X 6MM - DORMER P8018.0X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8018.0X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-sem-corte-no-topo-8-x-6mm--dormer-p80180x60-7344",
+      "image": "/products/images/0073/7344.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7347",
+      "title": "LIMA ROTATIVA CILINDRICA SEM CORTE NO TOPO 12,7 X 6MM - DORMER P80112.7X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P80112.7X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-sem-corte-no-topo-127-x-6mm--dormer-p801127x60-7347",
+      "image": "/products/images/0073/7347.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7346",
+      "title": "LIMA ROTATIVA CILINDRICA SEM CORTE NO TOPO 9,6 X 6MM - DORMER P8019.6X6.0",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "P8019.6X6.0",
+      "category": "LIMA ROTATIVA",
+      "categorySlug": "lima-rotativa",
+      "path": "/lima-rotativa-cilindrica-sem-corte-no-topo-96-x-6mm--dormer-p80196x60-7346",
+      "image": "/products/images/0073/7346.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13201",
+      "title": "MACHO DE MAQUINA M8 E556 DORMER",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "E556M8",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-de-maquina-m8-e556-dormer-13201",
+      "image": "/products/images/0132/13201.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13023",
+      "title": "MACHO DE MÁQUINA 8MMX1,25",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "E556M81",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-de-maquina-8mmx125-13023",
+      "image": "/products/images/0130/13023.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7530",
+      "title": "MACHO MAQUINA M16X1,5",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "EP11M16X1,5",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-maquina-m16x15-7530",
+      "image": "/products/images/0075/7530.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7531",
+      "title": "MACHO MAQUINA M20X1,5",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "EP11M20X1,5",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-maquina-m20x15-7531",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 44,
+    "pageBase": "acessorios-e-consumiveis--fornecedor-208"
+  }
+}

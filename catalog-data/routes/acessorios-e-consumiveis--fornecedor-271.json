@@ -1,0 +1,949 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FORCE LINE IND. COM. COMP. ELETRON. LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "271",
+    "name": "FORCE LINE IND. COM. COMP. ELETRON. LTDA"
+  },
+  "products": [
+    {
+      "code": "12902",
+      "title": "ABRACADEIRA NYLON 4,8X200MM PT 100PCS",
+      "brand": "FORCE LINE",
+      "brandCode": "503",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "7899018418661",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-nylon-48x200mm-pt-100pcs-12902",
+      "image": "/products/images/0129/12902.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "7569",
+      "title": "ABRAÇADEIRA DE NYLON 2,5 X 200MM PRETO 100 UND - FORCELINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500005",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-25-x-200mm-preto-100-und--forceline-7569",
+      "image": "/products/images/0075/7569.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "7558",
+      "title": "ABRAÇADEIRA DE NYLON 3,6 X 300MM PRETO 100 UND - FORCELINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500011",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-36-x-300mm-preto-100-und--forceline-7558",
+      "image": "/products/images/0075/7558.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "6920",
+      "title": "ABRAÇADEIRA DE NYLON 4,8MM X 280MM PRETA 100 PC - FORCELINE 0600500015",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500015",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-48mm-x-280mm-preta-100-pc--forceline-0600500015-6920",
+      "image": "/products/images/0069/6920.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3839",
+      "title": "ABRAÇADEIRAS DE NYLON 4,8X400MM PRETA 100PCS - FORCE LINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500017",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeiras-de-nylon-48x400mm-preta-100pcs--force-line-3839",
+      "image": "/products/images/0038/3839.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "5299",
+      "title": "BENJAMIN NORMATIZADO BIPOLAR 10A 250V BRANCO - FORCELINE 0180100015",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0180100015",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/benjamin-normatizado-bipolar-10a-250v-branco--forceline-0180100015-5299",
+      "image": "/products/images/0052/5299.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3540",
+      "title": "CANALETA PLAST 20X10X0,6MM 2M C/ADESIVO",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600100047",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/canaleta-plast-20x10x06mm-2m-cadesivo-3540",
+      "image": "/products/images/0035/3540.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3541",
+      "title": "COTOVELO 90° PARA CANALETA",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600100049",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/cotovelo-90-para-canaleta-3541",
+      "image": "/products/images/0035/3541.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3530",
+      "title": "EXTENSAO C/TERRA 3TOMA 3X0,75MM2 3M PT",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0180200093",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-cterra-3toma-3x075mm2-3m-pt-3530",
+      "image": "/products/images/0035/3530.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3529",
+      "title": "EXTENSAO C/TERRA 3TOMA 3X0,75MM2 5M PT",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0180200094",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-cterra-3toma-3x075mm2-5m-pt-3529",
+      "image": "/products/images/0035/3529.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "961",
+      "title": "EXTENSÃO COM CARRETEL 30M 20A 3X2,5M² PROFISSIONAL FORCELINE 181200014",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "181200014",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-com-carretel-30m-20a-3x25m2-profissional-forceline-181200014-961",
+      "image": "/products/images/0009/961.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "962",
+      "title": "EXTENSÃO COM CARRETEL 3T 20M 20A 3 X 2,5MM² - FORCELINE 181200013",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0181200013",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-com-carretel-3t-20m-20a-3-x-25mm2--forceline-181200013-962",
+      "image": "/products/images/0009/962.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "5741",
+      "title": "EXTENSÃO COM CARRETEL 5T  30M 10A 3 X 1MM²  - FORCELINE 0181200019",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0181200019",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-com-carretel-5t-30m-10a-3-x-1mm2--forceline-0181200019-5741",
+      "image": "/products/images/0057/5741.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3531",
+      "title": "EXTENSÃO TRIPOLAR 3 TOMADAS 10A 3X0,75MM² 10M PRETA - FORCELINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0180200095V",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-tripolar-3-tomadas-10a-3x075mm2-10m-preta--forceline-3531",
+      "image": "/products/images/0035/3531.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7657",
+      "title": "EXTENSÃO TRIPOLAR SLIM 3 TOMADAS 3 METROS 10A - FORCELINE 0180200253",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0180200253",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-tripolar-slim-3-tomadas-3-metros-10a--forceline-0180200253-7657",
+      "image": "/products/images/0076/7657.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3534",
+      "title": "PINO MULTIPLICADOR TIPO BENJAMIN 3 TOMADAS 10A 250V BIVOLT BRANCO - FORCELINE 0180100004",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0180100041",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/pino-multiplicador-tipo-benjamin-3-tomadas-10a-250v-bivolt-branco--forceline-0180100004-3534",
+      "image": "/products/images/0035/3534.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3526",
+      "title": "PROTETOR/ADAP 5 TOM 6M BIV PLAST PT",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "7203",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/protetoradap-5-tom-6m-biv-plast-pt-3526",
+      "image": "/products/images/0035/3526.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3527",
+      "title": "PROTETOR/ADAP 6 TOM 3M BIV PLAST PT",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "7208",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/protetoradap-6-tom-3m-biv-plast-pt-3527",
+      "image": "/products/images/0035/3527.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 18,
+    "pageBase": "acessorios-e-consumiveis--fornecedor-271"
+  }
+}

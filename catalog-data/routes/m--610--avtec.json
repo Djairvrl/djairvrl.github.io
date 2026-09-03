@@ -1,0 +1,36 @@
+{
+  "title": "AVTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos AVTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AVTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8686",
+      "title": "BANDEJA COLETORA DE OLEO 10L",
+      "brand": "AVTEC",
+      "brandCode": "610",
+      "supplier": "AVTEC EQUIPAMENTOS OFF ROAD LTDA",
+      "supplierCode": "2174",
+      "manufacturerCode": "00551",
+      "category": "BANDEJAS E COLETORAS",
+      "categorySlug": "bandejas-e-coletoras",
+      "path": "/bandeja-coletora-de-oleo-10l-8686",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--610--avtec"
+  }
+}

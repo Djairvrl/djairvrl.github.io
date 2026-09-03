@@ -1,0 +1,53 @@
+{
+  "title": "SBP",
+  "parentLabel": "Marca",
+  "description": "Produtos SBP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SBP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13270",
+      "title": "INSETICIDA AEROSSOL SBP/BAYGON",
+      "brand": "SBP",
+      "brandCode": "484",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "00000000000",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/inseticida-aerossol-sbpbaygon-13270",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7510",
+      "title": "INSETICIDA SBP 380 ML EUCALIPTO",
+      "brand": "SBP",
+      "brandCode": "484",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "206558",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/inseticida-sbp-380-ml-eucalipto-7510",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--484--sbp"
+  }
+}

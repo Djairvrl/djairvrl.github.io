@@ -1,0 +1,36 @@
+{
+  "title": "PILAR",
+  "parentLabel": "Marca",
+  "description": "Produtos PILAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PILAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11489",
+      "title": "PAPELAO ONDULADO 1,20M X 30M",
+      "brand": "PILAR",
+      "brandCode": "946",
+      "supplier": "ELASTOBOR BORRACHAS E PLASTICOS LTDA",
+      "supplierCode": "2776",
+      "manufacturerCode": "7530MT",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/papelao-ondulado-120m-x-30m-11489",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--946--pilar"
+  }
+}

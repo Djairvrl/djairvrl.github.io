@@ -1,0 +1,163 @@
+{
+  "title": "CHAVES ELÉTRICAS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria chaves elétricas em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CHAVES ELÉTRICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11106",
+      "title": "CHAVE FUSIVEL 15KV 100-300A TP PORC",
+      "brand": null,
+      "brandCode": "517",
+      "supplier": "EUREKA IMPORTACOES LTDA",
+      "supplierCode": "4527",
+      "manufacturerCode": "EUREKA-0587",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-fusivel-15kv-100300a-tp-porc-11106",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13318",
+      "title": "CHAVE REVERSORA S/0 3P 10A C.OVERLAP WS3",
+      "brand": "SEMITRANS",
+      "brandCode": "1224",
+      "supplier": "JER - COMANDO E AUTOMACAO LTDA",
+      "supplierCode": "2298",
+      "manufacturerCode": "WS310EZ11",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-reversora-s0-3p-10a-coverlap-ws3-13318",
+      "image": "/products/images/0133/13318.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7937",
+      "title": "CHAVE ROTATIVA SELET LW26-20 3 POSI 20A",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "14",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-rotativa-selet-lw2620-3-posi-20a-7937",
+      "image": "/products/images/0079/7937.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13387",
+      "title": "CHAVE SECC UNIP POLIM 36KV 630A CSDUVP 2",
+      "brand": "MAURIZIO",
+      "brandCode": "1235",
+      "supplier": "MAURIZIO & CIA LTDA",
+      "supplierCode": "6268",
+      "manufacturerCode": "MSDB362807E",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-secc-unip-polim-36kv-630a-csduvp-2-13387",
+      "image": "/products/images/0133/13387.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8679",
+      "title": "CHAVE SECCIONADORA",
+      "brand": "MAURIZIO & CIA",
+      "brandCode": "607",
+      "supplier": "MAURIZIO & CIA LTDA",
+      "supplierCode": "2172",
+      "manufacturerCode": "MSDD362807A",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-seccionadora-8679",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10145",
+      "title": "COMUTADOR KNOB CT 2POS PT 22MM 1NA+1NF",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "EFICIENTE COMERCIO E SERVICO LTDA",
+      "supplierCode": "2616",
+      "manufacturerCode": "39547",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/comutador-knob-ct-2pos-pt-22mm-1na1nf-10145",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12041",
+      "title": "PAINEL ATS 250A 380V TRIFÁSICO HGM420",
+      "brand": "TOYAMA",
+      "brandCode": "549",
+      "supplier": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "supplierCode": "1909",
+      "manufacturerCode": "257-022",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/painel-ats-250a-380v-trifasico-hgm420-12041",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9626",
+      "title": "PAR CHAVES MC4 CONEXAO E DESCONEXAO PAINEL SOLAR FOTOVOLTAICO  NELSTAR SOLAR",
+      "brand": "NELSTAR SOLAR",
+      "brandCode": "717",
+      "supplier": "SNETEC LTDA",
+      "supplierCode": "2646",
+      "manufacturerCode": "CHAVE-MC4- AZUL",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/par-chaves-mc4-conexao-e-desconexao-painel-solar-fotovoltaico-nelstar-solar-9626",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--chaves-eletricas"
+  }
+}

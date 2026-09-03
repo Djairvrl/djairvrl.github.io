@@ -1,0 +1,163 @@
+{
+  "title": "MALETAS E ARMÁRIOS",
+  "parentLabel": "Resgate e Salvamento",
+  "description": "Produtos da categoria maletas e armários em resgate e salvamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Resgate e Salvamento",
+      "to": "/epis-e-epcs/resgate-e-salvamento"
+    },
+    {
+      "label": "MALETAS E ARMÁRIOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7979",
+      "title": "ARMARIO VITRINE 1 PORTA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DEPOSITO DO MEDICO COMERCIO DE MATERIAIS HOSPITALARES LTDA",
+      "supplierCode": "1894",
+      "manufacturerCode": "1017",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/armario-vitrine-1-porta-7979",
+      "image": "/products/images/0079/7979.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "739",
+      "title": "ARMÁRIO DE PAREDE PRIMEIROS SOCORROS 400X600X125MM PRESTO - REF 4004",
+      "brand": "PRESTO",
+      "brandCode": "46",
+      "supplier": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "supplierCode": "83",
+      "manufacturerCode": "40004",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/armario-de-parede-primeiros-socorros-400x600x125mm-presto--ref-4004-739",
+      "image": "/products/images/0007/739.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "8193",
+      "title": "ARMÁRIO VITRINE 2 PORTAS - SPMED",
+      "brand": "SPMED",
+      "brandCode": "614",
+      "supplier": "FLAVIA DE SA SOARES LIMA",
+      "supplierCode": "2190",
+      "manufacturerCode": "SPC-1005",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/armario-vitrine-2-portas--spmed-8193",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12111",
+      "title": "ESTOJO MALETA ORGAN EMIFRAN 270 BRANC",
+      "brand": "EMIFRAN",
+      "brandCode": "1036",
+      "supplier": "MNI ARTIGOS PARA PESCA E CAMPING LTDA",
+      "supplierCode": "5534",
+      "manufacturerCode": "7897381000230",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/estojo-maleta-organ-emifran-270-branc-12111",
+      "image": "/products/images/0121/12111.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "3884",
+      "title": "MALETA DE PRIMEIROS SOCORROS M 535",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JOSE CLAUDIO DA SILVA",
+      "supplierCode": "1569",
+      "manufacturerCode": "5500",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/maleta-de-primeiros-socorros-m-535-3884",
+      "image": "/products/images/0038/3884.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "11768",
+      "title": "MALETA DE PRIMEIROS SOCORROS VAZIA",
+      "brand": "SS RESGATES",
+      "brandCode": "684",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "74855",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/maleta-de-primeiros-socorros-vazia-11768",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "4273",
+      "title": "MALETA PARAMOUNT P/ SOCORROS P 534",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7898943560605",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/maleta-paramount-p-socorros-p-534-4273",
+      "image": "/products/images/0042/4273.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "10471",
+      "title": "MALETA PRIMEIROS SOCORROS M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DROGARIA UNIÃO LTDA",
+      "supplierCode": "761",
+      "manufacturerCode": "65033",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/maleta-primeiros-socorros-m-10471",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "epis-e-epcs--resgate-e-salvamento--maletas-e-armarios"
+  }
+}

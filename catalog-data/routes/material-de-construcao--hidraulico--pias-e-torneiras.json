@@ -1,0 +1,61 @@
+{
+  "title": "PIAS E TORNEIRAS",
+  "parentLabel": "Hidraulico",
+  "description": "Produtos da categoria pias e torneiras em hidraulico.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Hidraulico",
+      "to": "/material-de-construcao/hidraulico"
+    },
+    {
+      "label": "PIAS E TORNEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1255",
+      "title": "CUBA EMBUTIDA OVAL 490X325",
+      "brand": "CELITE",
+      "brandCode": "94",
+      "supplier": "ROCA SANITARIOS BRASIL LTDA",
+      "supplierCode": "225",
+      "manufacturerCode": "1761170017300",
+      "category": "PIAS E TORNEIRAS",
+      "categorySlug": "pias-e-torneiras",
+      "path": "/cuba-embutida-oval-490x325-1255",
+      "image": "/products/images/0012/1255.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "11418",
+      "title": "TORNEIRA AUTOMÁTICA C/ SENSOR INFRAV",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SAMOGIN OLIVEIRA INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4953",
+      "manufacturerCode": "TS100I",
+      "category": "PIAS E TORNEIRAS",
+      "categorySlug": "pias-e-torneiras",
+      "path": "/torneira-automatica-c-sensor-infrav-11418",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "material-de-construcao--hidraulico--pias-e-torneiras"
+  }
+}

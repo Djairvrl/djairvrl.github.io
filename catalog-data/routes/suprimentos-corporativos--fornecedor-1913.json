@@ -1,0 +1,1150 @@
+{
+  "title": "Suprimentos Corporativos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de COMERCIAL GALVAO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Informática e Telecomunicação",
+      "slug": "informatica-e-telecomunicacao",
+      "path": "/suprimentos-corporativos/informatica-e-telecomunicacao",
+      "count": 416,
+      "categories": [
+        {
+          "name": "ACESSÓRIO",
+          "slug": "acessorio",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorio",
+          "count": 21
+        },
+        {
+          "name": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+          "slug": "acessorios-para-transporte-e-protecao",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorios-para-transporte-e-protecao",
+          "count": 16
+        },
+        {
+          "name": "ADAPTADORES",
+          "slug": "adaptadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/adaptadores",
+          "count": 4
+        },
+        {
+          "name": "CABOS",
+          "slug": "cabos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cabos",
+          "count": 40
+        },
+        {
+          "name": "CAIXAS DE SOM",
+          "slug": "caixas-de-som",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/caixas-de-som",
+          "count": 3
+        },
+        {
+          "name": "COMPUTADORES",
+          "slug": "computadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/computadores",
+          "count": 3
+        },
+        {
+          "name": "CONTROLE DE ACESSO",
+          "slug": "controle-de-acesso",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/controle-de-acesso",
+          "count": 6
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cameras",
+          "count": 22
+        },
+        {
+          "name": "DATACENTERS",
+          "slug": "datacenters",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/datacenters",
+          "count": 1
+        },
+        {
+          "name": "DISPOSITIVOS  DE ARMAZENAMENTO",
+          "slug": "dispositivos-de-armazenamento",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/dispositivos-de-armazenamento",
+          "count": 14
+        },
+        {
+          "name": "ERGONOMIA",
+          "slug": "ergonomia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/ergonomia",
+          "count": 15
+        },
+        {
+          "name": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+          "slug": "estabilizadores-filtros-de-l-e-nobreak",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estabilizadores-filtros-de-l-e-nobreak",
+          "count": 20
+        },
+        {
+          "name": "ESTAÇÕES DE RETRABALHO BGA",
+          "slug": "estacoes-de-retrabalho-bga",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estacoes-de-retrabalho-bga",
+          "count": 2
+        },
+        {
+          "name": "FRAGMENTADORAS",
+          "slug": "fragmentadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/fragmentadoras",
+          "count": 1
+        },
+        {
+          "name": "IMPRESSORAS",
+          "slug": "impressoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/impressoras",
+          "count": 21
+        },
+        {
+          "name": "INFRAESTRUTURA DE REDE",
+          "slug": "infraestrutura-de-rede",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/infraestrutura-de-rede",
+          "count": 51
+        },
+        {
+          "name": "INSUMOS",
+          "slug": "insumos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/insumos",
+          "count": 26
+        },
+        {
+          "name": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+          "slug": "manutencao-tecnica-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/manutencao-tecnica-de-informatica",
+          "count": 11
+        },
+        {
+          "name": "MONITORES",
+          "slug": "monitores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/monitores",
+          "count": 13
+        },
+        {
+          "name": "NOTEBOOKS",
+          "slug": "notebooks",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/notebooks",
+          "count": 1
+        },
+        {
+          "name": "PERIFÉRICOS DE INFORMÁTICA",
+          "slug": "perifericos-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/perifericos-de-informatica",
+          "count": 32
+        },
+        {
+          "name": "PILHAS E BATERIAS",
+          "slug": "pilhas-e-baterias",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/pilhas-e-baterias",
+          "count": 32
+        },
+        {
+          "name": "PLACAS DE VIDEO",
+          "slug": "placas-de-video",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/placas-de-video",
+          "count": 1
+        },
+        {
+          "name": "PLASTIFICADORAS",
+          "slug": "plastificadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/plastificadoras",
+          "count": 9
+        },
+        {
+          "name": "RADIOCOMUNICADORES",
+          "slug": "radiocomunicadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/radiocomunicadores",
+          "count": 7
+        },
+        {
+          "name": "ROTULADORES",
+          "slug": "rotuladores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/rotuladores",
+          "count": 9
+        },
+        {
+          "name": "SOFTWARES",
+          "slug": "softwares",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/softwares",
+          "count": 1
+        },
+        {
+          "name": "TABLETS E SMARTPHONES",
+          "slug": "tablets-e-smartphones",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tablets-e-smartphones",
+          "count": 5
+        },
+        {
+          "name": "TESTADORES DE REDE E TELEFONIA",
+          "slug": "testadores-de-rede-e-telefonia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/testadores-de-rede-e-telefonia",
+          "count": 4
+        },
+        {
+          "name": "TVs",
+          "slug": "tvs",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tvs",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "name": "Redes e Telefonia",
+      "slug": "redes-e-telefonia",
+      "path": "/suprimentos-corporativos/redes-e-telefonia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Áudio, Vídeo e Reunião",
+      "slug": "audio-video-e-reuniao",
+      "path": "/suprimentos-corporativos/audio-video-e-reuniao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Climatização",
+      "slug": "climatizacao",
+      "path": "/suprimentos-corporativos/climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Eletrodomésticos",
+      "slug": "eletrodomesticos",
+      "path": "/suprimentos-corporativos/eletrodomesticos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Cópia, Digitalização e Impressão",
+      "slug": "copia-digitalizacao-e-impressao",
+      "path": "/suprimentos-corporativos/copia-digitalizacao-e-impressao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Mobiliário e Ergonomia",
+      "slug": "mobiliario-e-ergonomia",
+      "path": "/suprimentos-corporativos/mobiliario-e-ergonomia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Embalagens e Expedição",
+      "slug": "embalagens-e-expedicao",
+      "path": "/suprimentos-corporativos/embalagens-e-expedicao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Papelaria e Escritório",
+      "slug": "papelaria-e-escritorio",
+      "path": "/suprimentos-corporativos/papelaria-e-escritorio",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Uniformes e Têxteis Profissionais",
+      "slug": "uniformes-e-texteis-profissionais",
+      "path": "/suprimentos-corporativos/uniformes-e-texteis-profissionais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartáveis e Itens para Copa",
+      "slug": "descartaveis-e-itens-para-copa",
+      "path": "/suprimentos-corporativos/descartaveis-e-itens-para-copa",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Limpeza e Sanitização",
+      "slug": "limpeza-e-sanitizacao",
+      "path": "/suprimentos-corporativos/limpeza-e-sanitizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Higiene Pessoal e Banheiro",
+      "slug": "higiene-pessoal-e-banheiro",
+      "path": "/suprimentos-corporativos/higiene-pessoal-e-banheiro",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Marketing e Brindes",
+      "slug": "marketing-e-brindes",
+      "path": "/suprimentos-corporativos/marketing-e-brindes",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartaveis E Utensilios",
+      "slug": "descartaveis-e-utensilios",
+      "path": "/suprimentos-corporativos/descartaveis-e-utensilios",
+      "count": 2,
+      "categories": [
+        {
+          "name": "DIVEROS",
+          "slug": "diveros",
+          "path": "/suprimentos-corporativos/descartaveis-e-utensilios/diveros",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Informatica E Eletronicos",
+      "slug": "informatica-e-eletronicos",
+      "path": "/suprimentos-corporativos/informatica-e-eletronicos",
+      "count": 7,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/suprimentos-corporativos/informatica-e-eletronicos/acessorios",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Máquinas E Implementos",
+      "slug": "maquinas-e-implementos",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos",
+      "count": 4,
+      "categories": [
+        {
+          "name": "CONTAINERS",
+          "slug": "containers",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/containers",
+          "count": 2
+        },
+        {
+          "name": "IMPLEMENTOS INDUSTRIAIS",
+          "slug": "implementos-industriais",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/implementos-industriais",
+          "count": 1
+        },
+        {
+          "name": "MÁQUINAS PESADAS",
+          "slug": "maquinas-pesadas",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/maquinas-pesadas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Suprimentos Indiretos",
+      "slug": "suprimentos-indiretos",
+      "path": "/suprimentos-corporativos/suprimentos-indiretos",
+      "count": 1262,
+      "categories": [
+        {
+          "name": "ALIMENTOS E BEBIDAS",
+          "slug": "alimentos-e-bebidas",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/alimentos-e-bebidas",
+          "count": 83
+        },
+        {
+          "name": "AUTOMOTIVOS",
+          "slug": "automotivos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/automotivos",
+          "count": 21
+        },
+        {
+          "name": "BRINDES CORPORATIVOS",
+          "slug": "brindes-corporativos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/brindes-corporativos",
+          "count": 34
+        },
+        {
+          "name": "DECORAÇÃO E INFRAESTRUTURA",
+          "slug": "decoracao-e-infraestrutura",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/decoracao-e-infraestrutura",
+          "count": 34
+        },
+        {
+          "name": "DESCARTAVEIS E UTENSILIOS",
+          "slug": "descartaveis-e-utensilios",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/descartaveis-e-utensilios",
+          "count": 136
+        },
+        {
+          "name": "ELETRODOMÉSTICOS",
+          "slug": "eletrodomesticos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/eletrodomesticos",
+          "count": 139
+        },
+        {
+          "name": "HIGIENE E LIMPEZA",
+          "slug": "higiene-e-limpeza",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/higiene-e-limpeza",
+          "count": 288
+        },
+        {
+          "name": "MOBILIÁRIO CORPORATIVO",
+          "slug": "mobiliario-corporativo",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/mobiliario-corporativo",
+          "count": 113
+        },
+        {
+          "name": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+          "slug": "papelaria-e-material-de-escritorio",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/papelaria-e-material-de-escritorio",
+          "count": 412
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1913",
+    "name": "COMERCIAL GALVAO LTDA"
+  },
+  "products": [
+    {
+      "code": "7519",
+      "title": "ACUCAR NECTAR 1KG",
+      "brand": "NECTAR",
+      "brandCode": "493",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10812",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-nectar-1kg-7519",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9413",
+      "title": "ADOCANTE LINEA 75ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10928",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adocante-linea-75ml-9413",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9510",
+      "title": "ADOCANTE LINEA STEVIA 60ML LIQUIDO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14721",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adocante-linea-stevia-60ml-liquido-9510",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10849",
+      "title": "ALCOOL LIQUIDO SANTA CRUZ 70 1LT",
+      "brand": "SANTA CRUZ",
+      "brandCode": "821",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "16295",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/alcool-liquido-santa-cruz-70-1lt-10849",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11945",
+      "title": "AZEITE ANDORINHA 250ML EXT VIRG",
+      "brand": "ANDORINHA",
+      "brandCode": "1008",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "014051",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/azeite-andorinha-250ml-ext-virg-11945",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11203",
+      "title": "AZEITE GALLO EXT VIRGEM VD 250ML",
+      "brand": "GALLO",
+      "brandCode": "903",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "012787",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/azeite-gallo-ext-virgem-vd-250ml-11203",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11946",
+      "title": "CAFE MARATA 250G MOIDO",
+      "brand": "MARATA",
+      "brandCode": "1009",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "010001",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/cafe-marata-250g-moido-11946",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9506",
+      "title": "CAFE S C EXTRA FORT 250G",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14644",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/cafe-s-c-extra-fort-250g-9506",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8320",
+      "title": "CAFE SANTA CLARA 250G",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "12676",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/cafe-santa-clara-250g-8320",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12759",
+      "title": "DESINFETANTE PINHO SOL 500ML ORIGINAL",
+      "brand": "PINHO SOL",
+      "brandCode": "1130",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "011474",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/desinfetante-pinho-sol-500ml-original-12759",
+      "image": "/products/images/0127/12759.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8140",
+      "title": "DESUMIDIFICADOR SECAR 180G KIDS",
+      "brand": "SECAR",
+      "brandCode": "568",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "13553",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/desumidificador-secar-180g-kids-8140",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10838",
+      "title": "DET PO ALA SACHET 400G ERVA DOCE E BIC",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "12113",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/det-po-ala-sachet-400g-erva-doce-e-bic-10838",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10833",
+      "title": "ESPONJA BRILHUS MULTIUSO L4P3",
+      "brand": "BRILHUS",
+      "brandCode": "515",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10923",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/esponja-brilhus-multiuso-l4p3-10833",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12352",
+      "title": "FAR MAND QUENTINHA 1KG FINA AMAR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "012639",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/far-mand-quentinha-1kg-fina-amar-12352",
+      "image": "/products/images/0123/12352.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9277",
+      "title": "LA DE ACO ASSOLAN FILME 8UND 45G ORG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10746",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/la-de-aco-assolan-filme-8und-45g-org-9277",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9278",
+      "title": "LAVA LOUCA 500ML NEUTRO",
+      "brand": "LIMPOL",
+      "brandCode": "452",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "11240",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/lava-louca-500ml-neutro-9278",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8933",
+      "title": "LEITE EM PO 200GR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10024",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/leite-em-po-200gr-8933",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11985",
+      "title": "LEITE PO AURORA 200G INTEG",
+      "brand": "AURORA",
+      "brandCode": "856",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "013390",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/leite-po-aurora-200g-integ-11985",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10832",
+      "title": "MIX6 PRO PATO PASTILHA ADESIVAC/3 CITRU",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10094",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix6-pro-pato-pastilha-adesivac3-citru-10832",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10848",
+      "title": "MIX6 PRO PATO PASTILHA ADESIVAC/3 FLORAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "16183",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix6-pro-pato-pastilha-adesivac3-floral-10848",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10845",
+      "title": "MIX6 PRO PATO PASTILHA ADESIVAC/3 LAVAND",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "13337",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix6-pro-pato-pastilha-adesivac3-lavand-10845",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11809",
+      "title": "MOLHO REGINA 150ML PIMENTA",
+      "brand": "REGINA",
+      "brandCode": "987",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "011653",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/molho-regina-150ml-pimenta-11809",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11353",
+      "title": "MOLHO SADIO 150ML PIMENTA EXTRA FORTE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "013753",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/molho-sadio-150ml-pimenta-extra-forte-11353",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12354",
+      "title": "MOLHO SADIO 150ML PIMENTA EXTRA FORTE",
+      "brand": "SADIO",
+      "brandCode": "1069",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "013753",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/molho-sadio-150ml-pimenta-extra-forte-12354",
+      "image": "/products/images/0123/12354.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10839",
+      "title": "NAFTALINA 30G DETERLIMP/DESOFLOR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "12497",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/naftalina-30g-deterlimpdesoflor-10839",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10835",
+      "title": "PANO DE CHAO CONDOR MICROFIBRA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "011037",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pano-de-chao-condor-microfibra-10835",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9280",
+      "title": "PANO EAKLIN MULTIUSO C/ 25UND",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14692",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pano-eaklin-multiuso-c-25und-9280",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9670",
+      "title": "PAPEL HIGIENICO VELUD FOLHA DUPLA 4X30M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10387",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/papel-higienico-velud-folha-dupla-4x30m-9670",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9671",
+      "title": "PAPEL TOALHA RESERVA ECCO 700 FOLHAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14504",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/papel-toalha-reserva-ecco-700-folhas-9671",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9673",
+      "title": "PAPEL TOALHA RESERVA SOF 20X20,5 C/1000F",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "15932",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/papel-toalha-reserva-sof-20x205-c1000f-9673",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9672",
+      "title": "PAPEL TOALHA RESERVA SOFT 700 FOLHAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14505",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/papel-toalha-reserva-soft-700-folhas-9672",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10865",
+      "title": "PATO PAST ADES C/3UN GAME DAS FRUTAS",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "16622",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pato-past-ades-c3un-game-das-frutas-10865",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10850",
+      "title": "PATO PASTILHA ADESIVA C/ 3 UND DES FLORE",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "16621",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pato-pastilha-adesiva-c-3-und-des-flore-10850",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11932",
+      "title": "PILHA DURACELL ALCALINA AA4",
+      "brand": "DURACELL",
+      "brandCode": "974",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "016894",
+      "category": "PILHAS E BATERIAS",
+      "categorySlug": "pilhas-e-baterias",
+      "path": "/pilha-duracell-alcalina-aa4-11932",
+      "image": "/products/images/0119/11932.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11933",
+      "title": "PILHA DURACELL ALCALINA AAA4",
+      "brand": "DURACELL",
+      "brandCode": "974",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "016331",
+      "category": "PILHAS E BATERIAS",
+      "categorySlug": "pilhas-e-baterias",
+      "path": "/pilha-duracell-alcalina-aaa4-11933",
+      "image": "/products/images/0119/11933.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12353",
+      "title": "PRATO FONPLAST 18CM",
+      "brand": "FONPLAST",
+      "brandCode": "1068",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "018250",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/prato-fonplast-18cm-12353",
+      "image": "/products/images/0123/12353.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10847",
+      "title": "SABAO EM BARRA 900G YPE NEUTRO",
+      "brand": "YPE",
+      "brandCode": "478",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14298",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/sabao-em-barra-900g-ype-neutro-10847",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10968",
+      "title": "SABAO GUARANI GLICERINADO NEUTRO 180G",
+      "brand": "GUARANI",
+      "brandCode": "489",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "011835",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/sabao-guarani-glicerinado-neutro-180g-10968",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12761",
+      "title": "SACO LIXO 30L QUALINE PT C/10",
+      "brand": "QUALINE",
+      "brandCode": "1132",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "012535",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/saco-lixo-30l-qualine-pt-c10-12761",
+      "image": "/products/images/0127/12761.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11354",
+      "title": "SAL MARLIN 1KG REFINADO",
+      "brand": "MARLIN",
+      "brandCode": "925",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "010893",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/sal-marlin-1kg-refinado-11354",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11808",
+      "title": "SAL NEVADO 1KG MOIDO",
+      "brand": "NEVADO",
+      "brandCode": "986",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "010894",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/sal-nevado-1kg-moido-11808",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10837",
+      "title": "VASSOURA LINEA BELLA C/ CABO DESACOPLADO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "11687",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/vassoura-linea-bella-c-cabo-desacoplado-10837",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9279",
+      "title": "VEJA M USO 500ML C/10% DESC. ORIG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "11648",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/veja-m-uso-500ml-c10-desc-orig-9279",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 43,
+    "pageBase": "suprimentos-corporativos--fornecedor-1913"
+  }
+}

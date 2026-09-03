@@ -1,0 +1,55 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos de LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1349",
+    "name": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA"
+  },
+  "products": [
+    {
+      "code": "6786",
+      "title": "TECFIL PSL 962 FILTRO LUBRIFICANTE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA",
+      "supplierCode": "1349",
+      "manufacturerCode": "6263260",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/tecfil-psl-962-filtro-lubrificante-6786",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "uso-especifico--fornecedor-1349"
+  }
+}

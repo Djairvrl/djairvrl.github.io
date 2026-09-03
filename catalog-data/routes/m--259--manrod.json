@@ -1,0 +1,36 @@
+{
+  "title": "MANROD",
+  "parentLabel": "Marca",
+  "description": "Produtos MANROD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MANROD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10555",
+      "title": "FURADEIRA FRESAD MR-199 220V MONOFASICA",
+      "brand": "MANROD",
+      "brandCode": "259",
+      "supplier": "SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.",
+      "supplierCode": "1539",
+      "manufacturerCode": "306958",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-fresad-mr199-220v-monofasica-10555",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--259--manrod"
+  }
+}

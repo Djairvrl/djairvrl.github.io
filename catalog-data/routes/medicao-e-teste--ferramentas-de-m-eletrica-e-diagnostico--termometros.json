@@ -1,0 +1,163 @@
+{
+  "title": "TERMÔMETROS",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria termômetros em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "TERMÔMETROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13131",
+      "title": "TERMOMETRO DIGITAL ESPETO -10 A +200°C M",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "C F HEINZEN",
+      "supplierCode": "2160",
+      "manufacturerCode": "MV363A",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-digital-espeto-10-a-200c-m-13131",
+      "image": "/products/images/0131/13131.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11132",
+      "title": "TERMOMETRO DIGITAL INFRAVERMELHO",
+      "brand": "TECHLINE",
+      "brandCode": "888",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "103998",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-digital-infravermelho-11132",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12601",
+      "title": "TERMOMETRO INFRAV -32 A 650°C",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4241021",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-infrav-32-a-650c-12601",
+      "image": "/products/images/0126/12601.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12973",
+      "title": "TERMOMETRO PETR/BIO -10+50°C 0,5°C LIQ",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
+      "supplierCode": "5560",
+      "manufacturerCode": "518215",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-petrbio-1050c-05c-liq-12973",
+      "image": "/products/images/0129/12973.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11889",
+      "title": "TERMOVISOR PORTATIL TIS75 9HZ+FOCO MANUA",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "ANTONIA DE PAULA COMETTI 13941575848",
+      "supplierCode": "116",
+      "manufacturerCode": "5160037",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termovisor-portatil-tis75-9hzfoco-manua-11889",
+      "image": "/products/images/0118/11889.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "1162",
+      "title": "TERMÔMETRO INFRAVERMELHO  -30 °C A 500 °C 62 MAX ESPR - FLUKE 4241017",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4241017",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-infravermelho-30-c-a-500-c-62-max-espr--fluke-4241017-1162",
+      "image": "/products/images/0011/1162.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "6507",
+      "title": "TERROMETRO DIGITAL TM-25R C/IMP",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "04988",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/terrometro-digital-tm25r-cimp-6507",
+      "image": "/products/images/0065/6507.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8976",
+      "title": "TERROMETRO DIGITAL TM25T",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "08695",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/terrometro-digital-tm25t-8976",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--termometros"
+  }
+}

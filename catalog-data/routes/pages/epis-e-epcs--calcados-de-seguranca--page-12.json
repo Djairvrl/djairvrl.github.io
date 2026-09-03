@@ -1,0 +1,73 @@
+{
+  "page": 12,
+  "products": [
+    {
+      "code": "9895",
+      "title": "TÊNIS LINHA FLEX CLEAN TAMANHO 42 CA 48714 MARLUVAS REF 103FCLEAN PR FV",
+      "brand": "MARLUVAS",
+      "brandCode": "8",
+      "supplier": "MARLUVAS EQUIPAMENTOS DE SEGURANÇA LTDA",
+      "supplierCode": "742",
+      "manufacturerCode": "7893963138049",
+      "category": "OCUPACIONAL",
+      "categorySlug": "ocupacional",
+      "path": "/tenis-linha-flex-clean-tamanho-42-ca-48714-marluvas-ref-103fclean-pr-fv-9895",
+      "image": "/products/images/0098/9895.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    },
+    {
+      "code": "9896",
+      "title": "TÊNIS LINHA FLEX CLEAN TAMANHO 43 CA 48714 MARLUVAS REF 103FCLEAN PR FV",
+      "brand": "MARLUVAS",
+      "brandCode": "8",
+      "supplier": "MARLUVAS EQUIPAMENTOS DE SEGURANÇA LTDA",
+      "supplierCode": "742",
+      "manufacturerCode": "7893963138063",
+      "category": "OCUPACIONAL",
+      "categorySlug": "ocupacional",
+      "path": "/tenis-linha-flex-clean-tamanho-43-ca-48714-marluvas-ref-103fclean-pr-fv-9896",
+      "image": "/products/images/0098/9896.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    },
+    {
+      "code": "9897",
+      "title": "TÊNIS LINHA FLEX CLEAN TAMANHO 44/45 CA 48714 MARLUVAS REF 103FCLEAN PR FV",
+      "brand": "MARLUVAS",
+      "brandCode": "8",
+      "supplier": "MARLUVAS EQUIPAMENTOS DE SEGURANÇA LTDA",
+      "supplierCode": "742",
+      "manufacturerCode": "7893963138087",
+      "category": "OCUPACIONAL",
+      "categorySlug": "ocupacional",
+      "path": "/tenis-linha-flex-clean-tamanho-4445-ca-48714-marluvas-ref-103fclean-pr-fv-9897",
+      "image": "/products/images/0098/9897.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    },
+    {
+      "code": "9898",
+      "title": "TÊNIS LINHA FLEX CLEAN TAMANHO 46/47 CA 48714 MARLUVAS REF 103FCLEAN PR FV",
+      "brand": "MARLUVAS",
+      "brandCode": "8",
+      "supplier": "MARLUVAS EQUIPAMENTOS DE SEGURANÇA LTDA",
+      "supplierCode": "742",
+      "manufacturerCode": "7893963138094",
+      "category": "OCUPACIONAL",
+      "categorySlug": "ocupacional",
+      "path": "/tenis-linha-flex-clean-tamanho-4647-ca-48714-marluvas-ref-103fclean-pr-fv-9898",
+      "image": "/products/images/0098/9898.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    }
+  ]
+}

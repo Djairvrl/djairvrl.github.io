@@ -1,0 +1,53 @@
+{
+  "title": "BOVENAU",
+  "parentLabel": "Marca",
+  "description": "Produtos BOVENAU disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BOVENAU"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10697",
+      "title": "EMPILHADEIRA ELETRICA 1500KG 3M 12V/120A",
+      "brand": "BOVENAU",
+      "brandCode": "800",
+      "supplier": "METAL TECNICA BOVENAU LTDA",
+      "supplierCode": "1177",
+      "manufacturerCode": "EHM1530SE",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/empilhadeira-eletrica-1500kg-3m-12v120a-10697",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11961",
+      "title": "GUINCHO HIDRÁULICO, 0,5 TONELADA(0,5 TF)",
+      "brand": "BOVENAU",
+      "brandCode": "800",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6170000500",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/guincho-hidraulico-05-tonelada05-tf-11961",
+      "image": "/products/images/0119/11961.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--800--bovenau"
+  }
+}

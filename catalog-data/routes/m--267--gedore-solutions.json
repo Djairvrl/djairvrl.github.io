@@ -1,0 +1,70 @@
+{
+  "title": "GEDORE SOLUTIONS",
+  "parentLabel": "Marca",
+  "description": "Produtos GEDORE SOLUTIONS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GEDORE SOLUTIONS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6822",
+      "title": "TORQUEADEIRA A BATERIA 500-4000NM LDA-40",
+      "brand": "GEDORE SOLUTIONS",
+      "brandCode": "267",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "053476",
+      "category": "TORQUEADEIRAS",
+      "categorySlug": "torqueadeiras",
+      "path": "/torqueadeira-a-bateria-5004000nm-lda40-6822",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6821",
+      "title": "TORQUEADEIRA A BATERIA 900-8000NM LDA-80",
+      "brand": "GEDORE SOLUTIONS",
+      "brandCode": "267",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "053484",
+      "category": "TORQUEADEIRAS",
+      "categorySlug": "torqueadeiras",
+      "path": "/torqueadeira-a-bateria-9008000nm-lda80-6821",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6795",
+      "title": "TORQUEADEIRA BAT. 3200 NM LDA-32",
+      "brand": "GEDORE SOLUTIONS",
+      "brandCode": "267",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "053882",
+      "category": "TORQUEADEIRAS",
+      "categorySlug": "torqueadeiras",
+      "path": "/torqueadeira-bat-3200-nm-lda32-6795",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--267--gedore-solutions"
+  }
+}

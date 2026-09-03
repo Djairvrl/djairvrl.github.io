@@ -1,0 +1,44 @@
+{
+  "title": "MALHA DE AÇO",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria malha de aço em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "MALHA DE AÇO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1569",
+      "title": "LUVA GLADIADOR G AZUL CA 8082",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA36105  WG AZ",
+      "category": "MALHA DE AÇO",
+      "categorySlug": "malha-de-aco",
+      "path": "/luva-gladiador-g-azul-ca-8082-1569",
+      "image": "/products/images/0015/1569.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--malha-de-aco"
+  }
+}

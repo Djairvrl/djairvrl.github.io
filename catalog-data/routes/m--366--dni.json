@@ -1,0 +1,70 @@
+{
+  "title": "DNI",
+  "parentLabel": "Marca",
+  "description": "Produtos DNI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DNI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6876",
+      "title": "FUSIVEL DIAZED GL/GG RETARDADO 6A 500V",
+      "brand": "DNI",
+      "brandCode": "366",
+      "supplier": "RODRIGO APARECIDO DE SOUSA 16252210889",
+      "supplierCode": "1412",
+      "manufacturerCode": "DZ6ARET",
+      "category": "FUSÍVEIS",
+      "categorySlug": "fusiveis",
+      "path": "/fusivel-diazed-glgg-retardado-6a-500v-6876",
+      "image": "/products/images/0068/6876.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "6868",
+      "title": "RELE AUX 4T 12V 40A C/SUP",
+      "brand": "DNI",
+      "brandCode": "366",
+      "supplier": "D. LAMP COMERCIO DE AUTO PECAS LTDA",
+      "supplierCode": "1407",
+      "manufacturerCode": "DNI0102",
+      "category": "RELÉS",
+      "categorySlug": "reles",
+      "path": "/rele-aux-4t-12v-40a-csup-6868",
+      "image": "/products/images/0068/6868.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12664",
+      "title": "SIRENE DE RE BIVOLT 120DB C/ REDUCAO PRO",
+      "brand": "DNI",
+      "brandCode": "366",
+      "supplier": "SNAP COMERCIO E DISTRIBUIDORA DE PRODUTOS ELETRONICOS LTDA",
+      "supplierCode": "5851",
+      "manufacturerCode": "DNIU155R",
+      "category": "CAMPAINHAS E SIRENES",
+      "categorySlug": "campainhas-e-sirenes",
+      "path": "/sirene-de-re-bivolt-120db-c-reducao-pro-12664",
+      "image": "/products/images/0126/12664.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--366--dni"
+  }
+}

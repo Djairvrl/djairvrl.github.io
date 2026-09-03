@@ -1,0 +1,104 @@
+{
+  "title": "ECOBIN",
+  "parentLabel": "Marca",
+  "description": "Produtos ECOBIN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ECOBIN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8216",
+      "title": "LIXEIRA C TAMPA PEDAL 30X40 ACO INOX 30L",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATLASER COMERCIO E INDUSTRIA LTDA",
+      "supplierCode": "1959",
+      "manufacturerCode": "LP-006",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-c-tampa-pedal-30x40-aco-inox-30l-8216",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7378",
+      "title": "LIXEIRA EM AÇO INOX 30 X 40CM COM TAMPA E PEDAL 30 LITROS - ECOBIN LP-006",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-006",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-em-aco-inox-30-x-40cm-com-tampa-e-pedal-30-litros--ecobin-lp006-7378",
+      "image": "/products/images/0073/7378.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7379",
+      "title": "LIXEIRA EM AÇO INOX COLETORA DE PILHAS E BATERIAS 24 X 50CM  25 LITROS - ECOBIN LPB-004",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LPB-004",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-em-aco-inox-coletora-de-pilhas-e-baterias-24-x-50cm-25-litros--ecobin-lpb004-7379",
+      "image": "/products/images/0073/7379.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "8171",
+      "title": "LIXEIRA MIX 3 DIV 30X40 ACO INOX 430 30L",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATLASER COMERCIO E INDUSTRIA LTDA",
+      "supplierCode": "1959",
+      "manufacturerCode": "LAMIX-008",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-mix-3-div-30x40-aco-inox-430-30l-8171",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "8215",
+      "title": "LIXEIRA MIX COM 2 DIVISÕES EM AÇO INOX 430 30 LITROS - PLÁSTICO E PAPEL",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LAMIX-008-1",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-mix-com-2-divisoes-em-aco-inox-430-30-litros--plastico-e-papel-8215",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--576--ecobin"
+  }
+}

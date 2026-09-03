@@ -1,0 +1,36 @@
+{
+  "title": "DEUBLIN",
+  "parentLabel": "Marca",
+  "description": "Produtos DEUBLIN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DEUBLIN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9471",
+      "title": "JUNTA ROTATIVA ELECTRICA SR0417",
+      "brand": "DEUBLIN",
+      "brandCode": "687",
+      "supplier": "DEUBLIN BRASIL JUNTAS ROTATIVAS DE PRECISAO LTDA",
+      "supplierCode": "2575",
+      "manufacturerCode": "SR0417 BR",
+      "category": "ANÉIS DESLIZANTES E ESCOVAS",
+      "categorySlug": "aneis-deslizantes-e-escovas",
+      "path": "/junta-rotativa-electrica-sr0417-9471",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--687--deublin"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IBOA",
+  "parentLabel": "Marca",
+  "description": "Produtos IBOA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IBOA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12662",
+      "title": "BINOCULO 20X50 LONGO ALCANCE 10KM VERDE",
+      "brand": "IBOA",
+      "brandCode": "1111",
+      "supplier": "GB COMERCIO DE PRESENTES LTDA",
+      "supplierCode": "5843",
+      "manufacturerCode": "A1093-VERDE",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-20x50-longo-alcance-10km-verde-12662",
+      "image": "/products/images/0126/12662.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1111--iboa"
+  }
+}

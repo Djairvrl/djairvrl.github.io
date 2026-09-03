@@ -1,0 +1,56 @@
+{
+  "page": 5,
+  "products": [
+    {
+      "code": "3163",
+      "title": "JOGO DE BROCAS PARA METAL HSS-G 1-13MM - 25 PEÇAS - BOSCH 2608587017",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608587017000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/jogo-de-brocas-para-metal-hssg-113mm--25-pecas--bosch-2608587017-3163",
+      "image": "/products/images/0031/3163.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8614",
+      "title": "JOGO DE BROCAS SDS-PLUS P/METAL MAD-5PCS",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "B-57532",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/jogo-de-brocas-sdsplus-pmetal-mad5pcs-8614",
+      "image": "/products/images/0086/8614.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8415",
+      "title": "KIT DE BROCAS CT CONCRETO 5 PCS",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "D-05175",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/kit-de-brocas-ct-concreto-5-pcs-8415",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ]
+}

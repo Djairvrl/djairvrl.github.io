@@ -1,0 +1,129 @@
+{
+  "title": "CILINDROS",
+  "parentLabel": "Componentes Hidráulicos e Refrigeração",
+  "description": "Produtos da categoria cilindros em componentes hidráulicos e refrigeração.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Hidráulicos e Refrigeração",
+      "to": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "label": "CILINDROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11689",
+      "title": "CILINDRO DE HEXAFLUORETO DE ENXOFRE 10 L",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GNS GASES E EQUIPAMENTOS LTDA",
+      "supplierCode": "5212",
+      "manufacturerCode": "CHEX10",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-de-hexafluoreto-de-enxofre-10-l-11689",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11959",
+      "title": "CILINDRO DE HEXAFLUORETO ENXOFRE 7 LITR",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GNS GASES E EQUIPAMENTOS LTDA",
+      "supplierCode": "5212",
+      "manufacturerCode": "CHEX7",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-de-hexafluoreto-enxofre-7-litr-11959",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9032",
+      "title": "CILINDRO EM ACO P NITROGENIO VAZIO 20L",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GIFEL ENGENHARIA DE INCENDIO E COMERCIO LTDA",
+      "supplierCode": "1915",
+      "manufacturerCode": "03.PA.GP020E",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-em-aco-p-nitrogenio-vazio-20l-9032",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "8036",
+      "title": "CILINDRO NITROGENIO",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GIFEL ENGENHARIA DE INCENDIO E COMERCIO LTDA",
+      "supplierCode": "1915",
+      "manufacturerCode": "03.PA.GP0040",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-nitrogenio-8036",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11824",
+      "title": "COMBO GÁS SF6 CILINDRO 10 KG",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11824",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/combo-gas-sf6-cilindro-10-kg-11824",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11690",
+      "title": "HEXAFLUORETO DE ENXOFRE 10KG",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GNS GASES E EQUIPAMENTOS LTDA",
+      "supplierCode": "5212",
+      "manufacturerCode": "HEX10",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/hexafluoreto-de-enxofre-10kg-11690",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "spare-parts-energy--componentes-hidraulicos-e-refrigeracao--cilindros"
+  }
+}

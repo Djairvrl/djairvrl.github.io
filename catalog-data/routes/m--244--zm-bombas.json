@@ -1,0 +1,70 @@
+{
+  "title": "ZM BOMBAS",
+  "parentLabel": "Marca",
+  "description": "Produtos ZM BOMBAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZM BOMBAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10963",
+      "title": "LAVADORA C/CARRINHO 3CV TRIFASICA",
+      "brand": "ZM BOMBAS",
+      "brandCode": "244",
+      "supplier": "HIDRO METALURGICA ZM LTDA",
+      "supplierCode": "1046",
+      "manufacturerCode": "5020240",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-ccarrinho-3cv-trifasica-10963",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "5383",
+      "title": "LAVADORA LR 20 MOTOR 2CV MONOF 110/220",
+      "brand": "ZM BOMBAS",
+      "brandCode": "244",
+      "supplier": "HIDRO METALURGICA ZM LTDA",
+      "supplierCode": "1046",
+      "manufacturerCode": "5020225",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-lr-20-motor-2cv-monof-110220-5383",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "5621",
+      "title": "LAVADORA LR28  2,0CV MON 220V C/CARRINHO",
+      "brand": "ZM BOMBAS",
+      "brandCode": "244",
+      "supplier": "HIDRO METALURGICA ZM LTDA",
+      "supplierCode": "1046",
+      "manufacturerCode": "5020234",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-lr28-20cv-mon-220v-ccarrinho-5621",
+      "image": "/products/images/0056/5621.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--244--zm-bombas"
+  }
+}

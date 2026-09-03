@@ -1,0 +1,36 @@
+{
+  "title": "BRASILUX",
+  "parentLabel": "Marca",
+  "description": "Produtos BRASILUX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRASILUX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10058",
+      "title": "GALVALUMI PRIMER ACABAMENTO  BRANCO 3,6LT BRASILUX",
+      "brand": "BRASILUX",
+      "brandCode": "746",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "68791",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/galvalumi-primer-acabamento-branco-36lt-brasilux-10058",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--746--brasilux"
+  }
+}

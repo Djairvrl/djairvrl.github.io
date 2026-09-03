@@ -1,0 +1,102 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de NAUTICA CATARINA ACESSORIOS NAUTICOS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "2039",
+    "name": "NAUTICA CATARINA ACESSORIOS NAUTICOS LTDA"
+  },
+  "products": [
+    {
+      "code": "8297",
+      "title": "MANTA ANTI CHAMA FIRE BLANKET",
+      "brand": "FIRE BLANKET",
+      "brandCode": "583",
+      "supplier": "NAUTICA CATARINA ACESSORIOS NAUTICOS LTDA",
+      "supplierCode": "2039",
+      "manufacturerCode": "400461",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/manta-anti-chama-fire-blanket-8297",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9362",
+      "title": "MANTA ANTI CHAMA FIRE BLANKET 1,80X1,80",
+      "brand": "FIRE BLANKET",
+      "brandCode": "583",
+      "supplier": "NAUTICA CATARINA ACESSORIOS NAUTICOS LTDA",
+      "supplierCode": "2039",
+      "manufacturerCode": "400864",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/manta-anti-chama-fire-blanket-180x180-9362",
+      "image": "/products/images/0093/9362.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "combate-a-incendio--fornecedor-2039"
+  }
+}

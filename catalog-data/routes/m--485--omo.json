@@ -1,0 +1,36 @@
+{
+  "title": "OMO",
+  "parentLabel": "Marca",
+  "description": "Produtos OMO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OMO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7511",
+      "title": "DETERGENT PO LAVAG PERF SACHE TRAD 1.6KG",
+      "brand": "OMO",
+      "brandCode": "485",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "05738",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/detergent-po-lavag-perf-sache-trad-16kg-7511",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--485--omo"
+  }
+}

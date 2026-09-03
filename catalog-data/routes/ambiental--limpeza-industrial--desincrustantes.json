@@ -1,0 +1,44 @@
+{
+  "title": "DESINCRUSTANTES",
+  "parentLabel": "Limpeza Industrial",
+  "description": "Produtos da categoria desincrustantes em limpeza industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Limpeza Industrial",
+      "to": "/ambiental/limpeza-industrial"
+    },
+    {
+      "label": "DESINCRUSTANTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11086",
+      "title": "LIMPA ALUMINIO ACIDO 5L",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "2559",
+      "category": "DESINCRUSTANTES",
+      "categorySlug": "desincrustantes",
+      "path": "/limpa-aluminio-acido-5l-11086",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ambiental--limpeza-industrial--desincrustantes"
+  }
+}

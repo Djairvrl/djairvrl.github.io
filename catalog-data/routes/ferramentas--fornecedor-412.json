@@ -1,0 +1,1670 @@
+{
+  "title": "Ferramentas",
+  "parentLabel": "Departamento",
+  "description": "Produtos de BLACK  DECKER DO BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas"
+    }
+  ],
+  "children": [
+    {
+      "name": "Ferramentas Elétricas",
+      "slug": "ferramentas-eletricas",
+      "path": "/ferramentas/ferramentas-eletricas",
+      "count": 391,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+          "slug": "acessorios-para-ferramentas-eletricas",
+          "path": "/ferramentas/ferramentas-eletricas/acessorios-para-ferramentas-eletricas",
+          "count": 16
+        },
+        {
+          "name": "AQUECEDORES INDUTIVOS",
+          "slug": "aquecedores-indutivos",
+          "path": "/ferramentas/ferramentas-eletricas/aquecedores-indutivos",
+          "count": 2
+        },
+        {
+          "name": "ASPIRADORES E EXTRATORES",
+          "slug": "aspiradores-e-extratores",
+          "path": "/ferramentas/ferramentas-eletricas/aspiradores-e-extratores",
+          "count": 1
+        },
+        {
+          "name": "BATERIA E CARREGADORES",
+          "slug": "bateria-e-carregadores",
+          "path": "/ferramentas/ferramentas-eletricas/bateria-e-carregadores",
+          "count": 75
+        },
+        {
+          "name": "CHAVES DE IMPACTO",
+          "slug": "chaves-de-impacto",
+          "path": "/ferramentas/ferramentas-eletricas/chaves-de-impacto",
+          "count": 42
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-eletricas/cortador",
+          "count": 6
+        },
+        {
+          "name": "ESMERIL DE BANCADA",
+          "slug": "esmeril-de-bancada",
+          "path": "/ferramentas/ferramentas-eletricas/esmeril-de-bancada",
+          "count": 5
+        },
+        {
+          "name": "ESMERILHADEIRA",
+          "slug": "esmerilhadeira",
+          "path": "/ferramentas/ferramentas-eletricas/esmerilhadeira",
+          "count": 40
+        },
+        {
+          "name": "FERRAMENTA DE ILUMINAÇÃO",
+          "slug": "ferramenta-de-iluminacao",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-de-iluminacao",
+          "count": 7
+        },
+        {
+          "name": "FERRAMENTA ROTATIVA",
+          "slug": "ferramenta-rotativa",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-rotativa",
+          "count": 1
+        },
+        {
+          "name": "FURADEIRA",
+          "slug": "furadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira",
+          "count": 31
+        },
+        {
+          "name": "FURADEIRA/PARAFUSADEIRA",
+          "slug": "furadeira-parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira-parafusadeira",
+          "count": 30
+        },
+        {
+          "name": "GRAVADOR",
+          "slug": "gravador",
+          "path": "/ferramentas/ferramentas-eletricas/gravador",
+          "count": 1
+        },
+        {
+          "name": "JARDINAGEM",
+          "slug": "jardinagem",
+          "path": "/ferramentas/ferramentas-eletricas/jardinagem",
+          "count": 1
+        },
+        {
+          "name": "LIXADEIRAS",
+          "slug": "lixadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/lixadeiras",
+          "count": 13
+        },
+        {
+          "name": "MARTELETES",
+          "slug": "marteletes",
+          "path": "/ferramentas/ferramentas-eletricas/marteletes",
+          "count": 8
+        },
+        {
+          "name": "MARTELOS",
+          "slug": "martelos",
+          "path": "/ferramentas/ferramentas-eletricas/martelos",
+          "count": 11
+        },
+        {
+          "name": "MICRO RETIFICA",
+          "slug": "micro-retifica",
+          "path": "/ferramentas/ferramentas-eletricas/micro-retifica",
+          "count": 3
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/ferramentas/ferramentas-eletricas/misturador",
+          "count": 1
+        },
+        {
+          "name": "MOTOSSERRA",
+          "slug": "motosserra",
+          "path": "/ferramentas/ferramentas-eletricas/motosserra",
+          "count": 1
+        },
+        {
+          "name": "PARAFUSADEIRA",
+          "slug": "parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/parafusadeira",
+          "count": 8
+        },
+        {
+          "name": "PEÇAS DE REPOSIÇÃO",
+          "slug": "pecas-de-reposicao",
+          "path": "/ferramentas/ferramentas-eletricas/pecas-de-reposicao",
+          "count": 18
+        },
+        {
+          "name": "PISTOLA CALAFETADORA",
+          "slug": "pistola-calafetadora",
+          "path": "/ferramentas/ferramentas-eletricas/pistola-calafetadora",
+          "count": 2
+        },
+        {
+          "name": "PLAINAS",
+          "slug": "plainas",
+          "path": "/ferramentas/ferramentas-eletricas/plainas",
+          "count": 3
+        },
+        {
+          "name": "PNEUMÁTICO",
+          "slug": "pneumatico",
+          "path": "/ferramentas/ferramentas-eletricas/pneumatico",
+          "count": 2
+        },
+        {
+          "name": "POLITRIZ",
+          "slug": "politriz",
+          "path": "/ferramentas/ferramentas-eletricas/politriz",
+          "count": 2
+        },
+        {
+          "name": "RETIFICA",
+          "slug": "retifica",
+          "path": "/ferramentas/ferramentas-eletricas/retifica",
+          "count": 3
+        },
+        {
+          "name": "SERRAS",
+          "slug": "serras",
+          "path": "/ferramentas/ferramentas-eletricas/serras",
+          "count": 24
+        },
+        {
+          "name": "SOPRADORES",
+          "slug": "sopradores",
+          "path": "/ferramentas/ferramentas-eletricas/sopradores",
+          "count": 21
+        },
+        {
+          "name": "SUPORTE",
+          "slug": "suporte",
+          "path": "/ferramentas/ferramentas-eletricas/suporte",
+          "count": 3
+        },
+        {
+          "name": "TESOURA",
+          "slug": "tesoura",
+          "path": "/ferramentas/ferramentas-eletricas/tesoura",
+          "count": 1
+        },
+        {
+          "name": "TORQUEADEIRAS",
+          "slug": "torqueadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/torqueadeiras",
+          "count": 4
+        },
+        {
+          "name": "TUPIAS",
+          "slug": "tupias",
+          "path": "/ferramentas/ferramentas-eletricas/tupias",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES PORTÁTEIS",
+          "slug": "ventiladores-portateis",
+          "path": "/ferramentas/ferramentas-eletricas/ventiladores-portateis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas de Jardinagem",
+      "slug": "ferramentas-de-jardinagem",
+      "path": "/ferramentas/ferramentas-de-jardinagem",
+      "count": 48,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/ferramentas/ferramentas-de-jardinagem/acessorios",
+          "count": 16
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/mangueiras",
+          "count": 5
+        },
+        {
+          "name": "PULVERIZADORES",
+          "slug": "pulverizadores",
+          "path": "/ferramentas/ferramentas-de-jardinagem/pulverizadores",
+          "count": 17
+        },
+        {
+          "name": "ROÇADEIRAS",
+          "slug": "rocadeiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/rocadeiras",
+          "count": 6
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/tesouras",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas Manuais",
+      "slug": "ferramentas-manuais",
+      "path": "/ferramentas/ferramentas-manuais",
+      "count": 1843,
+      "categories": [
+        {
+          "name": "ALICATES",
+          "slug": "alicates",
+          "path": "/ferramentas/ferramentas-manuais/alicates",
+          "count": 116
+        },
+        {
+          "name": "APLICADORES",
+          "slug": "aplicadores",
+          "path": "/ferramentas/ferramentas-manuais/aplicadores",
+          "count": 8
+        },
+        {
+          "name": "ARCOS DE SERRA",
+          "slug": "arcos-de-serra",
+          "path": "/ferramentas/ferramentas-manuais/arcos-de-serra",
+          "count": 12
+        },
+        {
+          "name": "AUTOMOTIVAS",
+          "slug": "automotivas",
+          "path": "/ferramentas/ferramentas-manuais/automotivas",
+          "count": 52
+        },
+        {
+          "name": "CAIXAS DE FERRAMENTAS",
+          "slug": "caixas-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/caixas-de-ferramentas",
+          "count": 11
+        },
+        {
+          "name": "CARRINHO",
+          "slug": "carrinho",
+          "path": "/ferramentas/ferramentas-manuais/carrinho",
+          "count": 3
+        },
+        {
+          "name": "CHAVES AXIAIS E MISTAS",
+          "slug": "chaves-axiais-e-mistas",
+          "path": "/ferramentas/ferramentas-manuais/chaves-axiais-e-mistas",
+          "count": 210
+        },
+        {
+          "name": "CHAVES RADIAIS",
+          "slug": "chaves-radiais",
+          "path": "/ferramentas/ferramentas-manuais/chaves-radiais",
+          "count": 271
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-manuais/cortador",
+          "count": 11
+        },
+        {
+          "name": "COSSINETES",
+          "slug": "cossinetes",
+          "path": "/ferramentas/ferramentas-manuais/cossinetes",
+          "count": 16
+        },
+        {
+          "name": "DESENCAPADORES",
+          "slug": "desencapadores",
+          "path": "/ferramentas/ferramentas-manuais/desencapadores",
+          "count": 3
+        },
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/ferramentas/ferramentas-manuais/diversos",
+          "count": 9
+        },
+        {
+          "name": "EXTRATORES",
+          "slug": "extratores",
+          "path": "/ferramentas/ferramentas-manuais/extratores",
+          "count": 23
+        },
+        {
+          "name": "FACA E CANIVETE",
+          "slug": "faca-e-canivete",
+          "path": "/ferramentas/ferramentas-manuais/faca-e-canivete",
+          "count": 10
+        },
+        {
+          "name": "FERRAMENTAS ISOLADAS",
+          "slug": "ferramentas-isoladas",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-isoladas",
+          "count": 192
+        },
+        {
+          "name": "FERRAMENTAS PARA TUBO",
+          "slug": "ferramentas-para-tubo",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-para-tubo",
+          "count": 20
+        },
+        {
+          "name": "FORMÕES",
+          "slug": "formoes",
+          "path": "/ferramentas/ferramentas-manuais/formoes",
+          "count": 2
+        },
+        {
+          "name": "FUNIL",
+          "slug": "funil",
+          "path": "/ferramentas/ferramentas-manuais/funil",
+          "count": 8
+        },
+        {
+          "name": "GRAMPEADOR",
+          "slug": "grampeador",
+          "path": "/ferramentas/ferramentas-manuais/grampeador",
+          "count": 6
+        },
+        {
+          "name": "GRAMPOS",
+          "slug": "grampos",
+          "path": "/ferramentas/ferramentas-manuais/grampos",
+          "count": 16
+        },
+        {
+          "name": "JOGO DE FERRAMENTAS",
+          "slug": "jogo-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/jogo-de-ferramentas",
+          "count": 18
+        },
+        {
+          "name": "LIMA",
+          "slug": "lima",
+          "path": "/ferramentas/ferramentas-manuais/lima",
+          "count": 16
+        },
+        {
+          "name": "MACHADOS E MACHADINHAS",
+          "slug": "machados-e-machadinhas",
+          "path": "/ferramentas/ferramentas-manuais/machados-e-machadinhas",
+          "count": 3
+        },
+        {
+          "name": "MARRETAS",
+          "slug": "marretas",
+          "path": "/ferramentas/ferramentas-manuais/marretas",
+          "count": 31
+        },
+        {
+          "name": "MARTELETE",
+          "slug": "martelete",
+          "path": "/ferramentas/ferramentas-manuais/martelete",
+          "count": 1
+        },
+        {
+          "name": "MARTELO",
+          "slug": "martelo",
+          "path": "/ferramentas/ferramentas-manuais/martelo",
+          "count": 50
+        },
+        {
+          "name": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+          "slug": "pistola-de-fixacao-a-polvora",
+          "path": "/ferramentas/ferramentas-manuais/pistola-de-fixacao-a-polvora",
+          "count": 3
+        },
+        {
+          "name": "PONTEIRAS",
+          "slug": "ponteiras",
+          "path": "/ferramentas/ferramentas-manuais/ponteiras",
+          "count": 1
+        },
+        {
+          "name": "PUNÇÕES",
+          "slug": "puncoes",
+          "path": "/ferramentas/ferramentas-manuais/puncoes",
+          "count": 6
+        },
+        {
+          "name": "SACA PINO",
+          "slug": "saca-pino",
+          "path": "/ferramentas/ferramentas-manuais/saca-pino",
+          "count": 1
+        },
+        {
+          "name": "SACA POLIA",
+          "slug": "saca-polia",
+          "path": "/ferramentas/ferramentas-manuais/saca-polia",
+          "count": 15
+        },
+        {
+          "name": "SERRA MANUAL",
+          "slug": "serra-manual",
+          "path": "/ferramentas/ferramentas-manuais/serra-manual",
+          "count": 4
+        },
+        {
+          "name": "SOQUETES E ACESSÓRIOS",
+          "slug": "soquetes-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/soquetes-e-acessorios",
+          "count": 517
+        },
+        {
+          "name": "TALHADEIRAS",
+          "slug": "talhadeiras",
+          "path": "/ferramentas/ferramentas-manuais/talhadeiras",
+          "count": 12
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-manuais/tesouras",
+          "count": 8
+        },
+        {
+          "name": "TORNO",
+          "slug": "torno",
+          "path": "/ferramentas/ferramentas-manuais/torno",
+          "count": 9
+        },
+        {
+          "name": "TORQUIMETROS",
+          "slug": "torquimetros",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros",
+          "count": 4
+        },
+        {
+          "name": "TORQUÊS",
+          "slug": "torques",
+          "path": "/ferramentas/ferramentas-manuais/torques",
+          "count": 5
+        },
+        {
+          "name": "TORQUÍMETROS E ACESSÓRIOS",
+          "slug": "torquimetros-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros-e-acessorios",
+          "count": 138
+        }
+      ]
+    },
+    {
+      "name": "Construção Civil",
+      "slug": "construcao-civil",
+      "path": "/ferramentas/construcao-civil",
+      "count": 275,
+      "categories": [
+        {
+          "name": "ABERTURAS",
+          "slug": "aberturas",
+          "path": "/ferramentas/construcao-civil/aberturas",
+          "count": 1
+        },
+        {
+          "name": "ALAVANCA",
+          "slug": "alavanca",
+          "path": "/ferramentas/construcao-civil/alavanca",
+          "count": 4
+        },
+        {
+          "name": "APLICADOR",
+          "slug": "aplicador",
+          "path": "/ferramentas/construcao-civil/aplicador",
+          "count": 5
+        },
+        {
+          "name": "ARAMES",
+          "slug": "arames",
+          "path": "/ferramentas/construcao-civil/arames",
+          "count": 10
+        },
+        {
+          "name": "BALDE",
+          "slug": "balde",
+          "path": "/ferramentas/construcao-civil/balde",
+          "count": 12
+        },
+        {
+          "name": "BETONEIRAS",
+          "slug": "betoneiras",
+          "path": "/ferramentas/construcao-civil/betoneiras",
+          "count": 2
+        },
+        {
+          "name": "CADEADO",
+          "slug": "cadeado",
+          "path": "/ferramentas/construcao-civil/cadeado",
+          "count": 33
+        },
+        {
+          "name": "CARRO DE MÃO, JERICA E PLATAFORMA",
+          "slug": "carro-de-mao-jerica-e-plataforma",
+          "path": "/ferramentas/construcao-civil/carro-de-mao-jerica-e-plataforma",
+          "count": 11
+        },
+        {
+          "name": "CAVADEIRA",
+          "slug": "cavadeira",
+          "path": "/ferramentas/construcao-civil/cavadeira",
+          "count": 4
+        },
+        {
+          "name": "COLHER DE PEDREIRO",
+          "slug": "colher-de-pedreiro",
+          "path": "/ferramentas/construcao-civil/colher-de-pedreiro",
+          "count": 7
+        },
+        {
+          "name": "CONCRETO E ARGAMASSA",
+          "slug": "concreto-e-argamassa",
+          "path": "/ferramentas/construcao-civil/concreto-e-argamassa",
+          "count": 1
+        },
+        {
+          "name": "CORRENTES DE USO GERAL",
+          "slug": "correntes-de-uso-geral",
+          "path": "/ferramentas/construcao-civil/correntes-de-uso-geral",
+          "count": 12
+        },
+        {
+          "name": "CORTA VERGALHÃO",
+          "slug": "corta-vergalhao",
+          "path": "/ferramentas/construcao-civil/corta-vergalhao",
+          "count": 14
+        },
+        {
+          "name": "DESEMPENADEIRAS",
+          "slug": "desempenadeiras",
+          "path": "/ferramentas/construcao-civil/desempenadeiras",
+          "count": 9
+        },
+        {
+          "name": "ENXADAS",
+          "slug": "enxadas",
+          "path": "/ferramentas/construcao-civil/enxadas",
+          "count": 6
+        },
+        {
+          "name": "ESCADAS",
+          "slug": "escadas",
+          "path": "/ferramentas/construcao-civil/escadas",
+          "count": 47
+        },
+        {
+          "name": "ESPATULAS",
+          "slug": "espatulas",
+          "path": "/ferramentas/construcao-civil/espatulas",
+          "count": 1
+        },
+        {
+          "name": "ESPAÇADOR",
+          "slug": "espacador",
+          "path": "/ferramentas/construcao-civil/espacador",
+          "count": 1
+        },
+        {
+          "name": "ESPUMA EXPANSIVA",
+          "slug": "espuma-expansiva",
+          "path": "/ferramentas/construcao-civil/espuma-expansiva",
+          "count": 4
+        },
+        {
+          "name": "FOICES",
+          "slug": "foices",
+          "path": "/ferramentas/construcao-civil/foices",
+          "count": 2
+        },
+        {
+          "name": "FURADOR E CORTADOR",
+          "slug": "furador-e-cortador",
+          "path": "/ferramentas/construcao-civil/furador-e-cortador",
+          "count": 3
+        },
+        {
+          "name": "LIMPEZA",
+          "slug": "limpeza",
+          "path": "/ferramentas/construcao-civil/limpeza",
+          "count": 1
+        },
+        {
+          "name": "LONA",
+          "slug": "lona",
+          "path": "/ferramentas/construcao-civil/lona",
+          "count": 14
+        },
+        {
+          "name": "LÁPIS",
+          "slug": "lapis",
+          "path": "/ferramentas/construcao-civil/lapis",
+          "count": 2
+        },
+        {
+          "name": "MISTURADORES",
+          "slug": "misturadores",
+          "path": "/ferramentas/construcao-civil/misturadores",
+          "count": 5
+        },
+        {
+          "name": "MÁQUINA",
+          "slug": "maquina",
+          "path": "/ferramentas/construcao-civil/maquina",
+          "count": 1
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/ferramentas/construcao-civil/outros",
+          "count": 5
+        },
+        {
+          "name": "PE-DE-CABRA",
+          "slug": "pe-de-cabra",
+          "path": "/ferramentas/construcao-civil/pe-de-cabra",
+          "count": 4
+        },
+        {
+          "name": "PICARETA",
+          "slug": "picareta",
+          "path": "/ferramentas/construcao-civil/picareta",
+          "count": 3
+        },
+        {
+          "name": "PLACA VIBRATÓRIA",
+          "slug": "placa-vibratoria",
+          "path": "/ferramentas/construcao-civil/placa-vibratoria",
+          "count": 1
+        },
+        {
+          "name": "PONTEIRA E TALHADEIRA",
+          "slug": "ponteira-e-talhadeira",
+          "path": "/ferramentas/construcao-civil/ponteira-e-talhadeira",
+          "count": 15
+        },
+        {
+          "name": "PREGO",
+          "slug": "prego",
+          "path": "/ferramentas/construcao-civil/prego",
+          "count": 5
+        },
+        {
+          "name": "PÁ",
+          "slug": "pa",
+          "path": "/ferramentas/construcao-civil/pa",
+          "count": 4
+        },
+        {
+          "name": "RASTELO",
+          "slug": "rastelo",
+          "path": "/ferramentas/construcao-civil/rastelo",
+          "count": 2
+        },
+        {
+          "name": "RÉGUA, PRUMO E LINHA",
+          "slug": "regua-prumo-e-linha",
+          "path": "/ferramentas/construcao-civil/regua-prumo-e-linha",
+          "count": 11
+        },
+        {
+          "name": "SERROTES",
+          "slug": "serrotes",
+          "path": "/ferramentas/construcao-civil/serrotes",
+          "count": 6
+        },
+        {
+          "name": "VENTOSAS",
+          "slug": "ventosas",
+          "path": "/ferramentas/construcao-civil/ventosas",
+          "count": 1
+        },
+        {
+          "name": "VIBRADORES DE CONCRETO",
+          "slug": "vibradores-de-concreto",
+          "path": "/ferramentas/construcao-civil/vibradores-de-concreto",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Lubrificação e Abastecimento",
+      "slug": "ferramentas-lubrificacao-e-abastecimento",
+      "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento",
+      "count": 44,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+          "slug": "acessorios-de-lubrificacao-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/acessorios-de-lubrificacao-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BICOS DE ABASTECIMENTO",
+          "slug": "bicos-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bicos-de-abastecimento",
+          "count": 2
+        },
+        {
+          "name": "BOMBAS DE ABASTECIMENTO",
+          "slug": "bombas-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BOMBAS DE GRAXA ELÉTRICAS",
+          "slug": "bombas-de-graxa-eletricas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-eletricas",
+          "count": 4
+        },
+        {
+          "name": "BOMBAS DE GRAXA MANUAL",
+          "slug": "bombas-de-graxa-manual",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-manual",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE GRAXA PNEUMÁTICAS",
+          "slug": "bombas-de-graxa-pneumaticas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-pneumaticas",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TRANSFERÊNCIA",
+          "slug": "bombas-de-transferencia",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-transferencia",
+          "count": 6
+        },
+        {
+          "name": "FILTROS E ELEMENTOS FILTRANTES",
+          "slug": "filtros-e-elementos-filtrantes",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/filtros-e-elementos-filtrantes",
+          "count": 1
+        },
+        {
+          "name": "LUBRIFICADORES DE ÓLEO",
+          "slug": "lubrificadores-de-oleo",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/lubrificadores-de-oleo",
+          "count": 5
+        },
+        {
+          "name": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+          "slug": "pistolas-de-lubrificacao-eletrica",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/pistolas-de-lubrificacao-eletrica",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "412",
+    "name": "BLACK  DECKER DO BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "2592",
+      "title": "ALICATE AUTOMÁTICO AJUSTÁVEL 8\" (203MM) DESENCAPADOR E CRIMPADOR DE FIOS - STANLEY 96-230",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "96-230",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-automatico-ajustavel-8-203mm-desencapador-e-crimpador-de-fios--stanley-96230-2592",
+      "image": "/products/images/0025/2592.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "287",
+      "title": "ALICATE AUTOMÁTICO, AJUSTÁVEL, DESENCAPADOR E CRIMPADOR DE FIOS 3 EM 1 STANLEY 96225",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "96225",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-automatico-ajustavel-desencapador-e-crimpador-de-fios-3-em-1-stanley-96225-287",
+      "image": "/products/images/0002/287.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2849",
+      "title": "ALICATE BOMBA D'AGUA 10'' 254MM",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "84-015",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-bomba-dagua-10-254mm-2849",
+      "image": "/products/images/0028/2849.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1545",
+      "title": "ALICATE MULTIFERRAMENTAS EM AÇO INOXIDÁVEL 16 EM 1 - STANLEY 92-841",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "92-841",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-multiferramentas-em-aco-inoxidavel-16-em-1--stanley-92841-1545",
+      "image": "/products/images/0015/1545.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1544",
+      "title": "ALICATE MULTIUSO PARA ELETRICISTA  9-1/2\"(240MM) -  STANLEY 84-223",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "84223",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-multiuso-para-eletricista-912240mm--stanley-84223-1544",
+      "image": "/products/images/0015/1544.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12834",
+      "title": "BATERIA 20V MAX 2AH LI-ION COMPACT",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB203-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-20v-max-2ah-liion-compact-12834",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6477",
+      "title": "BATERIA 20V MAX 3.0AH LI-ION - DEWALT DCB200-B3",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB200-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-20v-max-30ah-liion--dewalt-dcb200b3-6477",
+      "image": "/products/images/0064/6477.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "11856",
+      "title": "BATERIA 20V MAX 4AH XR TABLESS",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB2104-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-20v-max-4ah-xr-tabless-11856",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12835",
+      "title": "BATERIA 20V MAX 5AH LI-ION",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB205-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-20v-max-5ah-liion-12835",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2452",
+      "title": "BATERIA 20V-60V FLEXVOLT LI-ION 9.0AH",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB609-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-20v60v-flexvolt-liion-90ah-2452",
+      "image": "/products/images/0024/2452.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3861",
+      "title": "BATERIA LI-ION 20V MAX 4AH  - DEWALT  DCB204-B3",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB204-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-liion-20v-max-4ah--dewalt-dcb204b3-3861",
+      "image": "/products/images/0038/3861.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2453",
+      "title": "BATERIA LI-ION FLEXVOLT 20V/60V MAX* 6AH  - DEWALT DCB606-B3",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB606-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-liion-flexvolt-20v60v-max-6ah--dewalt-dcb606b3-2453",
+      "image": "/products/images/0024/2453.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9405",
+      "title": "BATERIA XR MAX 20V 8AH",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB208-B3",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-xr-max-20v-8ah-9405",
+      "image": "/products/images/0094/9405.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10560",
+      "title": "CAIXA DE FERRAMENT TORRE TOUGHSYSTEM 2.0",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWST60436",
+      "category": "CAIXAS DE FERRAMENTAS",
+      "categorySlug": "caixas-de-ferramentas",
+      "path": "/caixa-de-ferrament-torre-toughsystem-20-10560",
+      "image": "/products/images/0105/10560.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10513",
+      "title": "CAIXA FERRAMENTAS CONTRACTOR 113L TSTAK",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWST17871-1",
+      "category": "CAIXAS DE FERRAMENTAS",
+      "categorySlug": "caixas-de-ferramentas",
+      "path": "/caixa-ferramentas-contractor-113l-tstak-10513",
+      "image": "/products/images/0105/10513.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5700",
+      "title": "CAIXA PLÁSTICA PARA FERRAMENTAS 19\" FECHO EM METAL - STANLEY 19-013",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "19-013",
+      "category": "CAIXAS DE FERRAMENTAS",
+      "categorySlug": "caixas-de-ferramentas",
+      "path": "/caixa-plastica-para-ferramentas-19-fecho-em-metal--stanley-19013-5700",
+      "image": "/products/images/0057/5700.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7981",
+      "title": "CARREGADOR 12V-20V LI-ION 4AH BIVOLT",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB1104-BR",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-12v20v-liion-4ah-bivolt-7981",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12452",
+      "title": "CARREGADOR RAPIDO 6A 220V DCB1106-B2",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB1106-B2",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-rapido-6a-220v-dcb1106b2-12452",
+      "image": "/products/images/0124/12452.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2451",
+      "title": "CARREGADOR RÁPIDO 20V / 60V MAX* LI-ION 8AH 220V - DEWALT REF. DCB118-B2",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB118-B2",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-rapido-20v-60v-max-liion-8ah-220v--dewalt-ref-dcb118b2-2451",
+      "image": "/products/images/0024/2451.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2850",
+      "title": "CATRACA REVERSIVEL C/ CABO EMBOR 1/2''",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "STMT73984-840",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/catraca-reversivel-c-cabo-embor-12-2850",
+      "image": "/products/images/0028/2850.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12836",
+      "title": "CHAVE  IMP.1/2\"ALT.TOR Q.20V MAX C/2BAT",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCF900P2-BR",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-imp12alttor-q20v-max-c2bat-12836",
+      "image": "/products/images/0128/12836.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3702",
+      "title": "CHAVE CATRACA ARTICULADA COM 47 PEÇAS  - STANLEY REF. 68-736",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "68-736",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/chave-catraca-articulada-com-47-pecas--stanley-ref-68736-3702",
+      "image": "/products/images/0037/3702.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7980",
+      "title": "CHAVE DE APERTO CATRACA 1/2\" 20V",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCF512B-B3",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-aperto-catraca-12-20v-7980",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "591",
+      "title": "CHAVE DE IMPACTO 1/2\" (13MM) 20V MAX* ÍON DE LÍTIO COM 540NM DE TORQUE",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCF889M2-B2",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-12-13mm-20v-max-ion-de-litio-com-540nm-de-torque-591",
+      "image": "/products/images/0005/591.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "8267",
+      "title": "CHAVE DE IMPACTO 20V MAX 1/2\"",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCF892B-B3",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-20v-max-12-8267",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2450",
+      "title": "CHAVE DE IMPACTO 3/4\" 20V MAX XR BRUSHLESS 950NM SEM BATERIA E CARREGADOR - DEWALT DCF897B-B3",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCF897B-B3",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-34-20v-max-xr-brushless-950nm-sem-bateria-e-carregador--dewalt-dcf897bb3-2450",
+      "image": "/products/images/0024/2450.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "8265",
+      "title": "CHAVE DE IMPACTO 3/4'' (19 MM)",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DW294-B2",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-34-19-mm-8265",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2856",
+      "title": "CHAVE DE IMPACTO COMPACTA 1/2\" 20V MAX BRUSHLESS 406NM COM 2 BATERIAS, CARREGADOR E BOLSA - DEWALT DCF922D2-BR",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCF922D2-BR",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-compacta-12-20v-max-brushless-406nm-com-2-baterias-carregador-e-bolsa--dewalt-dcf922d2br-2856",
+      "image": "/products/images/0028/2856.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "8076",
+      "title": "COMBO CHAV CATRACA 1/2\" CARREGADOR 2 BAT",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "8076",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/combo-chav-catraca-12-carregador-2-bat-8076",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12429",
+      "title": "ESMERILHADEIRA 4 1/2-5\"20V LI-ION C/BAT",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCG413B-B2",
+      "category": "ESMERILHADEIRA",
+      "categorySlug": "esmerilhadeira",
+      "path": "/esmerilhadeira-4-12520v-liion-cbat-12429",
+      "image": "/products/images/0124/12429.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12460",
+      "title": "ESMERILHADEIRA ANGULAR 4.1/2 POL 115MM",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCG408B-B2",
+      "category": "ESMERILHADEIRA",
+      "categorySlug": "esmerilhadeira",
+      "path": "/esmerilhadeira-angular-412-pol-115mm-12460",
+      "image": "/products/images/0124/12460.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "293",
+      "title": "EXTENSÃO TELESCÓPICA COM ESPELHO STANLEY REF 78241",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "78-241",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/extensao-telescopica-com-espelho-stanley-ref-78241-293",
+      "image": "/products/images/0002/293.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2609",
+      "title": "EXTENSÃO TELESCÓPICA MAGNÉTICA 26\"(660MM) COM PONTA ARTICULADA - STANLEY REF. 78-021",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "78-021",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/extensao-telescopica-magnetica-26660mm-com-ponta-articulada--stanley-ref-78021-2609",
+      "image": "/products/images/0026/2609.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12474",
+      "title": "FURADEIRA ANGULAR 3/8\" (10MM) 20V MAX",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCD740B",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-angular-38-10mm-20v-max-12474",
+      "image": "/products/images/0124/12474.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9469",
+      "title": "FURADEIRA DE BASE MAGNÉTICA 2\" (50 MM) 1.200 W DE POTÊNCIA DEWALT REF DWE1622K-B2",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWE1622K-B2",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-de-base-magnetica-2-50-mm-1200-w-de-potencia-dewalt-ref-dwe1622kb2-9469",
+      "image": "/products/images/0094/9469.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2380",
+      "title": "FURADEIRA/PARAF IMP. S/ FIO 20V",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "STDC18LHBK-BR",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/furadeiraparaf-imp-s-fio-20v-2380",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "8266",
+      "title": "FURADEIRA/PARAFUSADEIRA 1/2\" (13MM) 20V",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCD7771D2-BR",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/furadeiraparafusadeira-12-13mm-20v-8266",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9680",
+      "title": "GRAMPO TIPO C 15CM 6\" IRWIN REF 1868215",
+      "brand": "IRWIN",
+      "brandCode": "256",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "1868215",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-tipo-c-15cm-6-irwin-ref-1868215-9680",
+      "image": "/products/images/0096/9680.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3862",
+      "title": "GRAMPOS 1/4\" - 1.000 PC",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "TRA204T",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampos-14--1000-pc-3862",
+      "image": "/products/images/0038/3862.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3859",
+      "title": "GRAMPOS 5/16\" - 1.000 PC",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "TRA205T",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampos-516--1000-pc-3859",
+      "image": "/products/images/0038/3859.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "294",
+      "title": "HASTE MAGNÉTICA FLEXÍVEL 18\" STANLEY REF 78-020",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "78-020",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/haste-magnetica-flexivel-18-stanley-ref-78020-294",
+      "image": "/products/images/0002/294.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1546",
+      "title": "JOGO DE CHAVES DE FENDAS  CUSHIONGRIP 8 PEÇAS - STANLEY STMT66675-840",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "STMT66675840",
+      "category": "FERRAMENTAS ISOLADAS",
+      "categorySlug": "ferramentas-isoladas",
+      "path": "/jogo-de-chaves-de-fendas-cushiongrip-8-pecas--stanley-stmt66675840-1546",
+      "image": "/products/images/0015/1546.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "463",
+      "title": "JOGO DE CHAVES HEXAGONAIS 1.5-10MM ABAULADAS LONGAS 9 PEÇAS STANLEY REF 69-256",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "69256",
+      "category": "CHAVES RADIAIS",
+      "categorySlug": "chaves-radiais",
+      "path": "/jogo-de-chaves-hexagonais-1510mm-abauladas-longas-9-pecas-stanley-ref-69256-463",
+      "image": "/products/images/0004/463.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3860",
+      "title": "JOGO DE CHAVES HEXAGONAIS TORX® - TIPO CANIVETE - 8 PÇS - STANLEY 69-266",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "69-266",
+      "category": "JOGO DE FERRAMENTAS",
+      "categorySlug": "jogo-de-ferramentas",
+      "path": "/jogo-de-chaves-hexagonais-torx--tipo-canivete--8-pcs--stanley-69266-3860",
+      "image": "/products/images/0038/3860.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3858",
+      "title": "JOGO SACA-PINO PARALELO 6 PECAS",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "16-226",
+      "category": "JOGO DE FERRAMENTAS",
+      "categorySlug": "jogo-de-ferramentas",
+      "path": "/jogo-sacapino-paralelo-6-pecas-3858",
+      "image": "/products/images/0038/3858.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11527",
+      "title": "KIT 02 BATERIAS 2AH 20V MAX C/CARREGADO",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCB203C2-BR",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/kit-02-baterias-2ah-20v-max-ccarregado-11527",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6735",
+      "title": "LIXADEIRA ROTO ORBITAL 5\" 20V MAX LI-ION",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCW210B",
+      "category": "LIXADEIRAS",
+      "categorySlug": "lixadeiras",
+      "path": "/lixadeira-roto-orbital-5-20v-max-liion-6735",
+      "image": "/products/images/0067/6735.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6713",
+      "title": "LIXADEIRA ROTO-ORBITAL 5'' (125 MM)",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWE6421-B2",
+      "category": "LIXADEIRAS",
+      "categorySlug": "lixadeiras",
+      "path": "/lixadeira-rotoorbital-5-125-mm-6713",
+      "image": "/products/images/0067/6713.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6499",
+      "title": "PARAFUSADEIRA/FURADEIRA DE IMPACTO 1/2\" (13MM) 20V MAX LI-ION BRUSHLESS COM BATERIA, CARREGADOR E BOLSA - DEWALT DCD7781D1-BR",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCD7781D1-BR",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/parafusadeirafuradeira-de-impacto-12-13mm-20v-max-liion-brushless-com-bateria-carregador-e-bolsa--dewalt-dcd7781d1br-6499",
+      "image": "/products/images/0064/6499.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "297",
+      "title": "PUNÇÃO DE CENTRO 4-1/2\"(114MM) STANLEY REF 16-228",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "16228",
+      "category": "PUNÇÕES",
+      "categorySlug": "puncoes",
+      "path": "/puncao-de-centro-412114mm-stanley-ref-16228-297",
+      "image": "/products/images/0002/297.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 2,
+    "total": 56,
+    "pageBase": "ferramentas--fornecedor-412"
+  }
+}

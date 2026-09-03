@@ -1,0 +1,36 @@
+{
+  "title": "SCHAEFFLER",
+  "parentLabel": "Marca",
+  "description": "Produtos SCHAEFFLER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SCHAEFFLER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11597",
+      "title": "GRAXA ARCANOL LOAD 400-25 KG T",
+      "brand": "SCHAEFFLER",
+      "brandCode": "959",
+      "supplier": "ROLESTE ROLAMENTOS LTDA",
+      "supplierCode": "5114",
+      "manufacturerCode": "00037536",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/graxa-arcanol-load-40025-kg-t-11597",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--959--schaeffler"
+  }
+}

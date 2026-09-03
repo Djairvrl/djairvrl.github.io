@@ -1,0 +1,36 @@
+{
+  "title": "STEC",
+  "parentLabel": "Marca",
+  "description": "Produtos STEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12642",
+      "title": "DESCENSOR FLOW D05 VERDE",
+      "brand": "STEC",
+      "brandCode": "1104",
+      "supplier": "F P SOLUCOES EM ALTURA LTDA",
+      "supplierCode": "5819",
+      "manufacturerCode": "D05",
+      "category": "DESCENSORES E ASCENSORES",
+      "categorySlug": "descensores-e-ascensores",
+      "path": "/descensor-flow-d05-verde-12642",
+      "image": "/products/images/0126/12642.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1104--stec"
+  }
+}

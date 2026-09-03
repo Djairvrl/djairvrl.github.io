@@ -1,0 +1,53 @@
+{
+  "title": "AMZ",
+  "parentLabel": "Marca",
+  "description": "Produtos AMZ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AMZ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6498",
+      "title": "CINTO DE SEGURANCA X-THOR PRO TM 1",
+      "brand": "AMZ",
+      "brandCode": "287",
+      "supplier": "M10 EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "1241",
+      "manufacturerCode": "RCI301",
+      "category": "CINTOS",
+      "categorySlug": "cintos",
+      "path": "/cinto-de-seguranca-xthor-pro-tm-1-6498",
+      "image": "/products/images/0064/6498.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "6497",
+      "title": "LINHA DE VIDA HORIZONTAL FLEX KEEP SAFE",
+      "brand": "AMZ",
+      "brandCode": "287",
+      "supplier": "M10 EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "1241",
+      "manufacturerCode": "RFT017",
+      "category": "ANCORAGEM",
+      "categorySlug": "ancoragem",
+      "path": "/linha-de-vida-horizontal-flex-keep-safe-6497",
+      "image": "/products/images/0064/6497.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--287--amz"
+  }
+}

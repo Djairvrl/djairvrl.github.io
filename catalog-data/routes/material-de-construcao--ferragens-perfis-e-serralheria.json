@@ -1,0 +1,22 @@
+{
+  "title": "Ferragens, Perfis e Serralheria",
+  "parentLabel": "Material de Construção",
+  "description": "Soluções de ferragens, perfis e serralheria disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Ferragens, Perfis e Serralheria"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "material-de-construcao--ferragens-perfis-e-serralheria"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "ROSCA POSTIÇA",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria rosca postiça em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "ROSCA POSTIÇA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5787",
+      "title": "KIT P/REPARO DE ROSCA POSTICA M5 X M12",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "95,0016",
+      "category": "ROSCA POSTIÇA",
+      "categorySlug": "rosca-postica",
+      "path": "/kit-preparo-de-rosca-postica-m5-x-m12-5787",
+      "image": "/products/images/0057/5787.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--rosca-postica"
+  }
+}

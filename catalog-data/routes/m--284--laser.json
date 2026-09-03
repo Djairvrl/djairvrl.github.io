@@ -1,0 +1,36 @@
+{
+  "title": "LASER",
+  "parentLabel": "Marca",
+  "description": "Produtos LASER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LASER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6433",
+      "title": "HIPSÔMETRO MEDIDOR 3D TP 360R LTB - LASER TECH",
+      "brand": "LASER",
+      "brandCode": "284",
+      "supplier": "LASER TECH BRASIL",
+      "supplierCode": "1227",
+      "manufacturerCode": "00207",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/hipsometro-medidor-3d-tp-360r-ltb--laser-tech-6433",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--284--laser"
+  }
+}

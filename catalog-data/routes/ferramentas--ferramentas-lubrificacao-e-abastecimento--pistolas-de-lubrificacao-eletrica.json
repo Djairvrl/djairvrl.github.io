@@ -1,0 +1,61 @@
+{
+  "title": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria pistolas de lubrificação elétrica em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5681",
+      "title": "PISTOLA DE GRAXA 20V 2,5AH 230V COM BATERIA E CARREGADOR TLGB 21/230V - SKF",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "36262",
+      "category": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+      "categorySlug": "pistolas-de-lubrificacao-eletrica",
+      "path": "/pistola-de-graxa-20v-25ah-230v-com-bateria-e-carregador-tlgb-21230v--skf-5681",
+      "image": "/products/images/0056/5681.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "12026",
+      "title": "TGLB 21-2 BATERIA ION LITIO 20V MP",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "36779",
+      "category": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+      "categorySlug": "pistolas-de-lubrificacao-eletrica",
+      "path": "/tglb-212-bateria-ion-litio-20v-mp-12026",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--pistolas-de-lubrificacao-eletrica"
+  }
+}

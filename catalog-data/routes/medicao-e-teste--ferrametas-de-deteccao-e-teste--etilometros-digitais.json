@@ -1,0 +1,78 @@
+{
+  "title": "ETILÔMETROS DIGITAIS",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria etilômetros digitais em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "ETILÔMETROS DIGITAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7628",
+      "title": "BOCAIS ETILOMETRO MOD.BFD-60 PCT 50 PCS",
+      "brand": "INSTRUTHERM",
+      "brandCode": "519",
+      "supplier": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1748",
+      "manufacturerCode": "06110",
+      "category": "ETILÔMETROS DIGITAIS",
+      "categorySlug": "etilometros-digitais",
+      "path": "/bocais-etilometro-modbfd60-pct-50-pcs-7628",
+      "image": "/products/images/0076/7628.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8731",
+      "title": "COMBO ETILOMETRO MOD.BFD-60 DIG PORT USB",
+      "brand": "INSTRUTHERM",
+      "brandCode": "519",
+      "supplier": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1748",
+      "manufacturerCode": "8731",
+      "category": "ETILÔMETROS DIGITAIS",
+      "categorySlug": "etilometros-digitais",
+      "path": "/combo-etilometro-modbfd60-dig-port-usb-8731",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7626",
+      "title": "ETILOMETRO MOD.BFD-60 DIG PORT C USB",
+      "brand": "INSTRUTHERM",
+      "brandCode": "519",
+      "supplier": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1748",
+      "manufacturerCode": "05612",
+      "category": "ETILÔMETROS DIGITAIS",
+      "categorySlug": "etilometros-digitais",
+      "path": "/etilometro-modbfd60-dig-port-c-usb-7626",
+      "image": "/products/images/0076/7626.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--etilometros-digitais"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "MISTURADORES",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria misturadores em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "MISTURADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12046",
+      "title": "HASTE DE INOX PARA ENCAIXE DA LAMINA",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "168349-5",
+      "category": "MISTURADORES",
+      "categorySlug": "misturadores",
+      "path": "/haste-de-inox-para-encaixe-da-lamina-12046",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8620",
+      "title": "HASTE P/ MISTURADOR DE ARGAMASSA M14",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "D-73520",
+      "category": "MISTURADORES",
+      "categorySlug": "misturadores",
+      "path": "/haste-p-misturador-de-argamassa-m14-8620",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "12044",
+      "title": "LAMINA MISTURADORA",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "A-43717",
+      "category": "MISTURADORES",
+      "categorySlug": "misturadores",
+      "path": "/lamina-misturadora-12044",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8622",
+      "title": "MISTURADOR ELETRICO 140MM 1.300W 220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "UT1400",
+      "category": "MISTURADORES",
+      "categorySlug": "misturadores",
+      "path": "/misturador-eletrico-140mm-1300w-220v-8622",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "12043",
+      "title": "MISTURADOR ELETRICO DE 120MM",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "UT1200",
+      "category": "MISTURADORES",
+      "categorySlug": "misturadores",
+      "path": "/misturador-eletrico-de-120mm-12043",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--construcao-civil--misturadores"
+  }
+}

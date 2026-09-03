@@ -1,0 +1,44 @@
+{
+  "title": "ROUTER CNC",
+  "parentLabel": "Máquinas Cnc",
+  "description": "Produtos da categoria router cnc em máquinas cnc.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Máquinas Cnc",
+      "to": "/maquinas-e-acessorios/maquinas-cnc"
+    },
+    {
+      "label": "ROUTER CNC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6949",
+      "title": "CNC ROUTER 3020 4 EIXOS 400W",
+      "brand": "ROUTER",
+      "brandCode": "390",
+      "supplier": "R B RESSUTI LTDA",
+      "supplierCode": "1428",
+      "manufacturerCode": "1027",
+      "category": "ROUTER CNC",
+      "categorySlug": "router-cnc",
+      "path": "/cnc-router-3020-4-eixos-400w-6949",
+      "image": "/products/images/0069/6949.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Máquinas Cnc",
+      "sectionSlug": "maquinas-cnc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--maquinas-cnc--router-cnc"
+  }
+}

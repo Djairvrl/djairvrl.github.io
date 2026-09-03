@@ -1,0 +1,44 @@
+{
+  "title": "ESPAÇADOR",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria espaçador em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "ESPAÇADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "474",
+      "title": "ESPACADOR P/PISO 20MM PLASTICO 200PC",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "880685",
+      "category": "ESPAÇADOR",
+      "categorySlug": "espacador",
+      "path": "/espacador-ppiso-20mm-plastico-200pc-474",
+      "image": "/products/images/0004/474.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--construcao-civil--espacador"
+  }
+}

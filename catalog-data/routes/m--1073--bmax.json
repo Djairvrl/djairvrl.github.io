@@ -1,0 +1,36 @@
+{
+  "title": "BMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos BMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12383",
+      "title": "PARAFUSADEIRA IMPAC S/FIO SOQUETES 2 BAT",
+      "brand": "BMAX",
+      "brandCode": "1073",
+      "supplier": "63.287.636 DANIEL PAES DOS SANTOS",
+      "supplierCode": "5689",
+      "manufacturerCode": "MLB5287037752",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/parafusadeira-impac-sfio-soquetes-2-bat-12383",
+      "image": "/products/images/0123/12383.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1073--bmax"
+  }
+}

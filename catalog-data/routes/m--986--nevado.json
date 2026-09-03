@@ -1,0 +1,36 @@
+{
+  "title": "NEVADO",
+  "parentLabel": "Marca",
+  "description": "Produtos NEVADO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEVADO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11808",
+      "title": "SAL NEVADO 1KG MOIDO",
+      "brand": "NEVADO",
+      "brandCode": "986",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "010894",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/sal-nevado-1kg-moido-11808",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--986--nevado"
+  }
+}

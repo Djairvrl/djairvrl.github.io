@@ -1,0 +1,36 @@
+{
+  "title": "DUMEL",
+  "parentLabel": "Marca",
+  "description": "Produtos DUMEL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DUMEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9380",
+      "title": "ACUCAR DUMEL 1KG",
+      "brand": "DUMEL",
+      "brandCode": "677",
+      "supplier": "SUPERMERCADO MEDEIROS LTDA",
+      "supplierCode": "1455",
+      "manufacturerCode": "10165",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-dumel-1kg-9380",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--677--dumel"
+  }
+}

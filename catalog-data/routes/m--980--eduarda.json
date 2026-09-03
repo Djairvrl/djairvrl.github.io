@@ -1,0 +1,36 @@
+{
+  "title": "EDUARDA",
+  "parentLabel": "Marca",
+  "description": "Produtos EDUARDA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EDUARDA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11757",
+      "title": "ATADURA DE CREPOM 10CM X 1,80M",
+      "brand": "EDUARDA",
+      "brandCode": "980",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "101620",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/atadura-de-crepom-10cm-x-180m-11757",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--980--eduarda"
+  }
+}

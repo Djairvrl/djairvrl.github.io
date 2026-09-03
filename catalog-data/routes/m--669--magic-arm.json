@@ -1,0 +1,36 @@
+{
+  "title": "MAGIC ARM",
+  "parentLabel": "Marca",
+  "description": "Produtos MAGIC ARM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAGIC ARM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9019",
+      "title": "SUPORTE BRACO ARTICULADO 11 POL 28,5CM",
+      "brand": "MAGIC ARM",
+      "brandCode": "669",
+      "supplier": "GLOSS STORE COMERCIO DE ELETRONICOS LTDA",
+      "supplierCode": "2512",
+      "manufacturerCode": "MKP21000002XCAR01XCAR11",
+      "category": "SUPORTE",
+      "categorySlug": "suporte",
+      "path": "/suporte-braco-articulado-11-pol-285cm-9019",
+      "image": "/products/images/0090/9019.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--669--magic-arm"
+  }
+}

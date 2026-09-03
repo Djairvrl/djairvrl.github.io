@@ -1,0 +1,36 @@
+{
+  "title": "DIMMER",
+  "parentLabel": "Marca",
+  "description": "Produtos DIMMER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DIMMER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11647",
+      "title": "VENTILADOR OSCIL PRD BIVOLT 60CMC1AT PT",
+      "brand": "DIMMER",
+      "brandCode": "965",
+      "supplier": "NOVAES DINIZ COMERCIO LTDA",
+      "supplierCode": "5148",
+      "manufacturerCode": "51.01-1208",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ventilador-oscil-prd-bivolt-60cmc1at-pt-11647",
+      "image": "/products/images/0116/11647.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--965--dimmer"
+  }
+}

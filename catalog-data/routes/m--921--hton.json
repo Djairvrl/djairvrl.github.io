@@ -1,0 +1,36 @@
+{
+  "title": "HTON",
+  "parentLabel": "Marca",
+  "description": "Produtos HTON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HTON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11319",
+      "title": "MACHO MANUAL HSS M27 X 3,00 JG3",
+      "brand": "HTON",
+      "brandCode": "921",
+      "supplier": "NATALTEM MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "4523",
+      "manufacturerCode": "4132",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m27-x-300-jg3-11319",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--921--hton"
+  }
+}

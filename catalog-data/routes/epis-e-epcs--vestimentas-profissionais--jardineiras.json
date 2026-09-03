@@ -1,0 +1,163 @@
+{
+  "title": "JARDINEIRAS",
+  "parentLabel": "Vestimentas Profissionais",
+  "description": "Produtos da categoria jardineiras em vestimentas profissionais.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Vestimentas Profissionais",
+      "to": "/epis-e-epcs/vestimentas-profissionais"
+    },
+    {
+      "label": "JARDINEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6937",
+      "title": "JARDINEIRA KP 500 AM C/ BOTA CA10457",
+      "brand": "BALASKA",
+      "brandCode": "384",
+      "supplier": "BALASKA EQUIPE INDUSTRIA E COMERCIO LTDA EM RECUPERACAO JUDI",
+      "supplierCode": "1422",
+      "manufacturerCode": "CA10457",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-kp-500-am-c-bota-ca10457-6937",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "9550",
+      "title": "JARDINEIRA SANEAMENTO TAM G  C/ BOTA 42",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "1227",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-saneamento-tam-g-c-bota-42-9550",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "9549",
+      "title": "JARDINEIRA SANEAMENTO TAM GG  C/ BOTA 43",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "1222",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-saneamento-tam-gg-c-bota-43-9549",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "9548",
+      "title": "JARDINEIRA TAM M C/ BOTA 40 CA 28440",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "1392",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-tam-m-c-bota-40-ca-28440-9548",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "4979",
+      "title": "JARDINEIRA TREVIRA KP500 SANEA C BOTA 40",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "495",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-trevira-kp500-sanea-c-bota-40-4979",
+      "image": "/products/images/0049/4979.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "4980",
+      "title": "JARDINEIRA TREVIRA KP500 SANEA C BOTA 41",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "496",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-trevira-kp500-sanea-c-bota-41-4980",
+      "image": "/products/images/0049/4980.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "4981",
+      "title": "JARDINEIRA TREVIRA KP500 SANEA C BOTA 42",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "497",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-trevira-kp500-sanea-c-bota-42-4981",
+      "image": "/products/images/0049/4981.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "4982",
+      "title": "JARDINEIRA TREVIRA KP500 SANEA C BOTA 43",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "498",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-trevira-kp500-sanea-c-bota-43-4982",
+      "image": "/products/images/0049/4982.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "epis-e-epcs--vestimentas-profissionais--jardineiras"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "title": "VEDADOR",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria vedador em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "VEDADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5528",
+      "title": "ADESIVO VEDA ROSCAS/FLANGES ANAERÓBICO 5156 50G - LOCTITE 2677023",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2677023",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/adesivo-veda-roscasflanges-anaerobico-5156-50g--loctite-2677023-5528",
+      "image": "/products/images/0055/5528.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7471",
+      "title": "FITA VEDA ROSCA 18MMX50M TIGRE",
+      "brand": "TIGRE",
+      "brandCode": "476",
+      "supplier": "CJ METAIS E CONSTRUCOES LTDA",
+      "supplierCode": "679",
+      "manufacturerCode": "1620",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/fita-veda-rosca-18mmx50m-tigre-7471",
+      "image": "/products/images/0074/7471.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11043",
+      "title": "GAXETA ISARTHERM FLEX 6050 3/4",
+      "brand": "EAGLE BURGMANN",
+      "brandCode": "863",
+      "supplier": "EAGLEBURGMANN DO BRASIL VEDACOES INDUSTRIAIS LTDA",
+      "supplierCode": "4378",
+      "manufacturerCode": "U1005-0010-ZAH",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/gaxeta-isartherm-flex-6050-34-11043",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6620",
+      "title": "VEDA ESCAPE 100G",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "5910",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-escape-100g-6620",
+      "image": "/products/images/0066/6620.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6061",
+      "title": "VEDA FLANGE ANAERÓBICO 515 50G MÉDIO TORQUE - LOCTITE",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "234336",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-flange-anaerobico-515-50g-medio-torque--loctite-6061",
+      "image": "/products/images/0060/6061.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10988",
+      "title": "VEDA FLANGE LOCTITE 518 CR250G",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "AL518250",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-flange-loctite-518-cr250g-10988",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8080",
+      "title": "VEDA FLANGES ANAERÓBICO 275G LOCTITE 574",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2487100",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-flanges-anaerobico-275g-loctite-574-8080",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5802",
+      "title": "VEDA ROSCA ANAERÓBICO BAIXO TORQUE 50G 567 -  LOCTITE",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2078730",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-rosca-anaerobico-baixo-torque-50g-567--loctite-5802",
+      "image": "/products/images/0058/5802.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--vedador"
+  }
+}

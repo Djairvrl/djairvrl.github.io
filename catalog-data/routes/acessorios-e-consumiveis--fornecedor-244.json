@@ -1,0 +1,1493 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MUNDO DAS FERRAMENTAS DO BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "244",
+    "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "986",
+      "title": "ABRACADEIRA DE PLAST 100X2,5MM PT C/100",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "4554055",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-plast-100x25mm-pt-c100-986",
+      "image": "/products/images/0009/986.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3104",
+      "title": "ABRACADEIRA DE PLAST 300X3,6MM PT C/100",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "4556055",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-plast-300x36mm-pt-c100-3104",
+      "image": "/products/images/0031/3104.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "407",
+      "title": "ADAPTADOR PARA BITS LONGO",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "117929",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/adaptador-para-bits-longo-407",
+      "image": "/products/images/0004/407.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "941",
+      "title": "AFIADOR DE BROCAS 3,5 A 10MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "9123055",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/afiador-de-brocas-35-a-10mm-941",
+      "image": "/products/images/0009/941.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "526",
+      "title": "BITS PHILLIPS PH2 1/4\" 90MM",
+      "brand": "GROSS",
+      "brandCode": "106",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1126356",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/bits-phillips-ph2-14-90mm-526",
+      "image": "/products/images/0005/526.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "414",
+      "title": "BROCA DE ACO RAPIDO P/METAL 20MM POLIDA",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "720999",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-pmetal-20mm-polida-414",
+      "image": "/products/images/0004/414.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "415",
+      "title": "BROCA FURO CIRCULAR P/AZULEJOS/CERAMICAS",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7282155",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-furo-circular-pazulejosceramicas-415",
+      "image": "/products/images/0004/415.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "305",
+      "title": "BROCA HSS STANDARD 1,0X70MM MTX REF 715109",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "715109",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-10x70mm-mtx-ref-715109-305",
+      "image": "/products/images/0003/305.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "306",
+      "title": "BROCA HSS STANDARD 10X155MM MTX REF 715999",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "715999",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-10x155mm-mtx-ref-715999-306",
+      "image": "/products/images/0003/306.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "307",
+      "title": "BROCA HSS STANDARD 12X165MM MTX REF 720209",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "720209",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-12x165mm-mtx-ref-720209-307",
+      "image": "/products/images/0003/307.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "308",
+      "title": "BROCA HSS STANDARD 14X170MM MTX REF 720409",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "720409",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-14x170mm-mtx-ref-720409-308",
+      "image": "/products/images/0003/308.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "309",
+      "title": "BROCA HSS STANDARD 16X200MM MTX REF 720609",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "720609",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-16x200mm-mtx-ref-720609-309",
+      "image": "/products/images/0003/309.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "310",
+      "title": "BROCA HSS STANDARD 18X220MM MTX REF 720809",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "720809",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-18x220mm-mtx-ref-720809-310",
+      "image": "/products/images/0003/310.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "303",
+      "title": "BROCA HSS STANDARD 5,0X110MM MTX REF 715509",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "715509",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-50x110mm-mtx-ref-715509-303",
+      "image": "/products/images/0003/303.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "312",
+      "title": "BROCA HSS STANDARD 6,0X110MM MTX REF 715609",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "715609",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-60x110mm-mtx-ref-715609-312",
+      "image": "/products/images/0003/312.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "313",
+      "title": "BROCA HSS STANDARD 7,0X140MM MTX REF 715709",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "715709",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-70x140mm-mtx-ref-715709-313",
+      "image": "/products/images/0003/313.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "314",
+      "title": "BROCA HSS STANDARD 8,0X140MM MTX REF 715809",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "715809",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-80x140mm-mtx-ref-715809-314",
+      "image": "/products/images/0003/314.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "315",
+      "title": "BROCA HSS STANDARD 9,0X140MM MTX REF 715909",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "715909",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-standard-90x140mm-mtx-ref-715909-315",
+      "image": "/products/images/0003/315.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "421",
+      "title": "BROCA P/CONCRETO 10X120MM HASTE CILINDRI",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "708609",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pconcreto-10x120mm-haste-cilindri-421",
+      "image": "/products/images/0004/421.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "417",
+      "title": "BROCA P/CONCRETO 12X150 MM GOLDEN LINE",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "708129",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pconcreto-12x150-mm-golden-line-417",
+      "image": "/products/images/0004/417.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "420",
+      "title": "BROCA P/CONCRETO 4X75MM HASTE CILINDRICA",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "708549",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pconcreto-4x75mm-haste-cilindrica-420",
+      "image": "/products/images/0004/420.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "418",
+      "title": "BROCA P/CONCRETO 6X100 MM GOLDEN LINE",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "708069",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pconcreto-6x100-mm-golden-line-418",
+      "image": "/products/images/0004/418.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "422",
+      "title": "BROCA P/CONCRETO 6X100MM HASTE CILINDRI",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "708569",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pconcreto-6x100mm-haste-cilindri-422",
+      "image": "/products/images/0004/422.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "419",
+      "title": "BROCA P/CONCRETO 8X120 MM GOLDEN LINE",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "708089",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pconcreto-8x120-mm-golden-line-419",
+      "image": "/products/images/0004/419.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "426",
+      "title": "BROCA P/METAL POLID HAST CILIND 3/16\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7156855",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pmetal-polid-hast-cilind-316-426",
+      "image": "/products/images/0004/426.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "425",
+      "title": "BROCA P/METAL POLID HAST CILIND 3/32\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7156255",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pmetal-polid-hast-cilind-332-425",
+      "image": "/products/images/0004/425.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "428",
+      "title": "BROCA P/METAL POLID HAST CILIND 5/16\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7157255",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pmetal-polid-hast-cilind-516-428",
+      "image": "/products/images/0004/428.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "427",
+      "title": "BROCA P/METAL POLID HAST CILIND 5/32\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7156655",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pmetal-polid-hast-cilind-532-427",
+      "image": "/products/images/0004/427.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "429",
+      "title": "BROCA P/METAL POLID HAST CILIND 7/16\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7157555",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pmetal-polid-hast-cilind-716-429",
+      "image": "/products/images/0004/429.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "430",
+      "title": "BROCA P/METAL POLID HAST CILIND 7/32\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7157055",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pmetal-polid-hast-cilind-732-430",
+      "image": "/products/images/0004/430.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "424",
+      "title": "BROCA P/METAL POLID HASTE CILINDR 1/16\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7156055",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-pmetal-polid-haste-cilindr-116-424",
+      "image": "/products/images/0004/424.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "316",
+      "title": "BROCA PARA CONCRETO SDS PLUS 10X210MM MTX REF 7102955",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7102955",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-10x210mm-mtx-ref-7102955-316",
+      "image": "/products/images/0003/316.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "317",
+      "title": "BROCA PARA CONCRETO SDS PLUS 12X160MM MTX REF 7102355",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7102355",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-12x160mm-mtx-ref-7102355-317",
+      "image": "/products/images/0003/317.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "319",
+      "title": "BROCA PARA CONCRETO SDS PLUS 14X160MM MTX REF 7102455",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7102455",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-14x160mm-mtx-ref-7102455-319",
+      "image": "/products/images/0003/319.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "320",
+      "title": "BROCA PARA CONCRETO SDS PLUS 14X210MM MTX REF 7103355",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7103355",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-14x210mm-mtx-ref-7103355-320",
+      "image": "/products/images/0003/320.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "321",
+      "title": "BROCA PARA CONCRETO SDS PLUS 14X300MM MTX REF 7103955",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7103955",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-14x300mm-mtx-ref-7103955-321",
+      "image": "/products/images/0003/321.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "322",
+      "title": "BROCA PARA CONCRETO SDS PLUS 16X300MM MTX REF 7104155",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7104155",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-16x300mm-mtx-ref-7104155-322",
+      "image": "/products/images/0003/322.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "324",
+      "title": "BROCA PARA CONCRETO SDS PLUS 22X300MM MTX REF 7091655",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7091655",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-22x300mm-mtx-ref-7091655-324",
+      "image": "/products/images/0003/324.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "325",
+      "title": "BROCA PARA CONCRETO SDS PLUS 22X400MM MTX REF 7105255",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7105255",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-22x400mm-mtx-ref-7105255-325",
+      "image": "/products/images/0003/325.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "326",
+      "title": "BROCA PARA CONCRETO SDS PLUS 24X400MM MTX REF 7094255",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7094255",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-24x400mm-mtx-ref-7094255-326",
+      "image": "/products/images/0003/326.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "329",
+      "title": "BROCA PARA CONCRETO SDS PLUS 6X210MM MTX REF 7102655",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7102655",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-concreto-sds-plus-6x210mm-mtx-ref-7102655-329",
+      "image": "/products/images/0003/329.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "433",
+      "title": "CHAVE PARA MANDRIL 13 MM",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "168869",
+      "category": "MANDRIL",
+      "categorySlug": "mandril",
+      "path": "/chave-para-mandril-13-mm-433",
+      "image": "/products/images/0004/433.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "531",
+      "title": "CONJUNTO DE BITS E CABECA 33 PCS",
+      "brand": "GROSS",
+      "brandCode": "106",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1136556",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/conjunto-de-bits-e-cabeca-33-pcs-531",
+      "image": "/products/images/0005/531.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "334",
+      "title": "DISCO DE CORTE DIAMANTADO LISO CONTÍNUO 110X20MM MTX REF 731389",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "731389",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/disco-de-corte-diamantado-liso-continuo-110x20mm-mtx-ref-731389-334",
+      "image": "/products/images/0003/334.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "519",
+      "title": "DISCO DE DESBASTE P/METAL 7\"X1/4\"X7/8\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7379155",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/disco-de-desbaste-pmetal-7x14x78-519",
+      "image": "/products/images/0005/519.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "439",
+      "title": "DISCO DESBASTE P/METAL 4,1/2\"X3/16\"X7/8\"",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7376255",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/disco-desbaste-pmetal-412x316x78-439",
+      "image": "/products/images/0004/439.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "336",
+      "title": "ESPÁTULA BETUMADEIRA DE AÇO INOXIDÁVEL 10\"(250MM) MTX REF 855149",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "855149",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-betumadeira-de-aco-inoxidavel-10250mm-mtx-ref-855149-336",
+      "image": "/products/images/0003/336.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "339",
+      "title": "ESPÁTULA DE AÇO INOXIDÁVEL LISA 2\"(50MM) MTX REF 855059",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "855059",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-inoxidavel-lisa-250mm-mtx-ref-855059-339",
+      "image": "/products/images/0003/339.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "340",
+      "title": "ESPÁTULA DE AÇO INOXIDÁVEL LISA 4\"(100MM) MTX REF 855109",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "855109",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-inoxidavel-lisa-4100mm-mtx-ref-855109-340",
+      "image": "/products/images/0003/340.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "337",
+      "title": "ESPÁTULA DE AÇO INOXIDÁVEL LISA 5\"(120MM) MTX REF 855129",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "855129",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-inoxidavel-lisa-5120mm-mtx-ref-855129-337",
+      "image": "/products/images/0003/337.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 2,
+    "total": 67,
+    "pageBase": "acessorios-e-consumiveis--fornecedor-244"
+  }
+}

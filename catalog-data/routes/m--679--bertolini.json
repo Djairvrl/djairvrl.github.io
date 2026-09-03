@@ -1,0 +1,36 @@
+{
+  "title": "BERTOLINI",
+  "parentLabel": "Marca",
+  "description": "Produtos BERTOLINI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BERTOLINI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9419",
+      "title": "PORTA PALETE ACO 600X2300X2820MM 500KG",
+      "brand": "BERTOLINI",
+      "brandCode": "679",
+      "supplier": "BERTOLINI S/A",
+      "supplierCode": "2539",
+      "manufacturerCode": "99100",
+      "category": "PORTA PALETES",
+      "categorySlug": "porta-paletes",
+      "path": "/porta-palete-aco-600x2300x2820mm-500kg-9419",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--679--bertolini"
+  }
+}

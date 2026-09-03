@@ -1,0 +1,36 @@
+{
+  "title": "IMPAC",
+  "parentLabel": "Marca",
+  "description": "Produtos IMPAC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IMPAC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10518",
+      "title": "DATALOGGER T°/UMI 5PTS SEM FIO",
+      "brand": "IMPAC",
+      "brandCode": "778",
+      "supplier": "IMPAC COMERCIAL E TECNOLOGIA LTDA",
+      "supplierCode": "3675",
+      "manufacturerCode": "02220 - IP 509",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/datalogger-tumi-5pts-sem-fio-10518",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--778--impac"
+  }
+}

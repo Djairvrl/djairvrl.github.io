@@ -1,0 +1,55 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos de RICKSON DOMINGOS DO COUTO 70016788486 neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1204",
+    "name": "RICKSON DOMINGOS DO COUTO 70016788486"
+  },
+  "products": [
+    {
+      "code": "2949",
+      "title": "ADESIVO VINIL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "RICKSON DOMINGOS DO COUTO 70016788486",
+      "supplierCode": "1204",
+      "manufacturerCode": "0007",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivo-vinil-2949",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "uso-especifico--fornecedor-1204"
+  }
+}

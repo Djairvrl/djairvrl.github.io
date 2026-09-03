@@ -1,0 +1,36 @@
+{
+  "title": "MARATA",
+  "parentLabel": "Marca",
+  "description": "Produtos MARATA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARATA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11946",
+      "title": "CAFE MARATA 250G MOIDO",
+      "brand": "MARATA",
+      "brandCode": "1009",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "010001",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/cafe-marata-250g-moido-11946",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1009--marata"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "PETRO LIDER",
+  "parentLabel": "Marca",
+  "description": "Produtos PETRO LIDER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PETRO LIDER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11024",
+      "title": "BOMBA OLEO DIESEL 12V C/MANG 40L/MIN",
+      "brand": "PETRO LIDER",
+      "brandCode": "857",
+      "supplier": "PETRO LIDER COMERCIO DE EQUIPAMENTOS PARA ABASTECER E LUBRI",
+      "supplierCode": "4345",
+      "manufacturerCode": "6001106",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/bomba-oleo-diesel-12v-cmang-40lmin-11024",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--857--petro-lider"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "WELDVISION",
+  "parentLabel": "Marca",
+  "description": "Produtos WELDVISION disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WELDVISION"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12156",
+      "title": "BOCAL CERAM TIG DIAMETRO LARGO Nº10 16MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "9833",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceram-tig-diametro-largo-no10-16mm-12156",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12164",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 4 - 6,5MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "48",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-4--65mm-12164",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12782",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 5 - 8MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "56",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-5--8mm-12782",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12162",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 6 - 9,5MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "166",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-6--95mm-12162",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12163",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 7 - 11MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "262",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-7--11mm-12163",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--1044--weldvision"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "PARAMOUNT",
+  "parentLabel": "Marca",
+  "description": "Produtos PARAMOUNT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PARAMOUNT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7177",
+      "title": "DISPENSER DE ALCOOL NOBRE CITY (INDV)",
+      "brand": "PARAMOUNT",
+      "brandCode": "426",
+      "supplier": "NAPOLI COMERCIO VAREJISTA DE PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "1527",
+      "manufacturerCode": "MLB1599985326",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/dispenser-de-alcool-nobre-city-indv-7177",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7170",
+      "title": "LIXEIRA 40L C/PEDAL BRANCA 485",
+      "brand": "PARAMOUNT",
+      "brandCode": "426",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "243635",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-40l-cpedal-branca-485-7170",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--426--paramount"
+  }
+}

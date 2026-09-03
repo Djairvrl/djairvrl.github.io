@@ -1,0 +1,70 @@
+{
+  "title": "YAXUN",
+  "parentLabel": "Marca",
+  "description": "Produtos YAXUN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "YAXUN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5743",
+      "title": "ESTAÇÃO DE SOLDA E RETRABALHO AR QUENTE  902+ 220V -YAXUN",
+      "brand": "YAXUN",
+      "brandCode": "261",
+      "supplier": "FIRE COMERCIO DE CELULARES E ACESSORIOS LTDA",
+      "supplierCode": "1161",
+      "manufacturerCode": "80934158712",
+      "category": "FERRO DE SOLDA",
+      "categorySlug": "ferro-de-solda",
+      "path": "/estacao-de-solda-e-retrabalho-ar-quente-902-220v-yaxun-5743",
+      "image": "/products/images/0057/5743.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "9522",
+      "title": "ESTAÇÃO DE SOLDA E RETRABALHO YAXUN REF 886D+",
+      "brand": "YAXUN",
+      "brandCode": "261",
+      "supplier": "MARUZAN VIEIRA DE AMORIM LTDA",
+      "supplierCode": "2591",
+      "manufacturerCode": "886D+",
+      "category": "FERRO DE SOLDA",
+      "categorySlug": "ferro-de-solda",
+      "path": "/estacao-de-solda-e-retrabalho-yaxun-ref-886d-9522",
+      "image": "/products/images/0095/9522.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6803",
+      "title": "PONTEIRA DE FERRO DE SOLDA AGULHA",
+      "brand": "YAXUN",
+      "brandCode": "261",
+      "supplier": "ESKYCELL ASSISTENCIA DE CELULARES LTDA",
+      "supplierCode": "1366",
+      "manufacturerCode": "81",
+      "category": "FERRAMENTAS",
+      "categorySlug": "ferramentas",
+      "path": "/ponteira-de-ferro-de-solda-agulha-6803",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--261--yaxun"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "TF7",
+  "parentLabel": "Marca",
+  "description": "Produtos TF7 disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TF7"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6943",
+      "title": "CONVERTEDOR D FERRUGEM E BASE PINTURA 1L",
+      "brand": "TF7",
+      "brandCode": "387",
+      "supplier": "FABIO LUIZ BARBOSA DE SOUZA",
+      "supplierCode": "1425",
+      "manufacturerCode": "MLB2747336574",
+      "category": "INIBIDOR DE FERRUGEM",
+      "categorySlug": "inibidor-de-ferrugem",
+      "path": "/convertedor-d-ferrugem-e-base-pintura-1l-6943",
+      "image": "/products/images/0069/6943.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--387--tf7"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "MADE BASICS",
+  "parentLabel": "Marca",
+  "description": "Produtos MADE BASICS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MADE BASICS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6986",
+      "title": "ESGUICHO D METAL ALTA PRESSAO PULV DE AG",
+      "brand": "MADE BASICS",
+      "brandCode": "398",
+      "supplier": "M.S.S. COM. E SERVICOS",
+      "supplierCode": "1436",
+      "manufacturerCode": "EX-2008",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/esguicho-d-metal-alta-pressao-pulv-de-ag-6986",
+      "image": "/products/images/0069/6986.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--398--made-basics"
+  }
+}

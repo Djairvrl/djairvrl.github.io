@@ -1,0 +1,87 @@
+{
+  "title": "NETAFIM",
+  "parentLabel": "Marca",
+  "description": "Produtos NETAFIM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NETAFIM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8437",
+      "title": "BOTAO PCJ/CNL 8L/H CIL. 50UN",
+      "brand": "NETAFIM",
+      "brandCode": "595",
+      "supplier": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "supplierCode": "2102",
+      "manufacturerCode": "000000021520001720",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/botao-pcjcnl-8lh-cil-50un-8437",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "8439",
+      "title": "CHULA MODELO P (BILABIAL)",
+      "brand": "NETAFIM",
+      "brandCode": "595",
+      "supplier": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "supplierCode": "2102",
+      "manufacturerCode": "000000032500010450",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/chula-modelo-p-bilabial-8439",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "8438",
+      "title": "CONECTOR INICIAL PE 16MM C/ANEL AZ 100UN",
+      "brand": "NETAFIM",
+      "brandCode": "595",
+      "supplier": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "supplierCode": "2102",
+      "manufacturerCode": "000000032500017790",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/conector-inicial-pe-16mm-canel-az-100un-8438",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "9502",
+      "title": "TUBO CEGO PE 16009 - 500M",
+      "brand": "NETAFIM",
+      "brandCode": "595",
+      "supplier": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "supplierCode": "2102",
+      "manufacturerCode": "000000019950001700",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/tubo-cego-pe-16009--500m-9502",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--595--netafim"
+  }
+}

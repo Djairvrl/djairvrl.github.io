@@ -1,0 +1,53 @@
+{
+  "title": "PETRO CABOS",
+  "parentLabel": "Marca",
+  "description": "Produtos PETRO CABOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PETRO CABOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11356",
+      "title": "CAMISA PUX. CPA1100 6D 2A SP CABO AÇO",
+      "brand": "PETRO CABOS",
+      "brandCode": "894",
+      "supplier": "PETRO CABOS E COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "4612",
+      "manufacturerCode": "CPA 1100 6D",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/camisa-pux-cpa1100-6d-2a-sp-cabo-aco-11356",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11149",
+      "title": "CAMMIXA PUCAMENT CPA 1100 12D 220-246 2A",
+      "brand": "PETRO CABOS",
+      "brandCode": "894",
+      "supplier": "PETRO CABOS E COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "4612",
+      "manufacturerCode": "CPA 1100 12D",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/cammixa-pucament-cpa-1100-12d-220246-2a-11149",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--894--petro-cabos"
+  }
+}

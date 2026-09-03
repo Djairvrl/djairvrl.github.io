@@ -1,0 +1,22 @@
+{
+  "title": "Consumíveis e Elementos de Fixação",
+  "parentLabel": "Spare Parts Energy",
+  "description": "Soluções de consumíveis e elementos de fixação disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Consumíveis e Elementos de Fixação"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "spare-parts-energy--consumiveis-e-elementos-de-fixacao"
+  }
+}

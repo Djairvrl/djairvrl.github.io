@@ -1,0 +1,39 @@
+{
+  "page": 3,
+  "products": [
+    {
+      "code": "8247",
+      "title": "BOTINA DE AMARRA HIDROF BAMM CA 39665 45",
+      "brand": "BRACOL",
+      "brandCode": "159",
+      "supplier": "BSB PRODUTORA DE EQUIPAMENTOS DE PROT INDIVIDUAL SA",
+      "supplierCode": "594",
+      "manufacturerCode": "859668",
+      "category": "MICROFIBRA ELETRICISTA",
+      "categorySlug": "microfibra-eletricista",
+      "path": "/botina-de-amarra-hidrof-bamm-ca-39665-45-8247",
+      "image": "/products/images/0082/8247.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    },
+    {
+      "code": "2696",
+      "title": "BOTINA MICROF HIDROF BAAM CA39665 T34",
+      "brand": "BRACOL",
+      "brandCode": "159",
+      "supplier": "BSB PRODUTORA DE EQUIPAMENTOS DE PROT INDIVIDUAL SA",
+      "supplierCode": "594",
+      "manufacturerCode": "4012264934",
+      "category": "MICROFIBRA ELETRICISTA",
+      "categorySlug": "microfibra-eletricista",
+      "path": "/botina-microf-hidrof-baam-ca39665-t34-2696",
+      "image": "/products/images/0026/2696.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    }
+  ]
+}

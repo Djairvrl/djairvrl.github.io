@@ -1,0 +1,22 @@
+{
+  "title": "Placas de Advertência e Emergência",
+  "parentLabel": "Sinalização de Segurança",
+  "description": "Soluções de placas de advertência e emergência disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança",
+      "to": "/sinalizacao-de-seguranca"
+    },
+    {
+      "label": "Placas de Advertência e Emergência"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "sinalizacao-de-seguranca--placas-de-advertencia-e-emergencia"
+  }
+}

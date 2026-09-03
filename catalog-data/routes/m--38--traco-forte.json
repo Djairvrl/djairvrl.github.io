@@ -1,0 +1,87 @@
+{
+  "title": "TRAÇO FORTE",
+  "parentLabel": "Marca",
+  "description": "Produtos TRAÇO FORTE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TRAÇO FORTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1101",
+      "title": "MARCADOR INDUSTRIAL 3MM 60ML AMARELO TRAÇO FORTE - BADEN",
+      "brand": "TRAÇO FORTE",
+      "brandCode": "38",
+      "supplier": "LUMITEC COMERCIO DE TINTAS TECNICAS LUMINOSAS LTDA",
+      "supplierCode": "58",
+      "manufacturerCode": "M04-MIXAM-3",
+      "category": "MARCADORES",
+      "categorySlug": "marcadores",
+      "path": "/marcador-industrial-3mm-60ml-amarelo-traco-forte--baden-1101",
+      "image": "/products/images/0011/1101.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "1100",
+      "title": "MARCADOR INDUSTRIAL 3MM 60ML AZUL TRAÇO FORTE - BADEN",
+      "brand": "TRAÇO FORTE",
+      "brandCode": "38",
+      "supplier": "LUMITEC COMERCIO DE TINTAS TECNICAS LUMINOSAS LTDA",
+      "supplierCode": "58",
+      "manufacturerCode": "M04-MIXAZ-3",
+      "category": "MARCADORES",
+      "categorySlug": "marcadores",
+      "path": "/marcador-industrial-3mm-60ml-azul-traco-forte--baden-1100",
+      "image": "/products/images/0011/1100.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5569",
+      "title": "MARCADOR INDUSTRIAL 60ML LARANJA",
+      "brand": "TRAÇO FORTE",
+      "brandCode": "38",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "3442",
+      "category": "MARCADORES",
+      "categorySlug": "marcadores",
+      "path": "/marcador-industrial-60ml-laranja-5569",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "2992",
+      "title": "MARCADOR INDUSTRIAL VERMELHO 3MM",
+      "brand": "TRAÇO FORTE",
+      "brandCode": "38",
+      "supplier": "LUMITEC COMERCIO DE TINTAS TECNICAS LUMINOSAS LTDA",
+      "supplierCode": "58",
+      "manufacturerCode": "M04-MIXVM-3",
+      "category": "MARCADORES",
+      "categorySlug": "marcadores",
+      "path": "/marcador-industrial-vermelho-3mm-2992",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--38--traco-forte"
+  }
+}

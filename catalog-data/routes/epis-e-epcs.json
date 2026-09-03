@@ -1,0 +1,4002 @@
+{
+  "title": "EPIs e EPCs",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs"
+    }
+  ],
+  "children": [
+    {
+      "name": "Capacetes",
+      "slug": "capacetes",
+      "path": "/epis-e-epcs/capacetes",
+      "count": 59,
+      "categories": [
+        {
+          "name": "CAPACETE COMBATE A INCÊNDIO",
+          "slug": "capacete-combate-a-incendio",
+          "path": "/epis-e-epcs/capacetes/capacete-combate-a-incendio",
+          "count": 2
+        },
+        {
+          "name": "CAPACETE TIPO ALPINISTA",
+          "slug": "capacete-tipo-alpinista",
+          "path": "/epis-e-epcs/capacetes/capacete-tipo-alpinista",
+          "count": 12
+        },
+        {
+          "name": "CARNEIRAS",
+          "slug": "carneiras",
+          "path": "/epis-e-epcs/capacetes/carneiras",
+          "count": 10
+        },
+        {
+          "name": "JUGULAR",
+          "slug": "jugular",
+          "path": "/epis-e-epcs/capacetes/jugular",
+          "count": 5
+        },
+        {
+          "name": "TIPO 1 CAPACETE ABA TOTAL",
+          "slug": "tipo-1-capacete-aba-total",
+          "path": "/epis-e-epcs/capacetes/tipo-1-capacete-aba-total",
+          "count": 3
+        },
+        {
+          "name": "TIPO 2 CAPACETE ABA FRONTAL",
+          "slug": "tipo-2-capacete-aba-frontal",
+          "path": "/epis-e-epcs/capacetes/tipo-2-capacete-aba-frontal",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "name": "Trabalho em Altura",
+      "slug": "trabalho-em-altura",
+      "path": "/epis-e-epcs/trabalho-em-altura",
+      "count": 273,
+      "categories": [
+        {
+          "name": "ANCORAGEM",
+          "slug": "ancoragem",
+          "path": "/epis-e-epcs/trabalho-em-altura/ancoragem",
+          "count": 25
+        },
+        {
+          "name": "CINTAS E ACESSÓRIOS",
+          "slug": "cintas-e-acessorios",
+          "path": "/epis-e-epcs/trabalho-em-altura/cintas-e-acessorios",
+          "count": 50
+        },
+        {
+          "name": "CINTOS",
+          "slug": "cintos",
+          "path": "/epis-e-epcs/trabalho-em-altura/cintos",
+          "count": 40
+        },
+        {
+          "name": "CORDAS NR 35",
+          "slug": "cordas-nr-35",
+          "path": "/epis-e-epcs/trabalho-em-altura/cordas-nr-35",
+          "count": 26
+        },
+        {
+          "name": "DESCENSORES E ASCENSORES",
+          "slug": "descensores-e-ascensores",
+          "path": "/epis-e-epcs/trabalho-em-altura/descensores-e-ascensores",
+          "count": 12
+        },
+        {
+          "name": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+          "slug": "dispositivos-de-descida-e-resgate",
+          "path": "/epis-e-epcs/trabalho-em-altura/dispositivos-de-descida-e-resgate",
+          "count": 7
+        },
+        {
+          "name": "MOSQUETÕES",
+          "slug": "mosquetoes",
+          "path": "/epis-e-epcs/trabalho-em-altura/mosquetoes",
+          "count": 14
+        },
+        {
+          "name": "TALABARTES",
+          "slug": "talabartes",
+          "path": "/epis-e-epcs/trabalho-em-altura/talabartes",
+          "count": 35
+        },
+        {
+          "name": "TALABARTES DE FERRAMENTAS",
+          "slug": "talabartes-de-ferramentas",
+          "path": "/epis-e-epcs/trabalho-em-altura/talabartes-de-ferramentas",
+          "count": 20
+        },
+        {
+          "name": "TRAVA QUEDAS",
+          "slug": "trava-quedas",
+          "path": "/epis-e-epcs/trabalho-em-altura/trava-quedas",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "name": "Proteção Auditiva",
+      "slug": "protecao-auditiva",
+      "path": "/epis-e-epcs/protecao-auditiva",
+      "count": 31,
+      "categories": [
+        {
+          "name": "TIPO CONCHA",
+          "slug": "tipo-concha",
+          "path": "/epis-e-epcs/protecao-auditiva/tipo-concha",
+          "count": 24
+        },
+        {
+          "name": "TIPO PLUG",
+          "slug": "tipo-plug",
+          "path": "/epis-e-epcs/protecao-auditiva/tipo-plug",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Calçados de Segurança",
+      "slug": "calcados-de-seguranca",
+      "path": "/epis-e-epcs/calcados-de-seguranca",
+      "count": 554,
+      "categories": [
+        {
+          "name": "BORRACHA BOMBEIRO",
+          "slug": "borracha-bombeiro",
+          "path": "/epis-e-epcs/calcados-de-seguranca/borracha-bombeiro",
+          "count": 7
+        },
+        {
+          "name": "BORRACHA E PVC",
+          "slug": "borracha-e-pvc",
+          "path": "/epis-e-epcs/calcados-de-seguranca/borracha-e-pvc",
+          "count": 48
+        },
+        {
+          "name": "COURO",
+          "slug": "couro",
+          "path": "/epis-e-epcs/calcados-de-seguranca/couro",
+          "count": 121
+        },
+        {
+          "name": "COURO ELETRICISTA",
+          "slug": "couro-eletricista",
+          "path": "/epis-e-epcs/calcados-de-seguranca/couro-eletricista",
+          "count": 41
+        },
+        {
+          "name": "MICROFIBRA",
+          "slug": "microfibra",
+          "path": "/epis-e-epcs/calcados-de-seguranca/microfibra",
+          "count": 94
+        },
+        {
+          "name": "MICROFIBRA ELETRICISTA",
+          "slug": "microfibra-eletricista",
+          "path": "/epis-e-epcs/calcados-de-seguranca/microfibra-eletricista",
+          "count": 102
+        },
+        {
+          "name": "NOBUCK",
+          "slug": "nobuck",
+          "path": "/epis-e-epcs/calcados-de-seguranca/nobuck",
+          "count": 60
+        },
+        {
+          "name": "NOBUCK ELETRICISTA",
+          "slug": "nobuck-eletricista",
+          "path": "/epis-e-epcs/calcados-de-seguranca/nobuck-eletricista",
+          "count": 34
+        },
+        {
+          "name": "OCUPACIONAL",
+          "slug": "ocupacional",
+          "path": "/epis-e-epcs/calcados-de-seguranca/ocupacional",
+          "count": 44
+        },
+        {
+          "name": "PALMILHAS",
+          "slug": "palmilhas",
+          "path": "/epis-e-epcs/calcados-de-seguranca/palmilhas",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Luvas e Mangotes",
+      "slug": "luvas-e-mangotes",
+      "path": "/epis-e-epcs/luvas-e-mangotes",
+      "count": 242,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA LUVAS",
+          "slug": "acessorios-para-luvas",
+          "path": "/epis-e-epcs/luvas-e-mangotes/acessorios-para-luvas",
+          "count": 4
+        },
+        {
+          "name": "ALGODÃO",
+          "slug": "algodao",
+          "path": "/epis-e-epcs/luvas-e-mangotes/algodao",
+          "count": 1
+        },
+        {
+          "name": "ALTA TEMPERATURA",
+          "slug": "alta-temperatura",
+          "path": "/epis-e-epcs/luvas-e-mangotes/alta-temperatura",
+          "count": 11
+        },
+        {
+          "name": "ALTA TENSÃO E COBERTURA",
+          "slug": "alta-tensao-e-cobertura",
+          "path": "/epis-e-epcs/luvas-e-mangotes/alta-tensao-e-cobertura",
+          "count": 38
+        },
+        {
+          "name": "ANTI VIBRAÇÃO | ANTI IMPACTO",
+          "slug": "anti-vibracao-anti-impacto",
+          "path": "/epis-e-epcs/luvas-e-mangotes/anti-vibracao-anti-impacto",
+          "count": 15
+        },
+        {
+          "name": "ARCO ELÉTRICO",
+          "slug": "arco-eletrico",
+          "path": "/epis-e-epcs/luvas-e-mangotes/arco-eletrico",
+          "count": 3
+        },
+        {
+          "name": "HELANCA E SUEDINE",
+          "slug": "helanca-e-suedine",
+          "path": "/epis-e-epcs/luvas-e-mangotes/helanca-e-suedine",
+          "count": 1
+        },
+        {
+          "name": "KEVLAR",
+          "slug": "kevlar",
+          "path": "/epis-e-epcs/luvas-e-mangotes/kevlar",
+          "count": 2
+        },
+        {
+          "name": "LÁTEX",
+          "slug": "latex",
+          "path": "/epis-e-epcs/luvas-e-mangotes/latex",
+          "count": 21
+        },
+        {
+          "name": "MALHA DE AÇO",
+          "slug": "malha-de-aco",
+          "path": "/epis-e-epcs/luvas-e-mangotes/malha-de-aco",
+          "count": 1
+        },
+        {
+          "name": "MANGOTE",
+          "slug": "mangote",
+          "path": "/epis-e-epcs/luvas-e-mangotes/mangote",
+          "count": 3
+        },
+        {
+          "name": "NEOPRENE",
+          "slug": "neoprene",
+          "path": "/epis-e-epcs/luvas-e-mangotes/neoprene",
+          "count": 2
+        },
+        {
+          "name": "NITRÍLICA",
+          "slug": "nitrilica",
+          "path": "/epis-e-epcs/luvas-e-mangotes/nitrilica",
+          "count": 50
+        },
+        {
+          "name": "NYLON",
+          "slug": "nylon",
+          "path": "/epis-e-epcs/luvas-e-mangotes/nylon",
+          "count": 6
+        },
+        {
+          "name": "POLIETILENO",
+          "slug": "polietileno",
+          "path": "/epis-e-epcs/luvas-e-mangotes/polietileno",
+          "count": 10
+        },
+        {
+          "name": "PVC",
+          "slug": "pvc",
+          "path": "/epis-e-epcs/luvas-e-mangotes/pvc",
+          "count": 4
+        },
+        {
+          "name": "RASPA",
+          "slug": "raspa",
+          "path": "/epis-e-epcs/luvas-e-mangotes/raspa",
+          "count": 15
+        },
+        {
+          "name": "RESISTENTE A CORTE",
+          "slug": "resistente-a-corte",
+          "path": "/epis-e-epcs/luvas-e-mangotes/resistente-a-corte",
+          "count": 16
+        },
+        {
+          "name": "TRICOTADA",
+          "slug": "tricotada",
+          "path": "/epis-e-epcs/luvas-e-mangotes/tricotada",
+          "count": 9
+        },
+        {
+          "name": "VAQUETA",
+          "slug": "vaqueta",
+          "path": "/epis-e-epcs/luvas-e-mangotes/vaqueta",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "name": "Proteção Respiratória",
+      "slug": "protecao-respiratoria",
+      "path": "/epis-e-epcs/protecao-respiratoria",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/protecao-respiratoria/acessorios",
+          "count": 33
+        },
+        {
+          "name": "DESCARTAVEIS",
+          "slug": "descartaveis",
+          "path": "/epis-e-epcs/protecao-respiratoria/descartaveis",
+          "count": 27
+        },
+        {
+          "name": "FACIAL INTEIRA",
+          "slug": "facial-inteira",
+          "path": "/epis-e-epcs/protecao-respiratoria/facial-inteira",
+          "count": 10
+        },
+        {
+          "name": "SEMIFACIAL",
+          "slug": "semifacial",
+          "path": "/epis-e-epcs/protecao-respiratoria/semifacial",
+          "count": 18
+        },
+        {
+          "name": "SISTEMA DE CALIBRAÇÃO",
+          "slug": "sistema-de-calibracao",
+          "path": "/epis-e-epcs/protecao-respiratoria/sistema-de-calibracao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Higienização e Proteção da Pele",
+      "slug": "higienizacao-e-protecao-da-pele",
+      "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele",
+      "count": 56,
+      "categories": [
+        {
+          "name": "ANTISSÉPTICO",
+          "slug": "antisseptico",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/antisseptico",
+          "count": 11
+        },
+        {
+          "name": "CREMES DE PROTEÇÃO",
+          "slug": "cremes-de-protecao",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/cremes-de-protecao",
+          "count": 6
+        },
+        {
+          "name": "DESENGRAXANTES",
+          "slug": "desengraxantes",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/desengraxantes",
+          "count": 5
+        },
+        {
+          "name": "DOSADORES",
+          "slug": "dosadores",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/dosadores",
+          "count": 5
+        },
+        {
+          "name": "PROTETOR LABIAL",
+          "slug": "protetor-labial",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/protetor-labial",
+          "count": 3
+        },
+        {
+          "name": "PROTEÇÃO SOLAR",
+          "slug": "protecao-solar",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/protecao-solar",
+          "count": 16
+        },
+        {
+          "name": "REPELENTES",
+          "slug": "repelentes",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/repelentes",
+          "count": 3
+        },
+        {
+          "name": "SABONETES",
+          "slug": "sabonetes",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/sabonetes",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Óculos de Proteção",
+      "slug": "oculos-de-protecao",
+      "path": "/epis-e-epcs/oculos-de-protecao",
+      "count": 165,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/oculos-de-protecao/acessorios",
+          "count": 13
+        },
+        {
+          "name": "AMPLA VISÃO",
+          "slug": "ampla-visao",
+          "path": "/epis-e-epcs/oculos-de-protecao/ampla-visao",
+          "count": 4
+        },
+        {
+          "name": "CONTRA IMPACTO",
+          "slug": "contra-impacto",
+          "path": "/epis-e-epcs/oculos-de-protecao/contra-impacto",
+          "count": 88
+        },
+        {
+          "name": "LENTES GRADUADAS",
+          "slug": "lentes-graduadas",
+          "path": "/epis-e-epcs/oculos-de-protecao/lentes-graduadas",
+          "count": 60
+        }
+      ]
+    },
+    {
+      "name": "Proteção Facial",
+      "slug": "protecao-facial",
+      "path": "/epis-e-epcs/protecao-facial",
+      "count": 28,
+      "categories": [
+        {
+          "name": "MÁSCARA DE SOLDA",
+          "slug": "mascara-de-solda",
+          "path": "/epis-e-epcs/protecao-facial/mascara-de-solda",
+          "count": 13
+        },
+        {
+          "name": "PROTETOR FACIAL",
+          "slug": "protetor-facial",
+          "path": "/epis-e-epcs/protecao-facial/protetor-facial",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Espaço Confinado",
+      "slug": "espaco-confinado",
+      "path": "/epis-e-epcs/espaco-confinado",
+      "count": 20,
+      "categories": [
+        {
+          "name": "CINTURÕES E ACESSÓRIOS",
+          "slug": "cinturoes-e-acessorios",
+          "path": "/epis-e-epcs/espaco-confinado/cinturoes-e-acessorios",
+          "count": 2
+        },
+        {
+          "name": "SISTEMAS DE EXAUSTÃO E VENTILAÇÃO",
+          "slug": "sistemas-de-exaustao-e-ventilacao",
+          "path": "/epis-e-epcs/espaco-confinado/sistemas-de-exaustao-e-ventilacao",
+          "count": 14
+        },
+        {
+          "name": "TRIPÉ PARA RESGATE",
+          "slug": "tripe-para-resgate",
+          "path": "/epis-e-epcs/espaco-confinado/tripe-para-resgate",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Lanternas de Segurança",
+      "slug": "lanternas-de-seguranca",
+      "path": "/epis-e-epcs/lanternas-de-seguranca",
+      "count": 44,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/acessorios",
+          "count": 1
+        },
+        {
+          "name": "ANTIEXPLOSÃO",
+          "slug": "antiexplosao",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/antiexplosao",
+          "count": 1
+        },
+        {
+          "name": "INSPEÇÃO E DIAGNÓSTICO",
+          "slug": "inspecao-e-diagnostico",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/inspecao-e-diagnostico",
+          "count": 1
+        },
+        {
+          "name": "PORTE GRANDE",
+          "slug": "porte-grande",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/porte-grande",
+          "count": 5
+        },
+        {
+          "name": "PORTE MÉDIO",
+          "slug": "porte-medio",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/porte-medio",
+          "count": 13
+        },
+        {
+          "name": "PORTE PEQUENO",
+          "slug": "porte-pequeno",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/porte-pequeno",
+          "count": 6
+        },
+        {
+          "name": "REFLETORES PORTÁTEIS",
+          "slug": "refletores-portateis",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/refletores-portateis",
+          "count": 7
+        },
+        {
+          "name": "TÁTICA - MILITAR",
+          "slug": "tatica-militar",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/tatica-militar",
+          "count": 3
+        },
+        {
+          "name": "USO EM CAPACETE",
+          "slug": "uso-em-capacete",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/uso-em-capacete",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Vestimentas Profissionais",
+      "slug": "vestimentas-profissionais",
+      "path": "/epis-e-epcs/vestimentas-profissionais",
+      "count": 443,
+      "categories": [
+        {
+          "name": "APICULTOR",
+          "slug": "apicultor",
+          "path": "/epis-e-epcs/vestimentas-profissionais/apicultor",
+          "count": 5
+        },
+        {
+          "name": "AVENTAIS",
+          "slug": "aventais",
+          "path": "/epis-e-epcs/vestimentas-profissionais/aventais",
+          "count": 17
+        },
+        {
+          "name": "CAPUZ E BALACLAVA",
+          "slug": "capuz-e-balaclava",
+          "path": "/epis-e-epcs/vestimentas-profissionais/capuz-e-balaclava",
+          "count": 23
+        },
+        {
+          "name": "CINTA LOMBAR",
+          "slug": "cinta-lombar",
+          "path": "/epis-e-epcs/vestimentas-profissionais/cinta-lombar",
+          "count": 7
+        },
+        {
+          "name": "COLETES DE SINALIZAÇÃO",
+          "slug": "coletes-de-sinalizacao",
+          "path": "/epis-e-epcs/vestimentas-profissionais/coletes-de-sinalizacao",
+          "count": 39
+        },
+        {
+          "name": "JARDINEIRAS",
+          "slug": "jardineiras",
+          "path": "/epis-e-epcs/vestimentas-profissionais/jardineiras",
+          "count": 8
+        },
+        {
+          "name": "MACACÕES",
+          "slug": "macacoes",
+          "path": "/epis-e-epcs/vestimentas-profissionais/macacoes",
+          "count": 32
+        },
+        {
+          "name": "MOTOSSERRISTA",
+          "slug": "motosserrista",
+          "path": "/epis-e-epcs/vestimentas-profissionais/motosserrista",
+          "count": 7
+        },
+        {
+          "name": "PERNEIRAS",
+          "slug": "perneiras",
+          "path": "/epis-e-epcs/vestimentas-profissionais/perneiras",
+          "count": 15
+        },
+        {
+          "name": "PROTEÇÃO QUÍMICA",
+          "slug": "protecao-quimica",
+          "path": "/epis-e-epcs/vestimentas-profissionais/protecao-quimica",
+          "count": 2
+        },
+        {
+          "name": "PROTEÇÃO TÉRMICA",
+          "slug": "protecao-termica",
+          "path": "/epis-e-epcs/vestimentas-profissionais/protecao-termica",
+          "count": 63
+        },
+        {
+          "name": "VESTIMENTA SOLDADOR",
+          "slug": "vestimenta-soldador",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimenta-soldador",
+          "count": 6
+        },
+        {
+          "name": "VESTIMENTAS AGRÍCOLAS",
+          "slug": "vestimentas-agricolas",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-agricolas",
+          "count": 10
+        },
+        {
+          "name": "VESTIMENTAS ELETRICISTA",
+          "slug": "vestimentas-eletricista",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-eletricista",
+          "count": 58
+        },
+        {
+          "name": "VESTIMENTAS IMPERMEAVEIS",
+          "slug": "vestimentas-impermeaveis",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-impermeaveis",
+          "count": 19
+        },
+        {
+          "name": "VESTIMENTAS OPERACIONAIS",
+          "slug": "vestimentas-operacionais",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-operacionais",
+          "count": 132
+        }
+      ]
+    },
+    {
+      "name": "Resgate e Salvamento",
+      "slug": "resgate-e-salvamento",
+      "path": "/epis-e-epcs/resgate-e-salvamento",
+      "count": 172,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE SALVAMENTO",
+          "slug": "acessorios-de-salvamento",
+          "path": "/epis-e-epcs/resgate-e-salvamento/acessorios-de-salvamento",
+          "count": 44
+        },
+        {
+          "name": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+          "slug": "aparelhos-e-equipamentos-de-medicao",
+          "path": "/epis-e-epcs/resgate-e-salvamento/aparelhos-e-equipamentos-de-medicao",
+          "count": 21
+        },
+        {
+          "name": "BOLSA RESGATE",
+          "slug": "bolsa-resgate",
+          "path": "/epis-e-epcs/resgate-e-salvamento/bolsa-resgate",
+          "count": 4
+        },
+        {
+          "name": "COLAR CERVICAL",
+          "slug": "colar-cervical",
+          "path": "/epis-e-epcs/resgate-e-salvamento/colar-cervical",
+          "count": 5
+        },
+        {
+          "name": "DESFIBRILADORES",
+          "slug": "desfibriladores",
+          "path": "/epis-e-epcs/resgate-e-salvamento/desfibriladores",
+          "count": 9
+        },
+        {
+          "name": "IMOBILIZADORES",
+          "slug": "imobilizadores",
+          "path": "/epis-e-epcs/resgate-e-salvamento/imobilizadores",
+          "count": 2
+        },
+        {
+          "name": "INSUMOS DE SALVAMENTO",
+          "slug": "insumos-de-salvamento",
+          "path": "/epis-e-epcs/resgate-e-salvamento/insumos-de-salvamento",
+          "count": 56
+        },
+        {
+          "name": "KIT CIPA",
+          "slug": "kit-cipa",
+          "path": "/epis-e-epcs/resgate-e-salvamento/kit-cipa",
+          "count": 3
+        },
+        {
+          "name": "KIT PRIMEIROS SOCORROS",
+          "slug": "kit-primeiros-socorros",
+          "path": "/epis-e-epcs/resgate-e-salvamento/kit-primeiros-socorros",
+          "count": 11
+        },
+        {
+          "name": "MACAS E PRANCHAS DE RESGATE",
+          "slug": "macas-e-pranchas-de-resgate",
+          "path": "/epis-e-epcs/resgate-e-salvamento/macas-e-pranchas-de-resgate",
+          "count": 7
+        },
+        {
+          "name": "MALETAS E ARMÁRIOS",
+          "slug": "maletas-e-armarios",
+          "path": "/epis-e-epcs/resgate-e-salvamento/maletas-e-armarios",
+          "count": 8
+        },
+        {
+          "name": "TREINAMENTO E SIMULAÇÃO",
+          "slug": "treinamento-e-simulacao",
+          "path": "/epis-e-epcs/resgate-e-salvamento/treinamento-e-simulacao",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "NR-10",
+      "slug": "nr-10",
+      "path": "/epis-e-epcs/nr-10",
+      "count": 76,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/nr-10/acessorios",
+          "count": 9
+        },
+        {
+          "name": "ATERRAMENTOS ESTÁTICOS",
+          "slug": "aterramentos-estaticos",
+          "path": "/epis-e-epcs/nr-10/aterramentos-estaticos",
+          "count": 1
+        },
+        {
+          "name": "ATERRAMENTOS TEMPORÁRIOS",
+          "slug": "aterramentos-temporarios",
+          "path": "/epis-e-epcs/nr-10/aterramentos-temporarios",
+          "count": 19
+        },
+        {
+          "name": "BANQUETA ISOLANTE",
+          "slug": "banqueta-isolante",
+          "path": "/epis-e-epcs/nr-10/banqueta-isolante",
+          "count": 2
+        },
+        {
+          "name": "BASTAO DE RESGATE",
+          "slug": "bastao-de-resgate",
+          "path": "/epis-e-epcs/nr-10/bastao-de-resgate",
+          "count": 4
+        },
+        {
+          "name": "COBERTURAS PROTETORAS",
+          "slug": "coberturas-protetoras",
+          "path": "/epis-e-epcs/nr-10/coberturas-protetoras",
+          "count": 1
+        },
+        {
+          "name": "DETECTORES DE TENSÃO",
+          "slug": "detectores-de-tensao",
+          "path": "/epis-e-epcs/nr-10/detectores-de-tensao",
+          "count": 8
+        },
+        {
+          "name": "MAGOTES ISOLANTES",
+          "slug": "magotes-isolantes",
+          "path": "/epis-e-epcs/nr-10/magotes-isolantes",
+          "count": 1
+        },
+        {
+          "name": "TAPETE ISOLANTE",
+          "slug": "tapete-isolante",
+          "path": "/epis-e-epcs/nr-10/tapete-isolante",
+          "count": 3
+        },
+        {
+          "name": "VARA DE MANOBRA",
+          "slug": "vara-de-manobra",
+          "path": "/epis-e-epcs/nr-10/vara-de-manobra",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/epis-e-epcs/diversos",
+      "count": 45,
+      "categories": [
+        {
+          "name": "BOLSAS E ACESSÓRIOS",
+          "slug": "bolsas-e-acessorios",
+          "path": "/epis-e-epcs/diversos/bolsas-e-acessorios",
+          "count": 25
+        },
+        {
+          "name": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+          "slug": "bolsas-socorrista-e-primeiros-socorros",
+          "path": "/epis-e-epcs/diversos/bolsas-socorrista-e-primeiros-socorros",
+          "count": 5
+        },
+        {
+          "name": "BONÉ",
+          "slug": "bone",
+          "path": "/epis-e-epcs/diversos/bone",
+          "count": 4
+        },
+        {
+          "name": "COLETES E BÓIAS SALVA VIDAS",
+          "slug": "coletes-e-boias-salva-vidas",
+          "path": "/epis-e-epcs/diversos/coletes-e-boias-salva-vidas",
+          "count": 3
+        },
+        {
+          "name": "DETECTORES DE RUÍDOS",
+          "slug": "detectores-de-ruidos",
+          "path": "/epis-e-epcs/diversos/detectores-de-ruidos",
+          "count": 1
+        },
+        {
+          "name": "ERGONÔMICOS",
+          "slug": "ergonomicos",
+          "path": "/epis-e-epcs/diversos/ergonomicos",
+          "count": 2
+        },
+        {
+          "name": "EXAUSTOR E INSUFLADOR",
+          "slug": "exaustor-e-insuflador",
+          "path": "/epis-e-epcs/diversos/exaustor-e-insuflador",
+          "count": 2
+        },
+        {
+          "name": "JOELHEIRA",
+          "slug": "joelheira",
+          "path": "/epis-e-epcs/diversos/joelheira",
+          "count": 2
+        },
+        {
+          "name": "PROTETOR DE NUCA",
+          "slug": "protetor-de-nuca",
+          "path": "/epis-e-epcs/diversos/protetor-de-nuca",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Camping",
+      "slug": "camping",
+      "path": "/epis-e-epcs/camping",
+      "count": 46,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/camping/acessorios",
+          "count": 9
+        },
+        {
+          "name": "BARRACAS E TENDAS",
+          "slug": "barracas-e-tendas",
+          "path": "/epis-e-epcs/camping/barracas-e-tendas",
+          "count": 21
+        },
+        {
+          "name": "CAIXA TERMICA",
+          "slug": "caixa-termica",
+          "path": "/epis-e-epcs/camping/caixa-termica",
+          "count": 1
+        },
+        {
+          "name": "GARRAFAS E CAIXAS  TÉRMICAS",
+          "slug": "garrafas-e-caixas-termicas",
+          "path": "/epis-e-epcs/camping/garrafas-e-caixas-termicas",
+          "count": 13
+        },
+        {
+          "name": "MESAS PORTÁTEIS",
+          "slug": "mesas-portateis",
+          "path": "/epis-e-epcs/camping/mesas-portateis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos de Proteção Coletiva — EPC",
+      "slug": "equipamentos-de-protecao-coletiva-epc",
+      "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc",
+      "count": 89,
+      "categories": [
+        {
+          "name": "BARREIRAS E CAVALETES",
+          "slug": "barreiras-e-cavaletes",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/barreiras-e-cavaletes",
+          "count": 11
+        },
+        {
+          "name": "CERQUITES",
+          "slug": "cerquites",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/cerquites",
+          "count": 8
+        },
+        {
+          "name": "CHUVEIRO LAVA-OLHOS",
+          "slug": "chuveiro-lava-olhos",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/chuveiro-lava-olhos",
+          "count": 4
+        },
+        {
+          "name": "CONES",
+          "slug": "cones",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/cones",
+          "count": 23
+        },
+        {
+          "name": "CORRENTES ZEBRADA",
+          "slug": "correntes-zebrada",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/correntes-zebrada",
+          "count": 5
+        },
+        {
+          "name": "ESTAÇÃO LAVA OLHOS",
+          "slug": "estacao-lava-olhos",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/estacao-lava-olhos",
+          "count": 7
+        },
+        {
+          "name": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
+          "slug": "fitas-e-cordas-de-demarcacao-sinalizacao",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/fitas-e-cordas-de-demarcacao-sinalizacao",
+          "count": 25
+        },
+        {
+          "name": "PEDESTAL",
+          "slug": "pedestal",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/pedestal",
+          "count": 2
+        },
+        {
+          "name": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+          "slug": "sistemas-de-iluminacao-de-emergencia",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/sistemas-de-iluminacao-de-emergencia",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Estiletes De Segurança",
+      "slug": "estiletes-de-seguranca",
+      "path": "/epis-e-epcs/estiletes-de-seguranca",
+      "count": 18,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/estiletes-de-seguranca/acessorios",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "name": "Proteção Ambiental",
+      "slug": "protecao-ambiental",
+      "path": "/epis-e-epcs/protecao-ambiental",
+      "count": 1,
+      "categories": [
+        {
+          "name": "MANTAS",
+          "slug": "mantas",
+          "path": "/epis-e-epcs/protecao-ambiental/mantas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Proteção Da Face",
+      "slug": "protecao-da-face",
+      "path": "/epis-e-epcs/protecao-da-face",
+      "count": 3,
+      "categories": [
+        {
+          "name": "OCULOS DE PROTEÇÃO",
+          "slug": "oculos-de-protecao",
+          "path": "/epis-e-epcs/protecao-da-face/oculos-de-protecao",
+          "count": 1
+        },
+        {
+          "name": "PROTETOR FACIAL",
+          "slug": "protetor-facial",
+          "path": "/epis-e-epcs/protecao-da-face/protetor-facial",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Proteção Da Pele",
+      "slug": "protecao-da-pele",
+      "path": "/epis-e-epcs/protecao-da-pele",
+      "count": 1,
+      "categories": [
+        {
+          "name": "LUVA QUIMICA",
+          "slug": "luva-quimica",
+          "path": "/epis-e-epcs/protecao-da-pele/luva-quimica",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Proteção Das Mãos",
+      "slug": "protecao-das-maos",
+      "path": "/epis-e-epcs/protecao-das-maos",
+      "count": 3,
+      "categories": [
+        {
+          "name": "LUVAS",
+          "slug": "luvas",
+          "path": "/epis-e-epcs/protecao-das-maos/luvas",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Vestimentas",
+      "slug": "vestimentas",
+      "path": "/epis-e-epcs/vestimentas",
+      "count": 3,
+      "categories": [
+        {
+          "name": "UNIFORMES RISCO 4",
+          "slug": "uniformes-risco-4",
+          "path": "/epis-e-epcs/vestimentas/uniformes-risco-4",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "4588",
+      "name": "35.092.668 ARIDNA SUZZY DA CAMARA CARNEVALE COELHO",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-4588.json"
+    },
+    {
+      "code": "34",
+      "name": "3M DO BRASIL LTDA",
+      "count": 74,
+      "file": "epis-e-epcs--fornecedor-34.json"
+    },
+    {
+      "code": "420",
+      "name": "3M DO BRASIL LTDA",
+      "count": 21,
+      "file": "epis-e-epcs--fornecedor-420.json"
+    },
+    {
+      "code": "5939",
+      "name": "66.320.667 MARCELO CARNEVALE COELHO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5939.json"
+    },
+    {
+      "code": "1929",
+      "name": "911 EMERGENCIA, COMERCIO, REPRESENTACOES E MANUTENCAO LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1929.json"
+    },
+    {
+      "code": "2880",
+      "name": "A2R UTILIDADES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2880.json"
+    },
+    {
+      "code": "518",
+      "name": "ACO POTIGUAR LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-518.json"
+    },
+    {
+      "code": "1289",
+      "name": "AGENA INDUSTRIA DE EQUIPAMENTOS DE PROTECAO LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-1289.json"
+    },
+    {
+      "code": "1337",
+      "name": "AGNALDO MARTINS DE SOUZA FILHO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1337.json"
+    },
+    {
+      "code": "1274",
+      "name": "AGRO TOTAL REPRESENTACOES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1274.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-798.json"
+    },
+    {
+      "code": "2600",
+      "name": "ALESSANDRA DOS SANTOS ROCHA NAKAMURA 02932361430",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2600.json"
+    },
+    {
+      "code": "608",
+      "name": "ALLCOMP COMERCIO REPRESENTACAO E IMPORTACAO S.A",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-608.json"
+    },
+    {
+      "code": "4336",
+      "name": "ALLPROT MATERIAIS DE SEGURANCA LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-4336.json"
+    },
+    {
+      "code": "6274",
+      "name": "ALLPROT OPTICAL COMERCIAL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-6274.json"
+    },
+    {
+      "code": "91",
+      "name": "ALLTEC DO BRASIL LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-91.json"
+    },
+    {
+      "code": "1736",
+      "name": "ALPHA CONSULTORIA E SERVICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1736.json"
+    },
+    {
+      "code": "33",
+      "name": "ALTISEG EQUIP.DE SEG.DE TRAB.LTDA",
+      "count": 6,
+      "file": "epis-e-epcs--fornecedor-33.json"
+    },
+    {
+      "code": "6261",
+      "name": "AMALFIS UNIFORMES CONFECCAO DE ROUPAS LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-6261.json"
+    },
+    {
+      "code": "790",
+      "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-790.json"
+    },
+    {
+      "code": "4736",
+      "name": "AMERICANVEK PROTECAO INDUSTRIAL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4736.json"
+    },
+    {
+      "code": "4204",
+      "name": "ANSELL BRAZIL LTDA.",
+      "count": 14,
+      "file": "epis-e-epcs--fornecedor-4204.json"
+    },
+    {
+      "code": "628",
+      "name": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-628.json"
+    },
+    {
+      "code": "1379",
+      "name": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "count": 48,
+      "file": "epis-e-epcs--fornecedor-1379.json"
+    },
+    {
+      "code": "2622",
+      "name": "ARDUT COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2622.json"
+    },
+    {
+      "code": "5675",
+      "name": "ARMAZEM DO EPI EQUIPAMENTOS DE PROTECAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5675.json"
+    },
+    {
+      "code": "1252",
+      "name": "ART FABRIL CONFECCOES DE BOLSAS LTDA.",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1252.json"
+    },
+    {
+      "code": "211",
+      "name": "ASA SUL IND E COMERCIO DE MALHAS LTDA",
+      "count": 11,
+      "file": "epis-e-epcs--fornecedor-211.json"
+    },
+    {
+      "code": "315",
+      "name": "AVANTI BRASIL SISTEMAS EOLICOS",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-315.json"
+    },
+    {
+      "code": "4074",
+      "name": "AVJ COMERCIO VAREJISTA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4074.json"
+    },
+    {
+      "code": "117",
+      "name": "AVLIS - HAWS DO BRASIL LTDA",
+      "count": 7,
+      "file": "epis-e-epcs--fornecedor-117.json"
+    },
+    {
+      "code": "1422",
+      "name": "BALASKA EQUIPE INDUSTRIA E COMERCIO LTDA EM RECUPERACAO JUDI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1422.json"
+    },
+    {
+      "code": "2720",
+      "name": "BARALDI MARQUES TELAS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2720.json"
+    },
+    {
+      "code": "6252",
+      "name": "BASE NEREA COMERCIO, IMPORTACAO, SERVICOS E CONFECCAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-6252.json"
+    },
+    {
+      "code": "5046",
+      "name": "BASMED DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5046.json"
+    },
+    {
+      "code": "1343",
+      "name": "BELGO CERCAS JOAO PESSOA COMERCIO DE ACOS LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1343.json"
+    },
+    {
+      "code": "2546",
+      "name": "BENDITO PRODUTO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2546.json"
+    },
+    {
+      "code": "4176",
+      "name": "BIOANATOME MAGAZINE COMERCIO DE PRODUTOS VAREJISTA EM GERAL",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4176.json"
+    },
+    {
+      "code": "412",
+      "name": "BLACK  DECKER DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-412.json"
+    },
+    {
+      "code": "1763",
+      "name": "BORNALL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1763.json"
+    },
+    {
+      "code": "5988",
+      "name": "BOUTIQUE DAS MARCAS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5988.json"
+    },
+    {
+      "code": "401",
+      "name": "BRANCO MOTORES LTDA",
+      "count": 10,
+      "file": "epis-e-epcs--fornecedor-401.json"
+    },
+    {
+      "code": "227",
+      "name": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "count": 25,
+      "file": "epis-e-epcs--fornecedor-227.json"
+    },
+    {
+      "code": "294",
+      "name": "BSB PRODUTORA DE EQUIP DE PROT INDIV",
+      "count": 105,
+      "file": "epis-e-epcs--fornecedor-294.json"
+    },
+    {
+      "code": "436",
+      "name": "BSB PRODUTORA DE EQUIP DE PROT INDIVID",
+      "count": 9,
+      "file": "epis-e-epcs--fornecedor-436.json"
+    },
+    {
+      "code": "594",
+      "name": "BSB PRODUTORA DE EQUIPAMENTOS DE PROT INDIVIDUAL SA",
+      "count": 141,
+      "file": "epis-e-epcs--fornecedor-594.json"
+    },
+    {
+      "code": "1693",
+      "name": "BSB PRODUTORA DE EQUIPAMENTOS DE PROTECAO INDIVIDUAL S.A.",
+      "count": 6,
+      "file": "epis-e-epcs--fornecedor-1693.json"
+    },
+    {
+      "code": "106",
+      "name": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "count": 33,
+      "file": "epis-e-epcs--fornecedor-106.json"
+    },
+    {
+      "code": "28",
+      "name": "BUNZL EQUIPAMENTOS P PROTECAO INDIVIDUAL",
+      "count": 10,
+      "file": "epis-e-epcs--fornecedor-28.json"
+    },
+    {
+      "code": "5985",
+      "name": "C H S KANAIAMA CALCADOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5985.json"
+    },
+    {
+      "code": "1891",
+      "name": "CALCADOS CRIVAL LTDA",
+      "count": 17,
+      "file": "epis-e-epcs--fornecedor-1891.json"
+    },
+    {
+      "code": "1375",
+      "name": "CAMPER EQUIPAMENTOS DE PROTECAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1375.json"
+    },
+    {
+      "code": "2675",
+      "name": "CANAL DE SOLUCOES INDUSTRIA E COMERCIO DE CONFECCOES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2675.json"
+    },
+    {
+      "code": "66",
+      "name": "CARBOGRAFITE EQUIPAMENTOS INDUSTRIAIS",
+      "count": 24,
+      "file": "epis-e-epcs--fornecedor-66.json"
+    },
+    {
+      "code": "1765",
+      "name": "CASALAB COMERCIO ATACADISTA DE EQUIPAMENTOS E SUPRIMENTOS LA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1765.json"
+    },
+    {
+      "code": "1395",
+      "name": "CDR COMERCIO E IMPORTACAO DE ARTIGOS DE PAPELARIA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1395.json"
+    },
+    {
+      "code": "188",
+      "name": "CENTERCORE COMERCIO DE PRODUTOS MEDICOS",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-188.json"
+    },
+    {
+      "code": "162",
+      "name": "CIRNE IRMAOS & CIA LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-162.json"
+    },
+    {
+      "code": "3909",
+      "name": "CIRURGICA LOGAN MED COMERCIO DE MATERIAL MEDICO E HOSPITALAR",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3909.json"
+    },
+    {
+      "code": "1565",
+      "name": "CIRURGICA LOJAO DISTRIB. DE MATERIAL MED. HOSPITALAR LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1565.json"
+    },
+    {
+      "code": "5935",
+      "name": "CIRURGICA STORE - COMERCIO VAREJISTA DE ARTIGOS MEDICOS E HO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5935.json"
+    },
+    {
+      "code": "679",
+      "name": "CJ METAIS E CONSTRUCOES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-679.json"
+    },
+    {
+      "code": "183",
+      "name": "CMOS DRAKE DO NORDESTE EIRELI",
+      "count": 5,
+      "file": "epis-e-epcs--fornecedor-183.json"
+    },
+    {
+      "code": "1500",
+      "name": "COMERCIAL J. M. LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1500.json"
+    },
+    {
+      "code": "5796",
+      "name": "COMPROT EPI INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5796.json"
+    },
+    {
+      "code": "2195",
+      "name": "COMÉRCIO VAREJISTA DE FERRAGENS E FERRAMENTAS",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2195.json"
+    },
+    {
+      "code": "1410",
+      "name": "CONFORTO ARTEFATOS DE COURO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1410.json"
+    },
+    {
+      "code": "1011",
+      "name": "CONSTAMED EQUIPAMENTOS HOSPITALARES E PRODUTOS PARA SAUDE LT",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1011.json"
+    },
+    {
+      "code": "895",
+      "name": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "count": 125,
+      "file": "epis-e-epcs--fornecedor-895.json"
+    },
+    {
+      "code": "2143",
+      "name": "CRM COMERCIAL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2143.json"
+    },
+    {
+      "code": "2573",
+      "name": "D A MARQUES & CIA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2573.json"
+    },
+    {
+      "code": "4327",
+      "name": "DANIEL DE ARAUJO SILVA SANTOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4327.json"
+    },
+    {
+      "code": "1643",
+      "name": "DEIZIANA SANTANA DO O 23294755864",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1643.json"
+    },
+    {
+      "code": "89",
+      "name": "DELTA PLUS BRASIL INDUSTRIA E COMERCIO DE EPI LTDA",
+      "count": 8,
+      "file": "epis-e-epcs--fornecedor-89.json"
+    },
+    {
+      "code": "1894",
+      "name": "DEPOSITO DO MEDICO COMERCIO DE MATERIAIS HOSPITALARES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1894.json"
+    },
+    {
+      "code": "1178",
+      "name": "DESCARPACK DESCARRTAVEIS DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1178.json"
+    },
+    {
+      "code": "1578",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1578.json"
+    },
+    {
+      "code": "2002",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 7,
+      "file": "epis-e-epcs--fornecedor-2002.json"
+    },
+    {
+      "code": "1495",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1495.json"
+    },
+    {
+      "code": "5556",
+      "name": "DIOGO DAMASIO BARDELLI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5556.json"
+    },
+    {
+      "code": "1380",
+      "name": "DIRLEI BERNAL TASK",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1380.json"
+    },
+    {
+      "code": "1996",
+      "name": "DISTRIBUIDORA DE EPI MONTANA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1996.json"
+    },
+    {
+      "code": "4903",
+      "name": "DOMOS COMERCIO DE EPI LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4903.json"
+    },
+    {
+      "code": "1543",
+      "name": "DPC DISTRIBUIDOR ATACADISTA S/A",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-1543.json"
+    },
+    {
+      "code": "1516",
+      "name": "DROGARIA BOM VIVER LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1516.json"
+    },
+    {
+      "code": "1741",
+      "name": "DROGARIA SIGAFARMA LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-1741.json"
+    },
+    {
+      "code": "761",
+      "name": "DROGARIA UNIÃO LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-761.json"
+    },
+    {
+      "code": "1596",
+      "name": "DUPLOR COMERCIO DE FERRAMENTAS INDUSTRIAIS E SERVICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1596.json"
+    },
+    {
+      "code": "381",
+      "name": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "count": 86,
+      "file": "epis-e-epcs--fornecedor-381.json"
+    },
+    {
+      "code": "793",
+      "name": "DYSTRAY INDUSTRIA E COMERCIO EIRELI",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-793.json"
+    },
+    {
+      "code": "1969",
+      "name": "E L MACHADO MEDICAMENTOS LTDA.",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1969.json"
+    },
+    {
+      "code": "3154",
+      "name": "EBENEZER ARTEFATOS DE COUROS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3154.json"
+    },
+    {
+      "code": "723",
+      "name": "EFFE PRODUTORA E COMERCIALIZADORA DE EPI LTDA",
+      "count": 8,
+      "file": "epis-e-epcs--fornecedor-723.json"
+    },
+    {
+      "code": "5726",
+      "name": "ELETRICARIO.COM.BR IMPORTADORA E COM DE MAQ E EQUIP LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5726.json"
+    },
+    {
+      "code": "231",
+      "name": "ELGIN DISTRIBUIDORA LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-231.json"
+    },
+    {
+      "code": "1563",
+      "name": "ENFOQUE MEDICAL RJ COMERCIO DE PRODUTOS MED. E ODON. LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1563.json"
+    },
+    {
+      "code": "1025",
+      "name": "EQUILIBRIUM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "count": 14,
+      "file": "epis-e-epcs--fornecedor-1025.json"
+    },
+    {
+      "code": "1206",
+      "name": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1206.json"
+    },
+    {
+      "code": "1190",
+      "name": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1190.json"
+    },
+    {
+      "code": "1646",
+      "name": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1646.json"
+    },
+    {
+      "code": "1584",
+      "name": "ESPACO VAILANT NATURAIS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1584.json"
+    },
+    {
+      "code": "3524",
+      "name": "ESSEX HORNETS BRAZIL LTDA.",
+      "count": 14,
+      "file": "epis-e-epcs--fornecedor-3524.json"
+    },
+    {
+      "code": "1197",
+      "name": "ESTIVAL CALCADOS DE SEGURANCA LTDA",
+      "count": 112,
+      "file": "epis-e-epcs--fornecedor-1197.json"
+    },
+    {
+      "code": "6248",
+      "name": "EXAUSTYAIR COMERCIAL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-6248.json"
+    },
+    {
+      "code": "5819",
+      "name": "F P SOLUCOES EM ALTURA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5819.json"
+    },
+    {
+      "code": "1417",
+      "name": "FABIULA PACHECO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1417.json"
+    },
+    {
+      "code": "5719",
+      "name": "FACILITOOLS COMERCIO E IMPORTACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5719.json"
+    },
+    {
+      "code": "201",
+      "name": "FARDADEZ FARDAMENTOS PROFISSIONAIS LTDA",
+      "count": 59,
+      "file": "epis-e-epcs--fornecedor-201.json"
+    },
+    {
+      "code": "1282",
+      "name": "FAST STRETT COMERCIO E REPARACAO DE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1282.json"
+    },
+    {
+      "code": "1603",
+      "name": "FERIMPORT COMERCIO REPRESENTACAO E IMPORTACAO LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1603.json"
+    },
+    {
+      "code": "2077",
+      "name": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2077.json"
+    },
+    {
+      "code": "174",
+      "name": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-174.json"
+    },
+    {
+      "code": "927",
+      "name": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-927.json"
+    },
+    {
+      "code": "1089",
+      "name": "FERREIRA COSTA CIA LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-1089.json"
+    },
+    {
+      "code": "4037",
+      "name": "FL PERFORMANCE",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4037.json"
+    },
+    {
+      "code": "2190",
+      "name": "FLAVIA DE SA SOARES LIMA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2190.json"
+    },
+    {
+      "code": "159",
+      "name": "FLUKE DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-159.json"
+    },
+    {
+      "code": "271",
+      "name": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-271.json"
+    },
+    {
+      "code": "6096",
+      "name": "FORT MOTOPECAS LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-6096.json"
+    },
+    {
+      "code": "2909",
+      "name": "FRANCISCO BEZERRA DAS CHAGAS FILHO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2909.json"
+    },
+    {
+      "code": "820",
+      "name": "FRICK SOLDAS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-820.json"
+    },
+    {
+      "code": "2243",
+      "name": "FRS COMERCIAL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2243.json"
+    },
+    {
+      "code": "5790",
+      "name": "FURLAN COMERCIO DE ABRASIVOS E EPI'S LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5790.json"
+    },
+    {
+      "code": "4504",
+      "name": "G F CAMPAGNOLI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4504.json"
+    },
+    {
+      "code": "839",
+      "name": "G7 EQUIPAMENTOS LTDA",
+      "count": 7,
+      "file": "epis-e-epcs--fornecedor-839.json"
+    },
+    {
+      "code": "2230",
+      "name": "GAYSON MORAES PORTO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2230.json"
+    },
+    {
+      "code": "2026",
+      "name": "GLD SAUDE E ESPORTES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2026.json"
+    },
+    {
+      "code": "2027",
+      "name": "GLEIMAR JOSEF WOJCIEKOWSKI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2027.json"
+    },
+    {
+      "code": "172",
+      "name": "GNSYS SOLUCOES LTDA",
+      "count": 12,
+      "file": "epis-e-epcs--fornecedor-172.json"
+    },
+    {
+      "code": "4245",
+      "name": "GOBOR STORE E-COMMERCE LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4245.json"
+    },
+    {
+      "code": "4909",
+      "name": "GRB INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4909.json"
+    },
+    {
+      "code": "2592",
+      "name": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2592.json"
+    },
+    {
+      "code": "4283",
+      "name": "H. SOLDAS E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4283.json"
+    },
+    {
+      "code": "4135",
+      "name": "HARSENAL EQUIPAMENTOS DE PROTECAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4135.json"
+    },
+    {
+      "code": "1710",
+      "name": "HEALTH & SAFETY DISTRIBUICAO IMPORTACAO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1710.json"
+    },
+    {
+      "code": "828",
+      "name": "HENKEL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-828.json"
+    },
+    {
+      "code": "191",
+      "name": "HENLAU QUIMICA EIRELI  EPP",
+      "count": 9,
+      "file": "epis-e-epcs--fornecedor-191.json"
+    },
+    {
+      "code": "2420",
+      "name": "HERCULES EQUIPAMENTOS DE PROTECAO LTDA",
+      "count": 9,
+      "file": "epis-e-epcs--fornecedor-2420.json"
+    },
+    {
+      "code": "752",
+      "name": "HOME DECOR LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-752.json"
+    },
+    {
+      "code": "160",
+      "name": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "count": 51,
+      "file": "epis-e-epcs--fornecedor-160.json"
+    },
+    {
+      "code": "171",
+      "name": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "count": 8,
+      "file": "epis-e-epcs--fornecedor-171.json"
+    },
+    {
+      "code": "1426",
+      "name": "I. S. COSTA CENTRAL TELEMEDICINA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1426.json"
+    },
+    {
+      "code": "2555",
+      "name": "IBR BRASIL DISTRIBUIDORA DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2555.json"
+    },
+    {
+      "code": "1329",
+      "name": "IDEAL INSTRUMENTOS DE MEDICAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1329.json"
+    },
+    {
+      "code": "513",
+      "name": "IDEAL WORK UNIFORMES E E.P.I.S LTDA",
+      "count": 8,
+      "file": "epis-e-epcs--fornecedor-513.json"
+    },
+    {
+      "code": "1338",
+      "name": "INCORTEC COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1338.json"
+    },
+    {
+      "code": "431",
+      "name": "IND E COMERCIO RIOMAR CORDAS EIRELI",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-431.json"
+    },
+    {
+      "code": "1008",
+      "name": "INDUMED COMERCIO IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICOS",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1008.json"
+    },
+    {
+      "code": "1248",
+      "name": "INDUSTRIA E COMERCIO LEAL LTDA",
+      "count": 10,
+      "file": "epis-e-epcs--fornecedor-1248.json"
+    },
+    {
+      "code": "4584",
+      "name": "INOVAR MED INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4584.json"
+    },
+    {
+      "code": "5387",
+      "name": "INSTRAMED INDUSTRIA MEDICO HOSPITALAR LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5387.json"
+    },
+    {
+      "code": "2098",
+      "name": "INTELISENSE RADIOCOMUNICACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2098.json"
+    },
+    {
+      "code": "2424",
+      "name": "IPSYLON TECNOLOGIA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2424.json"
+    },
+    {
+      "code": "4746",
+      "name": "IRINEU IZUMI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4746.json"
+    },
+    {
+      "code": "2099",
+      "name": "IRMAOS MULLER EXPORTACAO E IMPORTACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2099.json"
+    },
+    {
+      "code": "6153",
+      "name": "ISABELLA DE LUCA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-6153.json"
+    },
+    {
+      "code": "523",
+      "name": "ITW CHEMICAL PRODUCTS LTDA",
+      "count": 7,
+      "file": "epis-e-epcs--fornecedor-523.json"
+    },
+    {
+      "code": "769",
+      "name": "IVANETE J. DE M. P. LOPES ME",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-769.json"
+    },
+    {
+      "code": "1316",
+      "name": "IW8 INDUSTRIA, COMERCIO E REPRESENTACAO COMERCIAL LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1316.json"
+    },
+    {
+      "code": "4427",
+      "name": "J & G LUVAS DE SEGURANCA LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-4427.json"
+    },
+    {
+      "code": "935",
+      "name": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "count": 5,
+      "file": "epis-e-epcs--fornecedor-935.json"
+    },
+    {
+      "code": "403",
+      "name": "JAILSON SEVERO DOS SANTOS",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-403.json"
+    },
+    {
+      "code": "2367",
+      "name": "JOBE LUV INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-2367.json"
+    },
+    {
+      "code": "1944",
+      "name": "JOINVILLE COMERCIO DE MATERIAL ELETRICO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1944.json"
+    },
+    {
+      "code": "1569",
+      "name": "JOSE CLAUDIO DA SILVA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1569.json"
+    },
+    {
+      "code": "680",
+      "name": "JOSEFA ALVES DOS SANTOS DANTAS",
+      "count": 18,
+      "file": "epis-e-epcs--fornecedor-680.json"
+    },
+    {
+      "code": "2726",
+      "name": "JOVANILSON BRAGA DA SILVA DA CASA NOVA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2726.json"
+    },
+    {
+      "code": "444",
+      "name": "JULI SLING DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-444.json"
+    },
+    {
+      "code": "2318",
+      "name": "JUSIER FELIPE BATISTA 07890992416",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-2318.json"
+    },
+    {
+      "code": "140",
+      "name": "KALIPSO EQUIP INDIVIDUAIS DE PROTECAO",
+      "count": 16,
+      "file": "epis-e-epcs--fornecedor-140.json"
+    },
+    {
+      "code": "1728",
+      "name": "KALIPSO EQUIPAMENTOS INDIVIDUAIS DE PROTECAO LTDA",
+      "count": 9,
+      "file": "epis-e-epcs--fornecedor-1728.json"
+    },
+    {
+      "code": "5230",
+      "name": "KOMATSU COMERCIO DE PRODUTOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5230.json"
+    },
+    {
+      "code": "3998",
+      "name": "KPN SAFETY LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-3998.json"
+    },
+    {
+      "code": "1413",
+      "name": "KSN - PROTECAO RESPIRATORIA EIRELI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1413.json"
+    },
+    {
+      "code": "330",
+      "name": "KTELI INDUSTRIA E COMERCIO LTDA - ME",
+      "count": 18,
+      "file": "epis-e-epcs--fornecedor-330.json"
+    },
+    {
+      "code": "1213",
+      "name": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "count": 13,
+      "file": "epis-e-epcs--fornecedor-1213.json"
+    },
+    {
+      "code": "894",
+      "name": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-894.json"
+    },
+    {
+      "code": "789",
+      "name": "LEDAN INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-789.json"
+    },
+    {
+      "code": "493",
+      "name": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-493.json"
+    },
+    {
+      "code": "1962",
+      "name": "LIBUS DO BRASIL EQUIPAMENTOS LTDA",
+      "count": 5,
+      "file": "epis-e-epcs--fornecedor-1962.json"
+    },
+    {
+      "code": "884",
+      "name": "LIFECINTOS COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 6,
+      "file": "epis-e-epcs--fornecedor-884.json"
+    },
+    {
+      "code": "3030",
+      "name": "LIGHTBURY INDUSTRIA E COMERCIO DE ARTEFATOS DE BORRACHA LTDA",
+      "count": 5,
+      "file": "epis-e-epcs--fornecedor-3030.json"
+    },
+    {
+      "code": "5945",
+      "name": "LOJA DO EPI JK LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5945.json"
+    },
+    {
+      "code": "6263",
+      "name": "LOJAS 360 INDUSTRIA, COMERCIO, IMPORTACAO, EXPORTACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-6263.json"
+    },
+    {
+      "code": "3927",
+      "name": "LOJAS SANTA LUCIA HIGIENE E BELEZA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3927.json"
+    },
+    {
+      "code": "4749",
+      "name": "LZ COMERCIO DE UTENSILIOS PARA COZINHA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4749.json"
+    },
+    {
+      "code": "1241",
+      "name": "M10 EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1241.json"
+    },
+    {
+      "code": "2876",
+      "name": "MAGISTER FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2876.json"
+    },
+    {
+      "code": "1095",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-1095.json"
+    },
+    {
+      "code": "1168",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-1168.json"
+    },
+    {
+      "code": "1115",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1115.json"
+    },
+    {
+      "code": "1240",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1240.json"
+    },
+    {
+      "code": "60",
+      "name": "MANTAS BRASIL IND E COMERCIO LTDA - EPP",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-60.json"
+    },
+    {
+      "code": "2499",
+      "name": "MANUELLE GOMES DA SILVA MARINS",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2499.json"
+    },
+    {
+      "code": "1221",
+      "name": "MAPASEG COMERCIO DE EPIS E FERRAMENTAS EIRELI",
+      "count": 5,
+      "file": "epis-e-epcs--fornecedor-1221.json"
+    },
+    {
+      "code": "2621",
+      "name": "MAPASEG IMPORT'S LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2621.json"
+    },
+    {
+      "code": "2554",
+      "name": "MARACCINI FRANCO & FRANCO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2554.json"
+    },
+    {
+      "code": "580",
+      "name": "MARCELO CESARIO SOARES",
+      "count": 16,
+      "file": "epis-e-epcs--fornecedor-580.json"
+    },
+    {
+      "code": "1409",
+      "name": "MARFE-LUVAS LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-1409.json"
+    },
+    {
+      "code": "483",
+      "name": "MARIA APARECIDA COMITRE PEREZ - ME",
+      "count": 12,
+      "file": "epis-e-epcs--fornecedor-483.json"
+    },
+    {
+      "code": "4634",
+      "name": "MARIA DAS GRACAS C. T. JOSE",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4634.json"
+    },
+    {
+      "code": "1493",
+      "name": "MARIO CESAR VITAL RAMOS",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1493.json"
+    },
+    {
+      "code": "418",
+      "name": "MARLUVAS EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 20,
+      "file": "epis-e-epcs--fornecedor-418.json"
+    },
+    {
+      "code": "38",
+      "name": "MARLUVAS EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 92,
+      "file": "epis-e-epcs--fornecedor-38.json"
+    },
+    {
+      "code": "27",
+      "name": "MARLUVAS EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 7,
+      "file": "epis-e-epcs--fornecedor-27.json"
+    },
+    {
+      "code": "742",
+      "name": "MARLUVAS EQUIPAMENTOS DE SEGURANÇA LTDA",
+      "count": 52,
+      "file": "epis-e-epcs--fornecedor-742.json"
+    },
+    {
+      "code": "2115",
+      "name": "MARTA BABICHAK RODRIGUES CORREIA COMERCIO ELETRONICO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2115.json"
+    },
+    {
+      "code": "959",
+      "name": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-959.json"
+    },
+    {
+      "code": "3930",
+      "name": "MARTINS & SA IMPORTACAO E EXPORTACAO LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-3930.json"
+    },
+    {
+      "code": "3929",
+      "name": "MAVARO INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3929.json"
+    },
+    {
+      "code": "2656",
+      "name": "MAXQUALITY INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-2656.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 26,
+      "file": "epis-e-epcs--fornecedor-4.json"
+    },
+    {
+      "code": "1555",
+      "name": "MEDIX BRASIL PRODUTOS HOSPITALARES E ODONTOLOGICOS LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1555.json"
+    },
+    {
+      "code": "686",
+      "name": "MELO E MELO COMERCIO DE CHOCOLATES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-686.json"
+    },
+    {
+      "code": "255",
+      "name": "METALURGICA MOR S.A- FILIAL PERNAMBUCO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-255.json"
+    },
+    {
+      "code": "90",
+      "name": "MFQ RESPIRADORES INDUSTRIA E COMERCIO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-90.json"
+    },
+    {
+      "code": "5247",
+      "name": "MH SHOP DIGITAL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5247.json"
+    },
+    {
+      "code": "404",
+      "name": "MINIPA DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-404.json"
+    },
+    {
+      "code": "2023",
+      "name": "ML SANTANA E SANTOS PRODUTOS DE SAUDE",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-2023.json"
+    },
+    {
+      "code": "4015",
+      "name": "MLV EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4015.json"
+    },
+    {
+      "code": "5534",
+      "name": "MNI ARTIGOS PARA PESCA E CAMPING LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5534.json"
+    },
+    {
+      "code": "61",
+      "name": "MONTANA EQUIP. ESPORTIVOS LTDA",
+      "count": 7,
+      "file": "epis-e-epcs--fornecedor-61.json"
+    },
+    {
+      "code": "4607",
+      "name": "MP TREINAMENTOS, COMERCIO E FABRICACAO DE EQUIPAMENTOS DE SE",
+      "count": 19,
+      "file": "epis-e-epcs--fornecedor-4607.json"
+    },
+    {
+      "code": "65",
+      "name": "MPS INDUSTRIA E COMERCIO DE LUVAS E EPIS",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-65.json"
+    },
+    {
+      "code": "5841",
+      "name": "MRK MIX LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5841.json"
+    },
+    {
+      "code": "39",
+      "name": "MULT EMBALAGENS LTDA ME",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-39.json"
+    },
+    {
+      "code": "482",
+      "name": "MULT INDUSTRIA DE MATERIAIS DE SEG LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-482.json"
+    },
+    {
+      "code": "3326",
+      "name": "MULTFER SOLUCOES PARA INDUSTRIA E CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3326.json"
+    },
+    {
+      "code": "3100",
+      "name": "MULTIENERGY IMPORTACAO, EXPORTACAO E COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3100.json"
+    },
+    {
+      "code": "244",
+      "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-244.json"
+    },
+    {
+      "code": "2123",
+      "name": "MUNDO LINHA VIVA E EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 21,
+      "file": "epis-e-epcs--fornecedor-2123.json"
+    },
+    {
+      "code": "557",
+      "name": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "count": 28,
+      "file": "epis-e-epcs--fornecedor-557.json"
+    },
+    {
+      "code": "1000",
+      "name": "NATAL EPIS E FARDAMENTOS EIRELI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1000.json"
+    },
+    {
+      "code": "1678",
+      "name": "NATAL LIMP DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1678.json"
+    },
+    {
+      "code": "1553",
+      "name": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-1553.json"
+    },
+    {
+      "code": "462",
+      "name": "NEWELL BRANDS BRASIL LTDA",
+      "count": 8,
+      "file": "epis-e-epcs--fornecedor-462.json"
+    },
+    {
+      "code": "5360",
+      "name": "NEXT SAFETY LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-5360.json"
+    },
+    {
+      "code": "1408",
+      "name": "NEXUS E.P.I. INDUSTRIA E COMERCIO - EIRELI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1408.json"
+    },
+    {
+      "code": "2672",
+      "name": "NIPO SANTO AMARO COMERCIO E SERVICOS LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-2672.json"
+    },
+    {
+      "code": "693",
+      "name": "O M G OCULOS DE SEGURACA EIRELI",
+      "count": 10,
+      "file": "epis-e-epcs--fornecedor-693.json"
+    },
+    {
+      "code": "3090",
+      "name": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 9,
+      "file": "epis-e-epcs--fornecedor-3090.json"
+    },
+    {
+      "code": "1279",
+      "name": "O.M.G - EPI E PRODUTOS OPTICOS - EIRELI",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-1279.json"
+    },
+    {
+      "code": "1660",
+      "name": "O.M.G SEGURANCA VISUAL LTDA",
+      "count": 23,
+      "file": "epis-e-epcs--fornecedor-1660.json"
+    },
+    {
+      "code": "88",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 11,
+      "file": "epis-e-epcs--fornecedor-88.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-122.json"
+    },
+    {
+      "code": "1583",
+      "name": "OCEANO TI DISTRIBUIDORA PRODUTOS PARA TELECOMUNICACOES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1583.json"
+    },
+    {
+      "code": "1754",
+      "name": "ODONTOMASTER COMERCIO DE PRODUTOS PARA SAUDE LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1754.json"
+    },
+    {
+      "code": "1501",
+      "name": "OFICIO UNIFORMES LTDA",
+      "count": 16,
+      "file": "epis-e-epcs--fornecedor-1501.json"
+    },
+    {
+      "code": "4011",
+      "name": "OLIVEIRA FABRICACAO DE EQUIPAMENTOS DE PROTECAO INDIVIDUAL L",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4011.json"
+    },
+    {
+      "code": "443",
+      "name": "OMEGALUVAS COMERCIO DE EPIS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-443.json"
+    },
+    {
+      "code": "5115",
+      "name": "OPTILAR-PROPTIC ARTIGOS OPTICOS E DE SEGURANCA LTDA",
+      "count": 33,
+      "file": "epis-e-epcs--fornecedor-5115.json"
+    },
+    {
+      "code": "450",
+      "name": "ORBI QUIMICA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-450.json"
+    },
+    {
+      "code": "64",
+      "name": "ORION S.A.",
+      "count": 20,
+      "file": "epis-e-epcs--fornecedor-64.json"
+    },
+    {
+      "code": "1108",
+      "name": "ORION S.A.",
+      "count": 11,
+      "file": "epis-e-epcs--fornecedor-1108.json"
+    },
+    {
+      "code": "4798",
+      "name": "PABLO JUNIO NONATO TEMDETUDO COMERCIO",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4798.json"
+    },
+    {
+      "code": "1911",
+      "name": "PARAIBANA SPORTES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1911.json"
+    },
+    {
+      "code": "5944",
+      "name": "PATRICIA S BARBOSA CALCADOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5944.json"
+    },
+    {
+      "code": "179",
+      "name": "PHOSPODONT LTDA",
+      "count": 54,
+      "file": "epis-e-epcs--fornecedor-179.json"
+    },
+    {
+      "code": "946",
+      "name": "PHOSPODONT LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-946.json"
+    },
+    {
+      "code": "1256",
+      "name": "PLASTCOR DO BRASIL LTDA - BA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1256.json"
+    },
+    {
+      "code": "3880",
+      "name": "PLASTCOR DO BRASIL LTDA - PB",
+      "count": 8,
+      "file": "epis-e-epcs--fornecedor-3880.json"
+    },
+    {
+      "code": "30",
+      "name": "PLASTCOR DO BRASIL LTDA - SP",
+      "count": 29,
+      "file": "epis-e-epcs--fornecedor-30.json"
+    },
+    {
+      "code": "2232",
+      "name": "PLASTWAY INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2232.json"
+    },
+    {
+      "code": "2343",
+      "name": "PRATICA BRASIL EQUIPAMENTOS DE TREINAMENTO E SIMULACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2343.json"
+    },
+    {
+      "code": "602",
+      "name": "PRIME COMER DE EQUIP DE SEGURANCA E UNIFORMES PROFISSIONAIS",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-602.json"
+    },
+    {
+      "code": "1470",
+      "name": "PRIMO MANHANI NETO",
+      "count": 15,
+      "file": "epis-e-epcs--fornecedor-1470.json"
+    },
+    {
+      "code": "848",
+      "name": "PRO-TECH INDUSTRIA DE EQUIPAMENTOS DE PROTEÇÃO EIRELI",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-848.json"
+    },
+    {
+      "code": "1512",
+      "name": "PROHIGI INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE PESSOAL",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1512.json"
+    },
+    {
+      "code": "1788",
+      "name": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "count": 17,
+      "file": "epis-e-epcs--fornecedor-1788.json"
+    },
+    {
+      "code": "1664",
+      "name": "QUYRINUS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1664.json"
+    },
+    {
+      "code": "4060",
+      "name": "RA MARTINS BORGES & NEGOCIOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4060.json"
+    },
+    {
+      "code": "5518",
+      "name": "RA MARTINS BORGES & NEGOCIOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5518.json"
+    },
+    {
+      "code": "5816",
+      "name": "RAIZ LINE COMERCIO DE COSMETICOS LTDA.",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5816.json"
+    },
+    {
+      "code": "1587",
+      "name": "RAPHAEL VIEIRA MORENO 36238412852",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1587.json"
+    },
+    {
+      "code": "3923",
+      "name": "REPTEC EQUIPAMENTOS DE SEGURANCA E UNIFORMES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3923.json"
+    },
+    {
+      "code": "485",
+      "name": "RICIATTI E SILVA IND E COM DE EQU SEGUR",
+      "count": 6,
+      "file": "epis-e-epcs--fornecedor-485.json"
+    },
+    {
+      "code": "1261",
+      "name": "RING LIGHT BRASIL OFICIAL EIRELI",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1261.json"
+    },
+    {
+      "code": "168",
+      "name": "RITZ FERRAMENTAS LTDA",
+      "count": 59,
+      "file": "epis-e-epcs--fornecedor-168.json"
+    },
+    {
+      "code": "158",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 5,
+      "file": "epis-e-epcs--fornecedor-158.json"
+    },
+    {
+      "code": "981",
+      "name": "ROSIANE CRISTINA GAI - ECOMMERCE",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-981.json"
+    },
+    {
+      "code": "857",
+      "name": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-857.json"
+    },
+    {
+      "code": "1414",
+      "name": "SAFETLINE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1414.json"
+    },
+    {
+      "code": "1169",
+      "name": "SAFIRA DA SILVA SANTOS 67060927468",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1169.json"
+    },
+    {
+      "code": "1652",
+      "name": "SAMARIA COMERCIAL",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1652.json"
+    },
+    {
+      "code": "1031",
+      "name": "SANDAPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA",
+      "count": 6,
+      "file": "epis-e-epcs--fornecedor-1031.json"
+    },
+    {
+      "code": "5716",
+      "name": "SANTANA BELLINI COMERCIO VAREJISTA DE ARTIGOS ESPORTIVOS LTD",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5716.json"
+    },
+    {
+      "code": "1564",
+      "name": "SAO GERALDO MATERIAL MEDICO E ORTOPEDICO LIMITADA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1564.json"
+    },
+    {
+      "code": "1075",
+      "name": "SAYRO DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1075.json"
+    },
+    {
+      "code": "130",
+      "name": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 33,
+      "file": "epis-e-epcs--fornecedor-130.json"
+    },
+    {
+      "code": "1359",
+      "name": "SBPR SISTEMA BRASILEIRO DE PROTECAO RESPIRATORIA LTDA.",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-1359.json"
+    },
+    {
+      "code": "4486",
+      "name": "SEGUNA INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4486.json"
+    },
+    {
+      "code": "4725",
+      "name": "SEKEN INDUSTRIA E COMERCIO DE PRODUTOS DESCARTAVEIS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4725.json"
+    },
+    {
+      "code": "97",
+      "name": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-97.json"
+    },
+    {
+      "code": "2336",
+      "name": "SHOPPFIX LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2336.json"
+    },
+    {
+      "code": "3919",
+      "name": "SIDNEI M PEREIRA EPI LTDA",
+      "count": 8,
+      "file": "epis-e-epcs--fornecedor-3919.json"
+    },
+    {
+      "code": "3942",
+      "name": "SIGA INDUSTRIA E COMERCIO DE PRODUTOS PARA SINALIZACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3942.json"
+    },
+    {
+      "code": "2441",
+      "name": "SILBOSS IND COM PROD HIG PESSOAL LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-2441.json"
+    },
+    {
+      "code": "1406",
+      "name": "SILK CAMISETAS COMERCIO E SERVICO EIRELI",
+      "count": 6,
+      "file": "epis-e-epcs--fornecedor-1406.json"
+    },
+    {
+      "code": "82",
+      "name": "SISTER MAQUINAS E ACESSORIOS LTDA.",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-82.json"
+    },
+    {
+      "code": "2197",
+      "name": "SOCOMPAR COMERCIO DE EPI LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2197.json"
+    },
+    {
+      "code": "460",
+      "name": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "count": 6,
+      "file": "epis-e-epcs--fornecedor-460.json"
+    },
+    {
+      "code": "2741",
+      "name": "SOLVER IMPORTACAO E EXPORTACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2741.json"
+    },
+    {
+      "code": "3966",
+      "name": "SOUSA SIMOES EPI LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3966.json"
+    },
+    {
+      "code": "2398",
+      "name": "SOUZA & DAMIANI LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-2398.json"
+    },
+    {
+      "code": "1097",
+      "name": "SPELAION - ARTIGOS ESPORTIVOS LTDA ME",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-1097.json"
+    },
+    {
+      "code": "306",
+      "name": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-306.json"
+    },
+    {
+      "code": "6009",
+      "name": "STELLAR COMERCIO DE VARIEDADES E ACESSORIOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-6009.json"
+    },
+    {
+      "code": "4848",
+      "name": "STRATEGY SEGURANCA DO TRABALHO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4848.json"
+    },
+    {
+      "code": "4775",
+      "name": "STUDIO CRL BELEZA ESTETICA ME",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4775.json"
+    },
+    {
+      "code": "14",
+      "name": "SUPER SAFETY IMPORTACAO E EXPORTACAO LTD",
+      "count": 15,
+      "file": "epis-e-epcs--fornecedor-14.json"
+    },
+    {
+      "code": "2483",
+      "name": "TECHNOFAN EQUIPAMENTOS E SERVICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2483.json"
+    },
+    {
+      "code": "461",
+      "name": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-461.json"
+    },
+    {
+      "code": "267",
+      "name": "TEGAPE IMP E COM DE TEC TECNICOS LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-267.json"
+    },
+    {
+      "code": "1063",
+      "name": "TEKMARKET INDUSTRIA, COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1063.json"
+    },
+    {
+      "code": "613",
+      "name": "TENDAS ALUBAN LTDA",
+      "count": 10,
+      "file": "epis-e-epcs--fornecedor-613.json"
+    },
+    {
+      "code": "2253",
+      "name": "TERERE SHOP COMERCIO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2253.json"
+    },
+    {
+      "code": "1420",
+      "name": "TERRANOVA CURATIVOS COMERCIO DE ARTIGOS MEDICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1420.json"
+    },
+    {
+      "code": "4312",
+      "name": "TIAGO MARTINS DE LIMA - EQUIPAMENTOS",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-4312.json"
+    },
+    {
+      "code": "1263",
+      "name": "TONINA COMERCIO, IMPORTACAO E EXPORTACAO LTDA.",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-1263.json"
+    },
+    {
+      "code": "3822",
+      "name": "TOP KIT PRODUTOS DE SAUDE LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3822.json"
+    },
+    {
+      "code": "519",
+      "name": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-519.json"
+    },
+    {
+      "code": "533",
+      "name": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-533.json"
+    },
+    {
+      "code": "3734",
+      "name": "TUBARAO EQUIPAMENTOS DE PROTECAO",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-3734.json"
+    },
+    {
+      "code": "2106",
+      "name": "TWINBROW COMERCIAL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2106.json"
+    },
+    {
+      "code": "5615",
+      "name": "UNIVERSO EPIS",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-5615.json"
+    },
+    {
+      "code": "226",
+      "name": "UVLINE COM E SERV DE ART DE PROT SOLAR",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-226.json"
+    },
+    {
+      "code": "2951",
+      "name": "V. R. INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "epis-e-epcs--fornecedor-2951.json"
+    },
+    {
+      "code": "325",
+      "name": "VALCAN EPI LTDA",
+      "count": 18,
+      "file": "epis-e-epcs--fornecedor-325.json"
+    },
+    {
+      "code": "382",
+      "name": "VCH - IMPORT EXPORT E DISTRIB DE PRODUTO",
+      "count": 41,
+      "file": "epis-e-epcs--fornecedor-382.json"
+    },
+    {
+      "code": "1862",
+      "name": "VCH - IMPORTADORA, EXPORTADORA E DISTRIBUICAO DE PRODUTOS LT",
+      "count": 24,
+      "file": "epis-e-epcs--fornecedor-1862.json"
+    },
+    {
+      "code": "1195",
+      "name": "VECTRA SERVICOS DE FACCAO DE ROUPAS PROFISSIONAIS LTDA",
+      "count": 9,
+      "file": "epis-e-epcs--fornecedor-1195.json"
+    },
+    {
+      "code": "169",
+      "name": "VECTRA WORK IND.COM. UNIF E EQP PROT.IND",
+      "count": 12,
+      "file": "epis-e-epcs--fornecedor-169.json"
+    },
+    {
+      "code": "5818",
+      "name": "VENDIMAX COMERCIO E IMPORTACAO DE UTILIDADES LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5818.json"
+    },
+    {
+      "code": "5226",
+      "name": "VENZAE LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-5226.json"
+    },
+    {
+      "code": "349",
+      "name": "VOLK DO BRASIL LTDA - MTZ",
+      "count": 14,
+      "file": "epis-e-epcs--fornecedor-349.json"
+    },
+    {
+      "code": "2761",
+      "name": "WELINGTON L C DE OLIVEIRA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2761.json"
+    },
+    {
+      "code": "83",
+      "name": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-83.json"
+    },
+    {
+      "code": "982",
+      "name": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "count": 4,
+      "file": "epis-e-epcs--fornecedor-982.json"
+    },
+    {
+      "code": "259",
+      "name": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-259.json"
+    },
+    {
+      "code": "163",
+      "name": "WW UNIFORMES PROFISSIONAIS LTDA",
+      "count": 34,
+      "file": "epis-e-epcs--fornecedor-163.json"
+    },
+    {
+      "code": "326",
+      "name": "YMPULSE IMPORTACAO EXP E COM DE EPI LTDA",
+      "count": 3,
+      "file": "epis-e-epcs--fornecedor-326.json"
+    },
+    {
+      "code": "124",
+      "name": "ZANEL INDUSTRIAL EIRELI",
+      "count": 5,
+      "file": "epis-e-epcs--fornecedor-124.json"
+    },
+    {
+      "code": "2661",
+      "name": "ZANUP MARKETPLACE E COMERCIO ONLINE LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-2661.json"
+    },
+    {
+      "code": "3269",
+      "name": "ZEUS DO BRASIL LTDA",
+      "count": 1,
+      "file": "epis-e-epcs--fornecedor-3269.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "10749",
+      "title": "5 DUCHAS OFTALMICAS 500ML",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "AVLIS - HAWS DO BRASIL LTDA",
+      "supplierCode": "117",
+      "manufacturerCode": "D001-505",
+      "category": null,
+      "categorySlug": null,
+      "path": "/5-duchas-oftalmicas-500ml-10749",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "6900",
+      "title": "6700 BR RESP FACIAL INTEIR",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004371207",
+      "category": "FACIAL INTEIRA",
+      "categorySlug": "facial-inteira",
+      "path": "/6700-br-resp-facial-inteir-6900",
+      "image": "/products/images/0069/6900.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "6901",
+      "title": "6800 BR RESP FACIAL INTEIR CA 7298",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "6901",
+      "category": "FACIAL INTEIRA",
+      "categorySlug": "facial-inteira",
+      "path": "/6800-br-resp-facial-inteir-ca-7298-6901",
+      "image": "/products/images/0069/6901.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "6902",
+      "title": "6800 BR RESP FACIAL INTEIR CA 7298",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004370761",
+      "category": "FACIAL INTEIRA",
+      "categorySlug": "facial-inteira",
+      "path": "/6800-br-resp-facial-inteir-ca-7298-6902",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "6987",
+      "title": "ABAFADOR PASSIVO VERISHIELD  VS120N  CA43041 - NUCA - HONEYWELL",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "160",
+      "manufacturerCode": "IT000000022685",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/abafador-passivo-verishield-vs120n-ca43041--nuca--honeywell-6987",
+      "image": "/products/images/0069/6987.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "544",
+      "title": "ABAFADOR RUÍDOS  LEIGHTNING L1N HASTE NA NUCA CA16196 HONEYWELL REF 1011994BR",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "160",
+      "manufacturerCode": "IT000000022784",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/abafador-ruidos-leightning-l1n-haste-na-nuca-ca16196-honeywell-ref-1011994br-544",
+      "image": "/products/images/0005/544.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "13333",
+      "title": "ABAFADOR VERISHIELD DIELETRICO CA43580",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "ESSEX HORNETS BRAZIL LTDA.",
+      "supplierCode": "3524",
+      "manufacturerCode": "1035190-VS",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/abafador-verishield-dieletrico-ca43580-13333",
+      "image": "/products/images/0133/13333.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "11714",
+      "title": "ABAIXADOR LINGUA DEPIL 50X100 THEOTO",
+      "brand": "KOMATSU",
+      "brandCode": "975",
+      "supplier": "KOMATSU COMERCIO DE PRODUTOS ELETRONICOS LTDA",
+      "supplierCode": "5230",
+      "manufacturerCode": "TH_0510",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/abaixador-lingua-depil-50x100-theoto-11714",
+      "image": "/products/images/0117/11714.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "10643",
+      "title": "ACESS-ASCENSOR PEITORAL/VENTRAL",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USBA6960000N",
+      "category": "DESCENSORES E ASCENSORES",
+      "categorySlug": "descensores-e-ascensores",
+      "path": "/acessascensor-peitoralventral-10643",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "10219",
+      "title": "ACESSORIO FITNESS TREINAMENTO 244",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "V. R. INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "2951",
+      "manufacturerCode": "244",
+      "category": "ERGONÔMICOS",
+      "categorySlug": "ergonomicos",
+      "path": "/acessorio-fitness-treinamento-244-10219",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "6585",
+      "title": "AGILE - RESGATADOR POR CORDA",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USRG00800710",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/agile--resgatador-por-corda-6585",
+      "image": "/products/images/0065/6585.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "3822",
+      "title": "AGUA OXIGENADA 10VOL - ALMOTOLIA 100ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "07344",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/agua-oxigenada-10vol--almotolia-100ml-3822",
+      "image": "/products/images/0038/3822.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1630",
+      "title": "AGUA OXIGENADA 10VOL 1L LOTES 2000303",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "858",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/agua-oxigenada-10vol-1l-lotes-2000303-1630",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1785",
+      "title": "AGULHÃO PARA FIXAÇÃO DE LINHA DE VIDA ISOLADO - SOLUÇÃO REF. SE3520",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "5738.00372.A.REV01",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/agulhao-para-fixacao-de-linha-de-vida-isolado--solucao-ref-se3520-1785",
+      "image": "/products/images/0017/1785.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "8962",
+      "title": "ALCOOL 70% SPRAY 30ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "48222",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-70-spray-30ml-8962",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "12639",
+      "title": "ALCOOL ANTISSEPTICO 70 EM GEL 60ML",
+      "brand": "TRÓIA HAIR",
+      "brandCode": "1102",
+      "supplier": "RAIZ LINE COMERCIO DE COSMETICOS LTDA.",
+      "supplierCode": "5816",
+      "manufacturerCode": "MLB3709523905",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-antisseptico-70-em-gel-60ml-12639",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "6611",
+      "title": "ALCOOL EM GEL 70% 50ML",
+      "brand": "FARMAX",
+      "brandCode": "308",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "07353",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-em-gel-70-50ml-6611",
+      "image": "/products/images/0066/6611.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "2159",
+      "title": "ALCOOL EM GEL ANTISSEPTICO SUNLAU 5L",
+      "brand": "HENLAU",
+      "brandCode": "13",
+      "supplier": "HENLAU QUIMICA EIRELI  EPP",
+      "supplierCode": "191",
+      "manufacturerCode": "14827",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-em-gel-antisseptico-sunlau-5l-2159",
+      "image": "/products/images/0021/2159.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "3823",
+      "title": "ALCOOL ETILICO 70% ANTI-SEPTICO 50ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "82003",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-etilico-70-antiseptico-50ml-3823",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "6403",
+      "title": "ALGODAO HIDROFILO 50G",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "98150",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/algodao-hidrofilo-50g-6403",
+      "image": "/products/images/0064/6403.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "10057",
+      "title": "ALGODAO HIDROFILO 50G ST",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "06006",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/algodao-hidrofilo-50g-st-10057",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "10317",
+      "title": "ALGODAO HIDROFILO MULTIUS 25G PHOSPODONT",
+      "brand": "NATHY",
+      "brandCode": "767",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "101331",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/algodao-hidrofilo-multius-25g-phospodont-10317",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "10394",
+      "title": "ALGODAO HIDROFILO MULTIUSO 50G",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MELO E MELO COMERCIO DE CHOCOLATES LTDA",
+      "supplierCode": "686",
+      "manufacturerCode": "101332",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/algodao-hidrofilo-multiuso-50g-10394",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "10665",
+      "title": "ALGODAO SPARTEX HIDROFILO 25G",
+      "brand": "FLOC",
+      "brandCode": "798",
+      "supplier": "LOJAS SANTA LUCIA HIGIENE E BELEZA LTDA",
+      "supplierCode": "3927",
+      "manufacturerCode": "13417",
+      "category": "KIT PRIMEIROS SOCORROS",
+      "categorySlug": "kit-primeiros-socorros",
+      "path": "/algodao-spartex-hidrofilo-25g-10665",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "552",
+      "title": "ALGODÃO HIDRÓFILO 25G",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "85790",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/algodao-hidrofilo-25g-552",
+      "image": "/products/images/0005/552.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "11718",
+      "title": "ANEL ANCOR INOX 1,0 X  2,0 38MM",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "TS-A38-30",
+      "category": "ANCORAGEM",
+      "categorySlug": "ancoragem",
+      "path": "/anel-ancor-inox-10-x-20-38mm-11718",
+      "image": "/products/images/0117/11718.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "11717",
+      "title": "ANEL ANCOR INOX 1,0 X 2,0 25MM",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "TS-A25-29",
+      "category": "ANCORAGEM",
+      "categorySlug": "ancoragem",
+      "path": "/anel-ancor-inox-10-x-20-25mm-11717",
+      "image": "/products/images/0117/11717.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "11716",
+      "title": "ANEL ANCOR INOX 1,0 X 2,19MM",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "TS-A19-28",
+      "category": "ANCORAGEM",
+      "categorySlug": "ancoragem",
+      "path": "/anel-ancor-inox-10-x-219mm-11716",
+      "image": "/products/images/0117/11716.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "9224",
+      "title": "ANTISSEPTICO BUCAL 1 LITRO REFIL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SILBOSS IND COM PROD HIG PESSOAL LTDA",
+      "supplierCode": "2441",
+      "manufacturerCode": "0401",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/antisseptico-bucal-1-litro-refil-9224",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "1518",
+      "title": "ANTISSÉPTICO TÓPICO PVPI 10% - SOLUÇÃO AQUOSA 100ML - USO EXTERNO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "946",
+      "manufacturerCode": "00646",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/antisseptico-topico-pvpi-10--solucao-aquosa-100ml--uso-externo-1518",
+      "image": "/products/images/0015/1518.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7282",
+      "title": "APAREL PRESSAO ART  BRACO ELITE HEM-7130",
+      "brand": "OMRON",
+      "brandCode": "439",
+      "supplier": "ENFOQUE MEDICAL RJ COMERCIO DE PRODUTOS MED. E ODON. LTDA",
+      "supplierCode": "1563",
+      "manufacturerCode": "HEM-7130",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/aparel-pressao-art-braco-elite-hem7130-7282",
+      "image": "/products/images/0072/7282.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7281",
+      "title": "APAREL PRESSAO C/BLUETO. PULSO HEM-6232T",
+      "brand": "OMRON",
+      "brandCode": "439",
+      "supplier": "SAO GERALDO MATERIAL MEDICO E ORTOPEDICO LIMITADA",
+      "supplierCode": "1564",
+      "manufacturerCode": "17847",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/aparel-pressao-cblueto-pulso-hem6232t-7281",
+      "image": "/products/images/0072/7281.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12549",
+      "title": "APARELHO DE PRESSAO DIGITAL AUT DE BRAÇO",
+      "brand": "GTECH",
+      "brandCode": "1090",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "05602",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/aparelho-de-pressao-digital-aut-de-braco-12549",
+      "image": "/products/images/0125/12549.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "11027",
+      "title": "APARELHO DE PRESSAO DIGITAL PULSO",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "96231",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/aparelho-de-pressao-digital-pulso-11027",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "9900",
+      "title": "APITO PROFISSIONAL ACME TOMADO 2000",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "WELINGTON L C DE OLIVEIRA",
+      "supplierCode": "2761",
+      "manufacturerCode": "MLB1893475031_85631474503",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/apito-profissional-acme-tomado-2000-9900",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "10308",
+      "title": "ARCO DE SUSPENSAO/TRAPEZIO",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USL400900000",
+      "category": "ANCORAGEM",
+      "categorySlug": "ancoragem",
+      "path": "/arco-de-suspensaotrapezio-10308",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "4467",
+      "title": "ARM CLIP PARA 6X1",
+      "brand": "OMG",
+      "brandCode": "223",
+      "supplier": "O M G OCULOS DE SEGURACA EIRELI",
+      "supplierCode": "693",
+      "manufacturerCode": "07453",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/arm-clip-para-6x1-4467",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "4465",
+      "title": "ARM DE SEG MODELO 5X9 H. RETRATIL VE3809",
+      "brand": "OMG",
+      "brandCode": "223",
+      "supplier": "O M G OCULOS DE SEGURACA EIRELI",
+      "supplierCode": "693",
+      "manufacturerCode": "03908",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/arm-de-seg-modelo-5x9-h-retratil-ve3809-4465",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "4466",
+      "title": "ARM DE SEG MODELO 6X1",
+      "brand": "OMG",
+      "brandCode": "223",
+      "supplier": "O M G OCULOS DE SEGURACA EIRELI",
+      "supplierCode": "693",
+      "manufacturerCode": "06300",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/arm-de-seg-modelo-6x1-4466",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "10690",
+      "title": "ARM SEG MODELO AB706 H RETR PRET CA49024",
+      "brand": "OMG",
+      "brandCode": "223",
+      "supplier": "O.M.G SEGURANCA VISUAL LTDA",
+      "supplierCode": "1660",
+      "manufacturerCode": "08006",
+      "category": "LENTES GRADUADAS",
+      "categorySlug": "lentes-graduadas",
+      "path": "/arm-seg-modelo-ab706-h-retr-pret-ca49024-10690",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "10689",
+      "title": "ARM SEG MODELO ME705 H. RETRATIL CA48650",
+      "brand": "OMG",
+      "brandCode": "223",
+      "supplier": "O.M.G SEGURANCA VISUAL LTDA",
+      "supplierCode": "1660",
+      "manufacturerCode": "07950",
+      "category": "LENTES GRADUADAS",
+      "categorySlug": "lentes-graduadas",
+      "path": "/arm-seg-modelo-me705-h-retratil-ca48650-10689",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "10688",
+      "title": "ARM SEG NB704 H RETRATIL AZUL CA 46535",
+      "brand": "OMG",
+      "brandCode": "223",
+      "supplier": "O.M.G SEGURANCA VISUAL LTDA",
+      "supplierCode": "1660",
+      "manufacturerCode": "07722",
+      "category": "LENTES GRADUADAS",
+      "categorySlug": "lentes-graduadas",
+      "path": "/arm-seg-nb704-h-retratil-azul-ca-46535-10688",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "7979",
+      "title": "ARMARIO VITRINE 1 PORTA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DEPOSITO DO MEDICO COMERCIO DE MATERIAIS HOSPITALARES LTDA",
+      "supplierCode": "1894",
+      "manufacturerCode": "1017",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/armario-vitrine-1-porta-7979",
+      "image": "/products/images/0079/7979.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "739",
+      "title": "ARMÁRIO DE PAREDE PRIMEIROS SOCORROS 400X600X125MM PRESTO - REF 4004",
+      "brand": "PRESTO",
+      "brandCode": "46",
+      "supplier": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "supplierCode": "83",
+      "manufacturerCode": "40004",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/armario-de-parede-primeiros-socorros-400x600x125mm-presto--ref-4004-739",
+      "image": "/products/images/0007/739.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "8193",
+      "title": "ARMÁRIO VITRINE 2 PORTAS - SPMED",
+      "brand": "SPMED",
+      "brandCode": "614",
+      "supplier": "FLAVIA DE SA SOARES LIMA",
+      "supplierCode": "2190",
+      "manufacturerCode": "SPC-1005",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/armario-vitrine-2-portas--spmed-8193",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "6634",
+      "title": "ASCENSOR PUNHO MANUAL DIREITO 4 KN UPSAFE - ULTRA SAFE USBA6961000N",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USBA6961000N",
+      "category": "DESCENSORES E ASCENSORES",
+      "categorySlug": "descensores-e-ascensores",
+      "path": "/ascensor-punho-manual-direito-4-kn-upsafe--ultra-safe-usba6961000n-6634",
+      "image": "/products/images/0066/6634.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "6635",
+      "title": "ASCENSOR PUNHO MANUAL ESQUERDO 4 KN UPSAFE - ULTRA SAFE USBA6962000N",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USBA6962000N",
+      "category": "DESCENSORES E ASCENSORES",
+      "categorySlug": "descensores-e-ascensores",
+      "path": "/ascensor-punho-manual-esquerdo-4-kn-upsafe--ultra-safe-usba6962000n-6635",
+      "image": "/products/images/0066/6635.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "6944",
+      "title": "ASPIRADOR MANUAL DE SECRECOES",
+      "brand": "HOSPICENTER",
+      "brandCode": "388",
+      "supplier": "I. S. COSTA CENTRAL TELEMEDICINA LTDA",
+      "supplierCode": "1426",
+      "manufacturerCode": "HOSPI027",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/aspirador-manual-de-secrecoes-6944",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "3647",
+      "title": "ASSENTO DE SUSPENSÃO PARA TRABALHO EM ALTURA - 3M / ALTISEG HB004594428",
+      "brand": "ALTISEG",
+      "brandCode": "32",
+      "supplier": "ALTISEG EQUIP.DE SEG.DE TRAB.LTDA",
+      "supplierCode": "33",
+      "manufacturerCode": "HB004594428",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/assento-de-suspensao-para-trabalho-em-altura--3m-altiseg-hb004594428-3647",
+      "image": "/products/images/0036/3647.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "4901",
+      "title": "ASSENTO SUSPENSAO. CONFEC EM FITA",
+      "brand": "STEELFLEX",
+      "brandCode": "114",
+      "supplier": "BSB PRODUTORA DE EQUIP DE PROT INDIV",
+      "supplierCode": "294",
+      "manufacturerCode": "732726",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/assento-suspensao-confec-em-fita-4901",
+      "image": "/products/images/0049/4901.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 50,
+    "total": 2462,
+    "pageBase": "epis-e-epcs"
+  }
+}

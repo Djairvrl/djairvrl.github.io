@@ -1,0 +1,36 @@
+{
+  "title": "NAUTILUS",
+  "parentLabel": "Marca",
+  "description": "Produtos NAUTILUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NAUTILUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11522",
+      "title": "CLORADOR AUT DOSADOR DE CLORO EM PAST",
+      "brand": "NAUTILUS",
+      "brandCode": "953",
+      "supplier": "ACQUALESTE PISCINA E LAZER LTDA.",
+      "supplierCode": "5053",
+      "manufacturerCode": "AC1742",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/clorador-aut-dosador-de-cloro-em-past-11522",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--953--nautilus"
+  }
+}

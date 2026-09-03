@@ -1,0 +1,44 @@
+{
+  "title": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS",
+  "parentLabel": "Lavadoras De Alta Pressão",
+  "description": "Produtos da categoria lavadores de alta pressão portáteis em lavadoras de alta pressão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Lavadoras De Alta Pressão",
+      "to": "/maquinas-e-acessorios/lavadoras-de-alta-pressao"
+    },
+    {
+      "label": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10103",
+      "title": "LAVADORA DE ALTA PRESSÃO A BATERIA  MAKITA REF DHW180Z01",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "DHW180Z01",
+      "category": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS",
+      "categorySlug": "lavadores-de-alta-pressao-portateis",
+      "path": "/lavadora-de-alta-pressao-a-bateria-makita-ref-dhw180z01-10103",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--lavadoras-de-alta-pressao--lavadores-de-alta-pressao-portateis"
+  }
+}

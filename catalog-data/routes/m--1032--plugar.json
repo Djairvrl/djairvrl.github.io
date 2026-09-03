@@ -1,0 +1,36 @@
+{
+  "title": "PLUGAR",
+  "parentLabel": "Marca",
+  "description": "Produtos PLUGAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLUGAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12099",
+      "title": "EXTENSÃO PP 2P+T 3X0,75MM 10M PRETO",
+      "brand": "PLUGAR",
+      "brandCode": "1032",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "4976",
+      "manufacturerCode": "17205",
+      "category": "EXTENSÕES E RÉGUAS PROTETORAS",
+      "categorySlug": "extensoes-e-reguas-protetoras",
+      "path": "/extensao-pp-2pt-3x075mm-10m-preto-12099",
+      "image": "/products/images/0120/12099.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1032--plugar"
+  }
+}

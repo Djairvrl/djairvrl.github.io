@@ -1,0 +1,36 @@
+{
+  "title": "ANTARTICA",
+  "parentLabel": "Marca",
+  "description": "Produtos ANTARTICA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ANTARTICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12215",
+      "title": "REFRIG. GUARANA ANTARCT 6X2L",
+      "brand": "ANTARTICA",
+      "brandCode": "1050",
+      "supplier": "GNC COMERCIAL DE ALIMENTOS LTDA",
+      "supplierCode": "5553",
+      "manufacturerCode": "7447",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/refrig-guarana-antarct-6x2l-12215",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1050--antartica"
+  }
+}

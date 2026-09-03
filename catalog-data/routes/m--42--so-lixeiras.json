@@ -1,0 +1,36 @@
+{
+  "title": "SO LIXEIRAS",
+  "parentLabel": "Marca",
+  "description": "Produtos SO LIXEIRAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SO LIXEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6415",
+      "title": "COLETOR PARA PILHAS E BATERIAS PEMD - PRIME - PB0PE08",
+      "brand": "SO LIXEIRAS",
+      "brandCode": "42",
+      "supplier": "RECICLES COMÉRCIO DE COLETORES E REPRESENTAÇÕES EIRELI",
+      "supplierCode": "906",
+      "manufacturerCode": "PB0PE08",
+      "category": "COLETORES",
+      "categorySlug": "coletores",
+      "path": "/coletor-para-pilhas-e-baterias-pemd--prime--pb0pe08-6415",
+      "image": "/products/images/0064/6415.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--42--so-lixeiras"
+  }
+}

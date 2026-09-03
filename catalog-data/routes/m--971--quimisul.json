@@ -1,0 +1,36 @@
+{
+  "title": "QUIMISUL",
+  "parentLabel": "Marca",
+  "description": "Produtos QUIMISUL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "QUIMISUL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11675",
+      "title": "SILICA GEL LARANJA 4 A 8 MM SACO 25KG",
+      "brand": "QUIMISUL",
+      "brandCode": "971",
+      "supplier": "QUIMISUL SC BRASIL LTDA",
+      "supplierCode": "5188",
+      "manufacturerCode": "293",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/silica-gel-laranja-4-a-8-mm-saco-25kg-11675",
+      "image": "/products/images/0116/11675.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--971--quimisul"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "HIDROMACACOS",
+  "parentLabel": "Marca",
+  "description": "Produtos HIDROMACACOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HIDROMACACOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12125",
+      "title": "ANEL ORING 8553",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008553",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-8553-12125",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12123",
+      "title": "ANEL ORING 8555",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008555",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-8555-12123",
+      "image": "/products/images/0121/12123.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12124",
+      "title": "ANEL ORING 8556",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008556",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-8556-12124",
+      "image": "/products/images/0121/12124.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12290",
+      "title": "ARRUELA QUADRADA",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000002536191",
+      "category": "ARRUELAS",
+      "categorySlug": "arruelas",
+      "path": "/arruela-quadrada-12290",
+      "image": "/products/images/0122/12290.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "12366",
+      "title": "COMBO ORING'S  P/ KIT PRE CARGA",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11111111111111",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/combo-orings-p-kit-pre-carga-12366",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--1038--hidromacacos"
+  }
+}

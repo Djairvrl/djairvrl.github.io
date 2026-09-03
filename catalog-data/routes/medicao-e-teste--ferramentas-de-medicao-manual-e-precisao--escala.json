@@ -1,0 +1,61 @@
+{
+  "title": "ESCALA",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria escala em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "ESCALA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4770",
+      "title": "ESCALA DE RINGELMANN - KIT C/ 5 UNID",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CLEITON ALEXANDRE MATARUCO 18502913816",
+      "supplierCode": "977",
+      "manufacturerCode": "ML1021",
+      "category": "ESCALA",
+      "categorySlug": "escala",
+      "path": "/escala-de-ringelmann--kit-c-5-unid-4770",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "13009",
+      "title": "ESCALAS DE ACO INOXIDAVEL GRADUADAS",
+      "brand": "KING TOOLS",
+      "brandCode": "269",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "057184",
+      "category": "ESCALA",
+      "categorySlug": "escala",
+      "path": "/escalas-de-aco-inoxidavel-graduadas-13009",
+      "image": "/products/images/0130/13009.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--escala"
+  }
+}

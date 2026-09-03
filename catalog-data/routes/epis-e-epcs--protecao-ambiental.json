@@ -1,0 +1,47 @@
+{
+  "title": "Proteção Ambiental",
+  "parentLabel": "EPIs e EPCs",
+  "description": "Soluções de proteção ambiental disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Ambiental"
+    }
+  ],
+  "children": [
+    {
+      "name": "MANTAS",
+      "slug": "mantas",
+      "path": "/epis-e-epcs/protecao-ambiental/mantas",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "code": "10721",
+      "title": "MANTA ANTICHAMA KEVLAR 7000X1200X1,7",
+      "brand": "FLPERFORMANCE",
+      "brandCode": "805",
+      "supplier": "FL PERFORMANCE",
+      "supplierCode": "4037",
+      "manufacturerCode": "ARAMIDA 7 METROS",
+      "category": "MANTAS",
+      "categorySlug": "mantas",
+      "path": "/manta-antichama-kevlar-7000x1200x17-10721",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Ambiental",
+      "sectionSlug": "protecao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--protecao-ambiental"
+  }
+}

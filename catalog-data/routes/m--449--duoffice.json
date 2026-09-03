@@ -1,0 +1,36 @@
+{
+  "title": "DUOFFICE",
+  "parentLabel": "Marca",
+  "description": "Produtos DUOFFICE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DUOFFICE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8816",
+      "title": "PECAS DE REPOSICAO P/ CADEIRA GIRATORIA",
+      "brand": "DUOFFICE",
+      "brandCode": "449",
+      "supplier": "DUOFFICE BRASIL LTDA",
+      "supplierCode": "1592",
+      "manufacturerCode": "PECADU100E",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/pecas-de-reposicao-p-cadeira-giratoria-8816",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--449--duoffice"
+  }
+}

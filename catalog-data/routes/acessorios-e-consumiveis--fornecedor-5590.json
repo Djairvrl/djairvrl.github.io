@@ -1,0 +1,1119 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Produtos de CRIMPER neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "5590",
+    "name": "CRIMPER"
+  },
+  "products": [
+    {
+      "code": "12451",
+      "title": "ANEL ISOL AZ M5 1,3-2,6MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AN2435-C",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/anel-isol-az-m5-1326mm-12451",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12450",
+      "title": "PINO TUBULAR SIMPLES ISOL AZ 2,5MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3808",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/pino-tubular-simples-isol-az-25mm-12450",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12254",
+      "title": "TERMINAL DE COMPRESSAO TUBULAR 25MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7228",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-de-compressao-tubular-25mm2-12254",
+      "image": "/products/images/0122/12254.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12248",
+      "title": "TERMINAL DE COMPRESSÃO 1KV 95MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7124",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-de-compressao-1kv-95mm2-12248",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12253",
+      "title": "TERMINAL OLHAL TUBULAR 35MM² M8",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7234",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-olhal-tubular-35mm2-m8-12253",
+      "image": "/products/images/0122/12253.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12252",
+      "title": "TERMINAL OLHAL TUBULAR 50MM² M8",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7246",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-olhal-tubular-50mm2-m8-12252",
+      "image": "/products/images/0122/12252.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12251",
+      "title": "TERMINAL OLHAL TUBULAR 70MM² M10",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7254",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-olhal-tubular-70mm2-m10-12251",
+      "image": "/products/images/0122/12251.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12250",
+      "title": "TERMINAL OLHAL TUBULAR 95MM² M10",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7270",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-olhal-tubular-95mm2-m10-12250",
+      "image": "/products/images/0122/12250.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12247",
+      "title": "TERMINAL TUBULAR 185MM² 1/2\"",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7135",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-185mm2-12-12247",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12245",
+      "title": "TERMINAL TUBULAR 1KV 120MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7127",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-1kv-120mm2-12245",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12246",
+      "title": "TERMINAL TUBULAR 240MM² 1/2\"",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7147",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-240mm2-12-12246",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12244",
+      "title": "TERMINAL TUBULAR 70MM² 1/2\" AT7118",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "AT7118",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-70mm2-12-at7118-12244",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12241",
+      "title": "TERMINAL TUBULAR ILHOS 2,5MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3608",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-ilhos-25mm2-12241",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12243",
+      "title": "TERMINAL TUBULAR ILHÓS 1,5MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3607 PT",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-ilhos-15mm2-12243",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12242",
+      "title": "TERMINAL TUBULAR ILHÓS 10MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3611",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-ilhos-10mm2-12242",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12240",
+      "title": "TERMINAL TUBULAR ILHÓS 4,0MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3609",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-ilhos-40mm2-12240",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12239",
+      "title": "TERMINAL TUBULAR ILHÓS 6,0MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3610",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-ilhos-60mm2-12239",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12238",
+      "title": "TERMINAL TUBULAR ILHÓS PRÉ-ISOLADO 16MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3612",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-ilhos-preisolado-16mm2-12238",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12237",
+      "title": "TERMINAL TUBULAR ISOLADO 1,0MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3606",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-isolado-10mm2-12237",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12236",
+      "title": "TERMINAL TUBULAR PRÉ-ISOLADO 25MM²",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CT3613",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-tubular-preisolado-25mm2-12236",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12227",
+      "title": "TUBO TERMO RETRÁTIL 600V 10MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW8",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-10mm-12227",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12235",
+      "title": "TUBO TERMO RETRÁTIL 600V 13MM -> 6,5MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW13",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-13mm-65mm-12235",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12226",
+      "title": "TUBO TERMO RETRÁTIL 600V 16MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW10",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-16mm-12226",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12234",
+      "title": "TUBO TERMO RETRÁTIL 600V 18MM -> 9MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW18",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-18mm-9mm-12234",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12233",
+      "title": "TUBO TERMO RETRÁTIL 600V 22MM -> 11MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW22",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-22mm-11mm-12233",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12232",
+      "title": "TUBO TERMO RETRÁTIL 600V 25MM -> 12,5MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW25",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-25mm-125mm-12232",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12267",
+      "title": "TUBO TERMO RETRÁTIL 600V 35MM -> 17,5MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW35",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-35mm-175mm-12267",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12228",
+      "title": "TUBO TERMO RETRÁTIL 600V 4,0 - 6,0MM",
+      "brand": "CRIMPER",
+      "brandCode": "1052",
+      "supplier": "CRIMPER",
+      "supplierCode": "5590",
+      "manufacturerCode": "CW6",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/tubo-termo-retratil-600v-40--60mm-12228",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 28,
+    "pageBase": "acessorios-e-consumiveis--fornecedor-5590"
+  }
+}

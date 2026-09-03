@@ -1,0 +1,112 @@
+{
+  "title": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+  "parentLabel": "Componentes Mecânicos",
+  "description": "Produtos da categoria rolamentos e caixas de rolamento em componentes mecânicos.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Mecânicos",
+      "to": "/spare-parts-energy/componentes-mecanicos"
+    },
+    {
+      "label": "ROLAMENTOS E CAIXAS DE ROLAMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7652",
+      "title": "ROLAMENTO (IMP) 6209-2Z",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "589",
+      "category": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+      "categorySlug": "rolamentos-e-caixas-de-rolamento",
+      "path": "/rolamento-imp-62092z-7652",
+      "image": "/products/images/0076/7652.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "7653",
+      "title": "ROLAMENTO (IMP) 6311-2Z/C3",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "1024",
+      "category": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+      "categorySlug": "rolamentos-e-caixas-de-rolamento",
+      "path": "/rolamento-imp-63112zc3-7653",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "6494",
+      "title": "ROLAMENTO 6208-2Z/C3",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "580",
+      "category": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+      "categorySlug": "rolamentos-e-caixas-de-rolamento",
+      "path": "/rolamento-62082zc3-6494",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "6495",
+      "title": "ROLAMENTO 6306-2Z",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "826",
+      "category": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+      "categorySlug": "rolamentos-e-caixas-de-rolamento",
+      "path": "/rolamento-63062z-6495",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "9982",
+      "title": "ROLAMENTO RÍGIDO DE ESFERAS  SKF REF 6306-2RS1",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "6306-2RS1",
+      "category": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+      "categorySlug": "rolamentos-e-caixas-de-rolamento",
+      "path": "/rolamento-rigido-de-esferas-skf-ref-63062rs1-9982",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "spare-parts-energy--componentes-mecanicos--rolamentos-e-caixas-de-rolamento"
+  }
+}

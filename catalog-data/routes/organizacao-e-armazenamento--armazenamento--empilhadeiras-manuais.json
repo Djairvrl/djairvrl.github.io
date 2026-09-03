@@ -1,0 +1,44 @@
+{
+  "title": "EMPILHADEIRAS MANUAIS",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria empilhadeiras manuais em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "EMPILHADEIRAS MANUAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12345",
+      "title": "PLATAFORMA ELEVATORIA MANUAL PEM",
+      "brand": "SEEK ENGENHARIA",
+      "brandCode": "1093",
+      "supplier": "SEEK ENGENHARIA LTDA",
+      "supplierCode": "5780",
+      "manufacturerCode": "2000000000002",
+      "category": "EMPILHADEIRAS MANUAIS",
+      "categorySlug": "empilhadeiras-manuais",
+      "path": "/plataforma-elevatoria-manual-pem-12345",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--empilhadeiras-manuais"
+  }
+}

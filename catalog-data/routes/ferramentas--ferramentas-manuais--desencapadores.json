@@ -1,0 +1,78 @@
+{
+  "title": "DESENCAPADORES",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria desencapadores em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "DESENCAPADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12718",
+      "title": "ALIC DESENCAPADOR DE FIOS 8\" AUTO",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3686000008",
+      "category": "DESENCAPADORES",
+      "categorySlug": "desencapadores",
+      "path": "/alic-desencapador-de-fios-8-auto-12718",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12958",
+      "title": "ALICATE DECAPADOR STAUBLI",
+      "brand": "STAUBLI",
+      "brandCode": "1160",
+      "supplier": "STAUBLI COMERCIO, IMPORTACAO, EXPORTACAO E REPRESENTACOES LT",
+      "supplierCode": "2249",
+      "manufacturerCode": "326027410",
+      "category": "DESENCAPADORES",
+      "categorySlug": "desencapadores",
+      "path": "/alicate-decapador-staubli-12958",
+      "image": "/products/images/0129/12958.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11330",
+      "title": "DESENCAPADOR REF 8147",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "050775",
+      "category": "DESENCAPADORES",
+      "categorySlug": "desencapadores",
+      "path": "/desencapador-ref-8147-11330",
+      "image": "/products/images/0113/11330.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-manuais--desencapadores"
+  }
+}

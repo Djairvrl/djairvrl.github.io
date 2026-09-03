@@ -1,0 +1,78 @@
+{
+  "title": "LIMPADOR",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria limpador em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "LIMPADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7470",
+      "title": "CLORO TABLETE - GENCO AQUATRAT - 900 G",
+      "brand": "GENCO",
+      "brandCode": "475",
+      "supplier": "EQUIBOMBAS LAZER COMERCIO DE EQUIPAMENTOS E ACESSORIOS PARA",
+      "supplierCode": "1668",
+      "manufacturerCode": "5031",
+      "category": "LIMPADOR",
+      "categorySlug": "limpador",
+      "path": "/cloro-tablete--genco-aquatrat--900-g-7470",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4086",
+      "title": "LIMPADOR DE VIDROS COMB 2EM1 C/CABO 25CM",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "BRALIMPIA IND COM DE EQ P LIMP LTDA",
+      "supplierCode": "773",
+      "manufacturerCode": "SCCB250",
+      "category": "LIMPADOR",
+      "categorySlug": "limpador",
+      "path": "/limpador-de-vidros-comb-2em1-ccabo-25cm-4086",
+      "image": "/products/images/0040/4086.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7860",
+      "title": "ORBI CLEAN LIMPA PARABRISA 100ML",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "1577",
+      "category": "LIMPADOR",
+      "categorySlug": "limpador",
+      "path": "/orbi-clean-limpa-parabrisa-100ml-7860",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--limpador"
+  }
+}

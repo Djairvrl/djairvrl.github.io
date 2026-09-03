@@ -1,0 +1,78 @@
+{
+  "title": "ACOPLAMENTOS",
+  "parentLabel": "Componentes Mecânicos",
+  "description": "Produtos da categoria acoplamentos em componentes mecânicos.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Mecânicos",
+      "to": "/spare-parts-energy/componentes-mecanicos"
+    },
+    {
+      "label": "ACOPLAMENTOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9724",
+      "title": "ELEMENTO ELASTICO SP-14/GR-14",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SO VEDACOES COMERCIAL LTDA",
+      "supplierCode": "2701",
+      "manufacturerCode": "10483",
+      "category": "ACOPLAMENTOS",
+      "categorySlug": "acoplamentos",
+      "path": "/elemento-elastico-sp14gr14-9724",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "11111",
+      "title": "FLEXIBLE L100 NBR RUBBER SPIDER INSERT",
+      "brand": "GRLITRA",
+      "brandCode": "882",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "L100NBR",
+      "category": "ACOPLAMENTOS",
+      "categorySlug": "acoplamentos",
+      "path": "/flexible-l100-nbr-rubber-spider-insert-11111",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "11133",
+      "title": "FLEXIBLE L100 NBR SPIDER INSERT SOLID",
+      "brand": "FITS FOR",
+      "brandCode": "889",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "9695",
+      "category": "ACOPLAMENTOS",
+      "categorySlug": "acoplamentos",
+      "path": "/flexible-l100-nbr-spider-insert-solid-11133",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "spare-parts-energy--componentes-mecanicos--acoplamentos"
+  }
+}

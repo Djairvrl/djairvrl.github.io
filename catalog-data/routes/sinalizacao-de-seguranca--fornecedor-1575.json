@@ -1,0 +1,140 @@
+{
+  "title": "Sinalização de Segurança",
+  "parentLabel": "Departamento",
+  "description": "Produtos de HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança"
+    }
+  ],
+  "children": [
+    {
+      "name": "Placas de Advertência e Emergência",
+      "slug": "placas-de-advertencia-e-emergencia",
+      "path": "/sinalizacao-de-seguranca/placas-de-advertencia-e-emergencia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Sinalização Viária, Tráfego e Delimitação",
+      "slug": "sinalizacao-viaria-trafego-e-delimitacao",
+      "path": "/sinalizacao-de-seguranca/sinalizacao-viaria-trafego-e-delimitacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Adesivo Refletivo Grau Prismático Iii",
+      "slug": "adesivo-refletivo-grau-prismatico-iii",
+      "path": "/sinalizacao-de-seguranca/adesivo-refletivo-grau-prismatico-iii",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Placas E Dispositivos",
+      "slug": "placas-e-dispositivos",
+      "path": "/sinalizacao-de-seguranca/placas-e-dispositivos",
+      "count": 179,
+      "categories": [
+        {
+          "name": "SINALIZAÇÃO DE EXTINTORES",
+          "slug": "sinalizacao-de-extintores",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-extintores",
+          "count": 27
+        },
+        {
+          "name": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+          "slug": "sinalizacao-de-proibicao-e-alerta",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-proibicao-e-alerta",
+          "count": 7
+        },
+        {
+          "name": "SINALIZAÇÃO EQUIPAMENTOS",
+          "slug": "sinalizacao-equipamentos",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-equipamentos",
+          "count": 2
+        },
+        {
+          "name": "SINALIZAÇÃO ROTA DE FUGA",
+          "slug": "sinalizacao-rota-de-fuga",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-rota-de-fuga",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÃO VIÁRIA",
+          "slug": "sinalizacao-viaria",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-viaria",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÕES DIVERSAS",
+          "slug": "sinalizacoes-diversas",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacoes-diversas",
+          "count": 71
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1575",
+    "name": "HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA"
+  },
+  "products": [
+    {
+      "code": "8750",
+      "title": "PLACA  PROT  HDPRENE 5,5 A 6,0X98X150MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "supplierCode": "1575",
+      "manufacturerCode": "PURCHCRM7X98X150",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-prot-hdprene-55-a-60x98x150mm-8750",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "9693",
+      "title": "PLACA  PROT  HDPRENE 7 A 7.5X150X196MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "supplierCode": "1575",
+      "manufacturerCode": "PURCHCRM7X98X150",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-prot-hdprene-7-a-75x150x196mm-9693",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "7292",
+      "title": "PLACA PROT HD 92/95 7A7.5X98X150MM-48MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "supplierCode": "1575",
+      "manufacturerCode": "7292",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-prot-hd-9295-7a75x98x150mm48mm-7292",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "sinalizacao-de-seguranca--fornecedor-1575"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Equipamentos Industriais",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MEDEIROS GALVAO SOLUCOES LTDA - MTZ neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Equipamentos Industriais"
+    }
+  ],
+  "children": [
+    {
+      "name": "Equipamentos De Lubrificação",
+      "slug": "equipamentos-de-lubrificacao",
+      "path": "/equipamentos-industriais/equipamentos-de-lubrificacao",
+      "count": 11,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+          "slug": "acessorios-para-bomba-de-lubrificacao",
+          "path": "/equipamentos-industriais/equipamentos-de-lubrificacao/acessorios-para-bomba-de-lubrificacao",
+          "count": 8
+        },
+        {
+          "name": "BOMBAS DE GRAXA HIGH PRESSURE",
+          "slug": "bombas-de-graxa-high-pressure",
+          "path": "/equipamentos-industriais/equipamentos-de-lubrificacao/bombas-de-graxa-high-pressure",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "4",
+    "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ"
+  },
+  "products": [
+    {
+      "code": "12401",
+      "title": "GREASEMANAGER HIGH PRESSURE 230V SCHUKO",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "351056",
+      "category": "BOMBAS DE GRAXA HIGH PRESSURE",
+      "categorySlug": "bombas-de-graxa-high-pressure",
+      "path": "/greasemanager-high-pressure-230v-schuko-12401",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "equipamentos-industriais--fornecedor-4"
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "title": "Organização e Armazenamento",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FERRAMENTAS GEDORE DO BRASIL S.A. neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento"
+    }
+  ],
+  "children": [
+    {
+      "name": "Organização de Oficina e Bancada",
+      "slug": "organizacao-de-oficina-e-bancada",
+      "path": "/organizacao-e-armazenamento/organizacao-de-oficina-e-bancada",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento e Estruturas de Estoque",
+      "slug": "armazenamento-e-estruturas-de-estoque",
+      "path": "/organizacao-e-armazenamento/armazenamento-e-estruturas-de-estoque",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Movimentação e Intralogística",
+      "slug": "movimentacao-e-intralogistica",
+      "path": "/organizacao-e-armazenamento/movimentacao-e-intralogistica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento",
+      "slug": "armazenamento",
+      "path": "/organizacao-e-armazenamento/armazenamento",
+      "count": 183,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/organizacao-e-armazenamento/armazenamento/acessorios",
+          "count": 24
+        },
+        {
+          "name": "ARMÁRIOS",
+          "slug": "armarios",
+          "path": "/organizacao-e-armazenamento/armazenamento/armarios",
+          "count": 50
+        },
+        {
+          "name": "CAIXAS E CASES",
+          "slug": "caixas-e-cases",
+          "path": "/organizacao-e-armazenamento/armazenamento/caixas-e-cases",
+          "count": 20
+        },
+        {
+          "name": "CARRINHOS DE CARGA",
+          "slug": "carrinhos-de-carga",
+          "path": "/organizacao-e-armazenamento/armazenamento/carrinhos-de-carga",
+          "count": 5
+        },
+        {
+          "name": "EMPILHADEIRAS MANUAIS",
+          "slug": "empilhadeiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/empilhadeiras-manuais",
+          "count": 1
+        },
+        {
+          "name": "ESTANTES",
+          "slug": "estantes",
+          "path": "/organizacao-e-armazenamento/armazenamento/estantes",
+          "count": 24
+        },
+        {
+          "name": "FILME",
+          "slug": "filme",
+          "path": "/organizacao-e-armazenamento/armazenamento/filme",
+          "count": 5
+        },
+        {
+          "name": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+          "slug": "mesas-hidraulicas-pantograficas",
+          "path": "/organizacao-e-armazenamento/armazenamento/mesas-hidraulicas-pantograficas",
+          "count": 1
+        },
+        {
+          "name": "PALETEIRAS ELÉTRICAS",
+          "slug": "paleteiras-eletricas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-eletricas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS HIDRÁULICAS",
+          "slug": "paleteiras-hidraulicas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-hidraulicas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS MANUAIS",
+          "slug": "paleteiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-manuais",
+          "count": 10
+        },
+        {
+          "name": "PALETES PLÁSTICOS",
+          "slug": "paletes-plasticos",
+          "path": "/organizacao-e-armazenamento/armazenamento/paletes-plasticos",
+          "count": 1
+        },
+        {
+          "name": "PISOS MODULARES",
+          "slug": "pisos-modulares",
+          "path": "/organizacao-e-armazenamento/armazenamento/pisos-modulares",
+          "count": 2
+        },
+        {
+          "name": "PORTA PALETES",
+          "slug": "porta-paletes",
+          "path": "/organizacao-e-armazenamento/armazenamento/porta-paletes",
+          "count": 25
+        },
+        {
+          "name": "PRATELEIRA",
+          "slug": "prateleira",
+          "path": "/organizacao-e-armazenamento/armazenamento/prateleira",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Organização",
+      "slug": "organizacao",
+      "path": "/organizacao-e-armazenamento/organizacao",
+      "count": 150,
+      "categories": [
+        {
+          "name": "BANCADAS DE TRABALHO",
+          "slug": "bancadas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/bancadas-de-trabalho",
+          "count": 24
+        },
+        {
+          "name": "BOLSAS PARA FERRAMENTAS",
+          "slug": "bolsas-para-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/bolsas-para-ferramentas",
+          "count": 55
+        },
+        {
+          "name": "CARRINHOS DE FERRAMENTAS",
+          "slug": "carrinhos-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/carrinhos-de-ferramentas",
+          "count": 7
+        },
+        {
+          "name": "CLAVICULARIOS",
+          "slug": "clavicularios",
+          "path": "/organizacao-e-armazenamento/organizacao/clavicularios",
+          "count": 16
+        },
+        {
+          "name": "MALETAS DE TRABALHO",
+          "slug": "maletas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/maletas-de-trabalho",
+          "count": 18
+        },
+        {
+          "name": "ORGANIZADORES",
+          "slug": "organizadores",
+          "path": "/organizacao-e-armazenamento/organizacao/organizadores",
+          "count": 13
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/organizacao-e-armazenamento/organizacao/outros",
+          "count": 8
+        },
+        {
+          "name": "PAINÉIS DE FERRAMENTAS",
+          "slug": "paineis-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/paineis-de-ferramentas",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "174",
+    "name": "FERRAMENTAS GEDORE DO BRASIL S.A."
+  },
+  "products": [
+    {
+      "code": "3684",
+      "title": "AMÁRIO UNIVERSAL \"JUMBO\" COM DIVISÓRIAS  - GEDORE REF. 52510",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001061",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/amario-universal-jumbo-com-divisorias--gedore-ref-52510-3684",
+      "image": "/products/images/0036/3684.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "3479",
+      "title": "ARMARIO COM CHAPA PERFURADA 52640",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001062",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-com-chapa-perfurada-52640-3479",
+      "image": "/products/images/0034/3479.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "3477",
+      "title": "ARMARIO PARA FERRAMENTAS 1400",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001004",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-para-ferramentas-1400-3477",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "5941",
+      "title": "ARMÁRIO UNIVERSAL PARA FERRAMENTAS 2 PORTAS 4 GAVETAS 2 PRATELEIRAS - GEDORE REF 52640",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001062",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-universal-para-ferramentas-2-portas-4-gavetas-2-prateleiras--gedore-ref-52640-5941",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "5943",
+      "title": "BANCADA C/2 MODULOS 30870-84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "099156",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-c2-modulos-3087084622-5943",
+      "image": "/products/images/0059/5943.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6223",
+      "title": "BANCADA COM 2 MÓDULOS 10 GAVETAS E 1 PORTA TAMPO EM MADEIRA - GEDORE 30825-84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "007055",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-com-2-modulos-10-gavetas-e-1-porta-tampo-em-madeira--gedore-3082584622-6223",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "3909",
+      "title": "BANCADA COM 2 MÓDULOS 3 GAVETAS 1 PORTA 2000 X 840 X 700MM - GEDORE REF.  30835 - 84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "007057",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-com-2-modulos-3-gavetas-1-porta-2000-x-840-x-700mm--gedore-ref-30835--84622-3909",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "3476",
+      "title": "BANCADA COM SUPORTE (PÉS) REGULÁVEIS - GEDORE REF. 30300 - 84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "007060",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-com-suporte-pes-regulaveis--gedore-ref-30300--84622-3476",
+      "image": "/products/images/0034/3476.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "4913",
+      "title": "BOLSA EM LONA PARA FERRAMENTAS 20 BOLSOS 30KG - ROBUST S20805000",
+      "brand": "ROBUST",
+      "brandCode": "82",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3370141",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-em-lona-para-ferramentas-20-bolsos-30kg--robust-s20805000-4913",
+      "image": "/products/images/0049/4913.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "3866",
+      "title": "CAIXA TIPO GABINETE COM 4 GAVETAS 1002",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001001",
+      "category": "MALETAS DE TRABALHO",
+      "categorySlug": "maletas-de-trabalho",
+      "path": "/caixa-tipo-gabinete-com-4-gavetas-1002-3866",
+      "image": "/products/images/0038/3866.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "4516",
+      "title": "CARRO PARA FERRAMENTAS R20150106",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3301664",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carro-para-ferramentas-r20150106-4516",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7193",
+      "title": "MALETA VDE PARA ELETRECISTA 1091 18 PCS",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "048326",
+      "category": "MALETAS DE TRABALHO",
+      "categorySlug": "maletas-de-trabalho",
+      "path": "/maleta-vde-para-eletrecista-1091-18-pcs-7193",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6741",
+      "title": "MOCHILA PARA FERRAMENTAS WT 1056 11",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "091061",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/mochila-para-ferramentas-wt-1056-11-6741",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "5942",
+      "title": "PAINEL PARA FERRAMENTAS COM CORTINA PVC - GEDORE REF R1501",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001126",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-para-ferramentas-com-cortina-pvc--gedore-ref-r1501-5942",
+      "image": "/products/images/0059/5942.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7608",
+      "title": "TAMPO COM BUCHAS 84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "007506",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/tampo-com-buchas-84622-7608",
+      "image": "/products/images/0076/7608.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 15,
+    "pageBase": "organizacao-e-armazenamento--fornecedor-174"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "FLUIDOS DE CORTE E REFRIGERAÇÃO",
+  "parentLabel": "Fluidos Especiais",
+  "description": "Produtos da categoria fluidos de corte e refrigeração em fluidos especiais.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos",
+      "to": "/lubrificantes-e-fluidos"
+    },
+    {
+      "label": "Fluidos Especiais",
+      "to": "/lubrificantes-e-fluidos/fluidos-especiais"
+    },
+    {
+      "label": "FLUIDOS DE CORTE E REFRIGERAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13128",
+      "title": "FLUIDO REFRIGERANTE INGERSOLL XL740HT 1L",
+      "brand": "INGERSOLL",
+      "brandCode": "1188",
+      "supplier": "TECNOAR TECNICA E COMERCIO DE COMPRESSORES LTDA",
+      "supplierCode": "6120",
+      "manufacturerCode": "3075",
+      "category": "FLUIDOS DE CORTE E REFRIGERAÇÃO",
+      "categorySlug": "fluidos-de-corte-e-refrigeracao",
+      "path": "/fluido-refrigerante-ingersoll-xl740ht-1l-13128",
+      "image": "/products/images/0131/13128.png",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Fluidos Especiais",
+      "sectionSlug": "fluidos-especiais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "lubrificantes-e-fluidos--fluidos-especiais--fluidos-de-corte-e-refrigeracao"
+  }
+}

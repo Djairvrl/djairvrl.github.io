@@ -1,0 +1,36 @@
+{
+  "title": "FLIR",
+  "parentLabel": "Marca",
+  "description": "Produtos FLIR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FLIR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9276",
+      "title": "CAMERA TERMICA DE BOLSO -20 A 400°C",
+      "brand": "FLIR",
+      "brandCode": "276",
+      "supplier": "BAGAREL COMERCIO DE INSTRUMENTOS LTDA",
+      "supplierCode": "2476",
+      "manufacturerCode": "031410",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-termica-de-bolso-20-a-400c-9276",
+      "image": "/products/images/0092/9276.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--276--flir"
+  }
+}

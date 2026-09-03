@@ -1,0 +1,87 @@
+{
+  "title": "NOBRE",
+  "parentLabel": "Marca",
+  "description": "Produtos NOBRE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NOBRE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11827",
+      "title": "DISPENSADOR P/COPO150 A 200ML BCO 1X1",
+      "brand": "NOBRE",
+      "brandCode": "989",
+      "supplier": "CASA NORTE LTDA",
+      "supplierCode": "4511",
+      "manufacturerCode": "98720",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/dispensador-pcopo150-a-200ml-bco-1x1-11827",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12214",
+      "title": "PANO MULT SLIM(RL C/20CMX300M PIC 50CM",
+      "brand": "NOBRE",
+      "brandCode": "989",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "31186",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pano-mult-slimrl-c20cmx300m-pic-50cm-12214",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13189",
+      "title": "PANO MULTIUSO AZUL 28CMX240M NOBRE",
+      "brand": "NOBRE",
+      "brandCode": "989",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "2758",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pano-multiuso-azul-28cmx240m-nobre-13189",
+      "image": "/products/images/0131/13189.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12899",
+      "title": "PANO MULTIUSO ROL 28CMX25MT C/50 AZUL",
+      "brand": "NOBRE",
+      "brandCode": "989",
+      "supplier": "TUTTO LIMPO COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "5997",
+      "manufacturerCode": "310556",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pano-multiuso-rol-28cmx25mt-c50-azul-12899",
+      "image": "/products/images/0128/12899.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--989--nobre"
+  }
+}

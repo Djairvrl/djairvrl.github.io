@@ -1,0 +1,61 @@
+{
+  "title": "BANQUETA ISOLANTE",
+  "parentLabel": "NR-10",
+  "description": "Produtos da categoria banqueta isolante em nr-10.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "NR-10",
+      "to": "/epis-e-epcs/nr-10"
+    },
+    {
+      "label": "BANQUETA ISOLANTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "574",
+      "title": "BANQUETA ISOLANTE PARA TENSÃO NOMINAL DE 40KV RITZ  FLV21504-1",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "0666025991",
+      "category": "BANQUETA ISOLANTE",
+      "categorySlug": "banqueta-isolante",
+      "path": "/banqueta-isolante-para-tensao-nominal-de-40kv-ritz-flv215041-574",
+      "image": "/products/images/0005/574.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "5382",
+      "title": "PE DE BORRACHA DA BANQUETA FLV21504-1",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "2000281",
+      "category": "BANQUETA ISOLANTE",
+      "categorySlug": "banqueta-isolante",
+      "path": "/pe-de-borracha-da-banqueta-flv215041-5382",
+      "image": "/products/images/0053/5382.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--nr-10--banqueta-isolante"
+  }
+}

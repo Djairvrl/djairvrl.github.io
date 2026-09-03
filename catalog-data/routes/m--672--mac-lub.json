@@ -1,0 +1,36 @@
+{
+  "title": "MAC LUB",
+  "parentLabel": "Marca",
+  "description": "Produtos MAC LUB disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAC LUB"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9364",
+      "title": "ENGRAXADEIRA MAN MAC35 EXP MANG 1,3M VM",
+      "brand": "MAC LUB",
+      "brandCode": "672",
+      "supplier": "MAC LUB INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "2524",
+      "manufacturerCode": "ML0035.1013",
+      "category": "BOMBAS DE GRAXA MANUAL",
+      "categorySlug": "bombas-de-graxa-manual",
+      "path": "/engraxadeira-man-mac35-exp-mang-13m-vm-9364",
+      "image": "/products/images/0093/9364.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--672--mac-lub"
+  }
+}

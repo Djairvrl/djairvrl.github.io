@@ -1,0 +1,36 @@
+{
+  "title": "HMDQ",
+  "parentLabel": "Marca",
+  "description": "Produtos HMDQ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HMDQ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8187",
+      "title": "TESTADOR DE PROTECAO DE RELE 1000 HZ",
+      "brand": "HMDQ",
+      "brandCode": "584",
+      "supplier": "SENSORES E INSTRUMENTACION GUEMISA",
+      "supplierCode": "1567",
+      "manufacturerCode": "HMJBC-802",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/testador-de-protecao-de-rele-1000-hz-8187",
+      "image": "/products/images/0081/8187.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--584--hmdq"
+  }
+}

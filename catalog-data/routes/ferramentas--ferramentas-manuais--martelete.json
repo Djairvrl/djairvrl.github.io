@@ -1,0 +1,44 @@
+{
+  "title": "MARTELETE",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria martelete em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "MARTELETE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11380",
+      "title": "K1900 MARTELETE MANUAL DE IMPACTO",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "024010",
+      "category": "MARTELETE",
+      "categorySlug": "martelete",
+      "path": "/k1900-martelete-manual-de-impacto-11380",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-manuais--martelete"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "APLICADOR",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria aplicador em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "APLICADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9453",
+      "title": "APLICADOR 400 ML",
+      "brand": "WALSYWA",
+      "brandCode": "683",
+      "supplier": "WALSYWA INDUSTRIA E COMERCIO DE PRODUTOS METALURGICOS LTDA",
+      "supplierCode": "2568",
+      "manufacturerCode": "560029",
+      "category": "APLICADOR",
+      "categorySlug": "aplicador",
+      "path": "/aplicador-400-ml-9453",
+      "image": "/products/images/0094/9453.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "9158",
+      "title": "APLICADOR DE GRANULOS 18L GM.12",
+      "brand": "JACTO",
+      "brandCode": "648",
+      "supplier": "MAQUINAS AGRICOLAS JACTO S A",
+      "supplierCode": "2399",
+      "manufacturerCode": "000000000001278419",
+      "category": "APLICADOR",
+      "categorySlug": "aplicador",
+      "path": "/aplicador-de-granulos-18l-gm12-9158",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "2948",
+      "title": "APLICADOR DE SELANTE EM ALUMÍNIO 340X210MM - GEDORE RED REF. R99210000",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3301753",
+      "category": "APLICADOR",
+      "categorySlug": "aplicador",
+      "path": "/aplicador-de-selante-em-aluminio-340x210mm--gedore-red-ref-r99210000-2948",
+      "image": "/products/images/0029/2948.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "412",
+      "title": "APLICADOR DE SILICONE 750ML HASTE 8MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8864855",
+      "category": "APLICADOR",
+      "categorySlug": "aplicador",
+      "path": "/aplicador-de-silicone-750ml-haste-8mm-412",
+      "image": "/products/images/0004/412.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "6958",
+      "title": "PISTOLA APLICADORA DE SILICONE TUBO ALUMÍNIO 600ML - TRAMONTINA MASTER 43198003",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "43198003",
+      "category": "APLICADOR",
+      "categorySlug": "aplicador",
+      "path": "/pistola-aplicadora-de-silicone-tubo-aluminio-600ml--tramontina-master-43198003-6958",
+      "image": "/products/images/0069/6958.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--construcao-civil--aplicador"
+  }
+}

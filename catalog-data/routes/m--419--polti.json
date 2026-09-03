@@ -1,0 +1,36 @@
+{
+  "title": "POLTI",
+  "parentLabel": "Marca",
+  "description": "Produtos POLTI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "POLTI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7137",
+      "title": "GUINCHO ELÉTRICO 500KG PARA CAMINHONETE - POLTI 0215001",
+      "brand": "POLTI",
+      "brandCode": "419",
+      "supplier": "LDM - COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1515",
+      "manufacturerCode": "0215001",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/guincho-eletrico-500kg-para-caminhonete--polti-0215001-7137",
+      "image": "/products/images/0071/7137.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--419--polti"
+  }
+}

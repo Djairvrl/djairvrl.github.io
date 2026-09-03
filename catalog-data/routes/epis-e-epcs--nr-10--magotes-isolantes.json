@@ -1,0 +1,44 @@
+{
+  "title": "MAGOTES ISOLANTES",
+  "parentLabel": "NR-10",
+  "description": "Produtos da categoria magotes isolantes em nr-10.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "NR-10",
+      "to": "/epis-e-epcs/nr-10"
+    },
+    {
+      "label": "MAGOTES ISOLANTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7373",
+      "title": "MANGA ISOLANTE DE BORRACHA CLASSE 4",
+      "brand": "ORION",
+      "brandCode": "27",
+      "supplier": "ORION S.A.",
+      "supplierCode": "64",
+      "manufacturerCode": "7373",
+      "category": "MAGOTES ISOLANTES",
+      "categorySlug": "magotes-isolantes",
+      "path": "/manga-isolante-de-borracha-classe-4-7373",
+      "image": "/products/images/0073/7373.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--nr-10--magotes-isolantes"
+  }
+}

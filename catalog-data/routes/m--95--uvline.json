@@ -1,0 +1,53 @@
+{
+  "title": "UVLINE",
+  "parentLabel": "Marca",
+  "description": "Produtos UVLINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UVLINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "836",
+      "title": "CAMISETA  PROT SOLAR UVPROL VERD NEO",
+      "brand": "UVLINE",
+      "brandCode": "95",
+      "supplier": "UVLINE COM E SERV DE ART DE PROT SOLAR",
+      "supplierCode": "226",
+      "manufacturerCode": "04.10.0014015",
+      "category": "VESTIMENTAS AGRÍCOLAS",
+      "categorySlug": "vestimentas-agricolas",
+      "path": "/camiseta-prot-solar-uvprol-verd-neo-836",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "592",
+      "title": "CHAPÉU KANSAS COM PROTEÇÃO SOLAR UV.LINE",
+      "brand": "UVLINE",
+      "brandCode": "95",
+      "supplier": "UVLINE COM E SERV DE ART DE PROT SOLAR",
+      "supplierCode": "226",
+      "manufacturerCode": "0210045",
+      "category": "CAPUZ E BALACLAVA",
+      "categorySlug": "capuz-e-balaclava",
+      "path": "/chapeu-kansas-com-protecao-solar-uvline-592",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--95--uvline"
+  }
+}

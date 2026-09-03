@@ -1,0 +1,36 @@
+{
+  "title": "SOUTH",
+  "parentLabel": "Marca",
+  "description": "Produtos SOUTH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOUTH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13136",
+      "title": "TEODOLITO ELETRONICO",
+      "brand": "SOUTH",
+      "brandCode": "1189",
+      "supplier": "CPE COMERCIO DE EQUIPAMENTOS TOPOGRAFICOS LTDA",
+      "supplierCode": "6126",
+      "manufacturerCode": "ET02",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/teodolito-eletronico-13136",
+      "image": "/products/images/0131/13136.webp",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1189--south"
+  }
+}

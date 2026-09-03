@@ -1,0 +1,95 @@
+{
+  "title": "ANEMÔMETRO",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria anemômetro em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "ANEMÔMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9216",
+      "title": "ANEMOMETRO",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MDA-10A",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-9216",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12225",
+      "title": "ANEMOMETRO DIGITAL",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "3015",
+      "manufacturerCode": "MDA-11A",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-digital-12225",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7574",
+      "title": "ANEMOMETRO DIGITAL PORTATIL KITE DRONE",
+      "brand": "PARAGLIDER",
+      "brandCode": "506",
+      "supplier": "RPC - COMMERCE MANUTENCAO DE COMPUTADORES LTDA",
+      "supplierCode": "1701",
+      "manufacturerCode": "2904",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-digital-portatil-kite-drone-7574",
+      "image": "/products/images/0075/7574.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "13274",
+      "title": "ANENOMETRO DIGITAL",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MDA-10B",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anenometro-digital-13274",
+      "image": "/products/images/0132/13274.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--anemometro"
+  }
+}

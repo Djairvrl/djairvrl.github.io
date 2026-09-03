@@ -1,0 +1,87 @@
+{
+  "title": "GABI",
+  "parentLabel": "Marca",
+  "description": "Produtos GABI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GABI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11067",
+      "title": "LUVA DE VAQUETA TAM 10 CA12230",
+      "brand": "GABI",
+      "brandCode": "870",
+      "supplier": "J & G LUVAS DE SEGURANCA LTDA",
+      "supplierCode": "4427",
+      "manufacturerCode": "1",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-de-vaqueta-tam-10-ca12230-11067",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "11073",
+      "title": "LUVA DE VAQUETA TAM 11 CA 12230",
+      "brand": "GABI",
+      "brandCode": "870",
+      "supplier": "J & G LUVAS DE SEGURANCA LTDA",
+      "supplierCode": "4427",
+      "manufacturerCode": "23",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-de-vaqueta-tam-11-ca-12230-11073",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "11121",
+      "title": "LUVA DE VAQUETA TAM 12 CA 12230",
+      "brand": "GABI",
+      "brandCode": "870",
+      "supplier": "J & G LUVAS DE SEGURANCA LTDA",
+      "supplierCode": "4427",
+      "manufacturerCode": "930572",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-de-vaqueta-tam-12-ca-12230-11121",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "11066",
+      "title": "LUVA DE VAQUETA TAM 9 CA12230",
+      "brand": "GABI",
+      "brandCode": "870",
+      "supplier": "J & G LUVAS DE SEGURANCA LTDA",
+      "supplierCode": "4427",
+      "manufacturerCode": "38",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-de-vaqueta-tam-9-ca12230-11066",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--870--gabi"
+  }
+}

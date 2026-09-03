@@ -1,0 +1,44 @@
+{
+  "title": "ATERRAMENTOS ESTÁTICOS",
+  "parentLabel": "NR-10",
+  "description": "Produtos da categoria aterramentos estáticos em nr-10.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "NR-10",
+      "to": "/epis-e-epcs/nr-10"
+    },
+    {
+      "label": "ATERRAMENTOS ESTÁTICOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12721",
+      "title": "CONJ DE ATERRAMENTO ESTATICO DES.11192",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "RT600-0891",
+      "category": "ATERRAMENTOS ESTÁTICOS",
+      "categorySlug": "aterramentos-estaticos",
+      "path": "/conj-de-aterramento-estatico-des11192-12721",
+      "image": "/products/images/0127/12721.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--nr-10--aterramentos-estaticos"
+  }
+}

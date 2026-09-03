@@ -1,0 +1,660 @@
+{
+  "title": "Spare Parts Energy",
+  "parentLabel": "Departamento",
+  "description": "Produtos de HYDAC TECNOLOGIA LTDA. neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy"
+    }
+  ],
+  "children": [
+    {
+      "name": "Componentes Hidráulicos e Refrigeração",
+      "slug": "componentes-hidraulicos-e-refrigeracao",
+      "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao",
+      "count": 72,
+      "categories": [
+        {
+          "name": "ACUMULADORES",
+          "slug": "acumuladores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/acumuladores",
+          "count": 1
+        },
+        {
+          "name": "CILINDROS",
+          "slug": "cilindros",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/cilindros",
+          "count": 6
+        },
+        {
+          "name": "CONECTORES E ADAPTADORES",
+          "slug": "conectores-e-adaptadores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/conectores-e-adaptadores",
+          "count": 14
+        },
+        {
+          "name": "INDICADORES DE NÍVEL / TEMPERATURA",
+          "slug": "indicadores-de-nivel-temperatura",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/indicadores-de-nivel-temperatura",
+          "count": 3
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/mangueiras",
+          "count": 6
+        },
+        {
+          "name": "SISTEMAS FILTRANTES",
+          "slug": "sistemas-filtrantes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/sistemas-filtrantes",
+          "count": 22
+        },
+        {
+          "name": "VEDAÇÕES",
+          "slug": "vedacoes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/vedacoes",
+          "count": 16
+        },
+        {
+          "name": "VÁLVULAS",
+          "slug": "valvulas",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/valvulas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Componentes Mecânicos",
+      "slug": "componentes-mecanicos",
+      "path": "/spare-parts-energy/componentes-mecanicos",
+      "count": 13,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE ENGRENAGEM",
+          "slug": "acessorios-de-engrenagem",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-de-engrenagem",
+          "count": 1
+        },
+        {
+          "name": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+          "slug": "acessorios-para-equipamentos-pesados",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-para-equipamentos-pesados",
+          "count": 4
+        },
+        {
+          "name": "ACOPLAMENTOS",
+          "slug": "acoplamentos",
+          "path": "/spare-parts-energy/componentes-mecanicos/acoplamentos",
+          "count": 3
+        },
+        {
+          "name": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+          "slug": "rolamentos-e-caixas-de-rolamento",
+          "path": "/spare-parts-energy/componentes-mecanicos/rolamentos-e-caixas-de-rolamento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis e Elementos de Fixação",
+      "slug": "consumiveis-e-elementos-de-fixacao",
+      "path": "/spare-parts-energy/consumiveis-e-elementos-de-fixacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Grandes Componentes e Transmissão",
+      "slug": "grandes-componentes-e-transmissao",
+      "path": "/spare-parts-energy/grandes-componentes-e-transmissao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Componentes Elétricos",
+      "slug": "componentes-eletricos",
+      "path": "/spare-parts-energy/componentes-eletricos",
+      "count": 1,
+      "categories": [
+        {
+          "name": "PRESSOSTATO",
+          "slug": "pressostato",
+          "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis",
+      "slug": "consumiveis",
+      "path": "/spare-parts-energy/consumiveis",
+      "count": 66,
+      "categories": [
+        {
+          "name": "FILTROS AMBIENTAIS",
+          "slug": "filtros-ambientais",
+          "path": "/spare-parts-energy/consumiveis/filtros-ambientais",
+          "count": 1
+        },
+        {
+          "name": "FILTROS DE MOTOR",
+          "slug": "filtros-de-motor",
+          "path": "/spare-parts-energy/consumiveis/filtros-de-motor",
+          "count": 13
+        },
+        {
+          "name": "FILTROS HIDRÁULICOS",
+          "slug": "filtros-hidraulicos",
+          "path": "/spare-parts-energy/consumiveis/filtros-hidraulicos",
+          "count": 18
+        },
+        {
+          "name": "PARAFUSOS, PROCAS E FIXADORES",
+          "slug": "parafusos-procas-e-fixadores",
+          "path": "/spare-parts-energy/consumiveis/parafusos-procas-e-fixadores",
+          "count": 19
+        },
+        {
+          "name": "TINTAS E QUÍMICOS",
+          "slug": "tintas-e-quimicos",
+          "path": "/spare-parts-energy/consumiveis/tintas-e-quimicos",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Grandes Componentes",
+      "slug": "grandes-componentes",
+      "path": "/spare-parts-energy/grandes-componentes",
+      "count": 2,
+      "categories": [
+        {
+          "name": "GEARBOX",
+          "slug": "gearbox",
+          "path": "/spare-parts-energy/grandes-componentes/gearbox",
+          "count": 1
+        },
+        {
+          "name": "TRANSFORMADOR",
+          "slug": "transformador",
+          "path": "/spare-parts-energy/grandes-componentes/transformador",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Peças Para Linha De Transmissão",
+      "slug": "pecas-para-linha-de-transmissao",
+      "path": "/spare-parts-energy/pecas-para-linha-de-transmissao",
+      "count": 24,
+      "categories": [
+        {
+          "name": "ESTRUTURAIS",
+          "slug": "estruturais",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/estruturais",
+          "count": 5
+        },
+        {
+          "name": "METÁLICAS",
+          "slug": "metalicas",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/metalicas",
+          "count": 19
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "2537",
+    "name": "HYDAC TECNOLOGIA LTDA."
+  },
+  "products": [
+    {
+      "code": "13032",
+      "title": "BLOCO 2X WSE ACU ALU BLRFM HBC15981",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "PROD30",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/bloco-2x-wse-acu-alu-blrfm-hbc15981-13032",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "13031",
+      "title": "BLOCO HYFM02-20 HYBOX FLEX MINI 20L",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "3361736BR",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/bloco-hyfm0220-hybox-flex-mini-20l-13031",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10147",
+      "title": "CONEXAO MINIMESS 2146-01-00.00",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "687889",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/conexao-minimess-2146010000-10147",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9399",
+      "title": "ELEMEN FILTRANTE 03483108 R 010 BN4 /-GE",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1297688BR",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/elemen-filtrante-03483108-r-010-bn4-ge-9399",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10546",
+      "title": "ELEMENTO FILTRANTE 0080 MG 020 BN",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "2094399",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-0080-mg-020-bn-10546",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10543",
+      "title": "ELEMENTO FILTRANTE 0160 DN 006 BN/HC",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1268868",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-0160-dn-006-bnhc-10543",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10541",
+      "title": "ELEMENTO FILTRANTE 03444694",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1295112",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-03444694-10541",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10549",
+      "title": "ELEMENTO FILTRANTE 03824741 R 010 D-ECO",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1310409BR",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-03824741-r-010-deco-10549",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10548",
+      "title": "ELEMENTO FILTRANTE 0630 RN 003 BN",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "319474BR",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-0630-rn-003-bn-10548",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9397",
+      "title": "ELEMENTO FILTRANTE 1.07.08 D 25 BN4 /-V",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1277362",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/elemento-filtrante-10708-d-25-bn4-v-9397",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10547",
+      "title": "ELEMENTO FILTRANTE 1000 RN 010 BN4HC",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1266389BR",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-1000-rn-010-bn4hc-10547",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10540",
+      "title": "ELEMENTO FILTRANTE 1300 R 010 BN4HC B4-K",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1284461BR",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-1300-r-010-bn4hc-b4k-10540",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10545",
+      "title": "ELEMENTO FILTRANTE 6.05.19 R 03 ECO/N",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1301513",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-60519-r-03-econ-10545",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9396",
+      "title": "ELEMENTO FILTRANTE 6.05.19 R 03 ECON2",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1301513BR",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/elemento-filtrante-60519-r-03-econ2-9396",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10544",
+      "title": "ELEMENTO FILTRANTE 6.17.42 R 10 D-ECO",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "2212448",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-61742-r-10-deco-10544",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10542",
+      "title": "ELEMENTO FILTRANTE BF P 3 G3 W1.0",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "309281",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-bf-p-3-g3-w10-10542",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9383",
+      "title": "ELEMENTO FILTRANTE HYDAC REF  N1TM003/-N",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "3284980",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/elemento-filtrante-hydac-ref-n1tm003n-9383",
+      "image": "/products/images/0093/9383.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9400",
+      "title": "ELEMENTO FILTRANTE HYDAC REF 2600 R 010 BN4HX /-KE50-SO562",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1303357BR",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-filtrante-hydac-ref-2600-r-010-bn4hx-ke50so562-9400",
+      "image": "/products/images/0094/9400.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9398",
+      "title": "ELEMENTO FILTRANTE HYDAC REF 42.01.11 N 003 TM",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "3851043",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/elemento-filtrante-hydac-ref-420111-n-003-tm-9398",
+      "image": "/products/images/0093/9398.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "13029",
+      "title": "ENGATE RAPIDO HP08-2-S1220-DN10",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "6010123",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/engate-rapido-hp082s1220dn10-13029",
+      "image": "/products/images/0130/13029.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9402",
+      "title": "FILTRO DE RETORNO HYDAC REF 1.06.30 D 12 BN4 /-KE50-GE",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "2095500BR",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/filtro-de-retorno-hydac-ref-10630-d-12-bn4-ke50ge-9402",
+      "image": "/products/images/0094/9402.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9401",
+      "title": "FILTRO DESUMIDIFICADOR BDE 400 G 2 W 1.0",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "2202529",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/filtro-desumidificador-bde-400-g-2-w-10-9401",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9385",
+      "title": "FILTRO DESUMIDIFICADOR BDE 400 G 3 W 1.0",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "HBF01134",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/filtro-desumidificador-bde-400-g-3-w-10-9385",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9384",
+      "title": "FILTRO DESUMIDIFICADOR ELEMENTO AR HYDAC REF  BDE 400 X 2 W 0.0",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1299654",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/filtro-desumidificador-elemento-ar-hydac-ref-bde-400-x-2-w-00-9384",
+      "image": "/products/images/0093/9384.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10146",
+      "title": "MANGUEIRA CAPILAR S11F-AC-AC-0300N",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "6069610",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-capilar-s11facac0300n-10146",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9382",
+      "title": "MANGUEIRA DE TESTE S11F-AC-AC-0125N",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "6003727",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-de-teste-s11facac0125n-9382",
+      "image": "/products/images/0093/9382.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 26,
+    "pageBase": "spare-parts-energy--fornecedor-2537"
+  }
+}

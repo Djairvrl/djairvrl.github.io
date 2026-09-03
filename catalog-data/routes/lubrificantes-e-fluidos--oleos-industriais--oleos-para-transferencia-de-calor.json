@@ -1,0 +1,44 @@
+{
+  "title": "ÓLEOS PARA TRANSFERÊNCIA DE CALOR",
+  "parentLabel": "Óleos Industriais",
+  "description": "Produtos da categoria óleos para transferência de calor em óleos industriais.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos",
+      "to": "/lubrificantes-e-fluidos"
+    },
+    {
+      "label": "Óleos Industriais",
+      "to": "/lubrificantes-e-fluidos/oleos-industriais"
+    },
+    {
+      "label": "ÓLEOS PARA TRANSFERÊNCIA DE CALOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8984",
+      "title": "OLEO TRANSF CALOR MOBILTHERM 605 20L",
+      "brand": "MOBIL",
+      "brandCode": "343",
+      "supplier": "CARBON COMERCIO DE LUBRIFICANTES LTDA",
+      "supplierCode": "2341",
+      "manufacturerCode": "01",
+      "category": "ÓLEOS PARA TRANSFERÊNCIA DE CALOR",
+      "categorySlug": "oleos-para-transferencia-de-calor",
+      "path": "/oleo-transf-calor-mobiltherm-605-20l-8984",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "lubrificantes-e-fluidos--oleos-industriais--oleos-para-transferencia-de-calor"
+  }
+}

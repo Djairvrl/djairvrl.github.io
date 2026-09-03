@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 4,
+  "theme": {
+    "name": "Medeiros Galvão",
+    "navy": "#202240",
+    "primary": "#ffc400",
+    "accent": "#000000",
+    "surface": "#ffffff",
+    "text": "#17233d",
+    "muted": "#69758c",
+    "radius": 12,
+    "contentWidth": 1220
+  },
+  "header": {
+    "logo": "/brand/medeiros-galvao-solutions.png",
+    "logoHeight": 58,
+    "sticky": true,
+    "brandName": "Medeiros Galvão",
+    "brandTagline": "Catálogo de soluções"
+  },
+  "hero": {
+    "background": "#ffffff",
+    "slides": [
+      {
+        "tabletImage": "",
+        "mobileImage": "/shared-assets/a0803552-3c6e-47b7-a08c-9d68ff1aacbb.webp",
+        "id": "banner-migrado-1",
+        "image": "/shared-assets/c0fe5bce-2f96-47fd-840c-ab2ec6c60a6b.webp",
+        "fit": "cover",
+        "zoom": 100,
+        "positionX": 50,
+        "positionY": 50
+      },
+      {
+        "tabletImage": "",
+        "mobileImage": "",
+        "id": "ea9564ee-642d-4f04-9029-4f966fc37312",
+        "image": "/shared-assets/6b7c02ef-dd16-4a44-87cd-7c5c91098940.webp",
+        "fit": "cover",
+        "zoom": 100,
+        "positionX": 50,
+        "positionY": 50
+      },
+      {
+        "id": "07c458bb-b00d-4d54-9870-7aa362e84805",
+        "image": "/shared-assets/2703062c-665b-4271-89a3-1ed830386c43.webp",
+        "tabletImage": "",
+        "mobileImage": "",
+        "fit": "cover",
+        "zoom": 100,
+        "positionX": 50,
+        "positionY": 50
+      },
+      {
+        "id": "5e155463-094a-46f4-ab22-4553fd3ff8cb",
+        "image": "/shared-assets/4fa919a6-b428-4eab-bb17-fe05c792c3e4.webp",
+        "tabletImage": "",
+        "mobileImage": "",
+        "fit": "cover",
+        "zoom": 100,
+        "positionX": 50,
+        "positionY": 50
+      },
+      {
+        "id": "d5bcde58-88dd-4c3a-9995-fbc11b52cc62",
+        "image": "/shared-assets/af98f51b-05bf-48ef-b09a-a109c3c9e049.webp",
+        "tabletImage": "",
+        "mobileImage": "",
+        "fit": "cover",
+        "zoom": 100,
+        "positionX": 50,
+        "positionY": 50
+      },
+      {
+        "id": "d51d6bdb-6dad-4552-9562-8d5425fa2d28",
+        "image": "/shared-assets/437e8b31-d9ed-4984-bf32-6bcf80df93df.webp",
+        "tabletImage": "",
+        "mobileImage": "",
+        "fit": "cover",
+        "zoom": 100,
+        "positionX": 50,
+        "positionY": 50
+      }
+    ],
+    "imageOverlay": 0,
+    "widthMode": "full",
+    "maxWidth": 1120,
+    "desktopHeight": 385,
+    "mobileHeight": 235,
+    "radius": 0,
+    "autoplay": true,
+    "interval": 6,
+    "transition": "fade",
+    "showArrows": true,
+    "showDots": true
+  },
+  "departments": {
+    "eyebrow": "Estrutura comercial",
+    "title": "Departamentos",
+    "description": "Entre em uma área e navegue por lotes de 50 produtos, sem carregar o catálogo inteiro de uma vez.",
+    "columns": 4,
+    "cardRadius": 9
+  },
+  "departmentCards": {
+    "defaults": {
+      "image": "",
+      "overlay": 58,
+      "position": "center"
+    },
+    "items": {
+      "epis-e-epcs": {
+        "image": "/shared-assets/817f6265-95bd-4aa7-be81-b87d4dbfd834.webp",
+        "overlay": 67
+      },
+      "ferramentas": {
+        "image": "/shared-assets/829ad7c3-1b3e-43d2-9640-36e7e23f54ed.webp"
+      },
+      "maquinas-e-acessorios": {
+        "image": "/shared-assets/2620f7f3-de4a-4c54-ba9a-5409f1ff72ea.webp"
+      },
+      "lubrificantes-e-fluidos": {
+        "image": "/shared-assets/e3af30d0-bec6-49a4-a322-fb8363710a9c.webp"
+      },
+      "acessorios-e-consumiveis": {
+        "image": "/shared-assets/79918e2c-3875-4208-95f6-e619300d846b.webp"
+      }
+    }
+  },
+  "catalog": {
+    "background": "#ffffff",
+    "maxWidth": 1460,
+    "cardMinWidth": 215,
+    "cardMinHeight": 350,
+    "cardRadius": 6,
+    "gap": 10,
+    "sidebarWidth": 230,
+    "sidebarPillRadius": 10,
+    "toolbarBackground": "#ededed",
+    "controlBackground": "#ffffff",
+    "controlBorder": "#d9e0ec",
+    "controlText": "#17233d",
+    "controlMuted": "#69758c",
+    "controlAccent": "#5b5bd6",
+    "cardBackground": "#f2f2f2",
+    "cardBorder": "#cccccc",
+    "cardTitle": "#354873",
+    "cardMuted": "#202240",
+    "cardImageBackground": "#ffffff",
+    "cardGlowColor": "#5b5bd6",
+    "cardGlowOpacity": 0,
+    "cardAccentStart": "#ffc400",
+    "cardAccentEnd": "#ffc400",
+    "uiScale": 110
+  },
+  "productModal": {
+    "backdrop": "#03070e",
+    "backdropOpacity": 46,
+    "surface": "#ffffff",
+    "border": "#b9c5d4",
+    "title": "#202240",
+    "text": "#202240",
+    "muted": "#345489",
+    "accent": "#ffc400",
+    "width": 1050,
+    "radius": 25,
+    "mediaWidth": 320,
+    "imageHeight": 340
+  },
+  "footer": {
+    "institutionalLabel": "Catálogo institucional · sem preços",
+    "copyrightLabel": "Medeiros Galvão"
+  }
+}

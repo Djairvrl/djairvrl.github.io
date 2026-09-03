@@ -1,0 +1,36 @@
+{
+  "title": "NELSTAR SOLAR",
+  "parentLabel": "Marca",
+  "description": "Produtos NELSTAR SOLAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NELSTAR SOLAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9626",
+      "title": "PAR CHAVES MC4 CONEXAO E DESCONEXAO PAINEL SOLAR FOTOVOLTAICO  NELSTAR SOLAR",
+      "brand": "NELSTAR SOLAR",
+      "brandCode": "717",
+      "supplier": "SNETEC LTDA",
+      "supplierCode": "2646",
+      "manufacturerCode": "CHAVE-MC4- AZUL",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/par-chaves-mc4-conexao-e-desconexao-painel-solar-fotovoltaico-nelstar-solar-9626",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--717--nelstar-solar"
+  }
+}

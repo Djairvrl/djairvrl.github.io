@@ -1,0 +1,36 @@
+{
+  "title": "BRINOX",
+  "parentLabel": "Marca",
+  "description": "Produtos BRINOX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRINOX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7649",
+      "title": "LIXEIRA BRIN C/PEDAL INOX 5L",
+      "brand": "BRINOX",
+      "brandCode": "218",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896502814948",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-brin-cpedal-inox-5l-7649",
+      "image": "/products/images/0076/7649.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--218--brinox"
+  }
+}

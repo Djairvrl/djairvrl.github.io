@@ -1,0 +1,61 @@
+{
+  "title": "PÁ ANTI FAÍSCA",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria pá anti faísca em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "PÁ ANTI FAÍSCA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12788",
+      "title": "PA ANTI-FAISCANTE - CABO 1,0 M",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - PB",
+      "supplierCode": "3880",
+      "manufacturerCode": "700.00004",
+      "category": "PÁ ANTI FAÍSCA",
+      "categorySlug": "pa-anti-faisca",
+      "path": "/pa-antifaiscante--cabo-10-m-12788",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "2958",
+      "title": "PÁ ANTI-FAISCANTE CABO EM MADEIRA  1,5M - PLASTCOR",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - SP",
+      "supplierCode": "30",
+      "manufacturerCode": "700.00517",
+      "category": "PÁ ANTI FAÍSCA",
+      "categorySlug": "pa-anti-faisca",
+      "path": "/pa-antifaiscante-cabo-em-madeira-15m--plastcor-2958",
+      "image": "/products/images/0029/2958.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ambiental--contencao-ambiental--pa-anti-faisca"
+  }
+}

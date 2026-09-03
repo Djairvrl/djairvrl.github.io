@@ -1,0 +1,36 @@
+{
+  "title": "OMEGA",
+  "parentLabel": "Marca",
+  "description": "Produtos OMEGA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OMEGA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1193",
+      "title": "LUVA ALGODÃO TRICOTADA 4 FIOS PIGMENTADA MESCLADA - OMEGA LUVAS K1003 PIG",
+      "brand": "OMEGA",
+      "brandCode": "60",
+      "supplier": "OMEGALUVAS COMERCIO DE EPIS LTDA",
+      "supplierCode": "443",
+      "manufacturerCode": "K1003 PIG",
+      "category": "TRICOTADA",
+      "categorySlug": "tricotada",
+      "path": "/luva-algodao-tricotada-4-fios-pigmentada-mesclada--omega-luvas-k1003-pig-1193",
+      "image": "/products/images/0011/1193.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--60--omega"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "BASTAO DE RESGATE",
+  "parentLabel": "NR-10",
+  "description": "Produtos da categoria bastao de resgate em nr-10.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "NR-10",
+      "to": "/epis-e-epcs/nr-10"
+    },
+    {
+      "label": "BASTAO DE RESGATE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12289",
+      "title": "BASTAO DE RESGATE C 2280 MM",
+      "brand": "SERVEQ",
+      "brandCode": "35",
+      "supplier": "UNIVERSO EPIS",
+      "supplierCode": "5615",
+      "manufacturerCode": "93182",
+      "category": "BASTAO DE RESGATE",
+      "categorySlug": "bastao-de-resgate",
+      "path": "/bastao-de-resgate-c-2280-mm-12289",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "10798",
+      "title": "BASTAO SALVAM. 2G 32X2160MM 2580MM",
+      "brand": "LEAL",
+      "brandCode": "30",
+      "supplier": "INDUSTRIA E COMERCIO LEAL LTDA",
+      "supplierCode": "1248",
+      "manufacturerCode": "LBA.BSS322.LL",
+      "category": "BASTAO DE RESGATE",
+      "categorySlug": "bastao-de-resgate",
+      "path": "/bastao-salvam-2g-32x2160mm-2580mm-10798",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "576",
+      "title": "BASTÃO DE RESGATE/SALVAMENTO 34,5KV RITZ REF FLV09429-1",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "06130001244",
+      "category": "BASTAO DE RESGATE",
+      "categorySlug": "bastao-de-resgate",
+      "path": "/bastao-de-resgatesalvamento-345kv-ritz-ref-flv094291-576",
+      "image": "/products/images/0005/576.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "575",
+      "title": "BASTÃO DOBRÁVEL DE RESGATE/SALVAMENTO 34,5KV RITZ REF FLV18759-2",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "0666024776",
+      "category": "BASTAO DE RESGATE",
+      "categorySlug": "bastao-de-resgate",
+      "path": "/bastao-dobravel-de-resgatesalvamento-345kv-ritz-ref-flv187592-575",
+      "image": "/products/images/0005/575.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--nr-10--bastao-de-resgate"
+  }
+}

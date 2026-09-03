@@ -1,0 +1,78 @@
+{
+  "title": "QUADROS DE DISTRIBUIÇÃO",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria quadros de distribuição em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "QUADROS DE DISTRIBUIÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7390",
+      "title": "QUADRO COMANDO CEMAR 80X60X25",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "873",
+      "category": "QUADROS DE DISTRIBUIÇÃO",
+      "categorySlug": "quadros-de-distribuicao",
+      "path": "/quadro-comando-cemar-80x60x25-7390",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8220",
+      "title": "QUADRO DE CONTROL H250 6AH",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "STINORLAND BRASIL LTDA",
+      "supplierCode": "1997",
+      "manufacturerCode": "STI05719-01C",
+      "category": "QUADROS DE DISTRIBUIÇÃO",
+      "categorySlug": "quadros-de-distribuicao",
+      "path": "/quadro-de-control-h250-6ah-8220",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7862",
+      "title": "TRILHO P DISJUN DIN BARRA ALUM 35X7,5 2M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "242424",
+      "category": "QUADROS DE DISTRIBUIÇÃO",
+      "categorySlug": "quadros-de-distribuicao",
+      "path": "/trilho-p-disjun-din-barra-alum-35x75-2m-7862",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--quadros-de-distribuicao"
+  }
+}

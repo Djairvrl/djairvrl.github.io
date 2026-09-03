@@ -1,0 +1,36 @@
+{
+  "title": "COLLI",
+  "parentLabel": "Marca",
+  "description": "Produtos COLLI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COLLI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10970",
+      "title": "COLLI GPS A 26 AERO Q19 PRETO ACO CARBON",
+      "brand": "COLLI",
+      "brandCode": "840",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "1600",
+      "manufacturerCode": "7750656",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/colli-gps-a-26-aero-q19-preto-aco-carbon-10970",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--840--colli"
+  }
+}

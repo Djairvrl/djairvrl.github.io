@@ -1,0 +1,1218 @@
+{
+  "title": "Suprimentos Corporativos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Informática e Telecomunicação",
+      "slug": "informatica-e-telecomunicacao",
+      "path": "/suprimentos-corporativos/informatica-e-telecomunicacao",
+      "count": 416,
+      "categories": [
+        {
+          "name": "ACESSÓRIO",
+          "slug": "acessorio",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorio",
+          "count": 21
+        },
+        {
+          "name": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+          "slug": "acessorios-para-transporte-e-protecao",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorios-para-transporte-e-protecao",
+          "count": 16
+        },
+        {
+          "name": "ADAPTADORES",
+          "slug": "adaptadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/adaptadores",
+          "count": 4
+        },
+        {
+          "name": "CABOS",
+          "slug": "cabos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cabos",
+          "count": 40
+        },
+        {
+          "name": "CAIXAS DE SOM",
+          "slug": "caixas-de-som",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/caixas-de-som",
+          "count": 3
+        },
+        {
+          "name": "COMPUTADORES",
+          "slug": "computadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/computadores",
+          "count": 3
+        },
+        {
+          "name": "CONTROLE DE ACESSO",
+          "slug": "controle-de-acesso",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/controle-de-acesso",
+          "count": 6
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cameras",
+          "count": 22
+        },
+        {
+          "name": "DATACENTERS",
+          "slug": "datacenters",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/datacenters",
+          "count": 1
+        },
+        {
+          "name": "DISPOSITIVOS  DE ARMAZENAMENTO",
+          "slug": "dispositivos-de-armazenamento",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/dispositivos-de-armazenamento",
+          "count": 14
+        },
+        {
+          "name": "ERGONOMIA",
+          "slug": "ergonomia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/ergonomia",
+          "count": 15
+        },
+        {
+          "name": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+          "slug": "estabilizadores-filtros-de-l-e-nobreak",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estabilizadores-filtros-de-l-e-nobreak",
+          "count": 20
+        },
+        {
+          "name": "ESTAÇÕES DE RETRABALHO BGA",
+          "slug": "estacoes-de-retrabalho-bga",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estacoes-de-retrabalho-bga",
+          "count": 2
+        },
+        {
+          "name": "FRAGMENTADORAS",
+          "slug": "fragmentadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/fragmentadoras",
+          "count": 1
+        },
+        {
+          "name": "IMPRESSORAS",
+          "slug": "impressoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/impressoras",
+          "count": 21
+        },
+        {
+          "name": "INFRAESTRUTURA DE REDE",
+          "slug": "infraestrutura-de-rede",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/infraestrutura-de-rede",
+          "count": 51
+        },
+        {
+          "name": "INSUMOS",
+          "slug": "insumos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/insumos",
+          "count": 26
+        },
+        {
+          "name": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+          "slug": "manutencao-tecnica-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/manutencao-tecnica-de-informatica",
+          "count": 11
+        },
+        {
+          "name": "MONITORES",
+          "slug": "monitores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/monitores",
+          "count": 13
+        },
+        {
+          "name": "NOTEBOOKS",
+          "slug": "notebooks",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/notebooks",
+          "count": 1
+        },
+        {
+          "name": "PERIFÉRICOS DE INFORMÁTICA",
+          "slug": "perifericos-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/perifericos-de-informatica",
+          "count": 32
+        },
+        {
+          "name": "PILHAS E BATERIAS",
+          "slug": "pilhas-e-baterias",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/pilhas-e-baterias",
+          "count": 32
+        },
+        {
+          "name": "PLACAS DE VIDEO",
+          "slug": "placas-de-video",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/placas-de-video",
+          "count": 1
+        },
+        {
+          "name": "PLASTIFICADORAS",
+          "slug": "plastificadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/plastificadoras",
+          "count": 9
+        },
+        {
+          "name": "RADIOCOMUNICADORES",
+          "slug": "radiocomunicadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/radiocomunicadores",
+          "count": 7
+        },
+        {
+          "name": "ROTULADORES",
+          "slug": "rotuladores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/rotuladores",
+          "count": 9
+        },
+        {
+          "name": "SOFTWARES",
+          "slug": "softwares",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/softwares",
+          "count": 1
+        },
+        {
+          "name": "TABLETS E SMARTPHONES",
+          "slug": "tablets-e-smartphones",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tablets-e-smartphones",
+          "count": 5
+        },
+        {
+          "name": "TESTADORES DE REDE E TELEFONIA",
+          "slug": "testadores-de-rede-e-telefonia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/testadores-de-rede-e-telefonia",
+          "count": 4
+        },
+        {
+          "name": "TVs",
+          "slug": "tvs",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tvs",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "name": "Redes e Telefonia",
+      "slug": "redes-e-telefonia",
+      "path": "/suprimentos-corporativos/redes-e-telefonia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Áudio, Vídeo e Reunião",
+      "slug": "audio-video-e-reuniao",
+      "path": "/suprimentos-corporativos/audio-video-e-reuniao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Climatização",
+      "slug": "climatizacao",
+      "path": "/suprimentos-corporativos/climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Eletrodomésticos",
+      "slug": "eletrodomesticos",
+      "path": "/suprimentos-corporativos/eletrodomesticos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Cópia, Digitalização e Impressão",
+      "slug": "copia-digitalizacao-e-impressao",
+      "path": "/suprimentos-corporativos/copia-digitalizacao-e-impressao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Mobiliário e Ergonomia",
+      "slug": "mobiliario-e-ergonomia",
+      "path": "/suprimentos-corporativos/mobiliario-e-ergonomia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Embalagens e Expedição",
+      "slug": "embalagens-e-expedicao",
+      "path": "/suprimentos-corporativos/embalagens-e-expedicao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Papelaria e Escritório",
+      "slug": "papelaria-e-escritorio",
+      "path": "/suprimentos-corporativos/papelaria-e-escritorio",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Uniformes e Têxteis Profissionais",
+      "slug": "uniformes-e-texteis-profissionais",
+      "path": "/suprimentos-corporativos/uniformes-e-texteis-profissionais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartáveis e Itens para Copa",
+      "slug": "descartaveis-e-itens-para-copa",
+      "path": "/suprimentos-corporativos/descartaveis-e-itens-para-copa",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Limpeza e Sanitização",
+      "slug": "limpeza-e-sanitizacao",
+      "path": "/suprimentos-corporativos/limpeza-e-sanitizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Higiene Pessoal e Banheiro",
+      "slug": "higiene-pessoal-e-banheiro",
+      "path": "/suprimentos-corporativos/higiene-pessoal-e-banheiro",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Marketing e Brindes",
+      "slug": "marketing-e-brindes",
+      "path": "/suprimentos-corporativos/marketing-e-brindes",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartaveis E Utensilios",
+      "slug": "descartaveis-e-utensilios",
+      "path": "/suprimentos-corporativos/descartaveis-e-utensilios",
+      "count": 2,
+      "categories": [
+        {
+          "name": "DIVEROS",
+          "slug": "diveros",
+          "path": "/suprimentos-corporativos/descartaveis-e-utensilios/diveros",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Informatica E Eletronicos",
+      "slug": "informatica-e-eletronicos",
+      "path": "/suprimentos-corporativos/informatica-e-eletronicos",
+      "count": 7,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/suprimentos-corporativos/informatica-e-eletronicos/acessorios",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Máquinas E Implementos",
+      "slug": "maquinas-e-implementos",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos",
+      "count": 4,
+      "categories": [
+        {
+          "name": "CONTAINERS",
+          "slug": "containers",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/containers",
+          "count": 2
+        },
+        {
+          "name": "IMPLEMENTOS INDUSTRIAIS",
+          "slug": "implementos-industriais",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/implementos-industriais",
+          "count": 1
+        },
+        {
+          "name": "MÁQUINAS PESADAS",
+          "slug": "maquinas-pesadas",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/maquinas-pesadas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Suprimentos Indiretos",
+      "slug": "suprimentos-indiretos",
+      "path": "/suprimentos-corporativos/suprimentos-indiretos",
+      "count": 1262,
+      "categories": [
+        {
+          "name": "ALIMENTOS E BEBIDAS",
+          "slug": "alimentos-e-bebidas",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/alimentos-e-bebidas",
+          "count": 83
+        },
+        {
+          "name": "AUTOMOTIVOS",
+          "slug": "automotivos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/automotivos",
+          "count": 21
+        },
+        {
+          "name": "BRINDES CORPORATIVOS",
+          "slug": "brindes-corporativos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/brindes-corporativos",
+          "count": 34
+        },
+        {
+          "name": "DECORAÇÃO E INFRAESTRUTURA",
+          "slug": "decoracao-e-infraestrutura",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/decoracao-e-infraestrutura",
+          "count": 34
+        },
+        {
+          "name": "DESCARTAVEIS E UTENSILIOS",
+          "slug": "descartaveis-e-utensilios",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/descartaveis-e-utensilios",
+          "count": 136
+        },
+        {
+          "name": "ELETRODOMÉSTICOS",
+          "slug": "eletrodomesticos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/eletrodomesticos",
+          "count": 139
+        },
+        {
+          "name": "HIGIENE E LIMPEZA",
+          "slug": "higiene-e-limpeza",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/higiene-e-limpeza",
+          "count": 288
+        },
+        {
+          "name": "MOBILIÁRIO CORPORATIVO",
+          "slug": "mobiliario-corporativo",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/mobiliario-corporativo",
+          "count": 113
+        },
+        {
+          "name": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+          "slug": "papelaria-e-material-de-escritorio",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/papelaria-e-material-de-escritorio",
+          "count": 412
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1379",
+    "name": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL"
+  },
+  "products": [
+    {
+      "code": "9490",
+      "title": "ADESIVO DE MESA COM RECORTE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "AD30072024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/adesivo-de-mesa-com-recorte-9490",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10381",
+      "title": "ADESIVO DE PISO 70X70",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "ADP26032025",
+      "category": "DECORAÇÃO E INFRAESTRUTURA",
+      "categorySlug": "decoracao-e-infraestrutura",
+      "path": "/adesivo-de-piso-70x70-10381",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9492",
+      "title": "ADESIVO INSTAGRAMAVEL JUNINO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "AD31072024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/adesivo-instagramavel-junino-9492",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9997",
+      "title": "ARRANJO DECORATIVO COM BOLAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "AR04112024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/arranjo-decorativo-com-bolas-9997",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9305",
+      "title": "BALAO 9 BRANCO PERSONALIZADOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "BL07062024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/balao-9-branco-personalizados-9305",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9491",
+      "title": "BALAO JUNINO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "BL30072024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/balao-junino-9491",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9304",
+      "title": "BLOCO COM 100 FOLHAS 9X9CM COLOR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "BLC07062024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/bloco-com-100-folhas-9x9cm-color-9304",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9353",
+      "title": "BROCHE BOTON REDONDO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "BRCH25062024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/broche-boton-redondo-9353",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9858",
+      "title": "CADERNO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CDN25092024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/caderno-9858",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9433",
+      "title": "CAIXA CARTONADA 30X30X10CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CX18072024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/caixa-cartonada-30x30x10cm-9433",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9856",
+      "title": "CANETA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CNT25092024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/caneta-9856",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9662",
+      "title": "CONVITE 15X21CM + ENVELOPES",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CVT2708202",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/convite-15x21cm-envelopes-9662",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7969",
+      "title": "COPO CAFE DESCART KRAFT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CAF17082023",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/copo-cafe-descart-kraft-7969",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9629",
+      "title": "CORDAO PARA CRACHA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CRD22082024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/cordao-para-cracha-9629",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9663",
+      "title": "CRACHA 10X15CM P/ EVENTOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CRCH27082024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/cracha-10x15cm-p-eventos-9663",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9946",
+      "title": "CUBO MDF 50X50X50CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CB08102024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/cubo-mdf-50x50x50cm-9946",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10085",
+      "title": "CX COMENDA + PLACA ACRILICO C ALONG INOX",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "KT09122024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/cx-comenda-placa-acrilico-c-along-inox-10085",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9661",
+      "title": "DISPLAY DE MESA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "DSP27082024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/display-de-mesa-9661",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9855",
+      "title": "ECOBAG 30X40CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "BG25092024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/ecobag-30x40cm-9855",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9432",
+      "title": "FITA 30MM PERSONALIZADA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "FT18072024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/fita-30mm-personalizada-9432",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9255",
+      "title": "FITA DUPLA FACE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "202308",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/fita-dupla-face-9255",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9948",
+      "title": "FLYBANNER",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "FLY08102024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/flybanner-9948",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9659",
+      "title": "IMPRESSAO COLOR A4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "IMP27082024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/impressao-color-a4-9659",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7970",
+      "title": "KIT BLOCO+CANETA RECICLE KRAFT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "BLCAN17082023",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/kit-blococaneta-recicle-kraft-7970",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9683",
+      "title": "KIT CAIXA + DISPLAY DE ACRILICO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "CXDPL03092024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/kit-caixa-display-de-acrilico-9683",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9412",
+      "title": "KIT URNA + BALOES",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "KIT09072024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/kit-urna-baloes-9412",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9955",
+      "title": "MANTA MAGNETICA 15X21CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "MNTP10102024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/manta-magnetica-15x21cm-9955",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9954",
+      "title": "MANTA MAGNETICA 35X20CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "MNTG",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/manta-magnetica-35x20cm-9954",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9489",
+      "title": "PLACA INSTAGRAMAVEL EM PVC 80X100CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "INST30072024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/placa-instagramavel-em-pvc-80x100cm-9489",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9658",
+      "title": "POST IT GRANDE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "PST27082024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/post-it-grande-9658",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10083",
+      "title": "PRANCHETA A4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "PRA409122024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/prancheta-a4-10083",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10084",
+      "title": "PRANCHETA A5",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "PRA509122024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/prancheta-a5-10084",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9947",
+      "title": "QUADRO 60X40CM MDF",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QDR08102024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-60x40cm-mdf-9947",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7972",
+      "title": "QUADRO COMENDA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QUAD17082023",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-comenda-7972",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "5745",
+      "title": "QUADRO DE GESTAO 100X150CM C/12 BOLSOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "08",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-100x150cm-c12-bolsos-5745",
+      "image": "/products/images/0057/5745.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12621",
+      "title": "QUADRO DE GESTAO 1200X1900X3MM LAMINADO",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "12621",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-1200x1900x3mm-laminado-12621",
+      "image": "/products/images/0126/12621.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9425",
+      "title": "QUADRO DE GESTAO 150X120 CM 12 BOLSAS A4",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "0060",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-150x120-cm-12-bolsas-a4-9425",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10603",
+      "title": "QUADRO DE GESTAO 180X100 C/ 12 BOLSOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QG09052025",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-180x100-c-12-bolsos-10603",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9995",
+      "title": "QUADRO DE GESTAO 180X100 C/ 13 BOLSOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "140",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-180x100-c-13-bolsos-9995",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11169",
+      "title": "QUADRO DE GESTAO 200X100 C/16 BOLSOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QD20230716",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-200x100-c16-bolsos-11169",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "6414",
+      "title": "QUADRO DE GESTAO 200X100CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "202309",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-200x100cm-6414",
+      "image": "/products/images/0064/6414.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "2060",
+      "title": "QUADRO DE GESTÃO VISUAL 120X150CM COM 12 BOLSAS A4 - ESTRUTURA METÁLICA",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QRD18072024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-visual-120x150cm-com-12-bolsas-a4--estrutura-metalica-2060",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9411",
+      "title": "QUADRO FOSCO 60X110CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QDR09072024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-fosco-60x110cm-9411",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13301",
+      "title": "QUADRO GESTAO PERSONALIZADO 1,3M X 1 M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QG100130",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-gestao-personalizado-13m-x-1-m-13301",
+      "image": "/products/images/0133/13301.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9505",
+      "title": "QUADRO LOUSA BRANCA 2X1,20M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "76",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-lousa-branca-2x120m-9505",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10957",
+      "title": "QUADRO MAGNETICO TAMANHO A0 84X120CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "QRD12084",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-magnetico-tamanho-a0-84x120cm-10957",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10022",
+      "title": "SACOS TRANSP 35X14CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "SC12112024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/sacos-transp-35x14cm-10022",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 47,
+    "pageBase": "suprimentos-corporativos--fornecedor-1379"
+  }
+}

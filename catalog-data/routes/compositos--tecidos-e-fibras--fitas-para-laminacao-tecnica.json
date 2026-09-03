@@ -1,0 +1,44 @@
+{
+  "title": "FITAS PARA LAMINAÇÃO TÉCNICA",
+  "parentLabel": "Tecidos E Fibras",
+  "description": "Produtos da categoria fitas para laminação técnica em tecidos e fibras.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos",
+      "to": "/compositos"
+    },
+    {
+      "label": "Tecidos E Fibras",
+      "to": "/compositos/tecidos-e-fibras"
+    },
+    {
+      "label": "FITAS PARA LAMINAÇÃO TÉCNICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8041",
+      "title": "FITA DE FIBRA DE VIDRO 1''",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ESSENTRA INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "1916",
+      "manufacturerCode": "MTGC0100A",
+      "category": "FITAS PARA LAMINAÇÃO TÉCNICA",
+      "categorySlug": "fitas-para-laminacao-tecnica",
+      "path": "/fita-de-fibra-de-vidro-1-8041",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Tecidos E Fibras",
+      "sectionSlug": "tecidos-e-fibras"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "compositos--tecidos-e-fibras--fitas-para-laminacao-tecnica"
+  }
+}

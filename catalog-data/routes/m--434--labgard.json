@@ -1,0 +1,36 @@
+{
+  "title": "LABGARD",
+  "parentLabel": "Marca",
+  "description": "Produtos LABGARD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LABGARD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7236",
+      "title": "KIT 2 ALCANCE ANTI VESPAS 400ML LABGARD",
+      "brand": "LABGARD",
+      "brandCode": "434",
+      "supplier": "PAULA REGINA CALDEIRA DE ALMEIDA 21326811800",
+      "supplierCode": "1548",
+      "manufacturerCode": "MLB2611207710",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/kit-2-alcance-anti-vespas-400ml-labgard-7236",
+      "image": "/products/images/0072/7236.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--434--labgard"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "PORTE GRANDE",
+  "parentLabel": "Lanternas de Segurança",
+  "description": "Produtos da categoria porte grande em lanternas de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Lanternas de Segurança",
+      "to": "/epis-e-epcs/lanternas-de-seguranca"
+    },
+    {
+      "label": "PORTE GRANDE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7466",
+      "title": "HOLOFOTE POTENTE 30W TD 6000A T6",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "QUYRINUS LTDA",
+      "supplierCode": "1664",
+      "manufacturerCode": "LANTERNA 30W",
+      "category": "PORTE GRANDE",
+      "categorySlug": "porte-grande",
+      "path": "/holofote-potente-30w-td-6000a-t6-7466",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "7687",
+      "title": "LANTERNA 160LM 18V + BAT + CARREG",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "7687",
+      "category": "PORTE GRANDE",
+      "categorySlug": "porte-grande",
+      "path": "/lanterna-160lm-18v-bat-carreg-7687",
+      "image": "/products/images/0076/7687.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "6592",
+      "title": "LANTERNA DE LED A BATERIA 18V SEM BATERIA E CARREGADOR - MAKITA DML812",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DML812",
+      "category": "PORTE GRANDE",
+      "categorySlug": "porte-grande",
+      "path": "/lanterna-de-led-a-bateria-18v-sem-bateria-e-carregador--makita-dml812-6592",
+      "image": "/products/images/0065/6592.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "6582",
+      "title": "LANTERNA HOLOFOTE LED RECARREGAVEL 100W",
+      "brand": "DP",
+      "brandCode": "302",
+      "supplier": "RING LIGHT BRASIL OFICIAL EIRELI",
+      "supplierCode": "1261",
+      "manufacturerCode": "LANTERNA",
+      "category": "PORTE GRANDE",
+      "categorySlug": "porte-grande",
+      "path": "/lanterna-holofote-led-recarregavel-100w-6582",
+      "image": "/products/images/0065/6582.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "6535",
+      "title": "LANTERNA HOLOFT LED 50W HI005 ALCAN 500M",
+      "brand": "ALBATROZ",
+      "brandCode": "348",
+      "supplier": "INCORTEC COMERCIO LTDA",
+      "supplierCode": "1338",
+      "manufacturerCode": "34610-01",
+      "category": "PORTE GRANDE",
+      "categorySlug": "porte-grande",
+      "path": "/lanterna-holoft-led-50w-hi005-alcan-500m-6535",
+      "image": "/products/images/0065/6535.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--lanternas-de-seguranca--porte-grande"
+  }
+}

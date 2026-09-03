@@ -1,0 +1,78 @@
+{
+  "title": "COMPUTADORES",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria computadores em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "COMPUTADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6934",
+      "title": "MICROCOMPUTADOR DELL OPTIPLEX 3000",
+      "brand": "DELL",
+      "brandCode": "386",
+      "supplier": "DELL COMPUTADORES DO BRASIL LTDA",
+      "supplierCode": "821",
+      "manufacturerCode": "210-BCSK-MDR3",
+      "category": "COMPUTADORES",
+      "categorySlug": "computadores",
+      "path": "/microcomputador-dell-optiplex-3000-6934",
+      "image": "/products/images/0069/6934.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "7712",
+      "title": "MICROCOMPUTADOR PORT. DELL VOSTRO15 3510",
+      "brand": "DELL",
+      "brandCode": "386",
+      "supplier": "DELL COMPUTADORES DO BRASIL LTDA",
+      "supplierCode": "821",
+      "manufacturerCode": "210-BCDK-KMFB",
+      "category": "COMPUTADORES",
+      "categorySlug": "computadores",
+      "path": "/microcomputador-port-dell-vostro15-3510-7712",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13404",
+      "title": "TABLET SAMSUNG GALAXY TAB A11 64GB PRETO",
+      "brand": "SAMSUNG",
+      "brandCode": "152",
+      "supplier": "LUC PRIME IMPORTS LTDA",
+      "supplierCode": "6270",
+      "manufacturerCode": "TABA1164PRETO",
+      "category": "COMPUTADORES",
+      "categorySlug": "computadores",
+      "path": "/tablet-samsung-galaxy-tab-a11-64gb-preto-13404",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--computadores"
+  }
+}

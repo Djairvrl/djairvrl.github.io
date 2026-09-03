@@ -1,0 +1,112 @@
+{
+  "title": "ETIQUETAS DE BLOQUEIO",
+  "parentLabel": "Etiquetas e Sinalização de Segurança",
+  "description": "Produtos da categoria etiquetas de bloqueio em etiquetas e sinalização de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Etiquetas e Sinalização de Segurança",
+      "to": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "label": "ETIQUETAS DE BLOQUEIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8506",
+      "title": "ETIQ BLOQ FLEXIVEL",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "8506",
+      "category": "ETIQUETAS DE BLOQUEIO",
+      "categorySlug": "etiquetas-de-bloqueio",
+      "path": "/etiq-bloq-flexivel-8506",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "963",
+      "title": "ETIQUETA  NAO OFERECE EQUIP. BLO RIGIDA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "TGFLX1110",
+      "category": "ETIQUETAS DE BLOQUEIO",
+      "categorySlug": "etiquetas-de-bloqueio",
+      "path": "/etiqueta-nao-oferece-equip-blo-rigida-963",
+      "image": "/products/images/0009/963.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "2096",
+      "title": "ETIQUETA DE BLOQUEIO DE SEGURANÇA LOTO PVC FLEXÍVEL 0,45MM - DUPLA-FACE",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "2096",
+      "category": "ETIQUETAS DE BLOQUEIO",
+      "categorySlug": "etiquetas-de-bloqueio",
+      "path": "/etiqueta-de-bloqueio-de-seguranca-loto-pvc-flexivel-045mm--duplaface-2096",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "4134",
+      "title": "ETIQUETAS ADESIVA REDONDA EM SILK",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "RICKSON DOMINGOS DO COUTO 70016788486",
+      "supplierCode": "1204",
+      "manufacturerCode": "0091",
+      "category": "ETIQUETAS DE BLOQUEIO",
+      "categorySlug": "etiquetas-de-bloqueio",
+      "path": "/etiquetas-adesiva-redonda-em-silk-4134",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "10958",
+      "title": "TAG DE BLOQUEIO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "57298",
+      "category": "ETIQUETAS DE BLOQUEIO",
+      "categorySlug": "etiquetas-de-bloqueio",
+      "path": "/tag-de-bloqueio-10958",
+      "image": "/products/images/0109/10958.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "bloqueio-e-etiquetagem--etiquetas-e-sinalizacao-de-seguranca--etiquetas-de-bloqueio"
+  }
+}

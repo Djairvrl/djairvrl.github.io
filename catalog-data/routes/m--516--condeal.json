@@ -1,0 +1,70 @@
+{
+  "title": "CONDEAL",
+  "parentLabel": "Marca",
+  "description": "Produtos CONDEAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CONDEAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11370",
+      "title": "COMPOSTO ANTI-OXI CONDEAL-A  300 GRS",
+      "brand": "CONDEAL",
+      "brandCode": "516",
+      "supplier": "GKE ELETRO LTDA",
+      "supplierCode": "1740",
+      "manufacturerCode": "6061",
+      "category": "INIBIDOR DE FERRUGEM",
+      "categorySlug": "inibidor-de-ferrugem",
+      "path": "/composto-antioxi-condeala-300-grs-11370",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7617",
+      "title": "COMPOSTO ANTI-OXI CONDEAL-A  400 GRS",
+      "brand": "CONDEAL",
+      "brandCode": "516",
+      "supplier": "GKE ELETRO LTDA",
+      "supplierCode": "1740",
+      "manufacturerCode": "6079",
+      "category": "INIBIDOR DE FERRUGEM",
+      "categorySlug": "inibidor-de-ferrugem",
+      "path": "/composto-antioxi-condeala-400-grs-7617",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "13154",
+      "title": "COMPOSTO PENETROX ANTI-OXI 300G",
+      "brand": "CONDEAL",
+      "brandCode": "516",
+      "supplier": "GKE ELETRO LTDA",
+      "supplierCode": "1740",
+      "manufacturerCode": "6064",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/composto-penetrox-antioxi-300g-13154",
+      "image": "/products/images/0131/13154.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--516--condeal"
+  }
+}

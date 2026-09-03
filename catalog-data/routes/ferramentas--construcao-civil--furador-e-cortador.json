@@ -1,0 +1,78 @@
+{
+  "title": "FURADOR E CORTADOR",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria furador e cortador em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "FURADOR E CORTADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11795",
+      "title": "PERFURADOR DE SOLO A BATERIA 18V X 2",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DDG461Z",
+      "category": "FURADOR E CORTADOR",
+      "categorySlug": "furador-e-cortador",
+      "path": "/perfurador-de-solo-a-bateria-18v-x-2-11795",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "3454",
+      "title": "PERFURADOR DE SOLO BPS-52 C/ BROCA 20CM",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314502",
+      "category": "FURADOR E CORTADOR",
+      "categorySlug": "furador-e-cortador",
+      "path": "/perfurador-de-solo-bps52-c-broca-20cm-3454",
+      "image": "/products/images/0034/3454.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1994",
+      "title": "PERFURADOR SOLO BPS52D C/ BROCA 20CM",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314512",
+      "category": "FURADOR E CORTADOR",
+      "categorySlug": "furador-e-cortador",
+      "path": "/perfurador-solo-bps52d-c-broca-20cm-1994",
+      "image": "/products/images/0019/1994.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--construcao-civil--furador-e-cortador"
+  }
+}

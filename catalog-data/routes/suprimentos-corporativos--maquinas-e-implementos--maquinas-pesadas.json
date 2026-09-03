@@ -1,0 +1,44 @@
+{
+  "title": "MÁQUINAS PESADAS",
+  "parentLabel": "Máquinas E Implementos",
+  "description": "Produtos da categoria máquinas pesadas em máquinas e implementos.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Máquinas E Implementos",
+      "to": "/suprimentos-corporativos/maquinas-e-implementos"
+    },
+    {
+      "label": "MÁQUINAS PESADAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9266",
+      "title": "RETROESCAVADEIRA CASE 575SV",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORNECEDORA-MAQUINAS E EQUIPAMENTOS LTDA",
+      "supplierCode": "2412",
+      "manufacturerCode": "0008001",
+      "category": "MÁQUINAS PESADAS",
+      "categorySlug": "maquinas-pesadas",
+      "path": "/retroescavadeira-case-575sv-9266",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-corporativos--maquinas-e-implementos--maquinas-pesadas"
+  }
+}

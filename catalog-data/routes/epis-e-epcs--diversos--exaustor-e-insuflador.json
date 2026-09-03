@@ -1,0 +1,61 @@
+{
+  "title": "EXAUSTOR E INSUFLADOR",
+  "parentLabel": "Diversos",
+  "description": "Produtos da categoria exaustor e insuflador em diversos.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Diversos",
+      "to": "/epis-e-epcs/diversos"
+    },
+    {
+      "label": "EXAUSTOR E INSUFLADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13348",
+      "title": "EXAUSTOR AXIAL APF 30 0,33 CV 220V IP 55",
+      "brand": "EXAUSTYAIR",
+      "brandCode": "1228",
+      "supplier": "EXAUSTYAIR COMERCIAL LTDA",
+      "supplierCode": "6248",
+      "manufacturerCode": "APF30",
+      "category": "EXAUSTOR E INSUFLADOR",
+      "categorySlug": "exaustor-e-insuflador",
+      "path": "/exaustor-axial-apf-30-033-cv-220v-ip-55-13348",
+      "image": "/products/images/0133/13348.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "7602",
+      "title": "INSUFLADOR EXAUSTOR 20CM 012V DUTO 7,5M",
+      "brand": "HERCULES",
+      "brandCode": "88",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "CV1P20D75",
+      "category": "EXAUSTOR E INSUFLADOR",
+      "categorySlug": "exaustor-e-insuflador",
+      "path": "/insuflador-exaustor-20cm-012v-duto-75m-7602",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--diversos--exaustor-e-insuflador"
+  }
+}

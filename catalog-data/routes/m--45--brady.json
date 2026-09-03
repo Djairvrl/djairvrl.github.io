@@ -1,0 +1,104 @@
+{
+  "title": "BRADY",
+  "parentLabel": "Marca",
+  "description": "Produtos BRADY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRADY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8368",
+      "title": "BLOQUEIO A CABO/ CABO DE NYLON 1,8M",
+      "brand": "BRADY",
+      "brandCode": "45",
+      "supplier": "RICARDO M DOS SANTOS TREINAMENTO",
+      "supplierCode": "1827",
+      "manufacturerCode": "BRADY 50943",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-a-cabo-cabo-de-nylon-18m-8368",
+      "image": "/products/images/0083/8368.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "589",
+      "title": "BLOQUEIO DE SEGURANÇA MODELO POW PARA DISJUNTORES DIN BRADY 090851",
+      "brand": "BRADY",
+      "brandCode": "45",
+      "supplier": "LADDER AUTOMACAO INDUSTRIAL LTDA",
+      "supplierCode": "147",
+      "manufacturerCode": "90851",
+      "category": "BLOQUEIO DE DISJUNTORES",
+      "categorySlug": "bloqueio-de-disjuntores",
+      "path": "/bloqueio-de-seguranca-modelo-pow-para-disjuntores-din-brady-090851-589",
+      "image": "/products/images/0005/589.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "587",
+      "title": "BLOQUEIO DE SEGURANÇA P.O.S PARA DISJUNTORES BRADY 90845",
+      "brand": "BRADY",
+      "brandCode": "45",
+      "supplier": "LADDER AUTOMACAO INDUSTRIAL LTDA",
+      "supplierCode": "147",
+      "manufacturerCode": "90845",
+      "category": "BLOQUEIO DE DISJUNTORES",
+      "categorySlug": "bloqueio-de-disjuntores",
+      "path": "/bloqueio-de-seguranca-pos-para-disjuntores-brady-90845-587",
+      "image": "/products/images/0005/587.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "10128",
+      "title": "BLOQUEIO P/ DISJUNTORE MONO S/ FURO",
+      "brand": "BRADY",
+      "brandCode": "45",
+      "supplier": "S.V.C. LASER COMERCIAL LTDA",
+      "supplierCode": "3117",
+      "manufacturerCode": "3598",
+      "category": "BLOQUEIO DE DISJUNTORES",
+      "categorySlug": "bloqueio-de-disjuntores",
+      "path": "/bloqueio-p-disjuntore-mono-s-furo-10128",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "10870",
+      "title": "ETIQUETA DE MARCACAO  VN BR 19,05X6400MM",
+      "brand": "BRADY",
+      "brandCode": "45",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "452669",
+      "category": "ETIQUETAS PERSONALIZADAS",
+      "categorySlug": "etiquetas-personalizadas",
+      "path": "/etiqueta-de-marcacao-vn-br-1905x6400mm-10870",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--45--brady"
+  }
+}

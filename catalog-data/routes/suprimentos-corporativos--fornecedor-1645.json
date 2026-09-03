@@ -1,0 +1,436 @@
+{
+  "title": "Suprimentos Corporativos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de PAULO CUSTODIO DO PRADO 52357350997 neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Informática e Telecomunicação",
+      "slug": "informatica-e-telecomunicacao",
+      "path": "/suprimentos-corporativos/informatica-e-telecomunicacao",
+      "count": 416,
+      "categories": [
+        {
+          "name": "ACESSÓRIO",
+          "slug": "acessorio",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorio",
+          "count": 21
+        },
+        {
+          "name": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+          "slug": "acessorios-para-transporte-e-protecao",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorios-para-transporte-e-protecao",
+          "count": 16
+        },
+        {
+          "name": "ADAPTADORES",
+          "slug": "adaptadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/adaptadores",
+          "count": 4
+        },
+        {
+          "name": "CABOS",
+          "slug": "cabos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cabos",
+          "count": 40
+        },
+        {
+          "name": "CAIXAS DE SOM",
+          "slug": "caixas-de-som",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/caixas-de-som",
+          "count": 3
+        },
+        {
+          "name": "COMPUTADORES",
+          "slug": "computadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/computadores",
+          "count": 3
+        },
+        {
+          "name": "CONTROLE DE ACESSO",
+          "slug": "controle-de-acesso",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/controle-de-acesso",
+          "count": 6
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cameras",
+          "count": 22
+        },
+        {
+          "name": "DATACENTERS",
+          "slug": "datacenters",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/datacenters",
+          "count": 1
+        },
+        {
+          "name": "DISPOSITIVOS  DE ARMAZENAMENTO",
+          "slug": "dispositivos-de-armazenamento",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/dispositivos-de-armazenamento",
+          "count": 14
+        },
+        {
+          "name": "ERGONOMIA",
+          "slug": "ergonomia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/ergonomia",
+          "count": 15
+        },
+        {
+          "name": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+          "slug": "estabilizadores-filtros-de-l-e-nobreak",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estabilizadores-filtros-de-l-e-nobreak",
+          "count": 20
+        },
+        {
+          "name": "ESTAÇÕES DE RETRABALHO BGA",
+          "slug": "estacoes-de-retrabalho-bga",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estacoes-de-retrabalho-bga",
+          "count": 2
+        },
+        {
+          "name": "FRAGMENTADORAS",
+          "slug": "fragmentadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/fragmentadoras",
+          "count": 1
+        },
+        {
+          "name": "IMPRESSORAS",
+          "slug": "impressoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/impressoras",
+          "count": 21
+        },
+        {
+          "name": "INFRAESTRUTURA DE REDE",
+          "slug": "infraestrutura-de-rede",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/infraestrutura-de-rede",
+          "count": 51
+        },
+        {
+          "name": "INSUMOS",
+          "slug": "insumos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/insumos",
+          "count": 26
+        },
+        {
+          "name": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+          "slug": "manutencao-tecnica-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/manutencao-tecnica-de-informatica",
+          "count": 11
+        },
+        {
+          "name": "MONITORES",
+          "slug": "monitores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/monitores",
+          "count": 13
+        },
+        {
+          "name": "NOTEBOOKS",
+          "slug": "notebooks",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/notebooks",
+          "count": 1
+        },
+        {
+          "name": "PERIFÉRICOS DE INFORMÁTICA",
+          "slug": "perifericos-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/perifericos-de-informatica",
+          "count": 32
+        },
+        {
+          "name": "PILHAS E BATERIAS",
+          "slug": "pilhas-e-baterias",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/pilhas-e-baterias",
+          "count": 32
+        },
+        {
+          "name": "PLACAS DE VIDEO",
+          "slug": "placas-de-video",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/placas-de-video",
+          "count": 1
+        },
+        {
+          "name": "PLASTIFICADORAS",
+          "slug": "plastificadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/plastificadoras",
+          "count": 9
+        },
+        {
+          "name": "RADIOCOMUNICADORES",
+          "slug": "radiocomunicadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/radiocomunicadores",
+          "count": 7
+        },
+        {
+          "name": "ROTULADORES",
+          "slug": "rotuladores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/rotuladores",
+          "count": 9
+        },
+        {
+          "name": "SOFTWARES",
+          "slug": "softwares",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/softwares",
+          "count": 1
+        },
+        {
+          "name": "TABLETS E SMARTPHONES",
+          "slug": "tablets-e-smartphones",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tablets-e-smartphones",
+          "count": 5
+        },
+        {
+          "name": "TESTADORES DE REDE E TELEFONIA",
+          "slug": "testadores-de-rede-e-telefonia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/testadores-de-rede-e-telefonia",
+          "count": 4
+        },
+        {
+          "name": "TVs",
+          "slug": "tvs",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tvs",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "name": "Redes e Telefonia",
+      "slug": "redes-e-telefonia",
+      "path": "/suprimentos-corporativos/redes-e-telefonia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Áudio, Vídeo e Reunião",
+      "slug": "audio-video-e-reuniao",
+      "path": "/suprimentos-corporativos/audio-video-e-reuniao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Climatização",
+      "slug": "climatizacao",
+      "path": "/suprimentos-corporativos/climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Eletrodomésticos",
+      "slug": "eletrodomesticos",
+      "path": "/suprimentos-corporativos/eletrodomesticos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Cópia, Digitalização e Impressão",
+      "slug": "copia-digitalizacao-e-impressao",
+      "path": "/suprimentos-corporativos/copia-digitalizacao-e-impressao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Mobiliário e Ergonomia",
+      "slug": "mobiliario-e-ergonomia",
+      "path": "/suprimentos-corporativos/mobiliario-e-ergonomia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Embalagens e Expedição",
+      "slug": "embalagens-e-expedicao",
+      "path": "/suprimentos-corporativos/embalagens-e-expedicao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Papelaria e Escritório",
+      "slug": "papelaria-e-escritorio",
+      "path": "/suprimentos-corporativos/papelaria-e-escritorio",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Uniformes e Têxteis Profissionais",
+      "slug": "uniformes-e-texteis-profissionais",
+      "path": "/suprimentos-corporativos/uniformes-e-texteis-profissionais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartáveis e Itens para Copa",
+      "slug": "descartaveis-e-itens-para-copa",
+      "path": "/suprimentos-corporativos/descartaveis-e-itens-para-copa",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Limpeza e Sanitização",
+      "slug": "limpeza-e-sanitizacao",
+      "path": "/suprimentos-corporativos/limpeza-e-sanitizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Higiene Pessoal e Banheiro",
+      "slug": "higiene-pessoal-e-banheiro",
+      "path": "/suprimentos-corporativos/higiene-pessoal-e-banheiro",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Marketing e Brindes",
+      "slug": "marketing-e-brindes",
+      "path": "/suprimentos-corporativos/marketing-e-brindes",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartaveis E Utensilios",
+      "slug": "descartaveis-e-utensilios",
+      "path": "/suprimentos-corporativos/descartaveis-e-utensilios",
+      "count": 2,
+      "categories": [
+        {
+          "name": "DIVEROS",
+          "slug": "diveros",
+          "path": "/suprimentos-corporativos/descartaveis-e-utensilios/diveros",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Informatica E Eletronicos",
+      "slug": "informatica-e-eletronicos",
+      "path": "/suprimentos-corporativos/informatica-e-eletronicos",
+      "count": 7,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/suprimentos-corporativos/informatica-e-eletronicos/acessorios",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Máquinas E Implementos",
+      "slug": "maquinas-e-implementos",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos",
+      "count": 4,
+      "categories": [
+        {
+          "name": "CONTAINERS",
+          "slug": "containers",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/containers",
+          "count": 2
+        },
+        {
+          "name": "IMPLEMENTOS INDUSTRIAIS",
+          "slug": "implementos-industriais",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/implementos-industriais",
+          "count": 1
+        },
+        {
+          "name": "MÁQUINAS PESADAS",
+          "slug": "maquinas-pesadas",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/maquinas-pesadas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Suprimentos Indiretos",
+      "slug": "suprimentos-indiretos",
+      "path": "/suprimentos-corporativos/suprimentos-indiretos",
+      "count": 1262,
+      "categories": [
+        {
+          "name": "ALIMENTOS E BEBIDAS",
+          "slug": "alimentos-e-bebidas",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/alimentos-e-bebidas",
+          "count": 83
+        },
+        {
+          "name": "AUTOMOTIVOS",
+          "slug": "automotivos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/automotivos",
+          "count": 21
+        },
+        {
+          "name": "BRINDES CORPORATIVOS",
+          "slug": "brindes-corporativos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/brindes-corporativos",
+          "count": 34
+        },
+        {
+          "name": "DECORAÇÃO E INFRAESTRUTURA",
+          "slug": "decoracao-e-infraestrutura",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/decoracao-e-infraestrutura",
+          "count": 34
+        },
+        {
+          "name": "DESCARTAVEIS E UTENSILIOS",
+          "slug": "descartaveis-e-utensilios",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/descartaveis-e-utensilios",
+          "count": 136
+        },
+        {
+          "name": "ELETRODOMÉSTICOS",
+          "slug": "eletrodomesticos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/eletrodomesticos",
+          "count": 139
+        },
+        {
+          "name": "HIGIENE E LIMPEZA",
+          "slug": "higiene-e-limpeza",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/higiene-e-limpeza",
+          "count": 288
+        },
+        {
+          "name": "MOBILIÁRIO CORPORATIVO",
+          "slug": "mobiliario-corporativo",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/mobiliario-corporativo",
+          "count": 113
+        },
+        {
+          "name": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+          "slug": "papelaria-e-material-de-escritorio",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/papelaria-e-material-de-escritorio",
+          "count": 412
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1645",
+    "name": "PAULO CUSTODIO DO PRADO 52357350997"
+  },
+  "products": [
+    {
+      "code": "7293",
+      "title": "IDENTIFICADOR FIBRA ATIVA C CANET OPTICA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PAULO CUSTODIO DO PRADO 52357350997",
+      "supplierCode": "1645",
+      "manufacturerCode": "JL-TFI-40",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/identificador-fibra-ativa-c-canet-optica-7293",
+      "image": "/products/images/0072/7293.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-corporativos--fornecedor-1645"
+  }
+}

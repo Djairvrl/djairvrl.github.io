@@ -1,0 +1,61 @@
+{
+  "title": "SINALIZAÇÃO EQUIPAMENTOS",
+  "parentLabel": "Placas E Dispositivos",
+  "description": "Produtos da categoria sinalização equipamentos em placas e dispositivos.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança",
+      "to": "/sinalizacao-de-seguranca"
+    },
+    {
+      "label": "Placas E Dispositivos",
+      "to": "/sinalizacao-de-seguranca/placas-e-dispositivos"
+    },
+    {
+      "label": "SINALIZAÇÃO EQUIPAMENTOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8651",
+      "title": "PLACA DE HIDRANTE 20X20CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "8651",
+      "category": "SINALIZAÇÃO EQUIPAMENTOS",
+      "categorySlug": "sinalizacao-equipamentos",
+      "path": "/placa-de-hidrante-20x20cm-8651",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "10477",
+      "title": "PLACA DE SINALIZACAO E15",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "PLCE15",
+      "category": "SINALIZAÇÃO EQUIPAMENTOS",
+      "categorySlug": "sinalizacao-equipamentos",
+      "path": "/placa-de-sinalizacao-e15-10477",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "sinalizacao-de-seguranca--placas-e-dispositivos--sinalizacao-equipamentos"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "title": "Spare Parts Energy",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FVA MATERIAL DE BORRACHARIA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy"
+    }
+  ],
+  "children": [
+    {
+      "name": "Componentes Hidráulicos e Refrigeração",
+      "slug": "componentes-hidraulicos-e-refrigeracao",
+      "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao",
+      "count": 72,
+      "categories": [
+        {
+          "name": "ACUMULADORES",
+          "slug": "acumuladores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/acumuladores",
+          "count": 1
+        },
+        {
+          "name": "CILINDROS",
+          "slug": "cilindros",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/cilindros",
+          "count": 6
+        },
+        {
+          "name": "CONECTORES E ADAPTADORES",
+          "slug": "conectores-e-adaptadores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/conectores-e-adaptadores",
+          "count": 14
+        },
+        {
+          "name": "INDICADORES DE NÍVEL / TEMPERATURA",
+          "slug": "indicadores-de-nivel-temperatura",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/indicadores-de-nivel-temperatura",
+          "count": 3
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/mangueiras",
+          "count": 6
+        },
+        {
+          "name": "SISTEMAS FILTRANTES",
+          "slug": "sistemas-filtrantes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/sistemas-filtrantes",
+          "count": 22
+        },
+        {
+          "name": "VEDAÇÕES",
+          "slug": "vedacoes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/vedacoes",
+          "count": 16
+        },
+        {
+          "name": "VÁLVULAS",
+          "slug": "valvulas",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/valvulas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Componentes Mecânicos",
+      "slug": "componentes-mecanicos",
+      "path": "/spare-parts-energy/componentes-mecanicos",
+      "count": 13,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE ENGRENAGEM",
+          "slug": "acessorios-de-engrenagem",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-de-engrenagem",
+          "count": 1
+        },
+        {
+          "name": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+          "slug": "acessorios-para-equipamentos-pesados",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-para-equipamentos-pesados",
+          "count": 4
+        },
+        {
+          "name": "ACOPLAMENTOS",
+          "slug": "acoplamentos",
+          "path": "/spare-parts-energy/componentes-mecanicos/acoplamentos",
+          "count": 3
+        },
+        {
+          "name": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+          "slug": "rolamentos-e-caixas-de-rolamento",
+          "path": "/spare-parts-energy/componentes-mecanicos/rolamentos-e-caixas-de-rolamento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis e Elementos de Fixação",
+      "slug": "consumiveis-e-elementos-de-fixacao",
+      "path": "/spare-parts-energy/consumiveis-e-elementos-de-fixacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Grandes Componentes e Transmissão",
+      "slug": "grandes-componentes-e-transmissao",
+      "path": "/spare-parts-energy/grandes-componentes-e-transmissao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Componentes Elétricos",
+      "slug": "componentes-eletricos",
+      "path": "/spare-parts-energy/componentes-eletricos",
+      "count": 1,
+      "categories": [
+        {
+          "name": "PRESSOSTATO",
+          "slug": "pressostato",
+          "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis",
+      "slug": "consumiveis",
+      "path": "/spare-parts-energy/consumiveis",
+      "count": 66,
+      "categories": [
+        {
+          "name": "FILTROS AMBIENTAIS",
+          "slug": "filtros-ambientais",
+          "path": "/spare-parts-energy/consumiveis/filtros-ambientais",
+          "count": 1
+        },
+        {
+          "name": "FILTROS DE MOTOR",
+          "slug": "filtros-de-motor",
+          "path": "/spare-parts-energy/consumiveis/filtros-de-motor",
+          "count": 13
+        },
+        {
+          "name": "FILTROS HIDRÁULICOS",
+          "slug": "filtros-hidraulicos",
+          "path": "/spare-parts-energy/consumiveis/filtros-hidraulicos",
+          "count": 18
+        },
+        {
+          "name": "PARAFUSOS, PROCAS E FIXADORES",
+          "slug": "parafusos-procas-e-fixadores",
+          "path": "/spare-parts-energy/consumiveis/parafusos-procas-e-fixadores",
+          "count": 19
+        },
+        {
+          "name": "TINTAS E QUÍMICOS",
+          "slug": "tintas-e-quimicos",
+          "path": "/spare-parts-energy/consumiveis/tintas-e-quimicos",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Grandes Componentes",
+      "slug": "grandes-componentes",
+      "path": "/spare-parts-energy/grandes-componentes",
+      "count": 2,
+      "categories": [
+        {
+          "name": "GEARBOX",
+          "slug": "gearbox",
+          "path": "/spare-parts-energy/grandes-componentes/gearbox",
+          "count": 1
+        },
+        {
+          "name": "TRANSFORMADOR",
+          "slug": "transformador",
+          "path": "/spare-parts-energy/grandes-componentes/transformador",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Peças Para Linha De Transmissão",
+      "slug": "pecas-para-linha-de-transmissao",
+      "path": "/spare-parts-energy/pecas-para-linha-de-transmissao",
+      "count": 24,
+      "categories": [
+        {
+          "name": "ESTRUTURAIS",
+          "slug": "estruturais",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/estruturais",
+          "count": 5
+        },
+        {
+          "name": "METÁLICAS",
+          "slug": "metalicas",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/metalicas",
+          "count": 19
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "3852",
+    "name": "FVA MATERIAL DE BORRACHARIA LTDA"
+  },
+  "products": [
+    {
+      "code": "10608",
+      "title": "ADAPTADOR IMPACTO 1/2X1 SOQUETE FV",
+      "brand": "FVA",
+      "brandCode": "786",
+      "supplier": "FVA MATERIAL DE BORRACHARIA LTDA",
+      "supplierCode": "3852",
+      "manufacturerCode": "AF121",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-impacto-12x1-soquete-fv-10608",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "spare-parts-energy--fornecedor-3852"
+  }
+}

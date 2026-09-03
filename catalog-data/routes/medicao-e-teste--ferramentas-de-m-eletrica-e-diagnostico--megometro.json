@@ -1,0 +1,146 @@
+{
+  "title": "MEGÔMETRO",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria megômetro em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "MEGÔMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10609",
+      "title": "JOGO CABOS MEGOHMETRO 3M PR/PT/PG-12",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "GAMA COM E SERV INSTRUMENTOS MEDICAO LTDA",
+      "supplierCode": "1122",
+      "manufacturerCode": "0181",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/jogo-cabos-megohmetro-3m-prptpg12-10609",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "5950",
+      "title": "MEGOHMETRO ANALOGICO BIVOLT MI20KVE",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "01186",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megohmetro-analogico-bivolt-mi20kve-5950",
+      "image": "/products/images/0059/5950.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8805",
+      "title": "MEGOHMETRO DIGITAL MD15KVR",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "MD15KVR",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megohmetro-digital-md15kvr-8805",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3408",
+      "title": "MEGÔHMETRO DIGITAL  ATÉ 10000V - MD-10KVR - MEGABRAS",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "07418",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megohmetro-digital-ate-10000v--md10kvr--megabras-3408",
+      "image": "/products/images/0034/3408.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "1993",
+      "title": "MEGÔHMETRO DIGITAL DE 5 KV MD5060X - MEGABRAS",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "07621",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megohmetro-digital-de-5-kv-md5060x--megabras-1993",
+      "image": "/products/images/0019/1993.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "1115",
+      "title": "MEGÔMETRO DIGITAL PARA TESTE DE ISOLAMENTO CAT IV(600V) 50-1000V 1507 -  FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5066006",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megometro-digital-para-teste-de-isolamento-cat-iv600v-501000v-1507--fluke-1115",
+      "image": "/products/images/0011/1115.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "1114",
+      "title": "MEGÔMETRO DIGITAL PARA TESTE DE ISOLAMENTO CAT IV(600V) 500-1000V 1503 -  FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5065990",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megometro-digital-para-teste-de-isolamento-cat-iv600v-5001000v-1503--fluke-1114",
+      "image": "/products/images/0011/1114.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--megometro"
+  }
+}

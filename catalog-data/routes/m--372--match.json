@@ -1,0 +1,36 @@
+{
+  "title": "MATCH",
+  "parentLabel": "Marca",
+  "description": "Produtos MATCH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MATCH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6881",
+      "title": "LUVA EM RASPA PETROLEIRA CA 15061",
+      "brand": "MATCH",
+      "brandCode": "372",
+      "supplier": "BUNZL EQUIPAMENTOS P PROTECAO INDIVIDUAL",
+      "supplierCode": "28",
+      "manufacturerCode": "6881",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/luva-em-raspa-petroleira-ca-15061-6881",
+      "image": "/products/images/0068/6881.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--372--match"
+  }
+}

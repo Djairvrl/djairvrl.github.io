@@ -1,0 +1,129 @@
+{
+  "title": "CONTROLE DE ACESSO",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria controle de acesso em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "CONTROLE DE ACESSO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12081",
+      "title": "ACIONADOR P/ALARME INCENDIO AS 2010",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "26798",
+      "category": "CONTROLE DE ACESSO",
+      "categorySlug": "controle-de-acesso",
+      "path": "/acionador-palarme-incendio-as-2010-12081",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "9545",
+      "title": "FECH YDF 40A ROLETE BIOMETRICA EMB DIG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "LE FERRAGNES LTDA",
+      "supplierCode": "2597",
+      "manufacturerCode": "24590",
+      "category": "CONTROLE DE ACESSO",
+      "categorySlug": "controle-de-acesso",
+      "path": "/fech-ydf-40a-rolete-biometrica-emb-dig-9545",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10165",
+      "title": "FECHADURA BIOMETRICA EMBUTIR YDF 40A RL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ASSA ABLOY BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "3227",
+      "manufacturerCode": "05442039-0",
+      "category": "CONTROLE DE ACESSO",
+      "categorySlug": "controle-de-acesso",
+      "path": "/fechadura-biometrica-embutir-ydf-40a-rl-10165",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "9939",
+      "title": "FECHADURA DIG. FD2000",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KGMLAN DISTRIBUIDORA LTDA",
+      "supplierCode": "1641",
+      "manufacturerCode": "4670200",
+      "category": "CONTROLE DE ACESSO",
+      "categorySlug": "controle-de-acesso",
+      "path": "/fechadura-dig-fd2000-9939",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6723",
+      "title": "FECHADURA SOLENOIDE FAIL SAFE DE EMBUTIR",
+      "brand": "INTELBRAS",
+      "brandCode": "300",
+      "supplier": "V4LE TECNOLOGIA LTDA",
+      "supplierCode": "1301",
+      "manufacturerCode": "4672005",
+      "category": "CONTROLE DE ACESSO",
+      "categorySlug": "controle-de-acesso",
+      "path": "/fechadura-solenoide-fail-safe-de-embutir-6723",
+      "image": "/products/images/0067/6723.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "9929",
+      "title": "TECLADO PARA CENTRAIS XAT 3000 LED",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KGMLAN DISTRIBUIDORA LTDA",
+      "supplierCode": "1641",
+      "manufacturerCode": "4540020",
+      "category": "CONTROLE DE ACESSO",
+      "categorySlug": "controle-de-acesso",
+      "path": "/teclado-para-centrais-xat-3000-led-9929",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--controle-de-acesso"
+  }
+}

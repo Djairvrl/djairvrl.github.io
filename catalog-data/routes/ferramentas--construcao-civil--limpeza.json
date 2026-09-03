@@ -1,0 +1,44 @@
+{
+  "title": "LIMPEZA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria limpeza em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "LIMPEZA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "908",
+      "title": "ESPUMA EM BLOCO D13 22X13X6CM - VONDER 6241135220",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6241135220",
+      "category": "LIMPEZA",
+      "categorySlug": "limpeza",
+      "path": "/espuma-em-bloco-d13-22x13x6cm--vonder-6241135220-908",
+      "image": "/products/images/0009/908.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--construcao-civil--limpeza"
+  }
+}

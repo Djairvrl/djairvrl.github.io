@@ -1,0 +1,539 @@
+{
+  "title": "Organização e Armazenamento",
+  "parentLabel": "Departamento",
+  "description": "Produtos de TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento"
+    }
+  ],
+  "children": [
+    {
+      "name": "Organização de Oficina e Bancada",
+      "slug": "organizacao-de-oficina-e-bancada",
+      "path": "/organizacao-e-armazenamento/organizacao-de-oficina-e-bancada",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento e Estruturas de Estoque",
+      "slug": "armazenamento-e-estruturas-de-estoque",
+      "path": "/organizacao-e-armazenamento/armazenamento-e-estruturas-de-estoque",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Movimentação e Intralogística",
+      "slug": "movimentacao-e-intralogistica",
+      "path": "/organizacao-e-armazenamento/movimentacao-e-intralogistica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento",
+      "slug": "armazenamento",
+      "path": "/organizacao-e-armazenamento/armazenamento",
+      "count": 183,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/organizacao-e-armazenamento/armazenamento/acessorios",
+          "count": 24
+        },
+        {
+          "name": "ARMÁRIOS",
+          "slug": "armarios",
+          "path": "/organizacao-e-armazenamento/armazenamento/armarios",
+          "count": 50
+        },
+        {
+          "name": "CAIXAS E CASES",
+          "slug": "caixas-e-cases",
+          "path": "/organizacao-e-armazenamento/armazenamento/caixas-e-cases",
+          "count": 20
+        },
+        {
+          "name": "CARRINHOS DE CARGA",
+          "slug": "carrinhos-de-carga",
+          "path": "/organizacao-e-armazenamento/armazenamento/carrinhos-de-carga",
+          "count": 5
+        },
+        {
+          "name": "EMPILHADEIRAS MANUAIS",
+          "slug": "empilhadeiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/empilhadeiras-manuais",
+          "count": 1
+        },
+        {
+          "name": "ESTANTES",
+          "slug": "estantes",
+          "path": "/organizacao-e-armazenamento/armazenamento/estantes",
+          "count": 24
+        },
+        {
+          "name": "FILME",
+          "slug": "filme",
+          "path": "/organizacao-e-armazenamento/armazenamento/filme",
+          "count": 5
+        },
+        {
+          "name": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+          "slug": "mesas-hidraulicas-pantograficas",
+          "path": "/organizacao-e-armazenamento/armazenamento/mesas-hidraulicas-pantograficas",
+          "count": 1
+        },
+        {
+          "name": "PALETEIRAS ELÉTRICAS",
+          "slug": "paleteiras-eletricas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-eletricas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS HIDRÁULICAS",
+          "slug": "paleteiras-hidraulicas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-hidraulicas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS MANUAIS",
+          "slug": "paleteiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-manuais",
+          "count": 10
+        },
+        {
+          "name": "PALETES PLÁSTICOS",
+          "slug": "paletes-plasticos",
+          "path": "/organizacao-e-armazenamento/armazenamento/paletes-plasticos",
+          "count": 1
+        },
+        {
+          "name": "PISOS MODULARES",
+          "slug": "pisos-modulares",
+          "path": "/organizacao-e-armazenamento/armazenamento/pisos-modulares",
+          "count": 2
+        },
+        {
+          "name": "PORTA PALETES",
+          "slug": "porta-paletes",
+          "path": "/organizacao-e-armazenamento/armazenamento/porta-paletes",
+          "count": 25
+        },
+        {
+          "name": "PRATELEIRA",
+          "slug": "prateleira",
+          "path": "/organizacao-e-armazenamento/armazenamento/prateleira",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Organização",
+      "slug": "organizacao",
+      "path": "/organizacao-e-armazenamento/organizacao",
+      "count": 150,
+      "categories": [
+        {
+          "name": "BANCADAS DE TRABALHO",
+          "slug": "bancadas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/bancadas-de-trabalho",
+          "count": 24
+        },
+        {
+          "name": "BOLSAS PARA FERRAMENTAS",
+          "slug": "bolsas-para-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/bolsas-para-ferramentas",
+          "count": 55
+        },
+        {
+          "name": "CARRINHOS DE FERRAMENTAS",
+          "slug": "carrinhos-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/carrinhos-de-ferramentas",
+          "count": 7
+        },
+        {
+          "name": "CLAVICULARIOS",
+          "slug": "clavicularios",
+          "path": "/organizacao-e-armazenamento/organizacao/clavicularios",
+          "count": 16
+        },
+        {
+          "name": "MALETAS DE TRABALHO",
+          "slug": "maletas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/maletas-de-trabalho",
+          "count": 18
+        },
+        {
+          "name": "ORGANIZADORES",
+          "slug": "organizadores",
+          "path": "/organizacao-e-armazenamento/organizacao/organizadores",
+          "count": 13
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/organizacao-e-armazenamento/organizacao/outros",
+          "count": 8
+        },
+        {
+          "name": "PAINÉIS DE FERRAMENTAS",
+          "slug": "paineis-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/paineis-de-ferramentas",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "519",
+    "name": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA"
+  },
+  "products": [
+    {
+      "code": "7681",
+      "title": "ARMARIO 2 PORTAS C/ VISORES AZUL",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955/220",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-2-portas-c-visores-azul-7681",
+      "image": "/products/images/0076/7681.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7682",
+      "title": "ARMARIO VERTICAL COM VISORES 29 BIN",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955/221",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-vertical-com-visores-29-bin-7682",
+      "image": "/products/images/0076/7682.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "6488",
+      "title": "ARMÁRIO VERTICAL PARA FERRAMENTAS 2 PORTAS 5 PRATELEIRAS - TRAMONTINA PRO 44955010",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955010",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-vertical-para-ferramentas-2-portas-5-prateleiras--tramontina-pro-44955010-6488",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "8173",
+      "title": "ARMÁRIO VERTICAL PARA FERRAMENTAS AZUL 2 PORTAS 400KG - TRAMONTINA PRO 44955210",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955210",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-vertical-para-ferramentas-azul-2-portas-400kg--tramontina-pro-44955210-8173",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7683",
+      "title": "BANCADA ABERTA 2 GAVETAS AZUL",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954/240",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-aberta-2-gavetas-azul-7683",
+      "image": "/products/images/0076/7683.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "9730",
+      "title": "COMBO MODULO 7 GAV + TAMPO 2400MM P/ BAN",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "9730",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/combo-modulo-7-gav-tampo-2400mm-p-ban-9730",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7685",
+      "title": "MODULO 3 GAVETAS E 2 PORTAS AZUL",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954/212",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/modulo-3-gavetas-e-2-portas-azul-7685",
+      "image": "/products/images/0076/7685.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "6489",
+      "title": "MODULO COM 5 GAVETAS E 1 PORTA",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954011",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/modulo-com-5-gavetas-e-1-porta-6489",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9406",
+      "title": "MODULO P/ BANCADA COM 7 GAVETAS",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954213",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/modulo-p-bancada-com-7-gavetas-9406",
+      "image": "/products/images/0094/9406.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10254",
+      "title": "MODULOS P/BANCADA C/5 GAVETAS E UMA PORT",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954211",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/modulos-pbancada-c5-gavetas-e-uma-port-10254",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "8174",
+      "title": "MÓDULO PARA BANCADA AZUL 2 PORTAS 3 GAVETAS 860 X 773 X 552MM - TRAMONTINA PRO 44954212",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954212",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/modulo-para-bancada-azul-2-portas-3-gavetas-860-x-773-x-552mm--tramontina-pro-44954212-8174",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "8172",
+      "title": "MÓDULO PARA BANCADA AZUL 2 PORTAS 860 X 773 X 552MM - TRAMONTINA PRO 44954216",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954216",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/modulo-para-bancada-azul-2-portas-860-x-773-x-552mm--tramontina-pro-44954216-8172",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10256",
+      "title": "PAINEL P/FERRAMENTAS SUPERIOR C/2 PORTAS",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953205",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-pferramentas-superior-c2-portas-10256",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6496",
+      "title": "PAINEL PARA FERRAMENTAS 1 PORTA",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953016",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-para-ferramentas-1-porta-6496",
+      "image": "/products/images/0064/6496.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6280",
+      "title": "PAINEL PERFURADO PARA FERRAMENTAS",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953009",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-perfurado-para-ferramentas-6280",
+      "image": "/products/images/0062/6280.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7684",
+      "title": "PAINEL PERFURADO PARA FERRAMENTAS",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953/009",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-perfurado-para-ferramentas-7684",
+      "image": "/products/images/0076/7684.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "8175",
+      "title": "PERNA APOIO P BANCADA AZUL",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954214",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/perna-apoio-p-bancada-azul-8175",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6368",
+      "title": "PERNA DE APOIO PARA BANCADA",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954/014",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/perna-de-apoio-para-bancada-6368",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "8176",
+      "title": "TAMPO DE MADEIRA EM COMPENSADO NAVAL P/ BANCADA 1,6M - TRAMONTINA PRO 44954017",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954017",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/tampo-de-madeira-em-compensado-naval-p-bancada-16m--tramontina-pro-44954017-8176",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7686",
+      "title": "TAMPO DE MADEIRA PARA BANCADA 2400MM EM COMPENSADO NAVAL ENVERNIZADO - TRAMONTINA PRO 44954/018",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954018",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/tampo-de-madeira-para-bancada-2400mm-em-compensado-naval-envernizado--tramontina-pro-44954018-7686",
+      "image": "/products/images/0076/7686.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 20,
+    "pageBase": "organizacao-e-armazenamento--fornecedor-519"
+  }
+}

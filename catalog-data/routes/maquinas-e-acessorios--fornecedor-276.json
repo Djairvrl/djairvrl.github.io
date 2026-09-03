@@ -1,0 +1,682 @@
+{
+  "title": "Máquinas e Acessórios",
+  "parentLabel": "Departamento",
+  "description": "Produtos de SCHULZ COMPRESSORES LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios"
+    }
+  ],
+  "children": [
+    {
+      "name": "Geradores e Energia Auxiliar",
+      "slug": "geradores-e-energia-auxiliar",
+      "path": "/maquinas-e-acessorios/geradores-e-energia-auxiliar",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Motores, Motobombas e Compressores",
+      "slug": "motores-motobombas-e-compressores",
+      "path": "/maquinas-e-acessorios/motores-motobombas-e-compressores",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Equipamentos e Força Hidráulica",
+      "slug": "equipamentos-e-forca-hidraulica",
+      "path": "/maquinas-e-acessorios/equipamentos-e-forca-hidraulica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Lavadoras e Aspiradores Industriais",
+      "slug": "lavadoras-e-aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/lavadoras-e-aspiradores-industriais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Solda Industrial, Corte e Oxi-Combustível",
+      "slug": "solda-industrial-corte-e-oxi-combustivel",
+      "path": "/maquinas-e-acessorios/solda-industrial-corte-e-oxi-combustivel",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Usinagem CNC, Implementos e Climatização",
+      "slug": "usinagem-cnc-implementos-e-climatizacao",
+      "path": "/maquinas-e-acessorios/usinagem-cnc-implementos-e-climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Aspiradores Industriais",
+      "slug": "aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/aspiradores-industriais",
+      "count": 27,
+      "categories": [
+        {
+          "name": "ASPIRADORES DE PÓ INDUSTRIAL",
+          "slug": "aspiradores-de-po-industrial",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-de-po-industrial",
+          "count": 9
+        },
+        {
+          "name": "ASPIRADORES PORTÁTEIS",
+          "slug": "aspiradores-portateis",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-portateis",
+          "count": 17
+        },
+        {
+          "name": "EXTRATORAS",
+          "slug": "extratoras",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/extratoras",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Climatização Industrial",
+      "slug": "climatizacao-industrial",
+      "path": "/maquinas-e-acessorios/climatizacao-industrial",
+      "count": 2,
+      "categories": [
+        {
+          "name": "SECADOR E AQUECEDOR INDUSTRIAL",
+          "slug": "secador-e-aquecedor-industrial",
+          "path": "/maquinas-e-acessorios/climatizacao-industrial/secador-e-aquecedor-industrial",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Compressores",
+      "slug": "compressores",
+      "path": "/maquinas-e-acessorios/compressores",
+      "count": 30,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/compressores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "COMPRESSORES DE AR ELÉTRICOS",
+          "slug": "compressores-de-ar-eletricos",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-eletricos",
+          "count": 13
+        },
+        {
+          "name": "COMPRESSORES DE AR PORTÁTEIS",
+          "slug": "compressores-de-ar-portateis",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-portateis",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos Hidráulicos",
+      "slug": "equipamentos-hidraulicos",
+      "path": "/maquinas-e-acessorios/equipamentos-hidraulicos",
+      "count": 55,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS HIDRÁULICOS",
+          "slug": "acessorios-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/acessorios-hidraulicos",
+          "count": 14
+        },
+        {
+          "name": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+          "slug": "alicates-de-crimpagem-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/alicates-de-crimpagem-hidraulicos",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TESTE HIDROSTÁTICO",
+          "slug": "bombas-de-teste-hidrostatico",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-de-teste-hidrostatico",
+          "count": 3
+        },
+        {
+          "name": "BOMBAS HIDRÁULICAS",
+          "slug": "bombas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "CILINDROS HIDRÁULICOS",
+          "slug": "cilindros-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/cilindros-hidraulicos",
+          "count": 12
+        },
+        {
+          "name": "MACACOS HIDRÁULICOS",
+          "slug": "macacos-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/macacos-hidraulicos",
+          "count": 11
+        },
+        {
+          "name": "PRENSAS HIDRÁULICAS",
+          "slug": "prensas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/prensas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "VÁLVULAS HIDRÁULICAS",
+          "slug": "valvulas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/valvulas-hidraulicas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Geradores",
+      "slug": "geradores",
+      "path": "/maquinas-e-acessorios/geradores",
+      "count": 26,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/geradores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "GERADORES A DIESEL",
+          "slug": "geradores-a-diesel",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-diesel",
+          "count": 2
+        },
+        {
+          "name": "GERADORES A GASOLINA",
+          "slug": "geradores-a-gasolina",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-gasolina",
+          "count": 3
+        },
+        {
+          "name": "GERADORES ESTACIONÁRIOS",
+          "slug": "geradores-estacionarios",
+          "path": "/maquinas-e-acessorios/geradores/geradores-estacionarios",
+          "count": 1
+        },
+        {
+          "name": "GERADORES PORTÁTEIS",
+          "slug": "geradores-portateis",
+          "path": "/maquinas-e-acessorios/geradores/geradores-portateis",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Lavadoras De Alta Pressão",
+      "slug": "lavadoras-de-alta-pressao",
+      "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao",
+      "count": 17,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/acessorios",
+          "count": 1
+        },
+        {
+          "name": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+          "slug": "lavadoras-de-alta-pressao-industriais",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadoras-de-alta-pressao-industriais",
+          "count": 6
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+          "slug": "lavadores-de-alta-pressao-eletricas",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-eletricas",
+          "count": 7
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS",
+          "slug": "lavadores-de-alta-pressao-portateis",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-portateis",
+          "count": 1
+        },
+        {
+          "name": "MANGUEIRAS DE ALTA PRESSÃO",
+          "slug": "mangueiras-de-alta-pressao",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/mangueiras-de-alta-pressao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Motores",
+      "slug": "motores",
+      "path": "/maquinas-e-acessorios/motores",
+      "count": 28,
+      "categories": [
+        {
+          "name": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+          "slug": "bombas-de-agua-e-motobombas",
+          "path": "/maquinas-e-acessorios/motores/bombas-de-agua-e-motobombas",
+          "count": 13
+        },
+        {
+          "name": "MOTORES DE COMBUSTÃO INTERNA",
+          "slug": "motores-de-combustao-interna",
+          "path": "/maquinas-e-acessorios/motores/motores-de-combustao-interna",
+          "count": 3
+        },
+        {
+          "name": "MOTORES ELÉTRICOS MONOFÁSICOS",
+          "slug": "motores-eletricos-monofasicos",
+          "path": "/maquinas-e-acessorios/motores/motores-eletricos-monofasicos",
+          "count": 1
+        },
+        {
+          "name": "MOTORES PARA PORTÃO",
+          "slug": "motores-para-portao",
+          "path": "/maquinas-e-acessorios/motores/motores-para-portao",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Máquinas Cnc",
+      "slug": "maquinas-cnc",
+      "path": "/maquinas-e-acessorios/maquinas-cnc",
+      "count": 1,
+      "categories": [
+        {
+          "name": "ROUTER CNC",
+          "slug": "router-cnc",
+          "path": "/maquinas-e-acessorios/maquinas-cnc/router-cnc",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Solda Industrial",
+      "slug": "solda-industrial",
+      "path": "/maquinas-e-acessorios/solda-industrial",
+      "count": 142,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/solda-industrial/acessorios",
+          "count": 5
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/maquinas-e-acessorios/solda-industrial/bocais",
+          "count": 6
+        },
+        {
+          "name": "CORTE PLASMA",
+          "slug": "corte-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/corte-plasma",
+          "count": 4
+        },
+        {
+          "name": "DESSOLDADORES",
+          "slug": "dessoldadores",
+          "path": "/maquinas-e-acessorios/solda-industrial/dessoldadores",
+          "count": 1
+        },
+        {
+          "name": "ELETRODO REVESTIDO",
+          "slug": "eletrodo-revestido",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-revestido",
+          "count": 17
+        },
+        {
+          "name": "ELETRODO TIG",
+          "slug": "eletrodo-tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-tig",
+          "count": 6
+        },
+        {
+          "name": "EQUIPAMENTO A GÁS",
+          "slug": "equipamento-a-gas",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-a-gas",
+          "count": 8
+        },
+        {
+          "name": "EQUIPAMENTO DE PLASMA",
+          "slug": "equipamento-de-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-de-plasma",
+          "count": 1
+        },
+        {
+          "name": "FERRAMENTAS",
+          "slug": "ferramentas",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferramentas",
+          "count": 9
+        },
+        {
+          "name": "FERRO DE SOLDA",
+          "slug": "ferro-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferro-de-solda",
+          "count": 12
+        },
+        {
+          "name": "LIMPEZA DE SOLDA",
+          "slug": "limpeza-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/limpeza-de-solda",
+          "count": 12
+        },
+        {
+          "name": "MAQUINA DE SOLDA",
+          "slug": "maquina-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/maquina-de-solda",
+          "count": 10
+        },
+        {
+          "name": "MIG/MAG",
+          "slug": "mig-mag",
+          "path": "/maquinas-e-acessorios/solda-industrial/mig-mag",
+          "count": 7
+        },
+        {
+          "name": "MINI-MAÇARICOS",
+          "slug": "mini-macaricos",
+          "path": "/maquinas-e-acessorios/solda-industrial/mini-macaricos",
+          "count": 6
+        },
+        {
+          "name": "MULTIPROCESSO",
+          "slug": "multiprocesso",
+          "path": "/maquinas-e-acessorios/solda-industrial/multiprocesso",
+          "count": 1
+        },
+        {
+          "name": "OXI-COMBUSTÍVEL",
+          "slug": "oxi-combustivel",
+          "path": "/maquinas-e-acessorios/solda-industrial/oxi-combustivel",
+          "count": 4
+        },
+        {
+          "name": "REGULADOR",
+          "slug": "regulador",
+          "path": "/maquinas-e-acessorios/solda-industrial/regulador",
+          "count": 10
+        },
+        {
+          "name": "RETIFICADOR",
+          "slug": "retificador",
+          "path": "/maquinas-e-acessorios/solda-industrial/retificador",
+          "count": 1
+        },
+        {
+          "name": "TIG",
+          "slug": "tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/tig",
+          "count": 1
+        },
+        {
+          "name": "TOCHAS",
+          "slug": "tochas",
+          "path": "/maquinas-e-acessorios/solda-industrial/tochas",
+          "count": 9
+        },
+        {
+          "name": "VARETA DE SOLDA",
+          "slug": "vareta-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/vareta-de-solda",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "276",
+    "name": "SCHULZ COMPRESSORES LTDA"
+  },
+  "products": [
+    {
+      "code": "740",
+      "title": "ASPIRADOR DE ÁGUA E PÓ ELEKTRO 220V - 1400W 20L  SCHULZ 925.0059-0",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "925.0059-0",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-agua-e-po-elektro-220v--1400w-20l-schulz-92500590-740",
+      "image": "/products/images/0007/740.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "2074",
+      "title": "COMPRESSOR AIR PLUS CSV 10/100",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "921.7741-0",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-air-plus-csv-10100-2074",
+      "image": "/products/images/0020/2074.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "2448",
+      "title": "COMPRESSOR BRAVO CSL 10BR/100 220/380",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "921.7851-0",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-bravo-csl-10br100-220380-2448",
+      "image": "/products/images/0024/2448.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "1462",
+      "title": "COMPRESSOR CSA-7,5/20 ISENTO D OLEO 220V",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "91503110",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-csa7520-isento-d-oleo-220v-1462",
+      "image": "/products/images/0014/1462.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "6959",
+      "title": "COMPRESSOR DE AR PRO CSV 10/110 10 PCM 110L 2HP 220V - SCHULZ 921.7753-0",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "921.7753-0",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-de-ar-pro-csv-10110-10-pcm-110l-2hp-220v--schulz-92177530-6959",
+      "image": "/products/images/0069/6959.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "4222",
+      "title": "COMPRESSOR DE AR PRO CSV 10/50 2HP 50L 10PCM 220V - SCHULZ",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "921.7749-0",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-de-ar-pro-csv-1050-2hp-50l-10pcm-220v--schulz-4222",
+      "image": "/products/images/0042/4222.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "5374",
+      "title": "COMPRESSOR PRATIC AIR CSL 20/200 5CV 220/380V TRIFÁSICO - SCHULZ 921.3520-0",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "921.3520-0",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-pratic-air-csl-20200-5cv-220380v-trifasico--schulz-92135200-5374",
+      "image": "/products/images/0053/5374.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "1408",
+      "title": "LAVADORA DE ALTA PRESSAO 1400W 1000PSI",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "928.0001-0",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-de-alta-pressao-1400w-1000psi-1408",
+      "image": "/products/images/0014/1408.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "8887",
+      "title": "LAVADORA DE ALTA PRESSAO 1450W 1000PSI",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "92800090",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-de-alta-pressao-1450w-1000psi-8887",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "12165",
+      "title": "LAVADORA LUS500 500PSI 19L/MIN MTB 2CV 2",
+      "brand": "SOMAR",
+      "brandCode": "354",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "170.0500-3",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-lus500-500psi-19lmin-mtb-2cv-2-12165",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "6818",
+      "title": "MOTO COMPRESSOR SRI 805/25 220V",
+      "brand": "SOMAR",
+      "brandCode": "354",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "10023013",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/moto-compressor-sri-80525-220v-6818",
+      "image": "/products/images/0068/6818.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "9650",
+      "title": "MOTOCOMPRESSOR DE AR DIRETO JET FÁCIL PLUS COM ACESSÓRIOS  SCHULZ REF 920.1301-0",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "920.1301-0",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/motocompressor-de-ar-direto-jet-facil-plus-com-acessorios-schulz-ref-92013010-9650",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "8843",
+      "title": "MOTOCOMPRESSOR DE AR PORT PIST",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "915.0422-0",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/motocompressor-de-ar-port-pist-8843",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "2073",
+      "title": "MOTOCOMPRESSOR DE AR PRATIKO 8,6 PÉS 120LBS MONOFÁSICO 50L 220V CSI-8,6/50L - SCHULZ",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "915.0428-0",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/motocompressor-de-ar-pratiko-86-pes-120lbs-monofasico-50l-220v-csi8650l--schulz-2073",
+      "image": "/products/images/0020/2073.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 14,
+    "pageBase": "maquinas-e-acessorios--fornecedor-276"
+  }
+}

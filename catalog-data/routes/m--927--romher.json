@@ -1,0 +1,36 @@
+{
+  "title": "ROMHER",
+  "parentLabel": "Marca",
+  "description": "Produtos ROMHER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROMHER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11376",
+      "title": "KIT DE LIMPEZA MOP C/ BALDE E PLACA",
+      "brand": "ROMHER",
+      "brandCode": "927",
+      "supplier": "ROMHER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4869",
+      "manufacturerCode": "454636",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/kit-de-limpeza-mop-c-balde-e-placa-11376",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--927--romher"
+  }
+}

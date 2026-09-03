@@ -1,0 +1,36 @@
+{
+  "title": "ORK",
+  "parentLabel": "Marca",
+  "description": "Produtos ORK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ORK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6730",
+      "title": "ARMARIO COM 4 PRATELEIRAS REMOVIVEIS",
+      "brand": "ORK",
+      "brandCode": "324",
+      "supplier": "ORK INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA",
+      "supplierCode": "1303",
+      "manufacturerCode": "ARM-021",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-com-4-prateleiras-removiveis-6730",
+      "image": "/products/images/0067/6730.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--324--ork"
+  }
+}

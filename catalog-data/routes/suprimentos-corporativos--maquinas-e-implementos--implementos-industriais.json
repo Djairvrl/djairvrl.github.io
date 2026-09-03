@@ -1,0 +1,44 @@
+{
+  "title": "IMPLEMENTOS INDUSTRIAIS",
+  "parentLabel": "Máquinas E Implementos",
+  "description": "Produtos da categoria implementos industriais em máquinas e implementos.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Máquinas E Implementos",
+      "to": "/suprimentos-corporativos/maquinas-e-implementos"
+    },
+    {
+      "label": "IMPLEMENTOS INDUSTRIAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11468",
+      "title": "KIT DE BLOCO METALICOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TM & J SERVICOS LTDA",
+      "supplierCode": "5006",
+      "manufacturerCode": "6",
+      "category": "IMPLEMENTOS INDUSTRIAIS",
+      "categorySlug": "implementos-industriais",
+      "path": "/kit-de-bloco-metalicos-11468",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-corporativos--maquinas-e-implementos--implementos-industriais"
+  }
+}

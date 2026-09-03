@@ -1,0 +1,36 @@
+{
+  "title": "FAMABRAS",
+  "parentLabel": "Marca",
+  "description": "Produtos FAMABRAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FAMABRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5615",
+      "title": "CONJ DE SOLDA OXI-ACETILENO MILLENNIUM",
+      "brand": "FAMABRAS",
+      "brandCode": "250",
+      "supplier": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "supplierCode": "727",
+      "manufacturerCode": "1910497",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/conj-de-solda-oxiacetileno-millennium-5615",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--250--famabras"
+  }
+}

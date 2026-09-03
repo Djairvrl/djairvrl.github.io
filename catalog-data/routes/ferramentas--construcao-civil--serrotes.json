@@ -1,0 +1,129 @@
+{
+  "title": "SERROTES",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria serrotes em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "SERROTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10799",
+      "title": "SERROTE CURVO 12 C/ ADAPT. P/ VARA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HELITE ELETROMECANICA E ELETRIFICACAO LTDA",
+      "supplierCode": "4107",
+      "manufacturerCode": "MLB1941596523",
+      "category": "SERROTES",
+      "categorySlug": "serrotes",
+      "path": "/serrote-curvo-12-c-adapt-p-vara-10799",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1657",
+      "title": "SERROTE DE PODA 300MM",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "78376001",
+      "category": "SERROTES",
+      "categorySlug": "serrotes",
+      "path": "/serrote-de-poda-300mm-1657",
+      "image": "/products/images/0016/1657.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "404",
+      "title": "SERROTE P/MADEIRA BLACK SERIES 22\" 550MM",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "235799",
+      "category": "SERROTES",
+      "categorySlug": "serrotes",
+      "path": "/serrote-pmadeira-black-series-22-550mm-404",
+      "image": "/products/images/0004/404.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8141",
+      "title": "SERROTE PODA CURVO 12",
+      "brand": "N/A",
+      "brandCode": "569",
+      "supplier": "ACE COMERCIO DE EQUIPAMENTOS LTDA",
+      "supplierCode": "1955",
+      "manufacturerCode": "MLB1397438972",
+      "category": "SERROTES",
+      "categorySlug": "serrotes",
+      "path": "/serrote-poda-curvo-12-8141",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "4882",
+      "title": "SERROTE PODADOR 11,5\" CABO MAD 150CM",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "78380771",
+      "category": "SERROTES",
+      "categorySlug": "serrotes",
+      "path": "/serrote-podador-115-cabo-mad-150cm-4882",
+      "image": "/products/images/0048/4882.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "2608",
+      "title": "SERROTE PROFISSIONAL 20\" (508MM) LÂMINA EM AÇO TEMPERADO  8DPP - STANLEY REF. 15-559",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "15-559",
+      "category": "SERROTES",
+      "categorySlug": "serrotes",
+      "path": "/serrote-profissional-20-508mm-lamina-em-aco-temperado-8dpp--stanley-ref-15559-2608",
+      "image": "/products/images/0026/2608.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ferramentas--construcao-civil--serrotes"
+  }
+}

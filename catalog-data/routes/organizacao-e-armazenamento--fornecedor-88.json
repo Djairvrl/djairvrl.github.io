@@ -1,0 +1,420 @@
+{
+  "title": "Organização e Armazenamento",
+  "parentLabel": "Departamento",
+  "description": "Produtos de O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento"
+    }
+  ],
+  "children": [
+    {
+      "name": "Organização de Oficina e Bancada",
+      "slug": "organizacao-de-oficina-e-bancada",
+      "path": "/organizacao-e-armazenamento/organizacao-de-oficina-e-bancada",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento e Estruturas de Estoque",
+      "slug": "armazenamento-e-estruturas-de-estoque",
+      "path": "/organizacao-e-armazenamento/armazenamento-e-estruturas-de-estoque",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Movimentação e Intralogística",
+      "slug": "movimentacao-e-intralogistica",
+      "path": "/organizacao-e-armazenamento/movimentacao-e-intralogistica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento",
+      "slug": "armazenamento",
+      "path": "/organizacao-e-armazenamento/armazenamento",
+      "count": 183,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/organizacao-e-armazenamento/armazenamento/acessorios",
+          "count": 24
+        },
+        {
+          "name": "ARMÁRIOS",
+          "slug": "armarios",
+          "path": "/organizacao-e-armazenamento/armazenamento/armarios",
+          "count": 50
+        },
+        {
+          "name": "CAIXAS E CASES",
+          "slug": "caixas-e-cases",
+          "path": "/organizacao-e-armazenamento/armazenamento/caixas-e-cases",
+          "count": 20
+        },
+        {
+          "name": "CARRINHOS DE CARGA",
+          "slug": "carrinhos-de-carga",
+          "path": "/organizacao-e-armazenamento/armazenamento/carrinhos-de-carga",
+          "count": 5
+        },
+        {
+          "name": "EMPILHADEIRAS MANUAIS",
+          "slug": "empilhadeiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/empilhadeiras-manuais",
+          "count": 1
+        },
+        {
+          "name": "ESTANTES",
+          "slug": "estantes",
+          "path": "/organizacao-e-armazenamento/armazenamento/estantes",
+          "count": 24
+        },
+        {
+          "name": "FILME",
+          "slug": "filme",
+          "path": "/organizacao-e-armazenamento/armazenamento/filme",
+          "count": 5
+        },
+        {
+          "name": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+          "slug": "mesas-hidraulicas-pantograficas",
+          "path": "/organizacao-e-armazenamento/armazenamento/mesas-hidraulicas-pantograficas",
+          "count": 1
+        },
+        {
+          "name": "PALETEIRAS ELÉTRICAS",
+          "slug": "paleteiras-eletricas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-eletricas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS HIDRÁULICAS",
+          "slug": "paleteiras-hidraulicas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-hidraulicas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS MANUAIS",
+          "slug": "paleteiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-manuais",
+          "count": 10
+        },
+        {
+          "name": "PALETES PLÁSTICOS",
+          "slug": "paletes-plasticos",
+          "path": "/organizacao-e-armazenamento/armazenamento/paletes-plasticos",
+          "count": 1
+        },
+        {
+          "name": "PISOS MODULARES",
+          "slug": "pisos-modulares",
+          "path": "/organizacao-e-armazenamento/armazenamento/pisos-modulares",
+          "count": 2
+        },
+        {
+          "name": "PORTA PALETES",
+          "slug": "porta-paletes",
+          "path": "/organizacao-e-armazenamento/armazenamento/porta-paletes",
+          "count": 25
+        },
+        {
+          "name": "PRATELEIRA",
+          "slug": "prateleira",
+          "path": "/organizacao-e-armazenamento/armazenamento/prateleira",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Organização",
+      "slug": "organizacao",
+      "path": "/organizacao-e-armazenamento/organizacao",
+      "count": 150,
+      "categories": [
+        {
+          "name": "BANCADAS DE TRABALHO",
+          "slug": "bancadas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/bancadas-de-trabalho",
+          "count": 24
+        },
+        {
+          "name": "BOLSAS PARA FERRAMENTAS",
+          "slug": "bolsas-para-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/bolsas-para-ferramentas",
+          "count": 55
+        },
+        {
+          "name": "CARRINHOS DE FERRAMENTAS",
+          "slug": "carrinhos-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/carrinhos-de-ferramentas",
+          "count": 7
+        },
+        {
+          "name": "CLAVICULARIOS",
+          "slug": "clavicularios",
+          "path": "/organizacao-e-armazenamento/organizacao/clavicularios",
+          "count": 16
+        },
+        {
+          "name": "MALETAS DE TRABALHO",
+          "slug": "maletas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/maletas-de-trabalho",
+          "count": 18
+        },
+        {
+          "name": "ORGANIZADORES",
+          "slug": "organizadores",
+          "path": "/organizacao-e-armazenamento/organizacao/organizadores",
+          "count": 13
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/organizacao-e-armazenamento/organizacao/outros",
+          "count": 8
+        },
+        {
+          "name": "PAINÉIS DE FERRAMENTAS",
+          "slug": "paineis-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/paineis-de-ferramentas",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "88",
+    "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA"
+  },
+  "products": [
+    {
+      "code": "10515",
+      "title": "BANDEJA MAGNETICA PLAST RET 140X240MM",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3599240140",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/bandeja-magnetica-plast-ret-140x240mm-10515",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "10605",
+      "title": "BOLSA POLIESTER C/37 COMP.DWST82928-LA",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "61.06.082.928",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-poliester-c37-compdwst82928la-10605",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6791",
+      "title": "EMPILHAD MANUAL EMN050 500KG",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6889000500",
+      "category": "PALETEIRAS MANUAIS",
+      "categorySlug": "paleteiras-manuais",
+      "path": "/empilhad-manual-emn050-500kg-6791",
+      "image": "/products/images/0067/6791.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "8847",
+      "title": "ESTICADOR P/ FITA POLIESTER 1/2-3/4 VD",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1155012034",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/esticador-p-fita-poliester-1234-vd-8847",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "1434",
+      "title": "FILME STRETCH 150MMX300M EMPACOT",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1131150300",
+      "category": "FILME",
+      "categorySlug": "filme",
+      "path": "/filme-stretch-150mmx300m-empacot-1434",
+      "image": "/products/images/0014/1434.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "5662",
+      "title": "FILME STRETCH 500MM X 260M 25 MICRA 3,5KG - VONDER 1132050003",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1132050003",
+      "category": "FILME",
+      "categorySlug": "filme",
+      "path": "/filme-stretch-500mm-x-260m-25-micra-35kg--vonder-1132050003-5662",
+      "image": "/products/images/0056/5662.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10213",
+      "title": "GAVETA BIN N3 AZUL EMPILHAVEL",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6135003011",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/gaveta-bin-n3-azul-empilhavel-10213",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "10214",
+      "title": "GAVETA BIN N5 AZUL EMPILHAVEL",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6135005011",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/gaveta-bin-n5-azul-empilhavel-10214",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11054",
+      "title": "GAVETA BIN N7 AZUL EMPILHAVEL",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6135007011",
+      "category": "CAIXAS E CASES",
+      "categorySlug": "caixas-e-cases",
+      "path": "/gaveta-bin-n7-azul-empilhavel-11054",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10778",
+      "title": "GAVETEIRO PLAST.PRAT (NOVO)NR 5 PRETO",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6135005071",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/gaveteiro-plastprat-novonr-5-preto-10778",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6837",
+      "title": "MOCHILA P/FERRAMENTAS MOV 0200",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3540500020",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/mochila-pferramentas-mov-0200-6837",
+      "image": "/products/images/0068/6837.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "1267",
+      "title": "ORGANIZADOR PLAST MINI 3 GAV PTO/TRANSP",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6107001003",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/organizador-plast-mini-3-gav-ptotransp-1267",
+      "image": "/products/images/0012/1267.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "12423",
+      "title": "ORGANIZADOR PLASTICO 260",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6108260000",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/organizador-plastico-260-12423",
+      "image": "/products/images/0124/12423.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 13,
+    "pageBase": "organizacao-e-armazenamento--fornecedor-88"
+  }
+}

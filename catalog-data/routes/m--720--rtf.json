@@ -1,0 +1,70 @@
+{
+  "title": "RTF",
+  "parentLabel": "Marca",
+  "description": "Produtos RTF disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RTF"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9739",
+      "title": "TUBO TERMO-CONTRATIL 40.0MM AZUL",
+      "brand": "RTF",
+      "brandCode": "720",
+      "supplier": "RTF IMPORTACAO E COMERCIO DE COMPONENTES ELETRONICOS LTDA",
+      "supplierCode": "1264",
+      "manufacturerCode": "TC-112-A",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/tubo-termocontratil-400mm-azul-9739",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9743",
+      "title": "TUBO TERMO-CONTRATIL 40.0MM BRANCO",
+      "brand": "RTF",
+      "brandCode": "720",
+      "supplier": "RTF IMPORTACAO E COMERCIO DE COMPONENTES ELETRONICOS LTDA",
+      "supplierCode": "1264",
+      "manufacturerCode": "TC-112-BR",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/tubo-termocontratil-400mm-branco-9743",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9742",
+      "title": "TUBO TERMO-CONTRATIL 40.0MM ROXO",
+      "brand": "RTF",
+      "brandCode": "720",
+      "supplier": "RTF IMPORTACAO E COMERCIO DE COMPONENTES ELETRONICOS LTDA",
+      "supplierCode": "1264",
+      "manufacturerCode": "TC-112-RX",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/tubo-termocontratil-400mm-roxo-9742",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--720--rtf"
+  }
+}

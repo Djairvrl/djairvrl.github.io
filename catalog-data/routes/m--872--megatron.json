@@ -1,0 +1,53 @@
+{
+  "title": "MEGATRON",
+  "parentLabel": "Marca",
+  "description": "Produtos MEGATRON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MEGATRON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12687",
+      "title": "CAT6 UTP 4X23AWG DUPLA CAPA EXT",
+      "brand": "MEGATRON",
+      "brandCode": "872",
+      "supplier": "MEGACABOS INDUSTRIA E COMERCIO DE FIOS E CABOS LTDA",
+      "supplierCode": "5870",
+      "manufacturerCode": "010710B1000PT00",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cat6-utp-4x23awg-dupla-capa-ext-12687",
+      "image": "/products/images/0126/12687.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11077",
+      "title": "FILTRO LINHA 6TOM C FUSIVEL 10A 3M PRETO",
+      "brand": "MEGATRON",
+      "brandCode": "872",
+      "supplier": "OCEANO TI DISTRIBUIDORA DE PRODUTOS PARA TELECOMUNICACOES LT",
+      "supplierCode": "4449",
+      "manufacturerCode": "255",
+      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
+      "path": "/filtro-linha-6tom-c-fusivel-10a-3m-preto-11077",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--872--megatron"
+  }
+}

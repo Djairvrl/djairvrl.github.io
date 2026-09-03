@@ -1,0 +1,36 @@
+{
+  "title": "BERG STEEL",
+  "parentLabel": "Marca",
+  "description": "Produtos BERG STEEL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BERG STEEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7229",
+      "title": "TALHA COMPACTA NT 0,25T C/5MTS",
+      "brand": "BERG STEEL",
+      "brandCode": "432",
+      "supplier": "BERG STEEL S A FABRICA BRASILEIRA DE FERRAMENTAS",
+      "supplierCode": "1541",
+      "manufacturerCode": "129991",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-compacta-nt-025t-c5mts-7229",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--432--berg-steel"
+  }
+}

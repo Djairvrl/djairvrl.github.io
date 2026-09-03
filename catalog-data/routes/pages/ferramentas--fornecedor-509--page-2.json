@@ -1,0 +1,39 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "7834",
+      "title": "TESOURA PARA CERCA VIVA 12",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "78331/125",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-para-cerca-viva-12-7834",
+      "image": "/products/images/0078/7834.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1666",
+      "title": "VASSOURA PLÁSTICA LARANJA COM 22 DENTES E CABO DE MADEIRA 120CM - TRAMONTINA REF. 77850721",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77850721",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/vassoura-plastica-laranja-com-22-dentes-e-cabo-de-madeira-120cm--tramontina-ref-77850721-1666",
+      "image": "/products/images/0016/1666.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+  "parentLabel": "Aditivos",
+  "description": "Produtos da categoria aditivos para sistemas de arrefecimento em aditivos.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos",
+      "to": "/lubrificantes-e-fluidos"
+    },
+    {
+      "label": "Aditivos",
+      "to": "/lubrificantes-e-fluidos/aditivos"
+    },
+    {
+      "label": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13273",
+      "title": "ADITIVO RADIADOR BARDAHL RAD COOL LL",
+      "brand": "BARDAHL",
+      "brandCode": "1217",
+      "supplier": "ZARYA COMERCIO E SERVICOS LTDA",
+      "supplierCode": "6202",
+      "manufacturerCode": "181547",
+      "category": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+      "categorySlug": "aditivos-para-sistemas-de-arrefecimento",
+      "path": "/aditivo-radiador-bardahl-rad-cool-ll-13273",
+      "image": "/products/images/0132/13273.webp",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    },
+    {
+      "code": "10073",
+      "title": "ADITIVO RADIADOR ORG LONG LIFE ROSA 1L",
+      "brand": "PARAFLU",
+      "brandCode": "748",
+      "supplier": "LUBPONTO COMERCIO DE GRAXAS E LUBRIFICANTES LTDA.",
+      "supplierCode": "2989",
+      "manufacturerCode": "3004",
+      "category": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+      "categorySlug": "aditivos-para-sistemas-de-arrefecimento",
+      "path": "/aditivo-radiador-org-long-life-rosa-1l-10073",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    },
+    {
+      "code": "6623",
+      "title": "PROTETIVO PARA RADIADORES 1L AZUL - ORBI QUÍMICA 6083",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "6083",
+      "category": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+      "categorySlug": "aditivos-para-sistemas-de-arrefecimento",
+      "path": "/protetivo-para-radiadores-1l-azul--orbi-quimica-6083-6623",
+      "image": "/products/images/0066/6623.jpg",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    },
+    {
+      "code": "6621",
+      "title": "PROTETIVO PARA RADIADORES 1L ROSA - ORBI QUÍMICA 5530",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "5530",
+      "category": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+      "categorySlug": "aditivos-para-sistemas-de-arrefecimento",
+      "path": "/protetivo-para-radiadores-1l-rosa--orbi-quimica-5530-6621",
+      "image": "/products/images/0066/6621.jpg",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    },
+    {
+      "code": "6622",
+      "title": "PROTETIVO PARA RADIADORES 1L VERDE - ORBI QUÍMICA 6081",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "6081",
+      "category": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+      "categorySlug": "aditivos-para-sistemas-de-arrefecimento",
+      "path": "/protetivo-para-radiadores-1l-verde--orbi-quimica-6081-6622",
+      "image": "/products/images/0066/6622.jpg",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "lubrificantes-e-fluidos--aditivos--aditivos-para-sistemas-de-arrefecimento"
+  }
+}

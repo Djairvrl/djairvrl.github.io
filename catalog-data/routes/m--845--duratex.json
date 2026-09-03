@@ -1,0 +1,36 @@
+{
+  "title": "DURATEX",
+  "parentLabel": "Marca",
+  "description": "Produtos DURATEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DURATEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10981",
+      "title": "PORTA DURATEX 2,10 X 0,90 MOGNO",
+      "brand": "DURATEX",
+      "brandCode": "845",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "9576",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/porta-duratex-210-x-090-mogno-10981",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--845--duratex"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "5362",
+    "name": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA"
+  },
+  "products": [
+    {
+      "code": "11885",
+      "title": "MANGUEIRA TIPO 1 - 1.1/2 X 15M - LATAO",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "5362",
+      "manufacturerCode": "120341",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo-1--112-x-15m--latao-11885",
+      "image": "/products/images/0118/11885.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11886",
+      "title": "MANGUEIRA TIPO 2 2.1/2 X 15M LATAO",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "5362",
+      "manufacturerCode": "120381",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo-2-212-x-15m-latao-11886",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11887",
+      "title": "VALVULA GLOBO GPM PN 16 INDUST- 45º 2.1/",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "5362",
+      "manufacturerCode": "93711",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/valvula-globo-gpm-pn-16-indust-45o-21-11887",
+      "image": "/products/images/0118/11887.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "combate-a-incendio--fornecedor-5362"
+  }
+}

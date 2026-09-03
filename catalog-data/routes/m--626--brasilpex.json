@@ -1,0 +1,36 @@
+{
+  "title": "BRASILPEX",
+  "parentLabel": "Marca",
+  "description": "Produtos BRASILPEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRASILPEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8799",
+      "title": "BOIA MACARRAO FLUTUADOR PISCINA",
+      "brand": "BRASILPEX",
+      "brandCode": "626",
+      "supplier": "FRS COMERCIAL LTDA",
+      "supplierCode": "2243",
+      "manufacturerCode": "MLB4281990500",
+      "category": "COLETES E BÓIAS SALVA VIDAS",
+      "categorySlug": "coletes-e-boias-salva-vidas",
+      "path": "/boia-macarrao-flutuador-piscina-8799",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--626--brasilpex"
+  }
+}

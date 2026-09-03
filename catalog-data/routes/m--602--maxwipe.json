@@ -1,0 +1,36 @@
+{
+  "title": "MAXWIPE",
+  "parentLabel": "Marca",
+  "description": "Produtos MAXWIPE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAXWIPE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8592",
+      "title": "PANO DE LIMPEZA REUTILIZAVEL MAXWIPE MAX",
+      "brand": "MAXWIPE",
+      "brandCode": "602",
+      "supplier": "CONFIAMIX SOLUCOES EM HIGIENE E LIMPEZA LTDA",
+      "supplierCode": "2142",
+      "manufacturerCode": "207485",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pano-de-limpeza-reutilizavel-maxwipe-max-8592",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--602--maxwipe"
+  }
+}

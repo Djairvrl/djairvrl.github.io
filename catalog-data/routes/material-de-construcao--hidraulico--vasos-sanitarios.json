@@ -1,0 +1,44 @@
+{
+  "title": "VASOS SANITARIOS",
+  "parentLabel": "Hidraulico",
+  "description": "Produtos da categoria vasos sanitarios em hidraulico.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Hidraulico",
+      "to": "/material-de-construcao/hidraulico"
+    },
+    {
+      "label": "VASOS SANITARIOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "566",
+      "title": "BACIA SANITÁRIA PARA CAIXA ACOPLADA FIT PLUS BRANCO CELITE",
+      "brand": "CELITE",
+      "brandCode": "94",
+      "supplier": "ROCA SANITARIOS BRASIL LTDA",
+      "supplierCode": "225",
+      "manufacturerCode": "66353",
+      "category": "VASOS SANITARIOS",
+      "categorySlug": "vasos-sanitarios",
+      "path": "/bacia-sanitaria-para-caixa-acoplada-fit-plus-branco-celite-566",
+      "image": "/products/images/0005/566.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "material-de-construcao--hidraulico--vasos-sanitarios"
+  }
+}

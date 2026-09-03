@@ -1,0 +1,78 @@
+{
+  "title": "CARROS FUNCIONAIS E ACESSÓRIOS",
+  "parentLabel": "Limpeza Industrial",
+  "description": "Produtos da categoria carros funcionais e acessórios em limpeza industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Limpeza Industrial",
+      "to": "/ambiental/limpeza-industrial"
+    },
+    {
+      "label": "CARROS FUNCIONAIS E ACESSÓRIOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13227",
+      "title": "CABO CHAPA MULTIUSO CZ 1400MM ROSCA",
+      "brand": "BETTANIN",
+      "brandCode": "874",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "2375",
+      "category": "CARROS FUNCIONAIS E ACESSÓRIOS",
+      "categorySlug": "carros-funcionais-e-acessorios",
+      "path": "/cabo-chapa-multiuso-cz-1400mm-rosca-13227",
+      "image": "/products/images/0132/13227.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "12131",
+      "title": "CARRO FUNCIONAL AMERICA BLACK S/ BOLSA",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00399",
+      "category": "CARROS FUNCIONAIS E ACESSÓRIOS",
+      "categorySlug": "carros-funcionais-e-acessorios",
+      "path": "/carro-funcional-america-black-s-bolsa-12131",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "12129",
+      "title": "SACO P/ CARRO FUNCIONAL AMARELO / SG04AM",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "01914",
+      "category": "CARROS FUNCIONAIS E ACESSÓRIOS",
+      "categorySlug": "carros-funcionais-e-acessorios",
+      "path": "/saco-p-carro-funcional-amarelo-sg04am-12129",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ambiental--limpeza-industrial--carros-funcionais-e-acessorios"
+  }
+}

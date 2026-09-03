@@ -1,0 +1,36 @@
+{
+  "title": "TOOLS&CIA",
+  "parentLabel": "Marca",
+  "description": "Produtos TOOLS&CIA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TOOLS&CIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12660",
+      "title": "CANETA MAGNETICA COM LED",
+      "brand": "TOOLS&CIA",
+      "brandCode": "1110",
+      "supplier": "IVAN VIANA DOS SANTOS COMERCIO",
+      "supplierCode": "5842",
+      "manufacturerCode": "PEG-TEL",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/caneta-magnetica-com-led-12660",
+      "image": "/products/images/0126/12660.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1110--tools-cia"
+  }
+}

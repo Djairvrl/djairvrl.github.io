@@ -1,0 +1,36 @@
+{
+  "title": "RATTAN",
+  "parentLabel": "Marca",
+  "description": "Produtos RATTAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RATTAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11622",
+      "title": "KIT 5 CAIXAS RATTAN 7 LITROS",
+      "brand": "RATTAN",
+      "brandCode": "963",
+      "supplier": "UTILTOP E-COMMERCE LTDA",
+      "supplierCode": "5152",
+      "manufacturerCode": "5-CAIXASRATTAN7",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/kit-5-caixas-rattan-7-litros-11622",
+      "image": "/products/images/0116/11622.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--963--rattan"
+  }
+}

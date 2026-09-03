@@ -1,0 +1,78 @@
+{
+  "title": "TÁTICA - MILITAR",
+  "parentLabel": "Lanternas de Segurança",
+  "description": "Produtos da categoria tática - militar em lanternas de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Lanternas de Segurança",
+      "to": "/epis-e-epcs/lanternas-de-seguranca"
+    },
+    {
+      "label": "TÁTICA - MILITAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2235",
+      "title": "LANTERNA 3 EM 1  RECARREGAVEL 350LM SATA",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST90736",
+      "category": "TÁTICA - MILITAR",
+      "categorySlug": "tatica-militar",
+      "path": "/lanterna-3-em-1-recarregavel-350lm-sata-2235",
+      "image": "/products/images/0022/2235.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "9694",
+      "title": "LANTERNA LED RECARREGAVEL 800 LUMENS",
+      "brand": "ALPSWOLF",
+      "brandCode": "714",
+      "supplier": "ALESSANDRA DOS SANTOS ROCHA NAKAMURA 02932361430",
+      "supplierCode": "2600",
+      "manufacturerCode": "ECTQP7YV4FY80B",
+      "category": "TÁTICA - MILITAR",
+      "categorySlug": "tatica-militar",
+      "path": "/lanterna-led-recarregavel-800-lumens-9694",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "11008",
+      "title": "LANTERNA TATICA LED RECARR USB C/ ESTOJO",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "DANIEL DE ARAUJO SILVA SANTOS LTDA",
+      "supplierCode": "4327",
+      "manufacturerCode": "171",
+      "category": "TÁTICA - MILITAR",
+      "categorySlug": "tatica-militar",
+      "path": "/lanterna-tatica-led-recarr-usb-c-estojo-11008",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--lanternas-de-seguranca--tatica-militar"
+  }
+}

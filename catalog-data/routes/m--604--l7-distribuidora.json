@@ -1,0 +1,36 @@
+{
+  "title": "L7 DISTRIBUIDORA",
+  "parentLabel": "Marca",
+  "description": "Produtos L7 DISTRIBUIDORA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "L7 DISTRIBUIDORA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8635",
+      "title": "PLACA SAIDA DE EMERGENCIA LED",
+      "brand": "L7 DISTRIBUIDORA",
+      "brandCode": "604",
+      "supplier": "L7 DISTRIBUIDORA LTDA",
+      "supplierCode": "2157",
+      "manufacturerCode": "40120040",
+      "category": "SINALIZAÇÃO ROTA DE FUGA",
+      "categorySlug": "sinalizacao-rota-de-fuga",
+      "path": "/placa-saida-de-emergencia-led-8635",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--604--l7-distribuidora"
+  }
+}

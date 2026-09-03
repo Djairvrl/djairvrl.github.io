@@ -1,0 +1,36 @@
+{
+  "title": "PORTS",
+  "parentLabel": "Marca",
+  "description": "Produtos PORTS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PORTS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7444",
+      "title": "HUD USB C/7 PORTAS 2.0 HD",
+      "brand": "PORTS",
+      "brandCode": "466",
+      "supplier": "FLYELETRO7529 LTDA",
+      "supplierCode": "1651",
+      "manufacturerCode": "HUB",
+      "category": "PERIFÉRICOS DE INFORMÁTICA",
+      "categorySlug": "perifericos-de-informatica",
+      "path": "/hud-usb-c7-portas-20-hd-7444",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--466--ports"
+  }
+}

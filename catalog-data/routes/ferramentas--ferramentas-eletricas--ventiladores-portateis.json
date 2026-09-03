@@ -1,0 +1,61 @@
+{
+  "title": "VENTILADORES PORTÁTEIS",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria ventiladores portáteis em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "VENTILADORES PORTÁTEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8895",
+      "title": "VENTILADOR 330MM A BATERIA LXT DE LI-ION",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DCF301Z",
+      "category": "VENTILADORES PORTÁTEIS",
+      "categorySlug": "ventiladores-portateis",
+      "path": "/ventilador-330mm-a-bateria-lxt-de-liion-8895",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7278",
+      "title": "VENTILADOR A BATERIA 180MM 18V  - SEM BATERIA E CARREGADOR - MAKITA DCF102Z",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "DCF102Z",
+      "category": "VENTILADORES PORTÁTEIS",
+      "categorySlug": "ventiladores-portateis",
+      "path": "/ventilador-a-bateria-180mm-18v--sem-bateria-e-carregador--makita-dcf102z-7278",
+      "image": "/products/images/0072/7278.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-eletricas--ventiladores-portateis"
+  }
+}

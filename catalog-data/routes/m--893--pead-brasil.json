@@ -1,0 +1,36 @@
+{
+  "title": "PEAD BRASIL",
+  "parentLabel": "Marca",
+  "description": "Produtos PEAD BRASIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PEAD BRASIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11148",
+      "title": "TUBO PRETO LISO 355MM PE100  SDR11 PN16",
+      "brand": "PEAD BRASIL",
+      "brandCode": "893",
+      "supplier": "PEAD BRASIL SOLUCOES EM TERMOPLASTICOS LTDA",
+      "supplierCode": "4611",
+      "manufacturerCode": "10.101.00930",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/tubo-preto-liso-355mm-pe100-sdr11-pn16-11148",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--893--pead-brasil"
+  }
+}

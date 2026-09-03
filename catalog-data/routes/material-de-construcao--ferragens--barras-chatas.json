@@ -1,0 +1,44 @@
+{
+  "title": "BARRAS CHATAS",
+  "parentLabel": "Ferragens",
+  "description": "Produtos da categoria barras chatas em ferragens.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Ferragens",
+      "to": "/material-de-construcao/ferragens"
+    },
+    {
+      "label": "BARRAS CHATAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9499",
+      "title": "BARRA CHATA 1X1 8 PECA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ARTHUR VICTOR DA SILVA GOMES ME",
+      "supplierCode": "545",
+      "manufacturerCode": "2120",
+      "category": "BARRAS CHATAS",
+      "categorySlug": "barras-chatas",
+      "path": "/barra-chata-1x1-8-peca-9499",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "material-de-construcao--ferragens--barras-chatas"
+  }
+}

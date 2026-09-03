@@ -1,0 +1,36 @@
+{
+  "title": "TECBRIL",
+  "parentLabel": "Marca",
+  "description": "Produtos TECBRIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECBRIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6282",
+      "title": "TECFIL PC 2/255 FILTRO COMBUSTIVEL",
+      "brand": "TECBRIL",
+      "brandCode": "345",
+      "supplier": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA",
+      "supplierCode": "1349",
+      "manufacturerCode": "6263338",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/tecfil-pc-2255-filtro-combustivel-6282",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--345--tecbril"
+  }
+}

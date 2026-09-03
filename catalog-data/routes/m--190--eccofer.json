@@ -1,0 +1,70 @@
+{
+  "title": "ECCOFER",
+  "parentLabel": "Marca",
+  "description": "Produtos ECCOFER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ECCOFER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "604",
+      "title": "BROCA HSS 1/4\" DIN338 ECCOFER 010041",
+      "brand": "ECCOFER",
+      "brandCode": "190",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "010041",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-14-din338-eccofer-010041-604",
+      "image": "/products/images/0006/604.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "606",
+      "title": "BROCA HSS 3/8\" DIN338 ECCOFER 010043",
+      "brand": "ECCOFER",
+      "brandCode": "190",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "010043",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-38-din338-eccofer-010043-606",
+      "image": "/products/images/0006/606.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "603",
+      "title": "BROCA HSS 5/16\" DIN338 ECCOFER 010040",
+      "brand": "ECCOFER",
+      "brandCode": "190",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "010040",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-516-din338-eccofer-010040-603",
+      "image": "/products/images/0006/603.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--190--eccofer"
+  }
+}

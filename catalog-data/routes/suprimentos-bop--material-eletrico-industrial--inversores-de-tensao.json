@@ -1,0 +1,78 @@
+{
+  "title": "INVERSORES DE TENSÃO",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria inversores de tensão em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "INVERSORES DE TENSÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10914",
+      "title": "INVERSOR D TENS 12V PARA 220V 300W USB",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "M3 COMERCIO DE ELETRONICOS E VARIEDADES LTDA",
+      "supplierCode": "4189",
+      "manufacturerCode": "KP-TC13/220V",
+      "category": "INVERSORES DE TENSÃO",
+      "categorySlug": "inversores-de-tensao",
+      "path": "/inversor-d-tens-12v-para-220v-300w-usb-10914",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "5799",
+      "title": "INVERSOR SENOIDAL DE TENSAO 12V 220V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TAKROSH PRESENTES LTDA",
+      "supplierCode": "1700",
+      "manufacturerCode": "KP-551A",
+      "category": "INVERSORES DE TENSÃO",
+      "categorySlug": "inversores-de-tensao",
+      "path": "/inversor-senoidal-de-tensao-12v-220v-5799",
+      "image": "/products/images/0057/5799.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7061",
+      "title": "INVERSOR TENSAO VEICULAR 24VDC 220VAC 50",
+      "brand": "KNUP",
+      "brandCode": "263",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "KP551",
+      "category": "INVERSORES DE TENSÃO",
+      "categorySlug": "inversores-de-tensao",
+      "path": "/inversor-tensao-veicular-24vdc-220vac-50-7061",
+      "image": "/products/images/0070/7061.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--inversores-de-tensao"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "VESTIMENTA SOLDADOR",
+  "parentLabel": "Vestimentas Profissionais",
+  "description": "Produtos da categoria vestimenta soldador em vestimentas profissionais.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Vestimentas Profissionais",
+      "to": "/epis-e-epcs/vestimentas-profissionais"
+    },
+    {
+      "label": "VESTIMENTA SOLDADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9044",
+      "title": "BLUSAO RASPA NAT VELCRO TAM G CA13991",
+      "brand": "ZANEL",
+      "brandCode": "62",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1578",
+      "manufacturerCode": "117616",
+      "category": "VESTIMENTA SOLDADOR",
+      "categorySlug": "vestimenta-soldador",
+      "path": "/blusao-raspa-nat-velcro-tam-g-ca13991-9044",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "9728",
+      "title": "BLUSÃO DE RASPA COM VELCRO TAMANHO \"G\" CA 13991  ZANEL REF BR-TGV",
+      "brand": "ZANEL",
+      "brandCode": "62",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "117412",
+      "category": "VESTIMENTA SOLDADOR",
+      "categorySlug": "vestimenta-soldador",
+      "path": "/blusao-de-raspa-com-velcro-tamanho-g-ca-13991-zanel-ref-brtgv-9728",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "9729",
+      "title": "BLUSÃO DE RASPA COM VELCRO TAMANHO \"XG\" CA 13991  ZANEL REF BR-TXGV",
+      "brand": "ZANEL",
+      "brandCode": "62",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "117629",
+      "category": "VESTIMENTA SOLDADOR",
+      "categorySlug": "vestimenta-soldador",
+      "path": "/blusao-de-raspa-com-velcro-tamanho-xg-ca-13991-zanel-ref-brtxgv-9729",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "8125",
+      "title": "JAQUETA ESAB PTO LOGO FRONTAL TAM G",
+      "brand": "ESAB",
+      "brandCode": "274",
+      "supplier": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1206",
+      "manufacturerCode": "000000000000747762",
+      "category": "VESTIMENTA SOLDADOR",
+      "categorySlug": "vestimenta-soldador",
+      "path": "/jaqueta-esab-pto-logo-frontal-tam-g-8125",
+      "image": "/products/images/0081/8125.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "4978",
+      "title": "TOUCA BONÉ ÁRABE BRIM C/ ABA CINZA C/ VELCRO CA39760 - BRASCAMP 1427",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "1427",
+      "category": "VESTIMENTA SOLDADOR",
+      "categorySlug": "vestimenta-soldador",
+      "path": "/touca-bone-arabe-brim-c-aba-cinza-c-velcro-ca39760--brascamp-1427-4978",
+      "image": "/products/images/0049/4978.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "4976",
+      "title": "TOUCA SOLDADOR BRIM C/ ELÁSTICO E VELCRO AZUL CA39760 - BRASCAMP 1336",
+      "brand": "BRASCAMP",
+      "brandCode": "100",
+      "supplier": "BRASCAMP EQUIP DE PROT DO TRABALHO LTDA",
+      "supplierCode": "227",
+      "manufacturerCode": "1336",
+      "category": "VESTIMENTA SOLDADOR",
+      "categorySlug": "vestimenta-soldador",
+      "path": "/touca-soldador-brim-c-elastico-e-velcro-azul-ca39760--brascamp-1336-4976",
+      "image": "/products/images/0049/4976.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "epis-e-epcs--vestimentas-profissionais--vestimenta-soldador"
+  }
+}

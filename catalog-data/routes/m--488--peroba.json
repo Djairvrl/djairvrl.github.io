@@ -1,0 +1,70 @@
+{
+  "title": "PEROBA",
+  "parentLabel": "Marca",
+  "description": "Produtos PEROBA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PEROBA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13251",
+      "title": "LUSTRA MOVEIS MARINE 200ML",
+      "brand": "PEROBA",
+      "brandCode": "488",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "6194",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/lustra-moveis-marine-200ml-13251",
+      "image": "/products/images/0132/13251.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7514",
+      "title": "LUSTRA MOVEIS PEROBA LAVANDA 200ML",
+      "brand": "PEROBA",
+      "brandCode": "488",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000001612",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/lustra-moveis-peroba-lavanda-200ml-7514",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13268",
+      "title": "LUSTRA-MOVEIS 200 ML",
+      "brand": "PEROBA",
+      "brandCode": "488",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "0000000000",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/lustramoveis-200-ml-13268",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--488--peroba"
+  }
+}

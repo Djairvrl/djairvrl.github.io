@@ -1,0 +1,36 @@
+{
+  "title": "VENTISOL",
+  "parentLabel": "Marca",
+  "description": "Produtos VENTISOL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VENTISOL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8833",
+      "title": "VENTILADOR DE PAREDE INDU 1M 1/2CV 220V",
+      "brand": "VENTISOL",
+      "brandCode": "629",
+      "supplier": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
+      "supplierCode": "2263",
+      "manufacturerCode": "B189874",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ventilador-de-parede-indu-1m-12cv-220v-8833",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--629--ventisol"
+  }
+}

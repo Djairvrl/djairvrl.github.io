@@ -1,0 +1,36 @@
+{
+  "title": "TARGET",
+  "parentLabel": "Marca",
+  "description": "Produtos TARGET disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TARGET"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9263",
+      "title": "QUADRO DE GESTAO 5 COLUNAS 122X150CM",
+      "brand": "TARGET",
+      "brandCode": "659",
+      "supplier": "WHATS GRAFICA E BRINDES LTDA",
+      "supplierCode": "1886",
+      "manufacturerCode": "000001",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-de-gestao-5-colunas-122x150cm-9263",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--659--target"
+  }
+}

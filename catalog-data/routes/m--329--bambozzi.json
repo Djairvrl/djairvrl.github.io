@@ -1,0 +1,36 @@
+{
+  "title": "BAMBOZZI",
+  "parentLabel": "Marca",
+  "description": "Produtos BAMBOZZI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BAMBOZZI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6745",
+      "title": "RETIFICADOR DE SOLDA TDC 445 ED",
+      "brand": "BAMBOZZI",
+      "brandCode": "329",
+      "supplier": "BRAZILIAN WELDING INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "1313",
+      "manufacturerCode": "445 ED",
+      "category": "RETIFICADOR",
+      "categorySlug": "retificador",
+      "path": "/retificador-de-solda-tdc-445-ed-6745",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--329--bambozzi"
+  }
+}

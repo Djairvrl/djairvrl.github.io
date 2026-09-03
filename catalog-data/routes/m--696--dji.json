@@ -1,0 +1,36 @@
+{
+  "title": "DJI",
+  "parentLabel": "Marca",
+  "description": "Produtos DJI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DJI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9596",
+      "title": "KIT DE BATERIAS PARA MAVIC 3 ENTERPRISE",
+      "brand": "DJI",
+      "brandCode": "696",
+      "supplier": "EXTREME HOBBY EQUIPAMENTOS DE AUDIO E VIDEO LTDA",
+      "supplierCode": "2628",
+      "manufacturerCode": "CFOP6102",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/kit-de-baterias-para-mavic-3-enterprise-9596",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--696--dji"
+  }
+}

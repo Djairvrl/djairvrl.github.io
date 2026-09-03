@@ -1,0 +1,146 @@
+{
+  "title": "BALANÇA",
+  "parentLabel": "Calibração e Ajuste",
+  "description": "Produtos da categoria balança em calibração e ajuste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Calibração e Ajuste",
+      "to": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "label": "BALANÇA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8060",
+      "title": "BALANCA",
+      "brand": "NEHC",
+      "brandCode": "554",
+      "supplier": "VANDERSON GERALDO BARBOSA DA SILVA 33643815859",
+      "supplierCode": "1921",
+      "manufacturerCode": "MLB3774978624",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-8060",
+      "image": "/products/images/0080/8060.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "6985",
+      "title": "BALANCA DIGITAL 30KG 220V",
+      "brand": "ELGIN",
+      "brandCode": "28",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "6985",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-30kg-220v-6985",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "8957",
+      "title": "BALANCA DIGITAL 50KG C MASTRO 110/220V",
+      "brand": "RAMUZA",
+      "brandCode": "635",
+      "supplier": "INTEMOBILE DO BRASIL LTDA.",
+      "supplierCode": "2319",
+      "manufacturerCode": "MLB2708036710",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-50kg-c-mastro-110220v-8957",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "4366",
+      "title": "BALANCA DIGITAL DE PRECISAO 10KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7908224307994",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-de-precisao-10kg-4366",
+      "image": "/products/images/0043/4366.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "8107",
+      "title": "BALANCA DIGITAL PARA BANHEIRO 180KG",
+      "brand": "MULTILASER",
+      "brandCode": "266",
+      "supplier": "ACME ELETRONICOS LTDA",
+      "supplierCode": "1943",
+      "manufacturerCode": "HC022",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-para-banheiro-180kg-8107",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "6420",
+      "title": "BALANCA E- 300KG BK-300 INOX",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NATAL SERVICE LTDA",
+      "supplierCode": "780",
+      "manufacturerCode": "313378",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-e-300kg-bk300-inox-6420",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "9092",
+      "title": "BALANCA SUSPENSA TIPO RELOGIO 50KG",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "38.85.000.050",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-suspensa-tipo-relogio-50kg-9092",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "medicao-e-teste--ferramentas-de-calibracao-e-ajuste--balanca"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "GANCHO",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria gancho em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "GANCHO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11477",
+      "title": "GANCHO INOX P/ CORDAS 16MM E 18MM",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "06610001121",
+      "category": "GANCHO",
+      "categorySlug": "gancho",
+      "path": "/gancho-inox-p-cordas-16mm-e-18mm-11477",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--gancho"
+  }
+}

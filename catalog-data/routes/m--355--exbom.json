@@ -1,0 +1,53 @@
+{
+  "title": "EXBOM",
+  "parentLabel": "Marca",
+  "description": "Produtos EXBOM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EXBOM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12990",
+      "title": "PUNCH DOWN KRONE AD-10010",
+      "brand": "EXBOM",
+      "brandCode": "355",
+      "supplier": "TASS COMERCIAL LTDA",
+      "supplierCode": "6030",
+      "manufacturerCode": "1614",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/punch-down-krone-ad10010-12990",
+      "image": "/products/images/0129/12990.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6525",
+      "title": "TESTADOR DE CABOS REDE LAN RJ45/RJ11",
+      "brand": "EXBOM",
+      "brandCode": "355",
+      "supplier": "TK COMERCIO ELETRONICO LTDA",
+      "supplierCode": "1373",
+      "manufacturerCode": "TECB-RJ45-EX",
+      "category": "TESTADORES DE REDE E TELEFONIA",
+      "categorySlug": "testadores-de-rede-e-telefonia",
+      "path": "/testador-de-cabos-rede-lan-rj45rj11-6525",
+      "image": "/products/images/0065/6525.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--355--exbom"
+  }
+}

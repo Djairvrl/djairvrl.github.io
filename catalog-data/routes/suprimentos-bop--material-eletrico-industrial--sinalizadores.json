@@ -1,0 +1,78 @@
+{
+  "title": "SINALIZADORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria sinalizadores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "SINALIZADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9703",
+      "title": "GIROFLEX GIROLED AUTOPOLI BIVOLT VERMELH",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MUNDO NOVO COMERCIAL LTDA",
+      "supplierCode": "2695",
+      "manufacturerCode": "AUPAL289",
+      "category": "SINALIZADORES",
+      "categorySlug": "sinalizadores",
+      "path": "/giroflex-giroled-autopoli-bivolt-vermelh-9703",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10062",
+      "title": "LAMPADA SS-19 24 VX 5W CL E-14/25X15",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SNJ IMPORTS & EXPORTS COMERCIO E INDUSTRIA LTDA",
+      "supplierCode": "2933",
+      "manufacturerCode": "6/A/308/095-2",
+      "category": "SINALIZADORES",
+      "categorySlug": "sinalizadores",
+      "path": "/lampada-ss19-24-vx-5w-cl-e1425x15-10062",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9685",
+      "title": "SINALIZADOR LED PARA GARAGEM",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "J S SOARES COMERCIO DE MATERIAIS ELETRICOS",
+      "supplierCode": "2690",
+      "manufacturerCode": "49002",
+      "category": "SINALIZADORES",
+      "categorySlug": "sinalizadores",
+      "path": "/sinalizador-led-para-garagem-9685",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--sinalizadores"
+  }
+}

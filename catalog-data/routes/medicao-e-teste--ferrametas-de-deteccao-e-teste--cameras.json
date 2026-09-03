@@ -1,0 +1,163 @@
+{
+  "title": "CÂMERAS",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria câmeras em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "CÂMERAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6574",
+      "title": "BATERIA EN-EL20 PARA NIKON",
+      "brand": "BEST BATTERY",
+      "brandCode": "298",
+      "supplier": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "supplierCode": "1234",
+      "manufacturerCode": "2006",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/bateria-enel20-para-nikon-6574",
+      "image": "/products/images/0065/6574.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12592",
+      "title": "CAMERA DE INSPECAO DE FIBRA FI-525",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4812124",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-de-inspecao-de-fibra-fi525-12592",
+      "image": "/products/images/0125/12592.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "10223",
+      "title": "CAMERA DE INSPECAO GIC 120C",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601241200000",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-de-inspecao-gic-120c-10223",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "9276",
+      "title": "CAMERA TERMICA DE BOLSO -20 A 400°C",
+      "brand": "FLIR",
+      "brandCode": "276",
+      "supplier": "BAGAREL COMERCIO DE INSTRUMENTOS LTDA",
+      "supplierCode": "2476",
+      "manufacturerCode": "031410",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-termica-de-bolso-20-a-400c-9276",
+      "image": "/products/images/0092/9276.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8613",
+      "title": "COMBO TERMOVISOR TI401 9HZ + LENTE 2X",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "8613",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/combo-termovisor-ti401-9hz-lente-2x-8613",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "3994",
+      "title": "DETECTOR DE MATERIAIS GMS 120 PROF",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601081000000",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/detector-de-materiais-gms-120-prof-3994",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8594",
+      "title": "LENTE OBJETIVA 2X P CAMERA PROFISSIONAL",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4335350",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/lente-objetiva-2x-p-camera-profissional-8594",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8593",
+      "title": "TERMOVISOR SERIE PROF MODEL TI401 9HZ",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "5085052",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/termovisor-serie-prof-model-ti401-9hz-8593",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--cameras"
+  }
+}

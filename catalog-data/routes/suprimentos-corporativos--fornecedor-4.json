@@ -1,0 +1,742 @@
+{
+  "title": "Suprimentos Corporativos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MEDEIROS GALVAO SOLUCOES LTDA - MTZ neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Informática e Telecomunicação",
+      "slug": "informatica-e-telecomunicacao",
+      "path": "/suprimentos-corporativos/informatica-e-telecomunicacao",
+      "count": 416,
+      "categories": [
+        {
+          "name": "ACESSÓRIO",
+          "slug": "acessorio",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorio",
+          "count": 21
+        },
+        {
+          "name": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+          "slug": "acessorios-para-transporte-e-protecao",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorios-para-transporte-e-protecao",
+          "count": 16
+        },
+        {
+          "name": "ADAPTADORES",
+          "slug": "adaptadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/adaptadores",
+          "count": 4
+        },
+        {
+          "name": "CABOS",
+          "slug": "cabos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cabos",
+          "count": 40
+        },
+        {
+          "name": "CAIXAS DE SOM",
+          "slug": "caixas-de-som",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/caixas-de-som",
+          "count": 3
+        },
+        {
+          "name": "COMPUTADORES",
+          "slug": "computadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/computadores",
+          "count": 3
+        },
+        {
+          "name": "CONTROLE DE ACESSO",
+          "slug": "controle-de-acesso",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/controle-de-acesso",
+          "count": 6
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cameras",
+          "count": 22
+        },
+        {
+          "name": "DATACENTERS",
+          "slug": "datacenters",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/datacenters",
+          "count": 1
+        },
+        {
+          "name": "DISPOSITIVOS  DE ARMAZENAMENTO",
+          "slug": "dispositivos-de-armazenamento",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/dispositivos-de-armazenamento",
+          "count": 14
+        },
+        {
+          "name": "ERGONOMIA",
+          "slug": "ergonomia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/ergonomia",
+          "count": 15
+        },
+        {
+          "name": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+          "slug": "estabilizadores-filtros-de-l-e-nobreak",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estabilizadores-filtros-de-l-e-nobreak",
+          "count": 20
+        },
+        {
+          "name": "ESTAÇÕES DE RETRABALHO BGA",
+          "slug": "estacoes-de-retrabalho-bga",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estacoes-de-retrabalho-bga",
+          "count": 2
+        },
+        {
+          "name": "FRAGMENTADORAS",
+          "slug": "fragmentadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/fragmentadoras",
+          "count": 1
+        },
+        {
+          "name": "IMPRESSORAS",
+          "slug": "impressoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/impressoras",
+          "count": 21
+        },
+        {
+          "name": "INFRAESTRUTURA DE REDE",
+          "slug": "infraestrutura-de-rede",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/infraestrutura-de-rede",
+          "count": 51
+        },
+        {
+          "name": "INSUMOS",
+          "slug": "insumos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/insumos",
+          "count": 26
+        },
+        {
+          "name": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+          "slug": "manutencao-tecnica-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/manutencao-tecnica-de-informatica",
+          "count": 11
+        },
+        {
+          "name": "MONITORES",
+          "slug": "monitores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/monitores",
+          "count": 13
+        },
+        {
+          "name": "NOTEBOOKS",
+          "slug": "notebooks",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/notebooks",
+          "count": 1
+        },
+        {
+          "name": "PERIFÉRICOS DE INFORMÁTICA",
+          "slug": "perifericos-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/perifericos-de-informatica",
+          "count": 32
+        },
+        {
+          "name": "PILHAS E BATERIAS",
+          "slug": "pilhas-e-baterias",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/pilhas-e-baterias",
+          "count": 32
+        },
+        {
+          "name": "PLACAS DE VIDEO",
+          "slug": "placas-de-video",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/placas-de-video",
+          "count": 1
+        },
+        {
+          "name": "PLASTIFICADORAS",
+          "slug": "plastificadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/plastificadoras",
+          "count": 9
+        },
+        {
+          "name": "RADIOCOMUNICADORES",
+          "slug": "radiocomunicadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/radiocomunicadores",
+          "count": 7
+        },
+        {
+          "name": "ROTULADORES",
+          "slug": "rotuladores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/rotuladores",
+          "count": 9
+        },
+        {
+          "name": "SOFTWARES",
+          "slug": "softwares",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/softwares",
+          "count": 1
+        },
+        {
+          "name": "TABLETS E SMARTPHONES",
+          "slug": "tablets-e-smartphones",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tablets-e-smartphones",
+          "count": 5
+        },
+        {
+          "name": "TESTADORES DE REDE E TELEFONIA",
+          "slug": "testadores-de-rede-e-telefonia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/testadores-de-rede-e-telefonia",
+          "count": 4
+        },
+        {
+          "name": "TVs",
+          "slug": "tvs",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tvs",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "name": "Redes e Telefonia",
+      "slug": "redes-e-telefonia",
+      "path": "/suprimentos-corporativos/redes-e-telefonia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Áudio, Vídeo e Reunião",
+      "slug": "audio-video-e-reuniao",
+      "path": "/suprimentos-corporativos/audio-video-e-reuniao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Climatização",
+      "slug": "climatizacao",
+      "path": "/suprimentos-corporativos/climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Eletrodomésticos",
+      "slug": "eletrodomesticos",
+      "path": "/suprimentos-corporativos/eletrodomesticos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Cópia, Digitalização e Impressão",
+      "slug": "copia-digitalizacao-e-impressao",
+      "path": "/suprimentos-corporativos/copia-digitalizacao-e-impressao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Mobiliário e Ergonomia",
+      "slug": "mobiliario-e-ergonomia",
+      "path": "/suprimentos-corporativos/mobiliario-e-ergonomia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Embalagens e Expedição",
+      "slug": "embalagens-e-expedicao",
+      "path": "/suprimentos-corporativos/embalagens-e-expedicao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Papelaria e Escritório",
+      "slug": "papelaria-e-escritorio",
+      "path": "/suprimentos-corporativos/papelaria-e-escritorio",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Uniformes e Têxteis Profissionais",
+      "slug": "uniformes-e-texteis-profissionais",
+      "path": "/suprimentos-corporativos/uniformes-e-texteis-profissionais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartáveis e Itens para Copa",
+      "slug": "descartaveis-e-itens-para-copa",
+      "path": "/suprimentos-corporativos/descartaveis-e-itens-para-copa",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Limpeza e Sanitização",
+      "slug": "limpeza-e-sanitizacao",
+      "path": "/suprimentos-corporativos/limpeza-e-sanitizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Higiene Pessoal e Banheiro",
+      "slug": "higiene-pessoal-e-banheiro",
+      "path": "/suprimentos-corporativos/higiene-pessoal-e-banheiro",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Marketing e Brindes",
+      "slug": "marketing-e-brindes",
+      "path": "/suprimentos-corporativos/marketing-e-brindes",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartaveis E Utensilios",
+      "slug": "descartaveis-e-utensilios",
+      "path": "/suprimentos-corporativos/descartaveis-e-utensilios",
+      "count": 2,
+      "categories": [
+        {
+          "name": "DIVEROS",
+          "slug": "diveros",
+          "path": "/suprimentos-corporativos/descartaveis-e-utensilios/diveros",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Informatica E Eletronicos",
+      "slug": "informatica-e-eletronicos",
+      "path": "/suprimentos-corporativos/informatica-e-eletronicos",
+      "count": 7,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/suprimentos-corporativos/informatica-e-eletronicos/acessorios",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Máquinas E Implementos",
+      "slug": "maquinas-e-implementos",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos",
+      "count": 4,
+      "categories": [
+        {
+          "name": "CONTAINERS",
+          "slug": "containers",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/containers",
+          "count": 2
+        },
+        {
+          "name": "IMPLEMENTOS INDUSTRIAIS",
+          "slug": "implementos-industriais",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/implementos-industriais",
+          "count": 1
+        },
+        {
+          "name": "MÁQUINAS PESADAS",
+          "slug": "maquinas-pesadas",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/maquinas-pesadas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Suprimentos Indiretos",
+      "slug": "suprimentos-indiretos",
+      "path": "/suprimentos-corporativos/suprimentos-indiretos",
+      "count": 1262,
+      "categories": [
+        {
+          "name": "ALIMENTOS E BEBIDAS",
+          "slug": "alimentos-e-bebidas",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/alimentos-e-bebidas",
+          "count": 83
+        },
+        {
+          "name": "AUTOMOTIVOS",
+          "slug": "automotivos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/automotivos",
+          "count": 21
+        },
+        {
+          "name": "BRINDES CORPORATIVOS",
+          "slug": "brindes-corporativos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/brindes-corporativos",
+          "count": 34
+        },
+        {
+          "name": "DECORAÇÃO E INFRAESTRUTURA",
+          "slug": "decoracao-e-infraestrutura",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/decoracao-e-infraestrutura",
+          "count": 34
+        },
+        {
+          "name": "DESCARTAVEIS E UTENSILIOS",
+          "slug": "descartaveis-e-utensilios",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/descartaveis-e-utensilios",
+          "count": 136
+        },
+        {
+          "name": "ELETRODOMÉSTICOS",
+          "slug": "eletrodomesticos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/eletrodomesticos",
+          "count": 139
+        },
+        {
+          "name": "HIGIENE E LIMPEZA",
+          "slug": "higiene-e-limpeza",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/higiene-e-limpeza",
+          "count": 288
+        },
+        {
+          "name": "MOBILIÁRIO CORPORATIVO",
+          "slug": "mobiliario-corporativo",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/mobiliario-corporativo",
+          "count": 113
+        },
+        {
+          "name": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+          "slug": "papelaria-e-material-de-escritorio",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/papelaria-e-material-de-escritorio",
+          "count": 412
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "4",
+    "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ"
+  },
+  "products": [
+    {
+      "code": "12015",
+      "title": "AR CONDICIONADO PHILCO HW 18K 220 F PAC1",
+      "brand": "PHILCO",
+      "brandCode": "375",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12015",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ar-condicionado-philco-hw-18k-220-f-pac1-12015",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7147",
+      "title": "CABO MANGA 4 VIAS BRANCO 6 METROS",
+      "brand": "ELGIN",
+      "brandCode": "28",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "4X24AWG",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cabo-manga-4-vias-branco-6-metros-7147",
+      "image": "/products/images/0071/7147.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "7146",
+      "title": "CABO SERIAL RS-232 DB9 MACHO P/DB9 FEMEA",
+      "brand": "ELGIN",
+      "brandCode": "28",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "JC0090311",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cabo-serial-rs232-db9-macho-pdb9-femea-7146",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10531",
+      "title": "COMBO CAMERA COOLPIX P 1100 + TRIPE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10531",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/combo-camera-coolpix-p-1100-tripe-10531",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11131",
+      "title": "COMBO DISPENSER PORTA COPOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11131",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/combo-dispenser-porta-copos-11131",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12446",
+      "title": "COMBO DISPENSER3X1 BCO REFIL ENX/FIO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12446",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/combo-dispenser3x1-bco-refil-enxfio-12446",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11227",
+      "title": "COMBO LOUSA COM MARCADORES E APAGADOR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11227",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/combo-lousa-com-marcadores-e-apagador-11227",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10992",
+      "title": "COMBO PORTA 2,10X0,90 + KIT ROLDANA 2M",
+      "brand": "ROLDANA",
+      "brandCode": "844",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10992",
+      "category": "DECORAÇÃO E INFRAESTRUTURA",
+      "categorySlug": "decoracao-e-infraestrutura",
+      "path": "/combo-porta-210x090-kit-roldana-2m-10992",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10685",
+      "title": "DESATIVADO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12062025DESATIVADO",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/desativado-10685",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11362",
+      "title": "KIT COM 2 AZEITES 500ML",
+      "brand": "GALLO",
+      "brandCode": "903",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11362",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/kit-com-2-azeites-500ml-11362",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7680",
+      "title": "KIT MESA MDF/METAL 1,20X0,60 + CADEIRA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "MG001-1",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/kit-mesa-mdfmetal-120x060-cadeira-7680",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11345",
+      "title": "KIT PORTA DETERGENTE COMPLETO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11345",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/kit-porta-detergente-completo-11345",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13268",
+      "title": "LUSTRA-MOVEIS 200 ML",
+      "brand": "PEROBA",
+      "brandCode": "488",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "0000000000",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/lustramoveis-200-ml-13268",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12088",
+      "title": "MESA ESTACAO COMPON 1200X600 4 LUGARES B",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12088",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-estacao-compon-1200x600-4-lugares-b-12088",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7679",
+      "title": "MESA MDF/METALON 2,73X1,20  BRANCO",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "MG001",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-mdfmetalon-273x120-branco-7679",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7318",
+      "title": "MESA MDF/METALON 2X0,90 S/GAVETAS BRANCO",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "MG001",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-mdfmetalon-2x090-sgavetas-branco-7318",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7370",
+      "title": "MESA TAMPO MAD. 2,75X1,20X0,80 C/2 GAVET",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "MG002",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-tampo-mad-275x120x080-c2-gavet-7370",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13269",
+      "title": "PATO PASTILHA ADESIVA C/3",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "13269",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pato-pastilha-adesiva-c3-13269",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10784",
+      "title": "PRATOS  DE MELAMINA 25CM RASO 6 UN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10784",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/pratos-de-melamina-25cm-raso-6-un-10784",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 19,
+    "pageBase": "suprimentos-corporativos--fornecedor-4"
+  }
+}

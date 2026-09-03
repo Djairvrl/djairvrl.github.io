@@ -1,0 +1,61 @@
+{
+  "title": "POLITRIZ",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria politriz em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "POLITRIZ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7080",
+      "title": "KIT 2 ESCOVAS PARA USO POLITRIZES E PARA",
+      "brand": "COPETEC",
+      "brandCode": "413",
+      "supplier": "COMERCIAL COPETEC LTDA",
+      "supplierCode": "1498",
+      "manufacturerCode": "RO8536",
+      "category": "POLITRIZ",
+      "categorySlug": "politriz",
+      "path": "/kit-2-escovas-para-uso-politrizes-e-para-7080",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9826",
+      "title": "MÁQUINA BRISTLE BLASTER ELÉTRICA MONTIPOWER REF SE-1361",
+      "brand": "BLASTER",
+      "brandCode": "728",
+      "supplier": "MONTIPOWER BRASIL COMERCIO ATACADISTA IMP E EXP SA",
+      "supplierCode": "2739",
+      "manufacturerCode": "SE-1361",
+      "category": "POLITRIZ",
+      "categorySlug": "politriz",
+      "path": "/maquina-bristle-blaster-eletrica-montipower-ref-se1361-9826",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-eletricas--politriz"
+  }
+}

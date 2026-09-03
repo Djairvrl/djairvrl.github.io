@@ -1,0 +1,112 @@
+{
+  "title": "APICULTOR",
+  "parentLabel": "Vestimentas Profissionais",
+  "description": "Produtos da categoria apicultor em vestimentas profissionais.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Vestimentas Profissionais",
+      "to": "/epis-e-epcs/vestimentas-profissionais"
+    },
+    {
+      "label": "APICULTOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13150",
+      "title": "CONJUNTO APICUL PROF AM 600/700 TAM G",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO DO BRASIL LTDA",
+      "supplierCode": "1075",
+      "manufacturerCode": "1008335",
+      "category": "APICULTOR",
+      "categorySlug": "apicultor",
+      "path": "/conjunto-apicul-prof-am-600700-tam-g-13150",
+      "image": "/products/images/0131/13150.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "6639",
+      "title": "FUMIGADOR PARA APICULTURA",
+      "brand": "AGRO TOTAL",
+      "brandCode": "311",
+      "supplier": "AGRO TOTAL REPRESENTACOES LTDA",
+      "supplierCode": "1274",
+      "manufacturerCode": "1455",
+      "category": "APICULTOR",
+      "categorySlug": "apicultor",
+      "path": "/fumigador-para-apicultura-6639",
+      "image": "/products/images/0066/6639.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1204",
+      "title": "MACAÇÃO DE PROTEÇÃO PARA APICULTAR TAM G CA43077/43076 - SAYRO REF API 100",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "1003502",
+      "category": "APICULTOR",
+      "categorySlug": "apicultor",
+      "path": "/macacao-de-protecao-para-apicultar-tam-g-ca4307743076--sayro-ref-api-100-1204",
+      "image": "/products/images/0012/1204.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1203",
+      "title": "MACAÇÃO DE PROTEÇÃO PARA APICULTAR TAM GG CA43077/43076 - SAYRO REF API 100",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "1003503",
+      "category": "APICULTOR",
+      "categorySlug": "apicultor",
+      "path": "/macacao-de-protecao-para-apicultar-tam-gg-ca4307743076--sayro-ref-api-100-1203",
+      "image": "/products/images/0012/1203.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "2161",
+      "title": "MACAÇÃO DE PROTEÇÃO PARA APICULTAR TAM M CA43077/43076 - SAYRO REF API 100",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "1003501",
+      "category": "APICULTOR",
+      "categorySlug": "apicultor",
+      "path": "/macacao-de-protecao-para-apicultar-tam-m-ca4307743076--sayro-ref-api-100-2161",
+      "image": "/products/images/0021/2161.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--vestimentas-profissionais--apicultor"
+  }
+}

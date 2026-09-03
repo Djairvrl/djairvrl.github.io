@@ -1,0 +1,78 @@
+{
+  "title": "KIT ELEMENTO",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria kit elemento em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "KIT ELEMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7678",
+      "title": "JG SERRA TICO-TICO WOOD ROBUST LINE 10PC",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2607010540000",
+      "category": "KIT ELEMENTO",
+      "categorySlug": "kit-elemento",
+      "path": "/jg-serra-ticotico-wood-robust-line-10pc-7678",
+      "image": "/products/images/0076/7678.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8557",
+      "title": "KIT DE ACESSORIOS 42 PECAS",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "D-58877",
+      "category": "KIT ELEMENTO",
+      "categorySlug": "kit-elemento",
+      "path": "/kit-de-acessorios-42-pecas-8557",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3998",
+      "title": "KIT DE PONTAS E BROCAS X-LINE HSS-TIN 103 PEÇAS - BOSCH 2607017395",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2607017395000",
+      "category": "KIT ELEMENTO",
+      "categorySlug": "kit-elemento",
+      "path": "/kit-de-pontas-e-brocas-xline-hsstin-103-pecas--bosch-2607017395-3998",
+      "image": "/products/images/0039/3998.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--kit-elemento"
+  }
+}

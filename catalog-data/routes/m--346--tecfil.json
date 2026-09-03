@@ -1,0 +1,53 @@
+{
+  "title": "TECFIL",
+  "parentLabel": "Marca",
+  "description": "Produtos TECFIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECFIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12854",
+      "title": "FILTRO COMBUSTIVEL GU86",
+      "brand": "TECFIL",
+      "brandCode": "346",
+      "supplier": "BRITO AUTO PECAS LTDA",
+      "supplierCode": "574",
+      "manufacturerCode": "23858",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/filtro-combustivel-gu86-12854",
+      "image": "/products/images/0128/12854.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13308",
+      "title": "FILTRO OLEO LUBRIF PSL339 EFL523 TECFIL",
+      "brand": "TECFIL",
+      "brandCode": "346",
+      "supplier": "DONIZETE APARECIDO MIRANDA 27593500888",
+      "supplierCode": "6224",
+      "manufacturerCode": "7891342000642",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-oleo-lubrif-psl339-efl523-tecfil-13308",
+      "image": "/products/images/0133/13308.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--346--tecfil"
+  }
+}

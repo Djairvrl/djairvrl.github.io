@@ -1,0 +1,22 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "9712",
+      "title": "ÓCULOS LENTE INCOLOR TRATAMENTO ANTIEMBAÇANTE  HONEYWELL REF S4040-BR",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "160",
+      "manufacturerCode": "S4040-BR",
+      "category": "AMPLA VISÃO",
+      "categorySlug": "ampla-visao",
+      "path": "/oculos-lente-incolor-tratamento-antiembacante-honeywell-ref-s4040br-9712",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    }
+  ]
+}

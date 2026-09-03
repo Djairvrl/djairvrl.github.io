@@ -1,0 +1,438 @@
+{
+  "title": "Ambiental",
+  "parentLabel": "Departamento",
+  "description": "Produtos de ECOLIX COMERCIO E SERVICOS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental"
+    }
+  ],
+  "children": [
+    {
+      "name": "Contenção Ambiental",
+      "slug": "contencao-ambiental",
+      "path": "/ambiental/contencao-ambiental",
+      "count": 243,
+      "categories": [
+        {
+          "name": "ABSORVENTES ORGÂNICOS",
+          "slug": "absorventes-organicos",
+          "path": "/ambiental/contencao-ambiental/absorventes-organicos",
+          "count": 5
+        },
+        {
+          "name": "BACIAS DE CONTEÇÕES",
+          "slug": "bacias-de-contecoes",
+          "path": "/ambiental/contencao-ambiental/bacias-de-contecoes",
+          "count": 9
+        },
+        {
+          "name": "COLETORES",
+          "slug": "coletores",
+          "path": "/ambiental/contencao-ambiental/coletores",
+          "count": 24
+        },
+        {
+          "name": "CONTENTORES",
+          "slug": "contentores",
+          "path": "/ambiental/contencao-ambiental/contentores",
+          "count": 19
+        },
+        {
+          "name": "CONTROLE DE PRAGAS E VETORES",
+          "slug": "controle-de-pragas-e-vetores",
+          "path": "/ambiental/contencao-ambiental/controle-de-pragas-e-vetores",
+          "count": 2
+        },
+        {
+          "name": "CORDÕES ABSORVENTES",
+          "slug": "cordoes-absorventes",
+          "path": "/ambiental/contencao-ambiental/cordoes-absorventes",
+          "count": 4
+        },
+        {
+          "name": "GALÕES E BOMBONAS",
+          "slug": "galoes-e-bombonas",
+          "path": "/ambiental/contencao-ambiental/galoes-e-bombonas",
+          "count": 30
+        },
+        {
+          "name": "KIT MITIGAÇÃO",
+          "slug": "kit-mitigacao",
+          "path": "/ambiental/contencao-ambiental/kit-mitigacao",
+          "count": 10
+        },
+        {
+          "name": "LIXEIRAS",
+          "slug": "lixeiras",
+          "path": "/ambiental/contencao-ambiental/lixeiras",
+          "count": 105
+        },
+        {
+          "name": "MANTAS ABSORVENTES",
+          "slug": "mantas-absorventes",
+          "path": "/ambiental/contencao-ambiental/mantas-absorventes",
+          "count": 7
+        },
+        {
+          "name": "PALLETS DE CONTENÇÃO",
+          "slug": "pallets-de-contencao",
+          "path": "/ambiental/contencao-ambiental/pallets-de-contencao",
+          "count": 10
+        },
+        {
+          "name": "PESTICIDAS",
+          "slug": "pesticidas",
+          "path": "/ambiental/contencao-ambiental/pesticidas",
+          "count": 5
+        },
+        {
+          "name": "PÁ ANTI FAÍSCA",
+          "slug": "pa-anti-faisca",
+          "path": "/ambiental/contencao-ambiental/pa-anti-faisca",
+          "count": 2
+        },
+        {
+          "name": "TRAPOS",
+          "slug": "trapos",
+          "path": "/ambiental/contencao-ambiental/trapos",
+          "count": 5
+        },
+        {
+          "name": "TRATAMENTO DE EFLUENTES",
+          "slug": "tratamento-de-efluentes",
+          "path": "/ambiental/contencao-ambiental/tratamento-de-efluentes",
+          "count": 1
+        },
+        {
+          "name": "TRAVESSEIROS ABSORVENTES",
+          "slug": "travesseiros-absorventes",
+          "path": "/ambiental/contencao-ambiental/travesseiros-absorventes",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Limpeza Industrial",
+      "slug": "limpeza-industrial",
+      "path": "/ambiental/limpeza-industrial",
+      "count": 80,
+      "categories": [
+        {
+          "name": "BANDEJAS E COLETORAS",
+          "slug": "bandejas-e-coletoras",
+          "path": "/ambiental/limpeza-industrial/bandejas-e-coletoras",
+          "count": 1
+        },
+        {
+          "name": "CARROS FUNCIONAIS E ACESSÓRIOS",
+          "slug": "carros-funcionais-e-acessorios",
+          "path": "/ambiental/limpeza-industrial/carros-funcionais-e-acessorios",
+          "count": 3
+        },
+        {
+          "name": "DESENGRAXANTES",
+          "slug": "desengraxantes",
+          "path": "/ambiental/limpeza-industrial/desengraxantes",
+          "count": 13
+        },
+        {
+          "name": "DESINCRUSTANTES",
+          "slug": "desincrustantes",
+          "path": "/ambiental/limpeza-industrial/desincrustantes",
+          "count": 1
+        },
+        {
+          "name": "ESFREGÕES INDUSTRIAIS",
+          "slug": "esfregoes-industriais",
+          "path": "/ambiental/limpeza-industrial/esfregoes-industriais",
+          "count": 5
+        },
+        {
+          "name": "KIT LIMPEZA INDUSTRIAL",
+          "slug": "kit-limpeza-industrial",
+          "path": "/ambiental/limpeza-industrial/kit-limpeza-industrial",
+          "count": 8
+        },
+        {
+          "name": "PÁS",
+          "slug": "pas",
+          "path": "/ambiental/limpeza-industrial/pas",
+          "count": 4
+        },
+        {
+          "name": "SACOS DE LIXO",
+          "slug": "sacos-de-lixo",
+          "path": "/ambiental/limpeza-industrial/sacos-de-lixo",
+          "count": 37
+        },
+        {
+          "name": "VASSOURAS",
+          "slug": "vassouras",
+          "path": "/ambiental/limpeza-industrial/vassouras",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Proteção e Manejo de Fauna",
+      "slug": "protecao-e-manejo-de-fauna",
+      "path": "/ambiental/protecao-e-manejo-de-fauna",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Acessórios",
+      "slug": "acessorios",
+      "path": "/ambiental/acessorios",
+      "count": 14,
+      "categories": [
+        {
+          "name": "APARELHOS REPELENTES",
+          "slug": "aparelhos-repelentes",
+          "path": "/ambiental/acessorios/aparelhos-repelentes",
+          "count": 1
+        },
+        {
+          "name": "KIT ANIMAIS PEÇONHENTOS",
+          "slug": "kit-animais-peconhentos",
+          "path": "/ambiental/acessorios/kit-animais-peconhentos",
+          "count": 13
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "358",
+    "name": "ECOLIX COMERCIO E SERVICOS LTDA"
+  },
+  "products": [
+    {
+      "code": "12131",
+      "title": "CARRO FUNCIONAL AMERICA BLACK S/ BOLSA",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00399",
+      "category": "CARROS FUNCIONAIS E ACESSÓRIOS",
+      "categorySlug": "carros-funcionais-e-acessorios",
+      "path": "/carro-funcional-america-black-s-bolsa-12131",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "12829",
+      "title": "LIXEIRA BASCULANTE 012 LT AMARELO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00824",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012-lt-amarelo-12829",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12830",
+      "title": "LIXEIRA BASCULANTE 012 LT AZUL",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00825",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012-lt-azul-12830",
+      "image": "/products/images/0128/12830.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12831",
+      "title": "LIXEIRA BASCULANTE 012 LT VERDE",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00828",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012-lt-verde-12831",
+      "image": "/products/images/0128/12831.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12832",
+      "title": "LIXEIRA BASCULANTE 012 LT VERMELHO",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00829",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012-lt-vermelho-12832",
+      "image": "/products/images/0128/12832.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12833",
+      "title": "LIXEIRA BASCULANTE 012L CINZA",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00821",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012l-cinza-12833",
+      "image": "/products/images/0128/12833.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12624",
+      "title": "LIXEIRA BASCULANTE 015 LT AZUL",
+      "brand": "LAR PLASTICOS",
+      "brandCode": "347",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00832",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-015-lt-azul-12624",
+      "image": "/products/images/0126/12624.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12625",
+      "title": "LIXEIRA BASCULANTE 015 LT VERMELHO",
+      "brand": "LAR PLASTICOS",
+      "brandCode": "347",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00836",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-015-lt-vermelho-12625",
+      "image": "/products/images/0126/12625.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "11521",
+      "title": "LIXEIRA BASCULANTE 60 LITROS VERDE",
+      "brand": "JSN",
+      "brandCode": "770",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00931",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-60-litros-verde-11521",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "4312",
+      "title": "LIXEIRA SANREMO C/PED 6L SR272/01",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "78963590",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-sanremo-cped-6l-sr27201-4312",
+      "image": "/products/images/0043/4312.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "10746",
+      "title": "SACO 100L 90X90 PRETO C/100 IPG1009",
+      "brand": "FIBRA",
+      "brandCode": "808",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "02207",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-100l-90x90-preto-c100-ipg1009-10746",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "12129",
+      "title": "SACO P/ CARRO FUNCIONAL AMARELO / SG04AM",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "01914",
+      "category": "CARROS FUNCIONAIS E ACESSÓRIOS",
+      "categorySlug": "carros-funcionais-e-acessorios",
+      "path": "/saco-p-carro-funcional-amarelo-sg04am-12129",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "11850",
+      "title": "SUPORTE ENCAIXE 4 X 60 L BASCULANTE LP",
+      "brand": "ECOLIX",
+      "brandCode": "994",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "10165",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/suporte-encaixe-4-x-60-l-basculante-lp-11850",
+      "image": "/products/images/0118/11850.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 13,
+    "pageBase": "ambiental--fornecedor-358"
+  }
+}

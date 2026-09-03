@@ -1,0 +1,36 @@
+{
+  "title": "ROTTA",
+  "parentLabel": "Marca",
+  "description": "Produtos ROTTA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROTTA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8058",
+      "title": "KIT CONSERTO PNEUS-6MM AUTOMOVEL METAL",
+      "brand": "ROTTA",
+      "brandCode": "553",
+      "supplier": "CESAR LUIZ MARCON LTDA",
+      "supplierCode": "1918",
+      "manufacturerCode": "9113",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/kit-conserto-pneus6mm-automovel-metal-8058",
+      "image": "/products/images/0080/8058.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--553--rotta"
+  }
+}

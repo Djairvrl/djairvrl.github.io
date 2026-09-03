@@ -1,0 +1,36 @@
+{
+  "title": "BUNKER",
+  "parentLabel": "Marca",
+  "description": "Produtos BUNKER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BUNKER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11789",
+      "title": "FRASCO 1L CILÍNDRO BRAN C/TAMPA 45MM 90G",
+      "brand": "BUNKER",
+      "brandCode": "988",
+      "supplier": "INPEV COMERCIO DE EMBALAGENS PLASTICAS LTDA",
+      "supplierCode": "5300",
+      "manufacturerCode": "6110FB",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/frasco-1l-cilindro-bran-ctampa-45mm-90g-11789",
+      "image": "/products/images/0117/11789.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--988--bunker"
+  }
+}

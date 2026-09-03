@@ -1,0 +1,36 @@
+{
+  "title": "EAGLE BURGMANN",
+  "parentLabel": "Marca",
+  "description": "Produtos EAGLE BURGMANN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EAGLE BURGMANN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11043",
+      "title": "GAXETA ISARTHERM FLEX 6050 3/4",
+      "brand": "EAGLE BURGMANN",
+      "brandCode": "863",
+      "supplier": "EAGLEBURGMANN DO BRASIL VEDACOES INDUSTRIAIS LTDA",
+      "supplierCode": "4378",
+      "manufacturerCode": "U1005-0010-ZAH",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/gaxeta-isartherm-flex-6050-34-11043",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--863--eagle-burgmann"
+  }
+}

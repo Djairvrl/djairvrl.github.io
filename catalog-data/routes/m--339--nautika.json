@@ -1,0 +1,87 @@
+{
+  "title": "NAUTIKA",
+  "parentLabel": "Marca",
+  "description": "Produtos NAUTIKA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NAUTIKA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11393",
+      "title": "BINOCULO AGUIA 7X35MM",
+      "brand": "NAUTIKA",
+      "brandCode": "339",
+      "supplier": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "supplierCode": "1553",
+      "manufacturerCode": "301820",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-aguia-7x35mm-11393",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7256",
+      "title": "BINÓCULO PELICANO AMPLIAÇÃO 7X E LENTE 50MM - NAUTIKA 301860",
+      "brand": "NAUTIKA",
+      "brandCode": "339",
+      "supplier": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "supplierCode": "1553",
+      "manufacturerCode": "301860",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-pelicano-ampliacao-7x-e-lente-50mm--nautika-301860-7256",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "9642",
+      "title": "CONJUTO DE CALÇA E JAQUETA IMPERMEÁVEL AMANDY TAMANHO G  NTK",
+      "brand": "NAUTIKA",
+      "brandCode": "339",
+      "supplier": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "supplierCode": "1553",
+      "manufacturerCode": "540804-AZ",
+      "category": "VESTIMENTAS IMPERMEAVEIS",
+      "categorySlug": "vestimentas-impermeaveis",
+      "path": "/conjuto-de-calca-e-jaqueta-impermeavel-amandy-tamanho-g-ntk-9642",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "4790",
+      "title": "GAZEBO TENDA DOBRAVEL TRIXX 3,00X3,00 AZ",
+      "brand": "NAUTIKA",
+      "brandCode": "339",
+      "supplier": "AGNALDO MARTINS DE SOUZA FILHO",
+      "supplierCode": "1337",
+      "manufacturerCode": "19855",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/gazebo-tenda-dobravel-trixx-300x300-az-4790",
+      "image": "/products/images/0047/4790.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--339--nautika"
+  }
+}

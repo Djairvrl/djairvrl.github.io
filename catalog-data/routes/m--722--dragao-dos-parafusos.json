@@ -1,0 +1,121 @@
+{
+  "title": "DRAGAO DOS PARAFUSOS",
+  "parentLabel": "Marca",
+  "description": "Produtos DRAGAO DOS PARAFUSOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DRAGAO DOS PARAFUSOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10171",
+      "title": "ARRUELA LISA INOX A304 MA 6MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "48309980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-inox-a304-ma-6mm-10171",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9787",
+      "title": "BARRA ROSC INOX A304 MA 1MT 8MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "80339000",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/barra-rosc-inox-a304-ma-1mt-8mm-9787",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9818",
+      "title": "KIT BARRA ROSC M8 X 1M + PORCA + ARRUELA",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "9818",
+      "category": "BARRA",
+      "categorySlug": "barra",
+      "path": "/kit-barra-rosc-m8-x-1m-porca-arruela-9818",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "10173",
+      "title": "PARARAFUSO FR GALV ACO G2 NC 1/4 X 3 1/2",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "84040430",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/pararafuso-fr-galv-aco-g2-nc-14-x-3-12-10173",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10172",
+      "title": "PORCA SX GALV ACO G2 NC 1/4\"",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "83049970",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/porca-sx-galv-aco-g2-nc-14-10172",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10175",
+      "title": "REBITE KOSM/REB/NFIX 4,0MM X 15MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "CH261080",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/rebite-kosmrebnfix-40mm-x-15mm-10175",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--722--dragao-dos-parafusos"
+  }
+}

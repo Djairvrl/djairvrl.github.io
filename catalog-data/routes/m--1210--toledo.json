@@ -1,0 +1,36 @@
+{
+  "title": "TOLEDO",
+  "parentLabel": "Marca",
+  "description": "Produtos TOLEDO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TOLEDO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13259",
+      "title": "FONTE 54V 1,574A UP0851A-54PB DGS1210",
+      "brand": "TOLEDO",
+      "brandCode": "1210",
+      "supplier": "LEANDRO RODRIGUES PEREIRA CABOS",
+      "supplierCode": "6194",
+      "manufacturerCode": "MLB2868510897",
+      "category": "FONTES CHAVEADAS",
+      "categorySlug": "fontes-chaveadas",
+      "path": "/fonte-54v-1574a-up0851a54pb-dgs1210-13259",
+      "image": "/products/images/0132/13259.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1210--toledo"
+  }
+}

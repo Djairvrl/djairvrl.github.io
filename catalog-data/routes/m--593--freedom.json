@@ -1,0 +1,36 @@
+{
+  "title": "FREEDOM",
+  "parentLabel": "Marca",
+  "description": "Produtos FREEDOM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FREEDOM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8419",
+      "title": "BATERIA EST 054 A 70 AH DF1000 ECO",
+      "brand": "FREEDOM",
+      "brandCode": "593",
+      "supplier": "JL COMERCIO DE BATERIAS, LUBRIFICANTES, PECAS E ACESSORIOS A",
+      "supplierCode": "2097",
+      "manufacturerCode": "3783",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-est-054-a-70-ah-df1000-eco-8419",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--593--freedom"
+  }
+}

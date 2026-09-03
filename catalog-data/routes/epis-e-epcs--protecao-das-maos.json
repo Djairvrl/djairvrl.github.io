@@ -1,0 +1,81 @@
+{
+  "title": "Proteção Das Mãos",
+  "parentLabel": "EPIs e EPCs",
+  "description": "Soluções de proteção das mãos disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Das Mãos"
+    }
+  ],
+  "children": [
+    {
+      "name": "LUVAS",
+      "slug": "luvas",
+      "path": "/epis-e-epcs/protecao-das-maos/luvas",
+      "count": 3
+    }
+  ],
+  "products": [
+    {
+      "code": "10828",
+      "title": "LUVA DANNY SENSIFLEX ULTRA ESCURO GRANDE",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA90510G AZ",
+      "category": "LUVAS",
+      "categorySlug": "luvas",
+      "path": "/luva-danny-sensiflex-ultra-escuro-grande-10828",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Das Mãos",
+      "sectionSlug": "protecao-das-maos"
+    },
+    {
+      "code": "10654",
+      "title": "LUVA DE VAQUETA CA 40318 PUNHO 15CM",
+      "brand": "3CARLOS",
+      "brandCode": "793",
+      "supplier": "SIDNEI M PEREIRA EPI LTDA",
+      "supplierCode": "3919",
+      "manufacturerCode": "000093",
+      "category": "LUVAS",
+      "categorySlug": "luvas",
+      "path": "/luva-de-vaqueta-ca-40318-punho-15cm-10654",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Das Mãos",
+      "sectionSlug": "protecao-das-maos"
+    },
+    {
+      "code": "10652",
+      "title": "LUVA DE VAQUETA CA 40318 PUNHO 20CM",
+      "brand": "3CARLOS",
+      "brandCode": "793",
+      "supplier": "SIDNEI M PEREIRA EPI LTDA",
+      "supplierCode": "3919",
+      "manufacturerCode": "000006",
+      "category": "LUVAS",
+      "categorySlug": "luvas",
+      "path": "/luva-de-vaqueta-ca-40318-punho-20cm-10652",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Das Mãos",
+      "sectionSlug": "protecao-das-maos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--protecao-das-maos"
+  }
+}

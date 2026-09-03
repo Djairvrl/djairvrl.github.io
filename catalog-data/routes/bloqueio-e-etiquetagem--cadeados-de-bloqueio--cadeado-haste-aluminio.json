@@ -1,0 +1,44 @@
+{
+  "title": "CADEADO HASTE ALUMÍNIO",
+  "parentLabel": "Cadeados de Bloqueio",
+  "description": "Produtos da categoria cadeado haste alumínio em cadeados de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Cadeados de Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio"
+    },
+    {
+      "label": "CADEADO HASTE ALUMÍNIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5263",
+      "title": "CADEADO DE BLOQUEIO PLÁSTICO HASTE ALUMÍNIO Ø6,3MM ALTURA 38MM VERMELHO - TAGOUT CALVM140CD",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CALVM140CD",
+      "category": "CADEADO HASTE ALUMÍNIO",
+      "categorySlug": "cadeado-haste-aluminio",
+      "path": "/cadeado-de-bloqueio-plastico-haste-aluminio-63mm-altura-38mm-vermelho--tagout-calvm140cd-5263",
+      "image": "/products/images/0052/5263.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Cadeados de Bloqueio",
+      "sectionSlug": "cadeados-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "bloqueio-e-etiquetagem--cadeados-de-bloqueio--cadeado-haste-aluminio"
+  }
+}

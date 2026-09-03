@@ -1,0 +1,104 @@
+{
+  "title": "WEBPLASTICO",
+  "parentLabel": "Marca",
+  "description": "Produtos WEBPLASTICO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WEBPLASTICO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7901",
+      "title": "CONEXAO ALUMINIO 1/2 BSP",
+      "brand": "WEBPLASTICO",
+      "brandCode": "353",
+      "supplier": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "1370",
+      "manufacturerCode": "CA12",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/conexao-aluminio-12-bsp-7901",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7977",
+      "title": "LIXEIRA MIX 3 DIVISÕES 26L PARA COLETA SELETIVA - WEBPLÁSTICO",
+      "brand": "WEBPLASTICO",
+      "brandCode": "353",
+      "supplier": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "1370",
+      "manufacturerCode": "MIX3AZVMCZ",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-mix-3-divisoes-26l-para-coleta-seletiva--webplastico-7977",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "6815",
+      "title": "LIXEIRA MIX 50L 4 DIVISORIAS",
+      "brand": "WEBPLASTICO",
+      "brandCode": "353",
+      "supplier": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "1370",
+      "manufacturerCode": "MIX50_4-VM-AZ-AM-VD",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-mix-50l-4-divisorias-6815",
+      "image": "/products/images/0068/6815.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7854",
+      "title": "TANQUE 100L NATURAL VERTICAL 3/8",
+      "brand": "WEBPLASTICO",
+      "brandCode": "353",
+      "supplier": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "1370",
+      "manufacturerCode": "T100V-PL-R-MG38",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/tanque-100l-natural-vertical-38-7854",
+      "image": "/products/images/0078/7854.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7900",
+      "title": "VALVULA COMPLETA E RETORNO P MANG 1/2",
+      "brand": "WEBPLASTICO",
+      "brandCode": "353",
+      "supplier": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "1370",
+      "manufacturerCode": "VR12",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/valvula-completa-e-retorno-p-mang-12-7900",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--353--webplastico"
+  }
+}

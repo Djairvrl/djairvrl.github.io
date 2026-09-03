@@ -1,0 +1,36 @@
+{
+  "title": "LENZE",
+  "parentLabel": "Marca",
+  "description": "Produtos LENZE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LENZE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13276",
+      "title": "CONFIGURADOR LENZE EMZ2221IB",
+      "brand": "LENZE",
+      "brandCode": "1219",
+      "supplier": "PROIND ELETRONICA LTDA",
+      "supplierCode": "6206",
+      "manufacturerCode": "13479870",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/configurador-lenze-emz2221ib-13276",
+      "image": "/products/images/0132/13276.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1219--lenze"
+  }
+}

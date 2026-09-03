@@ -1,0 +1,53 @@
+{
+  "title": "EOS",
+  "parentLabel": "Marca",
+  "description": "Produtos EOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11667",
+      "title": "GAS PARA MACARICOS MAP DE 400G AMARELO",
+      "brand": "EOS",
+      "brandCode": "363",
+      "supplier": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
+      "supplierCode": "5175",
+      "manufacturerCode": "C154411",
+      "category": "OXI-COMBUSTÍVEL",
+      "categorySlug": "oxi-combustivel",
+      "path": "/gas-para-macaricos-map-de-400g-amarelo-11667",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6858",
+      "title": "REFIL MACARICO MAP",
+      "brand": "EOS",
+      "brandCode": "363",
+      "supplier": "TACIANE P S DE ALMEIDA FERRAGENS",
+      "supplierCode": "1389",
+      "manufacturerCode": "2499",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/refil-macarico-map-6858",
+      "image": "/products/images/0068/6858.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--363--eos"
+  }
+}

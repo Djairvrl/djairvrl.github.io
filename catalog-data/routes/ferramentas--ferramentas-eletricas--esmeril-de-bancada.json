@@ -1,0 +1,112 @@
+{
+  "title": "ESMERIL DE BANCADA",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria esmeril de bancada em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "ESMERIL DE BANCADA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12431",
+      "title": "MOTO ESMERIL 550W/2850~3450/CA  220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "GB801-220V",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/moto-esmeril-550w28503450ca-220v-12431",
+      "image": "/products/images/0124/12431.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "11189",
+      "title": "MOTOESMERIL 1,0HP 220/380V 60HZ MT-100I",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "878",
+      "manufacturerCode": "00017197.4",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/motoesmeril-10hp-220380v-60hz-mt100i-11189",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5912",
+      "title": "MOTOESMERIL 360W MONO 220V",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6892360220",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/motoesmeril-360w-mono-220v-5912",
+      "image": "/products/images/0059/5912.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1384",
+      "title": "MOTOESMERIL BANCADA 6\" 300W 220V",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "911.0255-0",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/motoesmeril-bancada-6-300w-220v-1384",
+      "image": "/products/images/0013/1384.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4022",
+      "title": "MOTOESMERIL MON.POT 360W220V60HZ MMI-50",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "878",
+      "manufacturerCode": "00007589.2",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/motoesmeril-monpot-360w220v60hz-mmi50-4022",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--ferramentas-eletricas--esmeril-de-bancada"
+  }
+}

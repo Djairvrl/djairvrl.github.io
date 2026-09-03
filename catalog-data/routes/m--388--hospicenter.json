@@ -1,0 +1,36 @@
+{
+  "title": "HOSPICENTER",
+  "parentLabel": "Marca",
+  "description": "Produtos HOSPICENTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HOSPICENTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6944",
+      "title": "ASPIRADOR MANUAL DE SECRECOES",
+      "brand": "HOSPICENTER",
+      "brandCode": "388",
+      "supplier": "I. S. COSTA CENTRAL TELEMEDICINA LTDA",
+      "supplierCode": "1426",
+      "manufacturerCode": "HOSPI027",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/aspirador-manual-de-secrecoes-6944",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--388--hospicenter"
+  }
+}

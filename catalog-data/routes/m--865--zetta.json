@@ -1,0 +1,36 @@
+{
+  "title": "ZETTA",
+  "parentLabel": "Marca",
+  "description": "Produtos ZETTA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZETTA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11049",
+      "title": "BATERIA AUTOMOTIVA  45A",
+      "brand": "ZETTA",
+      "brandCode": "865",
+      "supplier": "EAGLEBURGMANN DO BRASIL VEDACOES INDUSTRIAIS LTDA",
+      "supplierCode": "4378",
+      "manufacturerCode": "69704,4",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-automotiva-45a-11049",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--865--zetta"
+  }
+}

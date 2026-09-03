@@ -1,0 +1,78 @@
+{
+  "title": "SELADOR",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria selador em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "SELADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9434",
+      "title": "SELADOR PET 13/16 MM",
+      "brand": "PAKKI",
+      "brandCode": "680",
+      "supplier": "PAKKI COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1816",
+      "manufacturerCode": "9434",
+      "category": "SELADOR",
+      "categorySlug": "selador",
+      "path": "/selador-pet-1316-mm-9434",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "5923",
+      "title": "SELADOR PET 13MM",
+      "brand": "MOSKA",
+      "brandCode": "671",
+      "supplier": "MOSCKA SOLUÇÕES EM EMBALAGENS INDUSTRIAIS LTDA",
+      "supplierCode": "689",
+      "manufacturerCode": "0150/19",
+      "category": "SELADOR",
+      "categorySlug": "selador",
+      "path": "/selador-pet-13mm-5923",
+      "image": "/products/images/0059/5923.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "8407",
+      "title": "SELADORA DE PEDAL C TEMP 30CM CFTS 300 T",
+      "brand": "CETRO",
+      "brandCode": "309",
+      "supplier": "CETRO SOLUCOES EM EMBALAGENS EIRELI",
+      "supplierCode": "1268",
+      "manufacturerCode": "MQ000575",
+      "category": "SELADOR",
+      "categorySlug": "selador",
+      "path": "/seladora-de-pedal-c-temp-30cm-cfts-300-t-8407",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--selador"
+  }
+}

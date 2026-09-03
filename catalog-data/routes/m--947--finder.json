@@ -1,0 +1,53 @@
+{
+  "title": "FINDER",
+  "parentLabel": "Marca",
+  "description": "Produtos FINDER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FINDER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11497",
+      "title": "BASE P/RELE SERIE 55=PT78740 9474SMA",
+      "brand": "FINDER",
+      "brandCode": "947",
+      "supplier": "ELETROPECAS COMERCIAL ELETRONICA LTDA",
+      "supplierCode": "5008",
+      "manufacturerCode": "27465",
+      "category": "RELÉS",
+      "categorySlug": "reles",
+      "path": "/base-prele-serie-55pt78740-9474sma-11497",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11496",
+      "title": "RELE FINDER 5534-9-012-0040 12VDC",
+      "brand": "FINDER",
+      "brandCode": "947",
+      "supplier": "ELETROPECAS COMERCIAL ELETRONICA LTDA",
+      "supplierCode": "5008",
+      "manufacturerCode": "27460",
+      "category": "RELÉS",
+      "categorySlug": "reles",
+      "path": "/rele-finder-553490120040-12vdc-11496",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--947--finder"
+  }
+}

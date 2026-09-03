@@ -1,0 +1,36 @@
+{
+  "title": "HIDRACOMP",
+  "parentLabel": "Marca",
+  "description": "Produtos HIDRACOMP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HIDRACOMP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13355",
+      "title": "VALVULA RETENÇÃO RK4",
+      "brand": "HIDRACOMP",
+      "brandCode": "1230",
+      "supplier": "HIDRACOMP COMPONENTES HIDRAULICOS LTDA",
+      "supplierCode": "6255",
+      "manufacturerCode": "05024",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/valvula-retencao-rk4-13355",
+      "image": "/products/images/0133/13355.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1230--hidracomp"
+  }
+}

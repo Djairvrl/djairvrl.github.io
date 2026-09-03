@@ -1,0 +1,121 @@
+{
+  "title": "BRASKOUROS",
+  "parentLabel": "Marca",
+  "description": "Produtos BRASKOUROS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRASKOUROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2119",
+      "title": "AVENTAL RASPA S/EMENDA 1,20X0,60 CA41159",
+      "brand": "BRASKOUROS",
+      "brandCode": "148",
+      "supplier": "RICIATTI E SILVA IND E COM DE EQU SEGUR",
+      "supplierCode": "485",
+      "manufacturerCode": "102 AVENT SOLD 120",
+      "category": "AVENTAIS",
+      "categorySlug": "aventais",
+      "path": "/avental-raspa-semenda-120x060-ca41159-2119",
+      "image": "/products/images/0021/2119.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "3375",
+      "title": "LUVA COBERTURA TM11 PUNHO RASPA 20CM",
+      "brand": "BRASKOUROS",
+      "brandCode": "148",
+      "supplier": "RICIATTI E SILVA IND E COM DE EQU SEGUR",
+      "supplierCode": "485",
+      "manufacturerCode": "300 LV COBERTURA",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/luva-cobertura-tm11-punho-raspa-20cm-3375",
+      "image": "/products/images/0033/3375.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "3374",
+      "title": "LUVA DE RASP TM9 C/PUNH 20CM COST KEVLAR",
+      "brand": "BRASKOUROS",
+      "brandCode": "148",
+      "supplier": "RICIATTI E SILVA IND E COM DE EQU SEGUR",
+      "supplierCode": "485",
+      "manufacturerCode": "260 LV RAS PR 20 KV",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/luva-de-rasp-tm9-cpunh-20cm-cost-kevlar-3374",
+      "image": "/products/images/0033/3374.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "3373",
+      "title": "LUVA DE RASPA C/PUNHO 20CM T-9 CA44477",
+      "brand": "BRASKOUROS",
+      "brandCode": "148",
+      "supplier": "RICIATTI E SILVA IND E COM DE EQU SEGUR",
+      "supplierCode": "485",
+      "manufacturerCode": "010 LR9 PR20",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/luva-de-raspa-cpunho-20cm-t9-ca44477-3373",
+      "image": "/products/images/0033/3373.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "2120",
+      "title": "LUVA DE RASPA DE COURO TOTAL MODELO AMERICANA TAMANHO 9(G) - BRASKOUROS",
+      "brand": "BRASKOUROS",
+      "brandCode": "148",
+      "supplier": "RICIATTI E SILVA IND E COM DE EQU SEGUR",
+      "supplierCode": "485",
+      "manufacturerCode": "007 LR CE 9",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/luva-de-raspa-de-couro-total-modelo-americana-tamanho-9g--braskouros-2120",
+      "image": "/products/images/0021/2120.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1548",
+      "title": "LUVA DE VAQUETA TOTAL MOD AMERIC TM10",
+      "brand": "BRASKOUROS",
+      "brandCode": "148",
+      "supplier": "RICIATTI E SILVA IND E COM DE EQU SEGUR",
+      "supplierCode": "485",
+      "manufacturerCode": "002 LV CE 10",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-de-vaqueta-total-mod-americ-tm10-1548",
+      "image": "/products/images/0015/1548.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--148--braskouros"
+  }
+}

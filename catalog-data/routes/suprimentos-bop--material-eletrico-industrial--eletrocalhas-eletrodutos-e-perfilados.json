@@ -1,0 +1,44 @@
+{
+  "title": "ELETROCALHAS, ELETRODUTOS E PERFILADOS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria eletrocalhas, eletrodutos e perfilados em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "ELETROCALHAS, ELETRODUTOS E PERFILADOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10182",
+      "title": "ELETRODUTO GALV 1 0,50 A 0,65MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SANTIL COMERCIAL ELETRICA LTDA",
+      "supplierCode": "1877",
+      "manufacturerCode": "0001935",
+      "category": "ELETROCALHAS, ELETRODUTOS E PERFILADOS",
+      "categorySlug": "eletrocalhas-eletrodutos-e-perfilados",
+      "path": "/eletroduto-galv-1-050-a-065mm-10182",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--eletrocalhas-eletrodutos-e-perfilados"
+  }
+}

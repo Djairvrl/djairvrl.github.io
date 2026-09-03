@@ -1,0 +1,36 @@
+{
+  "title": "SHERWIN WILLIAMS",
+  "parentLabel": "Marca",
+  "description": "Produtos SHERWIN WILLIAMS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SHERWIN WILLIAMS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12069",
+      "title": "SW COLOR CL NC COBRE MAIS BASE GALAO-MUR",
+      "brand": "SHERWIN WILLIAMS",
+      "brandCode": "1026",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "66453",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/sw-color-cl-nc-cobre-mais-base-galaomur-12069",
+      "image": "/products/images/0120/12069.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1026--sherwin-williams"
+  }
+}

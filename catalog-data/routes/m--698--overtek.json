@@ -1,0 +1,36 @@
+{
+  "title": "OVERTEK",
+  "parentLabel": "Marca",
+  "description": "Produtos OVERTEK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OVERTEK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9615",
+      "title": "GUIA DE FIBRA ÓPTICA PARA DUTOS (300 METROS) OT-8496-PF OVERTEK REF A677",
+      "brand": "OVERTEK",
+      "brandCode": "698",
+      "supplier": "KAMIDE & CIA LTDA",
+      "supplierCode": "2644",
+      "manufacturerCode": "A677",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/guia-de-fibra-optica-para-dutos-300-metros-ot8496pf-overtek-ref-a677-9615",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--698--overtek"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "OCEANO TI",
+  "parentLabel": "Marca",
+  "description": "Produtos OCEANO TI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OCEANO TI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8767",
+      "title": "PUNCH DOWN COM AJUSTE DE PRESSAO LK-314B",
+      "brand": "OCEANO TI",
+      "brandCode": "623",
+      "supplier": "OCEANO TI DISTRIBUIDORA DE PRODUTOS PARA TELECOMUNICACOES LT",
+      "supplierCode": "2213",
+      "manufacturerCode": "05006",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/punch-down-com-ajuste-de-pressao-lk314b-8767",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--623--oceano-ti"
+  }
+}

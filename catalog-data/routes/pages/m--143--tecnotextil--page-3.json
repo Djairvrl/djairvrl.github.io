@@ -1,0 +1,73 @@
+{
+  "page": 3,
+  "products": [
+    {
+      "code": "13124",
+      "title": "PROT REMOVÍVEL VELCRO FITA PADRÃO 50MM 0",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "6P04KA",
+      "category": "FITAS",
+      "categorySlug": "fitas",
+      "path": "/prot-removivel-velcro-fita-padrao-50mm-0-13124",
+      "image": "/products/images/0131/13124.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "11407",
+      "title": "TRIK 35 NBR 15883-2 CMT 2T UMA PARTE 2M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "3KB1LL",
+      "category": "CINTAS DE AMARRAÇÃO",
+      "categorySlug": "cintas-de-amarracao",
+      "path": "/trik-35-nbr-158832-cmt-2t-uma-parte-2m-11407",
+      "image": "/products/images/0114/11407.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "12408",
+      "title": "TRIK 50I NBR 15883-2 CMT 3T J 3,00M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "3KD2EE",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/trik-50i-nbr-158832-cmt-3t-j-300m-12408",
+      "image": "/products/images/0124/12408.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12409",
+      "title": "TRIK 50P NBR 15883-2 CMT 5T J 5,00M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "3KF2EE",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/trik-50p-nbr-158832-cmt-5t-j-500m-12409",
+      "image": "/products/images/0124/12409.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "UNIPOWER",
+  "parentLabel": "Marca",
+  "description": "Produtos UNIPOWER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UNIPOWER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10514",
+      "title": "BATERIA GETPOWER 12V 40AH (GP 12-40)",
+      "brand": "UNIPOWER",
+      "brandCode": "777",
+      "supplier": "POWERSAFE IMPORTACAO, EXPORTACAO LTDA.",
+      "supplierCode": "3649",
+      "manufacturerCode": "P1200400A1A78S",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-getpower-12v-40ah-gp-1240-10514",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--777--unipower"
+  }
+}

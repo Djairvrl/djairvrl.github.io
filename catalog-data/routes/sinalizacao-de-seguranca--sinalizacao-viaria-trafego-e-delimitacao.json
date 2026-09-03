@@ -1,0 +1,22 @@
+{
+  "title": "Sinalização Viária, Tráfego e Delimitação",
+  "parentLabel": "Sinalização de Segurança",
+  "description": "Soluções de sinalização viária, tráfego e delimitação disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança",
+      "to": "/sinalizacao-de-seguranca"
+    },
+    {
+      "label": "Sinalização Viária, Tráfego e Delimitação"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "sinalizacao-de-seguranca--sinalizacao-viaria-trafego-e-delimitacao"
+  }
+}

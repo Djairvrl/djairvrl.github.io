@@ -1,0 +1,53 @@
+{
+  "title": "ELG",
+  "parentLabel": "Marca",
+  "description": "Produtos ELG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ELG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13059",
+      "title": "SUPORTE ART F80N MONITOR 17-35 PTO ELG",
+      "brand": "ELG",
+      "brandCode": "896",
+      "supplier": "DOG ELETRO LTDA",
+      "supplierCode": "6065",
+      "manufacturerCode": "ELGF80N",
+      "category": "ERGONOMIA",
+      "categorySlug": "ergonomia",
+      "path": "/suporte-art-f80n-monitor-1735-pto-elg-13059",
+      "image": "/products/images/0130/13059.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11152",
+      "title": "SUPORTE TRI ARTICULADO TV 26 A 55 FULL",
+      "brand": "ELG",
+      "brandCode": "896",
+      "supplier": "COMPUTER BRASIL BARRA LTDA",
+      "supplierCode": "4619",
+      "manufacturerCode": "FULL 40 PRO",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/suporte-tri-articulado-tv-26-a-55-full-11152",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--896--elg"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "MANGOTE",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria mangote em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "MANGOTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3340",
+      "title": "MANGA DE RASPA 62X24CM COM VELCRO CA27113 - VALCAN 7MN801",
+      "brand": "VALCAN",
+      "brandCode": "122",
+      "supplier": "VALCAN EPI LTDA",
+      "supplierCode": "325",
+      "manufacturerCode": "7MN801",
+      "category": "MANGOTE",
+      "categorySlug": "mangote",
+      "path": "/manga-de-raspa-62x24cm-com-velcro-ca27113--valcan-7mn801-3340",
+      "image": "/products/images/0033/3340.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1052",
+      "title": "MANGOTE DE RASPA SOLDADOR  COM ELÁSTICOS 40CM  CA16073 -  ZANEL",
+      "brand": "ZANEL",
+      "brandCode": "62",
+      "supplier": "ZANEL INDUSTRIAL EIRELI",
+      "supplierCode": "124",
+      "manufacturerCode": "1357",
+      "category": "MANGOTE",
+      "categorySlug": "mangote",
+      "path": "/mangote-de-raspa-soldador-com-elasticos-40cm-ca16073--zanel-1052",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1051",
+      "title": "MANGOTE DE SEGURANÇA EM RASPA COM VELCRO - MPS LUVAS",
+      "brand": "MPS LUVAS",
+      "brandCode": "10",
+      "supplier": "MPS INDUSTRIA E COMERCIO DE LUVAS E EPIS",
+      "supplierCode": "65",
+      "manufacturerCode": "65",
+      "category": "MANGOTE",
+      "categorySlug": "mangote",
+      "path": "/mangote-de-seguranca-em-raspa-com-velcro--mps-luvas-1051",
+      "image": "/products/images/0010/1051.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--mangote"
+  }
+}

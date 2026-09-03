@@ -1,0 +1,36 @@
+{
+  "title": "INPLARN",
+  "parentLabel": "Marca",
+  "description": "Produtos INPLARN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INPLARN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12407",
+      "title": "SACO LIXO 200L 06P SUPER REFOR PRET C/50",
+      "brand": "INPLARN",
+      "brandCode": "1076",
+      "supplier": "REBECA V GURGEL LTDA",
+      "supplierCode": "4942",
+      "manufacturerCode": "29",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-lixo-200l-06p-super-refor-pret-c50-12407",
+      "image": "/products/images/0124/12407.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1076--inplarn"
+  }
+}

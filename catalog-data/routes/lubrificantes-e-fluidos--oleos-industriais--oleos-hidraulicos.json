@@ -1,0 +1,129 @@
+{
+  "title": "ÓLEOS HIDRÁULICOS",
+  "parentLabel": "Óleos Industriais",
+  "description": "Produtos da categoria óleos hidráulicos em óleos industriais.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos",
+      "to": "/lubrificantes-e-fluidos"
+    },
+    {
+      "label": "Óleos Industriais",
+      "to": "/lubrificantes-e-fluidos/oleos-industriais"
+    },
+    {
+      "label": "ÓLEOS HIDRÁULICOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12760",
+      "title": "LUBRAX AV 70 IN - TB 200 L N",
+      "brand": "LUBRAX",
+      "brandCode": "1131",
+      "supplier": "NOVUM DISTRIBUIDORA DE PECAS INDUSTRIAIS E AUTOMOTIVAS LTDA",
+      "supplierCode": "5916",
+      "manufacturerCode": "22957",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/lubrax-av-70-in--tb-200-l-n-12760",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "7576",
+      "title": "OLEO HIDRAULICO NUTO H68 200L",
+      "brand": "MOBIL",
+      "brandCode": "343",
+      "supplier": "RAIR COSTA DE SENA",
+      "supplierCode": "1707",
+      "manufacturerCode": "110277",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/oleo-hidraulico-nuto-h68-200l-7576",
+      "image": "/products/images/0075/7576.jpg",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "11616",
+      "title": "OLEO HIDRAULICO TELLUS S2 V 32 BD 20L",
+      "brand": "SHELL",
+      "brandCode": "930",
+      "supplier": "BLUEWAY TRADING IMPORTACAO E EXPORTACAO S.A.",
+      "supplierCode": "4921",
+      "manufacturerCode": "43705855",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/oleo-hidraulico-tellus-s2-v-32-bd-20l-11616",
+      "image": "/products/images/0116/11616.png",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "11390",
+      "title": "OLEO HIDRAULICO TELLUS S2 V 32 TB 209L",
+      "brand": "SHELL",
+      "brandCode": "930",
+      "supplier": "BLUEWAY TRADING IMPORTACAO E EXPORTACAO S.A.",
+      "supplierCode": "4921",
+      "manufacturerCode": "43705809",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/oleo-hidraulico-tellus-s2-v-32-tb-209l-11390",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "12486",
+      "title": "OLEO HIDRAULICO TELLUS S2 V 32 TB 209L",
+      "brand": "SHELL",
+      "brandCode": "930",
+      "supplier": "BLUEWAY TRADING IMPORTACAO E EXPORTACAO S.A.",
+      "supplierCode": "4921",
+      "manufacturerCode": "43705809-EXTER",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/oleo-hidraulico-tellus-s2-v-32-tb-209l-12486",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "11865",
+      "title": "OLEO RANDO HD 46 1/20L",
+      "brand": "TEXACO",
+      "brandCode": "997",
+      "supplier": "LUBNORD COMERCIO DE LUBRIFICANTES DO NORDESTE LTDA",
+      "supplierCode": "5344",
+      "manufacturerCode": "1129",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/oleo-rando-hd-46-120l-11865",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "lubrificantes-e-fluidos--oleos-industriais--oleos-hidraulicos"
+  }
+}

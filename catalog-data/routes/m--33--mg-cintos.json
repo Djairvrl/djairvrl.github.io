@@ -1,0 +1,36 @@
+{
+  "title": "MG CINTOS",
+  "parentLabel": "Marca",
+  "description": "Produtos MG CINTOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MG CINTOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1466",
+      "title": "CINTURÃO PARAQUEDISTA MULT 2013 CA35509 - MG CINTO",
+      "brand": "MG CINTOS",
+      "brandCode": "33",
+      "supplier": "MULT INDUSTRIA DE MATERIAIS DE SEG LTDA",
+      "supplierCode": "482",
+      "manufacturerCode": "MULT2013",
+      "category": "CINTOS",
+      "categorySlug": "cintos",
+      "path": "/cinturao-paraquedista-mult-2013-ca35509--mg-cinto-1466",
+      "image": "/products/images/0014/1466.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--33--mg-cintos"
+  }
+}

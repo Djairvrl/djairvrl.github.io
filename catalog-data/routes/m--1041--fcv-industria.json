@@ -1,0 +1,104 @@
+{
+  "title": "FCV INDUSTRIA",
+  "parentLabel": "Marca",
+  "description": "Produtos FCV INDUSTRIA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FCV INDUSTRIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12148",
+      "title": "EXTINTOR CARRETA ESPUMA MEC. 50 LTS 6AB",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "88321",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-carreta-espuma-mec-50-lts-6ab-12148",
+      "image": "/products/images/0121/12148.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12149",
+      "title": "EXTINTOR CARRETA PQS 50 KG 80 BC",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "492",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-carreta-pqs-50-kg-80-bc-12149",
+      "image": "/products/images/0121/12149.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12150",
+      "title": "EXTINTOR PQS ABC 12,0 KG-",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "549",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-pqs-abc-120-kg-12150",
+      "image": "/products/images/0121/12150.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12151",
+      "title": "EXTINTOR PQS ABC 6,0 KG",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "13",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-pqs-abc-60-kg-12151",
+      "image": "/products/images/0121/12151.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12159",
+      "title": "SETA INDIC. SAÍDA DIREITA FOTOLUMINES 15",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "4619",
+      "category": "SINALIZAÇÃO ROTA DE FUGA",
+      "categorySlug": "sinalizacao-rota-de-fuga",
+      "path": "/seta-indic-saida-direita-fotolumines-15-12159",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--1041--fcv-industria"
+  }
+}

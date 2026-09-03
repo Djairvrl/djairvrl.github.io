@@ -1,0 +1,104 @@
+{
+  "title": "LENOVO",
+  "parentLabel": "Marca",
+  "description": "Produtos LENOVO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LENOVO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10162",
+      "title": "HD SAS LENOVO 146GB 15K",
+      "brand": "LENOVO",
+      "brandCode": "393",
+      "supplier": "MICROFACIL INFORMATICA LTDA",
+      "supplierCode": "165",
+      "manufacturerCode": "32313",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/hd-sas-lenovo-146gb-15k-10162",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12961",
+      "title": "LENOVO B210 URBANO - 20 L - PRETO",
+      "brand": "LENOVO",
+      "brandCode": "393",
+      "supplier": "EBAZAR.COM.BR. LTDA",
+      "supplierCode": "2049",
+      "manufacturerCode": "559706",
+      "category": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+      "categorySlug": "acessorios-para-transporte-e-protecao",
+      "path": "/lenovo-b210-urbano--20-l--preto-12961",
+      "image": "/products/images/0129/12961.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13177",
+      "title": "MONITOR E27-40 27 FHD IPS 100HZ PIVOT",
+      "brand": "LENOVO",
+      "brandCode": "393",
+      "supplier": "MAZER DISTRIBUIDORA LTDA",
+      "supplierCode": "6147",
+      "manufacturerCode": "080344",
+      "category": "MONITORES",
+      "categorySlug": "monitores",
+      "path": "/monitor-e2740-27-fhd-ips-100hz-pivot-13177",
+      "image": "/products/images/0131/13177.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12182",
+      "title": "NOTEBOOK YOGA SLIM 7 14IMH9/WINDOWS 11 H",
+      "brand": "LENOVO",
+      "brandCode": "393",
+      "supplier": "LENOVO TECNOLOGIA (BRASIL) LIMITADA",
+      "supplierCode": "1800",
+      "manufacturerCode": "83GM0003BR",
+      "category": "NOTEBOOKS",
+      "categorySlug": "notebooks",
+      "path": "/notebook-yoga-slim-7-14imh9windows-11-h-12182",
+      "image": "/products/images/0121/12182.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11231",
+      "title": "STAND 2 EM 1 PARA LAPTOP",
+      "brand": "LENOVO",
+      "brandCode": "393",
+      "supplier": "LENOVO TECNOLOGIA (BRASIL) LIMITADA",
+      "supplierCode": "1800",
+      "manufacturerCode": "GXF0X02619",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/stand-2-em-1-para-laptop-11231",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--393--lenovo"
+  }
+}

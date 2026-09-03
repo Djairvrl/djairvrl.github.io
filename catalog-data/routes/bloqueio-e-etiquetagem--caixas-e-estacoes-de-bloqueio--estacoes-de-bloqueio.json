@@ -1,0 +1,95 @@
+{
+  "title": "ESTAÇÕES DE BLOQUEIO",
+  "parentLabel": "Caixas E Estações De Bloqueio",
+  "description": "Produtos da categoria estações de bloqueio em caixas e estações de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Caixas E Estações De Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "label": "ESTAÇÕES DE BLOQUEIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9392",
+      "title": "ESTAC BLOQ VERM TAMPA VIDRO EXG 40 GANCH",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "EBAAEXG",
+      "category": "ESTAÇÕES DE BLOQUEIO",
+      "categorySlug": "estacoes-de-bloqueio",
+      "path": "/estac-bloq-verm-tampa-vidro-exg-40-ganch-9392",
+      "image": "/products/images/0093/9392.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "9391",
+      "title": "ESTACAO BLOQ VERM TAMPA VIDRO G 30 GANCH",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CD000408",
+      "category": "ESTAÇÕES DE BLOQUEIO",
+      "categorySlug": "estacoes-de-bloqueio",
+      "path": "/estacao-bloq-verm-tampa-vidro-g-30-ganch-9391",
+      "image": "/products/images/0093/9391.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "4226",
+      "title": "ESTAÇÃO DE BLOQUEIO 700X560X160MM PORTA EM AÇO CARBONO 50 POSIÇÕES - FARIA 2005",
+      "brand": "FARIA",
+      "brandCode": "216",
+      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
+      "supplierCode": "869",
+      "manufacturerCode": "2005",
+      "category": "ESTAÇÕES DE BLOQUEIO",
+      "categorySlug": "estacoes-de-bloqueio",
+      "path": "/estacao-de-bloqueio-700x560x160mm-porta-em-aco-carbono-50-posicoes--faria-2005-4226",
+      "image": "/products/images/0042/4226.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "13381",
+      "title": "ESTAÇÃO DE BLOQUEIO COM 30 GANCHOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "W H B DO BRASIL LTDA",
+      "supplierCode": "6267",
+      "manufacturerCode": "CS2010",
+      "category": "ESTAÇÕES DE BLOQUEIO",
+      "categorySlug": "estacoes-de-bloqueio",
+      "path": "/estacao-de-bloqueio-com-30-ganchos-13381",
+      "image": "/products/images/0133/13381.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "bloqueio-e-etiquetagem--caixas-e-estacoes-de-bloqueio--estacoes-de-bloqueio"
+  }
+}

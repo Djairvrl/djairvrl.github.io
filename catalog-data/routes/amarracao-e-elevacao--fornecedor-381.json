@@ -1,0 +1,202 @@
+{
+  "title": "Amarração e Elevação",
+  "parentLabel": "Departamento",
+  "description": "Produtos de DVT COMERCIO IMPORTACAO E EXPORTACAO LTD neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação"
+    }
+  ],
+  "children": [
+    {
+      "name": "Elevação de Carga",
+      "slug": "elevacao-de-carga",
+      "path": "/amarracao-e-elevacao/elevacao-de-carga",
+      "count": 221,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/acessorios",
+          "count": 2
+        },
+        {
+          "name": "ANILHAS",
+          "slug": "anilhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/anilhas",
+          "count": 3
+        },
+        {
+          "name": "BOLSAS DE IÇAMENTO",
+          "slug": "bolsas-de-icamento",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/bolsas-de-icamento",
+          "count": 7
+        },
+        {
+          "name": "CABO",
+          "slug": "cabo",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cabo",
+          "count": 5
+        },
+        {
+          "name": "CINTA",
+          "slug": "cinta",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta",
+          "count": 81
+        },
+        {
+          "name": "CINTA PARA ANEL",
+          "slug": "cinta-para-anel",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta-para-anel",
+          "count": 1
+        },
+        {
+          "name": "CORDA",
+          "slug": "corda",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/corda",
+          "count": 1
+        },
+        {
+          "name": "FITA",
+          "slug": "fita",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/fita",
+          "count": 2
+        },
+        {
+          "name": "GANCHO",
+          "slug": "gancho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/gancho",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO E CUPILHA",
+          "slug": "grampo-e-cupilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/grampo-e-cupilha",
+          "count": 5
+        },
+        {
+          "name": "GUINCHO",
+          "slug": "guincho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guincho",
+          "count": 11
+        },
+        {
+          "name": "GUINDASTE",
+          "slug": "guindaste",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guindaste",
+          "count": 2
+        },
+        {
+          "name": "LINGAS",
+          "slug": "lingas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/lingas",
+          "count": 6
+        },
+        {
+          "name": "MANILHA",
+          "slug": "manilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/manilha",
+          "count": 27
+        },
+        {
+          "name": "MOITÃO",
+          "slug": "moitao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/moitao",
+          "count": 6
+        },
+        {
+          "name": "MOSQUETÃO",
+          "slug": "mosquetao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/mosquetao",
+          "count": 1
+        },
+        {
+          "name": "OLHAIS",
+          "slug": "olhais",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/olhais",
+          "count": 21
+        },
+        {
+          "name": "PEGA",
+          "slug": "pega",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/pega",
+          "count": 3
+        },
+        {
+          "name": "SELADOR",
+          "slug": "selador",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/selador",
+          "count": 3
+        },
+        {
+          "name": "TALHAS",
+          "slug": "talhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/talhas",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "name": "Amarração de Carga",
+      "slug": "amarracao-de-carga",
+      "path": "/amarracao-e-elevacao/amarracao-de-carga",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Amarração",
+      "slug": "amarracao",
+      "path": "/amarracao-e-elevacao/amarracao",
+      "count": 46,
+      "categories": [
+        {
+          "name": "CINTAS DE AMARRAÇÃO",
+          "slug": "cintas-de-amarracao",
+          "path": "/amarracao-e-elevacao/amarracao/cintas-de-amarracao",
+          "count": 14
+        },
+        {
+          "name": "CORDAS",
+          "slug": "cordas",
+          "path": "/amarracao-e-elevacao/amarracao/cordas",
+          "count": 27
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/amarracao-e-elevacao/amarracao/fitas",
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "381",
+    "name": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD"
+  },
+  "products": [
+    {
+      "code": "11045",
+      "title": "MOSQUETAO OVAL",
+      "brand": "VICSA",
+      "brandCode": "4",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "VIC24300 00 00",
+      "category": "MOSQUETÃO",
+      "categorySlug": "mosquetao",
+      "path": "/mosquetao-oval-11045",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "amarracao-e-elevacao--fornecedor-381"
+  }
+}

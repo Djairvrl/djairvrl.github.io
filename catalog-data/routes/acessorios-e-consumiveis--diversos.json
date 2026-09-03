@@ -1,0 +1,40 @@
+{
+  "title": "Diversos",
+  "parentLabel": "Acessórios e Consumíveis",
+  "description": "Soluções de diversos disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Diversos"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12677",
+      "title": "NON WOVEN PET - T.PE M2",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TRISOFT TEXTIL LTDA",
+      "supplierCode": "5867",
+      "manufacturerCode": "NWPETTPEM29410",
+      "category": null,
+      "categorySlug": null,
+      "path": "/non-woven-pet--tpe-m2-12677",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--diversos"
+  }
+}

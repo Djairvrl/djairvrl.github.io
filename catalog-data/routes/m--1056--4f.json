@@ -1,0 +1,36 @@
+{
+  "title": "4F",
+  "parentLabel": "Marca",
+  "description": "Produtos 4F disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "4F"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12274",
+      "title": "POCHETE CARTUCHEIRA",
+      "brand": "4F",
+      "brandCode": "1056",
+      "supplier": "FELIPE GARCIA VAZ CORREA DE SOUZA",
+      "supplierCode": "5606",
+      "manufacturerCode": "MLB5686903540 _190602089",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/pochete-cartucheira-12274",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1056--4f"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "KIT CIPA",
+  "parentLabel": "Resgate e Salvamento",
+  "description": "Produtos da categoria kit cipa em resgate e salvamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Resgate e Salvamento",
+      "to": "/epis-e-epcs/resgate-e-salvamento"
+    },
+    {
+      "label": "KIT CIPA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2670",
+      "title": "CAPA PARA KIT CIPA - VERDE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS034",
+      "category": "KIT CIPA",
+      "categorySlug": "kit-cipa",
+      "path": "/capa-para-kit-cipa--verde-2670",
+      "image": "/products/images/0026/2670.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "8412",
+      "title": "KIT CIPA - PRIMEIROS SOCORROS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "8412",
+      "category": "KIT CIPA",
+      "categorySlug": "kit-cipa",
+      "path": "/kit-cipa--primeiros-socorros-8412",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7187",
+      "title": "KIT PRIMEIROS SOCORROS CIPA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "7187",
+      "category": "KIT CIPA",
+      "categorySlug": "kit-cipa",
+      "path": "/kit-primeiros-socorros-cipa-7187",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--resgate-e-salvamento--kit-cipa"
+  }
+}

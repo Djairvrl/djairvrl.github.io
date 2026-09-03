@@ -1,0 +1,61 @@
+{
+  "title": "COSSINETE",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria cossinete em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "COSSINETE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7139",
+      "title": "COSSINETE HSS ISO 2568 M6",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "F100M6",
+      "category": "COSSINETE",
+      "categorySlug": "cossinete",
+      "path": "/cossinete-hss-iso-2568-m6-7139",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7138",
+      "title": "COSSINETE M4 ISO 2568 HSS - 6G 1.75XP",
+      "brand": "DORMER",
+      "brandCode": "92",
+      "supplier": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "supplierCode": "208",
+      "manufacturerCode": "F100M4",
+      "category": "COSSINETE",
+      "categorySlug": "cossinete",
+      "path": "/cossinete-m4-iso-2568-hss--6g-175xp-7138",
+      "image": "/products/images/0071/7138.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--cossinete"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "IGAPÓ",
+  "parentLabel": "Marca",
+  "description": "Produtos IGAPÓ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IGAPÓ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "901",
+      "title": "CAIXA DE MADEIRA 50X30X16CM PARA TRANSPORTE DE RÉPTEIS - IGAPÓ REF 766",
+      "brand": "IGAPÓ",
+      "brandCode": "64",
+      "supplier": "PAULO SERGIO GARRUBO ARTESANATO ME",
+      "supplierCode": "161",
+      "manufacturerCode": "766",
+      "category": "KIT ANIMAIS PEÇONHENTOS",
+      "categorySlug": "kit-animais-peconhentos",
+      "path": "/caixa-de-madeira-50x30x16cm-para-transporte-de-repteis--igapo-ref-766-901",
+      "image": "/products/images/0009/901.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Acessórios",
+      "sectionSlug": "acessorios"
+    },
+    {
+      "code": "1072",
+      "title": "GANCHOS PARA SERPENTES EM ALUMÍNIO PONTA TIPO \"U\" - IGAPÓ",
+      "brand": "IGAPÓ",
+      "brandCode": "64",
+      "supplier": "PAULO SERGIO GARRUBO ARTESANATO ME",
+      "supplierCode": "161",
+      "manufacturerCode": "102",
+      "category": "KIT ANIMAIS PEÇONHENTOS",
+      "categorySlug": "kit-animais-peconhentos",
+      "path": "/ganchos-para-serpentes-em-aluminio-ponta-tipo-u--igapo-1072",
+      "image": "/products/images/0010/1072.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Acessórios",
+      "sectionSlug": "acessorios"
+    },
+    {
+      "code": "9007",
+      "title": "KIT CX ACRIL P/TRANSP ANIMAIS PECONHENTO",
+      "brand": "IGAPÓ",
+      "brandCode": "64",
+      "supplier": "PAULO SERGIO GARRUBO ARTESANATO ME",
+      "supplierCode": "161",
+      "manufacturerCode": "9007",
+      "category": "KIT ANIMAIS PEÇONHENTOS",
+      "categorySlug": "kit-animais-peconhentos",
+      "path": "/kit-cx-acril-ptransp-animais-peconhento-9007",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Acessórios",
+      "sectionSlug": "acessorios"
+    },
+    {
+      "code": "1035",
+      "title": "PINÇÃO PARA RÉPTIL E SERPENTE 130CM - IGAPÓ",
+      "brand": "IGAPÓ",
+      "brandCode": "64",
+      "supplier": "PAULO SERGIO GARRUBO ARTESANATO ME",
+      "supplierCode": "161",
+      "manufacturerCode": "0000000101",
+      "category": "KIT ANIMAIS PEÇONHENTOS",
+      "categorySlug": "kit-animais-peconhentos",
+      "path": "/pincao-para-reptil-e-serpente-130cm--igapo-1035",
+      "image": "/products/images/0010/1035.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Acessórios",
+      "sectionSlug": "acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--64--igapo"
+  }
+}

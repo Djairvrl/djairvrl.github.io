@@ -1,0 +1,87 @@
+{
+  "title": "PG",
+  "parentLabel": "Marca",
+  "description": "Produtos PG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9016",
+      "title": "CARRO TROLE ELET 2T 380V 60HZ",
+      "brand": "PG",
+      "brandCode": "641",
+      "supplier": "PG ELEVACAO DE CARGAS INDUSTRIAIS LTDA.",
+      "supplierCode": "2279",
+      "manufacturerCode": "02EL200060KO",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/carro-trole-elet-2t-380v-60hz-9016",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "9015",
+      "title": "GUINDASTE DE LANCA GIRAT 1,5T 4MTS",
+      "brand": "PG",
+      "brandCode": "641",
+      "supplier": "PG ELEVACAO DE CARGAS INDUSTRIAIS LTDA.",
+      "supplierCode": "2279",
+      "manufacturerCode": "12PG1503K3K21",
+      "category": "GUINDASTE",
+      "categorySlug": "guindaste",
+      "path": "/guindaste-de-lanca-girat-15t-4mts-9015",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "8947",
+      "title": "GUINDASTE DE LANCA GIRAT 1500KGS ELEV 4M",
+      "brand": "PG",
+      "brandCode": "641",
+      "supplier": "PG ELEVACAO DE CARGAS INDUSTRIAIS LTDA.",
+      "supplierCode": "2279",
+      "manufacturerCode": "8947",
+      "category": "GUINDASTE",
+      "categorySlug": "guindaste",
+      "path": "/guindaste-de-lanca-girat-1500kgs-elev-4m-8947",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "8948",
+      "title": "TALHA ELETRICA DE CORRENTE - 2 TON 380V",
+      "brand": "PG",
+      "brandCode": "641",
+      "supplier": "PG ELEVACAO DE CARGAS INDUSTRIAIS LTDA.",
+      "supplierCode": "2279",
+      "manufacturerCode": "05WB1200061WB",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-eletrica-de-corrente--2-ton-380v-8948",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--641--pg"
+  }
+}

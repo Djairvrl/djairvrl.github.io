@@ -1,0 +1,87 @@
+{
+  "title": "Proteção Da Face",
+  "parentLabel": "EPIs e EPCs",
+  "description": "Soluções de proteção da face disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Da Face"
+    }
+  ],
+  "children": [
+    {
+      "name": "OCULOS DE PROTEÇÃO",
+      "slug": "oculos-de-protecao",
+      "path": "/epis-e-epcs/protecao-da-face/oculos-de-protecao",
+      "count": 1
+    },
+    {
+      "name": "PROTETOR FACIAL",
+      "slug": "protetor-facial",
+      "path": "/epis-e-epcs/protecao-da-face/protetor-facial",
+      "count": 2
+    }
+  ],
+  "products": [
+    {
+      "code": "10669",
+      "title": "OCULOS KRONOS LENTE CINZA CA 49319",
+      "brand": "KALIPSO",
+      "brandCode": "11",
+      "supplier": "KALIPSO EQUIPAMENTOS INDIVIDUAIS DE PROTECAO LTDA",
+      "supplierCode": "1728",
+      "manufacturerCode": "01.26.2.2",
+      "category": "OCULOS DE PROTEÇÃO",
+      "categorySlug": "oculos-de-protecao",
+      "path": "/oculos-kronos-lente-cinza-ca-49319-10669",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Face",
+      "sectionSlug": "protecao-da-face"
+    },
+    {
+      "code": "13327",
+      "title": "PROTETOR FACIAL POLYMER INCOLOR CA 51387",
+      "brand": "POLYMER",
+      "brandCode": "1225",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "8960",
+      "category": "PROTETOR FACIAL",
+      "categorySlug": "protetor-facial",
+      "path": "/protetor-facial-polymer-incolor-ca-51387-13327",
+      "image": "/products/images/0133/13327.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Face",
+      "sectionSlug": "protecao-da-face"
+    },
+    {
+      "code": "13169",
+      "title": "PROTETOR FACIAL V-GARD 240 FOG CA34386 X",
+      "brand": "MSA",
+      "brandCode": "9",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "311831",
+      "category": "PROTETOR FACIAL",
+      "categorySlug": "protetor-facial",
+      "path": "/protetor-facial-vgard-240-fog-ca34386-x-13169",
+      "image": "/products/images/0131/13169.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Face",
+      "sectionSlug": "protecao-da-face"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--protecao-da-face"
+  }
+}

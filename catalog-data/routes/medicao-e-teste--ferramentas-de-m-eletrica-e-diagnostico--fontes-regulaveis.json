@@ -1,0 +1,95 @@
+{
+  "title": "FONTES REGULÁVEIS",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria fontes reguláveis em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "FONTES REGULÁVEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9618",
+      "title": "FONTE ALIMENTACAO 5A 250V MINIPA REF MPS-3005B",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MPS-3005B",
+      "category": "FONTES REGULÁVEIS",
+      "categorySlug": "fontes-regulaveis",
+      "path": "/fonte-alimentacao-5a-250v-minipa-ref-mps3005b-9618",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "5790",
+      "title": "FONTE ALIMENTACAO DUPLA DC REGULA 30V/5A",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MPC-3005",
+      "category": "FONTES REGULÁVEIS",
+      "categorySlug": "fontes-regulaveis",
+      "path": "/fonte-alimentacao-dupla-dc-regula-30v5a-5790",
+      "image": "/products/images/0057/5790.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11378",
+      "title": "FONTE DE ALIM AFR FA3005-P 30V 5A",
+      "brand": "AFR",
+      "brandCode": "653",
+      "supplier": "SIMITRON COMERCIAL LTDA",
+      "supplierCode": "4875",
+      "manufacturerCode": "1794",
+      "category": "FONTES REGULÁVEIS",
+      "categorySlug": "fontes-regulaveis",
+      "path": "/fonte-de-alim-afr-fa3005p-30v-5a-11378",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9999",
+      "title": "FONTE DE ALIMENTACAO DUPLA HF-3203D",
+      "brand": "HIKARI",
+      "brandCode": "505",
+      "supplier": "MRE FERRAMENTAS COMERCIAL LTDA",
+      "supplierCode": "2878",
+      "manufacturerCode": "21N210",
+      "category": "FONTES REGULÁVEIS",
+      "categorySlug": "fontes-regulaveis",
+      "path": "/fonte-de-alimentacao-dupla-hf3203d-9999",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--fontes-regulaveis"
+  }
+}

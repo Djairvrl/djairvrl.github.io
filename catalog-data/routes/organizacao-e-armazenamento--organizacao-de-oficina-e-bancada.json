@@ -1,0 +1,22 @@
+{
+  "title": "Organização de Oficina e Bancada",
+  "parentLabel": "Organização e Armazenamento",
+  "description": "Soluções de organização de oficina e bancada disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Organização de Oficina e Bancada"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "organizacao-e-armazenamento--organizacao-de-oficina-e-bancada"
+  }
+}

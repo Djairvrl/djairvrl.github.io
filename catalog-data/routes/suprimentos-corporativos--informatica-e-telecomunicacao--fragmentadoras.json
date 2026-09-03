@@ -1,0 +1,44 @@
+{
+  "title": "FRAGMENTADORAS",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria fragmentadoras em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "FRAGMENTADORAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10803",
+      "title": "FRAGMENTADORA PAPEL/CARTAO 6FL 10L 220V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "GRUPO MULTI S.A",
+      "supplierCode": "1171",
+      "manufacturerCode": "OF010",
+      "category": "FRAGMENTADORAS",
+      "categorySlug": "fragmentadoras",
+      "path": "/fragmentadora-papelcartao-6fl-10l-220v-10803",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--fragmentadoras"
+  }
+}

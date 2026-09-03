@@ -1,0 +1,163 @@
+{
+  "title": "PINO",
+  "parentLabel": "Parafusos e Fixadores",
+  "description": "Produtos da categoria pino em parafusos e fixadores.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Parafusos e Fixadores",
+      "to": "/acessorios-e-consumiveis/parafusos-e-fixadores"
+    },
+    {
+      "label": "PINO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3017",
+      "title": "PINO DE SEG. IMP 1\" E 1/1.2 K21-5X45",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023057",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seg-imp-1-e-112-k215x45-3017",
+      "image": "/products/images/0030/3017.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "3018",
+      "title": "PINO DE SEG. IMP 1\" E 1/1.2 K21-6X75",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023068",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seg-imp-1-e-112-k216x75-3018",
+      "image": "/products/images/0030/3018.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "3019",
+      "title": "PINO DE SEG. IMP 1/2\" E 3/4\"  K19-3X20",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023051",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seg-imp-12-e-34-k193x20-3019",
+      "image": "/products/images/0030/3019.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "3020",
+      "title": "PINO DE SEG. IMP 1/2\" E 3/4\"  K19-3X25",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023052",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seg-imp-12-e-34-k193x25-3020",
+      "image": "/products/images/0030/3020.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "3021",
+      "title": "PINO DE SEG. IMP 1/2\" E 3/4\"  K19-3X30",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023053",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seg-imp-12-e-34-k193x30-3021",
+      "image": "/products/images/0030/3021.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "3022",
+      "title": "PINO DE SEG. IMP 1/2\" E 3/4\"  K19-3X34",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023054",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seg-imp-12-e-34-k193x34-3022",
+      "image": "/products/images/0030/3022.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "3023",
+      "title": "PINO DE SEG. IMP 1/2\" E 3/4\"  K19-4X45",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023056",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seg-imp-12-e-34-k194x45-3023",
+      "image": "/products/images/0030/3023.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "5826",
+      "title": "PINO DE SEGURANCA P/ SOQ IMPACT K32-4X35",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023055",
+      "category": "PINO",
+      "categorySlug": "pino",
+      "path": "/pino-de-seguranca-p-soq-impact-k324x35-5826",
+      "image": "/products/images/0058/5826.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "acessorios-e-consumiveis--parafusos-e-fixadores--pino"
+  }
+}

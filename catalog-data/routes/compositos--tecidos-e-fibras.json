@@ -1,0 +1,47 @@
+{
+  "title": "Tecidos E Fibras",
+  "parentLabel": "Compósitos",
+  "description": "Soluções de tecidos e fibras disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos",
+      "to": "/compositos"
+    },
+    {
+      "label": "Tecidos E Fibras"
+    }
+  ],
+  "children": [
+    {
+      "name": "FITAS PARA LAMINAÇÃO TÉCNICA",
+      "slug": "fitas-para-laminacao-tecnica",
+      "path": "/compositos/tecidos-e-fibras/fitas-para-laminacao-tecnica",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "code": "8041",
+      "title": "FITA DE FIBRA DE VIDRO 1''",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ESSENTRA INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "1916",
+      "manufacturerCode": "MTGC0100A",
+      "category": "FITAS PARA LAMINAÇÃO TÉCNICA",
+      "categorySlug": "fitas-para-laminacao-tecnica",
+      "path": "/fita-de-fibra-de-vidro-1-8041",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Tecidos E Fibras",
+      "sectionSlug": "tecidos-e-fibras"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "compositos--tecidos-e-fibras"
+  }
+}

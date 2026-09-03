@@ -1,0 +1,36 @@
+{
+  "title": "COEL",
+  "parentLabel": "Marca",
+  "description": "Produtos COEL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11072",
+      "title": "RELE TEMPO RETAR 1/10/20S-1/10/30M - 1H",
+      "brand": "COEL",
+      "brandCode": "871",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1049079",
+      "category": "RELÉS",
+      "categorySlug": "reles",
+      "path": "/rele-tempo-retar-11020s11030m--1h-11072",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--871--coel"
+  }
+}

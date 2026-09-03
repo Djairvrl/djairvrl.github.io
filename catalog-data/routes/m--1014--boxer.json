@@ -1,0 +1,53 @@
+{
+  "title": "BOXER",
+  "parentLabel": "Marca",
+  "description": "Produtos BOXER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BOXER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12035",
+      "title": "COMBO MAQ SOLDA TIGON INV 220A DC 220V",
+      "brand": "BOXER",
+      "brandCode": "1014",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12035",
+      "category": "MAQUINA DE SOLDA",
+      "categorySlug": "maquina-de-solda",
+      "path": "/combo-maq-solda-tigon-inv-220a-dc-220v-12035",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11988",
+      "title": "MAQ SOLDA TIGON INV 220A DC 220V MONO",
+      "brand": "BOXER",
+      "brandCode": "1014",
+      "supplier": "BAZZO MAQUINAS",
+      "supplierCode": "3792",
+      "manufacturerCode": "2632",
+      "category": "MAQUINA DE SOLDA",
+      "categorySlug": "maquina-de-solda",
+      "path": "/maq-solda-tigon-inv-220a-dc-220v-mono-11988",
+      "image": "/products/images/0119/11988.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1014--boxer"
+  }
+}

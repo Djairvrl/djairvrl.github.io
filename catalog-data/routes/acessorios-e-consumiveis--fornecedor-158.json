@@ -1,0 +1,1493 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Produtos de ROBERT BOSCH LIMITADA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "158",
+    "name": "ROBERT BOSCH LIMITADA"
+  },
+  "products": [
+    {
+      "code": "7665",
+      "title": "BROCA CHATA SELF CUT SPEED 16 X 152MM - BOSCH 2608900315",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608900315000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-chata-self-cut-speed-16-x-152mm--bosch-2608900315-7665",
+      "image": "/products/images/0076/7665.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7705",
+      "title": "BROCA CHATA SELF CUT SPEED 22MM 14",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608900320000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-chata-self-cut-speed-22mm-14-7705",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7664",
+      "title": "BROCA CHATA SELF CUT SPEED 6 X 152MM - BOSCH 2608900309",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608900309000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-chata-self-cut-speed-6-x-152mm--bosch-2608900309-7664",
+      "image": "/products/images/0076/7664.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "2447",
+      "title": "BROCA CONCRETO 7 X 100 MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608590077000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-concreto-7-x-100-mm-2447",
+      "image": "/products/images/0024/2447.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "1472",
+      "title": "BROCA CYL-1 PARA CONCRETO 10X120MM - BOSCH 2608590081000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608590081000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-cyl1-para-concreto-10x120mm--bosch-2608590081000-1472",
+      "image": "/products/images/0014/1472.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3923",
+      "title": "BROCA CYL-1 PARA CONCRETO 12X150MM - BOSCH 2608590084000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608590084000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-cyl1-para-concreto-12x150mm--bosch-2608590084000-3923",
+      "image": "/products/images/0039/3923.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3438",
+      "title": "BROCA CYL-1 PARA CONCRETO 6X100MM - BOSCH 2608590074",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608590074000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-cyl1-para-concreto-6x100mm--bosch-2608590074-3438",
+      "image": "/products/images/0034/3438.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3594",
+      "title": "BROCA CYL-1 PARA CONCRETO 8X120MM - BOSCH 2608590078000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608590078000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-cyl1-para-concreto-8x120mm--bosch-2608590078000-3594",
+      "image": "/products/images/0035/3594.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5405",
+      "title": "BROCA DIAMANTADA 10MM A ÚMIDO - BOSCH 2608579408000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608579409000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-diamantada-10mm-a-umido--bosch-2608579408000-5405",
+      "image": "/products/images/0054/5405.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5416",
+      "title": "BROCA DIAMANTADA 12MM A ÚMIDO - BOSCH 2608579410000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608579410000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-diamantada-12mm-a-umido--bosch-2608579410000-5416",
+      "image": "/products/images/0054/5416.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5402",
+      "title": "BROCA DIAMANTADA 5MM A ÚMIDO - BOSCH 2608579406000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608579406000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-diamantada-5mm-a-umido--bosch-2608579406000-5402",
+      "image": "/products/images/0054/5402.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5403",
+      "title": "BROCA DIAMANTADA 6MM A ÚMIDO - BOSCH 2608579407000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608579407000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-diamantada-6mm-a-umido--bosch-2608579407000-5403",
+      "image": "/products/images/0054/5403.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5404",
+      "title": "BROCA DIAMANTADA 8MM A ÚMIDO - BOSCH 2608579408000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608579408000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-diamantada-8mm-a-umido--bosch-2608579408000-5404",
+      "image": "/products/images/0054/5404.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7666",
+      "title": "BROCA EM ESPIRAL PARA MADEIRA 3MM - BOSCH 2608596300",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608596300000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-em-espiral-para-madeira-3mm--bosch-2608596300-7666",
+      "image": "/products/images/0076/7666.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7667",
+      "title": "BROCA EM ESPIRAL PARA MADEIRA 4MM - BOSCH 2608596301",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608596301000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-em-espiral-para-madeira-4mm--bosch-2608596301-7667",
+      "image": "/products/images/0076/7667.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7668",
+      "title": "BROCA EM ESPIRAL PARA MADEIRA 5MM - BOSCH 2608596302",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608596302000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-em-espiral-para-madeira-5mm--bosch-2608596302-7668",
+      "image": "/products/images/0076/7668.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "10626",
+      "title": "BROCA HEX-9 MULTICONSTRUCTION 6X60X100",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608900574000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hex9-multiconstruction-6x60x100-10626",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8226",
+      "title": "BROCA HSS 10 X 87 X 133MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608585898000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-10-x-87-x-133mm-8226",
+      "image": "/products/images/0082/8226.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8227",
+      "title": "BROCA HSS 12 X 101 X 151MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608585903000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-12-x-101-x-151mm-8227",
+      "image": "/products/images/0082/8227.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8223",
+      "title": "BROCA HSS 4,0 X 43 X 75MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608585880000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-40-x-43-x-75mm-8223",
+      "image": "/products/images/0082/8223.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8224",
+      "title": "BROCA HSS 6,0 X 57 X 93MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608585889000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-60-x-57-x-93mm-8224",
+      "image": "/products/images/0082/8224.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8225",
+      "title": "BROCA HSS 8,0 X 75 X 117MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608585894000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-80-x-75-x-117mm-8225",
+      "image": "/products/images/0082/8225.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7690",
+      "title": "BROCA HSS POINTEQ 13.0MM 10 UND",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577298000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-130mm-10-und-7690",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "9347",
+      "title": "BROCA HSS POINTEQ 4.0MM UND",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "9347",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-40mm-und-9347",
+      "image": "/products/images/0093/9347.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "9348",
+      "title": "BROCA HSS POINTEQ 5.0MM UND",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "9348",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-50mm-und-9348",
+      "image": "/products/images/0093/9348.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7692",
+      "title": "BROCA HSS POINTEQ 6.0MM 10 UND",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577228000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-60mm-10-und-7692",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3082",
+      "title": "BROCA HSS POINTEQ 7.0MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577238000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-70mm-3082",
+      "image": "/products/images/0030/3082.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "9349",
+      "title": "BROCA HSS POINTEQ 7.0MM UND",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "9349",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-70mm-und-9349",
+      "image": "/products/images/0093/9349.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6860",
+      "title": "BROCA HSS POINTEQ 8.0MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577171000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-80mm-6860",
+      "image": "/products/images/0068/6860.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7691",
+      "title": "BROCA HSS POINTEQ 8.0MM 10 UND",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577248000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointeq-80mm-10-und-7691",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4922",
+      "title": "BROCA HSS POINTTEQ 14MM HASTE REDUZIDA - BOSCH 2608577306",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577306000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointteq-14mm-haste-reduzida--bosch-2608577306-4922",
+      "image": "/products/images/0049/4922.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4927",
+      "title": "BROCA HSS POINTTEQ 15MM HASTE REDUZIDA - BOSCH 2608577308",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577308000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointteq-15mm-haste-reduzida--bosch-2608577308-4927",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4923",
+      "title": "BROCA HSS POINTTEQ 16MM HASTE REDUZIDA - BOSCH 2608577310",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577310000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointteq-16mm-haste-reduzida--bosch-2608577310-4923",
+      "image": "/products/images/0049/4923.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4925",
+      "title": "BROCA HSS POINTTEQ 18MM HASTE REDUZIDA - BOSCH 2608577313",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577313000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-hss-pointteq-18mm-haste-reduzida--bosch-2608577313-4925",
+      "image": "/products/images/0049/4925.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5413",
+      "title": "BROCA MULTICONSTRUCTION HEX-9 MCB 10X90X150MM - BOSCH 2607002780",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2607002780000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-multiconstruction-hex9-mcb-10x90x150mm--bosch-2607002780-5413",
+      "image": "/products/images/0054/5413.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5415",
+      "title": "BROCA MULTICONSTRUCTION HEX-9 MCB 6X60X100MM - BOSCH 2607002777",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2607002777000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-multiconstruction-hex9-mcb-6x60x100mm--bosch-2607002777-5415",
+      "image": "/products/images/0054/5415.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5414",
+      "title": "BROCA MULTICONSTRUCTION HEX-9 MCB 8X50X100MM - BOSCH 2607002779",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2607002779000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-multiconstruction-hex9-mcb-8x50x100mm--bosch-2607002779-5414",
+      "image": "/products/images/0054/5414.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "2913",
+      "title": "BROCA PARA METAL AÇO RÁPIDO  HSS POINTTEQ 1/2 \" - BOSCH 2608577344000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577344000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-12--bosch-2608577344000-2913",
+      "image": "/products/images/0029/2913.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3076",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 1,0MM - BOSCH 2608577178000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577178000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-10mm--bosch-2608577178000-3076",
+      "image": "/products/images/0030/3076.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3093",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 1/4\" - BOSCH 2608577328000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577328000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-14--bosch-2608577328000-3093",
+      "image": "/products/images/0030/3093.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3089",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 1/8\" - BOSCH 2608577320000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577320000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-18--bosch-2608577320000-3089",
+      "image": "/products/images/0030/3089.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3086",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 10,5MM - BOSCH 2608577273000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577273000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-105mm--bosch-2608577273000-3086",
+      "image": "/products/images/0030/3086.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7689",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 10MM (10 PEÇAS) - BOSCH 2608577268000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577268000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-10mm-10-pecas--bosch-2608577268000-7689",
+      "image": "/products/images/0076/7689.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3085",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 10MM - BOSCH 2608577268000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577268000-1",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-10mm--bosch-2608577268000-3085",
+      "image": "/products/images/0030/3085.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3125",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 11/32\" - BOSCH 2608577334000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577334000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-1132--bosch-2608577334000-3125",
+      "image": "/products/images/0031/3125.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4924",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 11MM - BOSCH 2608577175",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577175000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-11mm--bosch-2608577175-4924",
+      "image": "/products/images/0049/4924.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3087",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 12MM - BOSCH 2608577288000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577288000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-12mm--bosch-2608577288000-3087",
+      "image": "/products/images/0030/3087.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3088",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 13MM - BOSCH 2608577298000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577298000-1",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-13mm--bosch-2608577298000-3088",
+      "image": "/products/images/0030/3088.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3128",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 15/32\" - BOSCH 2608577342000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577342000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-1532--bosch-2608577342000-3128",
+      "image": "/products/images/0031/3128.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3874",
+      "title": "BROCA PARA METAL AÇO RÁPIDO HSS POINTTEQ 17MM - BOSCH 2608577312",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608577312000",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-para-metal-aco-rapido-hss-pointteq-17mm--bosch-2608577312-3874",
+      "image": "/products/images/0038/3874.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 6,
+    "total": 299,
+    "pageBase": "acessorios-e-consumiveis--fornecedor-158"
+  }
+}

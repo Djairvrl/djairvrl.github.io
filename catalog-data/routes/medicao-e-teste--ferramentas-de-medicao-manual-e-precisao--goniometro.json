@@ -1,0 +1,44 @@
+{
+  "title": "GONIÔMETRO",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria goniômetro em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "GONIÔMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13133",
+      "title": "MEDIDOR ANGULO INCLINOMETRO DIG LASER",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CASDRO STORE COMERCIO LTDA",
+      "supplierCode": "6125",
+      "manufacturerCode": "0069",
+      "category": "GONIÔMETRO",
+      "categorySlug": "goniometro",
+      "path": "/medidor-angulo-inclinometro-dig-laser-13133",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--goniometro"
+  }
+}

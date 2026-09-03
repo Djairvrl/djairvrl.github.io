@@ -1,0 +1,36 @@
+{
+  "title": "FORT COM",
+  "parentLabel": "Marca",
+  "description": "Produtos FORT COM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FORT COM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11869",
+      "title": "PORTA PAPEL HIGIENICO EM ROLO DROPY",
+      "brand": "FORT COM",
+      "brandCode": "998",
+      "supplier": "FORTCOM HIGIENE INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5349",
+      "manufacturerCode": "4.17.03.001",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/porta-papel-higienico-em-rolo-dropy-11869",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--998--fort-com"
+  }
+}

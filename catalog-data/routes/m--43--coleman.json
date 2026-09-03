@@ -1,0 +1,36 @@
+{
+  "title": "COLEMAN",
+  "parentLabel": "Marca",
+  "description": "Produtos COLEMAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COLEMAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11310",
+      "title": "BUSSULA COM LED E CORDA DE PESCOCO",
+      "brand": "COLEMAN",
+      "brandCode": "43",
+      "supplier": "IRINEU IZUMI",
+      "supplierCode": "4746",
+      "manufacturerCode": "MLB5042112754",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/bussula-com-led-e-corda-de-pescoco-11310",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--43--coleman"
+  }
+}

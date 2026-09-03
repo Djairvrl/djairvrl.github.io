@@ -1,0 +1,36 @@
+{
+  "title": "PRESTAN",
+  "parentLabel": "Marca",
+  "description": "Produtos PRESTAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PRESTAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8995",
+      "title": "TORSO ADULTO PARA RCP COM MONITOR",
+      "brand": "PRESTAN",
+      "brandCode": "638",
+      "supplier": "PRATICA BRASIL EQUIPAMENTOS DE TREINAMENTO E SIMULACAO LTDA",
+      "supplierCode": "2343",
+      "manufacturerCode": "PP-AM-100M-MS",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/torso-adulto-para-rcp-com-monitor-8995",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--638--prestan"
+  }
+}

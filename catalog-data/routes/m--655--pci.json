@@ -1,0 +1,36 @@
+{
+  "title": "PCI",
+  "parentLabel": "Marca",
+  "description": "Produtos PCI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PCI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9193",
+      "title": "VARETA SALVA CHIP SOLDA BX FUSAO TUBETE",
+      "brand": "PCI",
+      "brandCode": "655",
+      "supplier": "TAPCAMP COMERCIO VAREJISTA DE LUBRIFICANTES LTDA",
+      "supplierCode": "1655",
+      "manufacturerCode": "SOF001",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-salva-chip-solda-bx-fusao-tubete-9193",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--655--pci"
+  }
+}

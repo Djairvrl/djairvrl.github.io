@@ -1,0 +1,36 @@
+{
+  "title": "PERSONAL",
+  "parentLabel": "Marca",
+  "description": "Produtos PERSONAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PERSONAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7523",
+      "title": "PAPEL HIG PERSONAL FS 4X30M NEUT",
+      "brand": "PERSONAL",
+      "brandCode": "496",
+      "supplier": "FAMA DISTRUBUIÇÃO E LOGISTICA LTDA",
+      "supplierCode": "784",
+      "manufacturerCode": "450063",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/papel-hig-personal-fs-4x30m-neut-7523",
+      "image": "/products/images/0075/7523.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--496--personal"
+  }
+}

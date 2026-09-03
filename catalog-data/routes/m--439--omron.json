@@ -1,0 +1,53 @@
+{
+  "title": "OMRON",
+  "parentLabel": "Marca",
+  "description": "Produtos OMRON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OMRON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7282",
+      "title": "APAREL PRESSAO ART  BRACO ELITE HEM-7130",
+      "brand": "OMRON",
+      "brandCode": "439",
+      "supplier": "ENFOQUE MEDICAL RJ COMERCIO DE PRODUTOS MED. E ODON. LTDA",
+      "supplierCode": "1563",
+      "manufacturerCode": "HEM-7130",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/aparel-pressao-art-braco-elite-hem7130-7282",
+      "image": "/products/images/0072/7282.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7281",
+      "title": "APAREL PRESSAO C/BLUETO. PULSO HEM-6232T",
+      "brand": "OMRON",
+      "brandCode": "439",
+      "supplier": "SAO GERALDO MATERIAL MEDICO E ORTOPEDICO LIMITADA",
+      "supplierCode": "1564",
+      "manufacturerCode": "17847",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/aparel-pressao-cblueto-pulso-hem6232t-7281",
+      "image": "/products/images/0072/7281.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--439--omron"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "KOC",
+  "parentLabel": "Marca",
+  "description": "Produtos KOC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KOC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7567",
+      "title": "FERRAMENT LIMP CONECT E ADAPT UNI 1,25MM",
+      "brand": "KOC",
+      "brandCode": "502",
+      "supplier": "AGC LIGHTWAVE COMERCIAL LTDA",
+      "supplierCode": "1698",
+      "manufacturerCode": "KOC-125",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/ferrament-limp-conect-e-adapt-uni-125mm-7567",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "7568",
+      "title": "FERRAMENT LIMP CONECT E ADAPT UNI 2,50MM",
+      "brand": "KOC",
+      "brandCode": "502",
+      "supplier": "AGC LIGHTWAVE COMERCIAL LTDA",
+      "supplierCode": "1698",
+      "manufacturerCode": "KOC-250",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/ferrament-limp-conect-e-adapt-uni-250mm-7568",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--502--koc"
+  }
+}

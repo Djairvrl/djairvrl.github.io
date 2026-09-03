@@ -1,0 +1,36 @@
+{
+  "title": "CASA VANDO",
+  "parentLabel": "Marca",
+  "description": "Produtos CASA VANDO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CASA VANDO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13200",
+      "title": "ABRAC ROSCA S/FIM INOX 13-19MM 3/4",
+      "brand": "CASA VANDO",
+      "brandCode": "1198",
+      "supplier": "VANDO COMERCIO E SERVICOS LTDA",
+      "supplierCode": "6164",
+      "manufacturerCode": "111458",
+      "category": "FIXADORES",
+      "categorySlug": "fixadores",
+      "path": "/abrac-rosca-sfim-inox-1319mm-34-13200",
+      "image": "/products/images/0132/13200.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1198--casa-vando"
+  }
+}

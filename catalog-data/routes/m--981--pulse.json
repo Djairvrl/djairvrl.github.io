@@ -1,0 +1,36 @@
+{
+  "title": "PULSE",
+  "parentLabel": "Marca",
+  "description": "Produtos PULSE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PULSE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11764",
+      "title": "MICROFONE S/ FIO DUPLO PULSE PRO SP801",
+      "brand": "PULSE",
+      "brandCode": "981",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "47252",
+      "category": "PERIFÉRICOS DE INFORMÁTICA",
+      "categorySlug": "perifericos-de-informatica",
+      "path": "/microfone-s-fio-duplo-pulse-pro-sp801-11764",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--981--pulse"
+  }
+}

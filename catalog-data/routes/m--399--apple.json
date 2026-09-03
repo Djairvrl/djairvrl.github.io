@@ -1,0 +1,53 @@
+{
+  "title": "APPLE",
+  "parentLabel": "Marca",
+  "description": "Produtos APPLE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "APPLE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6992",
+      "title": "IPAD 9TH WIFI 64GB SPACE GRAY MK2K3BZ/A",
+      "brand": "APPLE",
+      "brandCode": "399",
+      "supplier": "GLOBAL DISTRIBUICAO DE BENS DE CONSUMO LTDA",
+      "supplierCode": "1443",
+      "manufacturerCode": "219319",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/ipad-9th-wifi-64gb-space-gray-mk2k3bza-6992",
+      "image": "/products/images/0069/6992.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6993",
+      "title": "IPAD 9TH WIFI-CEL 64GB SPACE GRAY MK473B",
+      "brand": "APPLE",
+      "brandCode": "399",
+      "supplier": "GLOBAL DISTRIBUICAO DE BENS DE CONSUMO LTDA",
+      "supplierCode": "1443",
+      "manufacturerCode": "219325",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/ipad-9th-wificel-64gb-space-gray-mk473b-6993",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--399--apple"
+  }
+}

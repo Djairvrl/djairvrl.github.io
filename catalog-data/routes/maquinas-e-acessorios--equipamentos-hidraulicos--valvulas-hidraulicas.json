@@ -1,0 +1,95 @@
+{
+  "title": "VÁLVULAS HIDRÁULICAS",
+  "parentLabel": "Equipamentos Hidráulicos",
+  "description": "Produtos da categoria válvulas hidráulicas em equipamentos hidráulicos.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Equipamentos Hidráulicos",
+      "to": "/maquinas-e-acessorios/equipamentos-hidraulicos"
+    },
+    {
+      "label": "VÁLVULAS HIDRÁULICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7900",
+      "title": "VALVULA COMPLETA E RETORNO P MANG 1/2",
+      "brand": "WEBPLASTICO",
+      "brandCode": "353",
+      "supplier": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "1370",
+      "manufacturerCode": "VR12",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/valvula-completa-e-retorno-p-mang-12-7900",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "6792",
+      "title": "VALVULA ELETRICA 3/4\" (19MM) MOD. 21T-M",
+      "brand": "BERMAD",
+      "brandCode": "510",
+      "supplier": "INSTAAGRO SOLUCOES EM AGRONEGOCIOS LTDA",
+      "supplierCode": "1722",
+      "manufacturerCode": "590_0_0_U",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/valvula-eletrica-34-19mm-mod-21tm-6792",
+      "image": "/products/images/0067/6792.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "5759",
+      "title": "VÁLVULA DE ESFERA HIDRÁULICA BBV-2-G04-8001-M G 1/4\" DN6 500 BAR - STAUFF",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "6100075929",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/valvula-de-esfera-hidraulica-bbv2g048001m-g-14-dn6-500-bar--stauff-5759",
+      "image": "/products/images/0057/5759.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "10120",
+      "title": "VÁUVULA BBV-2-G04-8001-M  STAUFF REF 6100075929",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3404002069",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/vauvula-bbv2g048001m-stauff-ref-6100075929-10120",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "maquinas-e-acessorios--equipamentos-hidraulicos--valvulas-hidraulicas"
+  }
+}

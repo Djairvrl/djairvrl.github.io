@@ -1,0 +1,36 @@
+{
+  "title": "MASTERPRINT",
+  "parentLabel": "Marca",
+  "description": "Produtos MASTERPRINT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MASTERPRINT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12343",
+      "title": "10XFITA P/ROTULADOR BROTHER TZE-231 12MM",
+      "brand": "MASTERPRINT",
+      "brandCode": "1064",
+      "supplier": "TEC PRINT SUPRIMENTOS E ASSISTENCIA TECNICA EIRELI",
+      "supplierCode": "1286",
+      "manufacturerCode": "MLB1697983585",
+      "category": "INSUMOS",
+      "categorySlug": "insumos",
+      "path": "/10xfita-protulador-brother-tze231-12mm-12343",
+      "image": "/products/images/0123/12343.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1064--masterprint"
+  }
+}

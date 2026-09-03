@@ -1,0 +1,36 @@
+{
+  "title": "BLACK&DECKER",
+  "parentLabel": "Marca",
+  "description": "Produtos BLACK&DECKER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BLACK&DECKER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2384",
+      "title": "SOPRADOR TÉRMICO 1800W  2 ESTÁGIO DE TEMPERATURA COM MALETA E 5 ACESSÓRIOS 220V - BLACK & DECKER",
+      "brand": "BLACK&DECKER",
+      "brandCode": "40",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "HG2000K-B2",
+      "category": "SOPRADORES",
+      "categorySlug": "sopradores",
+      "path": "/soprador-termico-1800w-2-estagio-de-temperatura-com-maleta-e-5-acessorios-220v--black-decker-2384",
+      "image": "/products/images/0023/2384.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--40--black-decker"
+  }
+}

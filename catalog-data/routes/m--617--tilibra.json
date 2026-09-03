@@ -1,0 +1,36 @@
+{
+  "title": "TILIBRA",
+  "parentLabel": "Marca",
+  "description": "Produtos TILIBRA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TILIBRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8765",
+      "title": "AGENDA PERM ESP NAPOLI M5",
+      "brand": "TILIBRA",
+      "brandCode": "617",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891027141639",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/agenda-perm-esp-napoli-m5-8765",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--617--tilibra"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "BARDAHL",
+  "parentLabel": "Marca",
+  "description": "Produtos BARDAHL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BARDAHL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13273",
+      "title": "ADITIVO RADIADOR BARDAHL RAD COOL LL",
+      "brand": "BARDAHL",
+      "brandCode": "1217",
+      "supplier": "ZARYA COMERCIO E SERVICOS LTDA",
+      "supplierCode": "6202",
+      "manufacturerCode": "181547",
+      "category": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+      "categorySlug": "aditivos-para-sistemas-de-arrefecimento",
+      "path": "/aditivo-radiador-bardahl-rad-cool-ll-13273",
+      "image": "/products/images/0132/13273.webp",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1217--bardahl"
+  }
+}

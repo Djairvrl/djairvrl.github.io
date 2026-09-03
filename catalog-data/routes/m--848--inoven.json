@@ -1,0 +1,53 @@
+{
+  "title": "INOVEN",
+  "parentLabel": "Marca",
+  "description": "Produtos INOVEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INOVEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12500",
+      "title": "600 PANOS MULT AZ 240M PERFEX REUTILIZA5",
+      "brand": "INOVEN",
+      "brandCode": "848",
+      "supplier": "MAGO DISTRIBUIDORA LTDA",
+      "supplierCode": "5743",
+      "manufacturerCode": "MLB6214529528",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/600-panos-mult-az-240m-perfex-reutiliza5-12500",
+      "image": "/products/images/0125/12500.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10987",
+      "title": "PANO MULTIUSO AZUL 20X40CM 600UN",
+      "brand": "INOVEN",
+      "brandCode": "848",
+      "supplier": "BRBECOM LTDA",
+      "supplierCode": "4296",
+      "manufacturerCode": "MLB4043382709",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pano-multiuso-azul-20x40cm-600un-10987",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--848--inoven"
+  }
+}

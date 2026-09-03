@@ -1,0 +1,146 @@
+{
+  "title": "USO EM CAPACETE",
+  "parentLabel": "Lanternas de Segurança",
+  "description": "Produtos da categoria uso em capacete em lanternas de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Lanternas de Segurança",
+      "to": "/epis-e-epcs/lanternas-de-seguranca"
+    },
+    {
+      "label": "USO EM CAPACETE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12297",
+      "title": "LANTERNA DE CABECA PIXA IP68 450LUM",
+      "brand": "PETZL",
+      "brandCode": "56",
+      "supplier": "SPELAION - ARTIGOS ESPORTIVOS LTDA ME",
+      "supplierCode": "1097",
+      "manufacturerCode": "E120AA00",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-de-cabeca-pixa-ip68-450lum-12297",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "9852",
+      "title": "LANTERNA DE CABEÇA RECARREGÁVEL COM SENSOR SLP-12 LED  SOLVER REF  S21LP12",
+      "brand": "SOLVER",
+      "brandCode": "730",
+      "supplier": "SOLVER IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "2741",
+      "manufacturerCode": "S21LP12",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-de-cabeca-recarregavel-com-sensor-slp12-led-solver-ref-s21lp12-9852",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "1673",
+      "title": "LANTERNA DE LED PARA CABEÇA  RECARREGÁVEL LED COB LCV 300 - VONDER 80.75.003.300",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "8075003300",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-de-led-para-cabeca-recarregavel-led-cob-lcv-300--vonder-8075003300-1673",
+      "image": "/products/images/0016/1673.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "6699",
+      "title": "LANTERNA LED P/ CAPACETE 100LM 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DML800",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-led-p-capacete-100lm-18v-6699",
+      "image": "/products/images/0066/6699.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "1403",
+      "title": "LANTERNA PARA CABEÇA LED COB LCV 120 - VONDER 8075120000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "8075120000",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-para-cabeca-led-cob-lcv-120--vonder-8075120000-1403",
+      "image": "/products/images/0014/1403.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "4367",
+      "title": "LANTERNA PARA CABEÇA RECARREGÁVEL LED COB COM 2 ESTÁGIOS LCV 200 - VONDER 8075050200",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "8075050200",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-para-cabeca-recarregavel-led-cob-com-2-estagios-lcv-200--vonder-8075050200-4367",
+      "image": "/products/images/0043/4367.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "1400",
+      "title": "LATERNA DE CABE 3 PILHAS 1 WATT",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "CARBOGRAFITE EQUIPAMENTOS INDUSTRIAIS",
+      "supplierCode": "66",
+      "manufacturerCode": "12196412",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/laterna-de-cabe-3-pilhas-1-watt-1400",
+      "image": "/products/images/0014/1400.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--lanternas-de-seguranca--uso-em-capacete"
+  }
+}

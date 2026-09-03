@@ -1,0 +1,53 @@
+{
+  "title": "KING TOOLS",
+  "parentLabel": "Marca",
+  "description": "Produtos KING TOOLS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KING TOOLS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6128",
+      "title": "CALIBRADOR DE FOLGA COMPRIMENTO 300MM COM 17 PEÇAS 0,02 A 1,00MM - KING TOOLS 600.020",
+      "brand": "KING TOOLS",
+      "brandCode": "269",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "058059",
+      "category": "CALIBRADORES",
+      "categorySlug": "calibradores",
+      "path": "/calibrador-de-folga-comprimento-300mm-com-17-pecas-002-a-100mm--king-tools-600020-6128",
+      "image": "/products/images/0061/6128.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "13009",
+      "title": "ESCALAS DE ACO INOXIDAVEL GRADUADAS",
+      "brand": "KING TOOLS",
+      "brandCode": "269",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "057184",
+      "category": "ESCALA",
+      "categorySlug": "escala",
+      "path": "/escalas-de-aco-inoxidavel-graduadas-13009",
+      "image": "/products/images/0130/13009.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--269--king-tools"
+  }
+}

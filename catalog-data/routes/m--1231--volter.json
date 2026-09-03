@@ -1,0 +1,36 @@
+{
+  "title": "VOLTER",
+  "parentLabel": "Marca",
+  "description": "Produtos VOLTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VOLTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13358",
+      "title": "LAMP LED TUB T5 18W 6500K 115CM BIV 2000",
+      "brand": "VOLTER",
+      "brandCode": "1231",
+      "supplier": "GIMAWA COMERCIAL LTDA",
+      "supplierCode": "2205",
+      "manufacturerCode": "040394",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/lamp-led-tub-t5-18w-6500k-115cm-biv-2000-13358",
+      "image": "/products/images/0133/13358.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1231--volter"
+  }
+}

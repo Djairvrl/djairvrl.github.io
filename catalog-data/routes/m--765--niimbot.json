@@ -1,0 +1,104 @@
+{
+  "title": "NIIMBOT",
+  "parentLabel": "Marca",
+  "description": "Produtos NIIMBOT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NIIMBOT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11758",
+      "title": "1 ROLO ETIQUETAS NIIMBOT 50X30 B1/B21 B3",
+      "brand": "NIIMBOT",
+      "brandCode": "765",
+      "supplier": "BILESTORE LTDA",
+      "supplierCode": "5263",
+      "manufacturerCode": "31",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/1-rolo-etiquetas-niimbot-50x30-b1b21-b3-11758",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12213",
+      "title": "ETIQUETA ADESIVA 50X30 NIIMBOT B21 B1 23",
+      "brand": "NIIMBOT",
+      "brandCode": "765",
+      "supplier": "61.541.378 EDINA MARIA OLIVEIRA",
+      "supplierCode": "5586",
+      "manufacturerCode": "MLB5708733958",
+      "category": "INSUMOS",
+      "categorySlug": "insumos",
+      "path": "/etiqueta-adesiva-50x30-niimbot-b21-b1-23-12213",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12209",
+      "title": "IMPRESSORA TERMICA B1 BLUETOOTH ROTULAD",
+      "brand": "NIIMBOT",
+      "brandCode": "765",
+      "supplier": "AUTO PECAS E MECANICA ARAUJO LTDA",
+      "supplierCode": "2563",
+      "manufacturerCode": "3",
+      "category": "IMPRESSORAS",
+      "categorySlug": "impressoras",
+      "path": "/impressora-termica-b1-bluetooth-rotulad-12209",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10233",
+      "title": "ROLO ETIQ ADESIVA B1 B21 B3S B230 50X30M",
+      "brand": "NIIMBOT",
+      "brandCode": "765",
+      "supplier": "XD IMPORTS LTDA",
+      "supplierCode": "3333",
+      "manufacturerCode": "1359483.160693.0",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/rolo-etiq-adesiva-b1-b21-b3s-b230-50x30m-10233",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10232",
+      "title": "ROLO ETIQ D110 D101 D11 15X30 05UND",
+      "brand": "NIIMBOT",
+      "brandCode": "765",
+      "supplier": "XD IMPORTS LTDA",
+      "supplierCode": "3333",
+      "manufacturerCode": "0000000008457",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/rolo-etiq-d110-d101-d11-15x30-05und-10232",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--765--niimbot"
+  }
+}

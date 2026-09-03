@@ -1,0 +1,121 @@
+{
+  "title": "BOM AR",
+  "parentLabel": "Marca",
+  "description": "Produtos BOM AR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BOM AR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7509",
+      "title": "BOM AR AERO LAVANDA EMB ECON 360ML",
+      "brand": "BOM AR",
+      "brandCode": "482",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "00418",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/bom-ar-aero-lavanda-emb-econ-360ml-7509",
+      "image": "/products/images/0075/7509.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8311",
+      "title": "BOM AR AERO LIMAO SICILIANO 360ML",
+      "brand": "BOM AR",
+      "brandCode": "482",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000001548",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/bom-ar-aero-limao-siciliano-360ml-8311",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7598",
+      "title": "DIFUSOR GLADE 100ML FRESCOR",
+      "brand": "BOM AR",
+      "brandCode": "482",
+      "supplier": "QUEIROZ ATACADAO EIRELI",
+      "supplierCode": "1101",
+      "manufacturerCode": "148733",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/difusor-glade-100ml-frescor-7598",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7597",
+      "title": "DIFUSOR GLADE 100ML LAVANDA",
+      "brand": "BOM AR",
+      "brandCode": "482",
+      "supplier": "QUEIROZ ATACADAO EIRELI",
+      "supplierCode": "1101",
+      "manufacturerCode": "148734",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/difusor-glade-100ml-lavanda-7597",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7596",
+      "title": "DIFUSOR GLADE 100ML LEMBRANCA F",
+      "brand": "BOM AR",
+      "brandCode": "482",
+      "supplier": "QUEIROZ ATACADAO EIRELI",
+      "supplierCode": "1101",
+      "manufacturerCode": "148735",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/difusor-glade-100ml-lembranca-f-7596",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7595",
+      "title": "ODORIZADOR SPRAY GLADE 269ML",
+      "brand": "BOM AR",
+      "brandCode": "482",
+      "supplier": "QUEIROZ ATACADAO EIRELI",
+      "supplierCode": "1101",
+      "manufacturerCode": "112924",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/odorizador-spray-glade-269ml-7595",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--482--bom-ar"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "AGMOV",
+  "parentLabel": "Marca",
+  "description": "Produtos AGMOV disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AGMOV"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7554",
+      "title": "PEGA CILINDROS E TUBOS ERGONÔMICO 9\" (229MM) - AGMOV 1333",
+      "brand": "AGMOV",
+      "brandCode": "501",
+      "supplier": "AGMOV SUPRIMENTOS INDUSTRIAIS LTDA",
+      "supplierCode": "1691",
+      "manufacturerCode": "1333",
+      "category": "PEGA",
+      "categorySlug": "pega",
+      "path": "/pega-cilindros-e-tubos-ergonomico-9-229mm--agmov-1333-7554",
+      "image": "/products/images/0075/7554.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "7553",
+      "title": "PEGA CILINDROS E TUBOS ERGONÔMICO 9.1/2\" (240MM) - AGMOV 1332",
+      "brand": "AGMOV",
+      "brandCode": "501",
+      "supplier": "AGMOV SUPRIMENTOS INDUSTRIAIS LTDA",
+      "supplierCode": "1691",
+      "manufacturerCode": "1332",
+      "category": "PEGA",
+      "categorySlug": "pega",
+      "path": "/pega-cilindros-e-tubos-ergonomico-912-240mm--agmov-1332-7553",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--501--agmov"
+  }
+}

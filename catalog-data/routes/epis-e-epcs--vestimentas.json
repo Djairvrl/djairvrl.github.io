@@ -1,0 +1,81 @@
+{
+  "title": "Vestimentas",
+  "parentLabel": "EPIs e EPCs",
+  "description": "Soluções de vestimentas disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Vestimentas"
+    }
+  ],
+  "children": [
+    {
+      "name": "UNIFORMES RISCO 4",
+      "slug": "uniformes-risco-4",
+      "path": "/epis-e-epcs/vestimentas/uniformes-risco-4",
+      "count": 3
+    }
+  ],
+  "products": [
+    {
+      "code": "10644",
+      "title": "BLUSAO NR10 3 CAMAD RISC 4 CA51684 CZ G",
+      "brand": "VECTRA",
+      "brandCode": "51",
+      "supplier": "VECTRA SERVICOS DE FACCAO DE ROUPAS PROFISSIONAIS LTDA",
+      "supplierCode": "1195",
+      "manufacturerCode": "630001120900000005",
+      "category": "UNIFORMES RISCO 4",
+      "categorySlug": "uniformes-risco-4",
+      "path": "/blusao-nr10-3-camad-risc-4-ca51684-cz-g-10644",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas",
+      "sectionSlug": "vestimentas"
+    },
+    {
+      "code": "10645",
+      "title": "BLUSAO NR10 3 CAMAD RISC 4 CA51684 CZ GG",
+      "brand": "VECTRA",
+      "brandCode": "51",
+      "supplier": "VECTRA SERVICOS DE FACCAO DE ROUPAS PROFISSIONAIS LTDA",
+      "supplierCode": "1195",
+      "manufacturerCode": "630001120900000006",
+      "category": "UNIFORMES RISCO 4",
+      "categorySlug": "uniformes-risco-4",
+      "path": "/blusao-nr10-3-camad-risc-4-ca51684-cz-gg-10645",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas",
+      "sectionSlug": "vestimentas"
+    },
+    {
+      "code": "10646",
+      "title": "CALCA NR10 3 CAMAD RISC 4 CA51689 CZ GG",
+      "brand": "VECTRA",
+      "brandCode": "51",
+      "supplier": "VECTRA SERVICOS DE FACCAO DE ROUPAS PROFISSIONAIS LTDA",
+      "supplierCode": "1195",
+      "manufacturerCode": "350105830900000006",
+      "category": "UNIFORMES RISCO 4",
+      "categorySlug": "uniformes-risco-4",
+      "path": "/calca-nr10-3-camad-risc-4-ca51689-cz-gg-10646",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas",
+      "sectionSlug": "vestimentas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--vestimentas"
+  }
+}

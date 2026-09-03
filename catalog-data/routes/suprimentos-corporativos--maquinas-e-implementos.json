@@ -1,0 +1,110 @@
+{
+  "title": "Máquinas E Implementos",
+  "parentLabel": "Suprimentos Corporativos",
+  "description": "Soluções de máquinas e implementos disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Máquinas E Implementos"
+    }
+  ],
+  "children": [
+    {
+      "name": "CONTAINERS",
+      "slug": "containers",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos/containers",
+      "count": 2
+    },
+    {
+      "name": "IMPLEMENTOS INDUSTRIAIS",
+      "slug": "implementos-industriais",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos/implementos-industriais",
+      "count": 1
+    },
+    {
+      "name": "MÁQUINAS PESADAS",
+      "slug": "maquinas-pesadas",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos/maquinas-pesadas",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "code": "11810",
+      "title": "CONTAINER ALMOXARIFADO HC DE 40 PES INOV",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "INOVAR LOCACOES MOSSORO",
+      "supplierCode": "5314",
+      "manufacturerCode": "V-003",
+      "category": "CONTAINERS",
+      "categorySlug": "containers",
+      "path": "/container-almoxarifado-hc-de-40-pes-inov-11810",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    },
+    {
+      "code": "11408",
+      "title": "CONTAINER JR7-20L REV.B P/TRANS. VEICULO",
+      "brand": "REDENTOR",
+      "brandCode": "934",
+      "supplier": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1134",
+      "manufacturerCode": "699721009C",
+      "category": "CONTAINERS",
+      "categorySlug": "containers",
+      "path": "/container-jr720l-revb-ptrans-veiculo-11408",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    },
+    {
+      "code": "11468",
+      "title": "KIT DE BLOCO METALICOS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TM & J SERVICOS LTDA",
+      "supplierCode": "5006",
+      "manufacturerCode": "6",
+      "category": "IMPLEMENTOS INDUSTRIAIS",
+      "categorySlug": "implementos-industriais",
+      "path": "/kit-de-bloco-metalicos-11468",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    },
+    {
+      "code": "9266",
+      "title": "RETROESCAVADEIRA CASE 575SV",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORNECEDORA-MAQUINAS E EQUIPAMENTOS LTDA",
+      "supplierCode": "2412",
+      "manufacturerCode": "0008001",
+      "category": "MÁQUINAS PESADAS",
+      "categorySlug": "maquinas-pesadas",
+      "path": "/retroescavadeira-case-575sv-9266",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "suprimentos-corporativos--maquinas-e-implementos"
+  }
+}

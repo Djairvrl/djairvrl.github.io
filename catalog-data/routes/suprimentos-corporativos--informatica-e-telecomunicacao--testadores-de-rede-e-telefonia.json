@@ -1,0 +1,95 @@
+{
+  "title": "TESTADORES DE REDE E TELEFONIA",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria testadores de rede e telefonia em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "TESTADORES DE REDE E TELEFONIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11996",
+      "title": "KIT TESTAD/LOCALIZ CABO SECC",
+      "brand": "MULTITOC",
+      "brandCode": "1017",
+      "supplier": "TEK ATACADO DISTRIBUIDOR DE SEGURANCA ELETRONICA LTDA",
+      "supplierCode": "5424",
+      "manufacturerCode": "WH-806R",
+      "category": "TESTADORES DE REDE E TELEFONIA",
+      "categorySlug": "testadores-de-rede-e-telefonia",
+      "path": "/kit-testadlocaliz-cabo-secc-11996",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8768",
+      "title": "TESTADOR DE CABO MULTIFUNCIONAL",
+      "brand": "GAZECHIMP",
+      "brandCode": "624",
+      "supplier": "ALCATEIA COMERCIO VAREJISTA DE ARTIGOS ESPORTIVOS LTDA",
+      "supplierCode": "2215",
+      "manufacturerCode": "RJ41-A",
+      "category": "TESTADORES DE REDE E TELEFONIA",
+      "categorySlug": "testadores-de-rede-e-telefonia",
+      "path": "/testador-de-cabo-multifuncional-8768",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6525",
+      "title": "TESTADOR DE CABOS REDE LAN RJ45/RJ11",
+      "brand": "EXBOM",
+      "brandCode": "355",
+      "supplier": "TK COMERCIO ELETRONICO LTDA",
+      "supplierCode": "1373",
+      "manufacturerCode": "TECB-RJ45-EX",
+      "category": "TESTADORES DE REDE E TELEFONIA",
+      "categorySlug": "testadores-de-rede-e-telefonia",
+      "path": "/testador-de-cabos-rede-lan-rj45rj11-6525",
+      "image": "/products/images/0065/6525.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "9319",
+      "title": "TESTADOR DE CABOS RJ11/RJ12/RJ45",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3870111245",
+      "category": "TESTADORES DE REDE E TELEFONIA",
+      "categorySlug": "testadores-de-rede-e-telefonia",
+      "path": "/testador-de-cabos-rj11rj12rj45-9319",
+      "image": "/products/images/0093/9319.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--testadores-de-rede-e-telefonia"
+  }
+}

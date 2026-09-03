@@ -1,0 +1,104 @@
+{
+  "title": "HARPIC",
+  "parentLabel": "Marca",
+  "description": "Produtos HARPIC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HARPIC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13109",
+      "title": "AROM SANIT CX ACOPL HARPIC 2UN",
+      "brand": "HARPIC",
+      "brandCode": "490",
+      "supplier": "SMART COMPONENTES ELETRONICOS LTDA",
+      "supplierCode": "6093",
+      "manufacturerCode": "MLB5449308836",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/arom-sanit-cx-acopl-harpic-2un-13109",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7521",
+      "title": "PEDRA SANITARIA AR PLUS FLORES DO CAMPO",
+      "brand": "HARPIC",
+      "brandCode": "490",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000002702",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pedra-sanitaria-ar-plus-flores-do-campo-7521",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7721",
+      "title": "PEDRA SANITARIA HARPIC AR PLUS LAVANDA",
+      "brand": "HARPIC",
+      "brandCode": "490",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "187065",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pedra-sanitaria-harpic-ar-plus-lavanda-7721",
+      "image": "/products/images/0077/7721.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7722",
+      "title": "PEDRA SANITARIA HARPIC AR PLUS MARINE",
+      "brand": "HARPIC",
+      "brandCode": "490",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000002834",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pedra-sanitaria-harpic-ar-plus-marine-7722",
+      "image": "/products/images/0077/7722.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7516",
+      "title": "PEDRA SANITARIA HARPIC AR PLUS PINHO",
+      "brand": "HARPIC",
+      "brandCode": "490",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000002572",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pedra-sanitaria-harpic-ar-plus-pinho-7516",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--490--harpic"
+  }
+}

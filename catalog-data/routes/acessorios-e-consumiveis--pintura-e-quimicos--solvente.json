@@ -1,0 +1,61 @@
+{
+  "title": "SOLVENTE",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria solvente em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "SOLVENTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9299",
+      "title": "SOLVENTE DE SEG P/ LIMPEZA DE EQUIP ELET",
+      "brand": "ARCHEM",
+      "brandCode": "664",
+      "supplier": "PROLUB COMERCIO E REPRESENTACOES LTDA",
+      "supplierCode": "2489",
+      "manufacturerCode": "562",
+      "category": "SOLVENTE",
+      "categorySlug": "solvente",
+      "path": "/solvente-de-seg-p-limpeza-de-equip-elet-9299",
+      "image": "/products/images/0092/9299.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "9653",
+      "title": "SOLVENTE ECO 1L UNICA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "supplierCode": "1553",
+      "manufacturerCode": "304204-UN",
+      "category": "SOLVENTE",
+      "categorySlug": "solvente",
+      "path": "/solvente-eco-1l-unica-9653",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--solvente"
+  }
+}

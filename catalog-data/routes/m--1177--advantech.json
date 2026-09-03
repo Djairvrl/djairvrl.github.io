@@ -1,0 +1,36 @@
+{
+  "title": "ADVANTECH",
+  "parentLabel": "Marca",
+  "description": "Produtos ADVANTECH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ADVANTECH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13073",
+      "title": "SWITCH L2 GERENCIAVEL 8PT 10/100 +2SFP",
+      "brand": "ADVANTECH",
+      "brandCode": "1177",
+      "supplier": "G3 TECNOLOGIA LTDA",
+      "supplierCode": "6073",
+      "manufacturerCode": "EKI-5710E-2FI-A",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/switch-l2-gerenciavel-8pt-10100-2sfp-13073",
+      "image": "/products/images/0130/13073.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1177--advantech"
+  }
+}

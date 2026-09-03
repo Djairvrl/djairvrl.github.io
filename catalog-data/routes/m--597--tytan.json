@@ -1,0 +1,36 @@
+{
+  "title": "TYTAN",
+  "parentLabel": "Marca",
+  "description": "Produtos TYTAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TYTAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8464",
+      "title": "ESPUMA TYTAN PRO30 ANTICHAMA 480G/500ML",
+      "brand": "TYTAN",
+      "brandCode": "597",
+      "supplier": "SELENA SULAMERICANA INDUSTRIA E COMERCIO DE PRODUTOS QUIMICO",
+      "supplierCode": "2107",
+      "manufacturerCode": "040295",
+      "category": "SELANTE",
+      "categorySlug": "selante",
+      "path": "/espuma-tytan-pro30-antichama-480g500ml-8464",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--597--tytan"
+  }
+}

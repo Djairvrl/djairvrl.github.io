@@ -1,0 +1,78 @@
+{
+  "title": "CABOS ESPECIAIS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria cabos especiais em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CABOS ESPECIAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9543",
+      "title": "CABO ADAPT USB 2.0 SERIAL RS232 DB9 9 P",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CLICK & CELL LTDA",
+      "supplierCode": "2594",
+      "manufacturerCode": "RS232 USB",
+      "category": "CABOS ESPECIAIS",
+      "categorySlug": "cabos-especiais",
+      "path": "/cabo-adapt-usb-20-serial-rs232-db9-9-p-9543",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9513",
+      "title": "CABO CONVERSOR USB SERIAL P/ RS485",
+      "brand": "SUB 2.0 CERTIFIFD",
+      "brandCode": "691",
+      "supplier": "MARIA IZABELLE SILVA LIMA ME",
+      "supplierCode": "2589",
+      "manufacturerCode": "AB0011",
+      "category": "CABOS ESPECIAIS",
+      "categorySlug": "cabos-especiais",
+      "path": "/cabo-conversor-usb-serial-p-rs485-9513",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10521",
+      "title": "ENTRADA DE 4 A 20 MA / CABLE-4-20MA",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "J C DA SILVA & CIA LTDA",
+      "supplierCode": "3679",
+      "manufacturerCode": "CABLE-4-20MA",
+      "category": "CABOS ESPECIAIS",
+      "categorySlug": "cabos-especiais",
+      "path": "/entrada-de-4-a-20-ma-cable420ma-10521",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--cabos-especiais"
+  }
+}

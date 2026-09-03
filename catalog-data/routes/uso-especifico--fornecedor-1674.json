@@ -1,0 +1,72 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FUTURO VERDE - PRODUTOS FLORESTAIS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1674",
+    "name": "FUTURO VERDE - PRODUTOS FLORESTAIS LTDA"
+  },
+  "products": [
+    {
+      "code": "8207",
+      "title": "EUCALIPTO TRATADO 2,5M X 12 A 14CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FUTURO VERDE - PRODUTOS FLORESTAIS LTDA",
+      "supplierCode": "1674",
+      "manufacturerCode": "1868569",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/eucalipto-tratado-25m-x-12-a-14cm-8207",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "8208",
+      "title": "EUCALIPTO TRATADO 2,5M X 6 A 8CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FUTURO VERDE - PRODUTOS FLORESTAIS LTDA",
+      "supplierCode": "1674",
+      "manufacturerCode": "1451673",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/eucalipto-tratado-25m-x-6-a-8cm-8208",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "uso-especifico--fornecedor-1674"
+  }
+}

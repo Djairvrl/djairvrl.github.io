@@ -1,0 +1,36 @@
+{
+  "title": "IPIRANGA",
+  "parentLabel": "Marca",
+  "description": "Produtos IPIRANGA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IPIRANGA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12332",
+      "title": "IPIRANGA BRUTUS PERFORMANCE CI-4 20LT",
+      "brand": "IPIRANGA",
+      "brandCode": "1061",
+      "supplier": "LUBNORD COMERCIO DE LUBRIFICANTES DO NORDESTE LTDA",
+      "supplierCode": "5344",
+      "manufacturerCode": "5903",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/ipiranga-brutus-performance-ci4-20lt-12332",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1061--ipiranga"
+  }
+}

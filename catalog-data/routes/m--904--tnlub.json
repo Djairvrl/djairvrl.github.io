@@ -1,0 +1,36 @@
+{
+  "title": "TNLUB",
+  "parentLabel": "Marca",
+  "description": "Produtos TNLUB disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TNLUB"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11205",
+      "title": "GRAXA COBREADA METALIC PA TNLUB 1KG",
+      "brand": "TNLUB",
+      "brandCode": "904",
+      "supplier": "L.M INDUSTRIA E COMERCIO DE LUBRIFICANTES LTDA",
+      "supplierCode": "4697",
+      "manufacturerCode": "80TNLUB",
+      "category": "GRAXAS PARA USO EM CONDIÇÕES SEVERAS",
+      "categorySlug": "graxas-para-uso-em-condicoes-severas",
+      "path": "/graxa-cobreada-metalic-pa-tnlub-1kg-11205",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--904--tnlub"
+  }
+}

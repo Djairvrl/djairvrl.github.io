@@ -1,0 +1,70 @@
+{
+  "title": "CELITE",
+  "parentLabel": "Marca",
+  "description": "Produtos CELITE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CELITE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "566",
+      "title": "BACIA SANITÁRIA PARA CAIXA ACOPLADA FIT PLUS BRANCO CELITE",
+      "brand": "CELITE",
+      "brandCode": "94",
+      "supplier": "ROCA SANITARIOS BRASIL LTDA",
+      "supplierCode": "225",
+      "manufacturerCode": "66353",
+      "category": "VASOS SANITARIOS",
+      "categorySlug": "vasos-sanitarios",
+      "path": "/bacia-sanitaria-para-caixa-acoplada-fit-plus-branco-celite-566",
+      "image": "/products/images/0005/566.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "1255",
+      "title": "CUBA EMBUTIDA OVAL 490X325",
+      "brand": "CELITE",
+      "brandCode": "94",
+      "supplier": "ROCA SANITARIOS BRASIL LTDA",
+      "supplierCode": "225",
+      "manufacturerCode": "1761170017300",
+      "category": "PIAS E TORNEIRAS",
+      "categorySlug": "pias-e-torneiras",
+      "path": "/cuba-embutida-oval-490x325-1255",
+      "image": "/products/images/0012/1255.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "1117",
+      "title": "MICTÓRIO COM SIFÃO ECO BRANCO 267 X 353 X 568MM - CELITE",
+      "brand": "CELITE",
+      "brandCode": "94",
+      "supplier": "ROCA SANITARIOS BRASIL LTDA",
+      "supplierCode": "225",
+      "manufacturerCode": "1082850010300",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mictorio-com-sifao-eco-branco-267-x-353-x-568mm--celite-1117",
+      "image": "/products/images/0011/1117.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--94--celite"
+  }
+}

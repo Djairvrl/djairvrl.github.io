@@ -1,0 +1,36 @@
+{
+  "title": "MD9",
+  "parentLabel": "Marca",
+  "description": "Produtos MD9 disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MD9"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7572",
+      "title": "COVERSOR HDMI/VGA+AUDIO 7108",
+      "brand": "MD9",
+      "brandCode": "504",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "44965",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/coversor-hdmivgaaudio-7108-7572",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--504--md9"
+  }
+}

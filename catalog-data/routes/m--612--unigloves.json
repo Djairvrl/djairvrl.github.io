@@ -1,0 +1,36 @@
+{
+  "title": "UNIGLOVES",
+  "parentLabel": "Marca",
+  "description": "Produtos UNIGLOVES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UNIGLOVES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3818",
+      "title": "LUVA PROCEDIMENTO LATEX -TAM P CX C/100",
+      "brand": "UNIGLOVES",
+      "brandCode": "612",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "MEDIX LTDA",
+      "category": "LÁTEX",
+      "categorySlug": "latex",
+      "path": "/luva-procedimento-latex-tam-p-cx-c100-3818",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--612--unigloves"
+  }
+}

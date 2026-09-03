@@ -1,0 +1,270 @@
+{
+  "title": "Amarração e Elevação",
+  "parentLabel": "Departamento",
+  "description": "Produtos de O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação"
+    }
+  ],
+  "children": [
+    {
+      "name": "Elevação de Carga",
+      "slug": "elevacao-de-carga",
+      "path": "/amarracao-e-elevacao/elevacao-de-carga",
+      "count": 221,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/acessorios",
+          "count": 2
+        },
+        {
+          "name": "ANILHAS",
+          "slug": "anilhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/anilhas",
+          "count": 3
+        },
+        {
+          "name": "BOLSAS DE IÇAMENTO",
+          "slug": "bolsas-de-icamento",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/bolsas-de-icamento",
+          "count": 7
+        },
+        {
+          "name": "CABO",
+          "slug": "cabo",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cabo",
+          "count": 5
+        },
+        {
+          "name": "CINTA",
+          "slug": "cinta",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta",
+          "count": 81
+        },
+        {
+          "name": "CINTA PARA ANEL",
+          "slug": "cinta-para-anel",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta-para-anel",
+          "count": 1
+        },
+        {
+          "name": "CORDA",
+          "slug": "corda",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/corda",
+          "count": 1
+        },
+        {
+          "name": "FITA",
+          "slug": "fita",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/fita",
+          "count": 2
+        },
+        {
+          "name": "GANCHO",
+          "slug": "gancho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/gancho",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO E CUPILHA",
+          "slug": "grampo-e-cupilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/grampo-e-cupilha",
+          "count": 5
+        },
+        {
+          "name": "GUINCHO",
+          "slug": "guincho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guincho",
+          "count": 11
+        },
+        {
+          "name": "GUINDASTE",
+          "slug": "guindaste",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guindaste",
+          "count": 2
+        },
+        {
+          "name": "LINGAS",
+          "slug": "lingas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/lingas",
+          "count": 6
+        },
+        {
+          "name": "MANILHA",
+          "slug": "manilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/manilha",
+          "count": 27
+        },
+        {
+          "name": "MOITÃO",
+          "slug": "moitao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/moitao",
+          "count": 6
+        },
+        {
+          "name": "MOSQUETÃO",
+          "slug": "mosquetao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/mosquetao",
+          "count": 1
+        },
+        {
+          "name": "OLHAIS",
+          "slug": "olhais",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/olhais",
+          "count": 21
+        },
+        {
+          "name": "PEGA",
+          "slug": "pega",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/pega",
+          "count": 3
+        },
+        {
+          "name": "SELADOR",
+          "slug": "selador",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/selador",
+          "count": 3
+        },
+        {
+          "name": "TALHAS",
+          "slug": "talhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/talhas",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "name": "Amarração de Carga",
+      "slug": "amarracao-de-carga",
+      "path": "/amarracao-e-elevacao/amarracao-de-carga",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Amarração",
+      "slug": "amarracao",
+      "path": "/amarracao-e-elevacao/amarracao",
+      "count": 46,
+      "categories": [
+        {
+          "name": "CINTAS DE AMARRAÇÃO",
+          "slug": "cintas-de-amarracao",
+          "path": "/amarracao-e-elevacao/amarracao/cintas-de-amarracao",
+          "count": 14
+        },
+        {
+          "name": "CORDAS",
+          "slug": "cordas",
+          "path": "/amarracao-e-elevacao/amarracao/cordas",
+          "count": 27
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/amarracao-e-elevacao/amarracao/fitas",
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "122",
+    "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA"
+  },
+  "products": [
+    {
+      "code": "9023",
+      "title": "GUINCHO HIDR 3,0T G3000 BOVENAL",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6170003000",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/guincho-hidr-30t-g3000-bovenal-9023",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "4795",
+      "title": "GUINCHO HIDRÁULICO DOBRÁVEL 1,0TF COM PROLONGADOR - VONDER 6810000100",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6810000100",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/guincho-hidraulico-dobravel-10tf-com-prolongador--vonder-6810000100-4795",
+      "image": "/products/images/0047/4795.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "9517",
+      "title": "MOITÃO/CADERNAL 60 MM COM 3 ROLDANAS VONDER REF 6145060030",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6145060030",
+      "category": "MOITÃO",
+      "categorySlug": "moitao",
+      "path": "/moitaocadernal-60-mm-com-3-roldanas-vonder-ref-6145060030-9517",
+      "image": "/products/images/0095/9517.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "3685",
+      "title": "TALHA MANUAL 0,5 TON ELEV 3,0M",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6143005030",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-manual-05-ton-elev-30m-3685",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "6151",
+      "title": "TROLE MANUAL  0,5 TONELADA (0,5 TF) TM 050 - VONDER 6195000050",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6195000050",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/trole-manual-05-tonelada-05-tf-tm-050--vonder-6195000050-6151",
+      "image": "/products/images/0061/6151.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "amarracao-e-elevacao--fornecedor-122"
+  }
+}

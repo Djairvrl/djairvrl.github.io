@@ -1,0 +1,163 @@
+{
+  "title": "PARAFUSADEIRA",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria parafusadeira em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "PARAFUSADEIRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8911",
+      "title": "COMBO PARAF DE IMP DTD153 2 BAT 6AH 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "8911",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/combo-paraf-de-imp-dtd153-2-bat-6ah-18v-8911",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "13329",
+      "title": "PARAF A BATERIA 3,6V BOSCH GO 3+MAL+ 1AC",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06019H22E0000",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/paraf-a-bateria-36v-bosch-go-3mal-1ac-13329",
+      "image": "/products/images/0133/13329.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1270",
+      "title": "PARAF. GSR120LI 2 BAT C/ MALETA",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019G80E0000",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/paraf-gsr120li-2-bat-c-maleta-1270",
+      "image": "/products/images/0012/1270.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2778",
+      "title": "PARAFUSADEIRA A BATERIA GO 3,6V  VERSÃO KIT COM 33 CHAVES DE FENDA - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019H20E1000",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/parafusadeira-a-bateria-go-36v-versao-kit-com-33-chaves-de-fenda--bosch-2778",
+      "image": "/products/images/0027/2778.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7548",
+      "title": "PARAFUSADEIRA DE IMPACTO 1/4\" 170 N.M 18V SEM BATERIA E CARREGADOR  - MAKITA DTD153Z",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DTD153Z",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/parafusadeira-de-impacto-14-170-nm-18v-sem-bateria-e-carregador--makita-dtd153z-7548",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12661",
+      "title": "PARAFUSADEIRA DE IMPACTO 6,35MM",
+      "brand": "HENLAU",
+      "brandCode": "13",
+      "supplier": "LARSHOP MAIS LTDA",
+      "supplierCode": "5844",
+      "manufacturerCode": "DCF7871D2-BR",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/parafusadeira-de-impacto-635mm-12661",
+      "image": "/products/images/0126/12661.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12521",
+      "title": "PARAFUSADEIRA DE IMPACTO A BAT. 18V LXT1",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DTD156Z",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/parafusadeira-de-impacto-a-bat-18v-lxt1-12521",
+      "image": "/products/images/0125/12521.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9950",
+      "title": "PARAFUSADEIRA DE IMPACTO A BATERIA 18V MAKITA REF DTD153RFE",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DTD153RFE",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/parafusadeira-de-impacto-a-bateria-18v-makita-ref-dtd153rfe-9950",
+      "image": "/products/images/0099/9950.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "ferramentas--ferramentas-eletricas--parafusadeira"
+  }
+}

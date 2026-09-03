@@ -1,0 +1,36 @@
+{
+  "title": "LITH",
+  "parentLabel": "Marca",
+  "description": "Produtos LITH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LITH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7176",
+      "title": "TRENA MET. DE FIB. CARRETEL ABERT. 50M",
+      "brand": "LITH",
+      "brandCode": "255",
+      "supplier": "GURGELMIX MAQUINAS E FERRAMENTAS S.A.",
+      "supplierCode": "1525",
+      "manufacturerCode": "2593379",
+      "category": "TRENAS",
+      "categorySlug": "trenas",
+      "path": "/trena-met-de-fib-carretel-abert-50m-7176",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--255--lith"
+  }
+}

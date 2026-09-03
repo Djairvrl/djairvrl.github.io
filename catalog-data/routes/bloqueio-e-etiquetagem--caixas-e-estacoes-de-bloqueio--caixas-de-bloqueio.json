@@ -1,0 +1,129 @@
+{
+  "title": "CAIXAS DE BLOQUEIO",
+  "parentLabel": "Caixas E Estações De Bloqueio",
+  "description": "Produtos da categoria caixas de bloqueio em caixas e estações de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Caixas E Estações De Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "label": "CAIXAS DE BLOQUEIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9390",
+      "title": "CAIXA BLOQUEIO ACO P 26 CADEADOS ALCA PL",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CBA26AP",
+      "category": "CAIXAS DE BLOQUEIO",
+      "categorySlug": "caixas-de-bloqueio",
+      "path": "/caixa-bloqueio-aco-p-26-cadeados-alca-pl-9390",
+      "image": "/products/images/0093/9390.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "6690",
+      "title": "CAIXA DE BLOQ EM PLAST ABS P/ 8 CADEADO",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CBP8",
+      "category": "CAIXAS DE BLOQUEIO",
+      "categorySlug": "caixas-de-bloqueio",
+      "path": "/caixa-de-bloq-em-plast-abs-p-8-cadeado-6690",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "4274",
+      "title": "CAIXA DE BLOQUEIO 13 POSIÇÕES DE CADEADOS VERMELHA -  FARIA INDUSTRIA 1002",
+      "brand": "FARIA",
+      "brandCode": "216",
+      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
+      "supplierCode": "869",
+      "manufacturerCode": "10.02",
+      "category": "CAIXAS DE BLOQUEIO",
+      "categorySlug": "caixas-de-bloqueio",
+      "path": "/caixa-de-bloqueio-13-posicoes-de-cadeados-vermelha--faria-industria-1002-4274",
+      "image": "/products/images/0042/4274.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "5268",
+      "title": "CAIXA DE BLOQUEIO 26 POSIÇÕES DE CADEADOS VERMELHA -  FARIA INDUSTRIA 1003",
+      "brand": "FARIA",
+      "brandCode": "216",
+      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
+      "supplierCode": "869",
+      "manufacturerCode": "1003",
+      "category": "CAIXAS DE BLOQUEIO",
+      "categorySlug": "caixas-de-bloqueio",
+      "path": "/caixa-de-bloqueio-26-posicoes-de-cadeados-vermelha--faria-industria-1003-5268",
+      "image": "/products/images/0052/5268.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "2454",
+      "title": "CAIXA DE BLOQUEIO PLÁSTICA ABS VERMELHA COM ALÇA PARA 8 CADEADOS - TAGOUT REF. CBPA8",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CBP8",
+      "category": "CAIXAS DE BLOQUEIO",
+      "categorySlug": "caixas-de-bloqueio",
+      "path": "/caixa-de-bloqueio-plastica-abs-vermelha-com-alca-para-8-cadeados--tagout-ref-cbpa8-2454",
+      "image": "/products/images/0024/2454.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    },
+    {
+      "code": "9877",
+      "title": "CAIXA DE TRAVAMENTO EM AÇO PARA 13 CADEADOS  TAGOUT REF CBA13",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CBA13",
+      "category": "CAIXAS DE BLOQUEIO",
+      "categorySlug": "caixas-de-bloqueio",
+      "path": "/caixa-de-travamento-em-aco-para-13-cadeados-tagout-ref-cba13-9877",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Caixas E Estações De Bloqueio",
+      "sectionSlug": "caixas-e-estacoes-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "bloqueio-e-etiquetagem--caixas-e-estacoes-de-bloqueio--caixas-de-bloqueio"
+  }
+}

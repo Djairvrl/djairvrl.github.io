@@ -1,0 +1,163 @@
+{
+  "title": "ACESSÓRIOS PARA CABOS",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria acessórios para cabos em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "ACESSÓRIOS PARA CABOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12553",
+      "title": "ALCA PREFORMADA PARA CORDOALHA 7 FIOS",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3250120011",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/alca-preformada-para-cordoalha-7-fios-12553",
+      "image": "/products/images/0125/12553.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11356",
+      "title": "CAMISA PUX. CPA1100 6D 2A SP CABO AÇO",
+      "brand": "PETRO CABOS",
+      "brandCode": "894",
+      "supplier": "PETRO CABOS E COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "4612",
+      "manufacturerCode": "CPA 1100 6D",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/camisa-pux-cpa1100-6d-2a-sp-cabo-aco-11356",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11149",
+      "title": "CAMMIXA PUCAMENT CPA 1100 12D 220-246 2A",
+      "brand": "PETRO CABOS",
+      "brandCode": "894",
+      "supplier": "PETRO CABOS E COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "4612",
+      "manufacturerCode": "CPA 1100 12D",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/cammixa-pucament-cpa-1100-12d-220246-2a-11149",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "8177",
+      "title": "ESPIRAL CONDUTECK PRETO 19 MM 3/4 10M",
+      "brand": "CONDUTECK",
+      "brandCode": "571",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "19459",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/espiral-conduteck-preto-19-mm-34-10m-8177",
+      "image": "/products/images/0081/8177.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7751",
+      "title": "ESTICADOR COM TRAVA PARA CABOS 13,46MM A 18,80MM - SERVEQ 140503ALVO",
+      "brand": "SERVEQ",
+      "brandCode": "35",
+      "supplier": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "supplierCode": "97",
+      "manufacturerCode": "140 503 ALV0",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/esticador-com-trava-para-cabos-1346mm-a-1880mm--serveq-140503alvo-7751",
+      "image": "/products/images/0077/7751.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7752",
+      "title": "ESTICADOR COM TRAVA PARA CABOS 7,87MM A 13,46MM - SERVEQ 140502ALV0",
+      "brand": "SERVEQ",
+      "brandCode": "35",
+      "supplier": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "supplierCode": "97",
+      "manufacturerCode": "140 502 ALV0",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/esticador-com-trava-para-cabos-787mm-a-1346mm--serveq-140502alv0-7752",
+      "image": "/products/images/0077/7752.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11365",
+      "title": "ESTICADOR P/CONDUT COB E ALUM 13 A 19 MM",
+      "brand": "SERVEQ",
+      "brandCode": "35",
+      "supplier": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "supplierCode": "97",
+      "manufacturerCode": "140 503 A000",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/esticador-pcondut-cob-e-alum-13-a-19-mm-11365",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7389",
+      "title": "PRENSA CABO NYLON BSP 2\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1760",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/prensa-cabo-nylon-bsp-2-7389",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--acessorios-para-cabos"
+  }
+}

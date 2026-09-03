@@ -1,0 +1,36 @@
+{
+  "title": "CIFA",
+  "parentLabel": "Marca",
+  "description": "Produtos CIFA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CIFA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12846",
+      "title": "BARBANTE ENCERADO SELO PTO FITINHA 6",
+      "brand": "CIFA",
+      "brandCode": "1142",
+      "supplier": "PARPULOV ELETROELETRONICOS LTDA",
+      "supplierCode": "5977",
+      "manufacturerCode": "3478",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/barbante-encerado-selo-pto-fitinha-6-12846",
+      "image": "/products/images/0128/12846.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1142--cifa"
+  }
+}

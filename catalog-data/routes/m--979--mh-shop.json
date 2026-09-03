@@ -1,0 +1,36 @@
+{
+  "title": "MH SHOP",
+  "parentLabel": "Marca",
+  "description": "Produtos MH SHOP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MH SHOP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11740",
+      "title": "LANTERNA CANETA CLINICA MEDICAL PRETA",
+      "brand": "MH SHOP",
+      "brandCode": "979",
+      "supplier": "MH SHOP DIGITAL LTDA",
+      "supplierCode": "5247",
+      "manufacturerCode": "LAN-CLI-01",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/lanterna-caneta-clinica-medical-preta-11740",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--979--mh-shop"
+  }
+}

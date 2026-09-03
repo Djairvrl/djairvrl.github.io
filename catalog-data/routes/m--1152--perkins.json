@@ -1,0 +1,87 @@
+{
+  "title": "PERKINS",
+  "parentLabel": "Marca",
+  "description": "Produtos PERKINS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PERKINS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12894",
+      "title": "FILTRO AR MOTOR DIESEL 1104A-44T62",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "26510342",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-ar-motor-diesel-1104a44t62-12894",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12895",
+      "title": "FILTRO COMB DIESEL CAT 1103/1104",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "4816636",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-comb-diesel-cat-11031104-12895",
+      "image": "/products/images/0128/12895.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12896",
+      "title": "FILTRO COMBUSTIVEL MOTOR A DIESEL",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "4415122",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-combustivel-motor-a-diesel-12896",
+      "image": "/products/images/0128/12896.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12898",
+      "title": "FILTRO DE OLEO LUBRIFICANTE MOTOR A DIES",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "2654407",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-oleo-lubrificante-motor-a-dies-12898",
+      "image": "/products/images/0128/12898.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--1152--perkins"
+  }
+}

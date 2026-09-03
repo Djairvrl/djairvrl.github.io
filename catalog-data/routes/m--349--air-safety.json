@@ -1,0 +1,53 @@
+{
+  "title": "AIR SAFETY",
+  "parentLabel": "Marca",
+  "description": "Produtos AIR SAFETY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AIR SAFETY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6789",
+      "title": "FILTRO QUIMICO 3810 A1B1 VO/GA",
+      "brand": "AIR SAFETY",
+      "brandCode": "349",
+      "supplier": "SBPR SISTEMA BRASILEIRO DE PROTECAO RESPIRATORIA LTDA.",
+      "supplierCode": "1359",
+      "manufacturerCode": "514935",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/filtro-quimico-3810-a1b1-voga-6789",
+      "image": "/products/images/0067/6789.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "6788",
+      "title": "RESPIRADOR FACIAL FULL FACE ABSOLUTE STD",
+      "brand": "AIR SAFETY",
+      "brandCode": "349",
+      "supplier": "SBPR SISTEMA BRASILEIRO DE PROTECAO RESPIRATORIA LTDA.",
+      "supplierCode": "1359",
+      "manufacturerCode": "514928",
+      "category": "FACIAL INTEIRA",
+      "categorySlug": "facial-inteira",
+      "path": "/respirador-facial-full-face-absolute-std-6788",
+      "image": "/products/images/0067/6788.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--349--air-safety"
+  }
+}

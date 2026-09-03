@@ -1,0 +1,102 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de ARGUS PRODUTOS E SISTEMAS CONTRA INCENDIO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "5778",
+    "name": "ARGUS PRODUTOS E SISTEMAS CONTRA INCENDIO LTDA"
+  },
+  "products": [
+    {
+      "code": "12564",
+      "title": "DERIVANTE ARGUS DY-300N",
+      "brand": "ARGUS",
+      "brandCode": "1092",
+      "supplier": "ARGUS PRODUTOS E SISTEMAS CONTRA INCENDIO LTDA",
+      "supplierCode": "5778",
+      "manufacturerCode": "2723-N",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/derivante-argus-dy300n-12564",
+      "image": "/products/images/0125/12564.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12563",
+      "title": "ESGUIHCO MOD SV 30-125AN 1.1/2",
+      "brand": "ARGUS",
+      "brandCode": "1092",
+      "supplier": "ARGUS PRODUTOS E SISTEMAS CONTRA INCENDIO LTDA",
+      "supplierCode": "5778",
+      "manufacturerCode": "18366AN-15",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/esguihco-mod-sv-30125an-112-12563",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "combate-a-incendio--fornecedor-5778"
+  }
+}

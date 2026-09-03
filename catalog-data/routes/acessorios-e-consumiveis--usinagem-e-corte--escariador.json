@@ -1,0 +1,95 @@
+{
+  "title": "ESCARIADOR",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria escariador em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "ESCARIADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12820",
+      "title": "DREMEL ESCARIADOR",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2615009910000",
+      "category": "ESCARIADOR",
+      "categorySlug": "escariador",
+      "path": "/dremel-escariador-12820",
+      "image": "/products/images/0128/12820.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "12822",
+      "title": "DREMEL ESCARIADOR 9904",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2615009904000",
+      "category": "ESCARIADOR",
+      "categorySlug": "escariador",
+      "path": "/dremel-escariador-9904-12822",
+      "image": "/products/images/0128/12822.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "10625",
+      "title": "ESCARIADOR 9903 CARBTUNG 1/8\"",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2615009903000",
+      "category": "ESCARIADOR",
+      "categorySlug": "escariador",
+      "path": "/escariador-9903-carbtung-18-10625",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "7049",
+      "title": "ESCARIADOR A1 HSS E100",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "ROTHENBERGER DO BRASIL LTDA",
+      "supplierCode": "908",
+      "manufacturerCode": "107050",
+      "category": "ESCARIADOR",
+      "categorySlug": "escariador",
+      "path": "/escariador-a1-hss-e100-7049",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--escariador"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "title": "BOMBAS DE ABASTECIMENTO",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria bombas de abastecimento em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "BOMBAS DE ABASTECIMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11759",
+      "title": "BOMBA 12V 40L/MIN PALHE 155W P/DIESEL",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "483100",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/bomba-12v-40lmin-palhe-155w-pdiesel-11759",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "11760",
+      "title": "BOMBA 12V 56L/MIN PALHE 420W P/DIESEL",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "8756",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/bomba-12v-56lmin-palhe-420w-pdiesel-11760",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "5719",
+      "title": "BOMBA DE ABASTECIMENTO ELÉTRICA 20L/MIN - BOZZA REF. 7022-T-12V",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.421.0034",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/bomba-de-abastecimento-eletrica-20lmin--bozza-ref-7022t12v-5719",
+      "image": "/products/images/0057/5719.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "11490",
+      "title": "BOMBA DIESEL 12V 40L/MIN C/MANG PVC",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "948000",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/bomba-diesel-12v-40lmin-cmang-pvc-11490",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "11024",
+      "title": "BOMBA OLEO DIESEL 12V C/MANG 40L/MIN",
+      "brand": "PETRO LIDER",
+      "brandCode": "857",
+      "supplier": "PETRO LIDER COMERCIO DE EQUIPAMENTOS PARA ABASTECER E LUBRI",
+      "supplierCode": "4345",
+      "manufacturerCode": "6001106",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/bomba-oleo-diesel-12v-cmang-40lmin-11024",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "12143",
+      "title": "KIT 230V 60L/MIN DIESEL MEC 4DIG",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "8835",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/kit-230v-60lmin-diesel-mec-4dig-12143",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "9139",
+      "title": "KIT TRANSF 12V DIESEL AGUA 20L/M 4M MANG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PETRO LIDER COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "2409",
+      "manufacturerCode": "1007917",
+      "category": "BOMBAS DE ABASTECIMENTO",
+      "categorySlug": "bombas-de-abastecimento",
+      "path": "/kit-transf-12v-diesel-agua-20lm-4m-mang-9139",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--bombas-de-abastecimento"
+  }
+}

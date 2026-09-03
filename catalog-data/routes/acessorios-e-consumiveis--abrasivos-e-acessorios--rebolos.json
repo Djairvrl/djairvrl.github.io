@@ -1,0 +1,112 @@
+{
+  "title": "REBOLOS",
+  "parentLabel": "Abrasivos e Acessórios",
+  "description": "Produtos da categoria rebolos em abrasivos e acessórios.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Abrasivos e Acessórios",
+      "to": "/acessorios-e-consumiveis/abrasivos-e-acessorios"
+    },
+    {
+      "label": "REBOLOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11060",
+      "title": "REBOLO DIAM 105X10X20MM P/ GRAN",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "D-44351",
+      "category": "REBOLOS",
+      "categorySlug": "rebolos",
+      "path": "/rebolo-diam-105x10x20mm-p-gran-11060",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "6972",
+      "title": "REBOLO DIAMANTADO 115MM TURBO 954",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "1268115001",
+      "category": "REBOLOS",
+      "categorySlug": "rebolos",
+      "path": "/rebolo-diamantado-115mm-turbo-954-6972",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "5443",
+      "title": "REBOLO RETO 6\" X 3/4\" 39 CVD GRÃO 120 VERDE - VONDER 1261634120",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1261634120",
+      "category": "REBOLOS",
+      "categorySlug": "rebolos",
+      "path": "/rebolo-reto-6-x-34-39-cvd-grao-120-verde--vonder-1261634120-5443",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "5442",
+      "title": "REBOLO RETO 6\" X 3/4\" 39 CVD GRÃO 80 VERDE - VONDER 1261634080",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1261634080",
+      "category": "REBOLOS",
+      "categorySlug": "rebolos",
+      "path": "/rebolo-reto-6-x-34-39-cvd-grao-80-verde--vonder-1261634080-5442",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "9555",
+      "title": "REBOLO RETO DESBATE DE METAL 152.4MM",
+      "brand": "NORTON",
+      "brandCode": "693",
+      "supplier": "ANHANGUERA COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "2295",
+      "manufacturerCode": "ART A36 QVS",
+      "category": "REBOLOS",
+      "categorySlug": "rebolos",
+      "path": "/rebolo-reto-desbate-de-metal-1524mm-9555",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--abrasivos-e-acessorios--rebolos"
+  }
+}

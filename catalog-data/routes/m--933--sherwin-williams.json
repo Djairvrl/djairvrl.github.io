@@ -1,0 +1,87 @@
+{
+  "title": "SHERWIN- WILLIAMS",
+  "parentLabel": "Marca",
+  "description": "Produtos SHERWIN- WILLIAMS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SHERWIN- WILLIAMS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11400",
+      "title": "AZUL PORTO SEGURO PAREDES PRO ACET.  BAS",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69424",
+      "category": "TINTAS",
+      "categorySlug": "tintas",
+      "path": "/azul-porto-seguro-paredes-pro-acet-bas-11400",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    },
+    {
+      "code": "12065",
+      "title": "KEMTONE FOSCO BRANCO GALAO",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "68613",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/kemtone-fosco-branco-galao-12065",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12068",
+      "title": "KEMTONE FOSCO BRANCO GELO GALAO",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "32091010",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/kemtone-fosco-branco-gelo-galao-12068",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12070",
+      "title": "SW COLOR METALATEX ACR FOSCO GL-GREEN",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "68964",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/sw-color-metalatex-acr-fosco-glgreen-12070",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--933--sherwin-williams"
+  }
+}

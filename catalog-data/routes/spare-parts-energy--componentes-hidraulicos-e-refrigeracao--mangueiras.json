@@ -1,0 +1,129 @@
+{
+  "title": "MANGUEIRAS",
+  "parentLabel": "Componentes Hidráulicos e Refrigeração",
+  "description": "Produtos da categoria mangueiras em componentes hidráulicos e refrigeração.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Hidráulicos e Refrigeração",
+      "to": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "label": "MANGUEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9735",
+      "title": "ESGUICHO REGULAVEL LATAO 1.1/2",
+      "brand": "FIOCAMP",
+      "brandCode": "719",
+      "supplier": "DAVILAIMPORTS COMERCIO DE ELETRONICOS LTDA",
+      "supplierCode": "2696",
+      "manufacturerCode": "1627",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/esguicho-regulavel-latao-112-9735",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10053",
+      "title": "JACK WITH HIGH TEMP HOSE",
+      "brand": "BUSHRANGER",
+      "brandCode": "745",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "RJX01",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/jack-with-high-temp-hose-10053",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10146",
+      "title": "MANGUEIRA CAPILAR S11F-AC-AC-0300N",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "6069610",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-capilar-s11facac0300n-10146",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9382",
+      "title": "MANGUEIRA DE TESTE S11F-AC-AC-0125N",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "6003727",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-de-teste-s11facac0125n-9382",
+      "image": "/products/images/0093/9382.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "13191",
+      "title": "MANGUEIRA HIDRAULICA SAE 100 R6 3/8",
+      "brand": "ZANIN MANGUEIRAS",
+      "brandCode": "1196",
+      "supplier": "ZANIN MANGUEIRAS E CONEXOES HIDRAULICAS LTDA",
+      "supplierCode": "6158",
+      "manufacturerCode": "1555",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-hidraulica-sae-100-r6-38-13191",
+      "image": "/products/images/0131/13191.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "7133",
+      "title": "MANGUEIRA/VAUVALU E ADAPTADOR 400BAR",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3404000139",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueiravauvalu-e-adaptador-400bar-7133",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "spare-parts-energy--componentes-hidraulicos-e-refrigeracao--mangueiras"
+  }
+}

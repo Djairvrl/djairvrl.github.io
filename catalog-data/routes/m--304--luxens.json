@@ -1,0 +1,87 @@
+{
+  "title": "LUXENS",
+  "parentLabel": "Marca",
+  "description": "Produtos LUXENS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LUXENS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7453",
+      "title": "ESMALTE SINTETICO LUXENS AB 36L PLATINA",
+      "brand": "LUXENS",
+      "brandCode": "304",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "89430005",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/esmalte-sintetico-luxens-ab-36l-platina-7453",
+      "image": "/products/images/0074/7453.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6586",
+      "title": "TINTA ACRILICA FOSCA PARA PISO AMARE 36L",
+      "brand": "LUXENS",
+      "brandCode": "304",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "000000000089915126",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-acrilica-fosca-para-piso-amare-36l-6586",
+      "image": "/products/images/0065/6586.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6588",
+      "title": "TINTA ACRILICA FOSCA PARA PISO PRETO 36L",
+      "brand": "LUXENS",
+      "brandCode": "304",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "000000000089915175",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-acrilica-fosca-para-piso-preto-36l-6588",
+      "image": "/products/images/0065/6588.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6587",
+      "title": "TINTA ACRILICA FOSCA PARA PISO VERM 36L",
+      "brand": "LUXENS",
+      "brandCode": "304",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "000000000089915133",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-acrilica-fosca-para-piso-verm-36l-6587",
+      "image": "/products/images/0065/6587.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--304--luxens"
+  }
+}

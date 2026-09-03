@@ -1,0 +1,36 @@
+{
+  "title": "LUAGLASS",
+  "parentLabel": "Marca",
+  "description": "Produtos LUAGLASS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LUAGLASS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13231",
+      "title": "LIMPA VIDROS LUAGLASS 5L",
+      "brand": "LUAGLASS",
+      "brandCode": "1205",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "3700",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/limpa-vidros-luaglass-5l-13231",
+      "image": "/products/images/0132/13231.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1205--luaglass"
+  }
+}

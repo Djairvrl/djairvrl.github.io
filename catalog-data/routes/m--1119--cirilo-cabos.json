@@ -1,0 +1,70 @@
+{
+  "title": "CIRILO CABOS",
+  "parentLabel": "Marca",
+  "description": "Produtos CIRILO CABOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CIRILO CABOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12693",
+      "title": "KIT 5 CABOS OPTICO DIGITAL TOSLINK 30M",
+      "brand": "CIRILO CABOS",
+      "brandCode": "1119",
+      "supplier": "CIRILO CABOS IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "1793",
+      "manufacturerCode": "72600-30MT-KIT5",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/kit-5-cabos-optico-digital-toslink-30m-12693",
+      "image": "/products/images/0126/12693.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12694",
+      "title": "KIT 5 CABOS OPTICO DIGITAL TOSLINK 45M",
+      "brand": "CIRILO CABOS",
+      "brandCode": "1119",
+      "supplier": "CIRILO CABOS IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "1793",
+      "manufacturerCode": "72600-45MT-KIT5",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/kit-5-cabos-optico-digital-toslink-45m-12694",
+      "image": "/products/images/0126/12694.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12692",
+      "title": "KIT 5 CABOS OPTICO DIGITAL TOSLINK 5M KI",
+      "brand": "CIRILO CABOS",
+      "brandCode": "1119",
+      "supplier": "CIRILO CABOS IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "1793",
+      "manufacturerCode": "72600-5MT-KIT5",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/kit-5-cabos-optico-digital-toslink-5m-ki-12692",
+      "image": "/products/images/0126/12692.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1119--cirilo-cabos"
+  }
+}

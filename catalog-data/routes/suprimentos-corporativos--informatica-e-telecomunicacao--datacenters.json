@@ -1,0 +1,44 @@
+{
+  "title": "DATACENTERS",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria datacenters em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "DATACENTERS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13280",
+      "title": "RACK SERVER 42X800X1100 PORTAS PERF",
+      "brand": "GP RACKS",
+      "brandCode": "1220",
+      "supplier": "TELCABOS TELECOMUNICACOES E INFORMATICA LTDA",
+      "supplierCode": "6211",
+      "manufacturerCode": "11804",
+      "category": "DATACENTERS",
+      "categorySlug": "datacenters",
+      "path": "/rack-server-42x800x1100-portas-perf-13280",
+      "image": "/products/images/0132/13280.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--datacenters"
+  }
+}

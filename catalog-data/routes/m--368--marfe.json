@@ -1,0 +1,70 @@
+{
+  "title": "MARFE",
+  "parentLabel": "Marca",
+  "description": "Produtos MARFE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARFE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6873",
+      "title": "AVENTAL EM RASPA CA 16030",
+      "brand": "MARFE",
+      "brandCode": "368",
+      "supplier": "MARFE-LUVAS LTDA",
+      "supplierCode": "1409",
+      "manufacturerCode": "6873",
+      "category": "AVENTAIS",
+      "categorySlug": "aventais",
+      "path": "/avental-em-raspa-ca-16030-6873",
+      "image": "/products/images/0068/6873.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "6872",
+      "title": "BLUSAO EM RASPA CA 18157",
+      "brand": "MARFE",
+      "brandCode": "368",
+      "supplier": "MARFE-LUVAS LTDA",
+      "supplierCode": "1409",
+      "manufacturerCode": "6872",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/blusao-em-raspa-ca-18157-6872",
+      "image": "/products/images/0068/6872.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "6871",
+      "title": "LUVA EM RASPA PETROLEIRA CA 42973",
+      "brand": "MARFE",
+      "brandCode": "368",
+      "supplier": "MARFE-LUVAS LTDA",
+      "supplierCode": "1409",
+      "manufacturerCode": "6871",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/luva-em-raspa-petroleira-ca-42973-6871",
+      "image": "/products/images/0068/6871.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--368--marfe"
+  }
+}

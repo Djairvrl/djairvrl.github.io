@@ -1,0 +1,146 @@
+{
+  "title": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria acessórios de lubrificação/abastecimento em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "583",
+      "title": "ACOPLADOR HIDRÁULICO UNIVERSAL PARA BOMBA MANUAL  BOZZA REF 310-C-NEWS",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "014200047",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/acoplador-hidraulico-universal-para-bomba-manual-bozza-ref-310cnews-583",
+      "image": "/products/images/0005/583.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "9274",
+      "title": "ACOPLADOR P GRAXA ENGATE RAPIDO 1/8NPT",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.420.0090",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/acoplador-p-graxa-engate-rapido-18npt-9274",
+      "image": "/products/images/0092/9274.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "12867",
+      "title": "CONECTOR GIRATORIA",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "9262",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/conector-giratoria-12867",
+      "image": "/products/images/0128/12867.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "11831",
+      "title": "CONECTOR GIRATORIA Z AL 3/4 58MM 35Z LUB",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "LUBEFER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5325",
+      "manufacturerCode": "LUB-35Z",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/conector-giratoria-z-al-34-58mm-35z-lub-11831",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "1394",
+      "title": "KIT REPARO PARA BOMBAS MANUAIS BOZZA 8520 E 8622 - BOZZA 15000303",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "15000303",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/kit-reparo-para-bombas-manuais-bozza-8520-e-8622--bozza-15000303-1394",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "1395",
+      "title": "KIT REPARO PARA BOMBAS MANUAIS BOZZA 8522 E 8620 - BOZZA 01.500.0333",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "01.500.0333",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/kit-reparo-para-bombas-manuais-bozza-8522-e-8620--bozza-015000333-1395",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "1880",
+      "title": "MANG BORR 1/4 R2AT GRAXA 10M 5680-10",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "02.231.0189",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/mang-borr-14-r2at-graxa-10m-568010-1880",
+      "image": "/products/images/0018/1880.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--acessorios-de-lubrificacao-abastecimento"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "GERADORES ESTACIONÁRIOS",
+  "parentLabel": "Geradores",
+  "description": "Produtos da categoria geradores estacionários em geradores.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Geradores",
+      "to": "/maquinas-e-acessorios/geradores"
+    },
+    {
+      "label": "GERADORES ESTACIONÁRIOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12040",
+      "title": "GERADOR DIESEL 125KVA ATS 380V 60HZ",
+      "brand": "TOYAMA",
+      "brandCode": "549",
+      "supplier": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "supplierCode": "1909",
+      "manufacturerCode": "254-235",
+      "category": "GERADORES ESTACIONÁRIOS",
+      "categorySlug": "geradores-estacionarios",
+      "path": "/gerador-diesel-125kva-ats-380v-60hz-12040",
+      "image": "/products/images/0120/12040.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--geradores--geradores-estacionarios"
+  }
+}

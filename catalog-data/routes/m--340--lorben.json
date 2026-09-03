@@ -1,0 +1,36 @@
+{
+  "title": "LORBEN",
+  "parentLabel": "Marca",
+  "description": "Produtos LORBEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LORBEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6775",
+      "title": "HOLOFOTE LED PORTATIL RECARR PR/ DAGUA",
+      "brand": "LORBEN",
+      "brandCode": "340",
+      "supplier": "TONINA COMERCIO, IMPORTACAO E EXPORTACAO LTDA.",
+      "supplierCode": "1263",
+      "manufacturerCode": "594",
+      "category": "PORTE MÉDIO",
+      "categorySlug": "porte-medio",
+      "path": "/holofote-led-portatil-recarr-pr-dagua-6775",
+      "image": "/products/images/0067/6775.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--340--lorben"
+  }
+}

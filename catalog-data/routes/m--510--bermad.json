@@ -1,0 +1,36 @@
+{
+  "title": "BERMAD",
+  "parentLabel": "Marca",
+  "description": "Produtos BERMAD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BERMAD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6792",
+      "title": "VALVULA ELETRICA 3/4\" (19MM) MOD. 21T-M",
+      "brand": "BERMAD",
+      "brandCode": "510",
+      "supplier": "INSTAAGRO SOLUCOES EM AGRONEGOCIOS LTDA",
+      "supplierCode": "1722",
+      "manufacturerCode": "590_0_0_U",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/valvula-eletrica-34-19mm-mod-21tm-6792",
+      "image": "/products/images/0067/6792.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--510--bermad"
+  }
+}

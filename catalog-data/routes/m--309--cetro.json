@@ -1,0 +1,87 @@
+{
+  "title": "CETRO",
+  "parentLabel": "Marca",
+  "description": "Produtos CETRO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6613",
+      "title": "PLASTICO P/PLASTI TAM A3 303X426MM C/100",
+      "brand": "CETRO",
+      "brandCode": "309",
+      "supplier": "CETRO SOLUCOES EM EMBALAGENS EIRELI",
+      "supplierCode": "1268",
+      "manufacturerCode": "05001.0010",
+      "category": "PLASTIFICADORAS",
+      "categorySlug": "plastificadoras",
+      "path": "/plastico-pplasti-tam-a3-303x426mm-c100-6613",
+      "image": "/products/images/0066/6613.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6614",
+      "title": "PLASTICO P/PLASTIFICACA TAM A4 220X307MM",
+      "brand": "CETRO",
+      "brandCode": "309",
+      "supplier": "CETRO SOLUCOES EM EMBALAGENS EIRELI",
+      "supplierCode": "1268",
+      "manufacturerCode": "05001.0011",
+      "category": "PLASTIFICADORAS",
+      "categorySlug": "plastificadoras",
+      "path": "/plastico-pplastificaca-tam-a4-220x307mm-6614",
+      "image": "/products/images/0066/6614.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6612",
+      "title": "PLASTIFICAD PORTAT C/CORTADO  CLM 320 A3",
+      "brand": "CETRO",
+      "brandCode": "309",
+      "supplier": "CETRO SOLUCOES EM EMBALAGENS EIRELI",
+      "supplierCode": "1268",
+      "manufacturerCode": "01034.0010",
+      "category": "PLASTIFICADORAS",
+      "categorySlug": "plastificadoras",
+      "path": "/plastificad-portat-ccortado-clm-320-a3-6612",
+      "image": "/products/images/0066/6612.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8407",
+      "title": "SELADORA DE PEDAL C TEMP 30CM CFTS 300 T",
+      "brand": "CETRO",
+      "brandCode": "309",
+      "supplier": "CETRO SOLUCOES EM EMBALAGENS EIRELI",
+      "supplierCode": "1268",
+      "manufacturerCode": "MQ000575",
+      "category": "SELADOR",
+      "categorySlug": "selador",
+      "path": "/seladora-de-pedal-c-temp-30cm-cfts-300-t-8407",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--309--cetro"
+  }
+}

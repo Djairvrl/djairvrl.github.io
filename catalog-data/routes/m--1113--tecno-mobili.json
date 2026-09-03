@@ -1,0 +1,36 @@
+{
+  "title": "TECNO MOBILI",
+  "parentLabel": "Marca",
+  "description": "Produtos TECNO MOBILI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECNO MOBILI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12674",
+      "title": "MESA ESCRITORIO REUNIÃO ME4190 BCO",
+      "brand": "TECNO MOBILI",
+      "brandCode": "1113",
+      "supplier": "COLCHAO COSTA RICA COMERCIO DE MOVEIS E COLCHOES LTDA",
+      "supplierCode": "5855",
+      "manufacturerCode": "2409609024470",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-escritorio-reuniao-me4190-bco-12674",
+      "image": "/products/images/0126/12674.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1113--tecno-mobili"
+  }
+}

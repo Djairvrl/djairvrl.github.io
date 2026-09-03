@@ -1,0 +1,44 @@
+{
+  "title": "CAVALETE",
+  "parentLabel": "Ferragens",
+  "description": "Produtos da categoria cavalete em ferragens.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Ferragens",
+      "to": "/material-de-construcao/ferragens"
+    },
+    {
+      "label": "CAVALETE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6767",
+      "title": "CAVALETE DE FERRO 1,60M X 1M",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "supplierCode": "935",
+      "manufacturerCode": "0063",
+      "category": "CAVALETE",
+      "categorySlug": "cavalete",
+      "path": "/cavalete-de-ferro-160m-x-1m-6767",
+      "image": "/products/images/0067/6767.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "material-de-construcao--ferragens--cavalete"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "GALLO",
+  "parentLabel": "Marca",
+  "description": "Produtos GALLO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GALLO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11203",
+      "title": "AZEITE GALLO EXT VIRGEM VD 250ML",
+      "brand": "GALLO",
+      "brandCode": "903",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "012787",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/azeite-gallo-ext-virgem-vd-250ml-11203",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12740",
+      "title": "AZEITE OLIVA GALLO 500ML EXT VIRGEM TRAD",
+      "brand": "GALLO",
+      "brandCode": "903",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "195375",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/azeite-oliva-gallo-500ml-ext-virgem-trad-12740",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11362",
+      "title": "KIT COM 2 AZEITES 500ML",
+      "brand": "GALLO",
+      "brandCode": "903",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11362",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/kit-com-2-azeites-500ml-11362",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--903--gallo"
+  }
+}

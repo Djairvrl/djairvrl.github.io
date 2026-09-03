@@ -1,0 +1,53 @@
+{
+  "title": "POWERSAFE",
+  "parentLabel": "Marca",
+  "description": "Produtos POWERSAFE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "POWERSAFE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10614",
+      "title": "BATERIA GETPOWER 12V 18AH (GP",
+      "brand": "POWERSAFE",
+      "brandCode": "787",
+      "supplier": "POWERSAFE IMPORTACAO, EXPORTACAO LTDA.",
+      "supplierCode": "3649",
+      "manufacturerCode": "P1200180A1B39",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-getpower-12v-18ah-gp-10614",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10615",
+      "title": "BATERIA GETPOWER 12V 2.3AH (GP",
+      "brand": "POWERSAFE",
+      "brandCode": "787",
+      "supplier": "POWERSAFE IMPORTACAO, EXPORTACAO LTDA.",
+      "supplierCode": "3649",
+      "manufacturerCode": "P1200023A1A45",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-getpower-12v-23ah-gp-10615",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--787--powersafe"
+  }
+}

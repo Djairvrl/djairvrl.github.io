@@ -1,0 +1,36 @@
+{
+  "title": "MOBILEPRINTER",
+  "parentLabel": "Marca",
+  "description": "Produtos MOBILEPRINTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MOBILEPRINTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7643",
+      "title": "MINI IMPRE PORT BLUET TERM 58MM ANDROID",
+      "brand": "MOBILEPRINTER",
+      "brandCode": "522",
+      "supplier": "WPE ELETRONICOS LTDA",
+      "supplierCode": "1758",
+      "manufacturerCode": "MLB2112069904_174000020039",
+      "category": "IMPRESSORAS",
+      "categorySlug": "impressoras",
+      "path": "/mini-impre-port-bluet-term-58mm-android-7643",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--522--mobileprinter"
+  }
+}

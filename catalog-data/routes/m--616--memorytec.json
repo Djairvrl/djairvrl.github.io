@@ -1,0 +1,53 @@
+{
+  "title": "MEMORYTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos MEMORYTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MEMORYTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6817",
+      "title": "BATERIA RECARREGÁVEL NB-10L 7.4V 920MAH PARA CANON - MEMORYTEC",
+      "brand": "MEMORYTEC",
+      "brandCode": "616",
+      "supplier": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "supplierCode": "1234",
+      "manufacturerCode": "1679",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/bateria-recarregavel-nb10l-74v-920mah-para-canon--memorytec-6817",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "7144",
+      "title": "CARREGADOR DE BATERIA NB-10L PARA CANON G1X, SX40, SX40HS - MEMORYTEC",
+      "brand": "MEMORYTEC",
+      "brandCode": "616",
+      "supplier": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "supplierCode": "1234",
+      "manufacturerCode": "1834",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-de-bateria-nb10l-para-canon-g1x-sx40-sx40hs--memorytec-7144",
+      "image": "/products/images/0071/7144.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--616--memorytec"
+  }
+}

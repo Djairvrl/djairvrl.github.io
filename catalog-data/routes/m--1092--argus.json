@@ -1,0 +1,53 @@
+{
+  "title": "ARGUS",
+  "parentLabel": "Marca",
+  "description": "Produtos ARGUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ARGUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12564",
+      "title": "DERIVANTE ARGUS DY-300N",
+      "brand": "ARGUS",
+      "brandCode": "1092",
+      "supplier": "ARGUS PRODUTOS E SISTEMAS CONTRA INCENDIO LTDA",
+      "supplierCode": "5778",
+      "manufacturerCode": "2723-N",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/derivante-argus-dy300n-12564",
+      "image": "/products/images/0125/12564.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12563",
+      "title": "ESGUIHCO MOD SV 30-125AN 1.1/2",
+      "brand": "ARGUS",
+      "brandCode": "1092",
+      "supplier": "ARGUS PRODUTOS E SISTEMAS CONTRA INCENDIO LTDA",
+      "supplierCode": "5778",
+      "manufacturerCode": "18366AN-15",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/esguihco-mod-sv-30125an-112-12563",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1092--argus"
+  }
+}

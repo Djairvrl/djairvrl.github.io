@@ -1,0 +1,2000 @@
+{
+  "title": "Máquinas e Acessórios",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios"
+    }
+  ],
+  "children": [
+    {
+      "name": "Geradores e Energia Auxiliar",
+      "slug": "geradores-e-energia-auxiliar",
+      "path": "/maquinas-e-acessorios/geradores-e-energia-auxiliar",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Motores, Motobombas e Compressores",
+      "slug": "motores-motobombas-e-compressores",
+      "path": "/maquinas-e-acessorios/motores-motobombas-e-compressores",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Equipamentos e Força Hidráulica",
+      "slug": "equipamentos-e-forca-hidraulica",
+      "path": "/maquinas-e-acessorios/equipamentos-e-forca-hidraulica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Lavadoras e Aspiradores Industriais",
+      "slug": "lavadoras-e-aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/lavadoras-e-aspiradores-industriais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Solda Industrial, Corte e Oxi-Combustível",
+      "slug": "solda-industrial-corte-e-oxi-combustivel",
+      "path": "/maquinas-e-acessorios/solda-industrial-corte-e-oxi-combustivel",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Usinagem CNC, Implementos e Climatização",
+      "slug": "usinagem-cnc-implementos-e-climatizacao",
+      "path": "/maquinas-e-acessorios/usinagem-cnc-implementos-e-climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Aspiradores Industriais",
+      "slug": "aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/aspiradores-industriais",
+      "count": 27,
+      "categories": [
+        {
+          "name": "ASPIRADORES DE PÓ INDUSTRIAL",
+          "slug": "aspiradores-de-po-industrial",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-de-po-industrial",
+          "count": 9
+        },
+        {
+          "name": "ASPIRADORES PORTÁTEIS",
+          "slug": "aspiradores-portateis",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-portateis",
+          "count": 17
+        },
+        {
+          "name": "EXTRATORAS",
+          "slug": "extratoras",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/extratoras",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Climatização Industrial",
+      "slug": "climatizacao-industrial",
+      "path": "/maquinas-e-acessorios/climatizacao-industrial",
+      "count": 2,
+      "categories": [
+        {
+          "name": "SECADOR E AQUECEDOR INDUSTRIAL",
+          "slug": "secador-e-aquecedor-industrial",
+          "path": "/maquinas-e-acessorios/climatizacao-industrial/secador-e-aquecedor-industrial",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Compressores",
+      "slug": "compressores",
+      "path": "/maquinas-e-acessorios/compressores",
+      "count": 30,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/compressores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "COMPRESSORES DE AR ELÉTRICOS",
+          "slug": "compressores-de-ar-eletricos",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-eletricos",
+          "count": 13
+        },
+        {
+          "name": "COMPRESSORES DE AR PORTÁTEIS",
+          "slug": "compressores-de-ar-portateis",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-portateis",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos Hidráulicos",
+      "slug": "equipamentos-hidraulicos",
+      "path": "/maquinas-e-acessorios/equipamentos-hidraulicos",
+      "count": 55,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS HIDRÁULICOS",
+          "slug": "acessorios-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/acessorios-hidraulicos",
+          "count": 14
+        },
+        {
+          "name": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+          "slug": "alicates-de-crimpagem-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/alicates-de-crimpagem-hidraulicos",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TESTE HIDROSTÁTICO",
+          "slug": "bombas-de-teste-hidrostatico",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-de-teste-hidrostatico",
+          "count": 3
+        },
+        {
+          "name": "BOMBAS HIDRÁULICAS",
+          "slug": "bombas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "CILINDROS HIDRÁULICOS",
+          "slug": "cilindros-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/cilindros-hidraulicos",
+          "count": 12
+        },
+        {
+          "name": "MACACOS HIDRÁULICOS",
+          "slug": "macacos-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/macacos-hidraulicos",
+          "count": 11
+        },
+        {
+          "name": "PRENSAS HIDRÁULICAS",
+          "slug": "prensas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/prensas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "VÁLVULAS HIDRÁULICAS",
+          "slug": "valvulas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/valvulas-hidraulicas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Geradores",
+      "slug": "geradores",
+      "path": "/maquinas-e-acessorios/geradores",
+      "count": 26,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/geradores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "GERADORES A DIESEL",
+          "slug": "geradores-a-diesel",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-diesel",
+          "count": 2
+        },
+        {
+          "name": "GERADORES A GASOLINA",
+          "slug": "geradores-a-gasolina",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-gasolina",
+          "count": 3
+        },
+        {
+          "name": "GERADORES ESTACIONÁRIOS",
+          "slug": "geradores-estacionarios",
+          "path": "/maquinas-e-acessorios/geradores/geradores-estacionarios",
+          "count": 1
+        },
+        {
+          "name": "GERADORES PORTÁTEIS",
+          "slug": "geradores-portateis",
+          "path": "/maquinas-e-acessorios/geradores/geradores-portateis",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Lavadoras De Alta Pressão",
+      "slug": "lavadoras-de-alta-pressao",
+      "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao",
+      "count": 17,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/acessorios",
+          "count": 1
+        },
+        {
+          "name": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+          "slug": "lavadoras-de-alta-pressao-industriais",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadoras-de-alta-pressao-industriais",
+          "count": 6
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+          "slug": "lavadores-de-alta-pressao-eletricas",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-eletricas",
+          "count": 7
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS",
+          "slug": "lavadores-de-alta-pressao-portateis",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-portateis",
+          "count": 1
+        },
+        {
+          "name": "MANGUEIRAS DE ALTA PRESSÃO",
+          "slug": "mangueiras-de-alta-pressao",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/mangueiras-de-alta-pressao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Motores",
+      "slug": "motores",
+      "path": "/maquinas-e-acessorios/motores",
+      "count": 28,
+      "categories": [
+        {
+          "name": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+          "slug": "bombas-de-agua-e-motobombas",
+          "path": "/maquinas-e-acessorios/motores/bombas-de-agua-e-motobombas",
+          "count": 13
+        },
+        {
+          "name": "MOTORES DE COMBUSTÃO INTERNA",
+          "slug": "motores-de-combustao-interna",
+          "path": "/maquinas-e-acessorios/motores/motores-de-combustao-interna",
+          "count": 3
+        },
+        {
+          "name": "MOTORES ELÉTRICOS MONOFÁSICOS",
+          "slug": "motores-eletricos-monofasicos",
+          "path": "/maquinas-e-acessorios/motores/motores-eletricos-monofasicos",
+          "count": 1
+        },
+        {
+          "name": "MOTORES PARA PORTÃO",
+          "slug": "motores-para-portao",
+          "path": "/maquinas-e-acessorios/motores/motores-para-portao",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Máquinas Cnc",
+      "slug": "maquinas-cnc",
+      "path": "/maquinas-e-acessorios/maquinas-cnc",
+      "count": 1,
+      "categories": [
+        {
+          "name": "ROUTER CNC",
+          "slug": "router-cnc",
+          "path": "/maquinas-e-acessorios/maquinas-cnc/router-cnc",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Solda Industrial",
+      "slug": "solda-industrial",
+      "path": "/maquinas-e-acessorios/solda-industrial",
+      "count": 142,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/solda-industrial/acessorios",
+          "count": 5
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/maquinas-e-acessorios/solda-industrial/bocais",
+          "count": 6
+        },
+        {
+          "name": "CORTE PLASMA",
+          "slug": "corte-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/corte-plasma",
+          "count": 4
+        },
+        {
+          "name": "DESSOLDADORES",
+          "slug": "dessoldadores",
+          "path": "/maquinas-e-acessorios/solda-industrial/dessoldadores",
+          "count": 1
+        },
+        {
+          "name": "ELETRODO REVESTIDO",
+          "slug": "eletrodo-revestido",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-revestido",
+          "count": 17
+        },
+        {
+          "name": "ELETRODO TIG",
+          "slug": "eletrodo-tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-tig",
+          "count": 6
+        },
+        {
+          "name": "EQUIPAMENTO A GÁS",
+          "slug": "equipamento-a-gas",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-a-gas",
+          "count": 8
+        },
+        {
+          "name": "EQUIPAMENTO DE PLASMA",
+          "slug": "equipamento-de-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-de-plasma",
+          "count": 1
+        },
+        {
+          "name": "FERRAMENTAS",
+          "slug": "ferramentas",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferramentas",
+          "count": 9
+        },
+        {
+          "name": "FERRO DE SOLDA",
+          "slug": "ferro-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferro-de-solda",
+          "count": 12
+        },
+        {
+          "name": "LIMPEZA DE SOLDA",
+          "slug": "limpeza-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/limpeza-de-solda",
+          "count": 12
+        },
+        {
+          "name": "MAQUINA DE SOLDA",
+          "slug": "maquina-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/maquina-de-solda",
+          "count": 10
+        },
+        {
+          "name": "MIG/MAG",
+          "slug": "mig-mag",
+          "path": "/maquinas-e-acessorios/solda-industrial/mig-mag",
+          "count": 7
+        },
+        {
+          "name": "MINI-MAÇARICOS",
+          "slug": "mini-macaricos",
+          "path": "/maquinas-e-acessorios/solda-industrial/mini-macaricos",
+          "count": 6
+        },
+        {
+          "name": "MULTIPROCESSO",
+          "slug": "multiprocesso",
+          "path": "/maquinas-e-acessorios/solda-industrial/multiprocesso",
+          "count": 1
+        },
+        {
+          "name": "OXI-COMBUSTÍVEL",
+          "slug": "oxi-combustivel",
+          "path": "/maquinas-e-acessorios/solda-industrial/oxi-combustivel",
+          "count": 4
+        },
+        {
+          "name": "REGULADOR",
+          "slug": "regulador",
+          "path": "/maquinas-e-acessorios/solda-industrial/regulador",
+          "count": 10
+        },
+        {
+          "name": "RETIFICADOR",
+          "slug": "retificador",
+          "path": "/maquinas-e-acessorios/solda-industrial/retificador",
+          "count": 1
+        },
+        {
+          "name": "TIG",
+          "slug": "tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/tig",
+          "count": 1
+        },
+        {
+          "name": "TOCHAS",
+          "slug": "tochas",
+          "path": "/maquinas-e-acessorios/solda-industrial/tochas",
+          "count": 9
+        },
+        {
+          "name": "VARETA DE SOLDA",
+          "slug": "vareta-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/vareta-de-solda",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "3549",
+      "name": "2A ENERGY LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-3549.json"
+    },
+    {
+      "code": "518",
+      "name": "ACO POTIGUAR LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-518.json"
+    },
+    {
+      "code": "790",
+      "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-790.json"
+    },
+    {
+      "code": "628",
+      "name": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "count": 6,
+      "file": "maquinas-e-acessorios--fornecedor-628.json"
+    },
+    {
+      "code": "6210",
+      "name": "APOLO DISTRIBUIDORA DE PECAS E MAQUINAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-6210.json"
+    },
+    {
+      "code": "3792",
+      "name": "BAZZO MAQUINAS",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-3792.json"
+    },
+    {
+      "code": "412",
+      "name": "BLACK  DECKER DO BRASIL LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-412.json"
+    },
+    {
+      "code": "5854",
+      "name": "BOSSA NOVA COMERCIAL LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5854.json"
+    },
+    {
+      "code": "1143",
+      "name": "BR TORCH IMPORTACAO E COMERCIO DE FERRAGENS LTDA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-1143.json"
+    },
+    {
+      "code": "401",
+      "name": "BRANCO MOTORES LTDA",
+      "count": 13,
+      "file": "maquinas-e-acessorios--fornecedor-401.json"
+    },
+    {
+      "code": "5789",
+      "name": "BRASIL HOME EQUIPAMENTOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5789.json"
+    },
+    {
+      "code": "1313",
+      "name": "BRAZILIAN WELDING INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1313.json"
+    },
+    {
+      "code": "106",
+      "name": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-106.json"
+    },
+    {
+      "code": "28",
+      "name": "BUNZL EQUIPAMENTOS P PROTECAO INDIVIDUAL",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-28.json"
+    },
+    {
+      "code": "4184",
+      "name": "C4M COMERCIO E SERVICOS DE EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-4184.json"
+    },
+    {
+      "code": "930",
+      "name": "CARACOL COM DE MAQ E FERRAMENTAS LTDA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-930.json"
+    },
+    {
+      "code": "66",
+      "name": "CARBOGRAFITE EQUIPAMENTOS INDUSTRIAIS",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-66.json"
+    },
+    {
+      "code": "5871",
+      "name": "COMERCIAL DE BOMBAS E MOTORES LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5871.json"
+    },
+    {
+      "code": "125",
+      "name": "COMERCIAL MARANGUAPE LTDA",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-125.json"
+    },
+    {
+      "code": "317",
+      "name": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-317.json"
+    },
+    {
+      "code": "1223",
+      "name": "CORDEIRO MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1223.json"
+    },
+    {
+      "code": "5890",
+      "name": "CSM - COMPONENTES, SISTEMAS E MAQUINAS PARA CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5890.json"
+    },
+    {
+      "code": "2772",
+      "name": "DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2772.json"
+    },
+    {
+      "code": "2593",
+      "name": "DESIGN FRANCA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2593.json"
+    },
+    {
+      "code": "5130",
+      "name": "DUTRA MAQUINAS COMERCIAL E TECNICA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5130.json"
+    },
+    {
+      "code": "2173",
+      "name": "EBARA BOMBAS AMERICA DO SUL LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2173.json"
+    },
+    {
+      "code": "4257",
+      "name": "ELETROMASSA COMPONENTES E ACESSORIOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-4257.json"
+    },
+    {
+      "code": "1060",
+      "name": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1060.json"
+    },
+    {
+      "code": "1206",
+      "name": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "count": 11,
+      "file": "maquinas-e-acessorios--fornecedor-1206.json"
+    },
+    {
+      "code": "1190",
+      "name": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-1190.json"
+    },
+    {
+      "code": "1366",
+      "name": "ESKYCELL ASSISTENCIA DE CELULARES LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1366.json"
+    },
+    {
+      "code": "3524",
+      "name": "ESSEX HORNETS BRAZIL LTDA.",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-3524.json"
+    },
+    {
+      "code": "795",
+      "name": "F FERNANDES DE SOUZA & CIA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-795.json"
+    },
+    {
+      "code": "2365",
+      "name": "FERRAGENS SAO JUDAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2365.json"
+    },
+    {
+      "code": "174",
+      "name": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-174.json"
+    },
+    {
+      "code": "927",
+      "name": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "count": 5,
+      "file": "maquinas-e-acessorios--fornecedor-927.json"
+    },
+    {
+      "code": "757",
+      "name": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-757.json"
+    },
+    {
+      "code": "806",
+      "name": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "count": 11,
+      "file": "maquinas-e-acessorios--fornecedor-806.json"
+    },
+    {
+      "code": "1161",
+      "name": "FIRE COMERCIO DE CELULARES E ACESSORIOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1161.json"
+    },
+    {
+      "code": "271",
+      "name": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-271.json"
+    },
+    {
+      "code": "1790",
+      "name": "FRESNOMAQ INDUSTRIA DE MAQUINAS S/A",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1790.json"
+    },
+    {
+      "code": "820",
+      "name": "FRICK SOLDAS LTDA",
+      "count": 30,
+      "file": "maquinas-e-acessorios--fornecedor-820.json"
+    },
+    {
+      "code": "5175",
+      "name": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5175.json"
+    },
+    {
+      "code": "2416",
+      "name": "GSERRA COMERCIO VAREJISTA DE MERCADORIAS LTDA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-2416.json"
+    },
+    {
+      "code": "3608",
+      "name": "GURGELMIX MAQUINAS E FERRAMENTAS S.A.",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-3608.json"
+    },
+    {
+      "code": "727",
+      "name": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-727.json"
+    },
+    {
+      "code": "1046",
+      "name": "HIDRO METALURGICA ZM LTDA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-1046.json"
+    },
+    {
+      "code": "1511",
+      "name": "HIDROJATO COMERCIO ASSISTENCIA TECNICA E LOCACAO DE MAQUINAS",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1511.json"
+    },
+    {
+      "code": "2274",
+      "name": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2274.json"
+    },
+    {
+      "code": "1927",
+      "name": "HORUS FERRAMENTAS E PECAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1927.json"
+    },
+    {
+      "code": "1722",
+      "name": "INSTAAGRO SOLUCOES EM AGRONEGOCIOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1722.json"
+    },
+    {
+      "code": "992",
+      "name": "IP CLEANING IND E COM LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-992.json"
+    },
+    {
+      "code": "6280",
+      "name": "ITAQUA INDUSTRIA E COMERCIO DE RESISTENCIAS ELETRICAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-6280.json"
+    },
+    {
+      "code": "2278",
+      "name": "J. P.TESSARINI COMERCIO DE EQUIPAMENTOS DE INFORMATICA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2278.json"
+    },
+    {
+      "code": "4233",
+      "name": "JDC COMERCIO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMATICA LT",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-4233.json"
+    },
+    {
+      "code": "2377",
+      "name": "JERONYMO DIX-NEUF PEÇAS E SERVIÇOS LTDA",
+      "count": 7,
+      "file": "maquinas-e-acessorios--fornecedor-2377.json"
+    },
+    {
+      "code": "2181",
+      "name": "JN DISTRIBUIDORA DE GAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2181.json"
+    },
+    {
+      "code": "105",
+      "name": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-105.json"
+    },
+    {
+      "code": "1185",
+      "name": "KARCHER INDUSTRIA E COMERCIO LIMITADA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-1185.json"
+    },
+    {
+      "code": "2428",
+      "name": "L DE SOUZA COMERCIO EM GERAL",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2428.json"
+    },
+    {
+      "code": "920",
+      "name": "LAVORWASH BRASIL INDUSTRIAL E COMERCIAL LTDA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-920.json"
+    },
+    {
+      "code": "493",
+      "name": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-493.json"
+    },
+    {
+      "code": "4212",
+      "name": "LUAN FERRAGENS FERRAMENTAS E REFRIGERACAO LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-4212.json"
+    },
+    {
+      "code": "1349",
+      "name": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-1349.json"
+    },
+    {
+      "code": "1658",
+      "name": "M E GOMES DA SILVA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1658.json"
+    },
+    {
+      "code": "5817",
+      "name": "M. PEREIRA MATERIAIS HIDRAULICOS E DE CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5817.json"
+    },
+    {
+      "code": "1115",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 5,
+      "file": "maquinas-e-acessorios--fornecedor-1115.json"
+    },
+    {
+      "code": "1095",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 10,
+      "file": "maquinas-e-acessorios--fornecedor-1095.json"
+    },
+    {
+      "code": "223",
+      "name": "MARCON INDUSTRIA METALURGICA LTDA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-223.json"
+    },
+    {
+      "code": "2591",
+      "name": "MARUZAN VIEIRA DE AMORIM LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2591.json"
+    },
+    {
+      "code": "2423",
+      "name": "MASSON COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2423.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 5,
+      "file": "maquinas-e-acessorios--fornecedor-4.json"
+    },
+    {
+      "code": "3097",
+      "name": "MEG ATACADO & VAREJO LTDA",
+      "count": 5,
+      "file": "maquinas-e-acessorios--fornecedor-3097.json"
+    },
+    {
+      "code": "3251",
+      "name": "MERITO COMERCIO DE EQUIPAMENTOS LIMITADA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-3251.json"
+    },
+    {
+      "code": "6217",
+      "name": "METALURGICA METAL QUALITY LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-6217.json"
+    },
+    {
+      "code": "2012",
+      "name": "MMC COMERCIAL LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2012.json"
+    },
+    {
+      "code": "2878",
+      "name": "MRE FERRAMENTAS COMERCIAL LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2878.json"
+    },
+    {
+      "code": "244",
+      "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-244.json"
+    },
+    {
+      "code": "6074",
+      "name": "NANDYR COMERCIO DE VARIEDADES E ACESSORIOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-6074.json"
+    },
+    {
+      "code": "2422",
+      "name": "NEVATRON COMERCIAL LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2422.json"
+    },
+    {
+      "code": "1478",
+      "name": "NEWRACING MINI VEICULOS E MAQUINAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1478.json"
+    },
+    {
+      "code": "1488",
+      "name": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1488.json"
+    },
+    {
+      "code": "3090",
+      "name": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 14,
+      "file": "maquinas-e-acessorios--fornecedor-3090.json"
+    },
+    {
+      "code": "846",
+      "name": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-846.json"
+    },
+    {
+      "code": "88",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 9,
+      "file": "maquinas-e-acessorios--fornecedor-88.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 22,
+      "file": "maquinas-e-acessorios--fornecedor-122.json"
+    },
+    {
+      "code": "5527",
+      "name": "OXIGAS EQUIPAMENTOS INDUSTRIAIS E MEDICINAIS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5527.json"
+    },
+    {
+      "code": "2267",
+      "name": "PALMA MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2267.json"
+    },
+    {
+      "code": "1788",
+      "name": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1788.json"
+    },
+    {
+      "code": "2285",
+      "name": "QUALITY GERADORES, ASSISTENCIA TECNICA & COMERCIO LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2285.json"
+    },
+    {
+      "code": "1428",
+      "name": "R B RESSUTI LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1428.json"
+    },
+    {
+      "code": "5546",
+      "name": "R N FLEX COMERCIO & SERVICOS HIDRAULICOS LTDA",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-5546.json"
+    },
+    {
+      "code": "1369",
+      "name": "REDEMEKE COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1369.json"
+    },
+    {
+      "code": "158",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-158.json"
+    },
+    {
+      "code": "908",
+      "name": "ROTHENBERGER DO BRASIL LTDA",
+      "count": 4,
+      "file": "maquinas-e-acessorios--fornecedor-908.json"
+    },
+    {
+      "code": "276",
+      "name": "SCHULZ COMPRESSORES LTDA",
+      "count": 14,
+      "file": "maquinas-e-acessorios--fornecedor-276.json"
+    },
+    {
+      "code": "899",
+      "name": "SEMAR IMPORT ATACADISTA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-899.json"
+    },
+    {
+      "code": "6064",
+      "name": "SMF - IMPORTACAO E COMERCIO LTDA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-6064.json"
+    },
+    {
+      "code": "434",
+      "name": "STAUFF BRASIL LTDA",
+      "count": 5,
+      "file": "maquinas-e-acessorios--fornecedor-434.json"
+    },
+    {
+      "code": "1539",
+      "name": "SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1539.json"
+    },
+    {
+      "code": "1389",
+      "name": "TACIANE P S DE ALMEIDA FERRAGENS",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-1389.json"
+    },
+    {
+      "code": "1655",
+      "name": "TAPCAMP COMERCIO VAREJISTA DE LUBRIFICANTES LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1655.json"
+    },
+    {
+      "code": "4236",
+      "name": "TATIANA MORGADO PERSICHETTO LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-4236.json"
+    },
+    {
+      "code": "2425",
+      "name": "TEFSI GROUP LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2425.json"
+    },
+    {
+      "code": "1956",
+      "name": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "count": 2,
+      "file": "maquinas-e-acessorios--fornecedor-1956.json"
+    },
+    {
+      "code": "1909",
+      "name": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-1909.json"
+    },
+    {
+      "code": "252",
+      "name": "TRAMONTINA MULTI S/A",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-252.json"
+    },
+    {
+      "code": "509",
+      "name": "TRAMONTINA NORDESTE S/A",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-509.json"
+    },
+    {
+      "code": "5860",
+      "name": "TSY COMERCIO DE ELETROELETRONICOS LTDA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--fornecedor-5860.json"
+    },
+    {
+      "code": "5240",
+      "name": "TSY COMERCIO DE ELETROELETRONICOS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5240.json"
+    },
+    {
+      "code": "1637",
+      "name": "UNIMARCAS COMERCIO E LOGISTICA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1637.json"
+    },
+    {
+      "code": "416",
+      "name": "V8 BRASIL IND COM DE MAQUINAS E FERRAM",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-416.json"
+    },
+    {
+      "code": "2302",
+      "name": "VIPART INDUSTRIA E COMERCIO DE MAQUINAS E EQUIPAMENTOS PARA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-2302.json"
+    },
+    {
+      "code": "1370",
+      "name": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-1370.json"
+    },
+    {
+      "code": "5821",
+      "name": "WELD QUALITY SOLDAS E SUPRIMENTOS INDUSTRIAIS LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-5821.json"
+    },
+    {
+      "code": "5566",
+      "name": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "count": 5,
+      "file": "maquinas-e-acessorios--fornecedor-5566.json"
+    },
+    {
+      "code": "4238",
+      "name": "WS ELETRONICA LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-4238.json"
+    },
+    {
+      "code": "4996",
+      "name": "WSRC MACHINES DO BRASIL LTDA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--fornecedor-4996.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "10935",
+      "title": "10 PONTAS FERRO SOLDA COBRE 900M",
+      "brand": "HIKARI",
+      "brandCode": "505",
+      "supplier": "JDC COMERCIO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMATICA LT",
+      "supplierCode": "4233",
+      "manufacturerCode": "MLB3518664021_180763757657",
+      "category": "FERRO DE SOLDA",
+      "categorySlug": "ferro-de-solda",
+      "path": "/10-pontas-ferro-solda-cobre-900m-10935",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12130",
+      "title": "14MANGUEIRA R2 -6",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "R N FLEX COMERCIO & SERVICOS HIDRAULICOS LTDA",
+      "supplierCode": "5546",
+      "manufacturerCode": "6882",
+      "category": "ACESSÓRIOS HIDRÁULICOS",
+      "categorySlug": "acessorios-hidraulicos",
+      "path": "/14mangueira-r2-6-12130",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "12137",
+      "title": "14MANGUEIRA R2 -6 COMBO",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12137",
+      "category": "ACESSÓRIOS HIDRÁULICOS",
+      "categorySlug": "acessorios-hidraulicos",
+      "path": "/14mangueira-r2-6-combo-12137",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "13054",
+      "title": "ACENDEDOR MACARICO TIPO CONCHA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SMF - IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "6064",
+      "manufacturerCode": "00888",
+      "category": "OXI-COMBUSTÍVEL",
+      "categorySlug": "oxi-combustivel",
+      "path": "/acendedor-macarico-tipo-concha-13054",
+      "image": "/products/images/0130/13054.webp",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "13083",
+      "title": "ACENDEDOR MAÇARICO CONCHA C/10 PEDRAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SMF - IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "6064",
+      "manufacturerCode": "13083",
+      "category": "OXI-COMBUSTÍVEL",
+      "categorySlug": "oxi-combustivel",
+      "path": "/acendedor-macarico-concha-c10-pedras-13083",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "10726",
+      "title": "ALICATE CRIMPADOR ACV245",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3686245000",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-acv245-10726",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "2413",
+      "title": "ALICATE CRIMPADOR HIDRÁULICO 508MM ACV 300 COM 12 MATRIZES -  VONDER 36.86.300.000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686300000",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-hidraulico-508mm-acv-300-com-12-matrizes--vonder-3686300000-2413",
+      "image": "/products/images/0024/2413.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "9676",
+      "title": "ALICATE CRIMPADOR HIDRÁULICO A BATERIA 20V ACW400  WORKER REF 300844",
+      "brand": "WORKER",
+      "brandCode": "421",
+      "supplier": "SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.",
+      "supplierCode": "1539",
+      "manufacturerCode": "300844",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-hidraulico-a-bateria-20v-acw400-worker-ref-300844-9676",
+      "image": "/products/images/0096/9676.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "3465",
+      "title": "ALICATE CRIMPADOR HIDRÁULICO ACV 400 - VONDER 3686400000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686400000",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-hidraulico-acv-400--vonder-3686400000-3465",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "4451",
+      "title": "ALICATE PRESSAO P/ SOLDA TIPO U SATA 11\"",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST71601SC",
+      "category": "FERRAMENTAS",
+      "categorySlug": "ferramentas",
+      "path": "/alicate-pressao-p-solda-tipo-u-sata-11-4451",
+      "image": "/products/images/0044/4451.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "2256",
+      "title": "ALICATE PRESSAO P/ SOLDA TIPO U SATA 9'",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST71401SC",
+      "category": "FERRAMENTAS",
+      "categorySlug": "ferramentas",
+      "path": "/alicate-pressao-p-solda-tipo-u-sata-9-2256",
+      "image": "/products/images/0022/2256.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "8880",
+      "title": "ALICATE REDE CRIMPAGEM CABO CONECTOR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "J. P.TESSARINI COMERCIO DE EQUIPAMENTOS DE INFORMATICA",
+      "supplierCode": "2278",
+      "manufacturerCode": "12821",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-rede-crimpagem-cabo-conector-8880",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "3916",
+      "title": "ANTIRRESPINGO PASTA S/SILIC 350G",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "7430000350",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/antirrespingo-pasta-ssilic-350g-3916",
+      "image": "/products/images/0039/3916.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "3917",
+      "title": "ANTIRRESPINGO SPRAY S/SILICONE 280G",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "7430028400",
+      "category": "LIMPEZA DE SOLDA",
+      "categorySlug": "limpeza-de-solda",
+      "path": "/antirrespingo-spray-ssilicone-280g-3917",
+      "image": "/products/images/0039/3917.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "8214",
+      "title": "ARAME MIG 0,8MM CARRETEL VONDER IMP",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "7436008015",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/arame-mig-08mm-carretel-vonder-imp-8214",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "9908",
+      "title": "ARB 72X10 KIT X-JACK BUSHRANGER LARANJA",
+      "brand": "ARB",
+      "brandCode": "735",
+      "supplier": "DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA",
+      "supplierCode": "2772",
+      "manufacturerCode": "227993",
+      "category": "MACACOS HIDRÁULICOS",
+      "categorySlug": "macacos-hidraulicos",
+      "path": "/arb-72x10-kit-xjack-bushranger-laranja-9908",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "4708",
+      "title": "ASPIRADOR A BATERIA 18V",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06019C62E0000",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-a-bateria-18v-4708",
+      "image": "/products/images/0047/4708.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "10517",
+      "title": "ASPIRADOR DE PO A BATERIA 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "DCL184Z",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-de-po-a-bateria-18v-10517",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "7830",
+      "title": "ASPIRADOR DE PO COSTAL A BATERIA 36V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DVC265ZX",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-de-po-costal-a-bateria-36v-7830",
+      "image": "/products/images/0078/7830.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "12583",
+      "title": "ASPIRADOR DE PO E LIQUIDOS 18 L 1000W",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6864101820",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-e-liquidos-18-l-1000w-12583",
+      "image": "/products/images/0125/12583.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "12285",
+      "title": "ASPIRADOR DE PO PORTATIL 18V BATERIA",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "DCL180Z-4BAT",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-de-po-portatil-18v-bateria-12285",
+      "image": "/products/images/0122/12285.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "6705",
+      "title": "ASPIRADOR DE PO PORTATIL 650ML 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DCL180Z-P",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-de-po-portatil-650ml-18v-6705",
+      "image": "/products/images/0067/6705.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "8919",
+      "title": "ASPIRADOR DE PO PORTATIL A BAT 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DCL180Z",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-de-po-portatil-a-bat-18v-8919",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "7129",
+      "title": "ASPIRADOR DE PO/AGU KARCHER NT 90/2 INOX",
+      "brand": "KARCHER",
+      "brandCode": "271",
+      "supplier": "HIDROJATO COMERCIO ASSISTENCIA TECNICA E LOCACAO DE MAQUINAS",
+      "supplierCode": "1511",
+      "manufacturerCode": "93983510",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-poagu-karcher-nt-902-inox-7129",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "7821",
+      "title": "ASPIRADOR DE PO/LIQUIDO A BATERIA 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DVC750LZ",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-de-poliquido-a-bateria-18v-7821",
+      "image": "/products/images/0078/7821.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "4645",
+      "title": "ASPIRADOR DE PÓ A BATERIA GAS 12V-LI (S/ BATERIA) - BOSCH 06019E3000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06019E3000000",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-de-po-a-bateria-gas-12vli-s-bateria--bosch-06019e3000-4645",
+      "image": "/products/images/0046/4645.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "6242",
+      "title": "ASPIRADOR DE PÓ E ÁGUA 1400W 20L 220V NT 2000 - KARCHER",
+      "brand": "KARCHER",
+      "brandCode": "271",
+      "supplier": "KARCHER INDUSTRIA E COMERCIO LIMITADA",
+      "supplierCode": "1185",
+      "manufacturerCode": "14287110",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-e-agua-1400w-20l-220v-nt-2000--karcher-6242",
+      "image": "/products/images/0062/6242.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "6589",
+      "title": "ASPIRADOR DE PÓ E ÁGUA KRONOS DUPLO 22L 1600W 220V - LAVOR B8.201.0065",
+      "brand": "LAVOR",
+      "brandCode": "221",
+      "supplier": "LAVORWASH BRASIL INDUSTRIAL E COMERCIAL LTDA",
+      "supplierCode": "920",
+      "manufacturerCode": "B8.201.0065",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-e-agua-kronos-duplo-22l-1600w-220v--lavor-b82010065-6589",
+      "image": "/products/images/0065/6589.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "4388",
+      "title": "ASPIRADOR DE PÓ E ÁGUA MASTER 2.65 IF 65L 2800W 220V - LAVOR B8.201.0095",
+      "brand": "LAVOR",
+      "brandCode": "221",
+      "supplier": "LAVORWASH BRASIL INDUSTRIAL E COMERCIAL LTDA",
+      "supplierCode": "920",
+      "manufacturerCode": "B8.201.0095",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-e-agua-master-265-if-65l-2800w-220v--lavor-b82010095-4388",
+      "image": "/products/images/0043/4388.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "10105",
+      "title": "ASPIRADOR DE PÓ ROBÔ A BATERIA  MAKITA REF DRC200Z",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "DRC200Z",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-robo-a-bateria-makita-ref-drc200z-10105",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "740",
+      "title": "ASPIRADOR DE ÁGUA E PÓ ELEKTRO 220V - 1400W 20L  SCHULZ 925.0059-0",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "925.0059-0",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-agua-e-po-elektro-220v--1400w-20l-schulz-92500590-740",
+      "image": "/products/images/0007/740.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "10931",
+      "title": "ASPIRADOR GAS 18V-10L PREMIUM SB",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601.9C6.302-000",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-gas-18v10l-premium-sb-10931",
+      "image": "/products/images/0109/10931.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "13076",
+      "title": "ASPIRADOR PO PORTATIL 5 EM 1 C/2 BATERIA",
+      "brand": "LIGENAI",
+      "brandCode": "1179",
+      "supplier": "NANDYR COMERCIO DE VARIEDADES E ACESSORIOS ELETRONICOS LTDA",
+      "supplierCode": "6074",
+      "manufacturerCode": "GN-568B",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-po-portatil-5-em-1-c2-bateria-13076",
+      "image": "/products/images/0130/13076.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "12432",
+      "title": "ASPIRADOR PO/LIQ 20L INOX 220V 1600W WAP",
+      "brand": "WAP",
+      "brandCode": "461",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6861020160",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-poliq-20l-inox-220v-1600w-wap-12432",
+      "image": "/products/images/0124/12432.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "12298",
+      "title": "BARRAS CREMAL 1,00MT LINHA INDUST GOLD",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEG ATACADO & VAREJO LTDA",
+      "supplierCode": "3097",
+      "manufacturerCode": "A16811",
+      "category": "MOTORES PARA PORTÃO",
+      "categorySlug": "motores-para-portao",
+      "path": "/barras-cremal-100mt-linha-indust-gold-12298",
+      "image": "/products/images/0122/12298.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "11734",
+      "title": "BARRAS DE CREMALHEIR 1,50MTS RESIDENCIAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEG ATACADO & VAREJO LTDA",
+      "supplierCode": "3097",
+      "manufacturerCode": "A16812",
+      "category": "MOTORES PARA PORTÃO",
+      "categorySlug": "motores-para-portao",
+      "path": "/barras-de-cremalheir-150mts-residencial-11734",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "5349",
+      "title": "BICO CONT MIG/MAGM 08X30 0,8MM ECU",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008337",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-cont-migmagm-08x30-08mm-ecu-5349",
+      "image": "/products/images/0053/5349.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5350",
+      "title": "BICO CONT MIG/MAGM M08X30 1,0MM ECU",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008327",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-cont-migmagm-m08x30-10mm-ecu-5350",
+      "image": "/products/images/0053/5350.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5365",
+      "title": "BICO CORTE PLASMA 1.0MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008325",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-10mm-pt80-5365",
+      "image": "/products/images/0053/5365.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5364",
+      "title": "BICO CORTE PLASMA 1.1MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30000823",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-11mm-pt80-5364",
+      "image": "/products/images/0053/5364.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5366",
+      "title": "BICO CORTE PLASMA 1.2MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30000828",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-12mm-pt80-5366",
+      "image": "/products/images/0053/5366.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "582",
+      "title": "BICO DE CONTATO MIG/MAG 1,0 MM M8X43MM EM COBRE  V8 BRASIL",
+      "brand": "V8 BRASIL",
+      "brandCode": "12",
+      "supplier": "V8 BRASIL IND COM DE MAQUINAS E FERRAM",
+      "supplierCode": "416",
+      "manufacturerCode": "86993",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-de-contato-migmag-10-mm-m8x43mm-em-cobre-v8-brasil-582",
+      "image": "/products/images/0005/582.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "9187",
+      "title": "BICO PROTETOR P/ SUGADOR DE SOLDA PROF",
+      "brand": "AFR",
+      "brandCode": "653",
+      "supplier": "TEFSI GROUP LTDA",
+      "supplierCode": "2425",
+      "manufacturerCode": "PACOTE COM 3 UN",
+      "category": "FERRAMENTAS",
+      "categorySlug": "ferramentas",
+      "path": "/bico-protetor-p-sugador-de-solda-prof-9187",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11272",
+      "title": "BOCAL CER TIG N10 53N88 19X30X50MM",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6849222046",
+      "category": "TOCHAS",
+      "categorySlug": "tochas",
+      "path": "/bocal-cer-tig-n10-53n88-19x30x50mm-11272",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12156",
+      "title": "BOCAL CERAM TIG DIAMETRO LARGO Nº10 16MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "9833",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceram-tig-diametro-largo-no10-16mm-12156",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12919",
+      "title": "BOCAL CERAM TIG N° 5-8 MM",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6849160119",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceram-tig-n-58-mm-12919",
+      "image": "/products/images/0129/12919.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12164",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 4 - 6,5MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "48",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-4--65mm-12164",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12782",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 5 - 8MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "56",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-5--8mm-12782",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12162",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 6 - 9,5MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "166",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-6--95mm-12162",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12163",
+      "title": "BOCAL CERAMICO TIG PADRAO Nº 7 - 11MM",
+      "brand": "WELDVISION",
+      "brandCode": "1044",
+      "supplier": "WELD VISION INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA SOLDA",
+      "supplierCode": "5566",
+      "manufacturerCode": "262",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-ceramico-tig-padrao-no-7--11mm-12163",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 7,
+    "total": 328,
+    "pageBase": "maquinas-e-acessorios"
+  }
+}

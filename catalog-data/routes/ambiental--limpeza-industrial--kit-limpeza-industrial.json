@@ -1,0 +1,163 @@
+{
+  "title": "KIT LIMPEZA INDUSTRIAL",
+  "parentLabel": "Limpeza Industrial",
+  "description": "Produtos da categoria kit limpeza industrial em limpeza industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Limpeza Industrial",
+      "to": "/ambiental/limpeza-industrial"
+    },
+    {
+      "label": "KIT LIMPEZA INDUSTRIAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9300",
+      "title": "FRASCO PET P CAP 100ML ROSCA LACRE 10UND",
+      "brand": "RN EMBALAGENS",
+      "brandCode": "665",
+      "supplier": "RNS COMERCIO LTDA",
+      "supplierCode": "2490",
+      "manufacturerCode": "25BS7B26M",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/frasco-pet-p-cap-100ml-rosca-lacre-10und-9300",
+      "image": "/products/images/0093/9300.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "10804",
+      "title": "KIT CARRINHO MOP 20L AMARELO DOBLO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "M J AZEVEDO SILVA MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "4115",
+      "manufacturerCode": "22120",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/kit-carrinho-mop-20l-amarelo-doblo-10804",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "11376",
+      "title": "KIT DE LIMPEZA MOP C/ BALDE E PLACA",
+      "brand": "ROMHER",
+      "brandCode": "927",
+      "supplier": "ROMHER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4869",
+      "manufacturerCode": "454636",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/kit-de-limpeza-mop-c-balde-e-placa-11376",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "6710",
+      "title": "KIT LIMPEZA 3 AMARELO BRALIMPIA",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "BRALIMPIA IND COM DE EQ P LIMP LTDA",
+      "supplierCode": "773",
+      "manufacturerCode": "NYKT03",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/kit-limpeza-3-amarelo-bralimpia-6710",
+      "image": "/products/images/0067/6710.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "9190",
+      "title": "KIT LIMPEZA ANTI-ESTATICO 3 PCS",
+      "brand": "HIKARI",
+      "brandCode": "505",
+      "supplier": "TF SOLUCOES INDUSTRIAIS LTDA",
+      "supplierCode": "2431",
+      "manufacturerCode": "(CANETA - HK 212 - HK 218)",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/kit-limpeza-antiestatico-3-pcs-9190",
+      "image": "/products/images/0091/9190.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "4082",
+      "title": "KIT PARA LIMPEZA PROFISSIONAL Nº1 AMARELO - BRALIMPIA NYKT01",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "BRALIMPIA IND COM DE EQ P LIMP LTDA",
+      "supplierCode": "773",
+      "manufacturerCode": "143873",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/kit-para-limpeza-profissional-no1-amarelo--bralimpia-nykt01-4082",
+      "image": "/products/images/0040/4082.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "10808",
+      "title": "MOP PO ELETROSTATICO EURO 60CM VASSOURA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "M J AZEVEDO SILVA MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "4115",
+      "manufacturerCode": "22090",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/mop-po-eletrostatico-euro-60cm-vassoura-10808",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "10916",
+      "title": "MOP UMIDO COMPLET 320G LOOP CRU COM CAB0",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10916",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/mop-umido-complet-320g-loop-cru-com-cab0-10916",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "ambiental--limpeza-industrial--kit-limpeza-industrial"
+  }
+}

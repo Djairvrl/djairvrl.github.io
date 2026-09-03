@@ -1,0 +1,36 @@
+{
+  "title": "LASSANE",
+  "parentLabel": "Marca",
+  "description": "Produtos LASSANE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LASSANE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11781",
+      "title": "ENCADERNADORA PERFURADORA ESPIRAMATIC",
+      "brand": "LASSANE",
+      "brandCode": "983",
+      "supplier": "ACL SUPRIMENTOS COMERCIO ELETRONICO LTDA",
+      "supplierCode": "5290",
+      "manufacturerCode": "87",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/encadernadora-perfuradora-espiramatic-11781",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--983--lassane"
+  }
+}

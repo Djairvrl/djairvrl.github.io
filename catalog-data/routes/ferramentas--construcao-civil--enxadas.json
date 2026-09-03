@@ -1,0 +1,129 @@
+{
+  "title": "ENXADAS",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria enxadas em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "ENXADAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2957",
+      "title": "ENXADA ANTI-FAISCANTE CABO EM MADEIRA  1,5M - PLASTCOR",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - SP",
+      "supplierCode": "30",
+      "manufacturerCode": "700.00516",
+      "category": "ENXADAS",
+      "categorySlug": "enxadas",
+      "path": "/enxada-antifaiscante-cabo-em-madeira-15m--plastcor-2957",
+      "image": "/products/images/0029/2957.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "5712",
+      "title": "ENXADA LARGA 2,5 C/ MADEIRA 130CM",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77217754",
+      "category": "ENXADAS",
+      "categorySlug": "enxadas",
+      "path": "/enxada-larga-25-c-madeira-130cm-5712",
+      "image": "/products/images/0057/5712.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1006",
+      "title": "ENXADA LARGA LÂMINA 2.5 EM AÇO C/ CABO 145CM - TRAMONTINA  REF 77250754",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77250754",
+      "category": "ENXADAS",
+      "categorySlug": "enxadas",
+      "path": "/enxada-larga-lamina-25-em-aco-c-cabo-145cm--tramontina-ref-77250754-1006",
+      "image": "/products/images/0010/1006.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1007",
+      "title": "ENXADA NORTE 2.5 EM AÇO COM CABO DE MADEIRA 145CM - TRAMONTINA REF 77222754",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "77222754",
+      "category": "ENXADAS",
+      "categorySlug": "enxadas",
+      "path": "/enxada-norte-25-em-aco-com-cabo-de-madeira-145cm--tramontina-ref-77222754-1007",
+      "image": "/products/images/0010/1007.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "3700",
+      "title": "ENXADÃO ESTREITO 2.5 EM AÇO COM CABO DE MADEIRA 130CM - TRAMONTINA REF. 77272754",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "77272/754",
+      "category": "ENXADAS",
+      "categorySlug": "enxadas",
+      "path": "/enxadao-estreito-25-em-aco-com-cabo-de-madeira-130cm--tramontina-ref-77272754-3700",
+      "image": "/products/images/0037/3700.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1663",
+      "title": "ENXADÃO LARGO 2.5 EM AÇO COM CABO DE MADEIRA 130CM - TRAMONTINA REF. 77270754",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "77270754",
+      "category": "ENXADAS",
+      "categorySlug": "enxadas",
+      "path": "/enxadao-largo-25-em-aco-com-cabo-de-madeira-130cm--tramontina-ref-77270754-1663",
+      "image": "/products/images/0016/1663.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ferramentas--construcao-civil--enxadas"
+  }
+}

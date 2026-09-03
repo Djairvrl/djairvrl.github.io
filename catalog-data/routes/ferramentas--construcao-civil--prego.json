@@ -1,0 +1,112 @@
+{
+  "title": "PREGO",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria prego em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "PREGO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11449",
+      "title": "PREGO C/CABECA 15 X 15 (1.1/4X13) POL VD",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "28.01.151.500",
+      "category": "PREGO",
+      "categorySlug": "prego",
+      "path": "/prego-ccabeca-15-x-15-114x13-pol-vd-11449",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "11450",
+      "title": "PREGO C/CABECA 17 X 21 (2X11) POLIDO VD",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "28.01.172.100",
+      "category": "PREGO",
+      "categorySlug": "prego",
+      "path": "/prego-ccabeca-17-x-21-2x11-polido-vd-11450",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "11441",
+      "title": "PREGO C/CABECA 17 X 27 (2.1/2X11) POL V",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "28.01.172.700",
+      "category": "PREGO",
+      "categorySlug": "prego",
+      "path": "/prego-ccabeca-17-x-27-212x11-pol-v-11441",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "11443",
+      "title": "PREGO C/CABECA 18 X 30 (2.3/4X10) POL VD",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "28.01.183.000",
+      "category": "PREGO",
+      "categorySlug": "prego",
+      "path": "/prego-ccabeca-18-x-30-234x10-pol-vd-11443",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "11351",
+      "title": "PREGO GERDAU C/C 18 X 30",
+      "brand": "GERDAU",
+      "brandCode": "815",
+      "supplier": "MATCON.CASA LTDA",
+      "supplierCode": "4825",
+      "manufacturerCode": "24686",
+      "category": "PREGO",
+      "categorySlug": "prego",
+      "path": "/prego-gerdau-cc-18-x-30-11351",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--construcao-civil--prego"
+  }
+}

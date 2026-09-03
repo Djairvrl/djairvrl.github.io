@@ -1,0 +1,36 @@
+{
+  "title": "VINILSEG",
+  "parentLabel": "Marca",
+  "description": "Produtos VINILSEG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VINILSEG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8109",
+      "title": "AVENTAL PVC FORRADO IMPERMEAVEL 1,20X0,7",
+      "brand": "VINILSEG",
+      "brandCode": "560",
+      "supplier": "JOINVILLE COMERCIO DE MATERIAL ELETRICO LTDA",
+      "supplierCode": "1944",
+      "manufacturerCode": "700.30373",
+      "category": "AVENTAIS",
+      "categorySlug": "aventais",
+      "path": "/avental-pvc-forrado-impermeavel-120x07-8109",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--560--vinilseg"
+  }
+}

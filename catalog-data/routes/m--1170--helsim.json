@@ -1,0 +1,36 @@
+{
+  "title": "HELSIM",
+  "parentLabel": "Marca",
+  "description": "Produtos HELSIM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HELSIM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13030",
+      "title": "CAIXA ORG DOBRAVEL MULTIUSO 45L AZUL",
+      "brand": "HELSIM",
+      "brandCode": "1170",
+      "supplier": "COPKO STORE LTDA",
+      "supplierCode": "6049",
+      "manufacturerCode": "1CXAZUL",
+      "category": "CAIXAS E CASES",
+      "categorySlug": "caixas-e-cases",
+      "path": "/caixa-org-dobravel-multiuso-45l-azul-13030",
+      "image": "/products/images/0130/13030.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1170--helsim"
+  }
+}

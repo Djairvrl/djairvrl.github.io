@@ -1,0 +1,575 @@
+{
+  "title": "Spare Parts Energy",
+  "parentLabel": "Departamento",
+  "description": "Produtos de STAUFF BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy"
+    }
+  ],
+  "children": [
+    {
+      "name": "Componentes Hidráulicos e Refrigeração",
+      "slug": "componentes-hidraulicos-e-refrigeracao",
+      "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao",
+      "count": 72,
+      "categories": [
+        {
+          "name": "ACUMULADORES",
+          "slug": "acumuladores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/acumuladores",
+          "count": 1
+        },
+        {
+          "name": "CILINDROS",
+          "slug": "cilindros",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/cilindros",
+          "count": 6
+        },
+        {
+          "name": "CONECTORES E ADAPTADORES",
+          "slug": "conectores-e-adaptadores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/conectores-e-adaptadores",
+          "count": 14
+        },
+        {
+          "name": "INDICADORES DE NÍVEL / TEMPERATURA",
+          "slug": "indicadores-de-nivel-temperatura",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/indicadores-de-nivel-temperatura",
+          "count": 3
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/mangueiras",
+          "count": 6
+        },
+        {
+          "name": "SISTEMAS FILTRANTES",
+          "slug": "sistemas-filtrantes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/sistemas-filtrantes",
+          "count": 22
+        },
+        {
+          "name": "VEDAÇÕES",
+          "slug": "vedacoes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/vedacoes",
+          "count": 16
+        },
+        {
+          "name": "VÁLVULAS",
+          "slug": "valvulas",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/valvulas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Componentes Mecânicos",
+      "slug": "componentes-mecanicos",
+      "path": "/spare-parts-energy/componentes-mecanicos",
+      "count": 13,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE ENGRENAGEM",
+          "slug": "acessorios-de-engrenagem",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-de-engrenagem",
+          "count": 1
+        },
+        {
+          "name": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+          "slug": "acessorios-para-equipamentos-pesados",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-para-equipamentos-pesados",
+          "count": 4
+        },
+        {
+          "name": "ACOPLAMENTOS",
+          "slug": "acoplamentos",
+          "path": "/spare-parts-energy/componentes-mecanicos/acoplamentos",
+          "count": 3
+        },
+        {
+          "name": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+          "slug": "rolamentos-e-caixas-de-rolamento",
+          "path": "/spare-parts-energy/componentes-mecanicos/rolamentos-e-caixas-de-rolamento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis e Elementos de Fixação",
+      "slug": "consumiveis-e-elementos-de-fixacao",
+      "path": "/spare-parts-energy/consumiveis-e-elementos-de-fixacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Grandes Componentes e Transmissão",
+      "slug": "grandes-componentes-e-transmissao",
+      "path": "/spare-parts-energy/grandes-componentes-e-transmissao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Componentes Elétricos",
+      "slug": "componentes-eletricos",
+      "path": "/spare-parts-energy/componentes-eletricos",
+      "count": 1,
+      "categories": [
+        {
+          "name": "PRESSOSTATO",
+          "slug": "pressostato",
+          "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis",
+      "slug": "consumiveis",
+      "path": "/spare-parts-energy/consumiveis",
+      "count": 66,
+      "categories": [
+        {
+          "name": "FILTROS AMBIENTAIS",
+          "slug": "filtros-ambientais",
+          "path": "/spare-parts-energy/consumiveis/filtros-ambientais",
+          "count": 1
+        },
+        {
+          "name": "FILTROS DE MOTOR",
+          "slug": "filtros-de-motor",
+          "path": "/spare-parts-energy/consumiveis/filtros-de-motor",
+          "count": 13
+        },
+        {
+          "name": "FILTROS HIDRÁULICOS",
+          "slug": "filtros-hidraulicos",
+          "path": "/spare-parts-energy/consumiveis/filtros-hidraulicos",
+          "count": 18
+        },
+        {
+          "name": "PARAFUSOS, PROCAS E FIXADORES",
+          "slug": "parafusos-procas-e-fixadores",
+          "path": "/spare-parts-energy/consumiveis/parafusos-procas-e-fixadores",
+          "count": 19
+        },
+        {
+          "name": "TINTAS E QUÍMICOS",
+          "slug": "tintas-e-quimicos",
+          "path": "/spare-parts-energy/consumiveis/tintas-e-quimicos",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Grandes Componentes",
+      "slug": "grandes-componentes",
+      "path": "/spare-parts-energy/grandes-componentes",
+      "count": 2,
+      "categories": [
+        {
+          "name": "GEARBOX",
+          "slug": "gearbox",
+          "path": "/spare-parts-energy/grandes-componentes/gearbox",
+          "count": 1
+        },
+        {
+          "name": "TRANSFORMADOR",
+          "slug": "transformador",
+          "path": "/spare-parts-energy/grandes-componentes/transformador",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Peças Para Linha De Transmissão",
+      "slug": "pecas-para-linha-de-transmissao",
+      "path": "/spare-parts-energy/pecas-para-linha-de-transmissao",
+      "count": 24,
+      "categories": [
+        {
+          "name": "ESTRUTURAIS",
+          "slug": "estruturais",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/estruturais",
+          "count": 5
+        },
+        {
+          "name": "METÁLICAS",
+          "slug": "metalicas",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/metalicas",
+          "count": 19
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "434",
+    "name": "STAUFF BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "3631",
+      "title": "ACUMUL DE MEMBRANA STDA-100-NBR-P3-B-M-N",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426001016",
+      "category": "ACUMULADORES",
+      "categorySlug": "acumuladores",
+      "path": "/acumul-de-membrana-stda100nbrp3bmn-3631",
+      "image": "/products/images/0036/3631.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "5756",
+      "title": "ADAPTADOR M28-5/8 STA-CK-ADP",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426010220",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-m2858-stackadp-5756",
+      "image": "/products/images/0057/5756.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "5757",
+      "title": "ADAPTADOR M28-7/8L STA-CK-ADP",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426010852",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-m2878l-stackadp-5757",
+      "image": "/products/images/0057/5757.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "7290",
+      "title": "ADAPTADOR STA-CK-ADP-M28-7/8S",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426010215",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-stackadpm2878s-7290",
+      "image": "/products/images/0072/7290.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "4260",
+      "title": "CARRINHO FILTRAGEM SCFC-10-G-2S-X-B-V-A",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "STB0012624",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/carrinho-filtragem-scfc10g2sxbva-4260",
+      "image": "/products/images/0042/4260.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "3633",
+      "title": "ENGATE RAPIDO QRC-FF-12-F-NF08-BT-W3",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "6100074533",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/engate-rapido-qrcff12fnf08btw3-3633",
+      "image": "/products/images/0036/3633.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "3634",
+      "title": "ENGATE RAPIDO QRC-FF-12-M-NF08-BP-W3",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "6100074552",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/engate-rapido-qrcff12mnf08bpw3-3634",
+      "image": "/products/images/0036/3634.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "3635",
+      "title": "ENGATE RAPIDO QRC-IB-12-F-NF08-BT-W661",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "6100073894",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/engate-rapido-qrcib12fnf08btw661-3635",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "3636",
+      "title": "ENGATE RAPIDO QRC-IB-12-M-NF08-BT-W661",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "6100073895",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/engate-rapido-qrcib12mnf08btw661-3636",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "3617",
+      "title": "FILTRO DE 12 MILCRONS SF-6707-MG",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1020013524",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/filtro-de-12-milcrons-sf6707mg-3617",
+      "image": "/products/images/0036/3617.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "3616",
+      "title": "FILTRO DE ABSORCAO DE AGUA SF-6721-W",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1020013538",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/filtro-de-absorcao-de-agua-sf6721w-3616",
+      "image": "/products/images/0036/3616.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "3820",
+      "title": "FILTRO DE AR SGB-120-03-B",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910000486",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/filtro-de-ar-sgb12003b-3820",
+      "image": "/products/images/0038/3820.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "3640",
+      "title": "FILTRO DE OLEO IPIN ON SF-6731-W",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1020013529",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/filtro-de-oleo-ipin-on-sf6731w-3640",
+      "image": "/products/images/0036/3640.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "4240",
+      "title": "FILTRO DESSECATIVO 3 MICRON SDB-121/2",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910000483",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/filtro-dessecativo-3-micron-sdb1212-4240",
+      "image": "/products/images/0042/4240.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "2529",
+      "title": "GEL SILICA RD-121",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910000492",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/gel-silica-rd121-2529",
+      "image": "/products/images/0025/2529.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "3821",
+      "title": "INDICADOR DE NIVEL SNA-127-B-S-T-12",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910000329",
+      "category": "INDICADORES DE NÍVEL / TEMPERATURA",
+      "categorySlug": "indicadores-de-nivel-temperatura",
+      "path": "/indicador-de-nivel-sna127bst12-3821",
+      "image": "/products/images/0038/3821.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "3628",
+      "title": "INDICADOR DE NIVEL SNK-127-V-C-O-12",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910000040",
+      "category": "INDICADORES DE NÍVEL / TEMPERATURA",
+      "categorySlug": "indicadores-de-nivel-temperatura",
+      "path": "/indicador-de-nivel-snk127vco12-3628",
+      "image": "/products/images/0036/3628.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "7158",
+      "title": "INDICADOR DE NIVEL SNK-254-V-O-O-12",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910000058",
+      "category": "INDICADORES DE NÍVEL / TEMPERATURA",
+      "categorySlug": "indicadores-de-nivel-temperatura",
+      "path": "/indicador-de-nivel-snk254voo12-7158",
+      "image": "/products/images/0071/7158.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "7133",
+      "title": "MANGUEIRA/VAUVALU E ADAPTADOR 400BAR",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3404000139",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueiravauvalu-e-adaptador-400bar-7133",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "5755",
+      "title": "ORINGS SEAL-KIT-STA-CK-M28",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "6100227577",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/orings-sealkitstackm28-5755",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "4279",
+      "title": "VALVULA REGULADORA DE VAZAO - DV-08-V-N",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910001173",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/valvula-reguladora-de-vazao--dv08vn-4279",
+      "image": "/products/images/0042/4279.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 21,
+    "pageBase": "spare-parts-energy--fornecedor-434"
+  }
+}

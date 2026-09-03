@@ -1,0 +1,69 @@
+{
+  "title": "Compósitos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Químicos",
+      "slug": "quimicos",
+      "path": "/compositos/quimicos",
+      "count": 2,
+      "categories": [
+        {
+          "name": "TINTAS",
+          "slug": "tintas",
+          "path": "/compositos/quimicos/tintas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Tecidos E Fibras",
+      "slug": "tecidos-e-fibras",
+      "path": "/compositos/tecidos-e-fibras",
+      "count": 1,
+      "categories": [
+        {
+          "name": "FITAS PARA LAMINAÇÃO TÉCNICA",
+          "slug": "fitas-para-laminacao-tecnica",
+          "path": "/compositos/tecidos-e-fibras/fitas-para-laminacao-tecnica",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "772",
+    "name": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA"
+  },
+  "products": [
+    {
+      "code": "11401",
+      "title": "WAX I POLISH CERA PRETA 5L BECKER",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "PA4065",
+      "category": null,
+      "categorySlug": null,
+      "path": "/wax-i-polish-cera-preta-5l-becker-11401",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "compositos--fornecedor-772"
+  }
+}

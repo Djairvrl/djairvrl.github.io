@@ -1,0 +1,78 @@
+{
+  "title": "TUPIAS",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria tupias em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "TUPIAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4617",
+      "title": "MINITUPIA SEM FIO 12V GKF 12V8",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06016B00L0000",
+      "category": "TUPIAS",
+      "categorySlug": "tupias",
+      "path": "/minitupia-sem-fio-12v-gkf-12v8-4617",
+      "image": "/products/images/0046/4617.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2813",
+      "title": "TUPIA FRESADOURA ROUTER 1831 220V 1.100W",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "F0121831JA000",
+      "category": "TUPIAS",
+      "categorySlug": "tupias",
+      "path": "/tupia-fresadoura-router-1831-220v-1100w-2813",
+      "image": "/products/images/0028/2813.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2812",
+      "title": "TUPIA LAMINADORA GKF 550 220V 550W - BOSCH 0601.6A0.0E0-000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06016A00E0000",
+      "category": "TUPIAS",
+      "categorySlug": "tupias",
+      "path": "/tupia-laminadora-gkf-550-220v-550w--bosch-06016a00e0000-2812",
+      "image": "/products/images/0028/2812.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-eletricas--tupias"
+  }
+}

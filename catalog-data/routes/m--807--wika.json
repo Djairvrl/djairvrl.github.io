@@ -1,0 +1,70 @@
+{
+  "title": "WIKA",
+  "parentLabel": "Marca",
+  "description": "Produtos WIKA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WIKA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10736",
+      "title": "KIT DE ENCHIMENTO GFK-10 PARA GAS SF6",
+      "brand": "WIKA",
+      "brandCode": "807",
+      "supplier": "WIKA DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4048",
+      "manufacturerCode": "14352391",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/kit-de-enchimento-gfk10-para-gas-sf6-10736",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "13305",
+      "title": "KIT MANOMETRO DIGITAL ESCALA 0 A 400 BAR",
+      "brand": "WIKA",
+      "brandCode": "807",
+      "supplier": "MENTEC COMERCIO E SERVICOS DE PRODUTOS INDUSTRIAIS LTDA",
+      "supplierCode": "6222",
+      "manufacturerCode": "CPK-MM-0-400",
+      "category": "MANÔMETRO",
+      "categorySlug": "manometro",
+      "path": "/kit-manometro-digital-escala-0-a-400-bar-13305",
+      "image": "/products/images/0133/13305.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "13306",
+      "title": "MAMOMETRO DIGITAL CPG1200 ESCALA 0 A 400",
+      "brand": "WIKA",
+      "brandCode": "807",
+      "supplier": "MENTEC COMERCIO E SERVICOS DE PRODUTOS INDUSTRIAIS LTDA",
+      "supplierCode": "6222",
+      "manufacturerCode": "CPG1200-0-100",
+      "category": "MANÔMETRO",
+      "categorySlug": "manometro",
+      "path": "/mamometro-digital-cpg1200-escala-0-a-400-13306",
+      "image": "/products/images/0133/13306.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--807--wika"
+  }
+}

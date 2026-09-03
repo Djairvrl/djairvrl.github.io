@@ -1,0 +1,61 @@
+{
+  "title": "ERGONÔMICOS",
+  "parentLabel": "Diversos",
+  "description": "Produtos da categoria ergonômicos em diversos.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Diversos",
+      "to": "/epis-e-epcs/diversos"
+    },
+    {
+      "label": "ERGONÔMICOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10219",
+      "title": "ACESSORIO FITNESS TREINAMENTO 244",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "V. R. INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "2951",
+      "manufacturerCode": "244",
+      "category": "ERGONÔMICOS",
+      "categorySlug": "ergonomicos",
+      "path": "/acessorio-fitness-treinamento-244-10219",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "8038",
+      "title": "FAIXA EXERCICIO FORTE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PARAIBANA SPORTES LTDA",
+      "supplierCode": "1911",
+      "manufacturerCode": "0000000VP1024",
+      "category": "ERGONÔMICOS",
+      "categorySlug": "ergonomicos",
+      "path": "/faixa-exercicio-forte-8038",
+      "image": "/products/images/0080/8038.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--diversos--ergonomicos"
+  }
+}

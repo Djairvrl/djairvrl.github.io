@@ -1,0 +1,112 @@
+{
+  "title": "CAIXAS E BOTOEIRAS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria caixas e botoeiras em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CAIXAS E BOTOEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11336",
+      "title": "BOT.PEND.BPR-61E 2 BOT.+EMERG CA2813",
+      "brand": "SCHNEIDER ELECTRIC",
+      "brandCode": "923",
+      "supplier": "MEGA LUX COMERCIO E SERVICOS DE MATERIAIS ELETRICOS",
+      "supplierCode": "4452",
+      "manufacturerCode": "3781",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botpendbpr61e-2-botemerg-ca2813-11336",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10535",
+      "title": "BOTOEIRA 5 BOTOES UN-UN 6,0 ER2001",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "ZB1102AZ10631",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botoeira-5-botoes-unun-60-er2001-10535",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10125",
+      "title": "BOTOEIRA MET MURAL 1FURO 22MM CZ 80X80MM",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DEMELETRICA LTDA",
+      "supplierCode": "3092",
+      "manufacturerCode": "XAPD1501",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botoeira-met-mural-1furo-22mm-cz-80x80mm-10125",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11331",
+      "title": "BOTOEIRA PONTE  ROLANTE 1 EIXOUNIDADE",
+      "brand": "METALTEX",
+      "brandCode": "538",
+      "supplier": "PROD ELETRONICOS METALTEX LTDA",
+      "supplierCode": "4790",
+      "manufacturerCode": "BPR-61E",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botoeira-ponte-rolante-1-eixounidade-11331",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11683",
+      "title": "CX BATERIA PICH ECO",
+      "brand": "ENGEMAX",
+      "brandCode": "972",
+      "supplier": "ENGEMAX SERVICOS MECANICOS LTDA",
+      "supplierCode": "5208",
+      "manufacturerCode": "1",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/cx-bateria-pich-eco-11683",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--caixas-e-botoeiras"
+  }
+}

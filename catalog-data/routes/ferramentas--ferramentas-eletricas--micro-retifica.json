@@ -1,0 +1,78 @@
+{
+  "title": "MICRO RETIFICA",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria micro retifica em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "MICRO RETIFICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8617",
+      "title": "MICRORRETIFICA MRV 115 220V VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "0001",
+      "category": "MICRO RETIFICA",
+      "categorySlug": "micro-retifica",
+      "path": "/microrretifica-mrv-115-220v-vonder-8617",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12286",
+      "title": "MICRORRETÍFICA BAT C/ACESSÓRIOS 3,6 V MB",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6061036012",
+      "category": "MICRO RETIFICA",
+      "categorySlug": "micro-retifica",
+      "path": "/microrretifica-bat-cacessorios-36-v-mb-12286",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2438",
+      "title": "MICRORRETÍFICA DREMEL 4000 3/36 COM 36 ACESSÓRIOS E 3 ACOPLAMENTOS -175W 240V",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "F0134000NC000",
+      "category": "MICRO RETIFICA",
+      "categorySlug": "micro-retifica",
+      "path": "/microrretifica-dremel-4000-336-com-36-acessorios-e-3-acoplamentos-175w-240v-2438",
+      "image": "/products/images/0024/2438.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-eletricas--micro-retifica"
+  }
+}

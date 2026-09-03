@@ -1,0 +1,36 @@
+{
+  "title": "SENSE SENSORES",
+  "parentLabel": "Marca",
+  "description": "Produtos SENSE SENSORES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SENSE SENSORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12610",
+      "title": "REPETIDOR DIGITAL KD - 11/EX",
+      "brand": "SENSE SENSORES",
+      "brandCode": "1097",
+      "supplier": "TE CONNECTIVITY BRASIL INDUSTRIA DE ELETRONICOS LTDA",
+      "supplierCode": "5797",
+      "manufacturerCode": "52920584-SE",
+      "category": "SEGURANÇA INDUSTRIAL",
+      "categorySlug": "seguranca-industrial",
+      "path": "/repetidor-digital-kd--11ex-12610",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1097--sense-sensores"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "MISTURADOR",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria misturador em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "MISTURADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12645",
+      "title": "HASTE METALICA MISTURADORA ENCAIXE M14",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "D80519",
+      "category": "MISTURADOR",
+      "categorySlug": "misturador",
+      "path": "/haste-metalica-misturadora-encaixe-m14-12645",
+      "image": "/products/images/0126/12645.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-eletricas--misturador"
+  }
+}

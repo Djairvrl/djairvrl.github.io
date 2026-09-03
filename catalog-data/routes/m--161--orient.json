@@ -1,0 +1,36 @@
+{
+  "title": "ORIENT",
+  "parentLabel": "Marca",
+  "description": "Produtos ORIENT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ORIENT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2047",
+      "title": "BUSSOLA PRECISAO OPTICA DQL-12Z C/TRIPE",
+      "brand": "ORIENT",
+      "brandCode": "161",
+      "supplier": "ALLCOMP COMERCIO REPRESENTACAO E IMPORTACAO S.A",
+      "supplierCode": "608",
+      "manufacturerCode": "3429",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/bussola-precisao-optica-dql12z-ctripe-2047",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--161--orient"
+  }
+}

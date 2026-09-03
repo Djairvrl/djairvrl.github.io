@@ -1,0 +1,53 @@
+{
+  "title": "HYDROFILM",
+  "parentLabel": "Marca",
+  "description": "Produtos HYDROFILM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HYDROFILM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13352",
+      "title": "BOMBA GRAXA MAN C/CARRINHO 14KG HL14",
+      "brand": "HYDROFILM",
+      "brandCode": "381",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "755",
+      "manufacturerCode": "1101962",
+      "category": "BOMBAS DE GRAXA MANUAL",
+      "categorySlug": "bombas-de-graxa-manual",
+      "path": "/bomba-graxa-man-ccarrinho-14kg-hl14-13352",
+      "image": "/products/images/0133/13352.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "6913",
+      "title": "CURATIVO HYDROFILM TRANSP ROLO 10CM X 10",
+      "brand": "HYDROFILM",
+      "brandCode": "381",
+      "supplier": "TERRANOVA CURATIVOS COMERCIO DE ARTIGOS MEDICOS LTDA",
+      "supplierCode": "1420",
+      "manufacturerCode": "MLB2679871222_174649195362",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/curativo-hydrofilm-transp-rolo-10cm-x-10-6913",
+      "image": "/products/images/0069/6913.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--381--hydrofilm"
+  }
+}

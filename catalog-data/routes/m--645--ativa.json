@@ -1,0 +1,53 @@
+{
+  "title": "ATIVA",
+  "parentLabel": "Marca",
+  "description": "Produtos ATIVA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ATIVA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9040",
+      "title": "BOIA RESGATE CLASSE II 60CM",
+      "brand": "ATIVA",
+      "brandCode": "645",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "BCD60",
+      "category": "COLETES E BÓIAS SALVA VIDAS",
+      "categorySlug": "coletes-e-boias-salva-vidas",
+      "path": "/boia-resgate-classe-ii-60cm-9040",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "9041",
+      "title": "COLETE RESGATE SALVA VIDAS CLASSE IV",
+      "brand": "ATIVA",
+      "brandCode": "645",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "A4NF",
+      "category": "DETECTORES DE RUÍDOS",
+      "categorySlug": "detectores-de-ruidos",
+      "path": "/colete-resgate-salva-vidas-classe-iv-9041",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--645--ativa"
+  }
+}

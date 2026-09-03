@@ -1,0 +1,36 @@
+{
+  "title": "TEC-COM10",
+  "parentLabel": "Marca",
+  "description": "Produtos TEC-COM10 disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TEC-COM10"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7448",
+      "title": "ADITIVO ESTABILIZADOR OLEO DIESEL 1L",
+      "brand": "TEC-COM10",
+      "brandCode": "468",
+      "supplier": "TUDO A BORDO COMERCIO DE PRODUTOS NAUTICOS LTDA",
+      "supplierCode": "1656",
+      "manufacturerCode": "1010T",
+      "category": "ADITIVOS PARA LIMPEZA E ESTABILIZAÇÃO",
+      "categorySlug": "aditivos-para-limpeza-e-estabilizacao",
+      "path": "/aditivo-estabilizador-oleo-diesel-1l-7448",
+      "image": "/products/images/0074/7448.png",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--468--tec-com10"
+  }
+}

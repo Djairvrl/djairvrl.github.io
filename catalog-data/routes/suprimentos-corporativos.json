@@ -1,0 +1,4573 @@
+{
+  "title": "Suprimentos Corporativos",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Informática e Telecomunicação",
+      "slug": "informatica-e-telecomunicacao",
+      "path": "/suprimentos-corporativos/informatica-e-telecomunicacao",
+      "count": 416,
+      "categories": [
+        {
+          "name": "ACESSÓRIO",
+          "slug": "acessorio",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorio",
+          "count": 21
+        },
+        {
+          "name": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+          "slug": "acessorios-para-transporte-e-protecao",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/acessorios-para-transporte-e-protecao",
+          "count": 16
+        },
+        {
+          "name": "ADAPTADORES",
+          "slug": "adaptadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/adaptadores",
+          "count": 4
+        },
+        {
+          "name": "CABOS",
+          "slug": "cabos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cabos",
+          "count": 40
+        },
+        {
+          "name": "CAIXAS DE SOM",
+          "slug": "caixas-de-som",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/caixas-de-som",
+          "count": 3
+        },
+        {
+          "name": "COMPUTADORES",
+          "slug": "computadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/computadores",
+          "count": 3
+        },
+        {
+          "name": "CONTROLE DE ACESSO",
+          "slug": "controle-de-acesso",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/controle-de-acesso",
+          "count": 6
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/cameras",
+          "count": 22
+        },
+        {
+          "name": "DATACENTERS",
+          "slug": "datacenters",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/datacenters",
+          "count": 1
+        },
+        {
+          "name": "DISPOSITIVOS  DE ARMAZENAMENTO",
+          "slug": "dispositivos-de-armazenamento",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/dispositivos-de-armazenamento",
+          "count": 14
+        },
+        {
+          "name": "ERGONOMIA",
+          "slug": "ergonomia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/ergonomia",
+          "count": 15
+        },
+        {
+          "name": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+          "slug": "estabilizadores-filtros-de-l-e-nobreak",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estabilizadores-filtros-de-l-e-nobreak",
+          "count": 20
+        },
+        {
+          "name": "ESTAÇÕES DE RETRABALHO BGA",
+          "slug": "estacoes-de-retrabalho-bga",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/estacoes-de-retrabalho-bga",
+          "count": 2
+        },
+        {
+          "name": "FRAGMENTADORAS",
+          "slug": "fragmentadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/fragmentadoras",
+          "count": 1
+        },
+        {
+          "name": "IMPRESSORAS",
+          "slug": "impressoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/impressoras",
+          "count": 21
+        },
+        {
+          "name": "INFRAESTRUTURA DE REDE",
+          "slug": "infraestrutura-de-rede",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/infraestrutura-de-rede",
+          "count": 51
+        },
+        {
+          "name": "INSUMOS",
+          "slug": "insumos",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/insumos",
+          "count": 26
+        },
+        {
+          "name": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+          "slug": "manutencao-tecnica-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/manutencao-tecnica-de-informatica",
+          "count": 11
+        },
+        {
+          "name": "MONITORES",
+          "slug": "monitores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/monitores",
+          "count": 13
+        },
+        {
+          "name": "NOTEBOOKS",
+          "slug": "notebooks",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/notebooks",
+          "count": 1
+        },
+        {
+          "name": "PERIFÉRICOS DE INFORMÁTICA",
+          "slug": "perifericos-de-informatica",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/perifericos-de-informatica",
+          "count": 32
+        },
+        {
+          "name": "PILHAS E BATERIAS",
+          "slug": "pilhas-e-baterias",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/pilhas-e-baterias",
+          "count": 32
+        },
+        {
+          "name": "PLACAS DE VIDEO",
+          "slug": "placas-de-video",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/placas-de-video",
+          "count": 1
+        },
+        {
+          "name": "PLASTIFICADORAS",
+          "slug": "plastificadoras",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/plastificadoras",
+          "count": 9
+        },
+        {
+          "name": "RADIOCOMUNICADORES",
+          "slug": "radiocomunicadores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/radiocomunicadores",
+          "count": 7
+        },
+        {
+          "name": "ROTULADORES",
+          "slug": "rotuladores",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/rotuladores",
+          "count": 9
+        },
+        {
+          "name": "SOFTWARES",
+          "slug": "softwares",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/softwares",
+          "count": 1
+        },
+        {
+          "name": "TABLETS E SMARTPHONES",
+          "slug": "tablets-e-smartphones",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tablets-e-smartphones",
+          "count": 5
+        },
+        {
+          "name": "TESTADORES DE REDE E TELEFONIA",
+          "slug": "testadores-de-rede-e-telefonia",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/testadores-de-rede-e-telefonia",
+          "count": 4
+        },
+        {
+          "name": "TVs",
+          "slug": "tvs",
+          "path": "/suprimentos-corporativos/informatica-e-telecomunicacao/tvs",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "name": "Redes e Telefonia",
+      "slug": "redes-e-telefonia",
+      "path": "/suprimentos-corporativos/redes-e-telefonia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Áudio, Vídeo e Reunião",
+      "slug": "audio-video-e-reuniao",
+      "path": "/suprimentos-corporativos/audio-video-e-reuniao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Climatização",
+      "slug": "climatizacao",
+      "path": "/suprimentos-corporativos/climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Eletrodomésticos",
+      "slug": "eletrodomesticos",
+      "path": "/suprimentos-corporativos/eletrodomesticos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Cópia, Digitalização e Impressão",
+      "slug": "copia-digitalizacao-e-impressao",
+      "path": "/suprimentos-corporativos/copia-digitalizacao-e-impressao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Mobiliário e Ergonomia",
+      "slug": "mobiliario-e-ergonomia",
+      "path": "/suprimentos-corporativos/mobiliario-e-ergonomia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Embalagens e Expedição",
+      "slug": "embalagens-e-expedicao",
+      "path": "/suprimentos-corporativos/embalagens-e-expedicao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Papelaria e Escritório",
+      "slug": "papelaria-e-escritorio",
+      "path": "/suprimentos-corporativos/papelaria-e-escritorio",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Uniformes e Têxteis Profissionais",
+      "slug": "uniformes-e-texteis-profissionais",
+      "path": "/suprimentos-corporativos/uniformes-e-texteis-profissionais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartáveis e Itens para Copa",
+      "slug": "descartaveis-e-itens-para-copa",
+      "path": "/suprimentos-corporativos/descartaveis-e-itens-para-copa",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Limpeza e Sanitização",
+      "slug": "limpeza-e-sanitizacao",
+      "path": "/suprimentos-corporativos/limpeza-e-sanitizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Higiene Pessoal e Banheiro",
+      "slug": "higiene-pessoal-e-banheiro",
+      "path": "/suprimentos-corporativos/higiene-pessoal-e-banheiro",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Marketing e Brindes",
+      "slug": "marketing-e-brindes",
+      "path": "/suprimentos-corporativos/marketing-e-brindes",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Descartaveis E Utensilios",
+      "slug": "descartaveis-e-utensilios",
+      "path": "/suprimentos-corporativos/descartaveis-e-utensilios",
+      "count": 2,
+      "categories": [
+        {
+          "name": "DIVEROS",
+          "slug": "diveros",
+          "path": "/suprimentos-corporativos/descartaveis-e-utensilios/diveros",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Informatica E Eletronicos",
+      "slug": "informatica-e-eletronicos",
+      "path": "/suprimentos-corporativos/informatica-e-eletronicos",
+      "count": 7,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/suprimentos-corporativos/informatica-e-eletronicos/acessorios",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Máquinas E Implementos",
+      "slug": "maquinas-e-implementos",
+      "path": "/suprimentos-corporativos/maquinas-e-implementos",
+      "count": 4,
+      "categories": [
+        {
+          "name": "CONTAINERS",
+          "slug": "containers",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/containers",
+          "count": 2
+        },
+        {
+          "name": "IMPLEMENTOS INDUSTRIAIS",
+          "slug": "implementos-industriais",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/implementos-industriais",
+          "count": 1
+        },
+        {
+          "name": "MÁQUINAS PESADAS",
+          "slug": "maquinas-pesadas",
+          "path": "/suprimentos-corporativos/maquinas-e-implementos/maquinas-pesadas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Suprimentos Indiretos",
+      "slug": "suprimentos-indiretos",
+      "path": "/suprimentos-corporativos/suprimentos-indiretos",
+      "count": 1262,
+      "categories": [
+        {
+          "name": "ALIMENTOS E BEBIDAS",
+          "slug": "alimentos-e-bebidas",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/alimentos-e-bebidas",
+          "count": 83
+        },
+        {
+          "name": "AUTOMOTIVOS",
+          "slug": "automotivos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/automotivos",
+          "count": 21
+        },
+        {
+          "name": "BRINDES CORPORATIVOS",
+          "slug": "brindes-corporativos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/brindes-corporativos",
+          "count": 34
+        },
+        {
+          "name": "DECORAÇÃO E INFRAESTRUTURA",
+          "slug": "decoracao-e-infraestrutura",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/decoracao-e-infraestrutura",
+          "count": 34
+        },
+        {
+          "name": "DESCARTAVEIS E UTENSILIOS",
+          "slug": "descartaveis-e-utensilios",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/descartaveis-e-utensilios",
+          "count": 136
+        },
+        {
+          "name": "ELETRODOMÉSTICOS",
+          "slug": "eletrodomesticos",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/eletrodomesticos",
+          "count": 139
+        },
+        {
+          "name": "HIGIENE E LIMPEZA",
+          "slug": "higiene-e-limpeza",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/higiene-e-limpeza",
+          "count": 288
+        },
+        {
+          "name": "MOBILIÁRIO CORPORATIVO",
+          "slug": "mobiliario-corporativo",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/mobiliario-corporativo",
+          "count": 113
+        },
+        {
+          "name": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+          "slug": "papelaria-e-material-de-escritorio",
+          "path": "/suprimentos-corporativos/suprimentos-indiretos/papelaria-e-material-de-escritorio",
+          "count": 412
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "1903",
+      "name": "15.721.682 MARIO GOMES DIAS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1903.json"
+    },
+    {
+      "code": "2366",
+      "name": "3A COMERCIO DE ELETRONICOS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2366.json"
+    },
+    {
+      "code": "34",
+      "name": "3M DO BRASIL LTDA",
+      "count": 8,
+      "file": "suprimentos-corporativos--fornecedor-34.json"
+    },
+    {
+      "code": "420",
+      "name": "3M DO BRASIL LTDA",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-420.json"
+    },
+    {
+      "code": "5884",
+      "name": "48.688.060 DANIEL OCCULATE JUNIOR",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5884.json"
+    },
+    {
+      "code": "4904",
+      "name": "53.816.117 WAGNER ALEXANDRE FONSECA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4904.json"
+    },
+    {
+      "code": "6037",
+      "name": "54.749.287 DOUGLAS DIAS DEBRITO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6037.json"
+    },
+    {
+      "code": "5927",
+      "name": "55.465.847 VICTOR MATHEUS DE ANDRADE RAMOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5927.json"
+    },
+    {
+      "code": "5119",
+      "name": "58.358.323 IOANNIS ANGELOPOULOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5119.json"
+    },
+    {
+      "code": "4781",
+      "name": "59.683.694 TALES MATEUS RODRIGUES E SILVA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-4781.json"
+    },
+    {
+      "code": "5586",
+      "name": "61.541.378 EDINA MARIA OLIVEIRA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5586.json"
+    },
+    {
+      "code": "5695",
+      "name": "64.079.648/0001-88",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5695.json"
+    },
+    {
+      "code": "5939",
+      "name": "66.320.667 MARCELO CARNEVALE COELHO",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-5939.json"
+    },
+    {
+      "code": "4826",
+      "name": "A J DOS SANTOS SILVA COMERCIO E SERVIÇOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4826.json"
+    },
+    {
+      "code": "1430",
+      "name": "A REDE ASSESSORIA COMERCIAL LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1430.json"
+    },
+    {
+      "code": "2204",
+      "name": "ABCOMPRAS UTILIDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2204.json"
+    },
+    {
+      "code": "5290",
+      "name": "ACL SUPRIMENTOS COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5290.json"
+    },
+    {
+      "code": "22",
+      "name": "ACO CEARENSE INDUSTRIAL LTDA.",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-22.json"
+    },
+    {
+      "code": "5053",
+      "name": "ACQUALESTE PISCINA E LAZER LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5053.json"
+    },
+    {
+      "code": "4174",
+      "name": "ACRILDESTAC INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-4174.json"
+    },
+    {
+      "code": "4753",
+      "name": "ADONAI SHOP LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4753.json"
+    },
+    {
+      "code": "2532",
+      "name": "ADRIMPORT COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2532.json"
+    },
+    {
+      "code": "3022",
+      "name": "AFC COMERCIO VAREJISTA DE COMPONENTES ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3022.json"
+    },
+    {
+      "code": "1698",
+      "name": "AGC LIGHTWAVE COMERCIAL LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1698.json"
+    },
+    {
+      "code": "4649",
+      "name": "AGIS EQUIPAMENTOS E SERVIÇOS DE INFORMATICA LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-4649.json"
+    },
+    {
+      "code": "1924",
+      "name": "AILTON ABRANTES DE SOUSA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1924.json"
+    },
+    {
+      "code": "4755",
+      "name": "AL IMPORTACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4755.json"
+    },
+    {
+      "code": "2215",
+      "name": "ALCATEIA COMERCIO VAREJISTA DE ARTIGOS ESPORTIVOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2215.json"
+    },
+    {
+      "code": "5398",
+      "name": "ALL PRO COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5398.json"
+    },
+    {
+      "code": "3890",
+      "name": "ALLES COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3890.json"
+    },
+    {
+      "code": "1461",
+      "name": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-1461.json"
+    },
+    {
+      "code": "3765",
+      "name": "AMANDA CARVALHO ROSA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3765.json"
+    },
+    {
+      "code": "709",
+      "name": "AMANDA CLAUDIA DE LIMA DANTAS (SERIDO BRINDES)",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-709.json"
+    },
+    {
+      "code": "1416",
+      "name": "AMERICANAS S.A.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1416.json"
+    },
+    {
+      "code": "2153",
+      "name": "AMORIM & CIA LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2153.json"
+    },
+    {
+      "code": "4419",
+      "name": "AMORIM & CIA LTDA.",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-4419.json"
+    },
+    {
+      "code": "2332",
+      "name": "AMORIM & CIA LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2332.json"
+    },
+    {
+      "code": "647",
+      "name": "AMORIM E CIA LTDA ME",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-647.json"
+    },
+    {
+      "code": "6176",
+      "name": "AMPLA CONNECT LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6176.json"
+    },
+    {
+      "code": "5011",
+      "name": "ANDRESSA ALINE DE SOUSA EMBALAGENS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5011.json"
+    },
+    {
+      "code": "4118",
+      "name": "ANTONIO AUGUSTO DE SOUSA FONSECA NETO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4118.json"
+    },
+    {
+      "code": "559",
+      "name": "ANTONIO MARCOS BEZERRA CRUZ",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-559.json"
+    },
+    {
+      "code": "1379",
+      "name": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "count": 47,
+      "file": "suprimentos-corporativos--fornecedor-1379.json"
+    },
+    {
+      "code": "6086",
+      "name": "ARAUJO SHOP ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6086.json"
+    },
+    {
+      "code": "768",
+      "name": "ARMARINHO ANILSON LTDA EPP",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-768.json"
+    },
+    {
+      "code": "4088",
+      "name": "ARMAZEM DO BASICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4088.json"
+    },
+    {
+      "code": "2170",
+      "name": "ARQUITETIZZE IMPORTACAO E COMERCIO ATACADISTA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2170.json"
+    },
+    {
+      "code": "5292",
+      "name": "ARSYSTEM FERRAMENTAS & EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5292.json"
+    },
+    {
+      "code": "5892",
+      "name": "ARTEZANET E-COMMERCE LTDA",
+      "count": 12,
+      "file": "suprimentos-corporativos--fornecedor-5892.json"
+    },
+    {
+      "code": "2357",
+      "name": "ARTHUR LUNDGREN TECIDOS S A CASAS PERNAMBUCANAS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2357.json"
+    },
+    {
+      "code": "211",
+      "name": "ASA SUL IND E COMERCIO DE MALHAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-211.json"
+    },
+    {
+      "code": "3227",
+      "name": "ASSA ABLOY BRASIL INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3227.json"
+    },
+    {
+      "code": "2227",
+      "name": "ASTRA INFO GAMING LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2227.json"
+    },
+    {
+      "code": "5329",
+      "name": "ASTRO COMERCIO DE MOVEIS PARA ESCRITORIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5329.json"
+    },
+    {
+      "code": "1076",
+      "name": "ATIVA DISTRIBUIDORA DE TECNOLOGIA LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1076.json"
+    },
+    {
+      "code": "2563",
+      "name": "AUTO PECAS E MECANICA ARAUJO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2563.json"
+    },
+    {
+      "code": "5724",
+      "name": "AUTO SOM TAMANDARE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5724.json"
+    },
+    {
+      "code": "2257",
+      "name": "AUTOBRAZ COMERCIO DE VEICULOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2257.json"
+    },
+    {
+      "code": "4750",
+      "name": "B H R COMERCIO DE ACESSORIOS PARA GASTRONOMIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4750.json"
+    },
+    {
+      "code": "3834",
+      "name": "BADAN ARTIGOS ESPORTIVOS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-3834.json"
+    },
+    {
+      "code": "5926",
+      "name": "BARBARA ESTELA FELIX RAMOS ARAGAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5926.json"
+    },
+    {
+      "code": "4794",
+      "name": "BAZAR SHOPPING MULTICOISAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4794.json"
+    },
+    {
+      "code": "2449",
+      "name": "BEL MICRO TECNOLOGIA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2449.json"
+    },
+    {
+      "code": "1508",
+      "name": "BEL MICRO TECNOLOGIA S/A",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1508.json"
+    },
+    {
+      "code": "2008",
+      "name": "BELA MAGAZINE COMERCIO VAREJISTA DE MOVEIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2008.json"
+    },
+    {
+      "code": "1147",
+      "name": "BETTANIN S.A.",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1147.json"
+    },
+    {
+      "code": "6028",
+      "name": "BFCH COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6028.json"
+    },
+    {
+      "code": "4000",
+      "name": "BIANCHINI INDUSTRIA DE PLASTICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4000.json"
+    },
+    {
+      "code": "5263",
+      "name": "BILESTORE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5263.json"
+    },
+    {
+      "code": "6239",
+      "name": "BITTENCOURT AUDIO E VIDEO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6239.json"
+    },
+    {
+      "code": "2154",
+      "name": "BLESS ACABAMENTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2154.json"
+    },
+    {
+      "code": "293",
+      "name": "BM3 IMPORTACAO E EXPORTACAO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-293.json"
+    },
+    {
+      "code": "5668",
+      "name": "BRAIN BOX COMERCIO E SERVICOS DE INFORMATICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5668.json"
+    },
+    {
+      "code": "1836",
+      "name": "BRAKEY COMERCIO DE PRODUTOS DE HIGIENE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1836.json"
+    },
+    {
+      "code": "773",
+      "name": "BRALIMPIA IND COM DE EQ P LIMP LTDA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-773.json"
+    },
+    {
+      "code": "1273",
+      "name": "BRASIMAX COMERCIO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMATI",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1273.json"
+    },
+    {
+      "code": "4296",
+      "name": "BRBECOM LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4296.json"
+    },
+    {
+      "code": "574",
+      "name": "BRITO AUTO PECAS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-574.json"
+    },
+    {
+      "code": "2470",
+      "name": "BRITO GAS BUTANO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2470.json"
+    },
+    {
+      "code": "1723",
+      "name": "BRUNO RAMOS DA SILVA COMERCIO DE ARTESANATOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1723.json"
+    },
+    {
+      "code": "4172",
+      "name": "BYVC COMPANY LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-4172.json"
+    },
+    {
+      "code": "4072",
+      "name": "C. A. S. DOS SANTOS GODOI",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-4072.json"
+    },
+    {
+      "code": "4242",
+      "name": "C.C IMPORTACAO DE ELETRO ELETRONICOS E LUMINARIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4242.json"
+    },
+    {
+      "code": "1077",
+      "name": "CAC BARROS COMERCIO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1077.json"
+    },
+    {
+      "code": "4656",
+      "name": "CAMARA CASCUDO COMERCIO DE ATACADO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4656.json"
+    },
+    {
+      "code": "889",
+      "name": "CANTINHO DA EMBALAGENS E DESCARTAVEIS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-889.json"
+    },
+    {
+      "code": "3003",
+      "name": "CARAJAS MATERIAL DE CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3003.json"
+    },
+    {
+      "code": "5947",
+      "name": "CARLOS AUGUSTO DE LIMA VIEIRA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5947.json"
+    },
+    {
+      "code": "5943",
+      "name": "CASA DOS MOVEIS AFBF LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5943.json"
+    },
+    {
+      "code": "4511",
+      "name": "CASA NORTE LTDA",
+      "count": 21,
+      "file": "suprimentos-corporativos--fornecedor-4511.json"
+    },
+    {
+      "code": "5722",
+      "name": "CD COMERCIO DE PAPELARIA, BRINQUEDOS E SANEANTES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5722.json"
+    },
+    {
+      "code": "819",
+      "name": "CENTRAL DE DISTRIBUIÇÃO AZEVEDO LTDA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-819.json"
+    },
+    {
+      "code": "1268",
+      "name": "CETRO SOLUCOES EM EMBALAGENS EIRELI",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1268.json"
+    },
+    {
+      "code": "2162",
+      "name": "CHAFARIZ RIACHO DA ROCA LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-2162.json"
+    },
+    {
+      "code": "5225",
+      "name": "CHAME COM ATACADISTA DE ELETRO ELET UTIL E PRES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5225.json"
+    },
+    {
+      "code": "3957",
+      "name": "CIA LUZ ILUMINACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3957.json"
+    },
+    {
+      "code": "1793",
+      "name": "CIRILO CABOS IMPORTACAO E EXPORTACAO LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1793.json"
+    },
+    {
+      "code": "162",
+      "name": "CIRNE IRMAOS & CIA LTDA",
+      "count": 210,
+      "file": "suprimentos-corporativos--fornecedor-162.json"
+    },
+    {
+      "code": "3704",
+      "name": "CIRNE IRMAOS & CIA LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-3704.json"
+    },
+    {
+      "code": "4177",
+      "name": "CLAUDIO BENEVENUTO JUNIOR",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-4177.json"
+    },
+    {
+      "code": "5745",
+      "name": "CLIMB'S JOURNEY COMPANY LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5745.json"
+    },
+    {
+      "code": "526",
+      "name": "CLIQUE INFORMATICA COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-526.json"
+    },
+    {
+      "code": "6001",
+      "name": "CM COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6001.json"
+    },
+    {
+      "code": "980",
+      "name": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-980.json"
+    },
+    {
+      "code": "5855",
+      "name": "COLCHAO COSTA RICA COMERCIO DE MOVEIS E COLCHOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5855.json"
+    },
+    {
+      "code": "2250",
+      "name": "COLORADO EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2250.json"
+    },
+    {
+      "code": "3974",
+      "name": "COMERCIAL CJJ LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3974.json"
+    },
+    {
+      "code": "5858",
+      "name": "COMERCIAL ELETRO PEREZ LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5858.json"
+    },
+    {
+      "code": "2432",
+      "name": "COMERCIAL ELETRONICA WILANG LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2432.json"
+    },
+    {
+      "code": "1913",
+      "name": "COMERCIAL GALVAO LTDA",
+      "count": 43,
+      "file": "suprimentos-corporativos--fornecedor-1913.json"
+    },
+    {
+      "code": "1500",
+      "name": "COMERCIAL J. M. LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1500.json"
+    },
+    {
+      "code": "317",
+      "name": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-317.json"
+    },
+    {
+      "code": "49",
+      "name": "COMERCIO DE ELASTICOS FONSECA EIRELI",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-49.json"
+    },
+    {
+      "code": "4619",
+      "name": "COMPUTER BRASIL BARRA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4619.json"
+    },
+    {
+      "code": "1179",
+      "name": "CONDOR EQUIPAMENTOS INDUSTRIAIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1179.json"
+    },
+    {
+      "code": "880",
+      "name": "CONDOR PINCEIS LTDA",
+      "count": 13,
+      "file": "suprimentos-corporativos--fornecedor-880.json"
+    },
+    {
+      "code": "2142",
+      "name": "CONFIAMIX SOLUCOES EM HIGIENE E LIMPEZA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2142.json"
+    },
+    {
+      "code": "6063",
+      "name": "CONFIANCA EMBALAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6063.json"
+    },
+    {
+      "code": "1011",
+      "name": "CONSTAMED EQUIPAMENTOS HOSPITALARES E PRODUTOS PARA SAUDE LT",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1011.json"
+    },
+    {
+      "code": "5288",
+      "name": "CONTRACT REVESTIMENTOS PARA CONSTRUCAO LTDA58.515.495/0001-7",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5288.json"
+    },
+    {
+      "code": "2283",
+      "name": "CREATIVE COPIAS MARIO COVAS S/N",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-2283.json"
+    },
+    {
+      "code": "5576",
+      "name": "CRIS CARE CAR PROD AUTOMOTIVOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5576.json"
+    },
+    {
+      "code": "4757",
+      "name": "CRISTIANE KLOSOVSKI LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4757.json"
+    },
+    {
+      "code": "4214",
+      "name": "CRISTIANO HENRIQUE GREVE",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4214.json"
+    },
+    {
+      "code": "3130",
+      "name": "DALIA COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3130.json"
+    },
+    {
+      "code": "1883",
+      "name": "DANILLO ARAUJO DE PAIVA 01820013421",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1883.json"
+    },
+    {
+      "code": "5773",
+      "name": "DAP MARKETPLACES E CONSULTORIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5773.json"
+    },
+    {
+      "code": "5715",
+      "name": "DCALU COMERCIO E PRESTACAO DE SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5715.json"
+    },
+    {
+      "code": "2206",
+      "name": "DECORFREE PRESENTES E DECORACOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2206.json"
+    },
+    {
+      "code": "821",
+      "name": "DELL COMPUTADORES DO BRASIL LTDA",
+      "count": 8,
+      "file": "suprimentos-corporativos--fornecedor-821.json"
+    },
+    {
+      "code": "5535",
+      "name": "DELO INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5535.json"
+    },
+    {
+      "code": "2440",
+      "name": "DENTECK LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-2440.json"
+    },
+    {
+      "code": "2011",
+      "name": "DEPOSITO DOS COPOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2011.json"
+    },
+    {
+      "code": "5807",
+      "name": "DESCOMPARAR LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5807.json"
+    },
+    {
+      "code": "2764",
+      "name": "DESCONTO MAGAZINE COMERCIO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2764.json"
+    },
+    {
+      "code": "2481",
+      "name": "DEUS-GUARDE COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2481.json"
+    },
+    {
+      "code": "2611",
+      "name": "DIAMANTE MIX COM E DISTRIBUIDORA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2611.json"
+    },
+    {
+      "code": "4998",
+      "name": "DIAS HAMDAN COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4998.json"
+    },
+    {
+      "code": "2572",
+      "name": "DIEGO VIEIRA NUNES",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2572.json"
+    },
+    {
+      "code": "4181",
+      "name": "DIGITAL STORE COMERCIO DE VARIEDADES E UTILIDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4181.json"
+    },
+    {
+      "code": "2002",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2002.json"
+    },
+    {
+      "code": "1578",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1578.json"
+    },
+    {
+      "code": "1495",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1495.json"
+    },
+    {
+      "code": "1781",
+      "name": "DISTRIBUIDAO COMERCIO VAREJISTA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1781.json"
+    },
+    {
+      "code": "3658",
+      "name": "DISTRIBUIDORA CASA DO INSTALADOR LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-3658.json"
+    },
+    {
+      "code": "1231",
+      "name": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "count": 20,
+      "file": "suprimentos-corporativos--fornecedor-1231.json"
+    },
+    {
+      "code": "2268",
+      "name": "DISTRIBUIDORA DE PAPEIS BAIAO LTDA ME",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2268.json"
+    },
+    {
+      "code": "4308",
+      "name": "DJ LED ELETRICA COMERCIO DE MATERIAL ELETRICO LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4308.json"
+    },
+    {
+      "code": "1371",
+      "name": "DJAIR VEIGA DOS SANTOS 37986194847",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1371.json"
+    },
+    {
+      "code": "4331",
+      "name": "DOC COM LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-4331.json"
+    },
+    {
+      "code": "6065",
+      "name": "DOG ELETRO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6065.json"
+    },
+    {
+      "code": "1543",
+      "name": "DPC DISTRIBUIDOR ATACADISTA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1543.json"
+    },
+    {
+      "code": "1741",
+      "name": "DROGARIA SIGAFARMA LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1741.json"
+    },
+    {
+      "code": "1592",
+      "name": "DUOFFICE BRASIL LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1592.json"
+    },
+    {
+      "code": "270",
+      "name": "E A DE MELO LULA COM LOC E SERVICOS - ME",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-270.json"
+    },
+    {
+      "code": "4926",
+      "name": "E R JUNIOR LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4926.json"
+    },
+    {
+      "code": "5386",
+      "name": "E-MOVE COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5386.json"
+    },
+    {
+      "code": "2047",
+      "name": "E2Z COMERCIO DE PRODUTOS PARA SAUDE E UTENSILIOS DOMESTICOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2047.json"
+    },
+    {
+      "code": "5410",
+      "name": "EASYTECH TECNOLOGIA COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5410.json"
+    },
+    {
+      "code": "2049",
+      "name": "EBAZAR.COM.BR. LTDA",
+      "count": 12,
+      "file": "suprimentos-corporativos--fornecedor-2049.json"
+    },
+    {
+      "code": "1685",
+      "name": "EBAZAR.COM.BR. LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1685.json"
+    },
+    {
+      "code": "2114",
+      "name": "ECLIPSE BOLSAS E ACESSORIOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2114.json"
+    },
+    {
+      "code": "4515",
+      "name": "ECOMFORLIFE IMPORTADORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4515.json"
+    },
+    {
+      "code": "4294",
+      "name": "ECOTRON COMPONENTES ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4294.json"
+    },
+    {
+      "code": "2776",
+      "name": "ELASTOBOR BORRACHAS E PLASTICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2776.json"
+    },
+    {
+      "code": "5585",
+      "name": "ELETRICA TAKEI COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5585.json"
+    },
+    {
+      "code": "2565",
+      "name": "ELETRODEX ELETRONICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2565.json"
+    },
+    {
+      "code": "5822",
+      "name": "ELETRODOMESTICOS DOMINA LTDA.",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-5822.json"
+    },
+    {
+      "code": "3846",
+      "name": "ELETROZEMA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3846.json"
+    },
+    {
+      "code": "231",
+      "name": "ELGIN DISTRIBUIDORA LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-231.json"
+    },
+    {
+      "code": "934",
+      "name": "ELITE AÇO IND E COM DE MOVEIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-934.json"
+    },
+    {
+      "code": "1831",
+      "name": "ELYT MOVEIS DE ACO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1831.json"
+    },
+    {
+      "code": "4733",
+      "name": "EMBALEME COMERCIO DE EMBALAGENS DESCARTAVEIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4733.json"
+    },
+    {
+      "code": "2541",
+      "name": "EMERSON FERNANDES DE SOUZA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2541.json"
+    },
+    {
+      "code": "5419",
+      "name": "EON LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5419.json"
+    },
+    {
+      "code": "3600",
+      "name": "ESHOP IMPORTACAO E COMERCIO DE ELETRONICOS LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-3600.json"
+    },
+    {
+      "code": "1510",
+      "name": "ESTRELA 10 COMERCIO ELETRONICO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1510.json"
+    },
+    {
+      "code": "5531",
+      "name": "ESV COMERCIO DE VARIEDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5531.json"
+    },
+    {
+      "code": "2544",
+      "name": "EUROMAR PRODUTOS MECANICOS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2544.json"
+    },
+    {
+      "code": "6088",
+      "name": "EXCLEAN LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6088.json"
+    },
+    {
+      "code": "4686",
+      "name": "EXPRESSO DISTRIBUICAO E VAREJO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4686.json"
+    },
+    {
+      "code": "6157",
+      "name": "EZEQUIAS RABELO PEREIRA COMERCIO DE ELETROELETRONICO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6157.json"
+    },
+    {
+      "code": "5859",
+      "name": "F F ASSARITO E-COMMERCE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5859.json"
+    },
+    {
+      "code": "1003",
+      "name": "F M DARA COM. DE MAT. DE ESC. LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1003.json"
+    },
+    {
+      "code": "6007",
+      "name": "FALCOM COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6007.json"
+    },
+    {
+      "code": "784",
+      "name": "FAMA DISTRUBUIÇÃO E LOGISTICA LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-784.json"
+    },
+    {
+      "code": "1657",
+      "name": "FCA COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1657.json"
+    },
+    {
+      "code": "772",
+      "name": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "count": 22,
+      "file": "suprimentos-corporativos--fornecedor-772.json"
+    },
+    {
+      "code": "6016",
+      "name": "FEROCK MULTIMARCAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6016.json"
+    },
+    {
+      "code": "1089",
+      "name": "FERREIRA COSTA CIA LTDA",
+      "count": 9,
+      "file": "suprimentos-corporativos--fornecedor-1089.json"
+    },
+    {
+      "code": "2722",
+      "name": "FIBRACEM MATRIZ",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2722.json"
+    },
+    {
+      "code": "1571",
+      "name": "FITY COMERCIO DE PRODUTOS EM GERAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1571.json"
+    },
+    {
+      "code": "6233",
+      "name": "FIXCOMM TECNOLOGIA LTDA",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-6233.json"
+    },
+    {
+      "code": "2763",
+      "name": "FLEXFORM INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-2763.json"
+    },
+    {
+      "code": "1651",
+      "name": "FLYELETRO7529 LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1651.json"
+    },
+    {
+      "code": "271",
+      "name": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-271.json"
+    },
+    {
+      "code": "2412",
+      "name": "FORNECEDORA-MAQUINAS E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2412.json"
+    },
+    {
+      "code": "4010",
+      "name": "FORSA DISTRIBUIDORA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4010.json"
+    },
+    {
+      "code": "5349",
+      "name": "FORTCOM HIGIENE INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-5349.json"
+    },
+    {
+      "code": "909",
+      "name": "FOUR TECH SUPRIMENTOS PARA IMPRESSAO E INFORMATICA LTDA",
+      "count": 8,
+      "file": "suprimentos-corporativos--fornecedor-909.json"
+    },
+    {
+      "code": "5811",
+      "name": "FRESNOMAQ INDUSTRIA DE MAQUINAS S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5811.json"
+    },
+    {
+      "code": "2926",
+      "name": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2926.json"
+    },
+    {
+      "code": "2263",
+      "name": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2263.json"
+    },
+    {
+      "code": "1384",
+      "name": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "count": 9,
+      "file": "suprimentos-corporativos--fornecedor-1384.json"
+    },
+    {
+      "code": "467",
+      "name": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "count": 19,
+      "file": "suprimentos-corporativos--fornecedor-467.json"
+    },
+    {
+      "code": "1978",
+      "name": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1978.json"
+    },
+    {
+      "code": "1823",
+      "name": "FRISBEL LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1823.json"
+    },
+    {
+      "code": "6143",
+      "name": "FRISBEL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6143.json"
+    },
+    {
+      "code": "2118",
+      "name": "FUTURA BRINQUEDOS EDUCATIVOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2118.json"
+    },
+    {
+      "code": "2043",
+      "name": "G A GOIS SUPERMERCADOS LTDA.",
+      "count": 8,
+      "file": "suprimentos-corporativos--fornecedor-2043.json"
+    },
+    {
+      "code": "1129",
+      "name": "G. R. INFORMATICA LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1129.json"
+    },
+    {
+      "code": "6073",
+      "name": "G3 TECNOLOGIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6073.json"
+    },
+    {
+      "code": "5742",
+      "name": "GAGIZE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5742.json"
+    },
+    {
+      "code": "2044",
+      "name": "GALEGUIM DAS EMBALAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2044.json"
+    },
+    {
+      "code": "2230",
+      "name": "GAYSON MORAES PORTO",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-2230.json"
+    },
+    {
+      "code": "2020",
+      "name": "GAZIN INDUSTRIA E COMERCIO DE MOVEIS E ELETRODOMESTICOS S.A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2020.json"
+    },
+    {
+      "code": "5750",
+      "name": "GLAUCO LUIZ GOMES BRONSTEIN COMERCIO DE EMBALAGENS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5750.json"
+    },
+    {
+      "code": "1443",
+      "name": "GLOBAL DISTRIBUICAO DE BENS DE CONSUMO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1443.json"
+    },
+    {
+      "code": "5553",
+      "name": "GNC COMERCIAL DE ALIMENTOS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-5553.json"
+    },
+    {
+      "code": "3997",
+      "name": "GOES & GOES EMBALAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3997.json"
+    },
+    {
+      "code": "955",
+      "name": "GRUPO CASAS BAHIA S.A.",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-955.json"
+    },
+    {
+      "code": "1690",
+      "name": "GRUPO CASAS BAHIA S.A.",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1690.json"
+    },
+    {
+      "code": "6181",
+      "name": "GRUPO CASAS BAHIA S.A.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6181.json"
+    },
+    {
+      "code": "5200",
+      "name": "GRUPO CASAS BAHIA S.A.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5200.json"
+    },
+    {
+      "code": "4240",
+      "name": "GRUPO CASAS BAHIA S.A.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4240.json"
+    },
+    {
+      "code": "1171",
+      "name": "GRUPO MULTI S.A",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1171.json"
+    },
+    {
+      "code": "5873",
+      "name": "GSN ECOMMERCE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5873.json"
+    },
+    {
+      "code": "4202",
+      "name": "GSOL ECOM LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4202.json"
+    },
+    {
+      "code": "2592",
+      "name": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "count": 23,
+      "file": "suprimentos-corporativos--fornecedor-2592.json"
+    },
+    {
+      "code": "1946",
+      "name": "HALMEIDA COMERCIO DE COSMETICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1946.json"
+    },
+    {
+      "code": "612",
+      "name": "HAMDAN COMERCIO DE EMBALAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-612.json"
+    },
+    {
+      "code": "2598",
+      "name": "HAYAMAX DISTR.PROD.ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2598.json"
+    },
+    {
+      "code": "828",
+      "name": "HENKEL LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-828.json"
+    },
+    {
+      "code": "191",
+      "name": "HENLAU QUIMICA EIRELI  EPP",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-191.json"
+    },
+    {
+      "code": "3157",
+      "name": "HIDRAUTINI COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3157.json"
+    },
+    {
+      "code": "752",
+      "name": "HOME DECOR LTDA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-752.json"
+    },
+    {
+      "code": "4951",
+      "name": "HZ COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4951.json"
+    },
+    {
+      "code": "890",
+      "name": "I A V COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-890.json"
+    },
+    {
+      "code": "2388",
+      "name": "I COSTA SUPERMERCADO LTDA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-2388.json"
+    },
+    {
+      "code": "2658",
+      "name": "ILUMIXLED COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2658.json"
+    },
+    {
+      "code": "2506",
+      "name": "INDUSTRIA COMERCIO E SERVICOS JGE LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-2506.json"
+    },
+    {
+      "code": "3604",
+      "name": "INFINITYFULL ECOMMERCE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3604.json"
+    },
+    {
+      "code": "6058",
+      "name": "INOVA MAGAZINE COMERCIO DE MOVEIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6058.json"
+    },
+    {
+      "code": "5314",
+      "name": "INOVAR LOCACOES MOSSORO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5314.json"
+    },
+    {
+      "code": "1748",
+      "name": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1748.json"
+    },
+    {
+      "code": "5187",
+      "name": "INTELBRAS S.A. INDUSTRIA DE TELECOMUNICACAO ELETRONICA BRASI",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-5187.json"
+    },
+    {
+      "code": "2098",
+      "name": "INTELISENSE RADIOCOMUNICACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2098.json"
+    },
+    {
+      "code": "4049",
+      "name": "ION CABOS E LED COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4049.json"
+    },
+    {
+      "code": "2363",
+      "name": "IVAM COSTA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-2363.json"
+    },
+    {
+      "code": "5842",
+      "name": "IVAN VIANA DOS SANTOS COMERCIO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5842.json"
+    },
+    {
+      "code": "2156",
+      "name": "J & B MERCANTIL LTDA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-2156.json"
+    },
+    {
+      "code": "1242",
+      "name": "J C R DA SILVA PISCINAS E CONSTRUCOES",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1242.json"
+    },
+    {
+      "code": "1932",
+      "name": "J L DE MEDEIROS & ARAUJO LTDA",
+      "count": 16,
+      "file": "suprimentos-corporativos--fornecedor-1932.json"
+    },
+    {
+      "code": "1796",
+      "name": "J L MOVEIS PLANEJADOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1796.json"
+    },
+    {
+      "code": "3980",
+      "name": "J V & A COM SERV E CONSTRUCAO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-3980.json"
+    },
+    {
+      "code": "502",
+      "name": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "count": 11,
+      "file": "suprimentos-corporativos--fornecedor-502.json"
+    },
+    {
+      "code": "2380",
+      "name": "J. C. M. NITEROI REFRIGERACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2380.json"
+    },
+    {
+      "code": "3860",
+      "name": "J. C. S S MERCANTIL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3860.json"
+    },
+    {
+      "code": "2725",
+      "name": "J. D. DIAS JUNIOR",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2725.json"
+    },
+    {
+      "code": "1157",
+      "name": "J. F. DE LIRA ME",
+      "count": 11,
+      "file": "suprimentos-corporativos--fornecedor-1157.json"
+    },
+    {
+      "code": "2749",
+      "name": "J. NUNES DE OLIVEIRA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2749.json"
+    },
+    {
+      "code": "935",
+      "name": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "count": 19,
+      "file": "suprimentos-corporativos--fornecedor-935.json"
+    },
+    {
+      "code": "403",
+      "name": "JAILSON SEVERO DOS SANTOS",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-403.json"
+    },
+    {
+      "code": "563",
+      "name": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-563.json"
+    },
+    {
+      "code": "1601",
+      "name": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1601.json"
+    },
+    {
+      "code": "2360",
+      "name": "JCM NITEROI REFRIGERAÇÃO LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-2360.json"
+    },
+    {
+      "code": "1134",
+      "name": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1134.json"
+    },
+    {
+      "code": "1374",
+      "name": "JET ESPELHOS E VIDROS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1374.json"
+    },
+    {
+      "code": "954",
+      "name": "JGE PRODUTOS REFRIGERADOS EIRELI",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-954.json"
+    },
+    {
+      "code": "6048",
+      "name": "JMC SHOP PAPELARIA E ESCRITORIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6048.json"
+    },
+    {
+      "code": "2275",
+      "name": "JOAO PAULO DE TOLEDO INFORMATICA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2275.json"
+    },
+    {
+      "code": "1824",
+      "name": "JOAO PAULO SILVA NETO 22978072873",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1824.json"
+    },
+    {
+      "code": "4316",
+      "name": "JOAPE - CLIMATIZACAO INDUSTRIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4316.json"
+    },
+    {
+      "code": "2395",
+      "name": "JOCEL EMBALAGENS",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2395.json"
+    },
+    {
+      "code": "5430",
+      "name": "JODECORACOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5430.json"
+    },
+    {
+      "code": "2540",
+      "name": "JOSE ROBERTO ALVES JUNIOR",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2540.json"
+    },
+    {
+      "code": "2726",
+      "name": "JOVANILSON BRAGA DA SILVA DA CASA NOVA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2726.json"
+    },
+    {
+      "code": "5143",
+      "name": "JUGUILO ECOMMERCE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5143.json"
+    },
+    {
+      "code": "1968",
+      "name": "JW MONTE BAZAR LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1968.json"
+    },
+    {
+      "code": "5101",
+      "name": "K.M COMERCIO DE EMBALAGENS E PRODUTOS DE LIMPEZA LTDA",
+      "count": 14,
+      "file": "suprimentos-corporativos--fornecedor-5101.json"
+    },
+    {
+      "code": "1602",
+      "name": "KABUM S.A.",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1602.json"
+    },
+    {
+      "code": "5588",
+      "name": "KALUNGA SA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5588.json"
+    },
+    {
+      "code": "2644",
+      "name": "KAMIDE & CIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2644.json"
+    },
+    {
+      "code": "5930",
+      "name": "KC SHOP COMERCIO DE VARIEDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5930.json"
+    },
+    {
+      "code": "958",
+      "name": "KENIA SABATTYNE DE O BORGES",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-958.json"
+    },
+    {
+      "code": "5246",
+      "name": "KEPSCIA COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5246.json"
+    },
+    {
+      "code": "4962",
+      "name": "KETER IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUTOS EM GERAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4962.json"
+    },
+    {
+      "code": "1641",
+      "name": "KGMLAN DISTRIBUIDORA LTDA",
+      "count": 17,
+      "file": "suprimentos-corporativos--fornecedor-1641.json"
+    },
+    {
+      "code": "1098",
+      "name": "KNOX PRODUTOS REFRIGERADOS EIRELI",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1098.json"
+    },
+    {
+      "code": "5015",
+      "name": "KONIG INSTRUMENTOS MUSICAIS LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5015.json"
+    },
+    {
+      "code": "1666",
+      "name": "KZA BELA COMERCIO DE MOVEIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1666.json"
+    },
+    {
+      "code": "2347",
+      "name": "L M PEREIRA PRODUTOS PARA LABORATORIOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2347.json"
+    },
+    {
+      "code": "894",
+      "name": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-894.json"
+    },
+    {
+      "code": "2597",
+      "name": "LE FERRAGNES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2597.json"
+    },
+    {
+      "code": "1800",
+      "name": "LENOVO TECNOLOGIA (BRASIL) LIMITADA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1800.json"
+    },
+    {
+      "code": "1353",
+      "name": "LNSHOP TECNOLOGIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1353.json"
+    },
+    {
+      "code": "3968",
+      "name": "LOI BRASIL COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3968.json"
+    },
+    {
+      "code": "3366",
+      "name": "LOJA DOS MARIOS IMPORTACAO E COMERCIO DE CAMERAS LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-3366.json"
+    },
+    {
+      "code": "2397",
+      "name": "LOJAS DIJOSETE LTDA",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-2397.json"
+    },
+    {
+      "code": "4014",
+      "name": "LOS HERMANOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4014.json"
+    },
+    {
+      "code": "4751",
+      "name": "LSM COMERCIO VAREJISTA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4751.json"
+    },
+    {
+      "code": "5344",
+      "name": "LUBNORD COMERCIO DE LUBRIFICANTES DO NORDESTE LTDA",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-5344.json"
+    },
+    {
+      "code": "1349",
+      "name": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1349.json"
+    },
+    {
+      "code": "6270",
+      "name": "LUC PRIME IMPORTS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6270.json"
+    },
+    {
+      "code": "1653",
+      "name": "LUCIANO SERAFIM COMERCIO VAREJISTA DE ARTIGOS DIVERSOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1653.json"
+    },
+    {
+      "code": "5110",
+      "name": "LUCRECIA SIA DE SANTANA GARCINO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5110.json"
+    },
+    {
+      "code": "4272",
+      "name": "LUFIARA ECOM LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4272.json"
+    },
+    {
+      "code": "4115",
+      "name": "M J AZEVEDO SILVA MATERIAIS DE CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4115.json"
+    },
+    {
+      "code": "4413",
+      "name": "M J S COMERCIO VAREJISTA DE EQUIPAMENTOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4413.json"
+    },
+    {
+      "code": "1662",
+      "name": "M.F. PASSARINHO ARTIGOS ELETRONICOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1662.json"
+    },
+    {
+      "code": "2164",
+      "name": "MAC COMERCIO DE MATERIAIS PARA ESCRITORIO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2164.json"
+    },
+    {
+      "code": "5330",
+      "name": "MADEIRAMADEIRA COMERCIO ELETRONICO S/A",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-5330.json"
+    },
+    {
+      "code": "532",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 19,
+      "file": "suprimentos-corporativos--fornecedor-532.json"
+    },
+    {
+      "code": "745",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-745.json"
+    },
+    {
+      "code": "767",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-767.json"
+    },
+    {
+      "code": "1600",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-1600.json"
+    },
+    {
+      "code": "6082",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6082.json"
+    },
+    {
+      "code": "2833",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-2833.json"
+    },
+    {
+      "code": "524",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-524.json"
+    },
+    {
+      "code": "4661",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4661.json"
+    },
+    {
+      "code": "1106",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1106.json"
+    },
+    {
+      "code": "1472",
+      "name": "MAGAZINE LUIZA S/A",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1472.json"
+    },
+    {
+      "code": "5743",
+      "name": "MAGO DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5743.json"
+    },
+    {
+      "code": "5347",
+      "name": "MAIART - INDUSTRIA E COMERCIO DE MOVEIS PARA ESCRITORIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5347.json"
+    },
+    {
+      "code": "6201",
+      "name": "MAMEDE MULTI CENTER DESIGN LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6201.json"
+    },
+    {
+      "code": "1149",
+      "name": "MANASES TEIXEIRA DA SILVA",
+      "count": 13,
+      "file": "suprimentos-corporativos--fornecedor-1149.json"
+    },
+    {
+      "code": "5863",
+      "name": "MANZANO COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5863.json"
+    },
+    {
+      "code": "580",
+      "name": "MARCELO CESARIO SOARES",
+      "count": 24,
+      "file": "suprimentos-corporativos--fornecedor-580.json"
+    },
+    {
+      "code": "5098",
+      "name": "MARFIMETAL COMERCIO DE PRODUTOS PLASTICOS E METALICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5098.json"
+    },
+    {
+      "code": "812",
+      "name": "MARIA DAMIANA PEREIRA DE OLIVEIRA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-812.json"
+    },
+    {
+      "code": "2256",
+      "name": "MARIA SUERDA DE LIMA SILVA MEDEIROS & CIA LTDA",
+      "count": 8,
+      "file": "suprimentos-corporativos--fornecedor-2256.json"
+    },
+    {
+      "code": "1730",
+      "name": "MARKOTEC COMERCIO E CINE FOTO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1730.json"
+    },
+    {
+      "code": "2132",
+      "name": "MARLON MATIAS  SABATINE DA SILVA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2132.json"
+    },
+    {
+      "code": "4525",
+      "name": "MARQUIEL JERONIMO DE JESUS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4525.json"
+    },
+    {
+      "code": "959",
+      "name": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "count": 19,
+      "file": "suprimentos-corporativos--fornecedor-959.json"
+    },
+    {
+      "code": "5728",
+      "name": "MARX FAUX LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5728.json"
+    },
+    {
+      "code": "6044",
+      "name": "MASSAKAZU YAMAMOTO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6044.json"
+    },
+    {
+      "code": "6147",
+      "name": "MAZER DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6147.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 19,
+      "file": "suprimentos-corporativos--fornecedor-4.json"
+    },
+    {
+      "code": "1555",
+      "name": "MEDIX BRASIL PRODUTOS HOSPITALARES E ODONTOLOGICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1555.json"
+    },
+    {
+      "code": "3097",
+      "name": "MEG ATACADO & VAREJO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-3097.json"
+    },
+    {
+      "code": "5749",
+      "name": "MEGA PANDA COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5749.json"
+    },
+    {
+      "code": "5870",
+      "name": "MEGACABOS INDUSTRIA E COMERCIO DE FIOS E CABOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5870.json"
+    },
+    {
+      "code": "686",
+      "name": "MELO E MELO COMERCIO DE CHOCOLATES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-686.json"
+    },
+    {
+      "code": "1234",
+      "name": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1234.json"
+    },
+    {
+      "code": "5442",
+      "name": "MERCADO DA IMPRESSORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5442.json"
+    },
+    {
+      "code": "5975",
+      "name": "MERCADO VIRTUAR LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5975.json"
+    },
+    {
+      "code": "1801",
+      "name": "METAL CHEK DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1801.json"
+    },
+    {
+      "code": "5681",
+      "name": "METALPRECISION INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5681.json"
+    },
+    {
+      "code": "1382",
+      "name": "METALURGICA WEISS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1382.json"
+    },
+    {
+      "code": "2429",
+      "name": "MFL ACESSORIOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2429.json"
+    },
+    {
+      "code": "4019",
+      "name": "MFS COMERCIO VAREJISTA LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-4019.json"
+    },
+    {
+      "code": "165",
+      "name": "MICROFACIL INFORMATICA LTDA",
+      "count": 15,
+      "file": "suprimentos-corporativos--fornecedor-165.json"
+    },
+    {
+      "code": "913",
+      "name": "MICROLINE COMERCIO E SERVICOS LTDA.",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-913.json"
+    },
+    {
+      "code": "3969",
+      "name": "MIKA PERSIANAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3969.json"
+    },
+    {
+      "code": "4795",
+      "name": "MIRACOM - DISTRIBUIDORA DE UTILIDADES DOMESTICAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4795.json"
+    },
+    {
+      "code": "328",
+      "name": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "count": 114,
+      "file": "suprimentos-corporativos--fornecedor-328.json"
+    },
+    {
+      "code": "825",
+      "name": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-825.json"
+    },
+    {
+      "code": "4342",
+      "name": "MOBPLUS DO BRASIL COMERCIO DE ACESSORIOS E PRODUTOS ELETRONI",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4342.json"
+    },
+    {
+      "code": "4547",
+      "name": "MORALES & SILVA'S LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4547.json"
+    },
+    {
+      "code": "4472",
+      "name": "MOUSER ELECTRONICS, INC.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4472.json"
+    },
+    {
+      "code": "2145",
+      "name": "MRE COMERCIO DE FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2145.json"
+    },
+    {
+      "code": "2878",
+      "name": "MRE FERRAMENTAS COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2878.json"
+    },
+    {
+      "code": "1024",
+      "name": "MTX COM. DE EQ. DE INF. ON LINE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1024.json"
+    },
+    {
+      "code": "4841",
+      "name": "MTX IMPORTACAO E COMERCIO ON LINE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4841.json"
+    },
+    {
+      "code": "3995",
+      "name": "MUITAS KOIZAS VARIEDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3995.json"
+    },
+    {
+      "code": "5447",
+      "name": "MULTLAR PRESENTES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5447.json"
+    },
+    {
+      "code": "244",
+      "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-244.json"
+    },
+    {
+      "code": "2879",
+      "name": "N. W. DE CAMPOS SEVERINO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2879.json"
+    },
+    {
+      "code": "5731",
+      "name": "N7 SUPLEMENTOS ESPORTIVOS LTDA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-5731.json"
+    },
+    {
+      "code": "4690",
+      "name": "NA COMPRA COMERCIO DIGITAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4690.json"
+    },
+    {
+      "code": "5237",
+      "name": "NABI STORE ARTIGOS E UTILIDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5237.json"
+    },
+    {
+      "code": "1527",
+      "name": "NAPOLI COMERCIO VAREJISTA DE PRODUTOS DE LIMPEZA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1527.json"
+    },
+    {
+      "code": "1678",
+      "name": "NATAL LIMP DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-1678.json"
+    },
+    {
+      "code": "780",
+      "name": "NATAL SERVICE LTDA",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-780.json"
+    },
+    {
+      "code": "2082",
+      "name": "NATULIMP PRODUTOS DE HIGIENE E LIMPEZA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2082.json"
+    },
+    {
+      "code": "4025",
+      "name": "NEREU DE ASSIS PAIVA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4025.json"
+    },
+    {
+      "code": "5399",
+      "name": "NETMOBIL INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-5399.json"
+    },
+    {
+      "code": "4880",
+      "name": "NEW HORIZON COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4880.json"
+    },
+    {
+      "code": "2509",
+      "name": "NEW PRICE CONSULTORIA EMPRESARIAL",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2509.json"
+    },
+    {
+      "code": "1431",
+      "name": "NEW ROUTE INDUSTRIA & COMERCIO DE PECAS E BICICLETAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1431.json"
+    },
+    {
+      "code": "5856",
+      "name": "NEXBROS ECOMMERCE E IMPORTACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5856.json"
+    },
+    {
+      "code": "1237",
+      "name": "NEXT INDUSTRIA DE CABOS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1237.json"
+    },
+    {
+      "code": "1762",
+      "name": "NHS SISTEMAS ELETRÔNICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1762.json"
+    },
+    {
+      "code": "965",
+      "name": "NILKO TECNOLOGIA LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-965.json"
+    },
+    {
+      "code": "2685",
+      "name": "NIRATECH COMERCIO ELETRONICOS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2685.json"
+    },
+    {
+      "code": "1967",
+      "name": "NOOBSOM ACESSORIOS DE AUDIO E VIDEO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1967.json"
+    },
+    {
+      "code": "3726",
+      "name": "NORDESTE CAIXAS E EMBALAGENS DE PAPEL LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-3726.json"
+    },
+    {
+      "code": "5148",
+      "name": "NOVAES DINIZ COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5148.json"
+    },
+    {
+      "code": "1524",
+      "name": "NR2 FABRICACAO DE PRODUTOS DE PAPEL, COMERCIO E IMPORTACAO L",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1524.json"
+    },
+    {
+      "code": "1488",
+      "name": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1488.json"
+    },
+    {
+      "code": "3090",
+      "name": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3090.json"
+    },
+    {
+      "code": "88",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-88.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-122.json"
+    },
+    {
+      "code": "4449",
+      "name": "OCEANO TI DISTRIBUIDORA DE PRODUTOS PARA TELECOMUNICACOES LT",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4449.json"
+    },
+    {
+      "code": "2213",
+      "name": "OCEANO TI DISTRIBUIDORA DE PRODUTOS PARA TELECOMUNICACOES LT",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2213.json"
+    },
+    {
+      "code": "2545",
+      "name": "OCUBO PAPEIS DESCARTAVEIS E SOLUCOES",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2545.json"
+    },
+    {
+      "code": "1818",
+      "name": "ODC PREPARACAO DE ARTIGOS DE ACESSO E IDENTIFICACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1818.json"
+    },
+    {
+      "code": "5861",
+      "name": "ODERCO DISTRIBUIDORA DE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5861.json"
+    },
+    {
+      "code": "4786",
+      "name": "ODONTO & ESTETICA BRASIL COMERCIO DE EQUIPAMENTOS LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-4786.json"
+    },
+    {
+      "code": "450",
+      "name": "ORBI QUIMICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-450.json"
+    },
+    {
+      "code": "1911",
+      "name": "PARAIBANA SPORTES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1911.json"
+    },
+    {
+      "code": "5996",
+      "name": "PARELHAS GAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5996.json"
+    },
+    {
+      "code": "5977",
+      "name": "PARPULOV ELETROELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5977.json"
+    },
+    {
+      "code": "4581",
+      "name": "PATRICIA CORREIA DA SILVA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-4581.json"
+    },
+    {
+      "code": "3501",
+      "name": "PAULO C GALANTE & CIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3501.json"
+    },
+    {
+      "code": "1645",
+      "name": "PAULO CUSTODIO DO PRADO 52357350997",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1645.json"
+    },
+    {
+      "code": "179",
+      "name": "PHOSPODONT LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-179.json"
+    },
+    {
+      "code": "2438",
+      "name": "PIRES EMBALAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2438.json"
+    },
+    {
+      "code": "2900",
+      "name": "PLASTPAN COMERCIO DE EMBALAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2900.json"
+    },
+    {
+      "code": "5368",
+      "name": "PLESTIN PLASTICOS ESTAMPADOS INDUSTRIAIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5368.json"
+    },
+    {
+      "code": "4398",
+      "name": "POINT DAS BIKES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4398.json"
+    },
+    {
+      "code": "2137",
+      "name": "POLLO MOVEIS PARA ESCRITÓRIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2137.json"
+    },
+    {
+      "code": "678",
+      "name": "PORTAL INDUSTRIA E COMERCIO DE CONF. EIRELI",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-678.json"
+    },
+    {
+      "code": "5452",
+      "name": "PORTAL INDUSTRIA, SERVICO E COMERCIO DE CONFECCAO LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-5452.json"
+    },
+    {
+      "code": "2246",
+      "name": "PORTO BRASIL CONTAINER LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2246.json"
+    },
+    {
+      "code": "242",
+      "name": "POTIGUAR ATACADIST IMPORT E COM DE PLAST",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-242.json"
+    },
+    {
+      "code": "1650",
+      "name": "PRIMOS SHOP LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1650.json"
+    },
+    {
+      "code": "1047",
+      "name": "PRINCE UTILIDADES PARA COZINHA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1047.json"
+    },
+    {
+      "code": "824",
+      "name": "PRISCILA CARELI FLORENCIO D DA COSTA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-824.json"
+    },
+    {
+      "code": "1512",
+      "name": "PROHIGI INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE PESSOAL",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1512.json"
+    },
+    {
+      "code": "5423",
+      "name": "PROJETO CASA DA ESQUADRIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5423.json"
+    },
+    {
+      "code": "5232",
+      "name": "PROSALES COMERCIO E REPRESENTACAO LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5232.json"
+    },
+    {
+      "code": "2207",
+      "name": "PROSPERITY COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2207.json"
+    },
+    {
+      "code": "2122",
+      "name": "PROSURF INDUSTRIA E COMERCIO DE CONFECCOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2122.json"
+    },
+    {
+      "code": "2665",
+      "name": "PROVITEL TECNOLOGIA LTDA",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-2665.json"
+    },
+    {
+      "code": "1101",
+      "name": "QUEIROZ ATACADAO EIRELI",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-1101.json"
+    },
+    {
+      "code": "5812",
+      "name": "R G DE SOUZA FERRAGENS, FERRAMENTAS E ACESSORIOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5812.json"
+    },
+    {
+      "code": "2405",
+      "name": "R M FERNANDES DA SILVA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-2405.json"
+    },
+    {
+      "code": "4401",
+      "name": "R PAULO DO NASCIMENTO FILHO LTDA",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-4401.json"
+    },
+    {
+      "code": "2350",
+      "name": "R.A. CASA BELMONT LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2350.json"
+    },
+    {
+      "code": "3285",
+      "name": "RADIOCELL ELETRONICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3285.json"
+    },
+    {
+      "code": "2498",
+      "name": "RAFAEL H. U. DE SOUZA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2498.json"
+    },
+    {
+      "code": "1659",
+      "name": "RAFAEL MONTILHA MATHIAS 32742362843",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1659.json"
+    },
+    {
+      "code": "2010",
+      "name": "RAIP COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2010.json"
+    },
+    {
+      "code": "1738",
+      "name": "RAUL DORNELES DE SOUSA NETO - VIRTUA FX - LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1738.json"
+    },
+    {
+      "code": "5383",
+      "name": "RECH & ROSA METAIS SANITARIOS LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5383.json"
+    },
+    {
+      "code": "906",
+      "name": "RECICLES COMÉRCIO DE COLETORES E REPRESENTAÇÕES EIRELI",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-906.json"
+    },
+    {
+      "code": "1825",
+      "name": "RED SKULL E-COMMERCE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1825.json"
+    },
+    {
+      "code": "1906",
+      "name": "REDENTORA MIX UTILIDADES DOMESTICAS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1906.json"
+    },
+    {
+      "code": "1317",
+      "name": "REINALDO ALMEIDA DO COUTO 00056732406",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-1317.json"
+    },
+    {
+      "code": "1034",
+      "name": "REMACLO DA SILVA FERRAGENS EIRELI",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1034.json"
+    },
+    {
+      "code": "4759",
+      "name": "RENOMAR DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4759.json"
+    },
+    {
+      "code": "1204",
+      "name": "RICKSON DOMINGOS DO COUTO 70016788486",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-1204.json"
+    },
+    {
+      "code": "6138",
+      "name": "RICOH BRASIL LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-6138.json"
+    },
+    {
+      "code": "5537",
+      "name": "RIMO S.A -INDUSTRIA E COMERCIO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5537.json"
+    },
+    {
+      "code": "5346",
+      "name": "RIO DO NORTE DISTRIBUIDORA - LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5346.json"
+    },
+    {
+      "code": "2080",
+      "name": "RMV DE ABREU  COMERCIO VAREJISTA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2080.json"
+    },
+    {
+      "code": "1281",
+      "name": "ROBOCORE TECNOLOGIA LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1281.json"
+    },
+    {
+      "code": "5938",
+      "name": "ROBSON LEME COM LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5938.json"
+    },
+    {
+      "code": "225",
+      "name": "ROCA SANITARIOS BRASIL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-225.json"
+    },
+    {
+      "code": "2571",
+      "name": "ROCHA JACQUES COMERCIO E MANUTENCAO DE",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2571.json"
+    },
+    {
+      "code": "4090",
+      "name": "RODRIGO RUFINO DOS SANTOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4090.json"
+    },
+    {
+      "code": "3145",
+      "name": "RRISTER IMPORTS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3145.json"
+    },
+    {
+      "code": "5031",
+      "name": "RTT IMPORTS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5031.json"
+    },
+    {
+      "code": "1283",
+      "name": "RUMO SHOP COMERCIO DE PRODUTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1283.json"
+    },
+    {
+      "code": "857",
+      "name": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-857.json"
+    },
+    {
+      "code": "6227",
+      "name": "SANBOX COMERCIO DE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6227.json"
+    },
+    {
+      "code": "2009",
+      "name": "SANDRA BEVILAQUA 70188262920",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2009.json"
+    },
+    {
+      "code": "1877",
+      "name": "SANTIL COMERCIAL ELETRICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1877.json"
+    },
+    {
+      "code": "4949",
+      "name": "SB OFFICE COMERCIO VAREJISTA DE ARTIGOS DE PAPELARIA LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-4949.json"
+    },
+    {
+      "code": "2134",
+      "name": "SBS LIVRARIA INTERNACIONAL LTDA",
+      "count": 43,
+      "file": "suprimentos-corporativos--fornecedor-2134.json"
+    },
+    {
+      "code": "5885",
+      "name": "SCANSOURCE BRASIL DISTRIB DE TECNOLOGIAS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-5885.json"
+    },
+    {
+      "code": "3971",
+      "name": "SERBIN INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-3971.json"
+    },
+    {
+      "code": "5494",
+      "name": "SERGIO LUIS VIEIRA AGOSTINHO",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-5494.json"
+    },
+    {
+      "code": "5414",
+      "name": "SHS DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5414.json"
+    },
+    {
+      "code": "2441",
+      "name": "SILBOSS IND COM PROD HIG PESSOAL LTDA",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-2441.json"
+    },
+    {
+      "code": "651",
+      "name": "SMALCL CONNECT COMERCIO E SER. DE MAQ. E EQUIP LTDA ME",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-651.json"
+    },
+    {
+      "code": "6093",
+      "name": "SMART COMPONENTES ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6093.json"
+    },
+    {
+      "code": "2924",
+      "name": "SOEPOXI COMERCIO E SERVICO DE PINTURA ELETROSTATICA LTDA",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-2924.json"
+    },
+    {
+      "code": "6068",
+      "name": "SOLARIS ELETRO E ELETRONICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6068.json"
+    },
+    {
+      "code": "4193",
+      "name": "SOSEL - SOLUCOES EM SERVICOS E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4193.json"
+    },
+    {
+      "code": "4117",
+      "name": "SPORT CENTER LOPES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4117.json"
+    },
+    {
+      "code": "5529",
+      "name": "SSD PRESENTES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5529.json"
+    },
+    {
+      "code": "4116",
+      "name": "STARVOX AUDIO E VIDEO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4116.json"
+    },
+    {
+      "code": "4947",
+      "name": "STON COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4947.json"
+    },
+    {
+      "code": "4783",
+      "name": "STOOZ INTERIORES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4783.json"
+    },
+    {
+      "code": "2251",
+      "name": "STUDIO MICKEY PRESENTES FINOS LTDA.",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2251.json"
+    },
+    {
+      "code": "5748",
+      "name": "SULCLOCK COMERCIAL LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-5748.json"
+    },
+    {
+      "code": "2607",
+      "name": "SUNNY BAY COMERCIO  DE EQUIPAMENTOS E",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2607.json"
+    },
+    {
+      "code": "1433",
+      "name": "SUPER MATRIZ ACOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1433.json"
+    },
+    {
+      "code": "1724",
+      "name": "SUPERGRAFICA INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1724.json"
+    },
+    {
+      "code": "1455",
+      "name": "SUPERMERCADO MEDEIROS LTDA",
+      "count": 7,
+      "file": "suprimentos-corporativos--fornecedor-1455.json"
+    },
+    {
+      "code": "477",
+      "name": "SUPERMERCADO NORDESTAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-477.json"
+    },
+    {
+      "code": "4290",
+      "name": "SUPORTE FORTE COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4290.json"
+    },
+    {
+      "code": "1917",
+      "name": "T. S. DE BARROS ARTIGOS DE ARMARINHO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1917.json"
+    },
+    {
+      "code": "6030",
+      "name": "TASS COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6030.json"
+    },
+    {
+      "code": "1286",
+      "name": "TEC PRINT SUPRIMENTOS E ASSISTENCIA TECNICA EIRELI",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-1286.json"
+    },
+    {
+      "code": "3449",
+      "name": "TEC WI COMERCIO E IMPORTACAO DE EQUIPAMENTOS WIRELESS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3449.json"
+    },
+    {
+      "code": "716",
+      "name": "TECNOPAPEL PRESENTES E CANETA LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-716.json"
+    },
+    {
+      "code": "5878",
+      "name": "TECNOPRINT INFO COMERCIO DE SUPRIMENTOS DE INFORMATICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5878.json"
+    },
+    {
+      "code": "1945",
+      "name": "TEK ATACADO DISTRIBUIDOR DE SEGURANCA ELETRONICA LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1945.json"
+    },
+    {
+      "code": "5424",
+      "name": "TEK ATACADO DISTRIBUIDOR DE SEGURANCA ELETRONICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5424.json"
+    },
+    {
+      "code": "4723",
+      "name": "TEKNI MAS MAQUINAS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-4723.json"
+    },
+    {
+      "code": "6211",
+      "name": "TELCABOS TELECOMUNICACOES E INFORMATICA LTDA",
+      "count": 3,
+      "file": "suprimentos-corporativos--fornecedor-6211.json"
+    },
+    {
+      "code": "2352",
+      "name": "TELLNET TELECOMUNICACOES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2352.json"
+    },
+    {
+      "code": "2025",
+      "name": "TEMPERARE EQUIPAMENTOS PARA COZINHAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2025.json"
+    },
+    {
+      "code": "2426",
+      "name": "TESTEPETRO COM DE EQUIPAMENTOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2426.json"
+    },
+    {
+      "code": "1373",
+      "name": "TK COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1373.json"
+    },
+    {
+      "code": "2019",
+      "name": "TLD DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2019.json"
+    },
+    {
+      "code": "5006",
+      "name": "TM & J SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5006.json"
+    },
+    {
+      "code": "3594",
+      "name": "TNT COMERCIO DE VARIEDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3594.json"
+    },
+    {
+      "code": "3443",
+      "name": "TNTINFO COMERCIO DE MATERIAIS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3443.json"
+    },
+    {
+      "code": "1937",
+      "name": "TOALHEIRO SANTA BARBARA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1937.json"
+    },
+    {
+      "code": "808",
+      "name": "TOMAZ SILVAIRA & CIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-808.json"
+    },
+    {
+      "code": "131",
+      "name": "TOP CLEAN NORDESTE LTDA ME",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-131.json"
+    },
+    {
+      "code": "1779",
+      "name": "TORR DISTRIBUICAO DE SOLUCOES TECNOLOGICAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1779.json"
+    },
+    {
+      "code": "509",
+      "name": "TRAMONTINA NORDESTE S/A",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-509.json"
+    },
+    {
+      "code": "533",
+      "name": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-533.json"
+    },
+    {
+      "code": "2192",
+      "name": "TRES MARIAS ALIMENTOS DO VALLE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2192.json"
+    },
+    {
+      "code": "6247",
+      "name": "TS SHARA TECNOLOGIA DE SISTEMAS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-6247.json"
+    },
+    {
+      "code": "5039",
+      "name": "TUDAO TECH LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5039.json"
+    },
+    {
+      "code": "2819",
+      "name": "TUDO. COMERCIO E VARIEDADES BABY LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2819.json"
+    },
+    {
+      "code": "6283",
+      "name": "TURUM COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6283.json"
+    },
+    {
+      "code": "5997",
+      "name": "TUTTO LIMPO COMERCIO DE EMBALAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5997.json"
+    },
+    {
+      "code": "3315",
+      "name": "ULTRALIGHT FOODS COMERCIO DE ARMADILHAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3315.json"
+    },
+    {
+      "code": "662",
+      "name": "UNIMETAIS COMERCIO LTDA",
+      "count": 4,
+      "file": "suprimentos-corporativos--fornecedor-662.json"
+    },
+    {
+      "code": "5829",
+      "name": "URBANOZ COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5829.json"
+    },
+    {
+      "code": "5152",
+      "name": "UTILTOP E-COMMERCE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5152.json"
+    },
+    {
+      "code": "1258",
+      "name": "V DE CASTRO",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-1258.json"
+    },
+    {
+      "code": "2904",
+      "name": "V N FERNANDES SOLUCOES DE ECOMMERCE LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-2904.json"
+    },
+    {
+      "code": "1301",
+      "name": "V4LE TECNOLOGIA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1301.json"
+    },
+    {
+      "code": "2185",
+      "name": "VALDECI ALVES RIBEIRO",
+      "count": 6,
+      "file": "suprimentos-corporativos--fornecedor-2185.json"
+    },
+    {
+      "code": "1905",
+      "name": "VALDIR DE OLIVEIRA REDONDO",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1905.json"
+    },
+    {
+      "code": "1949",
+      "name": "VALVOLANDIA COMERCIO DE PILHAS E BATERIAS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1949.json"
+    },
+    {
+      "code": "741",
+      "name": "VANESSA E. B. MELO SANTIAGO",
+      "count": 5,
+      "file": "suprimentos-corporativos--fornecedor-741.json"
+    },
+    {
+      "code": "6139",
+      "name": "VANNECT COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6139.json"
+    },
+    {
+      "code": "4027",
+      "name": "VC COMERCIO ATACADISTA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4027.json"
+    },
+    {
+      "code": "4332",
+      "name": "VENDASSHOP COMERCIO VIRTUAL LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-4332.json"
+    },
+    {
+      "code": "6062",
+      "name": "VIKINGS DIGITAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6062.json"
+    },
+    {
+      "code": "2627",
+      "name": "VILA BRASIL MARKETPLACE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2627.json"
+    },
+    {
+      "code": "4126",
+      "name": "VINICIUS GARCIA SILVA COMERCIO DESCARTAVEIS",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4126.json"
+    },
+    {
+      "code": "3268",
+      "name": "VSO COMERCIO DE EQUIPAMENTOS ELTRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-3268.json"
+    },
+    {
+      "code": "2513",
+      "name": "VUC SOLUCOES E SERVICOS DE APOIO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2513.json"
+    },
+    {
+      "code": "1459",
+      "name": "W C DE MELO COMERCIO VAREJISTA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1459.json"
+    },
+    {
+      "code": "6145",
+      "name": "WAF COMERCIO E SERVICOS DE SEGURANCA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6145.json"
+    },
+    {
+      "code": "4185",
+      "name": "WEBCONTINENTAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-4185.json"
+    },
+    {
+      "code": "1448",
+      "name": "WEBCONTINENTAL LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1448.json"
+    },
+    {
+      "code": "1886",
+      "name": "WHATS GRAFICA E BRINDES LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1886.json"
+    },
+    {
+      "code": "5084",
+      "name": "WINNETMETAIS COMERCIO DE METAIS E FERRAGENS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5084.json"
+    },
+    {
+      "code": "6245",
+      "name": "WISE SHOPPING COMERCIO DE PRODUTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6245.json"
+    },
+    {
+      "code": "1758",
+      "name": "WPE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1758.json"
+    },
+    {
+      "code": "5434",
+      "name": "WS COMERCIO E IMPORTACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5434.json"
+    },
+    {
+      "code": "5929",
+      "name": "X VICTORY FASHION LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5929.json"
+    },
+    {
+      "code": "2480",
+      "name": "X5 - INSTRUMENTOS MUSICAIS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-2480.json"
+    },
+    {
+      "code": "6000",
+      "name": "XCOLD'S COMERCIO E DISTRIBUICAO LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6000.json"
+    },
+    {
+      "code": "3333",
+      "name": "XD IMPORTS LTDA",
+      "count": 2,
+      "file": "suprimentos-corporativos--fornecedor-3333.json"
+    },
+    {
+      "code": "5881",
+      "name": "ZAKAH STORE LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-5881.json"
+    },
+    {
+      "code": "1861",
+      "name": "ZD DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-1861.json"
+    },
+    {
+      "code": "6178",
+      "name": "ZERAK LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6178.json"
+    },
+    {
+      "code": "6061",
+      "name": "ZHENGO ECOMMERCE IMPORTADOS LTDA",
+      "count": 1,
+      "file": "suprimentos-corporativos--fornecedor-6061.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "11758",
+      "title": "1 ROLO ETIQUETAS NIIMBOT 50X30 B1/B21 B3",
+      "brand": "NIIMBOT",
+      "brandCode": "765",
+      "supplier": "BILESTORE LTDA",
+      "supplierCode": "5263",
+      "manufacturerCode": "31",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/1-rolo-etiquetas-niimbot-50x30-b1b21-b3-11758",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10805",
+      "title": "100 FOLHAS A4 ADESIVA OFFSET FOSCA BRANC",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "STARVOX AUDIO E VIDEO LTDA",
+      "supplierCode": "4116",
+      "manufacturerCode": "5046",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/100-folhas-a4-adesiva-offset-fosca-branc-10805",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12343",
+      "title": "10XFITA P/ROTULADOR BROTHER TZE-231 12MM",
+      "brand": "MASTERPRINT",
+      "brandCode": "1064",
+      "supplier": "TEC PRINT SUPRIMENTOS E ASSISTENCIA TECNICA EIRELI",
+      "supplierCode": "1286",
+      "manufacturerCode": "MLB1697983585",
+      "category": "INSUMOS",
+      "categorySlug": "insumos",
+      "path": "/10xfita-protulador-brother-tze231-12mm-12343",
+      "image": "/products/images/0123/12343.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8544",
+      "title": "1984 - CIA DAS LETRAS 9788535914849",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SBS LIVRARIA INTERNACIONAL LTDA",
+      "supplierCode": "2134",
+      "manufacturerCode": "135663",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/1984--cia-das-letras-9788535914849-8544",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12518",
+      "title": "5.000 SACO PLASTICO P/GELADINHO 4X23",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEGA PANDA COMERCIAL LTDA",
+      "supplierCode": "5749",
+      "manufacturerCode": "4X23/5000",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/5000-saco-plastico-pgeladinho-4x23-12518",
+      "image": "/products/images/0125/12518.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12231",
+      "title": "5XFITA COMPATIV P/ROT TZE-221PT-H110 9M",
+      "brand": "BROTHER",
+      "brandCode": "123",
+      "supplier": "TEC PRINT SUPRIMENTOS E ASSISTENCIA TECNICA EIRELI",
+      "supplierCode": "1286",
+      "manufacturerCode": "MLB3170204313 _176463972",
+      "category": "INSUMOS",
+      "categorySlug": "insumos",
+      "path": "/5xfita-compativ-prot-tze221pth110-9m-12231",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12500",
+      "title": "600 PANOS MULT AZ 240M PERFEX REUTILIZA5",
+      "brand": "INOVEN",
+      "brandCode": "848",
+      "supplier": "MAGO DISTRIBUIDORA LTDA",
+      "supplierCode": "5743",
+      "manufacturerCode": "MLB6214529528",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/600-panos-mult-az-240m-perfex-reutiliza5-12500",
+      "image": "/products/images/0125/12500.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12515",
+      "title": "6289 - RELOGIO PARED DIGITAL 034 - PRETO",
+      "brand": "HERWEG",
+      "brandCode": "1088",
+      "supplier": "SULCLOCK COMERCIAL LTDA",
+      "supplierCode": "5748",
+      "manufacturerCode": "6289",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/6289--relogio-pared-digital-034--preto-12515",
+      "image": "/products/images/0125/12515.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12516",
+      "title": "6492 - RELOGIO DE PAREDE, 034 - PRETO",
+      "brand": "HERWEG",
+      "brandCode": "1088",
+      "supplier": "SULCLOCK COMERCIAL LTDA",
+      "supplierCode": "5748",
+      "manufacturerCode": "6492",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/6492--relogio-de-parede-034--preto-12516",
+      "image": "/products/images/0125/12516.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12327",
+      "title": "8ARS7109-ELEMENTO FILTRANTE DO AR TECFIL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "LUBNORD COMERCIO DE LUBRIFICANTES DO NORDESTE LTDA",
+      "supplierCode": "5344",
+      "manufacturerCode": "88",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/8ars7109elemento-filtrante-do-ar-tecfil-12327",
+      "image": "/products/images/0123/12327.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8545",
+      "title": "A ARCA DE NOE 9788574062198",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SBS LIVRARIA INTERNACIONAL LTDA",
+      "supplierCode": "2134",
+      "manufacturerCode": "47026",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/a-arca-de-noe-9788574062198-8545",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8547",
+      "title": "A BIBLIOTECA DA MEIA NOITE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SBS LIVRARIA INTERNACIONAL LTDA",
+      "supplierCode": "2134",
+      "manufacturerCode": "432556",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/a-biblioteca-da-meia-noite-8547",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8611",
+      "title": "ABACO ABERTO 50 ARGOLAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MICROFACIL INFORMATICA LTDA",
+      "supplierCode": "165",
+      "manufacturerCode": "90233",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/abaco-aberto-50-argolas-8611",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11986",
+      "title": "ACHOCOLATADO CHOCOFANS CAIXA 1,3KG",
+      "brand": "NESTLE",
+      "brandCode": "1013",
+      "supplier": "SHS DISTRIBUIDORA LTDA",
+      "supplierCode": "5414",
+      "manufacturerCode": "120",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/achocolatado-chocofans-caixa-13kg-11986",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12081",
+      "title": "ACIONADOR P/ALARME INCENDIO AS 2010",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "26798",
+      "category": "CONTROLE DE ACESSO",
+      "categorySlug": "controle-de-acesso",
+      "path": "/acionador-palarme-incendio-as-2010-12081",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8908",
+      "title": "ACUCAR ALEGRE 1KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARIA SUERDA DE LIMA SILVA MEDEIROS & CIA LTDA",
+      "supplierCode": "2256",
+      "manufacturerCode": "24816",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-alegre-1kg-8908",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13192",
+      "title": "ACUCAR ALEGRE 1KG TRITURADO",
+      "brand": "ALEGRE",
+      "brandCode": "1197",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "198381",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-alegre-1kg-triturado-13192",
+      "image": "/products/images/0131/13192.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8769",
+      "title": "ACUCAR CRISTAL 1KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VALDECI ALVES RIBEIRO",
+      "supplierCode": "2185",
+      "manufacturerCode": "2205",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-cristal-1kg-8769",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9669",
+      "title": "ACUCAR CRISTAL FAVO DE MEL 1KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "J & B MERCANTIL LTDA",
+      "supplierCode": "2156",
+      "manufacturerCode": "07898919550012",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-cristal-favo-de-mel-1kg-9669",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9380",
+      "title": "ACUCAR DUMEL 1KG",
+      "brand": "DUMEL",
+      "brandCode": "677",
+      "supplier": "SUPERMERCADO MEDEIROS LTDA",
+      "supplierCode": "1455",
+      "manufacturerCode": "10165",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-dumel-1kg-9380",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9488",
+      "title": "ACUCAR IMPERIAL 1KG CRISTAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "IVAM COSTA",
+      "supplierCode": "2363",
+      "manufacturerCode": "12306",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-imperial-1kg-cristal-9488",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7519",
+      "title": "ACUCAR NECTAR 1KG",
+      "brand": "NECTAR",
+      "brandCode": "493",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10812",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-nectar-1kg-7519",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10816",
+      "title": "ACUCAR NECTAR TRITURADO 1KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "04541",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/acucar-nectar-triturado-1kg-10816",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8859",
+      "title": "ACUCAREIRO LYON 200ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7899768070850",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/acucareiro-lyon-200ml-8859",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12029",
+      "title": "ADAP USB P/RS485 CONVERSOR CABO COMP C/R",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MICROFACIL INFORMATICA LTDA",
+      "supplierCode": "165",
+      "manufacturerCode": "10625",
+      "category": "ADAPTADORES",
+      "categorySlug": "adaptadores",
+      "path": "/adap-usb-prs485-conversor-cabo-comp-cr-12029",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12672",
+      "title": "ADAPTADOR CONVERSOR USB 3.0 HDMI 4K",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "F F ASSARITO E-COMMERCE LTDA",
+      "supplierCode": "5859",
+      "manufacturerCode": "ADAPTADOR CONVERSOR TIPO",
+      "category": "ADAPTADORES",
+      "categorySlug": "adaptadores",
+      "path": "/adaptador-conversor-usb-30-hdmi-4k-12672",
+      "image": "/products/images/0126/12672.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "9320",
+      "title": "ADAPTADOR DISPLAYPORT M X HDMI M 4K 1.8M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "47276",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/adaptador-displayport-m-x-hdmi-m-4k-18m-9320",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12915",
+      "title": "ADAPTADOR EPSON WIRELESS LAN ELPAP11",
+      "brand": "EPSON",
+      "brandCode": "544",
+      "supplier": "CM COMERCIO E SERVICOS LTDA",
+      "supplierCode": "6001",
+      "manufacturerCode": "V12H005A02",
+      "category": "ADAPTADORES",
+      "categorySlug": "adaptadores",
+      "path": "/adaptador-epson-wireless-lan-elpap11-12915",
+      "image": "/products/images/0129/12915.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12210",
+      "title": "ADESIVO COLA SPRAY 77 ISOPOR 330G 3M",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "ELETRICA TAKEI COMERCIO LTDA",
+      "supplierCode": "5585",
+      "manufacturerCode": "583916",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/adesivo-cola-spray-77-isopor-330g-3m-12210",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "5970",
+      "title": "ADESIVO COM RECORTE",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "RICKSON DOMINGOS DO COUTO 70016788486",
+      "supplierCode": "1204",
+      "manufacturerCode": "0092",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/adesivo-com-recorte-5970",
+      "image": "/products/images/0059/5970.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9490",
+      "title": "ADESIVO DE MESA COM RECORTE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "AD30072024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/adesivo-de-mesa-com-recorte-9490",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10381",
+      "title": "ADESIVO DE PISO 70X70",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "ADP26032025",
+      "category": "DECORAÇÃO E INFRAESTRUTURA",
+      "categorySlug": "decoracao-e-infraestrutura",
+      "path": "/adesivo-de-piso-70x70-10381",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8982",
+      "title": "ADESIVO IMP DIGIT RECORT ESPEC 2CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "AD08012023",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/adesivo-imp-digit-recort-espec-2cm-8982",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8983",
+      "title": "ADESIVO IMP DIGIT RECORT ESPEC 4CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "AD08012024",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/adesivo-imp-digit-recort-espec-4cm-8983",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9492",
+      "title": "ADESIVO INSTAGRAMAVEL JUNINO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "AD31072024",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/adesivo-instagramavel-junino-9492",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12741",
+      "title": "ADOC LIQ SADIO 100ML SACARINA CICLAMATO",
+      "brand": "SADIO",
+      "brandCode": "1069",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "18706",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adoc-liq-sadio-100ml-sacarina-ciclamato-12741",
+      "image": "/products/images/0127/12741.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9421",
+      "title": "ADOCANTE ADOCYL STEVIA 80ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARIA SUERDA DE LIMA SILVA MEDEIROS & CIA LTDA",
+      "supplierCode": "2256",
+      "manufacturerCode": "28454",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adocante-adocyl-stevia-80ml-9421",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9413",
+      "title": "ADOCANTE LINEA 75ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10928",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adocante-linea-75ml-9413",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9510",
+      "title": "ADOCANTE LINEA STEVIA 60ML LIQUIDO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14721",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adocante-linea-stevia-60ml-liquido-9510",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7520",
+      "title": "ADOCANTE PET 200ML",
+      "brand": "ASSUGRIN",
+      "brandCode": "494",
+      "supplier": "MARIA SUERDA DE LIMA SILVA MEDEIROS & CIA LTDA",
+      "supplierCode": "2256",
+      "manufacturerCode": "01851",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adocante-pet-200ml-7520",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9530",
+      "title": "ADOCANTE ZERO CAL 100ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARIA SUERDA DE LIMA SILVA MEDEIROS & CIA LTDA",
+      "supplierCode": "2256",
+      "manufacturerCode": "1851",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/adocante-zero-cal-100ml-9530",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "5572",
+      "title": "AGENDA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "supplierCode": "935",
+      "manufacturerCode": "0030",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/agenda-5572",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8765",
+      "title": "AGENDA PERM ESP NAPOLI M5",
+      "brand": "TILIBRA",
+      "brandCode": "617",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891027141639",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/agenda-perm-esp-napoli-m5-8765",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9431",
+      "title": "AGUA CRISTAL GOLD 20LT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "BRITO GAS BUTANO",
+      "supplierCode": "2470",
+      "manufacturerCode": "17",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-cristal-gold-20lt-9431",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13272",
+      "title": "AGUA DESMIN 20L FERTIBOM RADIADOR",
+      "brand": "FERTIBOM",
+      "brandCode": "1216",
+      "supplier": "MAMEDE MULTI CENTER DESIGN LTDA",
+      "supplierCode": "6201",
+      "manufacturerCode": "AGUADESMINE-20L",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/agua-desmin-20l-fertibom-radiador-13272",
+      "image": "/products/images/0132/13272.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "6102",
+      "title": "AGUA DESTILADA 1LT",
+      "brand": "MARINA",
+      "brandCode": "342",
+      "supplier": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA",
+      "supplierCode": "1349",
+      "manufacturerCode": "92",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/agua-destilada-1lt-6102",
+      "image": "/products/images/0061/6102.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7459",
+      "title": "AGUA DESTILADA 5L",
+      "brand": "FORTSAN",
+      "brandCode": "473",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "98778",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/agua-destilada-5l-7459",
+      "image": "/products/images/0074/7459.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8356",
+      "title": "AGUA M GF 20L STER BOM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "44",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-m-gf-20l-ster-bom-8356",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10975",
+      "title": "AGUA M. GF 20L POTIGUAR",
+      "brand": "POTIGUAR",
+      "brandCode": "550",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "71",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-m-gf-20l-potiguar-10975",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8828",
+      "title": "AGUA M. GF 20LT POTIGUAR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "0071",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-m-gf-20lt-potiguar-8828",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 34,
+    "total": 1691,
+    "pageBase": "suprimentos-corporativos"
+  }
+}

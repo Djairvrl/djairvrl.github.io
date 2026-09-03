@@ -1,0 +1,53 @@
+{
+  "title": "ROTOMASTER",
+  "parentLabel": "Marca",
+  "description": "Produtos ROTOMASTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROTOMASTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12533",
+      "title": "BOT AMETISTA PRETA CA 42307 TAM 37",
+      "brand": "ROTOMASTER",
+      "brandCode": "459",
+      "supplier": "BSB PRODUTORA DE EQUIPAMENTOS DE PROT INDIVIDUAL SA",
+      "supplierCode": "594",
+      "manufacturerCode": "944655",
+      "category": "MICROFIBRA",
+      "categorySlug": "microfibra",
+      "path": "/bot-ametista-preta-ca-42307-tam-37-12533",
+      "image": "/products/images/0125/12533.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    },
+    {
+      "code": "7428",
+      "title": "MAQUINA DESENTUPIDORA 12 M PROF MAN MB",
+      "brand": "ROTOMASTER",
+      "brandCode": "459",
+      "supplier": "L C PACANHAN",
+      "supplierCode": "1633",
+      "manufacturerCode": "MLB1120372225",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/maquina-desentupidora-12-m-prof-man-mb-7428",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--459--rotomaster"
+  }
+}

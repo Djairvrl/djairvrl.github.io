@@ -1,0 +1,36 @@
+{
+  "title": "HYTERA",
+  "parentLabel": "Marca",
+  "description": "Produtos HYTERA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HYTERA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8420",
+      "title": "RADIO COMUNICADOR PORTATIL DIGITAL",
+      "brand": "HYTERA",
+      "brandCode": "592",
+      "supplier": "INTELISENSE RADIOCOMUNICACAO LTDA",
+      "supplierCode": "2098",
+      "manufacturerCode": "BD506",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/radio-comunicador-portatil-digital-8420",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--592--hytera"
+  }
+}

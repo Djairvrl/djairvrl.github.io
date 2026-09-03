@@ -1,0 +1,36 @@
+{
+  "title": "BW",
+  "parentLabel": "Marca",
+  "description": "Produtos BW disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BW"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6666",
+      "title": "REGULADOR FLUXO DEMANDA P/ GAS MAX XT II",
+      "brand": "BW",
+      "brandCode": "316",
+      "supplier": "BUNZL EQUIPAMENTOS P PROTECAO INDIVIDUAL",
+      "supplierCode": "28",
+      "manufacturerCode": "REGDF1",
+      "category": "REGULADOR",
+      "categorySlug": "regulador",
+      "path": "/regulador-fluxo-demanda-p-gas-max-xt-ii-6666",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--316--bw"
+  }
+}

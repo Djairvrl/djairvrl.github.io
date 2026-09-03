@@ -1,0 +1,36 @@
+{
+  "title": "MENCO",
+  "parentLabel": "Marca",
+  "description": "Produtos MENCO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MENCO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9687",
+      "title": "PERFIL ESPONJOSO 15.0 X 10.0MM",
+      "brand": "MENCO",
+      "brandCode": "711",
+      "supplier": "CASA SIMOES - BORRACHAS E FERRAMENTAS LTDA",
+      "supplierCode": "2666",
+      "manufacturerCode": "0760747",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/perfil-esponjoso-150-x-100mm-9687",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--711--menco"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "EXAUSTYAIR",
+  "parentLabel": "Marca",
+  "description": "Produtos EXAUSTYAIR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EXAUSTYAIR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13348",
+      "title": "EXAUSTOR AXIAL APF 30 0,33 CV 220V IP 55",
+      "brand": "EXAUSTYAIR",
+      "brandCode": "1228",
+      "supplier": "EXAUSTYAIR COMERCIAL LTDA",
+      "supplierCode": "6248",
+      "manufacturerCode": "APF30",
+      "category": "EXAUSTOR E INSUFLADOR",
+      "categorySlug": "exaustor-e-insuflador",
+      "path": "/exaustor-axial-apf-30-033-cv-220v-ip-55-13348",
+      "image": "/products/images/0133/13348.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1228--exaustyair"
+  }
+}

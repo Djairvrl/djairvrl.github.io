@@ -1,0 +1,44 @@
+{
+  "title": "FILTROS E ELEMENTOS FILTRANTES",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria filtros e elementos filtrantes em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "FILTROS E ELEMENTOS FILTRANTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11765",
+      "title": "FILTRO P/COMBUST 1 C/CUPULA POLICARBONAT",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "8189",
+      "category": "FILTROS E ELEMENTOS FILTRANTES",
+      "categorySlug": "filtros-e-elementos-filtrantes",
+      "path": "/filtro-pcombust-1-ccupula-policarbonat-11765",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--filtros-e-elementos-filtrantes"
+  }
+}

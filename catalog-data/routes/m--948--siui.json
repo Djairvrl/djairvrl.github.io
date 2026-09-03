@@ -1,0 +1,36 @@
+{
+  "title": "SIUI",
+  "parentLabel": "Marca",
+  "description": "Produtos SIUI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SIUI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11506",
+      "title": "MEDIDOR DE ESPESSURA CTS 59",
+      "brand": "SIUI",
+      "brandCode": "948",
+      "supplier": "INTER-METRO - SERVICOS ESPECIAIS LTDA",
+      "supplierCode": "5016",
+      "manufacturerCode": "CTS-59",
+      "category": "MEDIDORES DE ESPESSURA",
+      "categorySlug": "medidores-de-espessura",
+      "path": "/medidor-de-espessura-cts-59-11506",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--948--siui"
+  }
+}

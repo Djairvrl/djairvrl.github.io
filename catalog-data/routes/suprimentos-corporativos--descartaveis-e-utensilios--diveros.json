@@ -1,0 +1,61 @@
+{
+  "title": "DIVEROS",
+  "parentLabel": "Descartaveis E Utensilios",
+  "description": "Produtos da categoria diveros em descartaveis e utensilios.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Descartaveis E Utensilios",
+      "to": "/suprimentos-corporativos/descartaveis-e-utensilios"
+    },
+    {
+      "label": "DIVEROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10585",
+      "title": "JARRA BAR 1.550ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HOME DECOR LTDA",
+      "supplierCode": "752",
+      "manufacturerCode": "08378",
+      "category": "DIVEROS",
+      "categorySlug": "diveros",
+      "path": "/jarra-bar-1550ml-10585",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Descartaveis E Utensilios",
+      "sectionSlug": "descartaveis-e-utensilios"
+    },
+    {
+      "code": "10593",
+      "title": "XICARA CAFE C/P COUP",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891658755540",
+      "category": "DIVEROS",
+      "categorySlug": "diveros",
+      "path": "/xicara-cafe-cp-coup-10593",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Descartaveis E Utensilios",
+      "sectionSlug": "descartaveis-e-utensilios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "suprimentos-corporativos--descartaveis-e-utensilios--diveros"
+  }
+}

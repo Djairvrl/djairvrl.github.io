@@ -1,0 +1,36 @@
+{
+  "title": "NATRIELLI",
+  "parentLabel": "Marca",
+  "description": "Produtos NATRIELLI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NATRIELLI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7454",
+      "title": "ADESIVO PLASTICO CINZA 400G",
+      "brand": "NATRIELLI",
+      "brandCode": "471",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "89631024",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/adesivo-plastico-cinza-400g-7454",
+      "image": "/products/images/0074/7454.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--471--natrielli"
+  }
+}

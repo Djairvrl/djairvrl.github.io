@@ -1,0 +1,55 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos de L C PACANHAN neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1633",
+    "name": "L C PACANHAN"
+  },
+  "products": [
+    {
+      "code": "7428",
+      "title": "MAQUINA DESENTUPIDORA 12 M PROF MAN MB",
+      "brand": "ROTOMASTER",
+      "brandCode": "459",
+      "supplier": "L C PACANHAN",
+      "supplierCode": "1633",
+      "manufacturerCode": "MLB1120372225",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/maquina-desentupidora-12-m-prof-man-mb-7428",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "uso-especifico--fornecedor-1633"
+  }
+}

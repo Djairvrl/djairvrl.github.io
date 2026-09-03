@@ -1,0 +1,22 @@
+{
+  "title": "Garras, Caixas e Estações",
+  "parentLabel": "Bloqueio e Etiquetagem",
+  "description": "Soluções de garras, caixas e estações disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Garras, Caixas e Estações"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "bloqueio-e-etiquetagem--garras-caixas-e-estacoes"
+  }
+}

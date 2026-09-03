@@ -1,0 +1,36 @@
+{
+  "title": "ANJGG",
+  "parentLabel": "Marca",
+  "description": "Produtos ANJGG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ANJGG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12797",
+      "title": "MONITOR EXTENSOR PORTAT 15.6 POL FULLHD",
+      "brand": "ANJGG",
+      "brandCode": "1135",
+      "supplier": "ROBSON LEME COM LTDA",
+      "supplierCode": "5938",
+      "manufacturerCode": "AJ-C59-H",
+      "category": "MONITORES",
+      "categorySlug": "monitores",
+      "path": "/monitor-extensor-portat-156-pol-fullhd-12797",
+      "image": "/products/images/0127/12797.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1135--anjgg"
+  }
+}

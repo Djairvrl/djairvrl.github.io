@@ -1,0 +1,36 @@
+{
+  "title": "BURNDY",
+  "parentLabel": "Marca",
+  "description": "Produtos BURNDY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BURNDY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10205",
+      "title": "PASTA P/CABO COBRE-COBRE 300G PENETROX",
+      "brand": "BURNDY",
+      "brandCode": "762",
+      "supplier": "PLENOBRAS DISTRIBUIDORA ELETRICA E HIDRAULICA LTDA",
+      "supplierCode": "3293",
+      "manufacturerCode": "64296",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/pasta-pcabo-cobrecobre-300g-penetrox-10205",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--762--burndy"
+  }
+}

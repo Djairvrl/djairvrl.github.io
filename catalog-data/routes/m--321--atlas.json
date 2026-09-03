@@ -1,0 +1,70 @@
+{
+  "title": "ATLAS",
+  "parentLabel": "Marca",
+  "description": "Produtos ATLAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ATLAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6691",
+      "title": "ROLO DE LA 15CM 328/15",
+      "brand": "ATLAS",
+      "brandCode": "321",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "29478",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-la-15cm-32815-6691",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6692",
+      "title": "ROLO DE LÃ DE CARNEIRO 9CM COM SUPORTE - ATLAS 328/9",
+      "brand": "ATLAS",
+      "brandCode": "321",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "20341",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-la-de-carneiro-9cm-com-suporte--atlas-3289-6692",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10176",
+      "title": "TRINCHA P/PINTURA 2\"",
+      "brand": "ATLAS",
+      "brandCode": "321",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "OZ00CKC0",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-ppintura-2-10176",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--321--atlas"
+  }
+}

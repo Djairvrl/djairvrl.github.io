@@ -1,0 +1,36 @@
+{
+  "title": "TOYPLAST",
+  "parentLabel": "Marca",
+  "description": "Produtos TOYPLAST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TOYPLAST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7168",
+      "title": "LIXEIRA 12L C/ PEDAL CP12PI",
+      "brand": "TOYPLAST",
+      "brandCode": "424",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "300964",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-12l-c-pedal-cp12pi-7168",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--424--toyplast"
+  }
+}

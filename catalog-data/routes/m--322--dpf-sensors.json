@@ -1,0 +1,36 @@
+{
+  "title": "DPF SENSORS",
+  "parentLabel": "Marca",
+  "description": "Produtos DPF SENSORS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DPF SENSORS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6709",
+      "title": "GERADOR SIMULADOR DE FREQUENCIA 100 KHZ",
+      "brand": "DPF SENSORS",
+      "brandCode": "322",
+      "supplier": "SENSORES E INSTRUMENTACION GUEMISA",
+      "supplierCode": "1567",
+      "manufacturerCode": "6709",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/gerador-simulador-de-frequencia-100-khz-6709",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--322--dpf-sensors"
+  }
+}

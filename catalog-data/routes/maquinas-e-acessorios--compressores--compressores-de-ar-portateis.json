@@ -1,0 +1,112 @@
+{
+  "title": "COMPRESSORES DE AR PORTÁTEIS",
+  "parentLabel": "Compressores",
+  "description": "Produtos da categoria compressores de ar portáteis em compressores.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Compressores",
+      "to": "/maquinas-e-acessorios/compressores"
+    },
+    {
+      "label": "COMPRESSORES DE AR PORTÁTEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3033",
+      "title": "COMPRESSOR DE AR AUTOMOTIVO CAV 150  - 12V OU 127V/220V - BIVOLT AUTOMÁTICO - VONDER 68.28.150.000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "68.28.150.000",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/compressor-de-ar-automotivo-cav-150--12v-ou-127v220v--bivolt-automatico--vonder-6828150000-3033",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "7811",
+      "title": "COMPRESSOR DE AR PORTATIL A BATERIA 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DMP181Z",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/compressor-de-ar-portatil-a-bateria-18v-7811",
+      "image": "/products/images/0078/7811.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "4478",
+      "title": "MINI COMPRESSOR AR TURBO AIR12V MCTA-12",
+      "brand": "FERRARI",
+      "brandCode": "213",
+      "supplier": "CARACOL COM DE MAQ E FERRAMENTAS LTDA",
+      "supplierCode": "930",
+      "manufacturerCode": "AEC2010002",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/mini-compressor-ar-turbo-air12v-mcta12-4478",
+      "image": "/products/images/0044/4478.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "9650",
+      "title": "MOTOCOMPRESSOR DE AR DIRETO JET FÁCIL PLUS COM ACESSÓRIOS  SCHULZ REF 920.1301-0",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "920.1301-0",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/motocompressor-de-ar-direto-jet-facil-plus-com-acessorios-schulz-ref-92013010-9650",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "8843",
+      "title": "MOTOCOMPRESSOR DE AR PORT PIST",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "915.0422-0",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/motocompressor-de-ar-port-pist-8843",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "maquinas-e-acessorios--compressores--compressores-de-ar-portateis"
+  }
+}

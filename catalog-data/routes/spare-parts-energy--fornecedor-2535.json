@@ -1,0 +1,524 @@
+{
+  "title": "Spare Parts Energy",
+  "parentLabel": "Departamento",
+  "description": "Produtos de COMERCIAL DRAGAO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy"
+    }
+  ],
+  "children": [
+    {
+      "name": "Componentes Hidráulicos e Refrigeração",
+      "slug": "componentes-hidraulicos-e-refrigeracao",
+      "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao",
+      "count": 72,
+      "categories": [
+        {
+          "name": "ACUMULADORES",
+          "slug": "acumuladores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/acumuladores",
+          "count": 1
+        },
+        {
+          "name": "CILINDROS",
+          "slug": "cilindros",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/cilindros",
+          "count": 6
+        },
+        {
+          "name": "CONECTORES E ADAPTADORES",
+          "slug": "conectores-e-adaptadores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/conectores-e-adaptadores",
+          "count": 14
+        },
+        {
+          "name": "INDICADORES DE NÍVEL / TEMPERATURA",
+          "slug": "indicadores-de-nivel-temperatura",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/indicadores-de-nivel-temperatura",
+          "count": 3
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/mangueiras",
+          "count": 6
+        },
+        {
+          "name": "SISTEMAS FILTRANTES",
+          "slug": "sistemas-filtrantes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/sistemas-filtrantes",
+          "count": 22
+        },
+        {
+          "name": "VEDAÇÕES",
+          "slug": "vedacoes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/vedacoes",
+          "count": 16
+        },
+        {
+          "name": "VÁLVULAS",
+          "slug": "valvulas",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/valvulas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Componentes Mecânicos",
+      "slug": "componentes-mecanicos",
+      "path": "/spare-parts-energy/componentes-mecanicos",
+      "count": 13,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE ENGRENAGEM",
+          "slug": "acessorios-de-engrenagem",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-de-engrenagem",
+          "count": 1
+        },
+        {
+          "name": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+          "slug": "acessorios-para-equipamentos-pesados",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-para-equipamentos-pesados",
+          "count": 4
+        },
+        {
+          "name": "ACOPLAMENTOS",
+          "slug": "acoplamentos",
+          "path": "/spare-parts-energy/componentes-mecanicos/acoplamentos",
+          "count": 3
+        },
+        {
+          "name": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+          "slug": "rolamentos-e-caixas-de-rolamento",
+          "path": "/spare-parts-energy/componentes-mecanicos/rolamentos-e-caixas-de-rolamento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis e Elementos de Fixação",
+      "slug": "consumiveis-e-elementos-de-fixacao",
+      "path": "/spare-parts-energy/consumiveis-e-elementos-de-fixacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Grandes Componentes e Transmissão",
+      "slug": "grandes-componentes-e-transmissao",
+      "path": "/spare-parts-energy/grandes-componentes-e-transmissao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Componentes Elétricos",
+      "slug": "componentes-eletricos",
+      "path": "/spare-parts-energy/componentes-eletricos",
+      "count": 1,
+      "categories": [
+        {
+          "name": "PRESSOSTATO",
+          "slug": "pressostato",
+          "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis",
+      "slug": "consumiveis",
+      "path": "/spare-parts-energy/consumiveis",
+      "count": 66,
+      "categories": [
+        {
+          "name": "FILTROS AMBIENTAIS",
+          "slug": "filtros-ambientais",
+          "path": "/spare-parts-energy/consumiveis/filtros-ambientais",
+          "count": 1
+        },
+        {
+          "name": "FILTROS DE MOTOR",
+          "slug": "filtros-de-motor",
+          "path": "/spare-parts-energy/consumiveis/filtros-de-motor",
+          "count": 13
+        },
+        {
+          "name": "FILTROS HIDRÁULICOS",
+          "slug": "filtros-hidraulicos",
+          "path": "/spare-parts-energy/consumiveis/filtros-hidraulicos",
+          "count": 18
+        },
+        {
+          "name": "PARAFUSOS, PROCAS E FIXADORES",
+          "slug": "parafusos-procas-e-fixadores",
+          "path": "/spare-parts-energy/consumiveis/parafusos-procas-e-fixadores",
+          "count": 19
+        },
+        {
+          "name": "TINTAS E QUÍMICOS",
+          "slug": "tintas-e-quimicos",
+          "path": "/spare-parts-energy/consumiveis/tintas-e-quimicos",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Grandes Componentes",
+      "slug": "grandes-componentes",
+      "path": "/spare-parts-energy/grandes-componentes",
+      "count": 2,
+      "categories": [
+        {
+          "name": "GEARBOX",
+          "slug": "gearbox",
+          "path": "/spare-parts-energy/grandes-componentes/gearbox",
+          "count": 1
+        },
+        {
+          "name": "TRANSFORMADOR",
+          "slug": "transformador",
+          "path": "/spare-parts-energy/grandes-componentes/transformador",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Peças Para Linha De Transmissão",
+      "slug": "pecas-para-linha-de-transmissao",
+      "path": "/spare-parts-energy/pecas-para-linha-de-transmissao",
+      "count": 24,
+      "categories": [
+        {
+          "name": "ESTRUTURAIS",
+          "slug": "estruturais",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/estruturais",
+          "count": 5
+        },
+        {
+          "name": "METÁLICAS",
+          "slug": "metalicas",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/metalicas",
+          "count": 19
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "2535",
+    "name": "COMERCIAL DRAGAO LTDA"
+  },
+  "products": [
+    {
+      "code": "9368",
+      "title": "ARRUELA LISA GALV ACO G2 NC 1/4\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "83049980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-galv-aco-g2-nc-14-9368",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10171",
+      "title": "ARRUELA LISA INOX A304 MA 6MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "48309980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-inox-a304-ma-6mm-10171",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9746",
+      "title": "ARRUELA LISA INOX A304 MA 8MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "48339980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-inox-a304-ma-8mm-9746",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9741",
+      "title": "ARRUELA LISA INOX A304 NC 1/4\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "47049980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-inox-a304-nc-14-9741",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9787",
+      "title": "BARRA ROSC INOX A304 MA 1MT 8MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "80339000",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/barra-rosc-inox-a304-ma-1mt-8mm-9787",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9793",
+      "title": "BUCHA FIX DURA D10",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003550",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d10-9793",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10445",
+      "title": "BUCHA FIX DURA D12",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003560",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d12-10445",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10447",
+      "title": "BUCHA FIX DURA D5",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003510",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d5-10447",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10449",
+      "title": "BUCHA FIX DURA D6",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003520",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d6-10449",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10455",
+      "title": "BUCHA FIX DURA D8",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003540",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d8-10455",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10457",
+      "title": "GANCHO COM ABA ESCAPULA 6",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "FB835500",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/gancho-com-aba-escapula-6-10457",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10459",
+      "title": "GANCHO COM ABA ESCAPULA 8",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "FB835510",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/gancho-com-aba-escapula-8-10459",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9792",
+      "title": "PAR SX ROSC SOB INOX A304 MA 6 X 60",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "D8301290",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/par-sx-rosc-sob-inox-a304-ma-6-x-60-9792",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10173",
+      "title": "PARARAFUSO FR GALV ACO G2 NC 1/4 X 3 1/2",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "84040430",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/pararafuso-fr-galv-aco-g2-nc-14-x-3-12-10173",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10172",
+      "title": "PORCA SX GALV ACO G2 NC 1/4\"",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "83049970",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/porca-sx-galv-aco-g2-nc-14-10172",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9744",
+      "title": "PORCA SX INOX A304 8MM MA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "48339970",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/porca-sx-inox-a304-8mm-ma-9744",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10175",
+      "title": "REBITE KOSM/REB/NFIX 4,0MM X 15MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "CH261080",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/rebite-kosmrebnfix-40mm-x-15mm-10175",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9369",
+      "title": "REBITE KOSM/REB/NFIX 6,2MM X 25MM",
+      "brand": "KOSM",
+      "brandCode": "673",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "CH311160",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/rebite-kosmrebnfix-62mm-x-25mm-9369",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 18,
+    "pageBase": "spare-parts-energy--fornecedor-2535"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "FORTSAN",
+  "parentLabel": "Marca",
+  "description": "Produtos FORTSAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FORTSAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7459",
+      "title": "AGUA DESTILADA 5L",
+      "brand": "FORTSAN",
+      "brandCode": "473",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "98778",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/agua-destilada-5l-7459",
+      "image": "/products/images/0074/7459.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--473--fortsan"
+  }
+}

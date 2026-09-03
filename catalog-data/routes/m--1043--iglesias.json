@@ -1,0 +1,36 @@
+{
+  "title": "IGLESIAS",
+  "parentLabel": "Marca",
+  "description": "Produtos IGLESIAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IGLESIAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12154",
+      "title": "MARRETA 4 KILOS CABO MADEIRA",
+      "brand": "IGLESIAS",
+      "brandCode": "1043",
+      "supplier": "IGLESIAS MODELACAO E FUNDICAO LTDA",
+      "supplierCode": "5562",
+      "manufacturerCode": "00000",
+      "category": "MARRETAS",
+      "categorySlug": "marretas",
+      "path": "/marreta-4-kilos-cabo-madeira-12154",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1043--iglesias"
+  }
+}

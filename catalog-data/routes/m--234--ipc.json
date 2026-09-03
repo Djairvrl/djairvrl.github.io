@@ -1,0 +1,36 @@
+{
+  "title": "IPC",
+  "parentLabel": "Marca",
+  "description": "Produtos IPC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IPC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4743",
+      "title": "LAVADORA EXTRATORA EA135 1400W 220V - IPC BRASIL",
+      "brand": "IPC",
+      "brandCode": "234",
+      "supplier": "IP CLEANING IND E COM LTDA",
+      "supplierCode": "992",
+      "manufacturerCode": "A135EXT-220",
+      "category": "EXTRATORAS",
+      "categorySlug": "extratoras",
+      "path": "/lavadora-extratora-ea135-1400w-220v--ipc-brasil-4743",
+      "image": "/products/images/0047/4743.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--234--ipc"
+  }
+}

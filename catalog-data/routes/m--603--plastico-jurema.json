@@ -1,0 +1,53 @@
+{
+  "title": "PLASTICO JUREMA",
+  "parentLabel": "Marca",
+  "description": "Produtos PLASTICO JUREMA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLASTICO JUREMA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8623",
+      "title": "SACO P/ LIXO TOXICO LARANJA 200UN",
+      "brand": "PLASTICO JUREMA",
+      "brandCode": "603",
+      "supplier": "KARYNA CORDEIRO MONTEIRO",
+      "supplierCode": "2152",
+      "manufacturerCode": "100L-TOXICO-100UNID",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-p-lixo-toxico-laranja-200un-8623",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "8735",
+      "title": "SACO P/ LIXO TOXICO LARANJA MT",
+      "brand": "PLASTICO JUREMA",
+      "brandCode": "603",
+      "supplier": "KARYNA CORDEIRO MONTEIRO",
+      "supplierCode": "2152",
+      "manufacturerCode": "8735",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-p-lixo-toxico-laranja-mt-8735",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--603--plastico-jurema"
+  }
+}

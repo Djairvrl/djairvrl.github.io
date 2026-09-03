@@ -1,0 +1,61 @@
+{
+  "title": "TERRÔMETROS",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria terrômetros em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "TERRÔMETROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10257",
+      "title": "TERROMETRO DIG EM4058 EM-4058 W/PRINTER",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "07087",
+      "category": "TERRÔMETROS",
+      "categorySlug": "terrometros",
+      "path": "/terrometro-dig-em4058-em4058-wprinter-10257",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11089",
+      "title": "TERROMETRO DIGITAL LCD 3 3/4 DIGITOS",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MTR - 1522",
+      "category": "TERRÔMETROS",
+      "categorySlug": "terrometros",
+      "path": "/terrometro-digital-lcd-3-34-digitos-11089",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--terrometros"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "KOMATSU",
+  "parentLabel": "Marca",
+  "description": "Produtos KOMATSU disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KOMATSU"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11714",
+      "title": "ABAIXADOR LINGUA DEPIL 50X100 THEOTO",
+      "brand": "KOMATSU",
+      "brandCode": "975",
+      "supplier": "KOMATSU COMERCIO DE PRODUTOS ELETRONICOS LTDA",
+      "supplierCode": "5230",
+      "manufacturerCode": "TH_0510",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/abaixador-lingua-depil-50x100-theoto-11714",
+      "image": "/products/images/0117/11714.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--975--komatsu"
+  }
+}

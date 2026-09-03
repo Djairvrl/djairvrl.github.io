@@ -1,0 +1,104 @@
+{
+  "title": "CMOS DRAKE",
+  "parentLabel": "Marca",
+  "description": "Produtos CMOS DRAKE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CMOS DRAKE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9474",
+      "title": "BOLSA TRANSPORTE AMARELA P DESFIBRILADOR",
+      "brand": "CMOS DRAKE",
+      "brandCode": "65",
+      "supplier": "CMOS DRAKE DO NORDESTE EIRELI",
+      "supplierCode": "183",
+      "manufacturerCode": "59972",
+      "category": "DESFIBRILADORES",
+      "categorySlug": "desfibriladores",
+      "path": "/bolsa-transporte-amarela-p-desfibrilador-9474",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "2428",
+      "title": "CABINE DE EMERGÊNCIA PARA DEA VERMELHA  - CMOS DRAKE",
+      "brand": "CMOS DRAKE",
+      "brandCode": "65",
+      "supplier": "CMOS DRAKE DO NORDESTE EIRELI",
+      "supplierCode": "183",
+      "manufacturerCode": "93562",
+      "category": "DESFIBRILADORES",
+      "categorySlug": "desfibriladores",
+      "path": "/cabine-de-emergencia-para-dea-vermelha--cmos-drake-2428",
+      "image": "/products/images/0024/2428.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12014",
+      "title": "CARREGADOR DE BATERIA DEA 16.OV 0.8A CHK",
+      "brand": "CMOS DRAKE",
+      "brandCode": "65",
+      "supplier": "CMOS DRAKE DO NORDESTE EIRELI",
+      "supplierCode": "183",
+      "manufacturerCode": "59256",
+      "category": "DESFIBRILADORES",
+      "categorySlug": "desfibriladores",
+      "path": "/carregador-de-bateria-dea-16ov-08a-chk-12014",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "2429",
+      "title": "DESFIBRILADOR EXTERNO AUTOMÁTICO LIFE 400 FUTURA COM FEEDBACK DE RCP - CMOS DRAKE",
+      "brand": "CMOS DRAKE",
+      "brandCode": "65",
+      "supplier": "CMOS DRAKE DO NORDESTE EIRELI",
+      "supplierCode": "183",
+      "manufacturerCode": "C62190",
+      "category": "DESFIBRILADORES",
+      "categorySlug": "desfibriladores",
+      "path": "/desfibrilador-externo-automatico-life-400-futura-com-feedback-de-rcp--cmos-drake-2429",
+      "image": "/products/images/0024/2429.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7709",
+      "title": "PÁS DE CHOQUE ADESIVAS ADULTO CONECTOR 4 VIAS PRETO F7988/CM - CMOS DRAKE",
+      "brand": "CMOS DRAKE",
+      "brandCode": "65",
+      "supplier": "CMOS DRAKE DO NORDESTE EIRELI",
+      "supplierCode": "183",
+      "manufacturerCode": "LT95101",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/pas-de-choque-adesivas-adulto-conector-4-vias-preto-f7988cm--cmos-drake-7709",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--65--cmos-drake"
+  }
+}

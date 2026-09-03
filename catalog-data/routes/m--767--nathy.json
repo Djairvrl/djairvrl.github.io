@@ -1,0 +1,53 @@
+{
+  "title": "NATHY",
+  "parentLabel": "Marca",
+  "description": "Produtos NATHY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NATHY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10317",
+      "title": "ALGODAO HIDROFILO MULTIUS 25G PHOSPODONT",
+      "brand": "NATHY",
+      "brandCode": "767",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "101331",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/algodao-hidrofilo-multius-25g-phospodont-10317",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "13039",
+      "title": "CURATIVO TRADICIONAL BEGE CX C/10",
+      "brand": "NATHY",
+      "brandCode": "767",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "100905",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/curativo-tradicional-bege-cx-c10-13039",
+      "image": "/products/images/0130/13039.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--767--nathy"
+  }
+}

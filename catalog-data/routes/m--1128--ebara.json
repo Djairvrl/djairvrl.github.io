@@ -1,0 +1,36 @@
+{
+  "title": "EBARA",
+  "parentLabel": "Marca",
+  "description": "Produtos EBARA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EBARA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12752",
+      "title": "MOTOBOMBEADOR M3C2 1.5HP 380VT",
+      "brand": "EBARA",
+      "brandCode": "1128",
+      "supplier": "EBARA BOMBAS AMERICA DO SUL LTDA",
+      "supplierCode": "2173",
+      "manufacturerCode": "BM222091.538C2",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/motobombeador-m3c2-15hp-380vt-12752",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1128--ebara"
+  }
+}

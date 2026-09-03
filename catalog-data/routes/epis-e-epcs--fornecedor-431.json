@@ -1,0 +1,1141 @@
+{
+  "title": "EPIs e EPCs",
+  "parentLabel": "Departamento",
+  "description": "Produtos de IND E COMERCIO RIOMAR CORDAS EIRELI neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs"
+    }
+  ],
+  "children": [
+    {
+      "name": "Capacetes",
+      "slug": "capacetes",
+      "path": "/epis-e-epcs/capacetes",
+      "count": 59,
+      "categories": [
+        {
+          "name": "CAPACETE COMBATE A INCÊNDIO",
+          "slug": "capacete-combate-a-incendio",
+          "path": "/epis-e-epcs/capacetes/capacete-combate-a-incendio",
+          "count": 2
+        },
+        {
+          "name": "CAPACETE TIPO ALPINISTA",
+          "slug": "capacete-tipo-alpinista",
+          "path": "/epis-e-epcs/capacetes/capacete-tipo-alpinista",
+          "count": 12
+        },
+        {
+          "name": "CARNEIRAS",
+          "slug": "carneiras",
+          "path": "/epis-e-epcs/capacetes/carneiras",
+          "count": 10
+        },
+        {
+          "name": "JUGULAR",
+          "slug": "jugular",
+          "path": "/epis-e-epcs/capacetes/jugular",
+          "count": 5
+        },
+        {
+          "name": "TIPO 1 CAPACETE ABA TOTAL",
+          "slug": "tipo-1-capacete-aba-total",
+          "path": "/epis-e-epcs/capacetes/tipo-1-capacete-aba-total",
+          "count": 3
+        },
+        {
+          "name": "TIPO 2 CAPACETE ABA FRONTAL",
+          "slug": "tipo-2-capacete-aba-frontal",
+          "path": "/epis-e-epcs/capacetes/tipo-2-capacete-aba-frontal",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "name": "Trabalho em Altura",
+      "slug": "trabalho-em-altura",
+      "path": "/epis-e-epcs/trabalho-em-altura",
+      "count": 273,
+      "categories": [
+        {
+          "name": "ANCORAGEM",
+          "slug": "ancoragem",
+          "path": "/epis-e-epcs/trabalho-em-altura/ancoragem",
+          "count": 25
+        },
+        {
+          "name": "CINTAS E ACESSÓRIOS",
+          "slug": "cintas-e-acessorios",
+          "path": "/epis-e-epcs/trabalho-em-altura/cintas-e-acessorios",
+          "count": 50
+        },
+        {
+          "name": "CINTOS",
+          "slug": "cintos",
+          "path": "/epis-e-epcs/trabalho-em-altura/cintos",
+          "count": 40
+        },
+        {
+          "name": "CORDAS NR 35",
+          "slug": "cordas-nr-35",
+          "path": "/epis-e-epcs/trabalho-em-altura/cordas-nr-35",
+          "count": 26
+        },
+        {
+          "name": "DESCENSORES E ASCENSORES",
+          "slug": "descensores-e-ascensores",
+          "path": "/epis-e-epcs/trabalho-em-altura/descensores-e-ascensores",
+          "count": 12
+        },
+        {
+          "name": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+          "slug": "dispositivos-de-descida-e-resgate",
+          "path": "/epis-e-epcs/trabalho-em-altura/dispositivos-de-descida-e-resgate",
+          "count": 7
+        },
+        {
+          "name": "MOSQUETÕES",
+          "slug": "mosquetoes",
+          "path": "/epis-e-epcs/trabalho-em-altura/mosquetoes",
+          "count": 14
+        },
+        {
+          "name": "TALABARTES",
+          "slug": "talabartes",
+          "path": "/epis-e-epcs/trabalho-em-altura/talabartes",
+          "count": 35
+        },
+        {
+          "name": "TALABARTES DE FERRAMENTAS",
+          "slug": "talabartes-de-ferramentas",
+          "path": "/epis-e-epcs/trabalho-em-altura/talabartes-de-ferramentas",
+          "count": 20
+        },
+        {
+          "name": "TRAVA QUEDAS",
+          "slug": "trava-quedas",
+          "path": "/epis-e-epcs/trabalho-em-altura/trava-quedas",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "name": "Proteção Auditiva",
+      "slug": "protecao-auditiva",
+      "path": "/epis-e-epcs/protecao-auditiva",
+      "count": 31,
+      "categories": [
+        {
+          "name": "TIPO CONCHA",
+          "slug": "tipo-concha",
+          "path": "/epis-e-epcs/protecao-auditiva/tipo-concha",
+          "count": 24
+        },
+        {
+          "name": "TIPO PLUG",
+          "slug": "tipo-plug",
+          "path": "/epis-e-epcs/protecao-auditiva/tipo-plug",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Calçados de Segurança",
+      "slug": "calcados-de-seguranca",
+      "path": "/epis-e-epcs/calcados-de-seguranca",
+      "count": 554,
+      "categories": [
+        {
+          "name": "BORRACHA BOMBEIRO",
+          "slug": "borracha-bombeiro",
+          "path": "/epis-e-epcs/calcados-de-seguranca/borracha-bombeiro",
+          "count": 7
+        },
+        {
+          "name": "BORRACHA E PVC",
+          "slug": "borracha-e-pvc",
+          "path": "/epis-e-epcs/calcados-de-seguranca/borracha-e-pvc",
+          "count": 48
+        },
+        {
+          "name": "COURO",
+          "slug": "couro",
+          "path": "/epis-e-epcs/calcados-de-seguranca/couro",
+          "count": 121
+        },
+        {
+          "name": "COURO ELETRICISTA",
+          "slug": "couro-eletricista",
+          "path": "/epis-e-epcs/calcados-de-seguranca/couro-eletricista",
+          "count": 41
+        },
+        {
+          "name": "MICROFIBRA",
+          "slug": "microfibra",
+          "path": "/epis-e-epcs/calcados-de-seguranca/microfibra",
+          "count": 94
+        },
+        {
+          "name": "MICROFIBRA ELETRICISTA",
+          "slug": "microfibra-eletricista",
+          "path": "/epis-e-epcs/calcados-de-seguranca/microfibra-eletricista",
+          "count": 102
+        },
+        {
+          "name": "NOBUCK",
+          "slug": "nobuck",
+          "path": "/epis-e-epcs/calcados-de-seguranca/nobuck",
+          "count": 60
+        },
+        {
+          "name": "NOBUCK ELETRICISTA",
+          "slug": "nobuck-eletricista",
+          "path": "/epis-e-epcs/calcados-de-seguranca/nobuck-eletricista",
+          "count": 34
+        },
+        {
+          "name": "OCUPACIONAL",
+          "slug": "ocupacional",
+          "path": "/epis-e-epcs/calcados-de-seguranca/ocupacional",
+          "count": 44
+        },
+        {
+          "name": "PALMILHAS",
+          "slug": "palmilhas",
+          "path": "/epis-e-epcs/calcados-de-seguranca/palmilhas",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Luvas e Mangotes",
+      "slug": "luvas-e-mangotes",
+      "path": "/epis-e-epcs/luvas-e-mangotes",
+      "count": 242,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA LUVAS",
+          "slug": "acessorios-para-luvas",
+          "path": "/epis-e-epcs/luvas-e-mangotes/acessorios-para-luvas",
+          "count": 4
+        },
+        {
+          "name": "ALGODÃO",
+          "slug": "algodao",
+          "path": "/epis-e-epcs/luvas-e-mangotes/algodao",
+          "count": 1
+        },
+        {
+          "name": "ALTA TEMPERATURA",
+          "slug": "alta-temperatura",
+          "path": "/epis-e-epcs/luvas-e-mangotes/alta-temperatura",
+          "count": 11
+        },
+        {
+          "name": "ALTA TENSÃO E COBERTURA",
+          "slug": "alta-tensao-e-cobertura",
+          "path": "/epis-e-epcs/luvas-e-mangotes/alta-tensao-e-cobertura",
+          "count": 38
+        },
+        {
+          "name": "ANTI VIBRAÇÃO | ANTI IMPACTO",
+          "slug": "anti-vibracao-anti-impacto",
+          "path": "/epis-e-epcs/luvas-e-mangotes/anti-vibracao-anti-impacto",
+          "count": 15
+        },
+        {
+          "name": "ARCO ELÉTRICO",
+          "slug": "arco-eletrico",
+          "path": "/epis-e-epcs/luvas-e-mangotes/arco-eletrico",
+          "count": 3
+        },
+        {
+          "name": "HELANCA E SUEDINE",
+          "slug": "helanca-e-suedine",
+          "path": "/epis-e-epcs/luvas-e-mangotes/helanca-e-suedine",
+          "count": 1
+        },
+        {
+          "name": "KEVLAR",
+          "slug": "kevlar",
+          "path": "/epis-e-epcs/luvas-e-mangotes/kevlar",
+          "count": 2
+        },
+        {
+          "name": "LÁTEX",
+          "slug": "latex",
+          "path": "/epis-e-epcs/luvas-e-mangotes/latex",
+          "count": 21
+        },
+        {
+          "name": "MALHA DE AÇO",
+          "slug": "malha-de-aco",
+          "path": "/epis-e-epcs/luvas-e-mangotes/malha-de-aco",
+          "count": 1
+        },
+        {
+          "name": "MANGOTE",
+          "slug": "mangote",
+          "path": "/epis-e-epcs/luvas-e-mangotes/mangote",
+          "count": 3
+        },
+        {
+          "name": "NEOPRENE",
+          "slug": "neoprene",
+          "path": "/epis-e-epcs/luvas-e-mangotes/neoprene",
+          "count": 2
+        },
+        {
+          "name": "NITRÍLICA",
+          "slug": "nitrilica",
+          "path": "/epis-e-epcs/luvas-e-mangotes/nitrilica",
+          "count": 50
+        },
+        {
+          "name": "NYLON",
+          "slug": "nylon",
+          "path": "/epis-e-epcs/luvas-e-mangotes/nylon",
+          "count": 6
+        },
+        {
+          "name": "POLIETILENO",
+          "slug": "polietileno",
+          "path": "/epis-e-epcs/luvas-e-mangotes/polietileno",
+          "count": 10
+        },
+        {
+          "name": "PVC",
+          "slug": "pvc",
+          "path": "/epis-e-epcs/luvas-e-mangotes/pvc",
+          "count": 4
+        },
+        {
+          "name": "RASPA",
+          "slug": "raspa",
+          "path": "/epis-e-epcs/luvas-e-mangotes/raspa",
+          "count": 15
+        },
+        {
+          "name": "RESISTENTE A CORTE",
+          "slug": "resistente-a-corte",
+          "path": "/epis-e-epcs/luvas-e-mangotes/resistente-a-corte",
+          "count": 16
+        },
+        {
+          "name": "TRICOTADA",
+          "slug": "tricotada",
+          "path": "/epis-e-epcs/luvas-e-mangotes/tricotada",
+          "count": 9
+        },
+        {
+          "name": "VAQUETA",
+          "slug": "vaqueta",
+          "path": "/epis-e-epcs/luvas-e-mangotes/vaqueta",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "name": "Proteção Respiratória",
+      "slug": "protecao-respiratoria",
+      "path": "/epis-e-epcs/protecao-respiratoria",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/protecao-respiratoria/acessorios",
+          "count": 33
+        },
+        {
+          "name": "DESCARTAVEIS",
+          "slug": "descartaveis",
+          "path": "/epis-e-epcs/protecao-respiratoria/descartaveis",
+          "count": 27
+        },
+        {
+          "name": "FACIAL INTEIRA",
+          "slug": "facial-inteira",
+          "path": "/epis-e-epcs/protecao-respiratoria/facial-inteira",
+          "count": 10
+        },
+        {
+          "name": "SEMIFACIAL",
+          "slug": "semifacial",
+          "path": "/epis-e-epcs/protecao-respiratoria/semifacial",
+          "count": 18
+        },
+        {
+          "name": "SISTEMA DE CALIBRAÇÃO",
+          "slug": "sistema-de-calibracao",
+          "path": "/epis-e-epcs/protecao-respiratoria/sistema-de-calibracao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Higienização e Proteção da Pele",
+      "slug": "higienizacao-e-protecao-da-pele",
+      "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele",
+      "count": 56,
+      "categories": [
+        {
+          "name": "ANTISSÉPTICO",
+          "slug": "antisseptico",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/antisseptico",
+          "count": 11
+        },
+        {
+          "name": "CREMES DE PROTEÇÃO",
+          "slug": "cremes-de-protecao",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/cremes-de-protecao",
+          "count": 6
+        },
+        {
+          "name": "DESENGRAXANTES",
+          "slug": "desengraxantes",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/desengraxantes",
+          "count": 5
+        },
+        {
+          "name": "DOSADORES",
+          "slug": "dosadores",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/dosadores",
+          "count": 5
+        },
+        {
+          "name": "PROTETOR LABIAL",
+          "slug": "protetor-labial",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/protetor-labial",
+          "count": 3
+        },
+        {
+          "name": "PROTEÇÃO SOLAR",
+          "slug": "protecao-solar",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/protecao-solar",
+          "count": 16
+        },
+        {
+          "name": "REPELENTES",
+          "slug": "repelentes",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/repelentes",
+          "count": 3
+        },
+        {
+          "name": "SABONETES",
+          "slug": "sabonetes",
+          "path": "/epis-e-epcs/higienizacao-e-protecao-da-pele/sabonetes",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Óculos de Proteção",
+      "slug": "oculos-de-protecao",
+      "path": "/epis-e-epcs/oculos-de-protecao",
+      "count": 165,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/oculos-de-protecao/acessorios",
+          "count": 13
+        },
+        {
+          "name": "AMPLA VISÃO",
+          "slug": "ampla-visao",
+          "path": "/epis-e-epcs/oculos-de-protecao/ampla-visao",
+          "count": 4
+        },
+        {
+          "name": "CONTRA IMPACTO",
+          "slug": "contra-impacto",
+          "path": "/epis-e-epcs/oculos-de-protecao/contra-impacto",
+          "count": 88
+        },
+        {
+          "name": "LENTES GRADUADAS",
+          "slug": "lentes-graduadas",
+          "path": "/epis-e-epcs/oculos-de-protecao/lentes-graduadas",
+          "count": 60
+        }
+      ]
+    },
+    {
+      "name": "Proteção Facial",
+      "slug": "protecao-facial",
+      "path": "/epis-e-epcs/protecao-facial",
+      "count": 28,
+      "categories": [
+        {
+          "name": "MÁSCARA DE SOLDA",
+          "slug": "mascara-de-solda",
+          "path": "/epis-e-epcs/protecao-facial/mascara-de-solda",
+          "count": 13
+        },
+        {
+          "name": "PROTETOR FACIAL",
+          "slug": "protetor-facial",
+          "path": "/epis-e-epcs/protecao-facial/protetor-facial",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Espaço Confinado",
+      "slug": "espaco-confinado",
+      "path": "/epis-e-epcs/espaco-confinado",
+      "count": 20,
+      "categories": [
+        {
+          "name": "CINTURÕES E ACESSÓRIOS",
+          "slug": "cinturoes-e-acessorios",
+          "path": "/epis-e-epcs/espaco-confinado/cinturoes-e-acessorios",
+          "count": 2
+        },
+        {
+          "name": "SISTEMAS DE EXAUSTÃO E VENTILAÇÃO",
+          "slug": "sistemas-de-exaustao-e-ventilacao",
+          "path": "/epis-e-epcs/espaco-confinado/sistemas-de-exaustao-e-ventilacao",
+          "count": 14
+        },
+        {
+          "name": "TRIPÉ PARA RESGATE",
+          "slug": "tripe-para-resgate",
+          "path": "/epis-e-epcs/espaco-confinado/tripe-para-resgate",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Lanternas de Segurança",
+      "slug": "lanternas-de-seguranca",
+      "path": "/epis-e-epcs/lanternas-de-seguranca",
+      "count": 44,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/acessorios",
+          "count": 1
+        },
+        {
+          "name": "ANTIEXPLOSÃO",
+          "slug": "antiexplosao",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/antiexplosao",
+          "count": 1
+        },
+        {
+          "name": "INSPEÇÃO E DIAGNÓSTICO",
+          "slug": "inspecao-e-diagnostico",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/inspecao-e-diagnostico",
+          "count": 1
+        },
+        {
+          "name": "PORTE GRANDE",
+          "slug": "porte-grande",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/porte-grande",
+          "count": 5
+        },
+        {
+          "name": "PORTE MÉDIO",
+          "slug": "porte-medio",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/porte-medio",
+          "count": 13
+        },
+        {
+          "name": "PORTE PEQUENO",
+          "slug": "porte-pequeno",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/porte-pequeno",
+          "count": 6
+        },
+        {
+          "name": "REFLETORES PORTÁTEIS",
+          "slug": "refletores-portateis",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/refletores-portateis",
+          "count": 7
+        },
+        {
+          "name": "TÁTICA - MILITAR",
+          "slug": "tatica-militar",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/tatica-militar",
+          "count": 3
+        },
+        {
+          "name": "USO EM CAPACETE",
+          "slug": "uso-em-capacete",
+          "path": "/epis-e-epcs/lanternas-de-seguranca/uso-em-capacete",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Vestimentas Profissionais",
+      "slug": "vestimentas-profissionais",
+      "path": "/epis-e-epcs/vestimentas-profissionais",
+      "count": 443,
+      "categories": [
+        {
+          "name": "APICULTOR",
+          "slug": "apicultor",
+          "path": "/epis-e-epcs/vestimentas-profissionais/apicultor",
+          "count": 5
+        },
+        {
+          "name": "AVENTAIS",
+          "slug": "aventais",
+          "path": "/epis-e-epcs/vestimentas-profissionais/aventais",
+          "count": 17
+        },
+        {
+          "name": "CAPUZ E BALACLAVA",
+          "slug": "capuz-e-balaclava",
+          "path": "/epis-e-epcs/vestimentas-profissionais/capuz-e-balaclava",
+          "count": 23
+        },
+        {
+          "name": "CINTA LOMBAR",
+          "slug": "cinta-lombar",
+          "path": "/epis-e-epcs/vestimentas-profissionais/cinta-lombar",
+          "count": 7
+        },
+        {
+          "name": "COLETES DE SINALIZAÇÃO",
+          "slug": "coletes-de-sinalizacao",
+          "path": "/epis-e-epcs/vestimentas-profissionais/coletes-de-sinalizacao",
+          "count": 39
+        },
+        {
+          "name": "JARDINEIRAS",
+          "slug": "jardineiras",
+          "path": "/epis-e-epcs/vestimentas-profissionais/jardineiras",
+          "count": 8
+        },
+        {
+          "name": "MACACÕES",
+          "slug": "macacoes",
+          "path": "/epis-e-epcs/vestimentas-profissionais/macacoes",
+          "count": 32
+        },
+        {
+          "name": "MOTOSSERRISTA",
+          "slug": "motosserrista",
+          "path": "/epis-e-epcs/vestimentas-profissionais/motosserrista",
+          "count": 7
+        },
+        {
+          "name": "PERNEIRAS",
+          "slug": "perneiras",
+          "path": "/epis-e-epcs/vestimentas-profissionais/perneiras",
+          "count": 15
+        },
+        {
+          "name": "PROTEÇÃO QUÍMICA",
+          "slug": "protecao-quimica",
+          "path": "/epis-e-epcs/vestimentas-profissionais/protecao-quimica",
+          "count": 2
+        },
+        {
+          "name": "PROTEÇÃO TÉRMICA",
+          "slug": "protecao-termica",
+          "path": "/epis-e-epcs/vestimentas-profissionais/protecao-termica",
+          "count": 63
+        },
+        {
+          "name": "VESTIMENTA SOLDADOR",
+          "slug": "vestimenta-soldador",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimenta-soldador",
+          "count": 6
+        },
+        {
+          "name": "VESTIMENTAS AGRÍCOLAS",
+          "slug": "vestimentas-agricolas",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-agricolas",
+          "count": 10
+        },
+        {
+          "name": "VESTIMENTAS ELETRICISTA",
+          "slug": "vestimentas-eletricista",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-eletricista",
+          "count": 58
+        },
+        {
+          "name": "VESTIMENTAS IMPERMEAVEIS",
+          "slug": "vestimentas-impermeaveis",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-impermeaveis",
+          "count": 19
+        },
+        {
+          "name": "VESTIMENTAS OPERACIONAIS",
+          "slug": "vestimentas-operacionais",
+          "path": "/epis-e-epcs/vestimentas-profissionais/vestimentas-operacionais",
+          "count": 132
+        }
+      ]
+    },
+    {
+      "name": "Resgate e Salvamento",
+      "slug": "resgate-e-salvamento",
+      "path": "/epis-e-epcs/resgate-e-salvamento",
+      "count": 172,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE SALVAMENTO",
+          "slug": "acessorios-de-salvamento",
+          "path": "/epis-e-epcs/resgate-e-salvamento/acessorios-de-salvamento",
+          "count": 44
+        },
+        {
+          "name": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+          "slug": "aparelhos-e-equipamentos-de-medicao",
+          "path": "/epis-e-epcs/resgate-e-salvamento/aparelhos-e-equipamentos-de-medicao",
+          "count": 21
+        },
+        {
+          "name": "BOLSA RESGATE",
+          "slug": "bolsa-resgate",
+          "path": "/epis-e-epcs/resgate-e-salvamento/bolsa-resgate",
+          "count": 4
+        },
+        {
+          "name": "COLAR CERVICAL",
+          "slug": "colar-cervical",
+          "path": "/epis-e-epcs/resgate-e-salvamento/colar-cervical",
+          "count": 5
+        },
+        {
+          "name": "DESFIBRILADORES",
+          "slug": "desfibriladores",
+          "path": "/epis-e-epcs/resgate-e-salvamento/desfibriladores",
+          "count": 9
+        },
+        {
+          "name": "IMOBILIZADORES",
+          "slug": "imobilizadores",
+          "path": "/epis-e-epcs/resgate-e-salvamento/imobilizadores",
+          "count": 2
+        },
+        {
+          "name": "INSUMOS DE SALVAMENTO",
+          "slug": "insumos-de-salvamento",
+          "path": "/epis-e-epcs/resgate-e-salvamento/insumos-de-salvamento",
+          "count": 56
+        },
+        {
+          "name": "KIT CIPA",
+          "slug": "kit-cipa",
+          "path": "/epis-e-epcs/resgate-e-salvamento/kit-cipa",
+          "count": 3
+        },
+        {
+          "name": "KIT PRIMEIROS SOCORROS",
+          "slug": "kit-primeiros-socorros",
+          "path": "/epis-e-epcs/resgate-e-salvamento/kit-primeiros-socorros",
+          "count": 11
+        },
+        {
+          "name": "MACAS E PRANCHAS DE RESGATE",
+          "slug": "macas-e-pranchas-de-resgate",
+          "path": "/epis-e-epcs/resgate-e-salvamento/macas-e-pranchas-de-resgate",
+          "count": 7
+        },
+        {
+          "name": "MALETAS E ARMÁRIOS",
+          "slug": "maletas-e-armarios",
+          "path": "/epis-e-epcs/resgate-e-salvamento/maletas-e-armarios",
+          "count": 8
+        },
+        {
+          "name": "TREINAMENTO E SIMULAÇÃO",
+          "slug": "treinamento-e-simulacao",
+          "path": "/epis-e-epcs/resgate-e-salvamento/treinamento-e-simulacao",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "NR-10",
+      "slug": "nr-10",
+      "path": "/epis-e-epcs/nr-10",
+      "count": 76,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/nr-10/acessorios",
+          "count": 9
+        },
+        {
+          "name": "ATERRAMENTOS ESTÁTICOS",
+          "slug": "aterramentos-estaticos",
+          "path": "/epis-e-epcs/nr-10/aterramentos-estaticos",
+          "count": 1
+        },
+        {
+          "name": "ATERRAMENTOS TEMPORÁRIOS",
+          "slug": "aterramentos-temporarios",
+          "path": "/epis-e-epcs/nr-10/aterramentos-temporarios",
+          "count": 19
+        },
+        {
+          "name": "BANQUETA ISOLANTE",
+          "slug": "banqueta-isolante",
+          "path": "/epis-e-epcs/nr-10/banqueta-isolante",
+          "count": 2
+        },
+        {
+          "name": "BASTAO DE RESGATE",
+          "slug": "bastao-de-resgate",
+          "path": "/epis-e-epcs/nr-10/bastao-de-resgate",
+          "count": 4
+        },
+        {
+          "name": "COBERTURAS PROTETORAS",
+          "slug": "coberturas-protetoras",
+          "path": "/epis-e-epcs/nr-10/coberturas-protetoras",
+          "count": 1
+        },
+        {
+          "name": "DETECTORES DE TENSÃO",
+          "slug": "detectores-de-tensao",
+          "path": "/epis-e-epcs/nr-10/detectores-de-tensao",
+          "count": 8
+        },
+        {
+          "name": "MAGOTES ISOLANTES",
+          "slug": "magotes-isolantes",
+          "path": "/epis-e-epcs/nr-10/magotes-isolantes",
+          "count": 1
+        },
+        {
+          "name": "TAPETE ISOLANTE",
+          "slug": "tapete-isolante",
+          "path": "/epis-e-epcs/nr-10/tapete-isolante",
+          "count": 3
+        },
+        {
+          "name": "VARA DE MANOBRA",
+          "slug": "vara-de-manobra",
+          "path": "/epis-e-epcs/nr-10/vara-de-manobra",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/epis-e-epcs/diversos",
+      "count": 45,
+      "categories": [
+        {
+          "name": "BOLSAS E ACESSÓRIOS",
+          "slug": "bolsas-e-acessorios",
+          "path": "/epis-e-epcs/diversos/bolsas-e-acessorios",
+          "count": 25
+        },
+        {
+          "name": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+          "slug": "bolsas-socorrista-e-primeiros-socorros",
+          "path": "/epis-e-epcs/diversos/bolsas-socorrista-e-primeiros-socorros",
+          "count": 5
+        },
+        {
+          "name": "BONÉ",
+          "slug": "bone",
+          "path": "/epis-e-epcs/diversos/bone",
+          "count": 4
+        },
+        {
+          "name": "COLETES E BÓIAS SALVA VIDAS",
+          "slug": "coletes-e-boias-salva-vidas",
+          "path": "/epis-e-epcs/diversos/coletes-e-boias-salva-vidas",
+          "count": 3
+        },
+        {
+          "name": "DETECTORES DE RUÍDOS",
+          "slug": "detectores-de-ruidos",
+          "path": "/epis-e-epcs/diversos/detectores-de-ruidos",
+          "count": 1
+        },
+        {
+          "name": "ERGONÔMICOS",
+          "slug": "ergonomicos",
+          "path": "/epis-e-epcs/diversos/ergonomicos",
+          "count": 2
+        },
+        {
+          "name": "EXAUSTOR E INSUFLADOR",
+          "slug": "exaustor-e-insuflador",
+          "path": "/epis-e-epcs/diversos/exaustor-e-insuflador",
+          "count": 2
+        },
+        {
+          "name": "JOELHEIRA",
+          "slug": "joelheira",
+          "path": "/epis-e-epcs/diversos/joelheira",
+          "count": 2
+        },
+        {
+          "name": "PROTETOR DE NUCA",
+          "slug": "protetor-de-nuca",
+          "path": "/epis-e-epcs/diversos/protetor-de-nuca",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Camping",
+      "slug": "camping",
+      "path": "/epis-e-epcs/camping",
+      "count": 46,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/camping/acessorios",
+          "count": 9
+        },
+        {
+          "name": "BARRACAS E TENDAS",
+          "slug": "barracas-e-tendas",
+          "path": "/epis-e-epcs/camping/barracas-e-tendas",
+          "count": 21
+        },
+        {
+          "name": "CAIXA TERMICA",
+          "slug": "caixa-termica",
+          "path": "/epis-e-epcs/camping/caixa-termica",
+          "count": 1
+        },
+        {
+          "name": "GARRAFAS E CAIXAS  TÉRMICAS",
+          "slug": "garrafas-e-caixas-termicas",
+          "path": "/epis-e-epcs/camping/garrafas-e-caixas-termicas",
+          "count": 13
+        },
+        {
+          "name": "MESAS PORTÁTEIS",
+          "slug": "mesas-portateis",
+          "path": "/epis-e-epcs/camping/mesas-portateis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos de Proteção Coletiva — EPC",
+      "slug": "equipamentos-de-protecao-coletiva-epc",
+      "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc",
+      "count": 89,
+      "categories": [
+        {
+          "name": "BARREIRAS E CAVALETES",
+          "slug": "barreiras-e-cavaletes",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/barreiras-e-cavaletes",
+          "count": 11
+        },
+        {
+          "name": "CERQUITES",
+          "slug": "cerquites",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/cerquites",
+          "count": 8
+        },
+        {
+          "name": "CHUVEIRO LAVA-OLHOS",
+          "slug": "chuveiro-lava-olhos",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/chuveiro-lava-olhos",
+          "count": 4
+        },
+        {
+          "name": "CONES",
+          "slug": "cones",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/cones",
+          "count": 23
+        },
+        {
+          "name": "CORRENTES ZEBRADA",
+          "slug": "correntes-zebrada",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/correntes-zebrada",
+          "count": 5
+        },
+        {
+          "name": "ESTAÇÃO LAVA OLHOS",
+          "slug": "estacao-lava-olhos",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/estacao-lava-olhos",
+          "count": 7
+        },
+        {
+          "name": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
+          "slug": "fitas-e-cordas-de-demarcacao-sinalizacao",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/fitas-e-cordas-de-demarcacao-sinalizacao",
+          "count": 25
+        },
+        {
+          "name": "PEDESTAL",
+          "slug": "pedestal",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/pedestal",
+          "count": 2
+        },
+        {
+          "name": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+          "slug": "sistemas-de-iluminacao-de-emergencia",
+          "path": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc/sistemas-de-iluminacao-de-emergencia",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Estiletes De Segurança",
+      "slug": "estiletes-de-seguranca",
+      "path": "/epis-e-epcs/estiletes-de-seguranca",
+      "count": 18,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/epis-e-epcs/estiletes-de-seguranca/acessorios",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "name": "Proteção Ambiental",
+      "slug": "protecao-ambiental",
+      "path": "/epis-e-epcs/protecao-ambiental",
+      "count": 1,
+      "categories": [
+        {
+          "name": "MANTAS",
+          "slug": "mantas",
+          "path": "/epis-e-epcs/protecao-ambiental/mantas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Proteção Da Face",
+      "slug": "protecao-da-face",
+      "path": "/epis-e-epcs/protecao-da-face",
+      "count": 3,
+      "categories": [
+        {
+          "name": "OCULOS DE PROTEÇÃO",
+          "slug": "oculos-de-protecao",
+          "path": "/epis-e-epcs/protecao-da-face/oculos-de-protecao",
+          "count": 1
+        },
+        {
+          "name": "PROTETOR FACIAL",
+          "slug": "protetor-facial",
+          "path": "/epis-e-epcs/protecao-da-face/protetor-facial",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Proteção Da Pele",
+      "slug": "protecao-da-pele",
+      "path": "/epis-e-epcs/protecao-da-pele",
+      "count": 1,
+      "categories": [
+        {
+          "name": "LUVA QUIMICA",
+          "slug": "luva-quimica",
+          "path": "/epis-e-epcs/protecao-da-pele/luva-quimica",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Proteção Das Mãos",
+      "slug": "protecao-das-maos",
+      "path": "/epis-e-epcs/protecao-das-maos",
+      "count": 3,
+      "categories": [
+        {
+          "name": "LUVAS",
+          "slug": "luvas",
+          "path": "/epis-e-epcs/protecao-das-maos/luvas",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Vestimentas",
+      "slug": "vestimentas",
+      "path": "/epis-e-epcs/vestimentas",
+      "count": 3,
+      "categories": [
+        {
+          "name": "UNIFORMES RISCO 4",
+          "slug": "uniformes-risco-4",
+          "path": "/epis-e-epcs/vestimentas/uniformes-risco-4",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "431",
+    "name": "IND E COMERCIO RIOMAR CORDAS EIRELI"
+  },
+  "products": [
+    {
+      "code": "6374",
+      "title": "CORDA SEMI-ESTATICA K2 11,5MM LARANJA",
+      "brand": "RIOMAR",
+      "brandCode": "139",
+      "supplier": "IND E COMERCIO RIOMAR CORDAS EIRELI",
+      "supplierCode": "431",
+      "manufacturerCode": "46611710-1",
+      "category": "CORDAS NR 35",
+      "categorySlug": "cordas-nr-35",
+      "path": "/corda-semiestatica-k2-115mm-laranja-6374",
+      "image": "/products/images/0063/6374.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "3896",
+      "title": "CORDA TORCIDA PP DE SINALIZAÇÃO 14MM  PRETO/AMARELO - RIOMAR 33114251U",
+      "brand": "RIOMAR",
+      "brandCode": "139",
+      "supplier": "IND E COMERCIO RIOMAR CORDAS EIRELI",
+      "supplierCode": "431",
+      "manufacturerCode": "33114251U",
+      "category": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
+      "categorySlug": "fitas-e-cordas-de-demarcacao-sinalizacao",
+      "path": "/corda-torcida-pp-de-sinalizacao-14mm-pretoamarelo--riomar-33114251u-3896",
+      "image": "/products/images/0038/3896.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "3895",
+      "title": "CORDA TRANÇADA POLIAMIDA 12MM  BRANCA - RIOMAR 47212250",
+      "brand": "RIOMAR",
+      "brandCode": "139",
+      "supplier": "IND E COMERCIO RIOMAR CORDAS EIRELI",
+      "supplierCode": "431",
+      "manufacturerCode": "47212250",
+      "category": "CORDAS NR 35",
+      "categorySlug": "cordas-nr-35",
+      "path": "/corda-trancada-poliamida-12mm-branca--riomar-47212250-3895",
+      "image": "/products/images/0038/3895.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--fornecedor-431"
+  }
+}

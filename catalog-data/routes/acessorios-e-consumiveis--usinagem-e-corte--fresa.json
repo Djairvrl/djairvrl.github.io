@@ -1,0 +1,44 @@
+{
+  "title": "FRESA",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria fresa em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "FRESA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12818",
+      "title": "FRESA DE GRAVAR DREMEL",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "26159903HA000",
+      "category": "FRESA",
+      "categorySlug": "fresa",
+      "path": "/fresa-de-gravar-dremel-12818",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--fresa"
+  }
+}

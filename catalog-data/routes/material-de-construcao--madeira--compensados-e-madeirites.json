@@ -1,0 +1,95 @@
+{
+  "title": "COMPENSADOS E MADEIRITES",
+  "parentLabel": "Madeira",
+  "description": "Produtos da categoria compensados e madeirites em madeira.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Madeira",
+      "to": "/material-de-construcao/madeira"
+    },
+    {
+      "label": "COMPENSADOS E MADEIRITES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1817",
+      "title": "COMPENSADO 15MM 220 X 160 CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "1963",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/compensado-15mm-220-x-160-cm-1817",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "6768",
+      "title": "COMPENSADO PARICA 15MM 2.20X1,60",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "1330",
+      "manufacturerCode": "32823",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/compensado-parica-15mm-220x160-6768",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "7406",
+      "title": "DURATEX MDF BRANCO 15MM 2FC 275X185",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "supplierCode": "563",
+      "manufacturerCode": "2107",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/duratex-mdf-branco-15mm-2fc-275x185-7406",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "6769",
+      "title": "MDF FLORA 09MM 1F ACAI WOOD",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "1330",
+      "manufacturerCode": "32674",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/mdf-flora-09mm-1f-acai-wood-6769",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "material-de-construcao--madeira--compensados-e-madeirites"
+  }
+}

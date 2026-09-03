@@ -1,0 +1,70 @@
+{
+  "title": "TUBOMED",
+  "parentLabel": "Marca",
+  "description": "Produtos TUBOMED disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TUBOMED"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12264",
+      "title": "BIOMBO TRIPLO COM RODIZIO - (TUBOMED)",
+      "brand": "TUBOMED",
+      "brandCode": "1054",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "102482",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/biombo-triplo-com-rodizio--tubomed-12264",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12265",
+      "title": "ESCADA C/ 2 DEGRAUS INOX 80KG - TUBOMED",
+      "brand": "TUBOMED",
+      "brandCode": "1054",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "101839",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/escada-c-2-degraus-inox-80kg--tubomed-12265",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12262",
+      "title": "SUPORTE SORO FIXO ESMALTADO C/RODIZIO",
+      "brand": "TUBOMED",
+      "brandCode": "1054",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "101841",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/suporte-soro-fixo-esmaltado-crodizio-12262",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1054--tubomed"
+  }
+}

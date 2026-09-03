@@ -1,0 +1,95 @@
+{
+  "title": "TESOURAS",
+  "parentLabel": "Ferramentas de Jardinagem",
+  "description": "Produtos da categoria tesouras em ferramentas de jardinagem.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas de Jardinagem",
+      "to": "/ferramentas/ferramentas-de-jardinagem"
+    },
+    {
+      "label": "TESOURAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "520",
+      "title": "TESOURA CORTA GALHOS 710MM CABO EM ACO",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "605208",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-corta-galhos-710mm-cabo-em-aco-520",
+      "image": "/products/images/0005/520.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "1656",
+      "title": "TESOURA DE PODA PROFISSIONAL EM INOX",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "78316501",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-de-poda-profissional-em-inox-1656",
+      "image": "/products/images/0016/1656.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "521",
+      "title": "TESOURA P/PODA 200MM C/MOLA CABO METAL",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "605328",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-ppoda-200mm-cmola-cabo-metal-521",
+      "image": "/products/images/0005/521.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "3699",
+      "title": "TESOURAO DE PODA C/CABO 60CM",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "78360/505",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesourao-de-poda-ccabo-60cm-3699",
+      "image": "/products/images/0036/3699.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--ferramentas-de-jardinagem--tesouras"
+  }
+}

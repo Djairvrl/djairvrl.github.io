@@ -1,0 +1,61 @@
+{
+  "title": "CERTIFICADORES DE CABOS DE REDE",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria certificadores de cabos de rede em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "CERTIFICADORES DE CABOS DE REDE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11729",
+      "title": "CERTIF DSX-602 WIFI COBRE C/ADAPT CANAL",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "DSX-602 INT",
+      "category": "CERTIFICADORES DE CABOS DE REDE",
+      "categorySlug": "certificadores-de-cabos-de-rede",
+      "path": "/certif-dsx602-wifi-cobre-cadapt-canal-11729",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10723",
+      "title": "CERTIFICADOR DSX2-5000 1GHZ C/ WIFI DSX2",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4955000",
+      "category": "CERTIFICADORES DE CABOS DE REDE",
+      "categorySlug": "certificadores-de-cabos-de-rede",
+      "path": "/certificador-dsx25000-1ghz-c-wifi-dsx2-10723",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--certificadores-de-cabos-de-rede"
+  }
+}

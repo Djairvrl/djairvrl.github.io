@@ -1,0 +1,112 @@
+{
+  "title": "GRAMPO E CUPILHA",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria grampo e cupilha em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "GRAMPO E CUPILHA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4291",
+      "title": "CUPILHA DE FERRO GALVANIZADO 1/16 X 1/2",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "235911",
+      "category": "GRAMPO E CUPILHA",
+      "categorySlug": "grampo-e-cupilha",
+      "path": "/cupilha-de-ferro-galvanizado-116-x-12-4291",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "4293",
+      "title": "CUPILHA DE FERRO ZINCADO 1/4 X 1. 3/4",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "235913",
+      "category": "GRAMPO E CUPILHA",
+      "categorySlug": "grampo-e-cupilha",
+      "path": "/cupilha-de-ferro-zincado-14-x-1-34-4293",
+      "image": "/products/images/0042/4293.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "4294",
+      "title": "CUPILHA DE FERRO ZINCADO 5/16 X 4",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "235914",
+      "category": "GRAMPO E CUPILHA",
+      "categorySlug": "grampo-e-cupilha",
+      "path": "/cupilha-de-ferro-zincado-516-x-4-4294",
+      "image": "/products/images/0042/4294.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "4292",
+      "title": "CUPILHA DE FERRO ZINCADO 5/32 X 1. 1/4",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "235912",
+      "category": "GRAMPO E CUPILHA",
+      "categorySlug": "grampo-e-cupilha",
+      "path": "/cupilha-de-ferro-zincado-532-x-1-14-4292",
+      "image": "/products/images/0042/4292.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "4798",
+      "title": "GRAMPO CABO ACO 5/16",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1830",
+      "category": "GRAMPO E CUPILHA",
+      "categorySlug": "grampo-e-cupilha",
+      "path": "/grampo-cabo-aco-516-4798",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--grampo-e-cupilha"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "title": "BOTÕES E SINALEIROS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria botões e sinaleiros em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "BOTÕES E SINALEIROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11005",
+      "title": "BOTAO COMD RED/VD 22MM 100-240V 1NA",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "36759",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botao-comd-redvd-22mm-100240v-1na-11005",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7894",
+      "title": "BOTAO DE PULSO ILUMI 22MM VERDE 220V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "VTM5756",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botao-de-pulso-ilumi-22mm-verde-220v-7894",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7805",
+      "title": "BOTAO DE PULSO ILUMI 22MM VERMELHO 220V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1845",
+      "manufacturerCode": "VTM5757",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botao-de-pulso-ilumi-22mm-vermelho-220v-7805",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12077",
+      "title": "BOTOEIRA PLAS AM BOT.EMERG 40MM CP1-E",
+      "brand": "METALTEX",
+      "brandCode": "538",
+      "supplier": "DIGEL ELETRICA LTDA",
+      "supplierCode": "5495",
+      "manufacturerCode": "2249",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botoeira-plas-am-botemerg-40mm-cp1e-12077",
+      "image": "/products/images/0120/12077.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11174",
+      "title": "SINALEIRO CEW-SM1-D23 MONO 22MM VERMELHO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SMARTFLOW TECNOLOGIA LTDA",
+      "supplierCode": "4660",
+      "manufacturerCode": "0,0001",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/sinaleiro-cewsm1d23-mono-22mm-vermelho-11174",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11176",
+      "title": "SINALEIRO CEW-SM2-D23 MONO 22MM VERDE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SMARTFLOW TECNOLOGIA LTDA",
+      "supplierCode": "4660",
+      "manufacturerCode": "10046531",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/sinaleiro-cewsm2d23-mono-22mm-verde-11176",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7796",
+      "title": "SINALEIRO LED 220VCC/VCA AMARLO 22MM MON",
+      "brand": "VIEW TECH",
+      "brandCode": "539",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "PLML3L220",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/sinaleiro-led-220vccvca-amarlo-22mm-mon-7796",
+      "image": "/products/images/0077/7796.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--botoes-e-sinaleiros"
+  }
+}

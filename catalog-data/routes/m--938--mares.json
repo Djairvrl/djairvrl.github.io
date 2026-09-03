@@ -1,0 +1,36 @@
+{
+  "title": "MARES",
+  "parentLabel": "Marca",
+  "description": "Produtos MARES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11415",
+      "title": "PLASTICO P/ PLASTIFICACAO A4 100UN 0,05M",
+      "brand": "MARES",
+      "brandCode": "938",
+      "supplier": "SB OFFICE COMERCIO VAREJISTA DE ARTIGOS DE PAPELARIA LTDA",
+      "supplierCode": "4949",
+      "manufacturerCode": "7898067614567",
+      "category": "INSUMOS",
+      "categorySlug": "insumos",
+      "path": "/plastico-p-plastificacao-a4-100un-005m-11415",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--938--mares"
+  }
+}

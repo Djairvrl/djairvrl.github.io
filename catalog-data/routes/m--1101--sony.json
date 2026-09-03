@@ -1,0 +1,36 @@
+{
+  "title": "SONY",
+  "parentLabel": "Marca",
+  "description": "Produtos SONY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SONY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12637",
+      "title": "BOLSA LCS-U11 SONY PARA CAMERA (BLACK)",
+      "brand": "SONY",
+      "brandCode": "1101",
+      "supplier": "LOJA DOS MARIOS IMPORTACAO E COMERCIO DE CAMERAS LTDA",
+      "supplierCode": "3366",
+      "manufacturerCode": "LMBAGS-0056",
+      "category": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+      "categorySlug": "acessorios-para-transporte-e-protecao",
+      "path": "/bolsa-lcsu11-sony-para-camera-black-12637",
+      "image": "/products/images/0126/12637.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1101--sony"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Higiene Pessoal e Banheiro",
+  "parentLabel": "Suprimentos Corporativos",
+  "description": "Soluções de higiene pessoal e banheiro disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Higiene Pessoal e Banheiro"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "suprimentos-corporativos--higiene-pessoal-e-banheiro"
+  }
+}

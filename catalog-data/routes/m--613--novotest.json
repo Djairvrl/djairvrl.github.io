@@ -1,0 +1,36 @@
+{
+  "title": "NOVOTEST",
+  "parentLabel": "Marca",
+  "description": "Produtos NOVOTEST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NOVOTEST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8730",
+      "title": "DINAMOMET DIG 500KGF RES 0,01KGF",
+      "brand": "NOVOTEST",
+      "brandCode": "613",
+      "supplier": "TECNOFERRAMENTAS COMERCIAL, IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+      "supplierCode": "2187",
+      "manufacturerCode": "FM-204-500",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/dinamomet-dig-500kgf-res-001kgf-8730",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--613--novotest"
+  }
+}

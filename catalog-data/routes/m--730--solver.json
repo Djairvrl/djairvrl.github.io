@@ -1,0 +1,70 @@
+{
+  "title": "SOLVER",
+  "parentLabel": "Marca",
+  "description": "Produtos SOLVER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOLVER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9852",
+      "title": "LANTERNA DE CABEÇA RECARREGÁVEL COM SENSOR SLP-12 LED  SOLVER REF  S21LP12",
+      "brand": "SOLVER",
+      "brandCode": "730",
+      "supplier": "SOLVER IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "2741",
+      "manufacturerCode": "S21LP12",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-de-cabeca-recarregavel-com-sensor-slp12-led-solver-ref-s21lp12-9852",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "12216",
+      "title": "LUPA DE MAO BIFOCAL2,5X+8X SLP-195LED/UV",
+      "brand": "SOLVER",
+      "brandCode": "730",
+      "supplier": "SOLVER IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "2741",
+      "manufacturerCode": "S21L195",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/lupa-de-mao-bifocal25x8x-slp195leduv-12216",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12203",
+      "title": "LUPA SUPORTE FERRO SOLDA LED SLP-100",
+      "brand": "SOLVER",
+      "brandCode": "730",
+      "supplier": "SOLVER IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "2741",
+      "manufacturerCode": "S21L203",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/lupa-suporte-ferro-solda-led-slp100-12203",
+      "image": "/products/images/0122/12203.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--730--solver"
+  }
+}

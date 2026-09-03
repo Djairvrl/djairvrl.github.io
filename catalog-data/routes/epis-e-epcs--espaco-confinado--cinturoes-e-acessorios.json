@@ -1,0 +1,61 @@
+{
+  "title": "CINTURÕES E ACESSÓRIOS",
+  "parentLabel": "Espaço Confinado",
+  "description": "Produtos da categoria cinturões e acessórios em espaço confinado.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Espaço Confinado",
+      "to": "/epis-e-epcs/espaco-confinado"
+    },
+    {
+      "label": "CINTURÕES E ACESSÓRIOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10974",
+      "title": "CINTURAO G/XG AVANTI TAMARIN HARNESS",
+      "brand": "AVANTI",
+      "brandCode": "117",
+      "supplier": "AVANTI BRASIL SISTEMAS EOLICOS",
+      "supplierCode": "315",
+      "manufacturerCode": "SS182030",
+      "category": "CINTURÕES E ACESSÓRIOS",
+      "categorySlug": "cinturoes-e-acessorios",
+      "path": "/cinturao-gxg-avanti-tamarin-harness-10974",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    },
+    {
+      "code": "9441",
+      "title": "RESGATADOR CABO ACO GALV 15M",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USR009032",
+      "category": "CINTURÕES E ACESSÓRIOS",
+      "categorySlug": "cinturoes-e-acessorios",
+      "path": "/resgatador-cabo-aco-galv-15m-9441",
+      "image": "/products/images/0094/9441.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--espaco-confinado--cinturoes-e-acessorios"
+  }
+}

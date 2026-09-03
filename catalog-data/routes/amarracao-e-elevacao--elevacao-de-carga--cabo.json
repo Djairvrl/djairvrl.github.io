@@ -1,0 +1,112 @@
+{
+  "title": "CABO",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria cabo em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "CABO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5454",
+      "title": "CABO 8X26 WG6",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "61",
+      "category": "CABO",
+      "categorySlug": "cabo",
+      "path": "/cabo-8x26-wg6-5454",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12551",
+      "title": "CABO DE ACO GALVANIZADO FIBRA 9,53MM 3/8",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3522095619",
+      "category": "CABO",
+      "categorySlug": "cabo",
+      "path": "/cabo-de-aco-galvanizado-fibra-953mm-38-12551",
+      "image": "/products/images/0125/12551.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "10624",
+      "title": "CLIPS P CACO DE ACO 1/4\" - 6,4MM",
+      "brand": "NOVE54",
+      "brandCode": "222",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3560900014",
+      "category": "CABO",
+      "categorySlug": "cabo",
+      "path": "/clips-p-caco-de-aco-14--64mm-10624",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12435",
+      "title": "ESTROPO DE ACO GALVANIZADO 3/8 X 1,5M",
+      "brand": "ALCABOS",
+      "brandCode": "1079",
+      "supplier": "JR SERVICOS E COMERCIO LTDA",
+      "supplierCode": "5713",
+      "manufacturerCode": "CA38619AA1,5",
+      "category": "CABO",
+      "categorySlug": "cabo",
+      "path": "/estropo-de-aco-galvanizado-38-x-15m-12435",
+      "image": "/products/images/0124/12435.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "11372",
+      "title": "LACO MRSG 1105 5/16 X 2,5 MTRS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CABOS DE ACO CARIOCA LTDA",
+      "supplierCode": "4865",
+      "manufacturerCode": "006418",
+      "category": "CABO",
+      "categorySlug": "cabo",
+      "path": "/laco-mrsg-1105-516-x-25-mtrs-11372",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--cabo"
+  }
+}

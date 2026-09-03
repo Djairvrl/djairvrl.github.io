@@ -1,0 +1,163 @@
+{
+  "title": "ABRIGOS",
+  "parentLabel": "Dispositivos e Acessórios",
+  "description": "Produtos da categoria abrigos em dispositivos e acessórios.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio",
+      "to": "/combate-a-incendio"
+    },
+    {
+      "label": "Dispositivos e Acessórios",
+      "to": "/combate-a-incendio/dispositivos-e-acessorios"
+    },
+    {
+      "label": "ABRIGOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8862",
+      "title": "ABRIGO DE PLASTICO PARA EXTINTOR DE 4KG",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "1505",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-de-plastico-para-extintor-de-4kg-8862",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "10376",
+      "title": "ABRIGO EM ACO GALVANIZ VERDE 75X30 25CM",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "ABG17032025",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-em-aco-galvaniz-verde-75x30-25cm-10376",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "10383",
+      "title": "ABRIGO EXTINTOR C RODAS 150 X 75 X 90 CM",
+      "brand": "MOCELIN",
+      "brandCode": "443",
+      "supplier": "MOCELIN INDUSTRIA DE EXTINTORES LTDA",
+      "supplierCode": "1577",
+      "manufacturerCode": "1814",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-extintor-c-rodas-150-x-75-x-90-cm-10383",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "10385",
+      "title": "ABRIGO EXTINTOR EM ACO CARBON 70X30X25CM",
+      "brand": "MOCELIN",
+      "brandCode": "443",
+      "supplier": "MOCELIN INDUSTRIA DE EXTINTORES LTDA",
+      "supplierCode": "1577",
+      "manufacturerCode": "1896",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-extintor-em-aco-carbon-70x30x25cm-10385",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "6101",
+      "title": "ABRIGO P/EXTINTOR POLIPROPILENO 6KG",
+      "brand": "DAKEN",
+      "brandCode": "341",
+      "supplier": "BEONLI COMERCIO ELETRONICO EIRELI",
+      "supplierCode": "1348",
+      "manufacturerCode": "12800020005",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-pextintor-polipropileno-6kg-6101",
+      "image": "/products/images/0061/6101.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9974",
+      "title": "ABRIGO PARA EXTINTOR  4/6KG REGON  DAKEN REF 82170",
+      "brand": "DAKEN",
+      "brandCode": "341",
+      "supplier": "DAKEN BRASIL LTDA",
+      "supplierCode": "1832",
+      "manufacturerCode": "DKB82170",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-para-extintor-46kg-regon-daken-ref-82170-9974",
+      "image": "/products/images/0099/9974.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "7757",
+      "title": "ABRIGO PARA EXTINTOR 335 X 715 X 240MM 6/9KG - DAKEN REGON 82130",
+      "brand": "DAKEN",
+      "brandCode": "341",
+      "supplier": "DAKEN BRASIL LTDA",
+      "supplierCode": "1832",
+      "manufacturerCode": "DKB82130",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-para-extintor-335-x-715-x-240mm-69kg--daken-regon-82130-7757",
+      "image": "/products/images/0077/7757.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "4600",
+      "title": "ABRIGO PLASTICO EXTINTOR GRANDE",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "1300.85014",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-plastico-extintor-grande-4600",
+      "image": "/products/images/0046/4600.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "combate-a-incendio--dispositivos-e-acessorios--abrigos"
+  }
+}

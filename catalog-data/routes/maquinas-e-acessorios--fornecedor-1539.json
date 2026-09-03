@@ -1,0 +1,461 @@
+{
+  "title": "Máquinas e Acessórios",
+  "parentLabel": "Departamento",
+  "description": "Produtos de SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA. neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios"
+    }
+  ],
+  "children": [
+    {
+      "name": "Geradores e Energia Auxiliar",
+      "slug": "geradores-e-energia-auxiliar",
+      "path": "/maquinas-e-acessorios/geradores-e-energia-auxiliar",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Motores, Motobombas e Compressores",
+      "slug": "motores-motobombas-e-compressores",
+      "path": "/maquinas-e-acessorios/motores-motobombas-e-compressores",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Equipamentos e Força Hidráulica",
+      "slug": "equipamentos-e-forca-hidraulica",
+      "path": "/maquinas-e-acessorios/equipamentos-e-forca-hidraulica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Lavadoras e Aspiradores Industriais",
+      "slug": "lavadoras-e-aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/lavadoras-e-aspiradores-industriais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Solda Industrial, Corte e Oxi-Combustível",
+      "slug": "solda-industrial-corte-e-oxi-combustivel",
+      "path": "/maquinas-e-acessorios/solda-industrial-corte-e-oxi-combustivel",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Usinagem CNC, Implementos e Climatização",
+      "slug": "usinagem-cnc-implementos-e-climatizacao",
+      "path": "/maquinas-e-acessorios/usinagem-cnc-implementos-e-climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Aspiradores Industriais",
+      "slug": "aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/aspiradores-industriais",
+      "count": 27,
+      "categories": [
+        {
+          "name": "ASPIRADORES DE PÓ INDUSTRIAL",
+          "slug": "aspiradores-de-po-industrial",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-de-po-industrial",
+          "count": 9
+        },
+        {
+          "name": "ASPIRADORES PORTÁTEIS",
+          "slug": "aspiradores-portateis",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-portateis",
+          "count": 17
+        },
+        {
+          "name": "EXTRATORAS",
+          "slug": "extratoras",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/extratoras",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Climatização Industrial",
+      "slug": "climatizacao-industrial",
+      "path": "/maquinas-e-acessorios/climatizacao-industrial",
+      "count": 2,
+      "categories": [
+        {
+          "name": "SECADOR E AQUECEDOR INDUSTRIAL",
+          "slug": "secador-e-aquecedor-industrial",
+          "path": "/maquinas-e-acessorios/climatizacao-industrial/secador-e-aquecedor-industrial",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Compressores",
+      "slug": "compressores",
+      "path": "/maquinas-e-acessorios/compressores",
+      "count": 30,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/compressores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "COMPRESSORES DE AR ELÉTRICOS",
+          "slug": "compressores-de-ar-eletricos",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-eletricos",
+          "count": 13
+        },
+        {
+          "name": "COMPRESSORES DE AR PORTÁTEIS",
+          "slug": "compressores-de-ar-portateis",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-portateis",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos Hidráulicos",
+      "slug": "equipamentos-hidraulicos",
+      "path": "/maquinas-e-acessorios/equipamentos-hidraulicos",
+      "count": 55,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS HIDRÁULICOS",
+          "slug": "acessorios-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/acessorios-hidraulicos",
+          "count": 14
+        },
+        {
+          "name": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+          "slug": "alicates-de-crimpagem-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/alicates-de-crimpagem-hidraulicos",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TESTE HIDROSTÁTICO",
+          "slug": "bombas-de-teste-hidrostatico",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-de-teste-hidrostatico",
+          "count": 3
+        },
+        {
+          "name": "BOMBAS HIDRÁULICAS",
+          "slug": "bombas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "CILINDROS HIDRÁULICOS",
+          "slug": "cilindros-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/cilindros-hidraulicos",
+          "count": 12
+        },
+        {
+          "name": "MACACOS HIDRÁULICOS",
+          "slug": "macacos-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/macacos-hidraulicos",
+          "count": 11
+        },
+        {
+          "name": "PRENSAS HIDRÁULICAS",
+          "slug": "prensas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/prensas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "VÁLVULAS HIDRÁULICAS",
+          "slug": "valvulas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/valvulas-hidraulicas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Geradores",
+      "slug": "geradores",
+      "path": "/maquinas-e-acessorios/geradores",
+      "count": 26,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/geradores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "GERADORES A DIESEL",
+          "slug": "geradores-a-diesel",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-diesel",
+          "count": 2
+        },
+        {
+          "name": "GERADORES A GASOLINA",
+          "slug": "geradores-a-gasolina",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-gasolina",
+          "count": 3
+        },
+        {
+          "name": "GERADORES ESTACIONÁRIOS",
+          "slug": "geradores-estacionarios",
+          "path": "/maquinas-e-acessorios/geradores/geradores-estacionarios",
+          "count": 1
+        },
+        {
+          "name": "GERADORES PORTÁTEIS",
+          "slug": "geradores-portateis",
+          "path": "/maquinas-e-acessorios/geradores/geradores-portateis",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Lavadoras De Alta Pressão",
+      "slug": "lavadoras-de-alta-pressao",
+      "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao",
+      "count": 17,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/acessorios",
+          "count": 1
+        },
+        {
+          "name": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+          "slug": "lavadoras-de-alta-pressao-industriais",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadoras-de-alta-pressao-industriais",
+          "count": 6
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+          "slug": "lavadores-de-alta-pressao-eletricas",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-eletricas",
+          "count": 7
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS",
+          "slug": "lavadores-de-alta-pressao-portateis",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-portateis",
+          "count": 1
+        },
+        {
+          "name": "MANGUEIRAS DE ALTA PRESSÃO",
+          "slug": "mangueiras-de-alta-pressao",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/mangueiras-de-alta-pressao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Motores",
+      "slug": "motores",
+      "path": "/maquinas-e-acessorios/motores",
+      "count": 28,
+      "categories": [
+        {
+          "name": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+          "slug": "bombas-de-agua-e-motobombas",
+          "path": "/maquinas-e-acessorios/motores/bombas-de-agua-e-motobombas",
+          "count": 13
+        },
+        {
+          "name": "MOTORES DE COMBUSTÃO INTERNA",
+          "slug": "motores-de-combustao-interna",
+          "path": "/maquinas-e-acessorios/motores/motores-de-combustao-interna",
+          "count": 3
+        },
+        {
+          "name": "MOTORES ELÉTRICOS MONOFÁSICOS",
+          "slug": "motores-eletricos-monofasicos",
+          "path": "/maquinas-e-acessorios/motores/motores-eletricos-monofasicos",
+          "count": 1
+        },
+        {
+          "name": "MOTORES PARA PORTÃO",
+          "slug": "motores-para-portao",
+          "path": "/maquinas-e-acessorios/motores/motores-para-portao",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Máquinas Cnc",
+      "slug": "maquinas-cnc",
+      "path": "/maquinas-e-acessorios/maquinas-cnc",
+      "count": 1,
+      "categories": [
+        {
+          "name": "ROUTER CNC",
+          "slug": "router-cnc",
+          "path": "/maquinas-e-acessorios/maquinas-cnc/router-cnc",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Solda Industrial",
+      "slug": "solda-industrial",
+      "path": "/maquinas-e-acessorios/solda-industrial",
+      "count": 142,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/solda-industrial/acessorios",
+          "count": 5
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/maquinas-e-acessorios/solda-industrial/bocais",
+          "count": 6
+        },
+        {
+          "name": "CORTE PLASMA",
+          "slug": "corte-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/corte-plasma",
+          "count": 4
+        },
+        {
+          "name": "DESSOLDADORES",
+          "slug": "dessoldadores",
+          "path": "/maquinas-e-acessorios/solda-industrial/dessoldadores",
+          "count": 1
+        },
+        {
+          "name": "ELETRODO REVESTIDO",
+          "slug": "eletrodo-revestido",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-revestido",
+          "count": 17
+        },
+        {
+          "name": "ELETRODO TIG",
+          "slug": "eletrodo-tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-tig",
+          "count": 6
+        },
+        {
+          "name": "EQUIPAMENTO A GÁS",
+          "slug": "equipamento-a-gas",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-a-gas",
+          "count": 8
+        },
+        {
+          "name": "EQUIPAMENTO DE PLASMA",
+          "slug": "equipamento-de-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-de-plasma",
+          "count": 1
+        },
+        {
+          "name": "FERRAMENTAS",
+          "slug": "ferramentas",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferramentas",
+          "count": 9
+        },
+        {
+          "name": "FERRO DE SOLDA",
+          "slug": "ferro-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferro-de-solda",
+          "count": 12
+        },
+        {
+          "name": "LIMPEZA DE SOLDA",
+          "slug": "limpeza-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/limpeza-de-solda",
+          "count": 12
+        },
+        {
+          "name": "MAQUINA DE SOLDA",
+          "slug": "maquina-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/maquina-de-solda",
+          "count": 10
+        },
+        {
+          "name": "MIG/MAG",
+          "slug": "mig-mag",
+          "path": "/maquinas-e-acessorios/solda-industrial/mig-mag",
+          "count": 7
+        },
+        {
+          "name": "MINI-MAÇARICOS",
+          "slug": "mini-macaricos",
+          "path": "/maquinas-e-acessorios/solda-industrial/mini-macaricos",
+          "count": 6
+        },
+        {
+          "name": "MULTIPROCESSO",
+          "slug": "multiprocesso",
+          "path": "/maquinas-e-acessorios/solda-industrial/multiprocesso",
+          "count": 1
+        },
+        {
+          "name": "OXI-COMBUSTÍVEL",
+          "slug": "oxi-combustivel",
+          "path": "/maquinas-e-acessorios/solda-industrial/oxi-combustivel",
+          "count": 4
+        },
+        {
+          "name": "REGULADOR",
+          "slug": "regulador",
+          "path": "/maquinas-e-acessorios/solda-industrial/regulador",
+          "count": 10
+        },
+        {
+          "name": "RETIFICADOR",
+          "slug": "retificador",
+          "path": "/maquinas-e-acessorios/solda-industrial/retificador",
+          "count": 1
+        },
+        {
+          "name": "TIG",
+          "slug": "tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/tig",
+          "count": 1
+        },
+        {
+          "name": "TOCHAS",
+          "slug": "tochas",
+          "path": "/maquinas-e-acessorios/solda-industrial/tochas",
+          "count": 9
+        },
+        {
+          "name": "VARETA DE SOLDA",
+          "slug": "vareta-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/vareta-de-solda",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1539",
+    "name": "SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA."
+  },
+  "products": [
+    {
+      "code": "9676",
+      "title": "ALICATE CRIMPADOR HIDRÁULICO A BATERIA 20V ACW400  WORKER REF 300844",
+      "brand": "WORKER",
+      "brandCode": "421",
+      "supplier": "SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.",
+      "supplierCode": "1539",
+      "manufacturerCode": "300844",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-hidraulico-a-bateria-20v-acw400-worker-ref-300844-9676",
+      "image": "/products/images/0096/9676.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--fornecedor-1539"
+  }
+}

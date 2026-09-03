@@ -1,0 +1,61 @@
+{
+  "title": "KITS DE BLOQUEIO LOTO",
+  "parentLabel": "Kits De Bloqueio",
+  "description": "Produtos da categoria kits de bloqueio loto em kits de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Kits De Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/kits-de-bloqueio"
+    },
+    {
+      "label": "KITS DE BLOQUEIO LOTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11788",
+      "title": "KIT CADEADO BLOQ 5PCS TAGOUT",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CPVM140CDKIT",
+      "category": "KITS DE BLOQUEIO LOTO",
+      "categorySlug": "kits-de-bloqueio-loto",
+      "path": "/kit-cadeado-bloq-5pcs-tagout-11788",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Kits De Bloqueio",
+      "sectionSlug": "kits-de-bloqueio"
+    },
+    {
+      "code": "6659",
+      "title": "KIT LOTUS NA BOLSA ACCIONA",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "KIT LOTUS",
+      "category": "KITS DE BLOQUEIO LOTO",
+      "categorySlug": "kits-de-bloqueio-loto",
+      "path": "/kit-lotus-na-bolsa-acciona-6659",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Kits De Bloqueio",
+      "sectionSlug": "kits-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "bloqueio-e-etiquetagem--kits-de-bloqueio--kits-de-bloqueio-loto"
+  }
+}

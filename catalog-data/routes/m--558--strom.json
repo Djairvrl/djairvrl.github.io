@@ -1,0 +1,36 @@
+{
+  "title": "STROM",
+  "parentLabel": "Marca",
+  "description": "Produtos STROM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STROM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8087",
+      "title": "MACACO HIDRAULIC 500KG T390102 LD J11052",
+      "brand": "STROM",
+      "brandCode": "558",
+      "supplier": "HORUS FERRAMENTAS E PECAS LTDA",
+      "supplierCode": "1927",
+      "manufacturerCode": "203617",
+      "category": "MACACOS HIDRÁULICOS",
+      "categorySlug": "macacos-hidraulicos",
+      "path": "/macaco-hidraulic-500kg-t390102-ld-j11052-8087",
+      "image": "/products/images/0080/8087.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--558--strom"
+  }
+}

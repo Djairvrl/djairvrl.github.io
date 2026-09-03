@@ -1,0 +1,95 @@
+{
+  "title": "SENSORES",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria sensores em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "SENSORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11090",
+      "title": "MEDIDOR NIVEL CAIXA DAGUA P/1000 - 2000L",
+      "brand": "JAMECO",
+      "brandCode": "876",
+      "supplier": "JAMECO EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "4482",
+      "manufacturerCode": "MLB3612421797",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/medidor-nivel-caixa-dagua-p1000--2000l-11090",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11783",
+      "title": "MEDIDOR SENSOR NIVEL CX DAGUA 20.000 LT",
+      "brand": "FORTLEV",
+      "brandCode": "228",
+      "supplier": "JAMECO EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "4482",
+      "manufacturerCode": "MLB2711869896",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/medidor-sensor-nivel-cx-dagua-20000-lt-11783",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10520",
+      "title": "SENSOR DE TEMPERATURA",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "J C DA SILVA & CIA LTDA",
+      "supplierCode": "3679",
+      "manufacturerCode": "TMC20-HD",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/sensor-de-temperatura-10520",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10522",
+      "title": "SENSOR TEMP/UMID AR C/ SAIDA ANALOGICA",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "J C DA SILVA & CIA LTDA",
+      "supplierCode": "3679",
+      "manufacturerCode": "HTP201-M1A3E8KL300",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/sensor-tempumid-ar-c-saida-analogica-10522",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--sensores"
+  }
+}

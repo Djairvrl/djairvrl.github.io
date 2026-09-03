@@ -1,0 +1,524 @@
+{
+  "title": "Spare Parts Energy",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FORJASUL CANOAS SA INDUSTRIA METALURGICA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy"
+    }
+  ],
+  "children": [
+    {
+      "name": "Componentes Hidráulicos e Refrigeração",
+      "slug": "componentes-hidraulicos-e-refrigeracao",
+      "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao",
+      "count": 72,
+      "categories": [
+        {
+          "name": "ACUMULADORES",
+          "slug": "acumuladores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/acumuladores",
+          "count": 1
+        },
+        {
+          "name": "CILINDROS",
+          "slug": "cilindros",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/cilindros",
+          "count": 6
+        },
+        {
+          "name": "CONECTORES E ADAPTADORES",
+          "slug": "conectores-e-adaptadores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/conectores-e-adaptadores",
+          "count": 14
+        },
+        {
+          "name": "INDICADORES DE NÍVEL / TEMPERATURA",
+          "slug": "indicadores-de-nivel-temperatura",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/indicadores-de-nivel-temperatura",
+          "count": 3
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/mangueiras",
+          "count": 6
+        },
+        {
+          "name": "SISTEMAS FILTRANTES",
+          "slug": "sistemas-filtrantes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/sistemas-filtrantes",
+          "count": 22
+        },
+        {
+          "name": "VEDAÇÕES",
+          "slug": "vedacoes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/vedacoes",
+          "count": 16
+        },
+        {
+          "name": "VÁLVULAS",
+          "slug": "valvulas",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/valvulas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Componentes Mecânicos",
+      "slug": "componentes-mecanicos",
+      "path": "/spare-parts-energy/componentes-mecanicos",
+      "count": 13,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE ENGRENAGEM",
+          "slug": "acessorios-de-engrenagem",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-de-engrenagem",
+          "count": 1
+        },
+        {
+          "name": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+          "slug": "acessorios-para-equipamentos-pesados",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-para-equipamentos-pesados",
+          "count": 4
+        },
+        {
+          "name": "ACOPLAMENTOS",
+          "slug": "acoplamentos",
+          "path": "/spare-parts-energy/componentes-mecanicos/acoplamentos",
+          "count": 3
+        },
+        {
+          "name": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+          "slug": "rolamentos-e-caixas-de-rolamento",
+          "path": "/spare-parts-energy/componentes-mecanicos/rolamentos-e-caixas-de-rolamento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis e Elementos de Fixação",
+      "slug": "consumiveis-e-elementos-de-fixacao",
+      "path": "/spare-parts-energy/consumiveis-e-elementos-de-fixacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Grandes Componentes e Transmissão",
+      "slug": "grandes-componentes-e-transmissao",
+      "path": "/spare-parts-energy/grandes-componentes-e-transmissao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Componentes Elétricos",
+      "slug": "componentes-eletricos",
+      "path": "/spare-parts-energy/componentes-eletricos",
+      "count": 1,
+      "categories": [
+        {
+          "name": "PRESSOSTATO",
+          "slug": "pressostato",
+          "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis",
+      "slug": "consumiveis",
+      "path": "/spare-parts-energy/consumiveis",
+      "count": 66,
+      "categories": [
+        {
+          "name": "FILTROS AMBIENTAIS",
+          "slug": "filtros-ambientais",
+          "path": "/spare-parts-energy/consumiveis/filtros-ambientais",
+          "count": 1
+        },
+        {
+          "name": "FILTROS DE MOTOR",
+          "slug": "filtros-de-motor",
+          "path": "/spare-parts-energy/consumiveis/filtros-de-motor",
+          "count": 13
+        },
+        {
+          "name": "FILTROS HIDRÁULICOS",
+          "slug": "filtros-hidraulicos",
+          "path": "/spare-parts-energy/consumiveis/filtros-hidraulicos",
+          "count": 18
+        },
+        {
+          "name": "PARAFUSOS, PROCAS E FIXADORES",
+          "slug": "parafusos-procas-e-fixadores",
+          "path": "/spare-parts-energy/consumiveis/parafusos-procas-e-fixadores",
+          "count": 19
+        },
+        {
+          "name": "TINTAS E QUÍMICOS",
+          "slug": "tintas-e-quimicos",
+          "path": "/spare-parts-energy/consumiveis/tintas-e-quimicos",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Grandes Componentes",
+      "slug": "grandes-componentes",
+      "path": "/spare-parts-energy/grandes-componentes",
+      "count": 2,
+      "categories": [
+        {
+          "name": "GEARBOX",
+          "slug": "gearbox",
+          "path": "/spare-parts-energy/grandes-componentes/gearbox",
+          "count": 1
+        },
+        {
+          "name": "TRANSFORMADOR",
+          "slug": "transformador",
+          "path": "/spare-parts-energy/grandes-componentes/transformador",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Peças Para Linha De Transmissão",
+      "slug": "pecas-para-linha-de-transmissao",
+      "path": "/spare-parts-energy/pecas-para-linha-de-transmissao",
+      "count": 24,
+      "categories": [
+        {
+          "name": "ESTRUTURAIS",
+          "slug": "estruturais",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/estruturais",
+          "count": 5
+        },
+        {
+          "name": "METÁLICAS",
+          "slug": "metalicas",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/metalicas",
+          "count": 19
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "3342",
+    "name": "FORJASUL CANOAS SA INDUSTRIA METALURGICA"
+  },
+  "products": [
+    {
+      "code": "10241",
+      "title": "ACO CARBONO GALVANIZADO FOGO 120KN 16MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33234504",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/aco-carbono-galvanizado-fogo-120kn-16mm-10241",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10249",
+      "title": "ANEL P/LINHA TRANSMISSAO GALV FOGO 500KV",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33224008",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/anel-plinha-transmissao-galv-fogo-500kv-10249",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10240",
+      "title": "CONCHA GARFO P/LINHA TRANSMISSAO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33234200",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/concha-garfo-plinha-transmissao-10240",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10246",
+      "title": "DUPLICADOR P/LINHA TRANS SIMET GALV240KN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33155707",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/duplicador-plinha-trans-simet-galv240kn-10246",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10243",
+      "title": "DUPLICADOR P/LINHA TRANSMISSAO 120 KN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33153600",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/duplicador-plinha-transmissao-120-kn-10243",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10245",
+      "title": "DUPLICADOR P/LINHA TRANSMISSAO GALV240KN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33150326",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/duplicador-plinha-transmissao-galv240kn-10245",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10253",
+      "title": "ELO BOLA ACO GALV 120KN/16MM/30X60MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33234800",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/elo-bola-aco-galv-120kn16mm30x60mm-10253",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10244",
+      "title": "F1362 ELO 3/4 240KN 66X128 20MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33136200",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/f1362-elo-34-240kn-66x128-20mm-10244",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10237",
+      "title": "F2443-04 RAQUETE CENTRAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33244304",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/f244304-raquete-central-10237",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10238",
+      "title": "F2455-05 RAQUETE CENTRAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33245505",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/f245505-raquete-central-10238",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10252",
+      "title": "GARFO GALV 120KN  16MM 22MM C/PARAF W5/8",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33134000",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/garfo-galv-120kn-16mm-22mm-cparaf-w58-10252",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10236",
+      "title": "GARFO OLHAL 90 GRAUS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33304005",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/garfo-olhal-90-graus-10236",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10247",
+      "title": "GRAMPO CABOS 23,66MM² PLP GAC 01--4- 237",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "34202034",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/grampo-cabos-2366mm2-plp-gac-014-237-10247",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10248",
+      "title": "GRAMPO P/CABO GALV  31,16-31,99MM PLP",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33402491",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/grampo-pcabo-galv-31163199mm-plp-10248",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10251",
+      "title": "MANCAL GALV 240KN/25MM/110MM/230MM/19MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33306304",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/mancal-galv-240kn25mm110mm230mm19mm-10251",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10250",
+      "title": "MANILHA  GALV  7/8 240KN PARAF/PORC 22MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33126001",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/manilha-galv-78-240kn-parafporc-22mm-10250",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10235",
+      "title": "MANILHA 5/8 PORCA E PINO 120KN 22MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33120200",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/manilha-58-porca-e-pino-120kn-22mm-10235",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10242",
+      "title": "TENSOR GARFO GARFO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33171411",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/tensor-garfo-garfo-10242",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 18,
+    "pageBase": "spare-parts-energy--fornecedor-3342"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "EBENEZER",
+  "parentLabel": "Marca",
+  "description": "Produtos EBENEZER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EBENEZER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10139",
+      "title": "LUVAS EM VAQUETA PLUS TAM 11",
+      "brand": "EBENEZER",
+      "brandCode": "752",
+      "supplier": "EBENEZER ARTEFATOS DE COUROS LTDA",
+      "supplierCode": "3154",
+      "manufacturerCode": "LV03-7-11",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luvas-em-vaqueta-plus-tam-11-10139",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--752--ebenezer"
+  }
+}

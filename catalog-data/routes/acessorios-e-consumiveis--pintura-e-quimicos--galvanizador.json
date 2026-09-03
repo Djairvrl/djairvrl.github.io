@@ -1,0 +1,112 @@
+{
+  "title": "GALVANIZADOR",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria galvanizador em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "GALVANIZADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3449",
+      "title": "CRZ GALVANIZAÇÃO A FRIO CINZA FOSCO SPRAY 300ML  ANTICORROSIVO - QUIMATIC",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "DM1",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/crz-galvanizacao-a-frio-cinza-fosco-spray-300ml-anticorrosivo--quimatic-3449",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8222",
+      "title": "GALVALUM GALVANIZAÇÃO ALUMINIZADA A FRIO 3,6 LITROS  ANTICORROSIVO - QUIMATIC DA3",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "DA3",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/galvalum-galvanizacao-aluminizada-a-frio-36-litros-anticorrosivo--quimatic-da3-8222",
+      "image": "/products/images/0082/8222.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3450",
+      "title": "GALVALUM GALVANIZAÇÃO ALUMINIZADA A FRIO SPRAY 300ML ANTICORROSIVO - QUIMATIC DN1",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "DN1",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/galvalum-galvanizacao-aluminizada-a-frio-spray-300ml-anticorrosivo--quimatic-dn1-3450",
+      "image": "/products/images/0034/3450.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10058",
+      "title": "GALVALUMI PRIMER ACABAMENTO  BRANCO 3,6LT BRASILUX",
+      "brand": "BRASILUX",
+      "brandCode": "746",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "68791",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/galvalumi-primer-acabamento-branco-36lt-brasilux-10058",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10298",
+      "title": "ZINCO CLARO PRO - 400ML",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "136",
+      "manufacturerCode": "0893114112",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/zinco-claro-pro--400ml-10298",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--galvanizador"
+  }
+}

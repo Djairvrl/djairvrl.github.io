@@ -1,0 +1,36 @@
+{
+  "title": "EXCENTRIX",
+  "parentLabel": "Marca",
+  "description": "Produtos EXCENTRIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EXCENTRIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6638",
+      "title": "ENCADERNADORA PARA ESPIRAL A4",
+      "brand": "EXCENTRIX",
+      "brandCode": "310",
+      "supplier": "BRASIMAX COMERCIO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMATI",
+      "supplierCode": "1273",
+      "manufacturerCode": "EXEA4",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/encadernadora-para-espiral-a4-6638",
+      "image": "/products/images/0066/6638.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--310--excentrix"
+  }
+}

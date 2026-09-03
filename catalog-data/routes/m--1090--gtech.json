@@ -1,0 +1,36 @@
+{
+  "title": "GTECH",
+  "parentLabel": "Marca",
+  "description": "Produtos GTECH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GTECH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12549",
+      "title": "APARELHO DE PRESSAO DIGITAL AUT DE BRAÇO",
+      "brand": "GTECH",
+      "brandCode": "1090",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "05602",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/aparelho-de-pressao-digital-aut-de-braco-12549",
+      "image": "/products/images/0125/12549.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1090--gtech"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "BEST BATTERY",
+  "parentLabel": "Marca",
+  "description": "Produtos BEST BATTERY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BEST BATTERY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6574",
+      "title": "BATERIA EN-EL20 PARA NIKON",
+      "brand": "BEST BATTERY",
+      "brandCode": "298",
+      "supplier": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "supplierCode": "1234",
+      "manufacturerCode": "2006",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/bateria-enel20-para-nikon-6574",
+      "image": "/products/images/0065/6574.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--298--best-battery"
+  }
+}

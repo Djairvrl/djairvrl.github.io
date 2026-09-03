@@ -1,0 +1,36 @@
+{
+  "title": "SOLUT",
+  "parentLabel": "Marca",
+  "description": "Produtos SOLUT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOLUT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6744",
+      "title": "THINNER MULTIUSO PARA LIMPEZA E DILUIÇÃO 5 LITROS - SOLUT SL10",
+      "brand": "SOLUT",
+      "brandCode": "328",
+      "supplier": "SOLUT QUIMICA INDUSTRIAL LTDA",
+      "supplierCode": "1280",
+      "manufacturerCode": "962",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-multiuso-para-limpeza-e-diluicao-5-litros--solut-sl10-6744",
+      "image": "/products/images/0067/6744.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--328--solut"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "SCARPARO",
+  "parentLabel": "Marca",
+  "description": "Produtos SCARPARO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SCARPARO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12803",
+      "title": "MESA ESCRIVANINHA C/ 2 GAVETAS CINZA",
+      "brand": "SCARPARO",
+      "brandCode": "1137",
+      "supplier": "CASA DOS MOVEIS AFBF LTDA",
+      "supplierCode": "5943",
+      "manufacturerCode": "MESA CINZA COM 2 GAVETAS",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-escrivaninha-c-2-gavetas-cinza-12803",
+      "image": "/products/images/0128/12803.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1137--scarparo"
+  }
+}

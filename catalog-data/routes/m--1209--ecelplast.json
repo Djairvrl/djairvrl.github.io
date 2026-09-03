@@ -1,0 +1,36 @@
+{
+  "title": "ECELPLAST",
+  "parentLabel": "Marca",
+  "description": "Produtos ECELPLAST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ECELPLAST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13258",
+      "title": "LIMITADOR VAGA-SEGREGADOR-90X150X550MM",
+      "brand": "ECELPLAST",
+      "brandCode": "1209",
+      "supplier": "ECELPLAST LTDA",
+      "supplierCode": "6193",
+      "manufacturerCode": "34875",
+      "category": "SINALIZAÇÃO VIÁRIA",
+      "categorySlug": "sinalizacao-viaria",
+      "path": "/limitador-vagasegregador90x150x550mm-13258",
+      "image": "/products/images/0132/13258.png",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1209--ecelplast"
+  }
+}

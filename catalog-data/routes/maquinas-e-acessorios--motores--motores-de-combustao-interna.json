@@ -1,0 +1,78 @@
+{
+  "title": "MOTORES DE COMBUSTÃO INTERNA",
+  "parentLabel": "Motores",
+  "description": "Produtos da categoria motores de combustão interna em motores.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Motores",
+      "to": "/maquinas-e-acessorios/motores"
+    },
+    {
+      "label": "MOTORES DE COMBUSTÃO INTERNA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5953",
+      "title": "MOTOR  DIESEL C/ PARTIDA ELETRI BD-13.0R",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314680",
+      "category": "MOTORES DE COMBUSTÃO INTERNA",
+      "categorySlug": "motores-de-combustao-interna",
+      "path": "/motor-diesel-c-partida-eletri-bd130r-5953",
+      "image": "/products/images/0059/5953.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "2839",
+      "title": "MOTOR B4T6.5H P.M - SEM ALERTA DE OLEO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90313900",
+      "category": "MOTORES DE COMBUSTÃO INTERNA",
+      "categorySlug": "motores-de-combustao-interna",
+      "path": "/motor-b4t65h-pm--sem-alerta-de-oleo-2839",
+      "image": "/products/images/0028/2839.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "9089",
+      "title": "MOTOR BD10.0H XS P.E",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90312215",
+      "category": "MOTORES DE COMBUSTÃO INTERNA",
+      "categorySlug": "motores-de-combustao-interna",
+      "path": "/motor-bd100h-xs-pe-9089",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "maquinas-e-acessorios--motores--motores-de-combustao-interna"
+  }
+}

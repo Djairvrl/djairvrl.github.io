@@ -1,0 +1,146 @@
+{
+  "title": "MACAS E PRANCHAS DE RESGATE",
+  "parentLabel": "Resgate e Salvamento",
+  "description": "Produtos da categoria macas e pranchas de resgate em resgate e salvamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Resgate e Salvamento",
+      "to": "/epis-e-epcs/resgate-e-salvamento"
+    },
+    {
+      "label": "MACAS E PRANCHAS DE RESGATE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12263",
+      "title": "CARRO MACA ESMALTADO C/GRADE E RODIZIO",
+      "brand": "METALLUX",
+      "brandCode": "1055",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "102874",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/carro-maca-esmaltado-cgrade-e-rodizio-12263",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1496",
+      "title": "MACA ENV LARAN P/RESGAT ALTU STR PLUS II",
+      "brand": "TASK",
+      "brandCode": "48",
+      "supplier": "DIRLEI BERNAL TASK",
+      "supplierCode": "1380",
+      "manufacturerCode": "TX-0048",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/maca-env-laran-presgat-altu-str-plus-ii-1496",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "6867",
+      "title": "MACA ENVELOPE EM POLIETILENO COMPLETA",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USM000100000KIT",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/maca-envelope-em-polietileno-completa-6867",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "6857",
+      "title": "MACA ENVELOPE EM POLIETILENO COMPLETA PARA RESGATE - ULTRA SAFE USM0001000",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USM000100000",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/maca-envelope-em-polietileno-completa-para-resgate--ultra-safe-usm0001000-6857",
+      "image": "/products/images/0068/6857.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "11128",
+      "title": "MACA P/ RESGATE TIPO OFF SHORE 1,90X0,57",
+      "brand": "INOVAR MED",
+      "brandCode": "886",
+      "supplier": "INOVAR MED INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4584",
+      "manufacturerCode": "7008318501",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/maca-p-resgate-tipo-off-shore-190x057-11128",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1520",
+      "title": "PRANCHA DE RESGATE EM POLIETILENO ADULTO COM KIT CINTO - SS088",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS088",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/prancha-de-resgate-em-polietileno-adulto-com-kit-cinto--ss088-1520",
+      "image": "/products/images/0015/1520.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1519",
+      "title": "PRANCHA RESGATE COMPESAD NAVAL AD C/CINT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "92526",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/prancha-resgate-compesad-naval-ad-ccint-1519",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--resgate-e-salvamento--macas-e-pranchas-de-resgate"
+  }
+}

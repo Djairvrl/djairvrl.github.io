@@ -1,0 +1,78 @@
+{
+  "title": "SEGURANÇA INDUSTRIAL",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria segurança industrial em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "SEGURANÇA INDUSTRIAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9928",
+      "title": "CENTRAL ALARME CONTRA ROUBO ANM 24 NET",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KGMLAN DISTRIBUIDORA LTDA",
+      "supplierCode": "1641",
+      "manufacturerCode": "4543512",
+      "category": "SEGURANÇA INDUSTRIAL",
+      "categorySlug": "seguranca-industrial",
+      "path": "/central-alarme-contra-roubo-anm-24-net-9928",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9140",
+      "title": "PROTETOR DE CABOS 2 CANAIS 10X13 CINZA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R4 IND E COM DE EQUIP SEGURANÇA EIRELI",
+      "supplierCode": "2403",
+      "manufacturerCode": "R4.RE2.1013.C.",
+      "category": "SEGURANÇA INDUSTRIAL",
+      "categorySlug": "seguranca-industrial",
+      "path": "/protetor-de-cabos-2-canais-10x13-cinza-9140",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12610",
+      "title": "REPETIDOR DIGITAL KD - 11/EX",
+      "brand": "SENSE SENSORES",
+      "brandCode": "1097",
+      "supplier": "TE CONNECTIVITY BRASIL INDUSTRIA DE ELETRONICOS LTDA",
+      "supplierCode": "5797",
+      "manufacturerCode": "52920584-SE",
+      "category": "SEGURANÇA INDUSTRIAL",
+      "categorySlug": "seguranca-industrial",
+      "path": "/repetidor-digital-kd--11ex-12610",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--seguranca-industrial"
+  }
+}

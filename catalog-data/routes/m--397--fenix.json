@@ -1,0 +1,53 @@
+{
+  "title": "FENIX",
+  "parentLabel": "Marca",
+  "description": "Produtos FENIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FENIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6969",
+      "title": "ARQUIVO 4 GAVETAS",
+      "brand": "FENIX",
+      "brandCode": "397",
+      "supplier": "SUPER MATRIZ ACOS LTDA",
+      "supplierCode": "1433",
+      "manufacturerCode": "440121",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/arquivo-4-gavetas-6969",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9600",
+      "title": "BATERIA RECARREGAVEL ALTA CAPACIDADE",
+      "brand": "FENIX",
+      "brandCode": "397",
+      "supplier": "VILA BRASIL MARKETPLACE LTDA",
+      "supplierCode": "2627",
+      "manufacturerCode": "ARB-L21-5000",
+      "category": "PILHAS E BATERIAS",
+      "categorySlug": "pilhas-e-baterias",
+      "path": "/bateria-recarregavel-alta-capacidade-9600",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--397--fenix"
+  }
+}

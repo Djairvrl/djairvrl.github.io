@@ -1,0 +1,44 @@
+{
+  "title": "KIT PINTURA",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria kit pintura em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "KIT PINTURA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6816",
+      "title": "KIT AIR ACESSORIO 5PCS",
+      "brand": "SOMAR",
+      "brandCode": "354",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "10023003",
+      "category": "KIT PINTURA",
+      "categorySlug": "kit-pintura",
+      "path": "/kit-air-acessorio-5pcs-6816",
+      "image": "/products/images/0068/6816.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--kit-pintura"
+  }
+}

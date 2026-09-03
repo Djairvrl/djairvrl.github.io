@@ -1,0 +1,36 @@
+{
+  "title": "NHS",
+  "parentLabel": "Marca",
+  "description": "Produtos NHS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NHS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7644",
+      "title": "NOBREAK NHS PREMIUM PDV SENOIDAL C/3 BAT",
+      "brand": "NHS",
+      "brandCode": "523",
+      "supplier": "NHS SISTEMAS ELETRÔNICOS LTDA",
+      "supplierCode": "1762",
+      "manufacturerCode": "91.A0.010000",
+      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
+      "path": "/nobreak-nhs-premium-pdv-senoidal-c3-bat-7644",
+      "image": "/products/images/0076/7644.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--523--nhs"
+  }
+}

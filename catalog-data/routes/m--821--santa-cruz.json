@@ -1,0 +1,36 @@
+{
+  "title": "SANTA CRUZ",
+  "parentLabel": "Marca",
+  "description": "Produtos SANTA CRUZ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SANTA CRUZ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10849",
+      "title": "ALCOOL LIQUIDO SANTA CRUZ 70 1LT",
+      "brand": "SANTA CRUZ",
+      "brandCode": "821",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "16295",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/alcool-liquido-santa-cruz-70-1lt-10849",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--821--santa-cruz"
+  }
+}

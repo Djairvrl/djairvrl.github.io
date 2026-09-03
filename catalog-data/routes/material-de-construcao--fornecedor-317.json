@@ -1,0 +1,313 @@
+{
+  "title": "Material de Construção",
+  "parentLabel": "Departamento",
+  "description": "Produtos de COMERCIAL SOLAR MATERIAL DE CONSTRUCAO neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção"
+    }
+  ],
+  "children": [
+    {
+      "name": "Madeiras e Estruturas de Fôrma",
+      "slug": "madeiras-e-estruturas-de-forma",
+      "path": "/material-de-construcao/madeiras-e-estruturas-de-forma",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Hidráulica, Condução e Louças",
+      "slug": "hidraulica-conducao-e-loucas",
+      "path": "/material-de-construcao/hidraulica-conducao-e-loucas",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferragens, Perfis e Serralheria",
+      "slug": "ferragens-perfis-e-serralheria",
+      "path": "/material-de-construcao/ferragens-perfis-e-serralheria",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferragens",
+      "slug": "ferragens",
+      "path": "/material-de-construcao/ferragens",
+      "count": 59,
+      "categories": [
+        {
+          "name": "BARRAS CHATAS",
+          "slug": "barras-chatas",
+          "path": "/material-de-construcao/ferragens/barras-chatas",
+          "count": 1
+        },
+        {
+          "name": "CALHAS",
+          "slug": "calhas",
+          "path": "/material-de-construcao/ferragens/calhas",
+          "count": 3
+        },
+        {
+          "name": "CANTONEIRAS",
+          "slug": "cantoneiras",
+          "path": "/material-de-construcao/ferragens/cantoneiras",
+          "count": 9
+        },
+        {
+          "name": "CAVALETE",
+          "slug": "cavalete",
+          "path": "/material-de-construcao/ferragens/cavalete",
+          "count": 1
+        },
+        {
+          "name": "CHAPAS",
+          "slug": "chapas",
+          "path": "/material-de-construcao/ferragens/chapas",
+          "count": 17
+        },
+        {
+          "name": "DIVERSAS",
+          "slug": "diversas",
+          "path": "/material-de-construcao/ferragens/diversas",
+          "count": 17
+        },
+        {
+          "name": "METALONS",
+          "slug": "metalons",
+          "path": "/material-de-construcao/ferragens/metalons",
+          "count": 4
+        },
+        {
+          "name": "TUBOS",
+          "slug": "tubos",
+          "path": "/material-de-construcao/ferragens/tubos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Hidraulico",
+      "slug": "hidraulico",
+      "path": "/material-de-construcao/hidraulico",
+      "count": 47,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/material-de-construcao/hidraulico/diversos",
+          "count": 9
+        },
+        {
+          "name": "IRRIGAÇÃI",
+          "slug": "irrigacai",
+          "path": "/material-de-construcao/hidraulico/irrigacai",
+          "count": 3
+        },
+        {
+          "name": "PIAS E TORNEIRAS",
+          "slug": "pias-e-torneiras",
+          "path": "/material-de-construcao/hidraulico/pias-e-torneiras",
+          "count": 2
+        },
+        {
+          "name": "TANQUES E CAIXAS D'ÁGUA",
+          "slug": "tanques-e-caixas-d-agua",
+          "path": "/material-de-construcao/hidraulico/tanques-e-caixas-d-agua",
+          "count": 2
+        },
+        {
+          "name": "TUBOS E CONEXÕES",
+          "slug": "tubos-e-conexoes",
+          "path": "/material-de-construcao/hidraulico/tubos-e-conexoes",
+          "count": 25
+        },
+        {
+          "name": "VALVULAS E REGISTROS",
+          "slug": "valvulas-e-registros",
+          "path": "/material-de-construcao/hidraulico/valvulas-e-registros",
+          "count": 5
+        },
+        {
+          "name": "VASOS SANITARIOS",
+          "slug": "vasos-sanitarios",
+          "path": "/material-de-construcao/hidraulico/vasos-sanitarios",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Madeira",
+      "slug": "madeira",
+      "path": "/material-de-construcao/madeira",
+      "count": 12,
+      "categories": [
+        {
+          "name": "BARROTES E CAIBROS",
+          "slug": "barrotes-e-caibros",
+          "path": "/material-de-construcao/madeira/barrotes-e-caibros",
+          "count": 1
+        },
+        {
+          "name": "COMPENSADOS E MADEIRITES",
+          "slug": "compensados-e-madeirites",
+          "path": "/material-de-construcao/madeira/compensados-e-madeirites",
+          "count": 4
+        },
+        {
+          "name": "DIVERSAS",
+          "slug": "diversas",
+          "path": "/material-de-construcao/madeira/diversas",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "317",
+    "name": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO"
+  },
+  "products": [
+    {
+      "code": "7902",
+      "title": "CALHA DE ZINCO 2 MTS C/ DESCIDA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "8619",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/calha-de-zinco-2-mts-c-descida-7902",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7903",
+      "title": "CALHA DE ZINCO CONTINUA 2MT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "8617",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/calha-de-zinco-continua-2mt-7903",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7707",
+      "title": "CANTONEIRA 2.1/2 X 3/16",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "12520",
+      "category": "CANTONEIRAS",
+      "categorySlug": "cantoneiras",
+      "path": "/cantoneira-212-x-316-7707",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "10980",
+      "title": "KIT ROLDANA PORTA CORRER EMBUT 2M PERFIL",
+      "brand": "ROLDANA",
+      "brandCode": "844",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "10909",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/kit-roldana-porta-correr-embut-2m-perfil-10980",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "12180",
+      "title": "MADEIRA SERRADA EM ANGELIM VERMELHO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "7950",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/madeira-serrada-em-angelim-vermelho-12180",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "7025",
+      "title": "METALON 30X30 C/6MT GALVANIZADO CHAPA 20",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "9285",
+      "category": "METALONS",
+      "categorySlug": "metalons",
+      "path": "/metalon-30x30-c6mt-galvanizado-chapa-20-7025",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "10981",
+      "title": "PORTA DURATEX 2,10 X 0,90 MOGNO",
+      "brand": "DURATEX",
+      "brandCode": "845",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "9576",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/porta-duratex-210-x-090-mogno-10981",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "9222",
+      "title": "TUBO SOLDAVEL 25MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "10005",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/tubo-soldavel-25mm-9222",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "material-de-construcao--fornecedor-317"
+  }
+}

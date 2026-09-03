@@ -1,0 +1,121 @@
+{
+  "title": "BIC",
+  "parentLabel": "Marca",
+  "description": "Produtos BIC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BIC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8015",
+      "title": "CANETA BIC CRIST 50P VM",
+      "brand": "BIC",
+      "brandCode": "457",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "070330132450",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/caneta-bic-crist-50p-vm-8015",
+      "image": "/products/images/0080/8015.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12457",
+      "title": "CANETA ESFEROGRAFICA BIC CLASSICA AZUL",
+      "brand": "BIC",
+      "brandCode": "457",
+      "supplier": "CD COMERCIO DE PAPELARIA, BRINQUEDOS E SANEANTES LTDA",
+      "supplierCode": "5722",
+      "manufacturerCode": "1271",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/caneta-esferografica-bic-classica-azul-12457",
+      "image": "/products/images/0124/12457.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11737",
+      "title": "CANETA P QUADRO BCO RECARREGAVEL+APAGADO",
+      "brand": "BIC",
+      "brandCode": "457",
+      "supplier": "KEPSCIA COMERCIO LTDA",
+      "supplierCode": "5246",
+      "manufacturerCode": "CAN4UN",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/caneta-p-quadro-bco-recarregavelapagado-11737",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9096",
+      "title": "LAPISEIRA BIC SHIMM 0.7 3P",
+      "brand": "BIC",
+      "brandCode": "457",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "070330424050",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/lapiseira-bic-shimm-07-3p-9096",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7415",
+      "title": "MARCADOR P/ QUADRO BR BIC",
+      "brand": "BIC",
+      "brandCode": "457",
+      "supplier": "G. R. INFORMATICA LTDA",
+      "supplierCode": "1129",
+      "manufacturerCode": "004046",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/marcador-p-quadro-br-bic-7415",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9098",
+      "title": "MINA GRAFITE BIC HP 0.7 2P",
+      "brand": "BIC",
+      "brandCode": "457",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "070330416406",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/mina-grafite-bic-hp-07-2p-9098",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--457--bic"
+  }
+}

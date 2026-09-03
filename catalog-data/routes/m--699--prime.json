@@ -1,0 +1,36 @@
+{
+  "title": "PRIME",
+  "parentLabel": "Marca",
+  "description": "Produtos PRIME disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PRIME"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9620",
+      "title": "PERNEIRA 3T VELCRO COM ENGATE AGRO GOLD PRIME CA 48478   PRIME REF PPER3TVEN",
+      "brand": "PRIME",
+      "brandCode": "699",
+      "supplier": "PRIME COMER DE EQUIP DE SEGURANCA E UNIFORMES PROFISSIONAIS",
+      "supplierCode": "602",
+      "manufacturerCode": "630",
+      "category": "PERNEIRAS",
+      "categorySlug": "perneiras",
+      "path": "/perneira-3t-velcro-com-engate-agro-gold-prime-ca-48478-prime-ref-pper3tven-9620",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--699--prime"
+  }
+}

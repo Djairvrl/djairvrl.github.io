@@ -1,0 +1,163 @@
+{
+  "title": "TESOURAS",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria tesouras em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "TESOURAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4156",
+      "title": "TESOURA AVIACAO CORTE RETO SATA 10\"",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST93103ST",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-aviacao-corte-reto-sata-10-4156",
+      "image": "/products/images/0041/4156.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10706",
+      "title": "TESOURA BAZZE B7206",
+      "brand": "BAZZE",
+      "brandCode": "803",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "78997476617350",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-bazze-b7206-10706",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7069",
+      "title": "TESOURA COST REFORCAD PROF 10 ACO INOX",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "PRINT INDUSTRIAL TEXTIL LTDA",
+      "supplierCode": "1627",
+      "manufacturerCode": "25925160",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-cost-reforcad-prof-10-aco-inox-7069",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3805",
+      "title": "TESOURA FUNILEIRO 10\" PARA CHAPAS - GEDORE REF. 8516-10\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "045101",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-funileiro-10-para-chapas--gedore-ref-851610-3805",
+      "image": "/products/images/0038/3805.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3298",
+      "title": "TESOURA MULTIUSO SATA 12\"",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST90304ST",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-multiuso-sata-12-3298",
+      "image": "/products/images/0032/3298.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "995",
+      "title": "TESOURA PARA CABISTA/ELETRICISTA 5.1/2\" - 139 MM - VONDER REF 3085512000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3085512000",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-para-cabistaeletricista-512--139-mm--vonder-ref-3085512000-995",
+      "image": "/products/images/0009/995.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7834",
+      "title": "TESOURA PARA CERCA VIVA 12",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "78331/125",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-para-cerca-viva-12-7834",
+      "image": "/products/images/0078/7834.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5877",
+      "title": "TESOURA UNIVERSAL PEQUENA 8096-140",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "091869",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-universal-pequena-8096140-5877",
+      "image": "/products/images/0058/5877.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "ferramentas--ferramentas-manuais--tesouras"
+  }
+}

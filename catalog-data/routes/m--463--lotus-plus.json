@@ -1,0 +1,36 @@
+{
+  "title": "LOTUS PLUS",
+  "parentLabel": "Marca",
+  "description": "Produtos LOTUS PLUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LOTUS PLUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2622",
+      "title": "MISTURADOR DE TINTA/ARG 10X60CM",
+      "brand": "LOTUS PLUS",
+      "brandCode": "463",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "15698",
+      "category": "MISTURADOR",
+      "categorySlug": "misturador",
+      "path": "/misturador-de-tintaarg-10x60cm-2622",
+      "image": "/products/images/0026/2622.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--463--lotus-plus"
+  }
+}

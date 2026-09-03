@@ -1,0 +1,53 @@
+{
+  "title": "ELETROLUX",
+  "parentLabel": "Marca",
+  "description": "Produtos ELETROLUX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ELETROLUX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10000",
+      "title": "FRIGOBAR ELETROLUX EFICCIENTEM120 122L",
+      "brand": "ELETROLUX",
+      "brandCode": "377",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "1600",
+      "manufacturerCode": "7770692",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/frigobar-eletrolux-eficcientem120-122l-10000",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11826",
+      "title": "MICROONDAS  MI41S 31L CINZA 220V",
+      "brand": "ELETROLUX",
+      "brandCode": "377",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "4661",
+      "manufacturerCode": "5343133",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/microondas-mi41s-31l-cinza-220v-11826",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--377--eletrolux"
+  }
+}

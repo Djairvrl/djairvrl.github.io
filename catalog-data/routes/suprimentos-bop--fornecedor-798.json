@@ -1,0 +1,770 @@
+{
+  "title": "Suprimentos BOP",
+  "parentLabel": "Departamento",
+  "description": "Produtos de AJS E SILVA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP"
+    }
+  ],
+  "children": [
+    {
+      "name": "Material Elétrico Industrial",
+      "slug": "material-eletrico-industrial",
+      "path": "/suprimentos-bop/material-eletrico-industrial",
+      "count": 283,
+      "categories": [
+        {
+          "name": "ACIONAMENTO",
+          "slug": "acionamento",
+          "path": "/suprimentos-bop/material-eletrico-industrial/acionamento",
+          "count": 3
+        },
+        {
+          "name": "ANÉIS DESLIZANTES E ESCOVAS",
+          "slug": "aneis-deslizantes-e-escovas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/aneis-deslizantes-e-escovas",
+          "count": 1
+        },
+        {
+          "name": "AUTOMAÇÃO E ACIONAMENTOS",
+          "slug": "automacao-e-acionamentos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/automacao-e-acionamentos",
+          "count": 8
+        },
+        {
+          "name": "AUTOTRANSFORMADORES",
+          "slug": "autotransformadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/autotransformadores",
+          "count": 2
+        },
+        {
+          "name": "BARRAMENTO",
+          "slug": "barramento",
+          "path": "/suprimentos-bop/material-eletrico-industrial/barramento",
+          "count": 2
+        },
+        {
+          "name": "BATERIAS ESTACIONÁRIAS",
+          "slug": "baterias-estacionarias",
+          "path": "/suprimentos-bop/material-eletrico-industrial/baterias-estacionarias",
+          "count": 18
+        },
+        {
+          "name": "BOTÕES E SINALEIROS",
+          "slug": "botoes-e-sinaleiros",
+          "path": "/suprimentos-bop/material-eletrico-industrial/botoes-e-sinaleiros",
+          "count": 7
+        },
+        {
+          "name": "CABOS ESPECIAIS",
+          "slug": "cabos-especiais",
+          "path": "/suprimentos-bop/material-eletrico-industrial/cabos-especiais",
+          "count": 3
+        },
+        {
+          "name": "CAIXA DE PASSAGEM INDUSTRIAL",
+          "slug": "caixa-de-passagem-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/caixa-de-passagem-industrial",
+          "count": 1
+        },
+        {
+          "name": "CAIXAS E BOTOEIRAS",
+          "slug": "caixas-e-botoeiras",
+          "path": "/suprimentos-bop/material-eletrico-industrial/caixas-e-botoeiras",
+          "count": 5
+        },
+        {
+          "name": "CAMPAINHAS E SIRENES",
+          "slug": "campainhas-e-sirenes",
+          "path": "/suprimentos-bop/material-eletrico-industrial/campainhas-e-sirenes",
+          "count": 4
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/canaletas",
+          "count": 1
+        },
+        {
+          "name": "CHAVES ELÉTRICAS",
+          "slug": "chaves-eletricas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/chaves-eletricas",
+          "count": 8
+        },
+        {
+          "name": "CONECTORES",
+          "slug": "conectores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/conectores",
+          "count": 5
+        },
+        {
+          "name": "CONTATORES E CONTATOS",
+          "slug": "contatores-e-contatos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/contatores-e-contatos",
+          "count": 14
+        },
+        {
+          "name": "CONTROLADORES E TOTALIZADORES",
+          "slug": "controladores-e-totalizadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/controladores-e-totalizadores",
+          "count": 3
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/disjuntores",
+          "count": 17
+        },
+        {
+          "name": "ELETROCALHAS, ELETRODUTOS E PERFILADOS",
+          "slug": "eletrocalhas-eletrodutos-e-perfilados",
+          "path": "/suprimentos-bop/material-eletrico-industrial/eletrocalhas-eletrodutos-e-perfilados",
+          "count": 1
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fios-e-cabos",
+          "count": 29
+        },
+        {
+          "name": "FONTES CHAVEADAS",
+          "slug": "fontes-chaveadas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fontes-chaveadas",
+          "count": 4
+        },
+        {
+          "name": "FUSÍVEiS E RESISTORES",
+          "slug": "fusiveis-e-resistores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fusiveis-e-resistores",
+          "count": 4
+        },
+        {
+          "name": "GASES ISOLANTES",
+          "slug": "gases-isolantes",
+          "path": "/suprimentos-bop/material-eletrico-industrial/gases-isolantes",
+          "count": 2
+        },
+        {
+          "name": "IDENTIFICAÇÃO",
+          "slug": "identificacao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/identificacao",
+          "count": 1
+        },
+        {
+          "name": "ILUMINAÇÃO DE ALTA PERFORMANCE",
+          "slug": "iluminacao-de-alta-performance",
+          "path": "/suprimentos-bop/material-eletrico-industrial/iluminacao-de-alta-performance",
+          "count": 15
+        },
+        {
+          "name": "INVERSORES DE TENSÃO",
+          "slug": "inversores-de-tensao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/inversores-de-tensao",
+          "count": 3
+        },
+        {
+          "name": "ISOLADORES",
+          "slug": "isoladores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/isoladores",
+          "count": 42
+        },
+        {
+          "name": "PAINÉIS SOLARES",
+          "slug": "paineis-solares",
+          "path": "/suprimentos-bop/material-eletrico-industrial/paineis-solares",
+          "count": 2
+        },
+        {
+          "name": "PARA-RAIOS E ATERRAMENTOS",
+          "slug": "para-raios-e-aterramentos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/para-raios-e-aterramentos",
+          "count": 3
+        },
+        {
+          "name": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+          "slug": "plugue-tomada-e-acoplamento-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/plugue-tomada-e-acoplamento-industrial",
+          "count": 16
+        },
+        {
+          "name": "QUADROS DE DISTRIBUIÇÃO",
+          "slug": "quadros-de-distribuicao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/quadros-de-distribuicao",
+          "count": 3
+        },
+        {
+          "name": "QUADROS DE MONTAGEM",
+          "slug": "quadros-de-montagem",
+          "path": "/suprimentos-bop/material-eletrico-industrial/quadros-de-montagem",
+          "count": 1
+        },
+        {
+          "name": "RELÉS",
+          "slug": "reles",
+          "path": "/suprimentos-bop/material-eletrico-industrial/reles",
+          "count": 12
+        },
+        {
+          "name": "SEGURANÇA INDUSTRIAL",
+          "slug": "seguranca-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/seguranca-industrial",
+          "count": 3
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/sensores",
+          "count": 8
+        },
+        {
+          "name": "SINALIZADORES",
+          "slug": "sinalizadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/sinalizadores",
+          "count": 3
+        },
+        {
+          "name": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+          "slug": "terminais-e-conexoes-industriais",
+          "path": "/suprimentos-bop/material-eletrico-industrial/terminais-e-conexoes-industriais",
+          "count": 25
+        },
+        {
+          "name": "TRANSFORMADORES",
+          "slug": "transformadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/transformadores",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES",
+          "slug": "ventiladores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/ventiladores",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "798",
+    "name": "AJS E SILVA LTDA"
+  },
+  "products": [
+    {
+      "code": "9162",
+      "title": "ACOPLAMENTO INDUSTRIAL 3P+N+T 16A STATUS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2286",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/acoplamento-industrial-3pnt-16a-status-9162",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7057",
+      "title": "BARRAMENTO TRIFASICO TIPO PENTE 1MT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "3087",
+      "category": "BARRAMENTO",
+      "categorySlug": "barramento",
+      "path": "/barramento-trifasico-tipo-pente-1mt-7057",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8039",
+      "title": "CABO FLEXIVEL 2,5 4 CORES NBR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "0001",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-25-4-cores-nbr-8039",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7933",
+      "title": "CABO FLEXIVEL 2,5 AZUL NBR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2133",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-25-azul-nbr-7933",
+      "image": "/products/images/0079/7933.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7934",
+      "title": "CABO FLEXIVEL 2,5 PRETO NBR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "64",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-25-preto-nbr-7934",
+      "image": "/products/images/0079/7934.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7936",
+      "title": "CABO FLEXIVEL 2,5 VERDE NBR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "862",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-25-verde-nbr-7936",
+      "image": "/products/images/0079/7936.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7935",
+      "title": "CABO FLEXIVEL 2,5 VERMELHO NBR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "65-1",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-25-vermelho-nbr-7935",
+      "image": "/products/images/0079/7935.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7386",
+      "title": "CABO FLEXIVEL 25MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "787",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-25mm-7386",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7387",
+      "title": "CABO FLEXIVEL 50MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2162",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-50mm-7387",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4726",
+      "title": "CABO PP 3X2,5",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "000545",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-pp-3x25-4726",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8138",
+      "title": "CABO PP 4X4.0MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1728",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-pp-4x40mm-8138",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8143",
+      "title": "CABO PP 4X4.0MM (30M)",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "8143",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-pp-4x40mm-30m-8143",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "5580",
+      "title": "CABO PP 5X6MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "918",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-pp-5x6mm-5580",
+      "image": "/products/images/0055/5580.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "5602",
+      "title": "CABO PP FLEXÍVEL 5 VIAS X 6MM² - VENDA POR METRO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2889",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-pp-flexivel-5-vias-x-6mm2--venda-por-metro-5602",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7937",
+      "title": "CHAVE ROTATIVA SELET LW26-20 3 POSI 20A",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "14",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-rotativa-selet-lw2620-3-posi-20a-7937",
+      "image": "/products/images/0079/7937.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7058",
+      "title": "CONECTOR GENERICO 4MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "524",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/conector-generico-4mm-7058",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7941",
+      "title": "DISJUNTOR BIPOLAR C16",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "604",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-bipolar-c16-7941",
+      "image": "/products/images/0079/7941.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7942",
+      "title": "DISJUNTOR BIPOLAR C25",
+      "brand": "EATON MOELLER",
+      "brandCode": "545",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "389",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-bipolar-c25-7942",
+      "image": "/products/images/0079/7942.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9163",
+      "title": "PLUGUE INDUSTRIAL 3P+N+T 16A TRAMONTINA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1563",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/plugue-industrial-3pnt-16a-tramontina-9163",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7149",
+      "title": "PLUGUE MOVEL INDUSTRIAL 4P+T 32A",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "331",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/plugue-movel-industrial-4pt-32a-7149",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "5581",
+      "title": "PLUGUE MÓVEL INDUSTRIAL FÊMEA AZUL 3P+T 16 A 220-250 VCA 9 H - TRAMONTINA",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2536",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/plugue-movel-industrial-femea-azul-3pt-16-a-220250-vca-9-h--tramontina-5581",
+      "image": "/products/images/0055/5581.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7946",
+      "title": "PROGRAMADOR HORARIO COEL BWT40",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2454",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/programador-horario-coel-bwt40-7946",
+      "image": "/products/images/0079/7946.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7390",
+      "title": "QUADRO COMANDO CEMAR 80X60X25",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "873",
+      "category": "QUADROS DE DISTRIBUIÇÃO",
+      "categorySlug": "quadros-de-distribuicao",
+      "path": "/quadro-comando-cemar-80x60x25-7390",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7537",
+      "title": "TERMINAL COMPRESSAO 185 MM",
+      "brand": "INTELLI",
+      "brandCode": "499",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "001298",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-185-mm-7537",
+      "image": "/products/images/0075/7537.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7538",
+      "title": "TERMINAL COMPRESSAO 240MM",
+      "brand": "INTELLI",
+      "brandCode": "499",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "001133",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-240mm-7538",
+      "image": "/products/images/0075/7538.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7391",
+      "title": "TERMINAL COMPRESSAO 25MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1115",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-25mm-7391",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7392",
+      "title": "TERMINAL COMPRESSAO 50MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1266",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-50mm-7392",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7059",
+      "title": "TERMINAL TUBULAR 4.0MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "3273",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-tubular-40mm-7059",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7060",
+      "title": "TERMINAL TUBULAR DUPLO 4.0MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "5457",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-tubular-duplo-40mm-7060",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9272",
+      "title": "TOMADA INDUSTRIAL 3P+T+N 63A 380/440V 6H",
+      "brand": "LUKMA",
+      "brandCode": "660",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2537",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/tomada-industrial-3ptn-63a-380440v-6h-9272",
+      "image": "/products/images/0092/9272.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 30,
+    "pageBase": "suprimentos-bop--fornecedor-798"
+  }
+}

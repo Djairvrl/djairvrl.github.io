@@ -1,0 +1,95 @@
+{
+  "title": "GARRAS DE BLOQUEIO EM AÇO",
+  "parentLabel": "Garras De Bloqueio",
+  "description": "Produtos da categoria garras de bloqueio em aço em garras de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Garras De Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/garras-de-bloqueio"
+    },
+    {
+      "label": "GARRAS DE BLOQUEIO EM AÇO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1073",
+      "title": "GARRA BLOQUEIO AÇO ZINCADO 38MM 6 FUROS P/ VÁLVULAS  - TAGOUT REF GAVMZ38",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "GAVMZ38",
+      "category": "GARRAS DE BLOQUEIO EM AÇO",
+      "categorySlug": "garras-de-bloqueio-em-aco",
+      "path": "/garra-bloqueio-aco-zincado-38mm-6-furos-p-valvulas--tagout-ref-gavmz38-1073",
+      "image": "/products/images/0010/1073.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "9247",
+      "title": "GARRA DE BLOQ EM ACO 25,4MM/1 GAVMZ25",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "GAVMZ25",
+      "category": "GARRAS DE BLOQUEIO EM AÇO",
+      "categorySlug": "garras-de-bloqueio-em-aco",
+      "path": "/garra-de-bloq-em-aco-254mm1-gavmz25-9247",
+      "image": "/products/images/0092/9247.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "4612",
+      "title": "GARRA DE BLOQUEIO 38,0MM METAL VERMELHO",
+      "brand": "FARIA",
+      "brandCode": "216",
+      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
+      "supplierCode": "869",
+      "manufacturerCode": "2035",
+      "category": "GARRAS DE BLOQUEIO EM AÇO",
+      "categorySlug": "garras-de-bloqueio-em-aco",
+      "path": "/garra-de-bloqueio-380mm-metal-vermelho-4612",
+      "image": "/products/images/0046/4612.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "13379",
+      "title": "GARRA DE BLOQUEIO DE SEGURANCA 3,8 CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "W H B DO BRASIL LTDA",
+      "supplierCode": "6267",
+      "manufacturerCode": "Y67601",
+      "category": "GARRAS DE BLOQUEIO EM AÇO",
+      "categorySlug": "garras-de-bloqueio-em-aco",
+      "path": "/garra-de-bloqueio-de-seguranca-38-cm-13379",
+      "image": "/products/images/0133/13379.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "bloqueio-e-etiquetagem--garras-de-bloqueio--garras-de-bloqueio-em-aco"
+  }
+}

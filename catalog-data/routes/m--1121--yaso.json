@@ -1,0 +1,36 @@
+{
+  "title": "YASO",
+  "parentLabel": "Marca",
+  "description": "Produtos YASO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "YASO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12701",
+      "title": "CLAVICULARIO 60 CHAVES C CHAVEIROS",
+      "brand": "YASO",
+      "brandCode": "1121",
+      "supplier": "SUELLEN TOLEDO AMORIM COMERCIO E IMPORTACAO LTDA",
+      "supplierCode": "5872",
+      "manufacturerCode": "Y-CLAVI60-BG",
+      "category": "CLAVICULARIOS",
+      "categorySlug": "clavicularios",
+      "path": "/claviculario-60-chaves-c-chaveiros-12701",
+      "image": "/products/images/0127/12701.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1121--yaso"
+  }
+}

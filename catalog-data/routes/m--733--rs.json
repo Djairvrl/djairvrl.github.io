@@ -1,0 +1,53 @@
+{
+  "title": "RS",
+  "parentLabel": "Marca",
+  "description": "Produtos RS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9648",
+      "title": "AVENTAL BIDIN 120 X 60CM FORRADO RS",
+      "brand": "RS",
+      "brandCode": "733",
+      "supplier": "NIPO SANTO AMARO COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2672",
+      "manufacturerCode": "0500507",
+      "category": "AVENTAIS",
+      "categorySlug": "aventais",
+      "path": "/avental-bidin-120-x-60cm-forrado-rs-9648",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "9649",
+      "title": "PERNEIRAS BIDIM COM 3 LÂMINAS CA 43511  RS",
+      "brand": "RS",
+      "brandCode": "733",
+      "supplier": "NIPO SANTO AMARO COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2672",
+      "manufacturerCode": "100073",
+      "category": "PERNEIRAS",
+      "categorySlug": "perneiras",
+      "path": "/perneiras-bidim-com-3-laminas-ca-43511-rs-9649",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--733--rs"
+  }
+}

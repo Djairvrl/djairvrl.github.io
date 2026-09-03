@@ -1,0 +1,61 @@
+{
+  "title": "NEOPRENE",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria neoprene em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "NEOPRENE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1210",
+      "title": "LUVA LATEX NEOPREX SUPERMIX CA 33333 T8",
+      "brand": "SUPER SAFETY",
+      "brandCode": "7",
+      "supplier": "SUPER SAFETY IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "14",
+      "manufacturerCode": "S-MIX-T8",
+      "category": "NEOPRENE",
+      "categorySlug": "neoprene",
+      "path": "/luva-latex-neoprex-supermix-ca-33333-t8-1210",
+      "image": "/products/images/0012/1210.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1212",
+      "title": "LUVA LATEX NEOPREX SUPERMIX CA 33333 T9",
+      "brand": "SUPER SAFETY",
+      "brandCode": "7",
+      "supplier": "SUPER SAFETY IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "14",
+      "manufacturerCode": "S-MIX-T10",
+      "category": "NEOPRENE",
+      "categorySlug": "neoprene",
+      "path": "/luva-latex-neoprex-supermix-ca-33333-t9-1212",
+      "image": "/products/images/0012/1212.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--neoprene"
+  }
+}

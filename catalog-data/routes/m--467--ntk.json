@@ -1,0 +1,36 @@
+{
+  "title": "NTK",
+  "parentLabel": "Marca",
+  "description": "Produtos NTK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NTK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7445",
+      "title": "CAMPGAS BUTANO NTK",
+      "brand": "NTK",
+      "brandCode": "467",
+      "supplier": "SAMARIA COMERCIAL",
+      "supplierCode": "1652",
+      "manufacturerCode": "MLB2117646940",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/campgas-butano-ntk-7445",
+      "image": "/products/images/0074/7445.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--467--ntk"
+  }
+}

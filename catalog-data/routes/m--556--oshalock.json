@@ -1,0 +1,36 @@
+{
+  "title": "OSHALOCK",
+  "parentLabel": "Marca",
+  "description": "Produtos OSHALOCK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OSHALOCK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8070",
+      "title": "BLOQUEIO UNIVERSAL P/ DISJUNTOR I-D04",
+      "brand": "OSHALOCK",
+      "brandCode": "556",
+      "supplier": "RICARDO M DOS SANTOS TREINAMENTO",
+      "supplierCode": "1827",
+      "manufacturerCode": "I-D04",
+      "category": "BLOQUEIO DE DISJUNTORES",
+      "categorySlug": "bloqueio-de-disjuntores",
+      "path": "/bloqueio-universal-p-disjuntor-id04-8070",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--556--oshalock"
+  }
+}

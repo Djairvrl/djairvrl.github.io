@@ -1,0 +1,53 @@
+{
+  "title": "COMPACTOR",
+  "parentLabel": "Marca",
+  "description": "Produtos COMPACTOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COMPACTOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12576",
+      "title": "CANETA COMPACT 07 25P AZ 1533001 (40)",
+      "brand": "COMPACTOR",
+      "brandCode": "1045",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "3704",
+      "manufacturerCode": "7896572020194",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/caneta-compact-07-25p-az-1533001-40-12576",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12157",
+      "title": "PINCEL MARCAD COMPACT 1P PT 7004",
+      "brand": "COMPACTOR",
+      "brandCode": "1045",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896572021771",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/pincel-marcad-compact-1p-pt-7004-12157",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1045--compactor"
+  }
+}

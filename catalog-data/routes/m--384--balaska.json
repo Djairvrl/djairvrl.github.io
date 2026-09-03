@@ -1,0 +1,36 @@
+{
+  "title": "BALASKA",
+  "parentLabel": "Marca",
+  "description": "Produtos BALASKA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BALASKA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6937",
+      "title": "JARDINEIRA KP 500 AM C/ BOTA CA10457",
+      "brand": "BALASKA",
+      "brandCode": "384",
+      "supplier": "BALASKA EQUIPE INDUSTRIA E COMERCIO LTDA EM RECUPERACAO JUDI",
+      "supplierCode": "1422",
+      "manufacturerCode": "CA10457",
+      "category": "JARDINEIRAS",
+      "categorySlug": "jardineiras",
+      "path": "/jardineira-kp-500-am-c-bota-ca10457-6937",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--384--balaska"
+  }
+}

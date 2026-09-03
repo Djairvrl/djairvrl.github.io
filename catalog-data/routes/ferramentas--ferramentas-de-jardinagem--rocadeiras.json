@@ -1,0 +1,129 @@
+{
+  "title": "ROÇADEIRAS",
+  "parentLabel": "Ferramentas de Jardinagem",
+  "description": "Produtos da categoria roçadeiras em ferramentas de jardinagem.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas de Jardinagem",
+      "to": "/ferramentas/ferramentas-de-jardinagem"
+    },
+    {
+      "label": "ROÇADEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6746",
+      "title": "MOTOPODADOR DE GALHOS GASOLINA 2T 33CC 1,3HP COM EXTENSOR VP3300L - VULCAN 56570",
+      "brand": "VULCAN",
+      "brandCode": "330",
+      "supplier": "SPINNER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1314",
+      "manufacturerCode": "56570",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/motopodador-de-galhos-gasolina-2t-33cc-13hp-com-extensor-vp3300l--vulcan-56570-6746",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "8217",
+      "title": "MOTOPODADOR P GALHOS EM ALTURA FAK330MP",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VALENCE STORE LTDA",
+      "supplierCode": "1995",
+      "manufacturerCode": "607060",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/motopodador-p-galhos-em-altura-fak330mp-8217",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "2838",
+      "title": "ROCADEIRA A GASOL.  BR52G",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315190",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/rocadeira-a-gasol-br52g-2838",
+      "image": "/products/images/0028/2838.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "9087",
+      "title": "ROCADEIRA BR-26MULTI",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314426",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/rocadeira-br26multi-9087",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "9086",
+      "title": "ROCADEIRA BR-52A",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314652",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/rocadeira-br52a-9086",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "9604",
+      "title": "ROÇADEIRA A GASOLINA COM PARTIDA ELÉTRICA 2,1 CV E 41,5 CM³ (CC)  RGP 415E VONDER  REF 6804000415",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "68.04.000.415",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/rocadeira-a-gasolina-com-partida-eletrica-21-cv-e-415-cm3-cc-rgp-415e-vonder-ref-6804000415-9604",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ferramentas--ferramentas-de-jardinagem--rocadeiras"
+  }
+}

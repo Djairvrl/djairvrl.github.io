@@ -1,0 +1,36 @@
+{
+  "title": "SUPERTEK",
+  "parentLabel": "Marca",
+  "description": "Produtos SUPERTEK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SUPERTEK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7639",
+      "title": "KIT DE ANEIS ORING",
+      "brand": "SUPERTEK",
+      "brandCode": "521",
+      "supplier": "PESA AGRO COMERCIO DE MAQUINAS S/A",
+      "supplierCode": "1751",
+      "manufacturerCode": "PHB600CUR",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/kit-de-aneis-oring-7639",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--521--supertek"
+  }
+}

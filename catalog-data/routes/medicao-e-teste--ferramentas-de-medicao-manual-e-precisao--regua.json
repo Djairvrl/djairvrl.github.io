@@ -1,0 +1,78 @@
+{
+  "title": "RÉGUA",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria régua em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "RÉGUA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1651",
+      "title": "MEDIDOR RÉGUA DE INCLINAÇÃO DIGITAL GIM 60 L PROFESSIONAL - BOSCH  0 601 076 900",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601076900000",
+      "category": "RÉGUA",
+      "categorySlug": "regua",
+      "path": "/medidor-regua-de-inclinacao-digital-gim-60-l-professional--bosch-0-601-076-900-1651",
+      "image": "/products/images/0016/1651.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "9437",
+      "title": "REGUA PARA NIVEIS PROFESSIONAL GR240",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601094100000",
+      "category": "RÉGUA",
+      "categorySlug": "regua",
+      "path": "/regua-para-niveis-professional-gr240-9437",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "8023",
+      "title": "REGUA WALEU 30CM SUP 10P'",
+      "brand": "WALEU",
+      "brandCode": "357",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7897294400127",
+      "category": "RÉGUA",
+      "categorySlug": "regua",
+      "path": "/regua-waleu-30cm-sup-10p-8023",
+      "image": "/products/images/0080/8023.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--regua"
+  }
+}

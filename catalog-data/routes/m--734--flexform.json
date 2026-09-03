@@ -1,0 +1,87 @@
+{
+  "title": "FLEXFORM",
+  "parentLabel": "Marca",
+  "description": "Produtos FLEXFORM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FLEXFORM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9899",
+      "title": "CADEIRA PARA ESCRITÓRIO UNI ALL BLACK  FLEXFORM REF 09726",
+      "brand": "FLEXFORM",
+      "brandCode": "734",
+      "supplier": "FLEXFORM INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "supplierCode": "2763",
+      "manufacturerCode": "097.26",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/cadeira-para-escritorio-uni-all-black-flexform-ref-09726-9899",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12711",
+      "title": "CADEIRA UNI PRO TELA ALTA BLACKOUT PTO",
+      "brand": "FLEXFORM",
+      "brandCode": "734",
+      "supplier": "FLEXFORM INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "supplierCode": "2763",
+      "manufacturerCode": "843018",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/cadeira-uni-pro-tela-alta-blackout-pto-12711",
+      "image": "/products/images/0127/12711.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12039",
+      "title": "CADEIRA UNI TELA ALTA BLACKOUT(PTO) AJUS",
+      "brand": "FLEXFORM",
+      "brandCode": "734",
+      "supplier": "FLEXFORM INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "supplierCode": "2763",
+      "manufacturerCode": "843276",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/cadeira-uni-tela-alta-blackoutpto-ajus-12039",
+      "image": "/products/images/0120/12039.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12808",
+      "title": "CADEIRA UNI TELA MEDIA BLACKOUT PRETO",
+      "brand": "FLEXFORM",
+      "brandCode": "734",
+      "supplier": "FLEXFORM INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+      "supplierCode": "2763",
+      "manufacturerCode": "832258",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/cadeira-uni-tela-media-blackout-preto-12808",
+      "image": "/products/images/0128/12808.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--734--flexform"
+  }
+}

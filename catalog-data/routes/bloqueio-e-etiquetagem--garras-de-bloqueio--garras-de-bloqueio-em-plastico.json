@@ -1,0 +1,163 @@
+{
+  "title": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+  "parentLabel": "Garras De Bloqueio",
+  "description": "Produtos da categoria garras de bloqueio em plástico em garras de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Garras De Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/garras-de-bloqueio"
+    },
+    {
+      "label": "GARRAS DE BLOQUEIO EM PLÁSTICO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9127",
+      "title": "DISPOSITIVO DE BLOQUEIO GARRA ETIQUETA",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "DBGE",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/dispositivo-de-bloqueio-garra-etiqueta-9127",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "1075",
+      "title": "GARRA BLOQUEIO PLÁSTICA 23MM 6 FUROS P/ VÁLVULAS E DISJUNTORES - TAGOUT REF GP254BC",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "GP254BC",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/garra-bloqueio-plastica-23mm-6-furos-p-valvulas-e-disjuntores--tagout-ref-gp254bc-1075",
+      "image": "/products/images/0010/1075.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "1076",
+      "title": "GARRA BLOQUEIO PLÁSTICA 6 FUROS GANCHO 4MM P/ VÁLVULAS E DISJUNTORES - TAGOUT  REF GP64A",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "GP64A",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/garra-bloqueio-plastica-6-furos-gancho-4mm-p-valvulas-e-disjuntores--tagout-ref-gp64a-1076",
+      "image": "/products/images/0010/1076.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "12723",
+      "title": "GARRA BLOQUEIO TRAVAMENTO NAO CONDUTORA",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "EDUARDO QUEIROZ BRAGA",
+      "supplierCode": "5876",
+      "manufacturerCode": "50151",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/garra-bloqueio-travamento-nao-condutora-12723",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "5391",
+      "title": "GARRA DE NYLON C/ALCA 4MM X 173MM",
+      "brand": "FARIA",
+      "brandCode": "216",
+      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
+      "supplierCode": "869",
+      "manufacturerCode": "2026",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/garra-de-nylon-calca-4mm-x-173mm-5391",
+      "image": "/products/images/0053/5391.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "4225",
+      "title": "GARRA PLAST 6FURO 23MM/GANCH 4MM",
+      "brand": "FARIA",
+      "brandCode": "216",
+      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
+      "supplierCode": "869",
+      "manufacturerCode": "2029",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/garra-plast-6furo-23mmganch-4mm-4225",
+      "image": "/products/images/0042/4225.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "9126",
+      "title": "GARRA PLAST 6FURO 4MM GANCHO 35MM ALCA",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "GP64AP",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/garra-plast-6furo-4mm-gancho-35mm-alca-9126",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "9125",
+      "title": "GARRA PLAST 6FURO 6MM C/ALCA GP66A",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "GP66A",
+      "category": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+      "categorySlug": "garras-de-bloqueio-em-plastico",
+      "path": "/garra-plast-6furo-6mm-calca-gp66a-9125",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Garras De Bloqueio",
+      "sectionSlug": "garras-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "bloqueio-e-etiquetagem--garras-de-bloqueio--garras-de-bloqueio-em-plastico"
+  }
+}

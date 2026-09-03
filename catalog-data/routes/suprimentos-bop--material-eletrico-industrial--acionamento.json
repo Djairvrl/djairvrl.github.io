@@ -1,0 +1,78 @@
+{
+  "title": "ACIONAMENTO",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria acionamento em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "ACIONAMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8571",
+      "title": "INTERRUPTOR 1 TECL SIMPL ARIA 6A 250V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JAILSON SEVERO DOS SANTOS",
+      "supplierCode": "403",
+      "manufacturerCode": "45712",
+      "category": "ACIONAMENTO",
+      "categorySlug": "acionamento",
+      "path": "/interruptor-1-tecl-simpl-aria-6a-250v-8571",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11092",
+      "title": "INTERRUPTOR TIPO PEDAL CI-14AY MD-14H",
+      "brand": "CITEX",
+      "brandCode": "878",
+      "supplier": "CITEX - MATERIAL ELETRICO LTDA",
+      "supplierCode": "4491",
+      "manufacturerCode": "998",
+      "category": "ACIONAMENTO",
+      "categorySlug": "acionamento",
+      "path": "/interruptor-tipo-pedal-ci14ay-md14h-11092",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "6893",
+      "title": "VARIADOR DE VOLTAGEM TRIFASICO VARIAC 6",
+      "brand": "JNG",
+      "brandCode": "262",
+      "supplier": "ITEST - MEDICAO E AUTOMACAO LTDA",
+      "supplierCode": "1415",
+      "manufacturerCode": "TSGC2-6",
+      "category": "ACIONAMENTO",
+      "categorySlug": "acionamento",
+      "path": "/variador-de-voltagem-trifasico-variac-6-6893",
+      "image": "/products/images/0068/6893.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--acionamento"
+  }
+}

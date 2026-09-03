@@ -1,0 +1,53 @@
+{
+  "title": "MDK MED",
+  "parentLabel": "Marca",
+  "description": "Produtos MDK MED disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MDK MED"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8270",
+      "title": "EQUIPO PARA BOMBA DE INFUSAO UNIVERSAL",
+      "brand": "MDK MED",
+      "brandCode": "579",
+      "supplier": "ML SANTANA E SANTOS PRODUTOS DE SAUDE",
+      "supplierCode": "2023",
+      "manufacturerCode": "98124514",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/equipo-para-bomba-de-infusao-universal-8270",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "8302",
+      "title": "KIT C/ 10 EQUIPO P/ BOMBA DE INFUSAO",
+      "brand": "MDK MED",
+      "brandCode": "579",
+      "supplier": "ML SANTANA E SANTOS PRODUTOS DE SAUDE",
+      "supplierCode": "2023",
+      "manufacturerCode": "98124514",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/kit-c-10-equipo-p-bomba-de-infusao-8302",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--579--mdk-med"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "LYNUS",
+  "parentLabel": "Marca",
+  "description": "Produtos LYNUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LYNUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13123",
+      "title": "CARREGADOR DE BATERIA LYNUS LCB-10 220V",
+      "brand": "LYNUS",
+      "brandCode": "281",
+      "supplier": "HPI COMERCIAL LTDA",
+      "supplierCode": "2864",
+      "manufacturerCode": "CL1-220V",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-de-bateria-lynus-lcb10-220v-13123",
+      "image": "/products/images/0131/13123.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--281--lynus"
+  }
+}

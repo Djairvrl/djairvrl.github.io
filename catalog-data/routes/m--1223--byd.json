@@ -1,0 +1,36 @@
+{
+  "title": "BYD",
+  "parentLabel": "Marca",
+  "description": "Produtos BYD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BYD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13311",
+      "title": "WALLBOX BYD 7KWH P/ VEICULO ELETRICO",
+      "brand": "BYD",
+      "brandCode": "1223",
+      "supplier": "RECICLATEC COMERCIO E SERVICOS DE TECNOLOGIA LTDA",
+      "supplierCode": "2508",
+      "manufacturerCode": "19795",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/wallbox-byd-7kwh-p-veiculo-eletrico-13311",
+      "image": "/products/images/0133/13311.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1223--byd"
+  }
+}

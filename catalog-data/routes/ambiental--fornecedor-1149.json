@@ -1,0 +1,370 @@
+{
+  "title": "Ambiental",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MANASES TEIXEIRA DA SILVA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental"
+    }
+  ],
+  "children": [
+    {
+      "name": "Contenção Ambiental",
+      "slug": "contencao-ambiental",
+      "path": "/ambiental/contencao-ambiental",
+      "count": 243,
+      "categories": [
+        {
+          "name": "ABSORVENTES ORGÂNICOS",
+          "slug": "absorventes-organicos",
+          "path": "/ambiental/contencao-ambiental/absorventes-organicos",
+          "count": 5
+        },
+        {
+          "name": "BACIAS DE CONTEÇÕES",
+          "slug": "bacias-de-contecoes",
+          "path": "/ambiental/contencao-ambiental/bacias-de-contecoes",
+          "count": 9
+        },
+        {
+          "name": "COLETORES",
+          "slug": "coletores",
+          "path": "/ambiental/contencao-ambiental/coletores",
+          "count": 24
+        },
+        {
+          "name": "CONTENTORES",
+          "slug": "contentores",
+          "path": "/ambiental/contencao-ambiental/contentores",
+          "count": 19
+        },
+        {
+          "name": "CONTROLE DE PRAGAS E VETORES",
+          "slug": "controle-de-pragas-e-vetores",
+          "path": "/ambiental/contencao-ambiental/controle-de-pragas-e-vetores",
+          "count": 2
+        },
+        {
+          "name": "CORDÕES ABSORVENTES",
+          "slug": "cordoes-absorventes",
+          "path": "/ambiental/contencao-ambiental/cordoes-absorventes",
+          "count": 4
+        },
+        {
+          "name": "GALÕES E BOMBONAS",
+          "slug": "galoes-e-bombonas",
+          "path": "/ambiental/contencao-ambiental/galoes-e-bombonas",
+          "count": 30
+        },
+        {
+          "name": "KIT MITIGAÇÃO",
+          "slug": "kit-mitigacao",
+          "path": "/ambiental/contencao-ambiental/kit-mitigacao",
+          "count": 10
+        },
+        {
+          "name": "LIXEIRAS",
+          "slug": "lixeiras",
+          "path": "/ambiental/contencao-ambiental/lixeiras",
+          "count": 105
+        },
+        {
+          "name": "MANTAS ABSORVENTES",
+          "slug": "mantas-absorventes",
+          "path": "/ambiental/contencao-ambiental/mantas-absorventes",
+          "count": 7
+        },
+        {
+          "name": "PALLETS DE CONTENÇÃO",
+          "slug": "pallets-de-contencao",
+          "path": "/ambiental/contencao-ambiental/pallets-de-contencao",
+          "count": 10
+        },
+        {
+          "name": "PESTICIDAS",
+          "slug": "pesticidas",
+          "path": "/ambiental/contencao-ambiental/pesticidas",
+          "count": 5
+        },
+        {
+          "name": "PÁ ANTI FAÍSCA",
+          "slug": "pa-anti-faisca",
+          "path": "/ambiental/contencao-ambiental/pa-anti-faisca",
+          "count": 2
+        },
+        {
+          "name": "TRAPOS",
+          "slug": "trapos",
+          "path": "/ambiental/contencao-ambiental/trapos",
+          "count": 5
+        },
+        {
+          "name": "TRATAMENTO DE EFLUENTES",
+          "slug": "tratamento-de-efluentes",
+          "path": "/ambiental/contencao-ambiental/tratamento-de-efluentes",
+          "count": 1
+        },
+        {
+          "name": "TRAVESSEIROS ABSORVENTES",
+          "slug": "travesseiros-absorventes",
+          "path": "/ambiental/contencao-ambiental/travesseiros-absorventes",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Limpeza Industrial",
+      "slug": "limpeza-industrial",
+      "path": "/ambiental/limpeza-industrial",
+      "count": 80,
+      "categories": [
+        {
+          "name": "BANDEJAS E COLETORAS",
+          "slug": "bandejas-e-coletoras",
+          "path": "/ambiental/limpeza-industrial/bandejas-e-coletoras",
+          "count": 1
+        },
+        {
+          "name": "CARROS FUNCIONAIS E ACESSÓRIOS",
+          "slug": "carros-funcionais-e-acessorios",
+          "path": "/ambiental/limpeza-industrial/carros-funcionais-e-acessorios",
+          "count": 3
+        },
+        {
+          "name": "DESENGRAXANTES",
+          "slug": "desengraxantes",
+          "path": "/ambiental/limpeza-industrial/desengraxantes",
+          "count": 13
+        },
+        {
+          "name": "DESINCRUSTANTES",
+          "slug": "desincrustantes",
+          "path": "/ambiental/limpeza-industrial/desincrustantes",
+          "count": 1
+        },
+        {
+          "name": "ESFREGÕES INDUSTRIAIS",
+          "slug": "esfregoes-industriais",
+          "path": "/ambiental/limpeza-industrial/esfregoes-industriais",
+          "count": 5
+        },
+        {
+          "name": "KIT LIMPEZA INDUSTRIAL",
+          "slug": "kit-limpeza-industrial",
+          "path": "/ambiental/limpeza-industrial/kit-limpeza-industrial",
+          "count": 8
+        },
+        {
+          "name": "PÁS",
+          "slug": "pas",
+          "path": "/ambiental/limpeza-industrial/pas",
+          "count": 4
+        },
+        {
+          "name": "SACOS DE LIXO",
+          "slug": "sacos-de-lixo",
+          "path": "/ambiental/limpeza-industrial/sacos-de-lixo",
+          "count": 37
+        },
+        {
+          "name": "VASSOURAS",
+          "slug": "vassouras",
+          "path": "/ambiental/limpeza-industrial/vassouras",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Proteção e Manejo de Fauna",
+      "slug": "protecao-e-manejo-de-fauna",
+      "path": "/ambiental/protecao-e-manejo-de-fauna",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Acessórios",
+      "slug": "acessorios",
+      "path": "/ambiental/acessorios",
+      "count": 14,
+      "categories": [
+        {
+          "name": "APARELHOS REPELENTES",
+          "slug": "aparelhos-repelentes",
+          "path": "/ambiental/acessorios/aparelhos-repelentes",
+          "count": 1
+        },
+        {
+          "name": "KIT ANIMAIS PEÇONHENTOS",
+          "slug": "kit-animais-peconhentos",
+          "path": "/ambiental/acessorios/kit-animais-peconhentos",
+          "count": 13
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1149",
+    "name": "MANASES TEIXEIRA DA SILVA"
+  },
+  "products": [
+    {
+      "code": "7064",
+      "title": "DESENGRAXANTE E LIMPADOR DE CHASSIS REMO",
+      "brand": "VINTEX",
+      "brandCode": "409",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "1666",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/desengraxante-e-limpador-de-chassis-remo-7064",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13252",
+      "title": "INS AER BAYGON MATA EM SEGUNDOS",
+      "brand": "BAYGON",
+      "brandCode": "1208",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "232",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/ins-aer-baygon-mata-em-segundos-13252",
+      "image": "/products/images/0132/13252.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "13230",
+      "title": "KIT LIMPEZA CRISTAL 3UN 30X30CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "827",
+      "category": "ESFREGÕES INDUSTRIAIS",
+      "categorySlug": "esfregoes-industriais",
+      "path": "/kit-limpeza-cristal-3un-30x30cm-13230",
+      "image": "/products/images/0132/13230.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13236",
+      "title": "LAVA LOUCAS NEUTRO LOLA 5L",
+      "brand": "LOLA",
+      "brandCode": "1204",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "6172",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/lava-loucas-neutro-lola-5l-13236",
+      "image": "/products/images/0132/13236.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13231",
+      "title": "LIMPA VIDROS LUAGLASS 5L",
+      "brand": "LUAGLASS",
+      "brandCode": "1205",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "3700",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/limpa-vidros-luaglass-5l-13231",
+      "image": "/products/images/0132/13231.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13228",
+      "title": "MULTIUSO ALICE ORIGINAL 500ML",
+      "brand": "ALICE",
+      "brandCode": "911",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "194",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/multiuso-alice-original-500ml-13228",
+      "image": "/products/images/0132/13228.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13229",
+      "title": "PANO DE CHAO ALVEJADO A+ 48X68CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "4160",
+      "category": "ESFREGÕES INDUSTRIAIS",
+      "categorySlug": "esfregoes-industriais",
+      "path": "/pano-de-chao-alvejado-a-48x68cm-13229",
+      "image": "/products/images/0132/13229.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13262",
+      "title": "SACO LIXO 60L 57X70CM VERDEPLAS",
+      "brand": "VERDEPLAS",
+      "brandCode": "1211",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "4630",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-lixo-60l-57x70cm-verdeplas-13262",
+      "image": "/products/images/0132/13262.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13261",
+      "title": "SACO PARA LIXO 40L 47X55CM VERDEPLAS",
+      "brand": "VERDEPLAS",
+      "brandCode": "1211",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "4573",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-para-lixo-40l-47x55cm-verdeplas-13261",
+      "image": "/products/images/0132/13261.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 9,
+    "pageBase": "ambiental--fornecedor-1149"
+  }
+}

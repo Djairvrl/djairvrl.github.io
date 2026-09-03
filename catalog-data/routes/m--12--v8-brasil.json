@@ -1,0 +1,36 @@
+{
+  "title": "V8 BRASIL",
+  "parentLabel": "Marca",
+  "description": "Produtos V8 BRASIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "V8 BRASIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "582",
+      "title": "BICO DE CONTATO MIG/MAG 1,0 MM M8X43MM EM COBRE  V8 BRASIL",
+      "brand": "V8 BRASIL",
+      "brandCode": "12",
+      "supplier": "V8 BRASIL IND COM DE MAQUINAS E FERRAM",
+      "supplierCode": "416",
+      "manufacturerCode": "86993",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-de-contato-migmag-10-mm-m8x43mm-em-cobre-v8-brasil-582",
+      "image": "/products/images/0005/582.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--12--v8-brasil"
+  }
+}

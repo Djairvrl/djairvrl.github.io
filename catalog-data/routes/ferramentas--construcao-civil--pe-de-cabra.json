@@ -1,0 +1,95 @@
+{
+  "title": "PE-DE-CABRA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria pe-de-cabra em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "PE-DE-CABRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12793",
+      "title": "PE DE CABRA 3/4'' X 60 CM SEXTAV",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3599034060",
+      "category": "PE-DE-CABRA",
+      "categorySlug": "pe-de-cabra",
+      "path": "/pe-de-cabra-34-x-60-cm-sextav-12793",
+      "image": "/products/images/0127/12793.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "4445",
+      "title": "PE DE CABRA REDONDO - 3/4 - 1,00M",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "INDSUTRIA DE FORJADOS SAO ROMAO",
+      "supplierCode": "484",
+      "manufacturerCode": "1787",
+      "category": "PE-DE-CABRA",
+      "categorySlug": "pe-de-cabra",
+      "path": "/pe-de-cabra-redondo--34--100m-4445",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "2618",
+      "title": "PE DE CABRA, REFOR, 24POL, 600MM X29X15M",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "252339",
+      "category": "PE-DE-CABRA",
+      "categorySlug": "pe-de-cabra",
+      "path": "/pe-de-cabra-refor-24pol-600mm-x29x15m-2618",
+      "image": "/products/images/0026/2618.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "7504",
+      "title": "PÉ DE CABRA SIMPLES 600MM  EM AÇO ESPECIAL - TRAMONTINA MASTER 42600060",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "42600060",
+      "category": "PE-DE-CABRA",
+      "categorySlug": "pe-de-cabra",
+      "path": "/pe-de-cabra-simples-600mm-em-aco-especial--tramontina-master-42600060-7504",
+      "image": "/products/images/0075/7504.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--construcao-civil--pe-de-cabra"
+  }
+}

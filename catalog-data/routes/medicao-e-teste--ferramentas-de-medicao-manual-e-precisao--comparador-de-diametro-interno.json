@@ -1,0 +1,44 @@
+{
+  "title": "COMPARADOR DE DIÂMETRO INTERNO",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria comparador de diâmetro interno em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "COMPARADOR DE DIÂMETRO INTERNO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12783",
+      "title": "COMPARADOR INTERNO SUBITO 10-18MM",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "420,0009",
+      "category": "COMPARADOR DE DIÂMETRO INTERNO",
+      "categorySlug": "comparador-de-diametro-interno",
+      "path": "/comparador-interno-subito-1018mm-12783",
+      "image": "/products/images/0127/12783.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--comparador-de-diametro-interno"
+  }
+}

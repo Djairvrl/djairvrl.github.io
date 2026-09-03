@@ -1,0 +1,78 @@
+{
+  "title": "PICARETA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria picareta em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "PICARETA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1026",
+      "title": "PICARETA ALVIÃO EM AÇO TAM 4 COM CABO DE MADEIRA 90 CM - TRAMONTINA REF 77303543",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "77303543",
+      "category": "PICARETA",
+      "categorySlug": "picareta",
+      "path": "/picareta-alviao-em-aco-tam-4-com-cabo-de-madeira-90-cm--tramontina-ref-77303543-1026",
+      "image": "/products/images/0010/1026.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "3696",
+      "title": "PICARETA CHIBANCA EM AÇO TAMANHO 4 COM CABO DE MADEIRA 90CM - TRAMONTINA REF. 77305543",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77305543",
+      "category": "PICARETA",
+      "categorySlug": "picareta",
+      "path": "/picareta-chibanca-em-aco-tamanho-4-com-cabo-de-madeira-90cm--tramontina-ref-77305543-3696",
+      "image": "/products/images/0036/3696.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1027",
+      "title": "PICARETA ESTREITA EM AÇO TAM 4 COM CABO DE MADEIRA 90 CM - TRAMONTINA 77300543",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77300543",
+      "category": "PICARETA",
+      "categorySlug": "picareta",
+      "path": "/picareta-estreita-em-aco-tam-4-com-cabo-de-madeira-90-cm--tramontina-77300543-1027",
+      "image": "/products/images/0010/1027.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--construcao-civil--picareta"
+  }
+}

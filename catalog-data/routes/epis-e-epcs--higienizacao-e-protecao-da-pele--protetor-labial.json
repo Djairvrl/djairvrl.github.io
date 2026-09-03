@@ -1,0 +1,78 @@
+{
+  "title": "PROTETOR LABIAL",
+  "parentLabel": "Higienização e Proteção da Pele",
+  "description": "Produtos da categoria protetor labial em higienização e proteção da pele.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Higienização e Proteção da Pele",
+      "to": "/epis-e-epcs/higienizacao-e-protecao-da-pele"
+    },
+    {
+      "label": "PROTETOR LABIAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9901",
+      "title": "HIDRATANTE LABIAL FPS30 PROFISSIONAL NUTRIEX REF 2.02579-1",
+      "brand": "NUTRIEX",
+      "brandCode": "242",
+      "supplier": "EQUILIBRIUM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "supplierCode": "1025",
+      "manufacturerCode": "9240128",
+      "category": "PROTETOR LABIAL",
+      "categorySlug": "protetor-labial",
+      "path": "/hidratante-labial-fps30-profissional-nutriex-ref-2025791-9901",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "9090",
+      "title": "PROTETOR LABIAL F30 4,5G",
+      "brand": "HELIODERM",
+      "brandCode": "647",
+      "supplier": "DROGARIA UNIÃO LTDA",
+      "supplierCode": "761",
+      "manufacturerCode": "73636",
+      "category": "PROTETOR LABIAL",
+      "categorySlug": "protetor-labial",
+      "path": "/protetor-labial-f30-45g-9090",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "806",
+      "title": "PROTETOR LABIAL FATOR 30  FPS BASTÃO 5G  LUVEX - 040620000150005",
+      "brand": "LUVEX",
+      "brandCode": "17",
+      "supplier": "ITW CHEMICAL PRODUCTS LTDA",
+      "supplierCode": "523",
+      "manufacturerCode": "040620000150005",
+      "category": "PROTETOR LABIAL",
+      "categorySlug": "protetor-labial",
+      "path": "/protetor-labial-fator-30-fps-bastao-5g-luvex--040620000150005-806",
+      "image": "/products/images/0008/806.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--higienizacao-e-protecao-da-pele--protetor-labial"
+  }
+}

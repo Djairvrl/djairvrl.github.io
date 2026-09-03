@@ -1,0 +1,665 @@
+{
+  "title": "Máquinas e Acessórios",
+  "parentLabel": "Departamento",
+  "description": "Produtos de BRANCO MOTORES LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios"
+    }
+  ],
+  "children": [
+    {
+      "name": "Geradores e Energia Auxiliar",
+      "slug": "geradores-e-energia-auxiliar",
+      "path": "/maquinas-e-acessorios/geradores-e-energia-auxiliar",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Motores, Motobombas e Compressores",
+      "slug": "motores-motobombas-e-compressores",
+      "path": "/maquinas-e-acessorios/motores-motobombas-e-compressores",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Equipamentos e Força Hidráulica",
+      "slug": "equipamentos-e-forca-hidraulica",
+      "path": "/maquinas-e-acessorios/equipamentos-e-forca-hidraulica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Lavadoras e Aspiradores Industriais",
+      "slug": "lavadoras-e-aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/lavadoras-e-aspiradores-industriais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Solda Industrial, Corte e Oxi-Combustível",
+      "slug": "solda-industrial-corte-e-oxi-combustivel",
+      "path": "/maquinas-e-acessorios/solda-industrial-corte-e-oxi-combustivel",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Usinagem CNC, Implementos e Climatização",
+      "slug": "usinagem-cnc-implementos-e-climatizacao",
+      "path": "/maquinas-e-acessorios/usinagem-cnc-implementos-e-climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Aspiradores Industriais",
+      "slug": "aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/aspiradores-industriais",
+      "count": 27,
+      "categories": [
+        {
+          "name": "ASPIRADORES DE PÓ INDUSTRIAL",
+          "slug": "aspiradores-de-po-industrial",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-de-po-industrial",
+          "count": 9
+        },
+        {
+          "name": "ASPIRADORES PORTÁTEIS",
+          "slug": "aspiradores-portateis",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-portateis",
+          "count": 17
+        },
+        {
+          "name": "EXTRATORAS",
+          "slug": "extratoras",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/extratoras",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Climatização Industrial",
+      "slug": "climatizacao-industrial",
+      "path": "/maquinas-e-acessorios/climatizacao-industrial",
+      "count": 2,
+      "categories": [
+        {
+          "name": "SECADOR E AQUECEDOR INDUSTRIAL",
+          "slug": "secador-e-aquecedor-industrial",
+          "path": "/maquinas-e-acessorios/climatizacao-industrial/secador-e-aquecedor-industrial",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Compressores",
+      "slug": "compressores",
+      "path": "/maquinas-e-acessorios/compressores",
+      "count": 30,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/compressores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "COMPRESSORES DE AR ELÉTRICOS",
+          "slug": "compressores-de-ar-eletricos",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-eletricos",
+          "count": 13
+        },
+        {
+          "name": "COMPRESSORES DE AR PORTÁTEIS",
+          "slug": "compressores-de-ar-portateis",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-portateis",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos Hidráulicos",
+      "slug": "equipamentos-hidraulicos",
+      "path": "/maquinas-e-acessorios/equipamentos-hidraulicos",
+      "count": 55,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS HIDRÁULICOS",
+          "slug": "acessorios-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/acessorios-hidraulicos",
+          "count": 14
+        },
+        {
+          "name": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+          "slug": "alicates-de-crimpagem-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/alicates-de-crimpagem-hidraulicos",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TESTE HIDROSTÁTICO",
+          "slug": "bombas-de-teste-hidrostatico",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-de-teste-hidrostatico",
+          "count": 3
+        },
+        {
+          "name": "BOMBAS HIDRÁULICAS",
+          "slug": "bombas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "CILINDROS HIDRÁULICOS",
+          "slug": "cilindros-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/cilindros-hidraulicos",
+          "count": 12
+        },
+        {
+          "name": "MACACOS HIDRÁULICOS",
+          "slug": "macacos-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/macacos-hidraulicos",
+          "count": 11
+        },
+        {
+          "name": "PRENSAS HIDRÁULICAS",
+          "slug": "prensas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/prensas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "VÁLVULAS HIDRÁULICAS",
+          "slug": "valvulas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/valvulas-hidraulicas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Geradores",
+      "slug": "geradores",
+      "path": "/maquinas-e-acessorios/geradores",
+      "count": 26,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/geradores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "GERADORES A DIESEL",
+          "slug": "geradores-a-diesel",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-diesel",
+          "count": 2
+        },
+        {
+          "name": "GERADORES A GASOLINA",
+          "slug": "geradores-a-gasolina",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-gasolina",
+          "count": 3
+        },
+        {
+          "name": "GERADORES ESTACIONÁRIOS",
+          "slug": "geradores-estacionarios",
+          "path": "/maquinas-e-acessorios/geradores/geradores-estacionarios",
+          "count": 1
+        },
+        {
+          "name": "GERADORES PORTÁTEIS",
+          "slug": "geradores-portateis",
+          "path": "/maquinas-e-acessorios/geradores/geradores-portateis",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Lavadoras De Alta Pressão",
+      "slug": "lavadoras-de-alta-pressao",
+      "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao",
+      "count": 17,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/acessorios",
+          "count": 1
+        },
+        {
+          "name": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+          "slug": "lavadoras-de-alta-pressao-industriais",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadoras-de-alta-pressao-industriais",
+          "count": 6
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+          "slug": "lavadores-de-alta-pressao-eletricas",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-eletricas",
+          "count": 7
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS",
+          "slug": "lavadores-de-alta-pressao-portateis",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-portateis",
+          "count": 1
+        },
+        {
+          "name": "MANGUEIRAS DE ALTA PRESSÃO",
+          "slug": "mangueiras-de-alta-pressao",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/mangueiras-de-alta-pressao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Motores",
+      "slug": "motores",
+      "path": "/maquinas-e-acessorios/motores",
+      "count": 28,
+      "categories": [
+        {
+          "name": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+          "slug": "bombas-de-agua-e-motobombas",
+          "path": "/maquinas-e-acessorios/motores/bombas-de-agua-e-motobombas",
+          "count": 13
+        },
+        {
+          "name": "MOTORES DE COMBUSTÃO INTERNA",
+          "slug": "motores-de-combustao-interna",
+          "path": "/maquinas-e-acessorios/motores/motores-de-combustao-interna",
+          "count": 3
+        },
+        {
+          "name": "MOTORES ELÉTRICOS MONOFÁSICOS",
+          "slug": "motores-eletricos-monofasicos",
+          "path": "/maquinas-e-acessorios/motores/motores-eletricos-monofasicos",
+          "count": 1
+        },
+        {
+          "name": "MOTORES PARA PORTÃO",
+          "slug": "motores-para-portao",
+          "path": "/maquinas-e-acessorios/motores/motores-para-portao",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Máquinas Cnc",
+      "slug": "maquinas-cnc",
+      "path": "/maquinas-e-acessorios/maquinas-cnc",
+      "count": 1,
+      "categories": [
+        {
+          "name": "ROUTER CNC",
+          "slug": "router-cnc",
+          "path": "/maquinas-e-acessorios/maquinas-cnc/router-cnc",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Solda Industrial",
+      "slug": "solda-industrial",
+      "path": "/maquinas-e-acessorios/solda-industrial",
+      "count": 142,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/solda-industrial/acessorios",
+          "count": 5
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/maquinas-e-acessorios/solda-industrial/bocais",
+          "count": 6
+        },
+        {
+          "name": "CORTE PLASMA",
+          "slug": "corte-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/corte-plasma",
+          "count": 4
+        },
+        {
+          "name": "DESSOLDADORES",
+          "slug": "dessoldadores",
+          "path": "/maquinas-e-acessorios/solda-industrial/dessoldadores",
+          "count": 1
+        },
+        {
+          "name": "ELETRODO REVESTIDO",
+          "slug": "eletrodo-revestido",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-revestido",
+          "count": 17
+        },
+        {
+          "name": "ELETRODO TIG",
+          "slug": "eletrodo-tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-tig",
+          "count": 6
+        },
+        {
+          "name": "EQUIPAMENTO A GÁS",
+          "slug": "equipamento-a-gas",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-a-gas",
+          "count": 8
+        },
+        {
+          "name": "EQUIPAMENTO DE PLASMA",
+          "slug": "equipamento-de-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-de-plasma",
+          "count": 1
+        },
+        {
+          "name": "FERRAMENTAS",
+          "slug": "ferramentas",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferramentas",
+          "count": 9
+        },
+        {
+          "name": "FERRO DE SOLDA",
+          "slug": "ferro-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferro-de-solda",
+          "count": 12
+        },
+        {
+          "name": "LIMPEZA DE SOLDA",
+          "slug": "limpeza-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/limpeza-de-solda",
+          "count": 12
+        },
+        {
+          "name": "MAQUINA DE SOLDA",
+          "slug": "maquina-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/maquina-de-solda",
+          "count": 10
+        },
+        {
+          "name": "MIG/MAG",
+          "slug": "mig-mag",
+          "path": "/maquinas-e-acessorios/solda-industrial/mig-mag",
+          "count": 7
+        },
+        {
+          "name": "MINI-MAÇARICOS",
+          "slug": "mini-macaricos",
+          "path": "/maquinas-e-acessorios/solda-industrial/mini-macaricos",
+          "count": 6
+        },
+        {
+          "name": "MULTIPROCESSO",
+          "slug": "multiprocesso",
+          "path": "/maquinas-e-acessorios/solda-industrial/multiprocesso",
+          "count": 1
+        },
+        {
+          "name": "OXI-COMBUSTÍVEL",
+          "slug": "oxi-combustivel",
+          "path": "/maquinas-e-acessorios/solda-industrial/oxi-combustivel",
+          "count": 4
+        },
+        {
+          "name": "REGULADOR",
+          "slug": "regulador",
+          "path": "/maquinas-e-acessorios/solda-industrial/regulador",
+          "count": 10
+        },
+        {
+          "name": "RETIFICADOR",
+          "slug": "retificador",
+          "path": "/maquinas-e-acessorios/solda-industrial/retificador",
+          "count": 1
+        },
+        {
+          "name": "TIG",
+          "slug": "tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/tig",
+          "count": 1
+        },
+        {
+          "name": "TOCHAS",
+          "slug": "tochas",
+          "path": "/maquinas-e-acessorios/solda-industrial/tochas",
+          "count": 9
+        },
+        {
+          "name": "VARETA DE SOLDA",
+          "slug": "vareta-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/vareta-de-solda",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "401",
+    "name": "BRANCO MOTORES LTDA"
+  },
+  "products": [
+    {
+      "code": "9084",
+      "title": "COMPRESSOR AR BCA-50 220V",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90365002",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-ar-bca50-220v-9084",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "1082",
+      "title": "GERADOR  PORTÁTIL TRIFÁSICO B4T-8000 E 380V - BRANCO 90315055",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315055",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-portatil-trifasico-b4t8000-e-380v--branco-90315055-1082",
+      "image": "/products/images/0010/1082.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "1083",
+      "title": "GERADOR  PORTÁTIL TRIFÁSICO BD 15000 E3 G2 380V - BRANCO 90314005",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314005",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-portatil-trifasico-bd-15000-e3-g2-380v--branco-90314005-1083",
+      "image": "/products/images/0010/1083.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "1936",
+      "title": "GERADOR A DIESEL TRIFÁSICO 8,0KVA 220V BD-8000 E3 PARTIDA ELÉTRICA - BRANCO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314243",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-a-diesel-trifasico-80kva-220v-bd8000-e3-partida-eletrica--branco-1936",
+      "image": "/products/images/0019/1936.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "5823",
+      "title": "GERADOR A GASOLINA 3,5 KVA 110/220V MONOFÁSICO PARTIDA MANUAL B4T-3500 - BRANCO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315540",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-a-gasolina-35-kva-110220v-monofasico-partida-manual-b4t3500--branco-5823",
+      "image": "/products/images/0058/5823.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "11241",
+      "title": "GERADOR B4T9000E  220/127V - 60HZ (9,0KW",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90317270",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-b4t9000e-220127v--60hz-90kw-11241",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "6809",
+      "title": "GERADOR INVERTER B4T2000I 220V P.M",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314860",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-inverter-b4t2000i-220v-pm-6809",
+      "image": "/products/images/0068/6809.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "1081",
+      "title": "GERADOR PORTÁTIL B4T-12000 E3 220V TRIFÁSICO - BRANCO 90315500",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315490",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-portatil-b4t12000-e3-220v-trifasico--branco-90315500-1081",
+      "image": "/products/images/0010/1081.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "7008",
+      "title": "GERADOR TRIFAS 8KRA 220/380V NAGANO",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "NG8100E3D",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-trifas-8kra-220380v-nagano-7008",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "2837",
+      "title": "MOTOBOMBA CENTRÍFUGA PARTIDA MANUAL GASOLINA 6,5CV B4T-716 BRANCO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314700",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/motobomba-centrifuga-partida-manual-gasolina-65cv-b4t716-branco-2837",
+      "image": "/products/images/0028/2837.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "5953",
+      "title": "MOTOR  DIESEL C/ PARTIDA ELETRI BD-13.0R",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314680",
+      "category": "MOTORES DE COMBUSTÃO INTERNA",
+      "categorySlug": "motores-de-combustao-interna",
+      "path": "/motor-diesel-c-partida-eletri-bd130r-5953",
+      "image": "/products/images/0059/5953.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "2839",
+      "title": "MOTOR B4T6.5H P.M - SEM ALERTA DE OLEO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90313900",
+      "category": "MOTORES DE COMBUSTÃO INTERNA",
+      "categorySlug": "motores-de-combustao-interna",
+      "path": "/motor-b4t65h-pm--sem-alerta-de-oleo-2839",
+      "image": "/products/images/0028/2839.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "9089",
+      "title": "MOTOR BD10.0H XS P.E",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90312215",
+      "category": "MOTORES DE COMBUSTÃO INTERNA",
+      "categorySlug": "motores-de-combustao-interna",
+      "path": "/motor-bd100h-xs-pe-9089",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 13,
+    "pageBase": "maquinas-e-acessorios--fornecedor-401"
+  }
+}

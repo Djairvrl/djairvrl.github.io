@@ -1,0 +1,36 @@
+{
+  "title": "CIRURGICA LOGAN",
+  "parentLabel": "Marca",
+  "description": "Produtos CIRURGICA LOGAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CIRURGICA LOGAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10638",
+      "title": "TESOURA ROMBA ROMBA 15CM",
+      "brand": "CIRURGICA LOGAN",
+      "brandCode": "791",
+      "supplier": "CIRURGICA LOGAN MED COMERCIO DE MATERIAL MEDICO E HOSPITALAR",
+      "supplierCode": "3909",
+      "manufacturerCode": "TESCIRCRR145481",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/tesoura-romba-romba-15cm-10638",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--791--cirurgica-logan"
+  }
+}

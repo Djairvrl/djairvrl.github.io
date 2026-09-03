@@ -1,0 +1,87 @@
+{
+  "title": "MAXPRINT",
+  "parentLabel": "Marca",
+  "description": "Produtos MAXPRINT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAXPRINT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10195",
+      "title": "BOBINA 820MMX40M 48G 45000116",
+      "brand": "MAXPRINT",
+      "brandCode": "761",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "46632",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/bobina-820mmx40m-48g-45000116-10195",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11154",
+      "title": "MOCHILA P/NOTEBOOK BOLDPACK 110000002",
+      "brand": "MAXPRINT",
+      "brandCode": "761",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "49302",
+      "category": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+      "categorySlug": "acessorios-para-transporte-e-protecao",
+      "path": "/mochila-pnotebook-boldpack-110000002-11154",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11245",
+      "title": "MOCHILA P/NOTEBOOK SHARPBAG 110000001",
+      "brand": "MAXPRINT",
+      "brandCode": "761",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "49301",
+      "category": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+      "categorySlug": "acessorios-para-transporte-e-protecao",
+      "path": "/mochila-pnotebook-sharpbag-110000001-11245",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "9959",
+      "title": "TECLADO + MOUSE S/FIO KIT ARTECK",
+      "brand": "MAXPRINT",
+      "brandCode": "761",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "46127",
+      "category": "PERIFÉRICOS DE INFORMÁTICA",
+      "categorySlug": "perifericos-de-informatica",
+      "path": "/teclado-mouse-sfio-kit-arteck-9959",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--761--maxprint"
+  }
+}

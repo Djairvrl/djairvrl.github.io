@@ -1,0 +1,85 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de RDM INDUSTRIA E ENGENHARIA DE SISTEMAS CONTRA INCENDIO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "6284",
+    "name": "RDM INDUSTRIA E ENGENHARIA DE SISTEMAS CONTRA INCENDIO LTDA"
+  },
+  "products": [
+    {
+      "code": "13429",
+      "title": "DETECTOR CHAMA FS24X PLUS 3IR MARITIMO",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "RDM INDUSTRIA E ENGENHARIA DE SISTEMAS CONTRA INCENDIO LTDA",
+      "supplierCode": "6284",
+      "manufacturerCode": "FS24XP-ANGXM",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/detector-chama-fs24x-plus-3ir-maritimo-13429",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "combate-a-incendio--fornecedor-6284"
+  }
+}

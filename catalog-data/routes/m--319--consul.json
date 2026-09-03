@@ -1,0 +1,121 @@
+{
+  "title": "CONSUL",
+  "parentLabel": "Marca",
+  "description": "Produtos CONSUL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CONSUL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11364",
+      "title": "FREEZER 534L CONSUL CHB53 HORIZ 220V BCO",
+      "brand": "CONSUL",
+      "brandCode": "319",
+      "supplier": "GRUPO CASAS BAHIA S.A.",
+      "supplierCode": "1690",
+      "manufacturerCode": "001-004088360",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/freezer-534l-consul-chb53-horiz-220v-bco-11364",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9350",
+      "title": "MICRO-ONDAS CONSUL CM546AB 32L",
+      "brand": "CONSUL",
+      "brandCode": "319",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "532",
+      "manufacturerCode": "7273261",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/microondas-consul-cm546ab-32l-9350",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8271",
+      "title": "REFRIGERADOR 261L 220V",
+      "brand": "CONSUL",
+      "brandCode": "319",
+      "supplier": "GAZIN INDUSTRIA E COMERCIO DE MOVEIS E ELETRODOMESTICOS S.A",
+      "supplierCode": "2020",
+      "manufacturerCode": "11135.1.2",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/refrigerador-261l-220v-8271",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13246",
+      "title": "REFRIGERADOR CONSUL 337L CRB39MB 220V",
+      "brand": "CONSUL",
+      "brandCode": "319",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "1039827",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/refrigerador-consul-337l-crb39mb-220v-13246",
+      "image": "/products/images/0132/13246.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "6998",
+      "title": "REFRIGERADOR CONSUL FACILIT 342L 220V 1P",
+      "brand": "CONSUL",
+      "brandCode": "319",
+      "supplier": "WEBCONTINENTAL LTDA",
+      "supplierCode": "1448",
+      "manufacturerCode": "760050072222040201",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/refrigerador-consul-facilit-342l-220v-1p-6998",
+      "image": "/products/images/0069/6998.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "6682",
+      "title": "REFRIGERADOR CONSUL FF 2P 410L INOX 220V",
+      "brand": "CONSUL",
+      "brandCode": "319",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "532",
+      "manufacturerCode": "6803872",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/refrigerador-consul-ff-2p-410l-inox-220v-6682",
+      "image": "/products/images/0066/6682.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--319--consul"
+  }
+}

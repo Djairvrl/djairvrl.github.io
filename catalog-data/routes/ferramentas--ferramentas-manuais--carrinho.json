@@ -1,0 +1,78 @@
+{
+  "title": "CARRINHO",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria carrinho em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "CARRINHO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11614",
+      "title": "CARRINHO DE TRANSPORTE P/ 2CILINDRO",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6160005000",
+      "category": "CARRINHO",
+      "categorySlug": "carrinho",
+      "path": "/carrinho-de-transporte-p-2cilindro-11614",
+      "image": "/products/images/0116/11614.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7808",
+      "title": "CARRINHO PARA 2 GALOES DE AGUA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CAC BARROS COMERCIO",
+      "supplierCode": "1077",
+      "manufacturerCode": "4880",
+      "category": "CARRINHO",
+      "categorySlug": "carrinho",
+      "path": "/carrinho-para-2-galoes-de-agua-7808",
+      "image": "/products/images/0078/7808.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7795",
+      "title": "PORTA PECAS DESMONTAVEL C 1 GAVETA CD 2",
+      "brand": "FERCAR",
+      "brandCode": "337",
+      "supplier": "METALURGICA FERCAR LTDA",
+      "supplierCode": "1332",
+      "manufacturerCode": "1235",
+      "category": "CARRINHO",
+      "categorySlug": "carrinho",
+      "path": "/porta-pecas-desmontavel-c-1-gaveta-cd-2-7795",
+      "image": "/products/images/0077/7795.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-manuais--carrinho"
+  }
+}

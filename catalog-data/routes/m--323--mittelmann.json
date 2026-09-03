@@ -1,0 +1,36 @@
+{
+  "title": "MITTELMANN",
+  "parentLabel": "Marca",
+  "description": "Produtos MITTELMANN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MITTELMANN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6722",
+      "title": "KIT DESCENSOR EMERG MRG-9 C/ VOLANT 15M",
+      "brand": "MITTELMANN",
+      "brandCode": "323",
+      "supplier": "MARIA APARECIDA COMITRE PEREZ - ME",
+      "supplierCode": "483",
+      "manufacturerCode": "TD-0040",
+      "category": "DESCENSORES E ASCENSORES",
+      "categorySlug": "descensores-e-ascensores",
+      "path": "/kit-descensor-emerg-mrg9-c-volant-15m-6722",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--323--mittelmann"
+  }
+}

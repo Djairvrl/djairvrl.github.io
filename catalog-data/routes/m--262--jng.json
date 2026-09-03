@@ -1,0 +1,36 @@
+{
+  "title": "JNG",
+  "parentLabel": "Marca",
+  "description": "Produtos JNG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JNG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6893",
+      "title": "VARIADOR DE VOLTAGEM TRIFASICO VARIAC 6",
+      "brand": "JNG",
+      "brandCode": "262",
+      "supplier": "ITEST - MEDICAO E AUTOMACAO LTDA",
+      "supplierCode": "1415",
+      "manufacturerCode": "TSGC2-6",
+      "category": "ACIONAMENTO",
+      "categorySlug": "acionamento",
+      "path": "/variador-de-voltagem-trifasico-variac-6-6893",
+      "image": "/products/images/0068/6893.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--262--jng"
+  }
+}

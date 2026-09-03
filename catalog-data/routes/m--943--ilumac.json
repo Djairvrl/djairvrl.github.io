@@ -1,0 +1,36 @@
+{
+  "title": "ILUMAC",
+  "parentLabel": "Marca",
+  "description": "Produtos ILUMAC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ILUMAC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11467",
+      "title": "SPRAY TESTE DETECTOR FUMACA 400ML",
+      "brand": "ILUMAC",
+      "brandCode": "943",
+      "supplier": "ILUMAC INDUSTRIA COMERCIO E SERVICOS LTDA",
+      "supplierCode": "4991",
+      "manufacturerCode": "0070037",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/spray-teste-detector-fumaca-400ml-11467",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--943--ilumac"
+  }
+}

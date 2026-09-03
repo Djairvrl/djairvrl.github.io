@@ -1,0 +1,163 @@
+{
+  "title": "VASSOURAS",
+  "parentLabel": "Limpeza Industrial",
+  "description": "Produtos da categoria vassouras em limpeza industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Limpeza Industrial",
+      "to": "/ambiental/limpeza-industrial"
+    },
+    {
+      "label": "VASSOURAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3401",
+      "title": "VASSOURA DE PELO 40CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "9008C",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vassoura-de-pelo-40cm-3401",
+      "image": "/products/images/0034/3401.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "4031",
+      "title": "VASSOURA G AREAS PISO SECO MOLHAD V-16",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "97337",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vassoura-g-areas-piso-seco-molhad-v16-4031",
+      "image": "/products/images/0040/4031.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "9332",
+      "title": "VASSOURA GARI C.PLAST CERDA MACIA VD610",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6355610000",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vassoura-gari-cplast-cerda-macia-vd610-9332",
+      "image": "/products/images/0093/9332.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "6980",
+      "title": "VASSOURA GARI CEPA PLAST VD600",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6355600000",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vassoura-gari-cepa-plast-vd600-6980",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13111",
+      "title": "VASSOURA PARA PAINEIS SOLARES 1,1M A 1,7",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "63.64.012.190",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vassoura-para-paineis-solares-11m-a-17-13111",
+      "image": "/products/images/0131/13111.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "718",
+      "title": "VASSOURA TIPO GARI 5 FILEIRAS CABO 120MM MADEIRA - NOVE54",
+      "brand": "954",
+      "brandCode": "108",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6355020004",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vassoura-tipo-gari-5-fileiras-cabo-120mm-madeira--nove54-718",
+      "image": "/products/images/0007/718.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "9731",
+      "title": "VASSOURA TIPO GARI CEPA DE MADEIRA COM 5 FILEIRAS  VONDER REF 6355020000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6355020000",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vassoura-tipo-gari-cepa-de-madeira-com-5-fileiras-vonder-ref-6355020000-9731",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13326",
+      "title": "VASSSOURA V-45 CEPO CRU C/ROSCA",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "97336",
+      "category": "VASSOURAS",
+      "categorySlug": "vassouras",
+      "path": "/vasssoura-v45-cepo-cru-crosca-13326",
+      "image": "/products/images/0133/13326.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "ambiental--limpeza-industrial--vassouras"
+  }
+}

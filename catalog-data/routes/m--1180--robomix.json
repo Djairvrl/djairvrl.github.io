@@ -1,0 +1,36 @@
+{
+  "title": "ROBOMIX",
+  "parentLabel": "Marca",
+  "description": "Produtos ROBOMIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROBOMIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13088",
+      "title": "TELESCOPIO REFRATOR 675X 60MM TRIPE",
+      "brand": "ROBOMIX",
+      "brandCode": "1180",
+      "supplier": "NIGHTECH COMERCIO IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "6080",
+      "manufacturerCode": "ML0109",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/telescopio-refrator-675x-60mm-tripe-13088",
+      "image": "/products/images/0130/13088.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1180--robomix"
+  }
+}

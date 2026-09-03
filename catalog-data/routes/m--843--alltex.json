@@ -1,0 +1,53 @@
+{
+  "title": "ALLTEX",
+  "parentLabel": "Marca",
+  "description": "Produtos ALLTEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALLTEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10978",
+      "title": "ARRUELA SEXTAVA GALV. FOGO PESADA 4\" (IP",
+      "brand": "ALLTEX",
+      "brandCode": "843",
+      "supplier": "EX BLINDADOS - COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "4285",
+      "manufacturerCode": "ARRFG4",
+      "category": "ARRUELAS",
+      "categorySlug": "arruelas",
+      "path": "/arruela-sextava-galv-fogo-pesada-4-ip-10978",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "10979",
+      "title": "BUCHA SEXTAVADA GALV FOGO PESADA 4\" IP66",
+      "brand": "ALLTEX",
+      "brandCode": "843",
+      "supplier": "EX BLINDADOS - COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "4285",
+      "manufacturerCode": "BCHSEFG4",
+      "category": "BUCHA",
+      "categorySlug": "bucha",
+      "path": "/bucha-sextavada-galv-fogo-pesada-4-ip66-10979",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--843--alltex"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "SPMED",
+  "parentLabel": "Marca",
+  "description": "Produtos SPMED disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SPMED"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8193",
+      "title": "ARMÁRIO VITRINE 2 PORTAS - SPMED",
+      "brand": "SPMED",
+      "brandCode": "614",
+      "supplier": "FLAVIA DE SA SOARES LIMA",
+      "supplierCode": "2190",
+      "manufacturerCode": "SPC-1005",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/armario-vitrine-2-portas--spmed-8193",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--614--spmed"
+  }
+}

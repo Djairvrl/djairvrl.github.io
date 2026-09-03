@@ -1,0 +1,87 @@
+{
+  "title": "ESMALTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos ESMALTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ESMALTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7638",
+      "title": "BEBEDOURO DE COLUNA COM GARRAFÃO INFERIOR INOX EGCQF HE PRETO 220V - ESMALTEC 0106000250",
+      "brand": "ESMALTEC",
+      "brandCode": "235",
+      "supplier": "CARAJAS MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "3003",
+      "manufacturerCode": "0106000250",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/bebedouro-de-coluna-com-garrafao-inferior-inox-egcqf-he-preto-220v--esmaltec-0106000250-7638",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10001",
+      "title": "BEBEDOURO ESMALTEC COL COMP  EGC35B BCO",
+      "brand": "ESMALTEC",
+      "brandCode": "235",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "532",
+      "manufacturerCode": "1746624",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/bebedouro-esmaltec-col-comp-egc35b-bco-10001",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8229",
+      "title": "BEBEDOURO ESMALTEC COL COMPR PRETO/INOX",
+      "brand": "ESMALTEC",
+      "brandCode": "235",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "745",
+      "manufacturerCode": "3053768",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/bebedouro-esmaltec-col-compr-pretoinox-8229",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10942",
+      "title": "REFRIGERADOR ROC31 PRO BRANCO",
+      "brand": "ESMALTEC",
+      "brandCode": "235",
+      "supplier": "EBAZAR.COM.BR. LTDA",
+      "supplierCode": "1685",
+      "manufacturerCode": "1384945",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/refrigerador-roc31-pro-branco-10942",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--235--esmaltec"
+  }
+}

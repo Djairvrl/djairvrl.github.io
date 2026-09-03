@@ -1,0 +1,44 @@
+{
+  "title": "PONTEIRAS",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria ponteiras em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "PONTEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3666",
+      "title": "PONTEIRO SEXTAVADO 12\" COM EMPUNHADURA - TRAMONTINA MASTER REF. 42705912",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "42705/912",
+      "category": "PONTEIRAS",
+      "categorySlug": "ponteiras",
+      "path": "/ponteiro-sextavado-12-com-empunhadura--tramontina-master-ref-42705912-3666",
+      "image": "/products/images/0036/3666.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-manuais--ponteiras"
+  }
+}

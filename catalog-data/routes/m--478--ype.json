@@ -1,0 +1,53 @@
+{
+  "title": "YPE",
+  "parentLabel": "Marca",
+  "description": "Produtos YPE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "YPE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10847",
+      "title": "SABAO EM BARRA 900G YPE NEUTRO",
+      "brand": "YPE",
+      "brandCode": "478",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "14298",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/sabao-em-barra-900g-ype-neutro-10847",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "4113",
+      "title": "SABAO YPE NEUTRO 180G",
+      "brand": "YPE",
+      "brandCode": "478",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "01544",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/sabao-ype-neutro-180g-4113",
+      "image": "/products/images/0041/4113.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--478--ype"
+  }
+}

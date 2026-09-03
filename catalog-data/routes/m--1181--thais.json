@@ -1,0 +1,36 @@
+{
+  "title": "THAIS",
+  "parentLabel": "Marca",
+  "description": "Produtos THAIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "THAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13090",
+      "title": "CONJ MESA THAIS ARTF 70CM 4CAD BRANCO",
+      "brand": "THAIS",
+      "brandCode": "1181",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "6082",
+      "manufacturerCode": "7701276",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/conj-mesa-thais-artf-70cm-4cad-branco-13090",
+      "image": "/products/images/0130/13090.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1181--thais"
+  }
+}

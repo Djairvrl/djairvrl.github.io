@@ -1,0 +1,61 @@
+{
+  "title": "AQUECEDORES INDUTIVOS",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria aquecedores indutivos em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "AQUECEDORES INDUTIVOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6770",
+      "title": "AQUECEDOR INDUTIVO PARA ROLAMENTOS ATÉ 120KG TIH 100M 230V - SKF",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "supplierCode": "806",
+      "manufacturerCode": "7038593",
+      "category": "AQUECEDORES INDUTIVOS",
+      "categorySlug": "aquecedores-indutivos",
+      "path": "/aquecedor-indutivo-para-rolamentos-ate-120kg-tih-100m-230v--skf-6770",
+      "image": "/products/images/0067/6770.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5643",
+      "title": "AQUECEDOR POR INDUÇÃO TIH 030M/230V PARA ROLAMENTOS 20-300MM, 40 KG, 200-240 V - SKF",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "supplierCode": "806",
+      "manufacturerCode": "5792",
+      "category": "AQUECEDORES INDUTIVOS",
+      "categorySlug": "aquecedores-indutivos",
+      "path": "/aquecedor-por-inducao-tih-030m230v-para-rolamentos-20300mm-40-kg-200240-v--skf-5643",
+      "image": "/products/images/0056/5643.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-eletricas--aquecedores-indutivos"
+  }
+}

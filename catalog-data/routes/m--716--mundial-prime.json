@@ -1,0 +1,70 @@
+{
+  "title": "MUNDIAL PRIME",
+  "parentLabel": "Marca",
+  "description": "Produtos MUNDIAL PRIME disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MUNDIAL PRIME"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10633",
+      "title": "LIMPA CONTATO SPRAY 300 ML AE06000019 DV",
+      "brand": "MUNDIAL PRIME",
+      "brandCode": "716",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "1062207",
+      "category": "LIMPA CONTATO",
+      "categorySlug": "limpa-contato",
+      "path": "/limpa-contato-spray-300-ml-ae06000019-dv-10633",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11311",
+      "title": "SPRAY AMARELO BANDEIRA UG 400ML",
+      "brand": "MUNDIAL PRIME",
+      "brandCode": "716",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "67115",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/spray-amarelo-bandeira-ug-400ml-11311",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "9725",
+      "title": "TINTA SPRAY ALTA TEMPERAT ALUMINIO 400ML",
+      "brand": "MUNDIAL PRIME",
+      "brandCode": "716",
+      "supplier": "GERALFIX COMERCIO DE FIXADORES LTDA",
+      "supplierCode": "2702",
+      "manufacturerCode": "1908213197",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/tinta-spray-alta-temperat-aluminio-400ml-9725",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--716--mundial-prime"
+  }
+}

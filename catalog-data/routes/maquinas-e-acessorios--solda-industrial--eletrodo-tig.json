@@ -1,0 +1,129 @@
+{
+  "title": "ELETRODO TIG",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria eletrodo tig em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "ELETRODO TIG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5357",
+      "title": "ELETRODO DE TUNGSTÊNIO 1,60X150MM PONTA VERMELHA COM 2% DE TÓRIO - CARBOGRAFITE",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040224",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-de-tungstenio-160x150mm-ponta-vermelha-com-2-de-torio--carbografite-5357",
+      "image": "/products/images/0053/5357.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5360",
+      "title": "ELETRODO DE TUNGSTÊNIO 2,40X150MM PONTA VERMELHA COM 2% DE TÓRIO - CARBOGRAFITE",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040226",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-de-tungstenio-240x150mm-ponta-vermelha-com-2-de-torio--carbografite-5360",
+      "image": "/products/images/0053/5360.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5359",
+      "title": "ELETRODO TUNG 3,20X150MM PURO P VERDE DC",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040302",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-tung-320x150mm-puro-p-verde-dc-5359",
+      "image": "/products/images/0053/5359.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11989",
+      "title": "ELETRODO TUNGSTENIO 2.4MM PTA VERMELHO",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "BAZZO MAQUINAS",
+      "supplierCode": "3792",
+      "manufacturerCode": "1573",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-tungstenio-24mm-pta-vermelho-11989",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11265",
+      "title": "ELETRODO TUNGSTENIO REF EWP C/TORIO 3,25",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "7411321509",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-tungstenio-ref-ewp-ctorio-325-11265",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5358",
+      "title": "ELETRODO TUNGSTÊNIO 2,40X150MM PURO PONTA VERDE (EWP) - CARBOGRAFITE",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040225",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-tungstenio-240x150mm-puro-ponta-verde-ewp--carbografite-5358",
+      "image": "/products/images/0053/5358.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--eletrodo-tig"
+  }
+}

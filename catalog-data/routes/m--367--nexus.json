@@ -1,0 +1,36 @@
+{
+  "title": "NEXUS",
+  "parentLabel": "Marca",
+  "description": "Produtos NEXUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEXUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6870",
+      "title": "PERNEIRA COMB 3 TLS TAMANHO M - CA 37.",
+      "brand": "NEXUS",
+      "brandCode": "367",
+      "supplier": "NEXUS E.P.I. INDUSTRIA E COMERCIO - EIRELI",
+      "supplierCode": "1408",
+      "manufacturerCode": "20014",
+      "category": "PERNEIRAS",
+      "categorySlug": "perneiras",
+      "path": "/perneira-comb-3-tls-tamanho-m--ca-37-6870",
+      "image": "/products/images/0068/6870.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--367--nexus"
+  }
+}

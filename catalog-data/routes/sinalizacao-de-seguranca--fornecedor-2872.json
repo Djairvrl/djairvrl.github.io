@@ -1,0 +1,123 @@
+{
+  "title": "Sinalização de Segurança",
+  "parentLabel": "Departamento",
+  "description": "Produtos de HDP IND COM PLAST METAIS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança"
+    }
+  ],
+  "children": [
+    {
+      "name": "Placas de Advertência e Emergência",
+      "slug": "placas-de-advertencia-e-emergencia",
+      "path": "/sinalizacao-de-seguranca/placas-de-advertencia-e-emergencia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Sinalização Viária, Tráfego e Delimitação",
+      "slug": "sinalizacao-viaria-trafego-e-delimitacao",
+      "path": "/sinalizacao-de-seguranca/sinalizacao-viaria-trafego-e-delimitacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Adesivo Refletivo Grau Prismático Iii",
+      "slug": "adesivo-refletivo-grau-prismatico-iii",
+      "path": "/sinalizacao-de-seguranca/adesivo-refletivo-grau-prismatico-iii",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Placas E Dispositivos",
+      "slug": "placas-e-dispositivos",
+      "path": "/sinalizacao-de-seguranca/placas-e-dispositivos",
+      "count": 179,
+      "categories": [
+        {
+          "name": "SINALIZAÇÃO DE EXTINTORES",
+          "slug": "sinalizacao-de-extintores",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-extintores",
+          "count": 27
+        },
+        {
+          "name": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+          "slug": "sinalizacao-de-proibicao-e-alerta",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-proibicao-e-alerta",
+          "count": 7
+        },
+        {
+          "name": "SINALIZAÇÃO EQUIPAMENTOS",
+          "slug": "sinalizacao-equipamentos",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-equipamentos",
+          "count": 2
+        },
+        {
+          "name": "SINALIZAÇÃO ROTA DE FUGA",
+          "slug": "sinalizacao-rota-de-fuga",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-rota-de-fuga",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÃO VIÁRIA",
+          "slug": "sinalizacao-viaria",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-viaria",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÕES DIVERSAS",
+          "slug": "sinalizacoes-diversas",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacoes-diversas",
+          "count": 71
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "2872",
+    "name": "HDP IND COM PLAST METAIS LTDA"
+  },
+  "products": [
+    {
+      "code": "9966",
+      "title": "PLACA  PROT 7.5X150X196MM 2F DIAM 50MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HDP IND COM PLAST METAIS LTDA",
+      "supplierCode": "2872",
+      "manufacturerCode": "PURPLCA92SH7X150X196",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-prot-75x150x196mm-2f-diam-50mm-9966",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "9976",
+      "title": "PLACA HDPRENE 5,5A 6,0X98X150MM FURO CEN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HDP IND COM PLAST METAIS LTDA",
+      "supplierCode": "2872",
+      "manufacturerCode": "PURPLCA92SH5,5X98X15",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-hdprene-55a-60x98x150mm-furo-cen-9976",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "sinalizacao-de-seguranca--fornecedor-2872"
+  }
+}

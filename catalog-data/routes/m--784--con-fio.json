@@ -1,0 +1,36 @@
+{
+  "title": "CON-FIO",
+  "parentLabel": "Marca",
+  "description": "Produtos CON-FIO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CON-FIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10591",
+      "title": "KIT ILHOS TERMI OLHAL PINO LUVA 500PCS",
+      "brand": "CON-FIO",
+      "brandCode": "784",
+      "supplier": "DECORARMAIS COMERCIO ELETRONICO, IMPORTACOES E EXPORTACOES",
+      "supplierCode": "3826",
+      "manufacturerCode": "KIT TERMINAIS 1",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/kit-ilhos-termi-olhal-pino-luva-500pcs-10591",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--784--con-fio"
+  }
+}

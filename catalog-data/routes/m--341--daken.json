@@ -1,0 +1,70 @@
+{
+  "title": "DAKEN",
+  "parentLabel": "Marca",
+  "description": "Produtos DAKEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DAKEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6101",
+      "title": "ABRIGO P/EXTINTOR POLIPROPILENO 6KG",
+      "brand": "DAKEN",
+      "brandCode": "341",
+      "supplier": "BEONLI COMERCIO ELETRONICO EIRELI",
+      "supplierCode": "1348",
+      "manufacturerCode": "12800020005",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-pextintor-polipropileno-6kg-6101",
+      "image": "/products/images/0061/6101.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9974",
+      "title": "ABRIGO PARA EXTINTOR  4/6KG REGON  DAKEN REF 82170",
+      "brand": "DAKEN",
+      "brandCode": "341",
+      "supplier": "DAKEN BRASIL LTDA",
+      "supplierCode": "1832",
+      "manufacturerCode": "DKB82170",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-para-extintor-46kg-regon-daken-ref-82170-9974",
+      "image": "/products/images/0099/9974.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "7757",
+      "title": "ABRIGO PARA EXTINTOR 335 X 715 X 240MM 6/9KG - DAKEN REGON 82130",
+      "brand": "DAKEN",
+      "brandCode": "341",
+      "supplier": "DAKEN BRASIL LTDA",
+      "supplierCode": "1832",
+      "manufacturerCode": "DKB82130",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-para-extintor-335-x-715-x-240mm-69kg--daken-regon-82130-7757",
+      "image": "/products/images/0077/7757.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--341--daken"
+  }
+}

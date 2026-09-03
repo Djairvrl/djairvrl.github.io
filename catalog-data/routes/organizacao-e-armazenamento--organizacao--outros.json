@@ -1,0 +1,163 @@
+{
+  "title": "OUTROS",
+  "parentLabel": "Organização",
+  "description": "Produtos da categoria outros em organização.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Organização",
+      "to": "/organizacao-e-armazenamento/organizacao"
+    },
+    {
+      "label": "OUTROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1132",
+      "title": "KIT COM 3 UNIDADES CINTO ENGATE RÁPIDO APH 1,2M X 50MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "95449",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/kit-com-3-unidades-cinto-engate-rapido-aph-12m-x-50mm-1132",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "10179",
+      "title": "MANTA BORRACHA  2 X 800 X 2200MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CRISTIANO R. FUZARO COMERCIO DE BORRACHAS LTDA",
+      "supplierCode": "3236",
+      "manufacturerCode": "12554",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/manta-borracha-2-x-800-x-2200mm-10179",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "9807",
+      "title": "MANTA DE BORRACHA PARA BANCADA  MARCON REF LB-2",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "DUTRA MAQUINAS COMERCIAL E TECNICA LTDA",
+      "supplierCode": "1562",
+      "manufacturerCode": "LB-2",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/manta-de-borracha-para-bancada-marcon-ref-lb2-9807",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6368",
+      "title": "PERNA DE APOIO PARA BANCADA",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954/014",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/perna-de-apoio-para-bancada-6368",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "13003",
+      "title": "RODIZIO GIRATORIO INDUSTRIAL 6\"",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3579000606",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/rodizio-giratorio-industrial-6-13003",
+      "image": "/products/images/0130/13003.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11881",
+      "title": "SACO PP LISO 10X25X04",
+      "brand": "BRASIL EMBALAGENS",
+      "brandCode": "1001",
+      "supplier": "BRASIL DISTRIBUIDORA DE EMBALAGENS LTDA",
+      "supplierCode": "5354",
+      "manufacturerCode": "73560",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/saco-pp-liso-10x25x04-11881",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11876",
+      "title": "SACO PP LISO 25X35X04",
+      "brand": "FABRIMAX",
+      "brandCode": "101",
+      "supplier": "BRASIL DISTRIBUIDORA DE EMBALAGENS LTDA",
+      "supplierCode": "5354",
+      "manufacturerCode": "73559",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/saco-pp-liso-25x35x04-11876",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11878",
+      "title": "SACO TRANSPARENTE 52X70 INCOLOR",
+      "brand": "BRASIL EMBALAGENS",
+      "brandCode": "1001",
+      "supplier": "BRASIL DISTRIBUIDORA DE EMBALAGENS LTDA",
+      "supplierCode": "5354",
+      "manufacturerCode": "13901",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/saco-transparente-52x70-incolor-11878",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "organizacao-e-armazenamento--organizacao--outros"
+  }
+}

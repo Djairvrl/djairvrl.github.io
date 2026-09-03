@@ -1,0 +1,104 @@
+{
+  "title": "LIGHTBURY",
+  "parentLabel": "Marca",
+  "description": "Produtos LIGHTBURY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LIGHTBURY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10098",
+      "title": "LUVA ISOLANTE PRETA CLASSE 0 TAM 10,5",
+      "brand": "LIGHTBURY",
+      "brandCode": "750",
+      "supplier": "LIGHTBURY INDUSTRIA E COMERCIO DE ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "3030",
+      "manufacturerCode": "LB140105BR",
+      "category": "ALTA TENSÃO E COBERTURA",
+      "categorySlug": "alta-tensao-e-cobertura",
+      "path": "/luva-isolante-preta-classe-0-tam-105-10098",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "10100",
+      "title": "LUVA ISOLANTE PRETA CLASSE 4 TAM 9,5",
+      "brand": "LIGHTBURY",
+      "brandCode": "750",
+      "supplier": "LIGHTBURY INDUSTRIA E COMERCIO DE ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "3030",
+      "manufacturerCode": "LB164095BR",
+      "category": "ALTA TENSÃO E COBERTURA",
+      "categorySlug": "alta-tensao-e-cobertura",
+      "path": "/luva-isolante-preta-classe-4-tam-95-10100",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "10099",
+      "title": "LUVA ISOLANTE PT CLASSE 4 TAM 10 CA46847",
+      "brand": "LIGHTBURY",
+      "brandCode": "750",
+      "supplier": "LIGHTBURY INDUSTRIA E COMERCIO DE ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "3030",
+      "manufacturerCode": "LB164100BR",
+      "category": "ALTA TENSÃO E COBERTURA",
+      "categorySlug": "alta-tensao-e-cobertura",
+      "path": "/luva-isolante-pt-classe-4-tam-10-ca46847-10099",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "10315",
+      "title": "LUVA ISOLANTE PT CLASSE 4 TAM 9 CA46847",
+      "brand": "LIGHTBURY",
+      "brandCode": "750",
+      "supplier": "LIGHTBURY INDUSTRIA E COMERCIO DE ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "3030",
+      "manufacturerCode": "LB164090BR",
+      "category": "ALTA TENSÃO E COBERTURA",
+      "categorySlug": "alta-tensao-e-cobertura",
+      "path": "/luva-isolante-pt-classe-4-tam-9-ca46847-10315",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "10313",
+      "title": "MANGA ISOL LARAN TIPO 2 CLASSE 4 CA49680",
+      "brand": "LIGHTBURY",
+      "brandCode": "750",
+      "supplier": "LIGHTBURY INDUSTRIA E COMERCIO DE ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "3030",
+      "manufacturerCode": "PRD04858",
+      "category": "ALTA TENSÃO E COBERTURA",
+      "categorySlug": "alta-tensao-e-cobertura",
+      "path": "/manga-isol-laran-tipo-2-classe-4-ca49680-10313",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--750--lightbury"
+  }
+}

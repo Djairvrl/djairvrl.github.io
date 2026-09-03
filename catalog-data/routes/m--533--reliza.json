@@ -1,0 +1,53 @@
+{
+  "title": "RELIZA",
+  "parentLabel": "Marca",
+  "description": "Produtos RELIZA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RELIZA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7746",
+      "title": "MOUSE PAD ERGONOMICO COM APOIO DE PUNHO",
+      "brand": "RELIZA",
+      "brandCode": "533",
+      "supplier": "ODC PREPARACAO DE ARTIGOS DE ACESSO E IDENTIFICACAO LTDA",
+      "supplierCode": "1818",
+      "manufacturerCode": "MLB3146860251176398540374",
+      "category": "ERGONOMIA",
+      "categorySlug": "ergonomia",
+      "path": "/mouse-pad-ergonomico-com-apoio-de-punho-7746",
+      "image": "/products/images/0077/7746.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8456",
+      "title": "MOUSE PAD ERGONOMICO PRETO 7.",
+      "brand": "RELIZA",
+      "brandCode": "533",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "46372",
+      "category": "ERGONOMIA",
+      "categorySlug": "ergonomia",
+      "path": "/mouse-pad-ergonomico-preto-7-8456",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--533--reliza"
+  }
+}

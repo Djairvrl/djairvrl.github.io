@@ -1,0 +1,89 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MARTA RAQUEL SOARES CESARIO 05179236452 neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "959",
+    "name": "MARTA RAQUEL SOARES CESARIO 05179236452"
+  },
+  "products": [
+    {
+      "code": "8049",
+      "title": "ADESIVO A3 COM REC ESPECIAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "ADREC28082023",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivo-a3-com-rec-especial-8049",
+      "image": "/products/images/0080/8049.jpg",
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "6778",
+      "title": "ETIQUETAS ADESIVAS 14X21 MM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "05",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/etiquetas-adesivas-14x21-mm-6778",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "6777",
+      "title": "ETIQUETAS ADESIVAS 25X25 MM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "06",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/etiquetas-adesivas-25x25-mm-6777",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "uso-especifico--fornecedor-959"
+  }
+}

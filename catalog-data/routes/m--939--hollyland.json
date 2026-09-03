@@ -1,0 +1,36 @@
+{
+  "title": "HOLLYLAND",
+  "parentLabel": "Marca",
+  "description": "Produtos HOLLYLAND disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HOLLYLAND"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11416",
+      "title": "MIC HOLLYLAND LARK M2 DUO USB-C/LIGHTNIN",
+      "brand": "HOLLYLAND",
+      "brandCode": "939",
+      "supplier": "HZ COMERCIO E SERVICOS LTDA",
+      "supplierCode": "4951",
+      "manufacturerCode": "HOLLYLAND LARK M2 COMBO",
+      "category": "PERIFÉRICOS DE INFORMÁTICA",
+      "categorySlug": "perifericos-de-informatica",
+      "path": "/mic-hollyland-lark-m2-duo-usbclightnin-11416",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--939--hollyland"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "TPA2- 3",
+  "parentLabel": "Marca",
+  "description": "Produtos TPA2- 3 disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TPA2- 3"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13263",
+      "title": "TOMADAS EMBUTIR FEMEA 3 PINOS 10A TPA2-3",
+      "brand": "TPA2- 3",
+      "brandCode": "1212",
+      "supplier": "RISC TECH BRASIL",
+      "supplierCode": "6196",
+      "manufacturerCode": "MLB6815237828",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/tomadas-embutir-femea-3-pinos-10a-tpa23-13263",
+      "image": "/products/images/0132/13263.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1212--tpa2-3"
+  }
+}

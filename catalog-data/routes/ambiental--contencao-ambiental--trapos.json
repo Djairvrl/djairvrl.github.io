@@ -1,0 +1,112 @@
+{
+  "title": "TRAPOS",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria trapos em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "TRAPOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3816",
+      "title": "TRAPO FINO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CAIO CANDIDO FERREIRA 11281862410",
+      "supplierCode": "853",
+      "manufacturerCode": "0,01",
+      "category": "TRAPOS",
+      "categorySlug": "trapos",
+      "path": "/trapo-fino-3816",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "4892",
+      "title": "TRAPOS COSTURADOS COR/ BRANCO  KG",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "BARAO INDUSTRIA E COMERCIO ATACADISTA DE RECICLAVEIS LTDA",
+      "supplierCode": "1477",
+      "manufacturerCode": "00000000000152",
+      "category": "TRAPOS",
+      "categorySlug": "trapos",
+      "path": "/trapos-costurados-cor-branco-kg-4892",
+      "image": "/products/images/0048/4892.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12312",
+      "title": "TRAPOS DE MALHA 25 KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JAS COMERCIO VAREJISTA & SERVICOS LTDA",
+      "supplierCode": "1067",
+      "manufacturerCode": "12",
+      "category": "TRAPOS",
+      "categorySlug": "trapos",
+      "path": "/trapos-de-malha-25-kg-12312",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "1646",
+      "title": "TRAPOS DE MALHA PARA LIMPEZA INDUSTRIAL - VENDIDO POR KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JAS COMERCIO VAREJISTA & SERVICOS LTDA",
+      "supplierCode": "1067",
+      "manufacturerCode": "12",
+      "category": "TRAPOS",
+      "categorySlug": "trapos",
+      "path": "/trapos-de-malha-para-limpeza-industrial--vendido-por-kg-1646",
+      "image": "/products/images/0016/1646.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "11738",
+      "title": "TRAPOS DE MALHA PT 50 KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JAS COMERCIO VAREJISTA & SERVICOS LTDA",
+      "supplierCode": "1067",
+      "manufacturerCode": "11738",
+      "category": "TRAPOS",
+      "categorySlug": "trapos",
+      "path": "/trapos-de-malha-pt-50-kg-11738",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ambiental--contencao-ambiental--trapos"
+  }
+}

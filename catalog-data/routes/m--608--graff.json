@@ -1,0 +1,121 @@
+{
+  "title": "GRAFF",
+  "parentLabel": "Marca",
+  "description": "Produtos GRAFF disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GRAFF"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10048",
+      "title": "MACHO MANUAL HSS- M M24 X 3 - 2 PEÇAS EM AÇO RÁPIDO  GRAFF REF 5670036",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0036",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m-m24-x-3--2-pecas-em-aco-rapido-graff-ref-5670036-10048",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8681",
+      "title": "MACHO MANUAL HSS- M12 X 1,75 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0030",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m12-x-175--2-pcs-8681",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8683",
+      "title": "MACHO MANUAL HSS- M14 X 2 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0031",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m14-x-2--2-pcs-8683",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8682",
+      "title": "MACHO MANUAL HSS- M20 X 2,5 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0034",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m20-x-25--2-pcs-8682",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8680",
+      "title": "MACHO MANUAL HSS- M6 X 1 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0026",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m6-x-1--2-pcs-8680",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "10049",
+      "title": "MACHO MANUAL HSS-M M30 X 3,5 - 2  PEÇAS EM AÇO RÁPIDO  GRAFF REF 5670038",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0038",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hssm-m30-x-35--2-pecas-em-aco-rapido-graff-ref-5670038-10049",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--608--graff"
+  }
+}

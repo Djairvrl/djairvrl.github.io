@@ -1,0 +1,61 @@
+{
+  "title": "KIT ACUMULADORES DE PRE CARGA",
+  "parentLabel": "Calibração e Ajuste",
+  "description": "Produtos da categoria kit acumuladores de pre carga em calibração e ajuste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Calibração e Ajuste",
+      "to": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "label": "KIT ACUMULADORES DE PRE CARGA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12488",
+      "title": "KIT ACUMULADOR PRE-CARGA  FPU-1-250-F2.5",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA",
+      "supplierCode": "604",
+      "manufacturerCode": "HBR00440",
+      "category": "KIT ACUMULADORES DE PRE CARGA",
+      "categorySlug": "kit-acumuladores-de-pre-carga",
+      "path": "/kit-acumulador-precarga-fpu1250f25-12488",
+      "image": "/products/images/0124/12488.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "3639",
+      "title": "KIT DE TESTE E PRÉ-CARGA ACUMULADOR HIDRÁULICO 400BAR 2000MM STA-CK-250/100S-HA21-O-ESPECIA - STAUFF",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "STB0013559",
+      "category": "KIT ACUMULADORES DE PRE CARGA",
+      "categorySlug": "kit-acumuladores-de-pre-carga",
+      "path": "/kit-de-teste-e-precarga-acumulador-hidraulico-400bar-2000mm-stack250100sha21oespecia--stauff-3639",
+      "image": "/products/images/0036/3639.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-calibracao-e-ajuste--kit-acumuladores-de-pre-carga"
+  }
+}

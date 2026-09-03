@@ -1,0 +1,53 @@
+{
+  "title": "TS SHARA",
+  "parentLabel": "Marca",
+  "description": "Produtos TS SHARA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TS SHARA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13343",
+      "title": "KIT SNMP NOBREAK - EXTERNO",
+      "brand": "TS SHARA",
+      "brandCode": "1227",
+      "supplier": "TS SHARA TECNOLOGIA DE SISTEMAS LTDA",
+      "supplierCode": "6247",
+      "manufacturerCode": "979",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/kit-snmp-nobreak--externo-13343",
+      "image": "/products/images/0133/13343.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    },
+    {
+      "code": "13344",
+      "title": "NOBREAK SENNO ST 10KVA 220/380V 220V",
+      "brand": "TS SHARA",
+      "brandCode": "1227",
+      "supplier": "TS SHARA TECNOLOGIA DE SISTEMAS LTDA",
+      "supplierCode": "6247",
+      "manufacturerCode": "6850",
+      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
+      "path": "/nobreak-senno-st-10kva-220380v-220v-13344",
+      "image": "/products/images/0133/13344.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1227--ts-shara"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "RACLITE",
+  "parentLabel": "Marca",
+  "description": "Produtos RACLITE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RACLITE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11387",
+      "title": "LANTERNA EX120 RACLITE LED ZONA O",
+      "brand": "RACLITE",
+      "brandCode": "929",
+      "supplier": "GRB INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA",
+      "supplierCode": "4909",
+      "manufacturerCode": "16600602",
+      "category": "ANTIEXPLOSÃO",
+      "categorySlug": "antiexplosao",
+      "path": "/lanterna-ex120-raclite-led-zona-o-11387",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--929--raclite"
+  }
+}

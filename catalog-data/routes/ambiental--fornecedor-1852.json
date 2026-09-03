@@ -1,0 +1,319 @@
+{
+  "title": "Ambiental",
+  "parentLabel": "Departamento",
+  "description": "Produtos de EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental"
+    }
+  ],
+  "children": [
+    {
+      "name": "Contenção Ambiental",
+      "slug": "contencao-ambiental",
+      "path": "/ambiental/contencao-ambiental",
+      "count": 243,
+      "categories": [
+        {
+          "name": "ABSORVENTES ORGÂNICOS",
+          "slug": "absorventes-organicos",
+          "path": "/ambiental/contencao-ambiental/absorventes-organicos",
+          "count": 5
+        },
+        {
+          "name": "BACIAS DE CONTEÇÕES",
+          "slug": "bacias-de-contecoes",
+          "path": "/ambiental/contencao-ambiental/bacias-de-contecoes",
+          "count": 9
+        },
+        {
+          "name": "COLETORES",
+          "slug": "coletores",
+          "path": "/ambiental/contencao-ambiental/coletores",
+          "count": 24
+        },
+        {
+          "name": "CONTENTORES",
+          "slug": "contentores",
+          "path": "/ambiental/contencao-ambiental/contentores",
+          "count": 19
+        },
+        {
+          "name": "CONTROLE DE PRAGAS E VETORES",
+          "slug": "controle-de-pragas-e-vetores",
+          "path": "/ambiental/contencao-ambiental/controle-de-pragas-e-vetores",
+          "count": 2
+        },
+        {
+          "name": "CORDÕES ABSORVENTES",
+          "slug": "cordoes-absorventes",
+          "path": "/ambiental/contencao-ambiental/cordoes-absorventes",
+          "count": 4
+        },
+        {
+          "name": "GALÕES E BOMBONAS",
+          "slug": "galoes-e-bombonas",
+          "path": "/ambiental/contencao-ambiental/galoes-e-bombonas",
+          "count": 30
+        },
+        {
+          "name": "KIT MITIGAÇÃO",
+          "slug": "kit-mitigacao",
+          "path": "/ambiental/contencao-ambiental/kit-mitigacao",
+          "count": 10
+        },
+        {
+          "name": "LIXEIRAS",
+          "slug": "lixeiras",
+          "path": "/ambiental/contencao-ambiental/lixeiras",
+          "count": 105
+        },
+        {
+          "name": "MANTAS ABSORVENTES",
+          "slug": "mantas-absorventes",
+          "path": "/ambiental/contencao-ambiental/mantas-absorventes",
+          "count": 7
+        },
+        {
+          "name": "PALLETS DE CONTENÇÃO",
+          "slug": "pallets-de-contencao",
+          "path": "/ambiental/contencao-ambiental/pallets-de-contencao",
+          "count": 10
+        },
+        {
+          "name": "PESTICIDAS",
+          "slug": "pesticidas",
+          "path": "/ambiental/contencao-ambiental/pesticidas",
+          "count": 5
+        },
+        {
+          "name": "PÁ ANTI FAÍSCA",
+          "slug": "pa-anti-faisca",
+          "path": "/ambiental/contencao-ambiental/pa-anti-faisca",
+          "count": 2
+        },
+        {
+          "name": "TRAPOS",
+          "slug": "trapos",
+          "path": "/ambiental/contencao-ambiental/trapos",
+          "count": 5
+        },
+        {
+          "name": "TRATAMENTO DE EFLUENTES",
+          "slug": "tratamento-de-efluentes",
+          "path": "/ambiental/contencao-ambiental/tratamento-de-efluentes",
+          "count": 1
+        },
+        {
+          "name": "TRAVESSEIROS ABSORVENTES",
+          "slug": "travesseiros-absorventes",
+          "path": "/ambiental/contencao-ambiental/travesseiros-absorventes",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Limpeza Industrial",
+      "slug": "limpeza-industrial",
+      "path": "/ambiental/limpeza-industrial",
+      "count": 80,
+      "categories": [
+        {
+          "name": "BANDEJAS E COLETORAS",
+          "slug": "bandejas-e-coletoras",
+          "path": "/ambiental/limpeza-industrial/bandejas-e-coletoras",
+          "count": 1
+        },
+        {
+          "name": "CARROS FUNCIONAIS E ACESSÓRIOS",
+          "slug": "carros-funcionais-e-acessorios",
+          "path": "/ambiental/limpeza-industrial/carros-funcionais-e-acessorios",
+          "count": 3
+        },
+        {
+          "name": "DESENGRAXANTES",
+          "slug": "desengraxantes",
+          "path": "/ambiental/limpeza-industrial/desengraxantes",
+          "count": 13
+        },
+        {
+          "name": "DESINCRUSTANTES",
+          "slug": "desincrustantes",
+          "path": "/ambiental/limpeza-industrial/desincrustantes",
+          "count": 1
+        },
+        {
+          "name": "ESFREGÕES INDUSTRIAIS",
+          "slug": "esfregoes-industriais",
+          "path": "/ambiental/limpeza-industrial/esfregoes-industriais",
+          "count": 5
+        },
+        {
+          "name": "KIT LIMPEZA INDUSTRIAL",
+          "slug": "kit-limpeza-industrial",
+          "path": "/ambiental/limpeza-industrial/kit-limpeza-industrial",
+          "count": 8
+        },
+        {
+          "name": "PÁS",
+          "slug": "pas",
+          "path": "/ambiental/limpeza-industrial/pas",
+          "count": 4
+        },
+        {
+          "name": "SACOS DE LIXO",
+          "slug": "sacos-de-lixo",
+          "path": "/ambiental/limpeza-industrial/sacos-de-lixo",
+          "count": 37
+        },
+        {
+          "name": "VASSOURAS",
+          "slug": "vassouras",
+          "path": "/ambiental/limpeza-industrial/vassouras",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Proteção e Manejo de Fauna",
+      "slug": "protecao-e-manejo-de-fauna",
+      "path": "/ambiental/protecao-e-manejo-de-fauna",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Acessórios",
+      "slug": "acessorios",
+      "path": "/ambiental/acessorios",
+      "count": 14,
+      "categories": [
+        {
+          "name": "APARELHOS REPELENTES",
+          "slug": "aparelhos-repelentes",
+          "path": "/ambiental/acessorios/aparelhos-repelentes",
+          "count": 1
+        },
+        {
+          "name": "KIT ANIMAIS PEÇONHENTOS",
+          "slug": "kit-animais-peconhentos",
+          "path": "/ambiental/acessorios/kit-animais-peconhentos",
+          "count": 13
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1852",
+    "name": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA"
+  },
+  "products": [
+    {
+      "code": "10882",
+      "title": "BOMBONA PLAST 50L AZUL C/ TAMPA ROSCA",
+      "brand": "EMPLASUL",
+      "brandCode": "823",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "8321",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/bombona-plast-50l-azul-c-tampa-rosca-10882",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "8417",
+      "title": "BOMBONA PLAST.20L-TF VIRGEM BRANCA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "0019",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/bombona-plast20ltf-virgem-branca-8417",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "8418",
+      "title": "BOMBONA PLAST.40L-TR BRANCA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "193-7",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/bombona-plast40ltr-branca-8418",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "13419",
+      "title": "BOMBONA PLASTICA 220LTS - TR AZUL",
+      "brand": "EMPLASUL",
+      "brandCode": "823",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "1759",
+      "category": null,
+      "categorySlug": null,
+      "path": "/bombona-plastica-220lts--tr-azul-13419",
+      "image": "/products/images/0134/13419.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7832",
+      "title": "BOMBONA PLÁSTICA HIGIENIZADA 200 LITROS LARANJA COM TAMPA TR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "8347",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/bombona-plastica-higienizada-200-litros-laranja-com-tampa-tr-7832",
+      "image": "/products/images/0078/7832.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7829",
+      "title": "BOMBONA PLÁSTICA NOVA 200 LITROS AZUL COM TAMPA REMOVÍVEL TR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "9538",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/bombona-plastica-nova-200-litros-azul-com-tampa-removivel-tr-7829",
+      "image": "/products/images/0078/7829.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ambiental--fornecedor-1852"
+  }
+}

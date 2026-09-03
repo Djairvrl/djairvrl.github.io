@@ -1,0 +1,36 @@
+{
+  "title": "MARLIN",
+  "parentLabel": "Marca",
+  "description": "Produtos MARLIN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARLIN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11354",
+      "title": "SAL MARLIN 1KG REFINADO",
+      "brand": "MARLIN",
+      "brandCode": "925",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "010893",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/sal-marlin-1kg-refinado-11354",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--925--marlin"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "PLESTIN",
+  "parentLabel": "Marca",
+  "description": "Produtos PLESTIN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLESTIN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11931",
+      "title": "TOALHEIRO AUTO CORTECOMPACTO BRANCO",
+      "brand": "PLESTIN",
+      "brandCode": "1006",
+      "supplier": "PLESTIN PLASTICOS ESTAMPADOS INDUSTRIAIS LTDA",
+      "supplierCode": "5368",
+      "manufacturerCode": "TACC-1004-BR",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/toalheiro-auto-cortecompacto-branco-11931",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1006--plestin"
+  }
+}

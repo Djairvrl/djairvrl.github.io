@@ -1,0 +1,36 @@
+{
+  "title": "GIGABYTE",
+  "parentLabel": "Marca",
+  "description": "Produtos GIGABYTE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GIGABYTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13115",
+      "title": "SSD 1TB SATA3 GIGABYTE GP-GSTFS31100TNTD",
+      "brand": "GIGABYTE",
+      "brandCode": "1186",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "50471",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/ssd-1tb-sata3-gigabyte-gpgstfs31100tntd-13115",
+      "image": "/products/images/0131/13115.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1186--gigabyte"
+  }
+}

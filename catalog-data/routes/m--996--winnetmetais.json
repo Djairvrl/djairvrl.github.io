@@ -1,0 +1,36 @@
+{
+  "title": "WINNETMETAIS",
+  "parentLabel": "Marca",
+  "description": "Produtos WINNETMETAIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WINNETMETAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11863",
+      "title": "LIXEIRA INOX COLE PILHAS E BATERIAS 30 L",
+      "brand": "WINNETMETAIS",
+      "brandCode": "996",
+      "supplier": "WINNETMETAIS COMERCIO DE METAIS E FERRAGENS LTDA",
+      "supplierCode": "5084",
+      "manufacturerCode": "L3040-CP",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-inox-cole-pilhas-e-baterias-30-l-11863",
+      "image": "/products/images/0118/11863.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--996--winnetmetais"
+  }
+}

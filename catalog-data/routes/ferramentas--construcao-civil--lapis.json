@@ -1,0 +1,61 @@
+{
+  "title": "LÁPIS",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria lápis em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "LÁPIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "485",
+      "title": "LAPIS CARPINTERIO/MARCENERIO 250MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8480555",
+      "category": "LÁPIS",
+      "categorySlug": "lapis",
+      "path": "/lapis-carpinteriomarcenerio-250mm-485",
+      "image": "/products/images/0004/485.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "4158",
+      "title": "LAPIS DE CARPINTEIRO LUFKIN",
+      "brand": "LUFKIN",
+      "brandCode": "168",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "LC072C",
+      "category": "LÁPIS",
+      "categorySlug": "lapis",
+      "path": "/lapis-de-carpinteiro-lufkin-4158",
+      "image": "/products/images/0041/4158.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--construcao-civil--lapis"
+  }
+}

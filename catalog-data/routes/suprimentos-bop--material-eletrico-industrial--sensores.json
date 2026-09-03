@@ -1,0 +1,163 @@
+{
+  "title": "SENSORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria sensores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "SENSORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9472",
+      "title": "ACELEROMETRO 100MVG CONX MILITAR 2 PINOS",
+      "brand": "CTC",
+      "brandCode": "688",
+      "supplier": "PRUFTECHNIK MGS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2577",
+      "manufacturerCode": "AC1021A",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/acelerometro-100mvg-conx-militar-2-pinos-9472",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10303",
+      "title": "ANEMOMETER THIES FIRST CLAS ADVANCED II",
+      "brand": "RENOAIR",
+      "brandCode": "766",
+      "supplier": "RENOAIR ENERGIAS RENOVAVEIS DO BRASIL LTDA",
+      "supplierCode": "2970",
+      "manufacturerCode": "PRD00001",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/anemometer-thies-first-clas-advanced-ii-10303",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12188",
+      "title": "INTERRUPTOR REED ALTA POTENCIA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "YAN JINGJUN",
+      "supplierCode": "5580",
+      "manufacturerCode": "CFOP3102",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/interruptor-reed-alta-potencia-12188",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12202",
+      "title": "INTERRUPTOR REED ALTA POTENCIA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "YAN JINGJUN",
+      "supplierCode": "5580",
+      "manufacturerCode": "CFOP3102 - 10",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/interruptor-reed-alta-potencia-12202",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12201",
+      "title": "INTERRUPTOR REED ALTA POTENCIA C/ 10 PC",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "YAN JINGJUN",
+      "supplierCode": "5580",
+      "manufacturerCode": "CFOP3102 - 5",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/interruptor-reed-alta-potencia-c-10-pc-12201",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8946",
+      "title": "MICRO SWITCH FIM DE CURSO HASTE CURVA 10",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DEP TELECOM INFORMATICA LTDA",
+      "supplierCode": "2311",
+      "manufacturerCode": "2108",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/micro-switch-fim-de-curso-haste-curva-10-8946",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10932",
+      "title": "REED SWITCH",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "D. N. OLIVEIRA COMERCIO DE COMPONENTES ELETROELETRONICOS",
+      "supplierCode": "4225",
+      "manufacturerCode": "3XREED-NA-NF",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/reed-switch-10932",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8202",
+      "title": "SENSOR DE TEMPERATURA EPEVER",
+      "brand": "EPEVER",
+      "brandCode": "567",
+      "supplier": "NEOSOLAR ENERGIA LTDA",
+      "supplierCode": "1954",
+      "manufacturerCode": "20369",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/sensor-de-temperatura-epever-8202",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--sensores"
+  }
+}

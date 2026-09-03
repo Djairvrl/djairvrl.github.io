@@ -1,0 +1,95 @@
+{
+  "title": "ACESSÓRIOS PARA LUVAS",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria acessórios para luvas em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "ACESSÓRIOS PARA LUVAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9229",
+      "title": "CLIP PORTA LUVAS",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "35.99.018.025",
+      "category": "ACESSÓRIOS PARA LUVAS",
+      "categorySlug": "acessorios-para-luvas",
+      "path": "/clip-porta-luvas-9229",
+      "image": "/products/images/0092/9229.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "10623",
+      "title": "CLIP PORTA LUVAS DANNY",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA99",
+      "category": "ACESSÓRIOS PARA LUVAS",
+      "categorySlug": "acessorios-para-luvas",
+      "path": "/clip-porta-luvas-danny-10623",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1062",
+      "title": "INFLADOR DE LUVAS  - SOLUÇÃO REF SE22515-2",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "3350",
+      "category": "ACESSÓRIOS PARA LUVAS",
+      "categorySlug": "acessorios-para-luvas",
+      "path": "/inflador-de-luvas--solucao-ref-se225152-1062",
+      "image": "/products/images/0010/1062.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "13000",
+      "title": "INFLADOR P/TESTE LUVA BORRACHA FLV114041",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "FLV11404-1",
+      "category": "ACESSÓRIOS PARA LUVAS",
+      "categorySlug": "acessorios-para-luvas",
+      "path": "/inflador-pteste-luva-borracha-flv114041-13000",
+      "image": "/products/images/0130/13000.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--acessorios-para-luvas"
+  }
+}

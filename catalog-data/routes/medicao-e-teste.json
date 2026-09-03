@@ -1,0 +1,1927 @@
+{
+  "title": "Medição e Teste",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste"
+    }
+  ],
+  "children": [
+    {
+      "name": "Medição Manual e Precisão",
+      "slug": "ferramentas-de-medicao-manual-e-precisao",
+      "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao",
+      "count": 149,
+      "categories": [
+        {
+          "name": "CALIBRE",
+          "slug": "calibre",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/calibre",
+          "count": 2
+        },
+        {
+          "name": "COMPARADOR DE DIÂMETRO INTERNO",
+          "slug": "comparador-de-diametro-interno",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/comparador-de-diametro-interno",
+          "count": 1
+        },
+        {
+          "name": "COMPASSO",
+          "slug": "compasso",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/compasso",
+          "count": 2
+        },
+        {
+          "name": "ESCALA",
+          "slug": "escala",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/escala",
+          "count": 2
+        },
+        {
+          "name": "ESQUADRO",
+          "slug": "esquadro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/esquadro",
+          "count": 7
+        },
+        {
+          "name": "FASÍMETRO",
+          "slug": "fasimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/fasimetro",
+          "count": 2
+        },
+        {
+          "name": "GONIÔMETRO",
+          "slug": "goniometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/goniometro",
+          "count": 1
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/medidor",
+          "count": 18
+        },
+        {
+          "name": "MICRÔMETRO",
+          "slug": "micrometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/micrometro",
+          "count": 4
+        },
+        {
+          "name": "NÍVEL",
+          "slug": "nivel",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel",
+          "count": 9
+        },
+        {
+          "name": "NÍVEL LASER",
+          "slug": "nivel-laser",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel-laser",
+          "count": 13
+        },
+        {
+          "name": "PAQUÍMETRO",
+          "slug": "paquimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/paquimetro",
+          "count": 25
+        },
+        {
+          "name": "RELÓGIO COMPARADOR",
+          "slug": "relogio-comparador",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/relogio-comparador",
+          "count": 15
+        },
+        {
+          "name": "RÉGUA",
+          "slug": "regua",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/regua",
+          "count": 3
+        },
+        {
+          "name": "SUPORTE DE MEDIÇÃO",
+          "slug": "suporte-de-medicao",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/suporte-de-medicao",
+          "count": 5
+        },
+        {
+          "name": "TRENAS",
+          "slug": "trenas",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/trenas",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "name": "Medição Elétrica e Diagnóstico",
+      "slug": "ferramentas-de-m-eletrica-e-diagnostico",
+      "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico",
+      "count": 111,
+      "categories": [
+        {
+          "name": "ALICATE AMPERÍMETRO",
+          "slug": "alicate-amperimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/alicate-amperimetro",
+          "count": 12
+        },
+        {
+          "name": "ANALISADORES",
+          "slug": "analisadores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/analisadores",
+          "count": 14
+        },
+        {
+          "name": "CERTIFICADORES DE CABOS DE REDE",
+          "slug": "certificadores-de-cabos-de-rede",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/certificadores-de-cabos-de-rede",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR",
+          "slug": "detector",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/detector",
+          "count": 2
+        },
+        {
+          "name": "FONTES REGULÁVEIS",
+          "slug": "fontes-regulaveis",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/fontes-regulaveis",
+          "count": 4
+        },
+        {
+          "name": "MEDIDORES DE TTR",
+          "slug": "medidores-de-ttr",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-ttr",
+          "count": 1
+        },
+        {
+          "name": "MEDIDORES DE VELOCIDADES",
+          "slug": "medidores-de-velocidades",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-velocidades",
+          "count": 5
+        },
+        {
+          "name": "MEGÔMETRO",
+          "slug": "megometro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/megometro",
+          "count": 7
+        },
+        {
+          "name": "MILIOHMÍMETRO",
+          "slug": "miliohmimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/miliohmimetro",
+          "count": 2
+        },
+        {
+          "name": "MULTÍMETRO",
+          "slug": "multimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/multimetro",
+          "count": 20
+        },
+        {
+          "name": "OSCILOSCÓPIO",
+          "slug": "osciloscopio",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/osciloscopio",
+          "count": 1
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/sensores",
+          "count": 4
+        },
+        {
+          "name": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+          "slug": "termo-higrometros-e-acessorios",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termo-higrometros-e-acessorios",
+          "count": 11
+        },
+        {
+          "name": "TERMÔMETROS",
+          "slug": "termometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termometros",
+          "count": 8
+        },
+        {
+          "name": "TERRÔMETROS",
+          "slug": "terrometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/terrometros",
+          "count": 2
+        },
+        {
+          "name": "TESTADORES DE BATERIA",
+          "slug": "testadores-de-bateria",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-bateria",
+          "count": 6
+        },
+        {
+          "name": "TESTADORES DE FASE",
+          "slug": "testadores-de-fase",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-fase",
+          "count": 7
+        },
+        {
+          "name": "TESTADORES DE ISOLAÇÃO",
+          "slug": "testadores-de-isolacao",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-isolacao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Calibração e Ajuste",
+      "slug": "ferramentas-de-calibracao-e-ajuste",
+      "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste",
+      "count": 58,
+      "categories": [
+        {
+          "name": "BALANÇA",
+          "slug": "balanca",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/balanca",
+          "count": 7
+        },
+        {
+          "name": "BANCOS DE TESTE",
+          "slug": "bancos-de-teste",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/bancos-de-teste",
+          "count": 1
+        },
+        {
+          "name": "CALIBRADORES",
+          "slug": "calibradores",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/calibradores",
+          "count": 5
+        },
+        {
+          "name": "KIT ACUMULADORES DE PRE CARGA",
+          "slug": "kit-acumuladores-de-pre-carga",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/kit-acumuladores-de-pre-carga",
+          "count": 2
+        },
+        {
+          "name": "MANÔMETRO",
+          "slug": "manometro",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/manometro",
+          "count": 32
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/medidor",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Detecção e Teste",
+      "slug": "ferrametas-de-deteccao-e-teste",
+      "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste",
+      "count": 52,
+      "categories": [
+        {
+          "name": "ANEMÔMETRO",
+          "slug": "anemometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/anemometro",
+          "count": 4
+        },
+        {
+          "name": "BOROSCÓPIO",
+          "slug": "boroscopio",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/boroscopio",
+          "count": 3
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/cameras",
+          "count": 8
+        },
+        {
+          "name": "DECIBELÍMETRO",
+          "slug": "decibelimetro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/decibelimetro",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR DE GÁS",
+          "slug": "detector-de-gas",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/detector-de-gas",
+          "count": 10
+        },
+        {
+          "name": "ETILÔMETROS DIGITAIS",
+          "slug": "etilometros-digitais",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/etilometros-digitais",
+          "count": 3
+        },
+        {
+          "name": "INSTRUMENTOS ÓPTICOS",
+          "slug": "instrumentos-opticos",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/instrumentos-opticos",
+          "count": 19
+        },
+        {
+          "name": "MEDIDORES DE ESPESSURA",
+          "slug": "medidores-de-espessura",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/medidores-de-espessura",
+          "count": 1
+        },
+        {
+          "name": "PLUVIÔMETRO",
+          "slug": "pluviometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/pluviometro",
+          "count": 1
+        },
+        {
+          "name": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+          "slug": "testadores-de-isolamento-hidrostatico",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/testadores-de-isolamento-hidrostatico",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Navegação e Geolocalização",
+      "slug": "navegacao-e-geolocalizacao",
+      "path": "/medicao-e-teste/navegacao-e-geolocalizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferramentas De Navegação/Geolocalização",
+      "slug": "ferramentas-de-navegacao-geolocalizacao",
+      "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao",
+      "count": 3,
+      "categories": [
+        {
+          "name": "GPS PORTÁTEIS",
+          "slug": "gps-portateis",
+          "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao/gps-portateis",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "2885",
+      "name": "57.113.526 ALEXANDRO PESSOA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2885.json"
+    },
+    {
+      "code": "2168",
+      "name": "A. I. LASTA LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2168.json"
+    },
+    {
+      "code": "1943",
+      "name": "ACME ELETRONICOS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1943.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-798.json"
+    },
+    {
+      "code": "4412",
+      "name": "ALEX PEREIRA NUNES",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-4412.json"
+    },
+    {
+      "code": "790",
+      "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "count": 11,
+      "file": "medicao-e-teste--fornecedor-790.json"
+    },
+    {
+      "code": "1416",
+      "name": "AMERICANAS S.A.",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1416.json"
+    },
+    {
+      "code": "1868",
+      "name": "AMPERI IMPORTACAO E COMERCIO LTDA",
+      "count": 3,
+      "file": "medicao-e-teste--fornecedor-1868.json"
+    },
+    {
+      "code": "116",
+      "name": "ANTONIA DE PAULA COMETTI 13941575848",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-116.json"
+    },
+    {
+      "code": "628",
+      "name": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "count": 13,
+      "file": "medicao-e-teste--fornecedor-628.json"
+    },
+    {
+      "code": "5333",
+      "name": "AROMAHAT COMERCIO DE ARTIGOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5333.json"
+    },
+    {
+      "code": "6123",
+      "name": "B E C MATERIAIS E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-6123.json"
+    },
+    {
+      "code": "1456",
+      "name": "B R DA SILVA INFORMATICA LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1456.json"
+    },
+    {
+      "code": "2476",
+      "name": "BAGAREL COMERCIO DE INSTRUMENTOS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2476.json"
+    },
+    {
+      "code": "412",
+      "name": "BLACK  DECKER DO BRASIL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-412.json"
+    },
+    {
+      "code": "521",
+      "name": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-521.json"
+    },
+    {
+      "code": "106",
+      "name": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "count": 4,
+      "file": "medicao-e-teste--fornecedor-106.json"
+    },
+    {
+      "code": "2160",
+      "name": "C F HEINZEN",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2160.json"
+    },
+    {
+      "code": "6125",
+      "name": "CASDRO STORE COMERCIO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-6125.json"
+    },
+    {
+      "code": "162",
+      "name": "CIRNE IRMAOS & CIA LTDA",
+      "count": 3,
+      "file": "medicao-e-teste--fornecedor-162.json"
+    },
+    {
+      "code": "977",
+      "name": "CLEITON ALEXANDRE MATARUCO 18502913816",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-977.json"
+    },
+    {
+      "code": "6126",
+      "name": "CPE COMERCIO DE EQUIPAMENTOS TOPOGRAFICOS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-6126.json"
+    },
+    {
+      "code": "2500",
+      "name": "D. GUEDES COMERCIO DE VARIEDADES LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2500.json"
+    },
+    {
+      "code": "2414",
+      "name": "DELVAIR LOPES DE OLIVEIRA LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2414.json"
+    },
+    {
+      "code": "737",
+      "name": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "count": 23,
+      "file": "medicao-e-teste--fornecedor-737.json"
+    },
+    {
+      "code": "2362",
+      "name": "ELECTRISA - SOLUCOES EM ENERGIA LTDA.",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2362.json"
+    },
+    {
+      "code": "1272",
+      "name": "ELETROTESTE INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1272.json"
+    },
+    {
+      "code": "2820",
+      "name": "ENEQUIPA EQUIPAMENTOS DE PROTECAO",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2820.json"
+    },
+    {
+      "code": "2077",
+      "name": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2077.json"
+    },
+    {
+      "code": "174",
+      "name": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "count": 6,
+      "file": "medicao-e-teste--fornecedor-174.json"
+    },
+    {
+      "code": "806",
+      "name": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-806.json"
+    },
+    {
+      "code": "1093",
+      "name": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1093.json"
+    },
+    {
+      "code": "159",
+      "name": "FLUKE DO BRASIL LTDA",
+      "count": 15,
+      "file": "medicao-e-teste--fornecedor-159.json"
+    },
+    {
+      "code": "1116",
+      "name": "FLUKE DO BRASIL LTDA",
+      "count": 28,
+      "file": "medicao-e-teste--fornecedor-1116.json"
+    },
+    {
+      "code": "271",
+      "name": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-271.json"
+    },
+    {
+      "code": "3203",
+      "name": "FORMIS INSTRUMENTOS DE MEDICAO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-3203.json"
+    },
+    {
+      "code": "5607",
+      "name": "GABRIEL DA SILVA ALMEIDA GARCIA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5607.json"
+    },
+    {
+      "code": "1122",
+      "name": "GAMA COM E SERV INSTRUMENTOS MEDICAO LTDA",
+      "count": 5,
+      "file": "medicao-e-teste--fornecedor-1122.json"
+    },
+    {
+      "code": "5343",
+      "name": "GAS AND SAFETY SOLUTIONS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5343.json"
+    },
+    {
+      "code": "5843",
+      "name": "GB COMERCIO DE PRESENTES LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5843.json"
+    },
+    {
+      "code": "1525",
+      "name": "GURGELMIX MAQUINAS E FERRAMENTAS S.A.",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1525.json"
+    },
+    {
+      "code": "1299",
+      "name": "H. P. P. DOS SANTOS",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1299.json"
+    },
+    {
+      "code": "1843",
+      "name": "HIDEO NAKAYAMA IMPORTAC EXPORTACAO COM E INDUSTRIA LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1843.json"
+    },
+    {
+      "code": "5840",
+      "name": "HORIZONTE ASTRONOMICO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5840.json"
+    },
+    {
+      "code": "604",
+      "name": "HYDAC TECNOLOGIA LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-604.json"
+    },
+    {
+      "code": "3675",
+      "name": "IMPAC COMERCIAL E TECNOLOGIA LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-3675.json"
+    },
+    {
+      "code": "5560",
+      "name": "INCOTERM SOLUCOES EM MEDICAO LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-5560.json"
+    },
+    {
+      "code": "1228",
+      "name": "INSTRONIC INSTRUMENTOS DE TESTES LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1228.json"
+    },
+    {
+      "code": "1661",
+      "name": "INSTRUM BRASIL INSTRUMENTOS DE MEDICAO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1661.json"
+    },
+    {
+      "code": "3300",
+      "name": "INSTRUSUL COMERCIO E MANUTENCAO DE INSTRUMENTOS DE MEDICAO",
+      "count": 4,
+      "file": "medicao-e-teste--fornecedor-3300.json"
+    },
+    {
+      "code": "1748",
+      "name": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "count": 6,
+      "file": "medicao-e-teste--fornecedor-1748.json"
+    },
+    {
+      "code": "2319",
+      "name": "INTEMOBILE DO BRASIL LTDA.",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2319.json"
+    },
+    {
+      "code": "5016",
+      "name": "INTER-METRO - SERVICOS ESPECIAIS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5016.json"
+    },
+    {
+      "code": "2439",
+      "name": "INTERCAMBIO LTDA",
+      "count": 6,
+      "file": "medicao-e-teste--fornecedor-2439.json"
+    },
+    {
+      "code": "3679",
+      "name": "J C DA SILVA & CIA LTDA",
+      "count": 3,
+      "file": "medicao-e-teste--fornecedor-3679.json"
+    },
+    {
+      "code": "4482",
+      "name": "JAMECO EQUIPAMENTOS ELETRONICOS LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-4482.json"
+    },
+    {
+      "code": "105",
+      "name": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-105.json"
+    },
+    {
+      "code": "1566",
+      "name": "KENNEDY ODILON DE AMORIM",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1566.json"
+    },
+    {
+      "code": "631",
+      "name": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-631.json"
+    },
+    {
+      "code": "1227",
+      "name": "LASER TECH BRASIL",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1227.json"
+    },
+    {
+      "code": "493",
+      "name": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-493.json"
+    },
+    {
+      "code": "2304",
+      "name": "LOJA 24 SOLUCOES EM TELECOMUNICACOES LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2304.json"
+    },
+    {
+      "code": "5325",
+      "name": "LUBEFER INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5325.json"
+    },
+    {
+      "code": "2034",
+      "name": "LUCAS RODRIGUES DA SILVA COMERCIO",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2034.json"
+    },
+    {
+      "code": "1115",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1115.json"
+    },
+    {
+      "code": "959",
+      "name": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-959.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-4.json"
+    },
+    {
+      "code": "3097",
+      "name": "MEG ATACADO & VAREJO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-3097.json"
+    },
+    {
+      "code": "384",
+      "name": "MEGABRAS IND ELETRONICA LTDA.",
+      "count": 15,
+      "file": "medicao-e-teste--fornecedor-384.json"
+    },
+    {
+      "code": "1234",
+      "name": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1234.json"
+    },
+    {
+      "code": "6222",
+      "name": "MENTEC COMERCIO E SERVICOS DE PRODUTOS INDUSTRIAIS LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-6222.json"
+    },
+    {
+      "code": "404",
+      "name": "MINIPA DO BRASIL LTDA",
+      "count": 23,
+      "file": "medicao-e-teste--fornecedor-404.json"
+    },
+    {
+      "code": "1212",
+      "name": "MINIPA DO BRASIL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1212.json"
+    },
+    {
+      "code": "3015",
+      "name": "MINIPA INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-3015.json"
+    },
+    {
+      "code": "269",
+      "name": "MITUTOYO SUL AMERICANA LTDA",
+      "count": 7,
+      "file": "medicao-e-teste--fornecedor-269.json"
+    },
+    {
+      "code": "1789",
+      "name": "MITUTOYO SUL AMERICANA LTDA",
+      "count": 7,
+      "file": "medicao-e-teste--fornecedor-1789.json"
+    },
+    {
+      "code": "2878",
+      "name": "MRE FERRAMENTAS COMERCIAL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2878.json"
+    },
+    {
+      "code": "1742",
+      "name": "MULTIPLA ELETRICA E ILUMINACAO LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1742.json"
+    },
+    {
+      "code": "2433",
+      "name": "MULTIVAREJO ES LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2433.json"
+    },
+    {
+      "code": "244",
+      "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "count": 6,
+      "file": "medicao-e-teste--fornecedor-244.json"
+    },
+    {
+      "code": "780",
+      "name": "NATAL SERVICE LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-780.json"
+    },
+    {
+      "code": "1553",
+      "name": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1553.json"
+    },
+    {
+      "code": "6080",
+      "name": "NIGHTECH COMERCIO IMPORTACAO E EXPORTACAO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-6080.json"
+    },
+    {
+      "code": "3090",
+      "name": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 9,
+      "file": "medicao-e-teste--fornecedor-3090.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 7,
+      "file": "medicao-e-teste--fornecedor-122.json"
+    },
+    {
+      "code": "88",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 3,
+      "file": "medicao-e-teste--fornecedor-88.json"
+    },
+    {
+      "code": "1394",
+      "name": "PARAQUEDAS IMPORTACAO E COMERCIO LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1394.json"
+    },
+    {
+      "code": "179",
+      "name": "PHOSPODONT LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-179.json"
+    },
+    {
+      "code": "1788",
+      "name": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1788.json"
+    },
+    {
+      "code": "2665",
+      "name": "PROVITEL TECNOLOGIA LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-2665.json"
+    },
+    {
+      "code": "1649",
+      "name": "RCOM DIGITAL TELECOMUNICACOES LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1649.json"
+    },
+    {
+      "code": "2890",
+      "name": "RITZ MG COMERCIAL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2890.json"
+    },
+    {
+      "code": "158",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 17,
+      "file": "medicao-e-teste--fornecedor-158.json"
+    },
+    {
+      "code": "432",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-432.json"
+    },
+    {
+      "code": "908",
+      "name": "ROTHENBERGER DO BRASIL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-908.json"
+    },
+    {
+      "code": "1701",
+      "name": "RPC - COMMERCE MANUTENCAO DE COMPUTADORES LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1701.json"
+    },
+    {
+      "code": "1502",
+      "name": "RR COMERCIO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1502.json"
+    },
+    {
+      "code": "1567",
+      "name": "SENSORES E INSTRUMENTACION GUEMISA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-1567.json"
+    },
+    {
+      "code": "4875",
+      "name": "SIMITRON COMERCIAL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-4875.json"
+    },
+    {
+      "code": "1297",
+      "name": "SOL & AR ENERGIAS RENOVAVEIS",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1297.json"
+    },
+    {
+      "code": "2741",
+      "name": "SOLVER IMPORTACAO E EXPORTACAO LTDA",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-2741.json"
+    },
+    {
+      "code": "306",
+      "name": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "count": 9,
+      "file": "medicao-e-teste--fornecedor-306.json"
+    },
+    {
+      "code": "434",
+      "name": "STAUFF BRASIL LTDA",
+      "count": 27,
+      "file": "medicao-e-teste--fornecedor-434.json"
+    },
+    {
+      "code": "2310",
+      "name": "SVTECH SOLUCOES INDUSTRIAIS E PREDIAIS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2310.json"
+    },
+    {
+      "code": "2187",
+      "name": "TECNOFERRAMENTAS COMERCIAL, IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-2187.json"
+    },
+    {
+      "code": "4621",
+      "name": "TERRA MAR INSTRUMENTOS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-4621.json"
+    },
+    {
+      "code": "2426",
+      "name": "TESTEPETRO COM DE EQUIPAMENTOS",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-2426.json"
+    },
+    {
+      "code": "866",
+      "name": "THATA STORE COMERCIO VIRTUAL EIRELI",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-866.json"
+    },
+    {
+      "code": "1160",
+      "name": "TONINA COMERCIO, IMPORTACAO E EXPORTACAO LTDA.",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1160.json"
+    },
+    {
+      "code": "252",
+      "name": "TRAMONTINA MULTI S/A",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-252.json"
+    },
+    {
+      "code": "509",
+      "name": "TRAMONTINA NORDESTE S/A",
+      "count": 2,
+      "file": "medicao-e-teste--fornecedor-509.json"
+    },
+    {
+      "code": "5510",
+      "name": "V. Y. SAKAUE RAMOS CONSULTORIA EMPRESARIAL LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5510.json"
+    },
+    {
+      "code": "1921",
+      "name": "VANDERSON GERALDO BARBOSA DA SILVA 33643815859",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1921.json"
+    },
+    {
+      "code": "4048",
+      "name": "WIKA DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-4048.json"
+    },
+    {
+      "code": "1222",
+      "name": "YONEDA FERRAMENTAS E VARIEDADES EIRELI",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-1222.json"
+    },
+    {
+      "code": "5882",
+      "name": "ZIMPOR COMERCIO DE PRODUTOS LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-5882.json"
+    },
+    {
+      "code": "6156",
+      "name": "ZURICH IND E COM LTDA",
+      "count": 1,
+      "file": "medicao-e-teste--fornecedor-6156.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "7890",
+      "title": "ADAPTADOR MAGNETICO P CONEXAO CBC PA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AMPERI IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "1868",
+      "manufacturerCode": "606-IECN",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/adaptador-magnetico-p-conexao-cbc-pa-7890",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3903",
+      "title": "ADAPTADOR P/ MANOMETRO SDA-20-G1/4",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1210020393",
+      "category": "MANÔMETRO",
+      "categorySlug": "manometro",
+      "path": "/adaptador-p-manometro-sda20g14-3903",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "3904",
+      "title": "ADAPTADOR P/ MANOMETRO SSV-20-W3",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1210026119",
+      "category": "MANÔMETRO",
+      "categorySlug": "manometro",
+      "path": "/adaptador-p-manometro-ssv20w3-3904",
+      "image": "/products/images/0039/3904.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "6053",
+      "title": "ADAPTADOR PARA MANÔMETRO 1/4NPTF 700 BAR GA-3 - ENERPAC",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "supplierCode": "806",
+      "manufacturerCode": "1140756",
+      "category": "MANÔMETRO",
+      "categorySlug": "manometro",
+      "path": "/adaptador-para-manometro-14nptf-700-bar-ga3--enerpac-6053",
+      "image": "/products/images/0060/6053.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "11836",
+      "title": "AFERIDORA PARA COMBUSTIVEL",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "LUBEFER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5325",
+      "manufacturerCode": "LUB-MED01",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/aferidora-para-combustivel-11836",
+      "image": "/products/images/0118/11836.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3864",
+      "title": "ALICATE AMPERIM 1000A AC/DC FLUKE-378 FC",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5111812",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperim-1000a-acdc-fluke378-fc-3864",
+      "image": "/products/images/0038/3864.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7484",
+      "title": "ALICATE AMPERIMETRO 1000A TRMS 381",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "3950806",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-1000a-trms-381-7484",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "6776",
+      "title": "ALICATE AMPERIMETRO 6000 CAT IV 600V",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-3367C",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-6000-cat-iv-600v-6776",
+      "image": "/products/images/0067/6776.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8606",
+      "title": "ALICATE AMPERIMETRO CAT III 300V",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-3320A",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-cat-iii-300v-8606",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10699",
+      "title": "ALICATE AMPERIMETRO PARA PAINEL SOLAR",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-4710",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-para-painel-solar-10699",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3863",
+      "title": "ALICATE AMPERÍMETRO AC/DC 1000V 1000A TRUE RMS 377 FC COM IFLEX E FIELDSENSE - FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5111781",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-acdc-1000v-1000a-true-rms-377-fc-com-iflex-e-fieldsense--fluke-3863",
+      "image": "/products/images/0038/3863.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "5794",
+      "title": "ALICATE AMPERÍMETRO DIGITAL  CA 1000A CAT III 600V 305 -  FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4156278",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-ca-1000a-cat-iii-600v-305--fluke-5794",
+      "image": "/products/images/0057/5794.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3568",
+      "title": "ALICATE AMPERÍMETRO DIGITAL 1000A AC COM ILUMINAÇÃO DA GARRA - MINIPA ET-3200B",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-3200B",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-1000a-ac-com-iluminacao-da-garra--minipa-et3200b-3568",
+      "image": "/products/images/0035/3568.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "6114",
+      "title": "ALICATE AMPERÍMETRO DIGITAL 400A AC CAT III 600V 302+ FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4156257",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-400a-ac-cat-iii-600v-302-fluke-6114",
+      "image": "/products/images/0061/6114.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "553",
+      "title": "ALICATE AMPERÍMETRO DIGITAL FLUKE 376 FC 1000A AC/DC TRUE RMS",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "5065965",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-fluke-376-fc-1000a-acdc-true-rms-553",
+      "image": "/products/images/0005/553.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3406",
+      "title": "ALICATE AMPERÍMETRO DIGITAL TRUE RMS CAT III 600V 400A 325 - FLUKE 5065866",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5065866",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-true-rms-cat-iii-600v-400a-325--fluke-5065866-3406",
+      "image": "/products/images/0034/3406.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "6771",
+      "title": "ALICATE AMPERÍMETRO TRUE-RMS 393 FC CAT III 1.500V COM IFLEX - FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "5274864",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-truerms-393-fc-cat-iii-1500v-com-iflex--fluke-6771",
+      "image": "/products/images/0067/6771.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12813",
+      "title": "ANALISADOR DE BATERIAS AVANÇADO BT521",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4489996",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/analisador-de-baterias-avancado-bt521-12813",
+      "image": "/products/images/0128/12813.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10961",
+      "title": "ANALISADOR DE BATERIAS BT510",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4489970",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/analisador-de-baterias-bt510-10961",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10324",
+      "title": "ANALISADOR DE CABOS DSX - 5000 MOD",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4329735",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/analisador-de-cabos-dsx--5000-mod-10324",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7803",
+      "title": "ANALISADOR DE GASES SP-220",
+      "brand": "RIKEN KEIKI",
+      "brandCode": "541",
+      "supplier": "HIDEO NAKAYAMA IMPORTAC EXPORTACAO COM E INDUSTRIA LTDA",
+      "supplierCode": "1843",
+      "manufacturerCode": "0123A",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/analisador-de-gases-sp220-7803",
+      "image": "/products/images/0078/7803.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9216",
+      "title": "ANEMOMETRO",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MDA-10A",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-9216",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12225",
+      "title": "ANEMOMETRO DIGITAL",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "3015",
+      "manufacturerCode": "MDA-11A",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-digital-12225",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7574",
+      "title": "ANEMOMETRO DIGITAL PORTATIL KITE DRONE",
+      "brand": "PARAGLIDER",
+      "brandCode": "506",
+      "supplier": "RPC - COMMERCE MANUTENCAO DE COMPUTADORES LTDA",
+      "supplierCode": "1701",
+      "manufacturerCode": "2904",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-digital-portatil-kite-drone-7574",
+      "image": "/products/images/0075/7574.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "13274",
+      "title": "ANENOMETRO DIGITAL",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MDA-10B",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anenometro-digital-13274",
+      "image": "/products/images/0132/13274.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8060",
+      "title": "BALANCA",
+      "brand": "NEHC",
+      "brandCode": "554",
+      "supplier": "VANDERSON GERALDO BARBOSA DA SILVA 33643815859",
+      "supplierCode": "1921",
+      "manufacturerCode": "MLB3774978624",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-8060",
+      "image": "/products/images/0080/8060.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "6985",
+      "title": "BALANCA DIGITAL 30KG 220V",
+      "brand": "ELGIN",
+      "brandCode": "28",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "6985",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-30kg-220v-6985",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "8957",
+      "title": "BALANCA DIGITAL 50KG C MASTRO 110/220V",
+      "brand": "RAMUZA",
+      "brandCode": "635",
+      "supplier": "INTEMOBILE DO BRASIL LTDA.",
+      "supplierCode": "2319",
+      "manufacturerCode": "MLB2708036710",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-50kg-c-mastro-110220v-8957",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "4366",
+      "title": "BALANCA DIGITAL DE PRECISAO 10KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7908224307994",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-de-precisao-10kg-4366",
+      "image": "/products/images/0043/4366.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "8107",
+      "title": "BALANCA DIGITAL PARA BANHEIRO 180KG",
+      "brand": "MULTILASER",
+      "brandCode": "266",
+      "supplier": "ACME ELETRONICOS LTDA",
+      "supplierCode": "1943",
+      "manufacturerCode": "HC022",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-para-banheiro-180kg-8107",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "6420",
+      "title": "BALANCA E- 300KG BK-300 INOX",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NATAL SERVICE LTDA",
+      "supplierCode": "780",
+      "manufacturerCode": "313378",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-e-300kg-bk300-inox-6420",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "9092",
+      "title": "BALANCA SUSPENSA TIPO RELOGIO 50KG",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "38.85.000.050",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-suspensa-tipo-relogio-50kg-9092",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "6574",
+      "title": "BATERIA EN-EL20 PARA NIKON",
+      "brand": "BEST BATTERY",
+      "brandCode": "298",
+      "supplier": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "supplierCode": "1234",
+      "manufacturerCode": "2006",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/bateria-enel20-para-nikon-6574",
+      "image": "/products/images/0065/6574.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12662",
+      "title": "BINOCULO 20X50 LONGO ALCANCE 10KM VERDE",
+      "brand": "IBOA",
+      "brandCode": "1111",
+      "supplier": "GB COMERCIO DE PRESENTES LTDA",
+      "supplierCode": "5843",
+      "manufacturerCode": "A1093-VERDE",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-20x50-longo-alcance-10km-verde-12662",
+      "image": "/products/images/0126/12662.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "11393",
+      "title": "BINOCULO AGUIA 7X35MM",
+      "brand": "NAUTIKA",
+      "brandCode": "339",
+      "supplier": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "supplierCode": "1553",
+      "manufacturerCode": "301820",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-aguia-7x35mm-11393",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "6843",
+      "title": "BINOCULO CN 10X30 IS",
+      "brand": "CANON",
+      "brandCode": "361",
+      "supplier": "PARAQUEDAS IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "1394",
+      "manufacturerCode": "GFOCO",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-cn-10x30-is-6843",
+      "image": "/products/images/0068/6843.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "9334",
+      "title": "BINOCULO LELONG LE-2053",
+      "brand": "LELONG",
+      "brandCode": "667",
+      "supplier": "D. GUEDES COMERCIO DE VARIEDADES LTDA",
+      "supplierCode": "2500",
+      "manufacturerCode": "MLB3274802613_177457422843",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-lelong-le2053-9334",
+      "image": "/products/images/0093/9334.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7018",
+      "title": "BINOCULO PROF DIURN/NOT 60X60 ATE 10KM",
+      "brand": "MAINFENG",
+      "brandCode": "406",
+      "supplier": "AMERICANAS S.A.",
+      "supplierCode": "1416",
+      "manufacturerCode": "MAIN60X60",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-prof-diurnnot-60x60-ate-10km-7018",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "11851",
+      "title": "BINOCULO PROFISSIONAL 60X90 LONGO ALCANC",
+      "brand": "JIAXI",
+      "brandCode": "202",
+      "supplier": "AROMAHAT COMERCIO DE ARTIGOS ELETRONICOS LTDA",
+      "supplierCode": "5333",
+      "manufacturerCode": "56090",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-profissional-60x90-longo-alcanc-11851",
+      "image": "/products/images/0118/11851.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7075",
+      "title": "BINOCULO STEINER BLUHORIZONS 10X42",
+      "brand": "STEINER",
+      "brandCode": "411",
+      "supplier": "PARAQUEDAS IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "1394",
+      "manufacturerCode": "SN2345",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-steiner-bluhorizons-10x42-7075",
+      "image": "/products/images/0070/7075.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12658",
+      "title": "BINOCULO URANUM 20X80 LONGO ALCANCE PRET",
+      "brand": "URANUM",
+      "brandCode": "1108",
+      "supplier": "HORIZONTE ASTRONOMICO LTDA",
+      "supplierCode": "5840",
+      "manufacturerCode": "LUNARP",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-uranum-20x80-longo-alcance-pret-12658",
+      "image": "/products/images/0126/12658.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7280",
+      "title": "BINOCULOS PROF 20X180X100 ZOOM + CASE",
+      "brand": "SAKURA",
+      "brandCode": "438",
+      "supplier": "KENNEDY ODILON DE AMORIM",
+      "supplierCode": "1566",
+      "manufacturerCode": "13363-65",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculos-prof-20x180x100-zoom-case-7280",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7256",
+      "title": "BINÓCULO PELICANO AMPLIAÇÃO 7X E LENTE 50MM - NAUTIKA 301860",
+      "brand": "NAUTIKA",
+      "brandCode": "339",
+      "supplier": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "supplierCode": "1553",
+      "manufacturerCode": "301860",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-pelicano-ampliacao-7x-e-lente-50mm--nautika-301860-7256",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7628",
+      "title": "BOCAIS ETILOMETRO MOD.BFD-60 PCT 50 PCS",
+      "brand": "INSTRUTHERM",
+      "brandCode": "519",
+      "supplier": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1748",
+      "manufacturerCode": "06110",
+      "category": "ETILÔMETROS DIGITAIS",
+      "categorySlug": "etilometros-digitais",
+      "path": "/bocais-etilometro-modbfd60-pct-50-pcs-7628",
+      "image": "/products/images/0076/7628.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "4744",
+      "title": "BOLSA PARA MULTIMETRO C25",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "PN681114",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/bolsa-para-multimetro-c25-4744",
+      "image": "/products/images/0047/4744.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7279",
+      "title": "BOLSA PARA MULTÍMETRO TIPO C25 - VOGAN 202304",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "202304",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/bolsa-para-multimetro-tipo-c25--vogan-202304-7279",
+      "image": "/products/images/0072/7279.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11384",
+      "title": "BOMBA DE TESTE RP 50-S",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "ROTHENBERGER DO BRASIL LTDA",
+      "supplierCode": "908",
+      "manufacturerCode": "R60200",
+      "category": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+      "categorySlug": "testadores-de-isolamento-hidrostatico",
+      "path": "/bomba-de-teste-rp-50s-11384",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12224",
+      "title": "BOMBA ELETRICA ALTAIR C PONTA",
+      "brand": "MSA",
+      "brandCode": "9",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "10158767",
+      "category": "DETECTOR DE GÁS",
+      "categorySlug": "detector-de-gas",
+      "path": "/bomba-eletrica-altair-c-ponta-12224",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8359",
+      "title": "BOROSCOPIO DE DIAGNOST C/ VIDEO DS703 FC",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4962665",
+      "category": "BOROSCÓPIO",
+      "categorySlug": "boroscopio",
+      "path": "/boroscopio-de-diagnost-c-video-ds703-fc-8359",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8881",
+      "title": "BOROSCOPIO DIGITAL HBR500",
+      "brand": "HIKARI",
+      "brandCode": "505",
+      "supplier": "MULTIPLA ELETRICA E ILUMINACAO LTDA",
+      "supplierCode": "1742",
+      "manufacturerCode": "21N280",
+      "category": "BOROSCÓPIO",
+      "categorySlug": "boroscopio",
+      "path": "/boroscopio-digital-hbr500-8881",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 8,
+    "total": 373,
+    "pageBase": "medicao-e-teste"
+  }
+}

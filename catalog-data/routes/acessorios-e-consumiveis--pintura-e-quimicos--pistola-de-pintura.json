@@ -1,0 +1,163 @@
+{
+  "title": "PISTOLA DE PINTURA",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria pistola de pintura em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "PISTOLA DE PINTURA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5550",
+      "title": "ENGATE RAPIDO FEMEA ER-1 1/4\"",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "50126001",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/engate-rapido-femea-er1-14-5550",
+      "image": "/products/images/0055/5550.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5551",
+      "title": "PINO P/ENGATE RAPIDO MACHO PEM 1/4\"",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "50124001",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/pino-pengate-rapido-macho-pem-14-5551",
+      "image": "/products/images/0055/5551.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5539",
+      "title": "PISTOLA 1 A (1,8MM) TAMPA ALUMINIO",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "10022000",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/pistola-1-a-18mm-tampa-aluminio-5539",
+      "image": "/products/images/0055/5539.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5540",
+      "title": "PISTOLA 14 (1,2MM)",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "10166000",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/pistola-14-12mm-5540",
+      "image": "/products/images/0055/5540.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12787",
+      "title": "PISTOLA CANECA ALUMINIO PSV100 VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6220200100",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/pistola-caneca-aluminio-psv100-vonder-12787",
+      "image": "/products/images/0127/12787.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5542",
+      "title": "PISTOLA PARA APLICAÇÃO DE MATERIAS DENSOS, NYLON 6,35MM - ARPREX OMEGA 13 A",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "10011000",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/pistola-para-aplicacao-de-materias-densos-nylon-635mm--arprex-omega-13-a-5542",
+      "image": "/products/images/0055/5542.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "2546",
+      "title": "PISTOLA PULV.220V  AIR PLUS 600W",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "920.8050-0",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/pistola-pulv220v-air-plus-600w-2546",
+      "image": "/products/images/0025/2546.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "2571",
+      "title": "PISTOLA PULVER DE TINTA 450W",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "920.8046-0",
+      "category": "PISTOLA DE PINTURA",
+      "categorySlug": "pistola-de-pintura",
+      "path": "/pistola-pulver-de-tinta-450w-2571",
+      "image": "/products/images/0025/2571.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--pistola-de-pintura"
+  }
+}

@@ -1,0 +1,2754 @@
+{
+  "title": "Ferramentas",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas"
+    }
+  ],
+  "children": [
+    {
+      "name": "Ferramentas Elétricas",
+      "slug": "ferramentas-eletricas",
+      "path": "/ferramentas/ferramentas-eletricas",
+      "count": 391,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+          "slug": "acessorios-para-ferramentas-eletricas",
+          "path": "/ferramentas/ferramentas-eletricas/acessorios-para-ferramentas-eletricas",
+          "count": 16
+        },
+        {
+          "name": "AQUECEDORES INDUTIVOS",
+          "slug": "aquecedores-indutivos",
+          "path": "/ferramentas/ferramentas-eletricas/aquecedores-indutivos",
+          "count": 2
+        },
+        {
+          "name": "ASPIRADORES E EXTRATORES",
+          "slug": "aspiradores-e-extratores",
+          "path": "/ferramentas/ferramentas-eletricas/aspiradores-e-extratores",
+          "count": 1
+        },
+        {
+          "name": "BATERIA E CARREGADORES",
+          "slug": "bateria-e-carregadores",
+          "path": "/ferramentas/ferramentas-eletricas/bateria-e-carregadores",
+          "count": 75
+        },
+        {
+          "name": "CHAVES DE IMPACTO",
+          "slug": "chaves-de-impacto",
+          "path": "/ferramentas/ferramentas-eletricas/chaves-de-impacto",
+          "count": 42
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-eletricas/cortador",
+          "count": 6
+        },
+        {
+          "name": "ESMERIL DE BANCADA",
+          "slug": "esmeril-de-bancada",
+          "path": "/ferramentas/ferramentas-eletricas/esmeril-de-bancada",
+          "count": 5
+        },
+        {
+          "name": "ESMERILHADEIRA",
+          "slug": "esmerilhadeira",
+          "path": "/ferramentas/ferramentas-eletricas/esmerilhadeira",
+          "count": 40
+        },
+        {
+          "name": "FERRAMENTA DE ILUMINAÇÃO",
+          "slug": "ferramenta-de-iluminacao",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-de-iluminacao",
+          "count": 7
+        },
+        {
+          "name": "FERRAMENTA ROTATIVA",
+          "slug": "ferramenta-rotativa",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-rotativa",
+          "count": 1
+        },
+        {
+          "name": "FURADEIRA",
+          "slug": "furadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira",
+          "count": 31
+        },
+        {
+          "name": "FURADEIRA/PARAFUSADEIRA",
+          "slug": "furadeira-parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira-parafusadeira",
+          "count": 30
+        },
+        {
+          "name": "GRAVADOR",
+          "slug": "gravador",
+          "path": "/ferramentas/ferramentas-eletricas/gravador",
+          "count": 1
+        },
+        {
+          "name": "JARDINAGEM",
+          "slug": "jardinagem",
+          "path": "/ferramentas/ferramentas-eletricas/jardinagem",
+          "count": 1
+        },
+        {
+          "name": "LIXADEIRAS",
+          "slug": "lixadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/lixadeiras",
+          "count": 13
+        },
+        {
+          "name": "MARTELETES",
+          "slug": "marteletes",
+          "path": "/ferramentas/ferramentas-eletricas/marteletes",
+          "count": 8
+        },
+        {
+          "name": "MARTELOS",
+          "slug": "martelos",
+          "path": "/ferramentas/ferramentas-eletricas/martelos",
+          "count": 11
+        },
+        {
+          "name": "MICRO RETIFICA",
+          "slug": "micro-retifica",
+          "path": "/ferramentas/ferramentas-eletricas/micro-retifica",
+          "count": 3
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/ferramentas/ferramentas-eletricas/misturador",
+          "count": 1
+        },
+        {
+          "name": "MOTOSSERRA",
+          "slug": "motosserra",
+          "path": "/ferramentas/ferramentas-eletricas/motosserra",
+          "count": 1
+        },
+        {
+          "name": "PARAFUSADEIRA",
+          "slug": "parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/parafusadeira",
+          "count": 8
+        },
+        {
+          "name": "PEÇAS DE REPOSIÇÃO",
+          "slug": "pecas-de-reposicao",
+          "path": "/ferramentas/ferramentas-eletricas/pecas-de-reposicao",
+          "count": 18
+        },
+        {
+          "name": "PISTOLA CALAFETADORA",
+          "slug": "pistola-calafetadora",
+          "path": "/ferramentas/ferramentas-eletricas/pistola-calafetadora",
+          "count": 2
+        },
+        {
+          "name": "PLAINAS",
+          "slug": "plainas",
+          "path": "/ferramentas/ferramentas-eletricas/plainas",
+          "count": 3
+        },
+        {
+          "name": "PNEUMÁTICO",
+          "slug": "pneumatico",
+          "path": "/ferramentas/ferramentas-eletricas/pneumatico",
+          "count": 2
+        },
+        {
+          "name": "POLITRIZ",
+          "slug": "politriz",
+          "path": "/ferramentas/ferramentas-eletricas/politriz",
+          "count": 2
+        },
+        {
+          "name": "RETIFICA",
+          "slug": "retifica",
+          "path": "/ferramentas/ferramentas-eletricas/retifica",
+          "count": 3
+        },
+        {
+          "name": "SERRAS",
+          "slug": "serras",
+          "path": "/ferramentas/ferramentas-eletricas/serras",
+          "count": 24
+        },
+        {
+          "name": "SOPRADORES",
+          "slug": "sopradores",
+          "path": "/ferramentas/ferramentas-eletricas/sopradores",
+          "count": 21
+        },
+        {
+          "name": "SUPORTE",
+          "slug": "suporte",
+          "path": "/ferramentas/ferramentas-eletricas/suporte",
+          "count": 3
+        },
+        {
+          "name": "TESOURA",
+          "slug": "tesoura",
+          "path": "/ferramentas/ferramentas-eletricas/tesoura",
+          "count": 1
+        },
+        {
+          "name": "TORQUEADEIRAS",
+          "slug": "torqueadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/torqueadeiras",
+          "count": 4
+        },
+        {
+          "name": "TUPIAS",
+          "slug": "tupias",
+          "path": "/ferramentas/ferramentas-eletricas/tupias",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES PORTÁTEIS",
+          "slug": "ventiladores-portateis",
+          "path": "/ferramentas/ferramentas-eletricas/ventiladores-portateis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas de Jardinagem",
+      "slug": "ferramentas-de-jardinagem",
+      "path": "/ferramentas/ferramentas-de-jardinagem",
+      "count": 48,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/ferramentas/ferramentas-de-jardinagem/acessorios",
+          "count": 16
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/mangueiras",
+          "count": 5
+        },
+        {
+          "name": "PULVERIZADORES",
+          "slug": "pulverizadores",
+          "path": "/ferramentas/ferramentas-de-jardinagem/pulverizadores",
+          "count": 17
+        },
+        {
+          "name": "ROÇADEIRAS",
+          "slug": "rocadeiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/rocadeiras",
+          "count": 6
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/tesouras",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas Manuais",
+      "slug": "ferramentas-manuais",
+      "path": "/ferramentas/ferramentas-manuais",
+      "count": 1843,
+      "categories": [
+        {
+          "name": "ALICATES",
+          "slug": "alicates",
+          "path": "/ferramentas/ferramentas-manuais/alicates",
+          "count": 116
+        },
+        {
+          "name": "APLICADORES",
+          "slug": "aplicadores",
+          "path": "/ferramentas/ferramentas-manuais/aplicadores",
+          "count": 8
+        },
+        {
+          "name": "ARCOS DE SERRA",
+          "slug": "arcos-de-serra",
+          "path": "/ferramentas/ferramentas-manuais/arcos-de-serra",
+          "count": 12
+        },
+        {
+          "name": "AUTOMOTIVAS",
+          "slug": "automotivas",
+          "path": "/ferramentas/ferramentas-manuais/automotivas",
+          "count": 52
+        },
+        {
+          "name": "CAIXAS DE FERRAMENTAS",
+          "slug": "caixas-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/caixas-de-ferramentas",
+          "count": 11
+        },
+        {
+          "name": "CARRINHO",
+          "slug": "carrinho",
+          "path": "/ferramentas/ferramentas-manuais/carrinho",
+          "count": 3
+        },
+        {
+          "name": "CHAVES AXIAIS E MISTAS",
+          "slug": "chaves-axiais-e-mistas",
+          "path": "/ferramentas/ferramentas-manuais/chaves-axiais-e-mistas",
+          "count": 210
+        },
+        {
+          "name": "CHAVES RADIAIS",
+          "slug": "chaves-radiais",
+          "path": "/ferramentas/ferramentas-manuais/chaves-radiais",
+          "count": 271
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-manuais/cortador",
+          "count": 11
+        },
+        {
+          "name": "COSSINETES",
+          "slug": "cossinetes",
+          "path": "/ferramentas/ferramentas-manuais/cossinetes",
+          "count": 16
+        },
+        {
+          "name": "DESENCAPADORES",
+          "slug": "desencapadores",
+          "path": "/ferramentas/ferramentas-manuais/desencapadores",
+          "count": 3
+        },
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/ferramentas/ferramentas-manuais/diversos",
+          "count": 9
+        },
+        {
+          "name": "EXTRATORES",
+          "slug": "extratores",
+          "path": "/ferramentas/ferramentas-manuais/extratores",
+          "count": 23
+        },
+        {
+          "name": "FACA E CANIVETE",
+          "slug": "faca-e-canivete",
+          "path": "/ferramentas/ferramentas-manuais/faca-e-canivete",
+          "count": 10
+        },
+        {
+          "name": "FERRAMENTAS ISOLADAS",
+          "slug": "ferramentas-isoladas",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-isoladas",
+          "count": 192
+        },
+        {
+          "name": "FERRAMENTAS PARA TUBO",
+          "slug": "ferramentas-para-tubo",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-para-tubo",
+          "count": 20
+        },
+        {
+          "name": "FORMÕES",
+          "slug": "formoes",
+          "path": "/ferramentas/ferramentas-manuais/formoes",
+          "count": 2
+        },
+        {
+          "name": "FUNIL",
+          "slug": "funil",
+          "path": "/ferramentas/ferramentas-manuais/funil",
+          "count": 8
+        },
+        {
+          "name": "GRAMPEADOR",
+          "slug": "grampeador",
+          "path": "/ferramentas/ferramentas-manuais/grampeador",
+          "count": 6
+        },
+        {
+          "name": "GRAMPOS",
+          "slug": "grampos",
+          "path": "/ferramentas/ferramentas-manuais/grampos",
+          "count": 16
+        },
+        {
+          "name": "JOGO DE FERRAMENTAS",
+          "slug": "jogo-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/jogo-de-ferramentas",
+          "count": 18
+        },
+        {
+          "name": "LIMA",
+          "slug": "lima",
+          "path": "/ferramentas/ferramentas-manuais/lima",
+          "count": 16
+        },
+        {
+          "name": "MACHADOS E MACHADINHAS",
+          "slug": "machados-e-machadinhas",
+          "path": "/ferramentas/ferramentas-manuais/machados-e-machadinhas",
+          "count": 3
+        },
+        {
+          "name": "MARRETAS",
+          "slug": "marretas",
+          "path": "/ferramentas/ferramentas-manuais/marretas",
+          "count": 31
+        },
+        {
+          "name": "MARTELETE",
+          "slug": "martelete",
+          "path": "/ferramentas/ferramentas-manuais/martelete",
+          "count": 1
+        },
+        {
+          "name": "MARTELO",
+          "slug": "martelo",
+          "path": "/ferramentas/ferramentas-manuais/martelo",
+          "count": 50
+        },
+        {
+          "name": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+          "slug": "pistola-de-fixacao-a-polvora",
+          "path": "/ferramentas/ferramentas-manuais/pistola-de-fixacao-a-polvora",
+          "count": 3
+        },
+        {
+          "name": "PONTEIRAS",
+          "slug": "ponteiras",
+          "path": "/ferramentas/ferramentas-manuais/ponteiras",
+          "count": 1
+        },
+        {
+          "name": "PUNÇÕES",
+          "slug": "puncoes",
+          "path": "/ferramentas/ferramentas-manuais/puncoes",
+          "count": 6
+        },
+        {
+          "name": "SACA PINO",
+          "slug": "saca-pino",
+          "path": "/ferramentas/ferramentas-manuais/saca-pino",
+          "count": 1
+        },
+        {
+          "name": "SACA POLIA",
+          "slug": "saca-polia",
+          "path": "/ferramentas/ferramentas-manuais/saca-polia",
+          "count": 15
+        },
+        {
+          "name": "SERRA MANUAL",
+          "slug": "serra-manual",
+          "path": "/ferramentas/ferramentas-manuais/serra-manual",
+          "count": 4
+        },
+        {
+          "name": "SOQUETES E ACESSÓRIOS",
+          "slug": "soquetes-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/soquetes-e-acessorios",
+          "count": 517
+        },
+        {
+          "name": "TALHADEIRAS",
+          "slug": "talhadeiras",
+          "path": "/ferramentas/ferramentas-manuais/talhadeiras",
+          "count": 12
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-manuais/tesouras",
+          "count": 8
+        },
+        {
+          "name": "TORNO",
+          "slug": "torno",
+          "path": "/ferramentas/ferramentas-manuais/torno",
+          "count": 9
+        },
+        {
+          "name": "TORQUIMETROS",
+          "slug": "torquimetros",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros",
+          "count": 4
+        },
+        {
+          "name": "TORQUÊS",
+          "slug": "torques",
+          "path": "/ferramentas/ferramentas-manuais/torques",
+          "count": 5
+        },
+        {
+          "name": "TORQUÍMETROS E ACESSÓRIOS",
+          "slug": "torquimetros-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros-e-acessorios",
+          "count": 138
+        }
+      ]
+    },
+    {
+      "name": "Construção Civil",
+      "slug": "construcao-civil",
+      "path": "/ferramentas/construcao-civil",
+      "count": 275,
+      "categories": [
+        {
+          "name": "ABERTURAS",
+          "slug": "aberturas",
+          "path": "/ferramentas/construcao-civil/aberturas",
+          "count": 1
+        },
+        {
+          "name": "ALAVANCA",
+          "slug": "alavanca",
+          "path": "/ferramentas/construcao-civil/alavanca",
+          "count": 4
+        },
+        {
+          "name": "APLICADOR",
+          "slug": "aplicador",
+          "path": "/ferramentas/construcao-civil/aplicador",
+          "count": 5
+        },
+        {
+          "name": "ARAMES",
+          "slug": "arames",
+          "path": "/ferramentas/construcao-civil/arames",
+          "count": 10
+        },
+        {
+          "name": "BALDE",
+          "slug": "balde",
+          "path": "/ferramentas/construcao-civil/balde",
+          "count": 12
+        },
+        {
+          "name": "BETONEIRAS",
+          "slug": "betoneiras",
+          "path": "/ferramentas/construcao-civil/betoneiras",
+          "count": 2
+        },
+        {
+          "name": "CADEADO",
+          "slug": "cadeado",
+          "path": "/ferramentas/construcao-civil/cadeado",
+          "count": 33
+        },
+        {
+          "name": "CARRO DE MÃO, JERICA E PLATAFORMA",
+          "slug": "carro-de-mao-jerica-e-plataforma",
+          "path": "/ferramentas/construcao-civil/carro-de-mao-jerica-e-plataforma",
+          "count": 11
+        },
+        {
+          "name": "CAVADEIRA",
+          "slug": "cavadeira",
+          "path": "/ferramentas/construcao-civil/cavadeira",
+          "count": 4
+        },
+        {
+          "name": "COLHER DE PEDREIRO",
+          "slug": "colher-de-pedreiro",
+          "path": "/ferramentas/construcao-civil/colher-de-pedreiro",
+          "count": 7
+        },
+        {
+          "name": "CONCRETO E ARGAMASSA",
+          "slug": "concreto-e-argamassa",
+          "path": "/ferramentas/construcao-civil/concreto-e-argamassa",
+          "count": 1
+        },
+        {
+          "name": "CORRENTES DE USO GERAL",
+          "slug": "correntes-de-uso-geral",
+          "path": "/ferramentas/construcao-civil/correntes-de-uso-geral",
+          "count": 12
+        },
+        {
+          "name": "CORTA VERGALHÃO",
+          "slug": "corta-vergalhao",
+          "path": "/ferramentas/construcao-civil/corta-vergalhao",
+          "count": 14
+        },
+        {
+          "name": "DESEMPENADEIRAS",
+          "slug": "desempenadeiras",
+          "path": "/ferramentas/construcao-civil/desempenadeiras",
+          "count": 9
+        },
+        {
+          "name": "ENXADAS",
+          "slug": "enxadas",
+          "path": "/ferramentas/construcao-civil/enxadas",
+          "count": 6
+        },
+        {
+          "name": "ESCADAS",
+          "slug": "escadas",
+          "path": "/ferramentas/construcao-civil/escadas",
+          "count": 47
+        },
+        {
+          "name": "ESPATULAS",
+          "slug": "espatulas",
+          "path": "/ferramentas/construcao-civil/espatulas",
+          "count": 1
+        },
+        {
+          "name": "ESPAÇADOR",
+          "slug": "espacador",
+          "path": "/ferramentas/construcao-civil/espacador",
+          "count": 1
+        },
+        {
+          "name": "ESPUMA EXPANSIVA",
+          "slug": "espuma-expansiva",
+          "path": "/ferramentas/construcao-civil/espuma-expansiva",
+          "count": 4
+        },
+        {
+          "name": "FOICES",
+          "slug": "foices",
+          "path": "/ferramentas/construcao-civil/foices",
+          "count": 2
+        },
+        {
+          "name": "FURADOR E CORTADOR",
+          "slug": "furador-e-cortador",
+          "path": "/ferramentas/construcao-civil/furador-e-cortador",
+          "count": 3
+        },
+        {
+          "name": "LIMPEZA",
+          "slug": "limpeza",
+          "path": "/ferramentas/construcao-civil/limpeza",
+          "count": 1
+        },
+        {
+          "name": "LONA",
+          "slug": "lona",
+          "path": "/ferramentas/construcao-civil/lona",
+          "count": 14
+        },
+        {
+          "name": "LÁPIS",
+          "slug": "lapis",
+          "path": "/ferramentas/construcao-civil/lapis",
+          "count": 2
+        },
+        {
+          "name": "MISTURADORES",
+          "slug": "misturadores",
+          "path": "/ferramentas/construcao-civil/misturadores",
+          "count": 5
+        },
+        {
+          "name": "MÁQUINA",
+          "slug": "maquina",
+          "path": "/ferramentas/construcao-civil/maquina",
+          "count": 1
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/ferramentas/construcao-civil/outros",
+          "count": 5
+        },
+        {
+          "name": "PE-DE-CABRA",
+          "slug": "pe-de-cabra",
+          "path": "/ferramentas/construcao-civil/pe-de-cabra",
+          "count": 4
+        },
+        {
+          "name": "PICARETA",
+          "slug": "picareta",
+          "path": "/ferramentas/construcao-civil/picareta",
+          "count": 3
+        },
+        {
+          "name": "PLACA VIBRATÓRIA",
+          "slug": "placa-vibratoria",
+          "path": "/ferramentas/construcao-civil/placa-vibratoria",
+          "count": 1
+        },
+        {
+          "name": "PONTEIRA E TALHADEIRA",
+          "slug": "ponteira-e-talhadeira",
+          "path": "/ferramentas/construcao-civil/ponteira-e-talhadeira",
+          "count": 15
+        },
+        {
+          "name": "PREGO",
+          "slug": "prego",
+          "path": "/ferramentas/construcao-civil/prego",
+          "count": 5
+        },
+        {
+          "name": "PÁ",
+          "slug": "pa",
+          "path": "/ferramentas/construcao-civil/pa",
+          "count": 4
+        },
+        {
+          "name": "RASTELO",
+          "slug": "rastelo",
+          "path": "/ferramentas/construcao-civil/rastelo",
+          "count": 2
+        },
+        {
+          "name": "RÉGUA, PRUMO E LINHA",
+          "slug": "regua-prumo-e-linha",
+          "path": "/ferramentas/construcao-civil/regua-prumo-e-linha",
+          "count": 11
+        },
+        {
+          "name": "SERROTES",
+          "slug": "serrotes",
+          "path": "/ferramentas/construcao-civil/serrotes",
+          "count": 6
+        },
+        {
+          "name": "VENTOSAS",
+          "slug": "ventosas",
+          "path": "/ferramentas/construcao-civil/ventosas",
+          "count": 1
+        },
+        {
+          "name": "VIBRADORES DE CONCRETO",
+          "slug": "vibradores-de-concreto",
+          "path": "/ferramentas/construcao-civil/vibradores-de-concreto",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Lubrificação e Abastecimento",
+      "slug": "ferramentas-lubrificacao-e-abastecimento",
+      "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento",
+      "count": 44,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+          "slug": "acessorios-de-lubrificacao-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/acessorios-de-lubrificacao-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BICOS DE ABASTECIMENTO",
+          "slug": "bicos-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bicos-de-abastecimento",
+          "count": 2
+        },
+        {
+          "name": "BOMBAS DE ABASTECIMENTO",
+          "slug": "bombas-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BOMBAS DE GRAXA ELÉTRICAS",
+          "slug": "bombas-de-graxa-eletricas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-eletricas",
+          "count": 4
+        },
+        {
+          "name": "BOMBAS DE GRAXA MANUAL",
+          "slug": "bombas-de-graxa-manual",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-manual",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE GRAXA PNEUMÁTICAS",
+          "slug": "bombas-de-graxa-pneumaticas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-pneumaticas",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TRANSFERÊNCIA",
+          "slug": "bombas-de-transferencia",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-transferencia",
+          "count": 6
+        },
+        {
+          "name": "FILTROS E ELEMENTOS FILTRANTES",
+          "slug": "filtros-e-elementos-filtrantes",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/filtros-e-elementos-filtrantes",
+          "count": 1
+        },
+        {
+          "name": "LUBRIFICADORES DE ÓLEO",
+          "slug": "lubrificadores-de-oleo",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/lubrificadores-de-oleo",
+          "count": 5
+        },
+        {
+          "name": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+          "slug": "pistolas-de-lubrificacao-eletrica",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/pistolas-de-lubrificacao-eletrica",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "1305",
+      "name": "2E3P COMERCIAL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1305.json"
+    },
+    {
+      "code": "5486",
+      "name": "3D REVENDA TECNICA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5486.json"
+    },
+    {
+      "code": "34",
+      "name": "3M DO BRASIL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-34.json"
+    },
+    {
+      "code": "6197",
+      "name": "63.146.797 LUCIANO MOREIRA GAMA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6197.json"
+    },
+    {
+      "code": "5689",
+      "name": "63.287.636 DANIEL PAES DOS SANTOS",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5689.json"
+    },
+    {
+      "code": "2116",
+      "name": "A A INDUSTRIA DE ROTOMOLDAGEM",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2116.json"
+    },
+    {
+      "code": "4603",
+      "name": "A CHELITA ATACADO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4603.json"
+    },
+    {
+      "code": "1798",
+      "name": "A T I BRASIL ARTIGOS TECNICOS INDUSTRIAIS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-1798.json"
+    },
+    {
+      "code": "5865",
+      "name": "AB PERES IMPORTACOES, INDUSTRIA E COMERCIO DE MAQUINAS, FERR",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5865.json"
+    },
+    {
+      "code": "4509",
+      "name": "ABASTECE COMPONENTES ELETRICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4509.json"
+    },
+    {
+      "code": "1955",
+      "name": "ACE COMERCIO DE EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1955.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 5,
+      "file": "ferramentas--fornecedor-798.json"
+    },
+    {
+      "code": "790",
+      "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "count": 26,
+      "file": "ferramentas--fornecedor-790.json"
+    },
+    {
+      "code": "5182",
+      "name": "ANHANGUERA COMERCIO DE FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5182.json"
+    },
+    {
+      "code": "5710",
+      "name": "ANKER DO BRASIL PECAS E MATERIAIS PARA CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5710.json"
+    },
+    {
+      "code": "628",
+      "name": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "count": 365,
+      "file": "ferramentas--fornecedor-628.json"
+    },
+    {
+      "code": "1390",
+      "name": "ARMAZEM SOLAR LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1390.json"
+    },
+    {
+      "code": "2138",
+      "name": "ASSA ABLOY BRASIL INDUSTRIA E COMERCIO LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-2138.json"
+    },
+    {
+      "code": "3227",
+      "name": "ASSA ABLOY BRASIL INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-3227.json"
+    },
+    {
+      "code": "2159",
+      "name": "B&C COMERCIO E DISTRIBUICAO DE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2159.json"
+    },
+    {
+      "code": "412",
+      "name": "BLACK  DECKER DO BRASIL LTDA",
+      "count": 56,
+      "file": "ferramentas--fornecedor-412.json"
+    },
+    {
+      "code": "5849",
+      "name": "BPJ COMERCIO E IMPORTACAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5849.json"
+    },
+    {
+      "code": "6013",
+      "name": "BPJ FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6013.json"
+    },
+    {
+      "code": "401",
+      "name": "BRANCO MOTORES LTDA",
+      "count": 10,
+      "file": "ferramentas--fornecedor-401.json"
+    },
+    {
+      "code": "919",
+      "name": "BRASELCO COMERCIO DE EQUIPAMENTOS E PARTICIPACOES LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-919.json"
+    },
+    {
+      "code": "521",
+      "name": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "count": 9,
+      "file": "ferramentas--fornecedor-521.json"
+    },
+    {
+      "code": "4266",
+      "name": "C F DA SILVA COSTA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4266.json"
+    },
+    {
+      "code": "4072",
+      "name": "C. A. S. DOS SANTOS GODOI",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4072.json"
+    },
+    {
+      "code": "1077",
+      "name": "CAC BARROS COMERCIO",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1077.json"
+    },
+    {
+      "code": "66",
+      "name": "CARBOGRAFITE EQUIPAMENTOS INDUSTRIAIS",
+      "count": 2,
+      "file": "ferramentas--fornecedor-66.json"
+    },
+    {
+      "code": "5947",
+      "name": "CARLOS AUGUSTO DE LIMA VIEIRA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-5947.json"
+    },
+    {
+      "code": "2529",
+      "name": "CENTRAL DISTRIBUIDORA DE LONA LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-2529.json"
+    },
+    {
+      "code": "1918",
+      "name": "CESAR LUIZ MARCON LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1918.json"
+    },
+    {
+      "code": "6039",
+      "name": "CIMEP COMERCIO DE MATERIAIS PARA ENCADERNACAO E PLASTIFICACA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6039.json"
+    },
+    {
+      "code": "162",
+      "name": "CIRNE IRMAOS & CIA LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-162.json"
+    },
+    {
+      "code": "3704",
+      "name": "CIRNE IRMAOS & CIA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-3704.json"
+    },
+    {
+      "code": "679",
+      "name": "CJ METAIS E CONSTRUCOES LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-679.json"
+    },
+    {
+      "code": "980",
+      "name": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-980.json"
+    },
+    {
+      "code": "1498",
+      "name": "COMERCIAL COPETEC LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1498.json"
+    },
+    {
+      "code": "2535",
+      "name": "COMERCIAL DRAGAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2535.json"
+    },
+    {
+      "code": "3505",
+      "name": "COMERCIAL LACERDA LTDA",
+      "count": 3,
+      "file": "ferramentas--fornecedor-3505.json"
+    },
+    {
+      "code": "317",
+      "name": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "count": 4,
+      "file": "ferramentas--fornecedor-317.json"
+    },
+    {
+      "code": "880",
+      "name": "CONDOR PINCEIS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-880.json"
+    },
+    {
+      "code": "1383",
+      "name": "CONSTRUMAQ INDUSTRIA DE MAQUINAS E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1383.json"
+    },
+    {
+      "code": "895",
+      "name": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "count": 2,
+      "file": "ferramentas--fornecedor-895.json"
+    },
+    {
+      "code": "6249",
+      "name": "CRYSMAR PRODUTOS DE LIMPEZA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6249.json"
+    },
+    {
+      "code": "3401",
+      "name": "CSM - COMPONENTES, SISTEMAS E MAQUINAS PARA CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-3401.json"
+    },
+    {
+      "code": "208",
+      "name": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "count": 3,
+      "file": "ferramentas--fornecedor-208.json"
+    },
+    {
+      "code": "4223",
+      "name": "DPALMA IMPORTADORA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4223.json"
+    },
+    {
+      "code": "4378",
+      "name": "EAGLEBURGMANN DO BRASIL VEDACOES INDUSTRIAIS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4378.json"
+    },
+    {
+      "code": "231",
+      "name": "ELGIN DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-231.json"
+    },
+    {
+      "code": "6142",
+      "name": "ELITE FERRAMENTAS MOTORIZADAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6142.json"
+    },
+    {
+      "code": "1088",
+      "name": "ELOS ELETROTECNICA LTDA",
+      "count": 3,
+      "file": "ferramentas--fornecedor-1088.json"
+    },
+    {
+      "code": "1202",
+      "name": "ENERGY EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1202.json"
+    },
+    {
+      "code": "6122",
+      "name": "EPI MARKETPLACE COMERCIAL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6122.json"
+    },
+    {
+      "code": "1060",
+      "name": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "count": 6,
+      "file": "ferramentas--fornecedor-1060.json"
+    },
+    {
+      "code": "3455",
+      "name": "ESCADA SUDESTE INDUSTRIA LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-3455.json"
+    },
+    {
+      "code": "845",
+      "name": "ESCALEVE ESCADA INDUSTRIAL, COMERCIO E DISTRIBUIDORA LTDA",
+      "count": 9,
+      "file": "ferramentas--fornecedor-845.json"
+    },
+    {
+      "code": "2628",
+      "name": "EXTREME HOBBY EQUIPAMENTOS DE AUDIO E VIDEO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2628.json"
+    },
+    {
+      "code": "2740",
+      "name": "F. T. M. MECANICA DE PRECISAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2740.json"
+    },
+    {
+      "code": "5784",
+      "name": "FELIPE CESAR NICOLAU ROSARIO 41735427802",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5784.json"
+    },
+    {
+      "code": "2077",
+      "name": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "count": 256,
+      "file": "ferramentas--fornecedor-2077.json"
+    },
+    {
+      "code": "174",
+      "name": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "count": 809,
+      "file": "ferramentas--fornecedor-174.json"
+    },
+    {
+      "code": "170",
+      "name": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "count": 14,
+      "file": "ferramentas--fornecedor-170.json"
+    },
+    {
+      "code": "755",
+      "name": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-755.json"
+    },
+    {
+      "code": "806",
+      "name": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-806.json"
+    },
+    {
+      "code": "1504",
+      "name": "FIBRALU FIBRA E ALUMINIO LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-1504.json"
+    },
+    {
+      "code": "1093",
+      "name": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "count": 4,
+      "file": "ferramentas--fornecedor-1093.json"
+    },
+    {
+      "code": "271",
+      "name": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "count": 6,
+      "file": "ferramentas--fornecedor-271.json"
+    },
+    {
+      "code": "5696",
+      "name": "FORTITUDO COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5696.json"
+    },
+    {
+      "code": "967",
+      "name": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "count": 3,
+      "file": "ferramentas--fornecedor-967.json"
+    },
+    {
+      "code": "2784",
+      "name": "FRATELLO COMERCO E SERVICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2784.json"
+    },
+    {
+      "code": "467",
+      "name": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-467.json"
+    },
+    {
+      "code": "1236",
+      "name": "G D S LIMA COMERCIAL & EQUIPAMENTOS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-1236.json"
+    },
+    {
+      "code": "878",
+      "name": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-878.json"
+    },
+    {
+      "code": "2512",
+      "name": "GLOSS STORE COMERCIO DE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2512.json"
+    },
+    {
+      "code": "1429",
+      "name": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "count": 3,
+      "file": "ferramentas--fornecedor-1429.json"
+    },
+    {
+      "code": "727",
+      "name": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "count": 3,
+      "file": "ferramentas--fornecedor-727.json"
+    },
+    {
+      "code": "4107",
+      "name": "HELITE ELETROMECANICA E ELETRIFICACAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4107.json"
+    },
+    {
+      "code": "2864",
+      "name": "HPI COMERCIAL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2864.json"
+    },
+    {
+      "code": "890",
+      "name": "I A V COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-890.json"
+    },
+    {
+      "code": "5562",
+      "name": "IGLESIAS MODELACAO E FUNDICAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5562.json"
+    },
+    {
+      "code": "166",
+      "name": "IND.COM.ESCADAS FORTUNATO LTDA EPP",
+      "count": 1,
+      "file": "ferramentas--fornecedor-166.json"
+    },
+    {
+      "code": "3249",
+      "name": "INDALTEX COMERCIO E SERVICOS LTDA (KARCHER )",
+      "count": 1,
+      "file": "ferramentas--fornecedor-3249.json"
+    },
+    {
+      "code": "484",
+      "name": "INDSUTRIA DE FORJADOS SAO ROMAO",
+      "count": 4,
+      "file": "ferramentas--fornecedor-484.json"
+    },
+    {
+      "code": "1248",
+      "name": "INDUSTRIA E COMERCIO LEAL LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-1248.json"
+    },
+    {
+      "code": "2150",
+      "name": "INTERALUM METAIS INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2150.json"
+    },
+    {
+      "code": "6011",
+      "name": "ISCALI DISTRIBUIDORA E LOGISTICA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6011.json"
+    },
+    {
+      "code": "2363",
+      "name": "IVAM COSTA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2363.json"
+    },
+    {
+      "code": "105",
+      "name": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "count": 20,
+      "file": "ferramentas--fornecedor-105.json"
+    },
+    {
+      "code": "2704",
+      "name": "KEL-MAQ MAQUINAS E FERRAMENTAS",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2704.json"
+    },
+    {
+      "code": "958",
+      "name": "KENIA SABATTYNE DE O BORGES",
+      "count": 3,
+      "file": "ferramentas--fornecedor-958.json"
+    },
+    {
+      "code": "1377",
+      "name": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1377.json"
+    },
+    {
+      "code": "894",
+      "name": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-894.json"
+    },
+    {
+      "code": "5844",
+      "name": "LARSHOP MAIS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5844.json"
+    },
+    {
+      "code": "493",
+      "name": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "count": 2,
+      "file": "ferramentas--fornecedor-493.json"
+    },
+    {
+      "code": "884",
+      "name": "LIFECINTOS COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-884.json"
+    },
+    {
+      "code": "1947",
+      "name": "LOJA DO CAMPO COMERCIO VAREJISTA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1947.json"
+    },
+    {
+      "code": "3029",
+      "name": "LONAS CURITIBA LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-3029.json"
+    },
+    {
+      "code": "5325",
+      "name": "LUBEFER INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5325.json"
+    },
+    {
+      "code": "1436",
+      "name": "M.S.S. COM. E SERVICOS",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1436.json"
+    },
+    {
+      "code": "2524",
+      "name": "MAC LUB INDUSTRIA METALURGICA LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-2524.json"
+    },
+    {
+      "code": "4616",
+      "name": "MAICON SOARES DA SILVA LONAS MARINGA - LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4616.json"
+    },
+    {
+      "code": "1095",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 103,
+      "file": "ferramentas--fornecedor-1095.json"
+    },
+    {
+      "code": "1115",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 14,
+      "file": "ferramentas--fornecedor-1115.json"
+    },
+    {
+      "code": "1168",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 24,
+      "file": "ferramentas--fornecedor-1168.json"
+    },
+    {
+      "code": "1240",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-1240.json"
+    },
+    {
+      "code": "1194",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1194.json"
+    },
+    {
+      "code": "2399",
+      "name": "MAQUINAS AGRICOLAS JACTO S A",
+      "count": 2,
+      "file": "ferramentas--fornecedor-2399.json"
+    },
+    {
+      "code": "4957",
+      "name": "MARINGA FITAS DISTR DE FITAS E ABRASIVOS INDUSTR LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4957.json"
+    },
+    {
+      "code": "4825",
+      "name": "MATCON.CASA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4825.json"
+    },
+    {
+      "code": "4995",
+      "name": "MAXI TRUST POWER LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4995.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 16,
+      "file": "ferramentas--fornecedor-4.json"
+    },
+    {
+      "code": "1234",
+      "name": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1234.json"
+    },
+    {
+      "code": "1332",
+      "name": "METALURGICA FERCAR LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-1332.json"
+    },
+    {
+      "code": "255",
+      "name": "METALURGICA MOR S.A- FILIAL PERNAMBUCO",
+      "count": 3,
+      "file": "ferramentas--fornecedor-255.json"
+    },
+    {
+      "code": "1538",
+      "name": "METALURGICA REISAM INDUSTRIA E COMERCIO LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-1538.json"
+    },
+    {
+      "code": "1381",
+      "name": "MH MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-1381.json"
+    },
+    {
+      "code": "5705",
+      "name": "MILTORKEE IMPORTADORA E COMERCIO DE FERRAMENTAS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-5705.json"
+    },
+    {
+      "code": "2739",
+      "name": "MONTIPOWER BRASIL COMERCIO ATACADISTA IMP E EXP SA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2739.json"
+    },
+    {
+      "code": "5662",
+      "name": "MULT USO COMERCIO DE FERRAMENTAS E UTILIDADES DO LAR LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5662.json"
+    },
+    {
+      "code": "3602",
+      "name": "MULTIFORT LTDA",
+      "count": 3,
+      "file": "ferramentas--fornecedor-3602.json"
+    },
+    {
+      "code": "3330",
+      "name": "MUNDO DAS FECHADURAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-3330.json"
+    },
+    {
+      "code": "244",
+      "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "count": 67,
+      "file": "ferramentas--fornecedor-244.json"
+    },
+    {
+      "code": "2102",
+      "name": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2102.json"
+    },
+    {
+      "code": "1488",
+      "name": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1488.json"
+    },
+    {
+      "code": "3090",
+      "name": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 38,
+      "file": "ferramentas--fornecedor-3090.json"
+    },
+    {
+      "code": "846",
+      "name": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-846.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 46,
+      "file": "ferramentas--fornecedor-122.json"
+    },
+    {
+      "code": "88",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 42,
+      "file": "ferramentas--fornecedor-88.json"
+    },
+    {
+      "code": "5591",
+      "name": "OUTIX COMERCIO ONLINE LTDA",
+      "count": 12,
+      "file": "ferramentas--fornecedor-5591.json"
+    },
+    {
+      "code": "565",
+      "name": "PADO S/A INDL COML E IMPORTADORA",
+      "count": 23,
+      "file": "ferramentas--fornecedor-565.json"
+    },
+    {
+      "code": "2978",
+      "name": "PALETRANS EQUIPAMENTOS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-2978.json"
+    },
+    {
+      "code": "5155",
+      "name": "PERFIL IMPORTS",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5155.json"
+    },
+    {
+      "code": "4345",
+      "name": "PETRO LIDER COMERCIO DE EQUIPAMENTOS PARA ABASTECER E LUBRI",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4345.json"
+    },
+    {
+      "code": "2409",
+      "name": "PETRO LIDER COMERCIO DE FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2409.json"
+    },
+    {
+      "code": "30",
+      "name": "PLASTCOR DO BRASIL LTDA - SP",
+      "count": 1,
+      "file": "ferramentas--fornecedor-30.json"
+    },
+    {
+      "code": "5610",
+      "name": "POLAR COMPONENTES BRASIL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5610.json"
+    },
+    {
+      "code": "3649",
+      "name": "POWERSAFE IMPORTACAO, EXPORTACAO LTDA.",
+      "count": 2,
+      "file": "ferramentas--fornecedor-3649.json"
+    },
+    {
+      "code": "1627",
+      "name": "PRINT INDUSTRIAL TEXTIL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1627.json"
+    },
+    {
+      "code": "4058",
+      "name": "RAIO BATERIAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4058.json"
+    },
+    {
+      "code": "1526",
+      "name": "REFFMAQ MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1526.json"
+    },
+    {
+      "code": "1317",
+      "name": "REINALDO ALMEIDA DO COUTO 00056732406",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1317.json"
+    },
+    {
+      "code": "1034",
+      "name": "REMACLO DA SILVA FERRAGENS EIRELI",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1034.json"
+    },
+    {
+      "code": "168",
+      "name": "RITZ FERRAMENTAS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-168.json"
+    },
+    {
+      "code": "158",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 134,
+      "file": "ferramentas--fornecedor-158.json"
+    },
+    {
+      "code": "432",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 42,
+      "file": "ferramentas--fornecedor-432.json"
+    },
+    {
+      "code": "1079",
+      "name": "ROLIMEC ROLAMENTOS LTDA",
+      "count": 3,
+      "file": "ferramentas--fornecedor-1079.json"
+    },
+    {
+      "code": "4231",
+      "name": "ROMATA FERRAMENTAS E MAQUINAS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-4231.json"
+    },
+    {
+      "code": "1711",
+      "name": "ROMULO ODILON VAZ ASEVEDO",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1711.json"
+    },
+    {
+      "code": "908",
+      "name": "ROTHENBERGER DO BRASIL LTDA",
+      "count": 7,
+      "file": "ferramentas--fornecedor-908.json"
+    },
+    {
+      "code": "857",
+      "name": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-857.json"
+    },
+    {
+      "code": "1292",
+      "name": "SAINT-GOBAIN DO BRASIL PRODUTOS INDUSTRIAIS E PARA CONSTRUCA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-1292.json"
+    },
+    {
+      "code": "5086",
+      "name": "SC PECAS LTDAAVENIDA RIO BRANCO",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5086.json"
+    },
+    {
+      "code": "276",
+      "name": "SCHULZ COMPRESSORES LTDA",
+      "count": 9,
+      "file": "ferramentas--fornecedor-276.json"
+    },
+    {
+      "code": "899",
+      "name": "SEMAR IMPORT ATACADISTA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-899.json"
+    },
+    {
+      "code": "97",
+      "name": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "count": 3,
+      "file": "ferramentas--fornecedor-97.json"
+    },
+    {
+      "code": "6205",
+      "name": "SOMAX CONCEPT LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6205.json"
+    },
+    {
+      "code": "5026",
+      "name": "SOMLED AMPLIFICADORES E LEDS LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5026.json"
+    },
+    {
+      "code": "1314",
+      "name": "SPINNER INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1314.json"
+    },
+    {
+      "code": "306",
+      "name": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "count": 2,
+      "file": "ferramentas--fornecedor-306.json"
+    },
+    {
+      "code": "2249",
+      "name": "STAUBLI COMERCIO, IMPORTACAO, EXPORTACAO E REPRESENTACOES LT",
+      "count": 1,
+      "file": "ferramentas--fornecedor-2249.json"
+    },
+    {
+      "code": "1539",
+      "name": "SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.",
+      "count": 3,
+      "file": "ferramentas--fornecedor-1539.json"
+    },
+    {
+      "code": "1545",
+      "name": "SUPRI PECAS PARA ELEVADORES LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1545.json"
+    },
+    {
+      "code": "2426",
+      "name": "TESTEPETRO COM DE EQUIPAMENTOS",
+      "count": 3,
+      "file": "ferramentas--fornecedor-2426.json"
+    },
+    {
+      "code": "5280",
+      "name": "TETRALITE FIREPROOF LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5280.json"
+    },
+    {
+      "code": "1909",
+      "name": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1909.json"
+    },
+    {
+      "code": "519",
+      "name": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "count": 109,
+      "file": "ferramentas--fornecedor-519.json"
+    },
+    {
+      "code": "252",
+      "name": "TRAMONTINA MULTI S/A",
+      "count": 23,
+      "file": "ferramentas--fornecedor-252.json"
+    },
+    {
+      "code": "509",
+      "name": "TRAMONTINA NORDESTE S/A",
+      "count": 52,
+      "file": "ferramentas--fornecedor-509.json"
+    },
+    {
+      "code": "533",
+      "name": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-533.json"
+    },
+    {
+      "code": "1995",
+      "name": "VALENCE STORE LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-1995.json"
+    },
+    {
+      "code": "4183",
+      "name": "VELPER INDUSTRIA E COMERCIO DE TECIDOS E PLASTICOS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-4183.json"
+    },
+    {
+      "code": "5984",
+      "name": "VIRTUAL DISTRIBUIDORA DE MATERIAL ELETRICO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5984.json"
+    },
+    {
+      "code": "759",
+      "name": "W BERTOLO INDUSTRIA E COMERCIO DE ESCADAS LTDA",
+      "count": 6,
+      "file": "ferramentas--fornecedor-759.json"
+    },
+    {
+      "code": "1217",
+      "name": "W ELAN INDUSTRIA E COMERCIO DE ESCADAS LTDA",
+      "count": 11,
+      "file": "ferramentas--fornecedor-1217.json"
+    },
+    {
+      "code": "6267",
+      "name": "W H B DO BRASIL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-6267.json"
+    },
+    {
+      "code": "2568",
+      "name": "WALSYWA INDUSTRIA E COMERCIO DE PRODUTOS METALURGICOS LTDA",
+      "count": 4,
+      "file": "ferramentas--fornecedor-2568.json"
+    },
+    {
+      "code": "83",
+      "name": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "count": 2,
+      "file": "ferramentas--fornecedor-83.json"
+    },
+    {
+      "code": "259",
+      "name": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-259.json"
+    },
+    {
+      "code": "5498",
+      "name": "ZANA DIGITAL LTDA",
+      "count": 1,
+      "file": "ferramentas--fornecedor-5498.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "12206",
+      "title": "1.07/K-2-SE JOGO DE SACA-POLIA",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "040284",
+      "category": "SACA POLIA",
+      "categorySlug": "saca-polia",
+      "path": "/107k2se-jogo-de-sacapolia-12206",
+      "image": "/products/images/0122/12206.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12542",
+      "title": "1807SOQUETE ESTRIADO ENCAIXE 1 D21-2.3/4",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "18071",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/1807soquete-estriado-encaixe-1-d21234-12542",
+      "image": "/products/images/0125/12542.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11538",
+      "title": "19L-21 SOQUETE SEXTAV LONG ENCAIXE 1/2\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "067679",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/19l21-soquete-sextav-long-encaixe-12-11538",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11010",
+      "title": "2087 CABO T",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "013200",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/2087-cabo-t-11010",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11325",
+      "title": "21B-2 MARRETA 2KG COM CABO DE BORRACHA",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "050879",
+      "category": "MARRETAS",
+      "categorySlug": "marretas",
+      "path": "/21b2-marreta-2kg-com-cabo-de-borracha-11325",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11327",
+      "title": "248 ST-30 MARTELO ANTI-RETROCESSO",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "050155",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/248-st30-martelo-antiretrocesso-11327",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11012",
+      "title": "3087 CABO T ENCAIXE DE 3/8\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "014120",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/3087-cabo-t-encaixe-de-38-11012",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10824",
+      "title": "490K CANETA COM GARRAS",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "050962",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/490k-caneta-com-garras-10824",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10823",
+      "title": "6-6P JOGO DE CHAVE FIXA 1/4\" A 7/8\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "4652",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/66p-jogo-de-chave-fixa-14-a-78-10823",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "583",
+      "title": "ACOPLADOR HIDRÁULICO UNIVERSAL PARA BOMBA MANUAL  BOZZA REF 310-C-NEWS",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "014200047",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/acoplador-hidraulico-universal-para-bomba-manual-bozza-ref-310cnews-583",
+      "image": "/products/images/0005/583.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "9274",
+      "title": "ACOPLADOR P GRAXA ENGATE RAPIDO 1/8NPT",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.420.0090",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/acoplador-p-graxa-engate-rapido-18npt-9274",
+      "image": "/products/images/0092/9274.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "5563",
+      "title": "ACOPLAMENTO ÂNGULO RETO 575 PARA MICRO RETÍFICA  - DREMEL 26150575AD",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "26150575AD000",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/acoplamento-angulo-reto-575-para-micro-retifica--dremel-26150575ad-5563",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12001",
+      "title": "ADAP P/ SOQ IMPACTO-ENCAIXE 1\" F X 3/4 M",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44930102",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adap-p-soq-impactoencaixe-1-f-x-34-m-12001",
+      "image": "/products/images/0120/12001.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2378",
+      "title": "ADAPTADOR 1\" PARA 3/4\" EM AÇO GEDORE-VANADIUM - GEDORE REF. 2132",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "018200",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-1-para-34-em-aco-gedorevanadium--gedore-ref-2132-2378",
+      "image": "/products/images/0023/2378.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "110",
+      "title": "ADAPTADOR 1/2'' X 3/4\" -  GEDORE  REF. 1932",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "015340",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-12-x-34--gedore-ref-1932-110",
+      "image": "/products/images/0001/110.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2377",
+      "title": "ADAPTADOR 3/4\" PARA 1\" EM AÇO GEDORE-VANADIUM - GEDORE REF. 3221",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "017090",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-34-para-1-em-aco-gedorevanadium--gedore-ref-3221-2377",
+      "image": "/products/images/0023/2377.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2475",
+      "title": "ADAPTADOR 3/4'' PARA 1/2\" -  GEDORE  REF. 3219",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "017100",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-34-para-12--gedore-ref-3219-2475",
+      "image": "/products/images/0024/2475.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4189",
+      "title": "ADAPTADOR 3/8\" PARA 1/2\" EM AÇO GEDORE-VANADIUM - GEDORE REF. 3019",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "014090",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-38-para-12-em-aco-gedorevanadium--gedore-ref-3019-4189",
+      "image": "/products/images/0041/4189.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "111",
+      "title": "ADAPTADOR 3/8'' X 1/4\" -  GEDORE REF 3020",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "014100",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-38-x-14--gedore-ref-3020-111",
+      "image": "/products/images/0001/111.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2288",
+      "title": "ADAPTADOR BELZER 35005 1/2 X 3/4",
+      "brand": "BELZER",
+      "brandCode": "164",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "237505BX",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-belzer-35005-12-x-34-2288",
+      "image": "/products/images/0022/2288.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2337",
+      "title": "ADAPTADOR CHAVE CATRACA INTERCAMBIÁVEL 1/2\" P/ TORQUÍMETRO 16MM - GEDORE 8754-02",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "048073",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-chave-catraca-intercambiavel-12-p-torquimetro-16mm--gedore-875402-2337",
+      "image": "/products/images/0023/2337.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "8159",
+      "title": "ADAPTADOR DE IMPACTO  3/8\" PARA 1/2\" - GEDORE KB 3019",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023005",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-38-para-12--gedore-kb-3019-8159",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2877",
+      "title": "ADAPTADOR DE IMPACTO 1\" X 1.1/2\" -  GEDORE REF KB 2337",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "023021",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-1-x-112--gedore-ref-kb-2337-2877",
+      "image": "/products/images/0028/2877.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2878",
+      "title": "ADAPTADOR DE IMPACTO 1.1/2\" X 1\" - GEDORE REF.  KB 3721",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023020",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-112-x-1--gedore-ref-kb-3721-2878",
+      "image": "/products/images/0028/2878.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "8158",
+      "title": "ADAPTADOR DE IMPACTO 1/2\" PARA 3/8\" GEDORE KB 1930",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023035",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-12-para-38-gedore-kb-1930-8158",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "113",
+      "title": "ADAPTADOR DE IMPACTO 1/2\" X 3/4\" -  GEDORE REF KB 1932",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "023013",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-12-x-34--gedore-ref-kb-1932-113",
+      "image": "/products/images/0001/113.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3272",
+      "title": "ADAPTADOR DE IMPACTO 1/2\"F X 3/4\"M",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST34717SC",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-12f-x-34m-3272",
+      "image": "/products/images/0032/3272.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "45",
+      "title": "ADAPTADOR DE IMPACTO 3/4\" X 1\" - GEDORE REF KB3221",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023019",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-34-x-1--gedore-ref-kb3221-45",
+      "image": "/products/images/0000/45.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "115",
+      "title": "ADAPTADOR DE IMPACTO 3/4\" X 1/2\" -  GEDORE REF KB 3219",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "023007",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-34-x-12--gedore-ref-kb-3219-115",
+      "image": "/products/images/0001/115.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3392",
+      "title": "ADAPTADOR DE IMPACTO 3/4'F X 1/2'M",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST34718SC",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-34f-x-12m-3392",
+      "image": "/products/images/0033/3392.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "34",
+      "title": "ADAPTADOR DE IMPACTO ENCAIXE 1\" PARA 3/4\" GEDORE REF KB2132",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "023015",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-encaixe-1-para-34-gedore-ref-kb2132-34",
+      "image": "/products/images/0000/34.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2283",
+      "title": "ADAPTADOR DE IMPACTO SATA 3/4' F X 1' M",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST34721SC",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-impacto-sata-34-f-x-1-m-2283",
+      "image": "/products/images/0022/2283.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6413",
+      "title": "ADAPTADOR DE SOQUETE 1/2\" X 50MM",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "B-66874",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-soquete-12-x-50mm-6413",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "545",
+      "title": "ADAPTADOR DE SOQUETES 1/4\" PARA 1/2\" 50MM BOSCH REF 2608551107",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608551107000",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-de-soquetes-14-para-12-50mm-bosch-ref-2608551107-545",
+      "image": "/products/images/0005/545.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7110",
+      "title": "ADAPTADOR ESTRELA ENCAIXE 22 8796-27MM",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "048085",
+      "category": "TORQUÍMETROS E ACESSÓRIOS",
+      "categorySlug": "torquimetros-e-acessorios",
+      "path": "/adaptador-estrela-encaixe-22-879627mm-7110",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "8164",
+      "title": "ADAPTADOR ESTRELA ENCAIXE 28 8799-50MM",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "048522",
+      "category": "TORQUÍMETROS E ACESSÓRIOS",
+      "categorySlug": "torquimetros-e-acessorios",
+      "path": "/adaptador-estrela-encaixe-28-879950mm-8164",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2305",
+      "title": "ADAPTADOR MAGN BIT HEX 1/4 SATA 50MM 3PC",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST59273ST",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-magn-bit-hex-14-sata-50mm-3pc-2305",
+      "image": "/products/images/0023/2305.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6081",
+      "title": "ADAPTADOR PARA SOQUETE 1/4\" X 3/8\" EM AÇO INOX - GEDORE 13052",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "054372",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-para-soquete-14-x-38-em-aco-inox--gedore-13052-6081",
+      "image": "/products/images/0060/6081.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "119",
+      "title": "ADAPTADOR PARA SOQUETES 1/2\" GEDORE REF 7 RA 12,5",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "031453",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-para-soquetes-12-gedore-ref-7-ra-125-119",
+      "image": "/products/images/0001/119.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3830",
+      "title": "ADAPTADOR PARA SOQUETES 1/4\" X 1/4\", 50MM - GEDORE RED REF. R47110009",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3300150",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-para-soquetes-14-x-14-50mm--gedore-red-ref-r47110009-3830",
+      "image": "/products/images/0038/3830.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6291",
+      "title": "ADAPTADOR PARA TORQ 14X18 P/ 24,5X28",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "089652",
+      "category": "TORQUÍMETROS E ACESSÓRIOS",
+      "categorySlug": "torquimetros-e-acessorios",
+      "path": "/adaptador-para-torq-14x18-p-245x28-6291",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6292",
+      "title": "ADAPTADOR PARA TORQUIMETRO 9X12 P/ 14X18",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "089653",
+      "category": "TORQUÍMETROS E ACESSÓRIOS",
+      "categorySlug": "torquimetros-e-acessorios",
+      "path": "/adaptador-para-torquimetro-9x12-p-14x18-6292",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3538",
+      "title": "ADAPTADOR ROSCA E REDUÇÃO 1/2\" X 3/4\" PVC LARANJA/PRETO - FORCELINE 0190400070",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0190400129",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/adaptador-rosca-e-reducao-12-x-34-pvc-laranjapreto--forceline-0190400070-3538",
+      "image": "/products/images/0035/3538.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "2302",
+      "title": "ADAPTADOR SATA 3/4 FX 1/2 M",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST16908SC",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-sata-34-fx-12-m-2302",
+      "image": "/products/images/0023/2302.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "116",
+      "title": "ADAPTADOR TIPO CANHÃO MAGNÉTICO 1/4\" -  GEDORE REF 10666-1/4\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "054325",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-tipo-canhao-magnetico-14--gedore-ref-1066614-116",
+      "image": "/products/images/0001/116.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "118",
+      "title": "ADAPTADOR TIPO CANHÃO MAGNÉTICO 3/8\" - GEDORE REF 10676-3/8\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "054327",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-tipo-canhao-magnetico-38--gedore-ref-1067638-118",
+      "image": "/products/images/0001/118.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "117",
+      "title": "ADAPTADOR TIPO CANHÃO MAGNÉTICO 5/16\" -  GEDORE REF 10670-5/16\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "054326",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/adaptador-tipo-canhao-magnetico-516--gedore-ref-10670516-117",
+      "image": "/products/images/0001/117.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9515",
+      "title": "ALAVANCA CURVA COM CABO 36\" VONDER REF 3599036100",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3599036100",
+      "category": "ALAVANCA",
+      "categorySlug": "alavanca",
+      "path": "/alavanca-curva-com-cabo-36-vonder-ref-3599036100-9515",
+      "image": "/products/images/0095/9515.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8841",
+      "title": "ALAVANCA P/MECANICO 16",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3599040000",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/alavanca-pmecanico-16-8841",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1554",
+      "title": "ALAVANCA REDONDA EM AÇO CABONO ESPECIAL LISO 1\" X 1,50M - SÃO ROMÃO 1723",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "INDSUTRIA DE FORJADOS SAO ROMAO",
+      "supplierCode": "484",
+      "manufacturerCode": "1758",
+      "category": "ALAVANCA",
+      "categorySlug": "alavanca",
+      "path": "/alavanca-redonda-em-aco-cabono-especial-liso-1-x-150m--sao-romao-1723-1554",
+      "image": "/products/images/0015/1554.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 53,
+    "total": 2601,
+    "pageBase": "ferramentas"
+  }
+}

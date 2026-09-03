@@ -1,0 +1,53 @@
+{
+  "title": "ZOLL",
+  "parentLabel": "Marca",
+  "description": "Produtos ZOLL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZOLL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4886",
+      "title": "DESFIBRILADOR EXTERNO AUTOMATICO COM RCP",
+      "brand": "ZOLL",
+      "brandCode": "237",
+      "supplier": "INDUMED COMERCIO IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICOS",
+      "supplierCode": "1008",
+      "manufacturerCode": "1-4-1000",
+      "category": "DESFIBRILADORES",
+      "categorySlug": "desfibriladores",
+      "path": "/desfibrilador-externo-automatico-com-rcp-4886",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "6487",
+      "title": "ELETRODO MULTIFUNCAO ADULTO DEA",
+      "brand": "ZOLL",
+      "brandCode": "237",
+      "supplier": "INDUMED COMERCIO IMPORTACAO E EXPORTACAO DE PRODUTOS MEDICOS",
+      "supplierCode": "1008",
+      "manufacturerCode": "1-7-0018",
+      "category": "DESFIBRILADORES",
+      "categorySlug": "desfibriladores",
+      "path": "/eletrodo-multifuncao-adulto-dea-6487",
+      "image": "/products/images/0064/6487.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--237--zoll"
+  }
+}

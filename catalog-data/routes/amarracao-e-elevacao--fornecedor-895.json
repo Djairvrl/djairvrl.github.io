@@ -1,0 +1,270 @@
+{
+  "title": "Amarração e Elevação",
+  "parentLabel": "Departamento",
+  "description": "Produtos de CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação"
+    }
+  ],
+  "children": [
+    {
+      "name": "Elevação de Carga",
+      "slug": "elevacao-de-carga",
+      "path": "/amarracao-e-elevacao/elevacao-de-carga",
+      "count": 221,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/acessorios",
+          "count": 2
+        },
+        {
+          "name": "ANILHAS",
+          "slug": "anilhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/anilhas",
+          "count": 3
+        },
+        {
+          "name": "BOLSAS DE IÇAMENTO",
+          "slug": "bolsas-de-icamento",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/bolsas-de-icamento",
+          "count": 7
+        },
+        {
+          "name": "CABO",
+          "slug": "cabo",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cabo",
+          "count": 5
+        },
+        {
+          "name": "CINTA",
+          "slug": "cinta",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta",
+          "count": 81
+        },
+        {
+          "name": "CINTA PARA ANEL",
+          "slug": "cinta-para-anel",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta-para-anel",
+          "count": 1
+        },
+        {
+          "name": "CORDA",
+          "slug": "corda",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/corda",
+          "count": 1
+        },
+        {
+          "name": "FITA",
+          "slug": "fita",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/fita",
+          "count": 2
+        },
+        {
+          "name": "GANCHO",
+          "slug": "gancho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/gancho",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO E CUPILHA",
+          "slug": "grampo-e-cupilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/grampo-e-cupilha",
+          "count": 5
+        },
+        {
+          "name": "GUINCHO",
+          "slug": "guincho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guincho",
+          "count": 11
+        },
+        {
+          "name": "GUINDASTE",
+          "slug": "guindaste",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guindaste",
+          "count": 2
+        },
+        {
+          "name": "LINGAS",
+          "slug": "lingas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/lingas",
+          "count": 6
+        },
+        {
+          "name": "MANILHA",
+          "slug": "manilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/manilha",
+          "count": 27
+        },
+        {
+          "name": "MOITÃO",
+          "slug": "moitao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/moitao",
+          "count": 6
+        },
+        {
+          "name": "MOSQUETÃO",
+          "slug": "mosquetao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/mosquetao",
+          "count": 1
+        },
+        {
+          "name": "OLHAIS",
+          "slug": "olhais",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/olhais",
+          "count": 21
+        },
+        {
+          "name": "PEGA",
+          "slug": "pega",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/pega",
+          "count": 3
+        },
+        {
+          "name": "SELADOR",
+          "slug": "selador",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/selador",
+          "count": 3
+        },
+        {
+          "name": "TALHAS",
+          "slug": "talhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/talhas",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "name": "Amarração de Carga",
+      "slug": "amarracao-de-carga",
+      "path": "/amarracao-e-elevacao/amarracao-de-carga",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Amarração",
+      "slug": "amarracao",
+      "path": "/amarracao-e-elevacao/amarracao",
+      "count": 46,
+      "categories": [
+        {
+          "name": "CINTAS DE AMARRAÇÃO",
+          "slug": "cintas-de-amarracao",
+          "path": "/amarracao-e-elevacao/amarracao/cintas-de-amarracao",
+          "count": 14
+        },
+        {
+          "name": "CORDAS",
+          "slug": "cordas",
+          "path": "/amarracao-e-elevacao/amarracao/cordas",
+          "count": 27
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/amarracao-e-elevacao/amarracao/fitas",
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "895",
+    "name": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI"
+  },
+  "products": [
+    {
+      "code": "10166",
+      "title": "DESTORCEDOR DE CORDA 30KN C/ ROLAMENTO",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USR009000",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/destorcedor-de-corda-30kn-c-rolamento-10166",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "9869",
+      "title": "FITA ANEL COM OLHAL 120CM VERMELHA ULTRA SAFE REF USA0120000VM",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USA0120000VM",
+      "category": "FITA",
+      "categorySlug": "fita",
+      "path": "/fita-anel-com-olhal-120cm-vermelha-ultra-safe-ref-usa0120000vm-9869",
+      "image": "/products/images/0098/9869.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "9868",
+      "title": "FITA ANEL COM OLHAL 80CM AZUL ULTRA SAFE REF USA0080000AZ",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USA0080000AZ",
+      "category": "FITA",
+      "categorySlug": "fita",
+      "path": "/fita-anel-com-olhal-80cm-azul-ultra-safe-ref-usa0080000az-9868",
+      "image": "/products/images/0098/9868.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "7884",
+      "title": "FITA P ESTAIO AMARRACAO DE ESCADA",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USAF00100000",
+      "category": "CINTAS DE AMARRAÇÃO",
+      "categorySlug": "cintas-de-amarracao",
+      "path": "/fita-p-estaio-amarracao-de-escada-7884",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "7620",
+      "title": "GUINCHO MANUAL CABO DE ACO GALV. 30 MTS",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USR009030",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/guincho-manual-cabo-de-aco-galv-30-mts-7620",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "amarracao-e-elevacao--fornecedor-895"
+  }
+}

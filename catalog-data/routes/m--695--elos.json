@@ -1,0 +1,36 @@
+{
+  "title": "ELOS",
+  "parentLabel": "Marca",
+  "description": "Produtos ELOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ELOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9580",
+      "title": "PASTA DE MONTAGEM 500G PM3",
+      "brand": "ELOS",
+      "brandCode": "695",
+      "supplier": "ELOS ELETROTECNICA LTDA",
+      "supplierCode": "1088",
+      "manufacturerCode": "19-089-23",
+      "category": "GRAXAS PARA USO EM CONDIÇÕES SEVERAS",
+      "categorySlug": "graxas-para-uso-em-condicoes-severas",
+      "path": "/pasta-de-montagem-500g-pm3-9580",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--695--elos"
+  }
+}

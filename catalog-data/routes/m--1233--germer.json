@@ -1,0 +1,36 @@
+{
+  "title": "GERMER",
+  "parentLabel": "Marca",
+  "description": "Produtos GERMER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GERMER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13360",
+      "title": "XICARA DE CHA S/ PIRES",
+      "brand": "GERMER",
+      "brandCode": "1233",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891658700793",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/xicara-de-cha-s-pires-13360",
+      "image": "/products/images/0133/13360.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1233--germer"
+  }
+}

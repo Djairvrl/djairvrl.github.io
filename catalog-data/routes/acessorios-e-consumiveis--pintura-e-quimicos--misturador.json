@@ -1,0 +1,78 @@
+{
+  "title": "MISTURADOR",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria misturador em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "MISTURADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12631",
+      "title": "BICO MISTURADOR EPX GREEN",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004598544",
+      "category": "MISTURADOR",
+      "categorySlug": "misturador",
+      "path": "/bico-misturador-epx-green-12631",
+      "image": "/products/images/0126/12631.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "2622",
+      "title": "MISTURADOR DE TINTA/ARG 10X60CM",
+      "brand": "LOTUS PLUS",
+      "brandCode": "463",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "15698",
+      "category": "MISTURADOR",
+      "categorySlug": "misturador",
+      "path": "/misturador-de-tintaarg-10x60cm-2622",
+      "image": "/products/images/0026/2622.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7334",
+      "title": "MISTURADOR TINT/ARG SDS 10X60CM 20/1",
+      "brand": "LOTOS PLUS",
+      "brandCode": "622",
+      "supplier": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "supplierCode": "857",
+      "manufacturerCode": "7908027207330",
+      "category": "MISTURADOR",
+      "categorySlug": "misturador",
+      "path": "/misturador-tintarg-sds-10x60cm-201-7334",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--misturador"
+  }
+}

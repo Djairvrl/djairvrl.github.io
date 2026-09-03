@@ -1,0 +1,36 @@
+{
+  "title": "CTC",
+  "parentLabel": "Marca",
+  "description": "Produtos CTC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CTC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9472",
+      "title": "ACELEROMETRO 100MVG CONX MILITAR 2 PINOS",
+      "brand": "CTC",
+      "brandCode": "688",
+      "supplier": "PRUFTECHNIK MGS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2577",
+      "manufacturerCode": "AC1021A",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/acelerometro-100mvg-conx-militar-2-pinos-9472",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--688--ctc"
+  }
+}

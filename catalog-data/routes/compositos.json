@@ -1,0 +1,119 @@
+{
+  "title": "Compósitos",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Químicos",
+      "slug": "quimicos",
+      "path": "/compositos/quimicos",
+      "count": 2,
+      "categories": [
+        {
+          "name": "TINTAS",
+          "slug": "tintas",
+          "path": "/compositos/quimicos/tintas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Tecidos E Fibras",
+      "slug": "tecidos-e-fibras",
+      "path": "/compositos/tecidos-e-fibras",
+      "count": 1,
+      "categories": [
+        {
+          "name": "FITAS PARA LAMINAÇÃO TÉCNICA",
+          "slug": "fitas-para-laminacao-tecnica",
+          "path": "/compositos/tecidos-e-fibras/fitas-para-laminacao-tecnica",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "1916",
+      "name": "ESSENTRA INDUSTRIA E COMERCIO LTDA.",
+      "count": 1,
+      "file": "compositos--fornecedor-1916.json"
+    },
+    {
+      "code": "772",
+      "name": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "count": 1,
+      "file": "compositos--fornecedor-772.json"
+    },
+    {
+      "code": "1276",
+      "name": "N C OLIVEIRA TINTAS LTDA",
+      "count": 1,
+      "file": "compositos--fornecedor-1276.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "11400",
+      "title": "AZUL PORTO SEGURO PAREDES PRO ACET.  BAS",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69424",
+      "category": "TINTAS",
+      "categorySlug": "tintas",
+      "path": "/azul-porto-seguro-paredes-pro-acet-bas-11400",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    },
+    {
+      "code": "8041",
+      "title": "FITA DE FIBRA DE VIDRO 1''",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ESSENTRA INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "1916",
+      "manufacturerCode": "MTGC0100A",
+      "category": "FITAS PARA LAMINAÇÃO TÉCNICA",
+      "categorySlug": "fitas-para-laminacao-tecnica",
+      "path": "/fita-de-fibra-de-vidro-1-8041",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Tecidos E Fibras",
+      "sectionSlug": "tecidos-e-fibras"
+    },
+    {
+      "code": "11401",
+      "title": "WAX I POLISH CERA PRETA 5L BECKER",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "PA4065",
+      "category": null,
+      "categorySlug": null,
+      "path": "/wax-i-polish-cera-preta-5l-becker-11401",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "compositos"
+  }
+}

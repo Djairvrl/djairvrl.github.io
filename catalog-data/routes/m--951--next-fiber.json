@@ -1,0 +1,53 @@
+{
+  "title": "NEXT FIBER",
+  "parentLabel": "Marca",
+  "description": "Produtos NEXT FIBER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEXT FIBER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11519",
+      "title": "CONECTOR DE CAMPO DUPLA CERAMICA T APC",
+      "brand": "NEXT FIBER",
+      "brandCode": "951",
+      "supplier": "NEXT INDUSTRIA DE CABOS LTDA",
+      "supplierCode": "1237",
+      "manufacturerCode": "10019",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/conector-de-campo-dupla-ceramica-t-apc-11519",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11520",
+      "title": "CONECTOR DE CAMPO DUPLA CERAMICA T UPC",
+      "brand": "NEXT FIBER",
+      "brandCode": "951",
+      "supplier": "NEXT INDUSTRIA DE CABOS LTDA",
+      "supplierCode": "1237",
+      "manufacturerCode": "10020",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/conector-de-campo-dupla-ceramica-t-upc-11520",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--951--next-fiber"
+  }
+}

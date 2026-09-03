@@ -1,0 +1,53 @@
+{
+  "title": "LOTTUS",
+  "parentLabel": "Marca",
+  "description": "Produtos LOTTUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LOTTUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12270",
+      "title": "CHAVE DE FENDA ISOLA 1/8X3 1000V",
+      "brand": "LOTTUS",
+      "brandCode": "962",
+      "supplier": "OUTIX COMERCIO ONLINE LTDA",
+      "supplierCode": "5591",
+      "manufacturerCode": "CHA-FEN-ISO- 18-3",
+      "category": "FERRAMENTAS ISOLADAS",
+      "categorySlug": "ferramentas-isoladas",
+      "path": "/chave-de-fenda-isola-18x3-1000v-12270",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11618",
+      "title": "POLTRONA LOTTUS C/ENCOSTO RECLINAVEL",
+      "brand": "LOTTUS",
+      "brandCode": "962",
+      "supplier": "JUGUILO ECOMMERCE LTDA",
+      "supplierCode": "5143",
+      "manufacturerCode": "JUPOLTLOTTUS BEGE",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/poltrona-lottus-cencosto-reclinavel-11618",
+      "image": "/products/images/0116/11618.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--962--lottus"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "CAIXAS DE SOM",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria caixas de som em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "CAIXAS DE SOM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12929",
+      "title": "CAIXA DE SOM 8W RMS USB SK100",
+      "brand": "OEX",
+      "brandCode": "299",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "43952",
+      "category": "CAIXAS DE SOM",
+      "categorySlug": "caixas-de-som",
+      "path": "/caixa-de-som-8w-rms-usb-sk100-12929",
+      "image": "/products/images/0129/12929.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11763",
+      "title": "CAIXA DE SOM PARTYBOX CLUB 120 HARMAN",
+      "brand": "JBL",
+      "brandCode": "955",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "50016",
+      "category": "CAIXAS DE SOM",
+      "categorySlug": "caixas-de-som",
+      "path": "/caixa-de-som-partybox-club-120-harman-11763",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11536",
+      "title": "CAIXA DE SOM PARTYBOX STAGE 320 JBL",
+      "brand": "JBL",
+      "brandCode": "955",
+      "supplier": "EBAZAR.COM.BR. LTDA",
+      "supplierCode": "2049",
+      "manufacturerCode": "1149789",
+      "category": "CAIXAS DE SOM",
+      "categorySlug": "caixas-de-som",
+      "path": "/caixa-de-som-partybox-stage-320-jbl-11536",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--caixas-de-som"
+  }
+}

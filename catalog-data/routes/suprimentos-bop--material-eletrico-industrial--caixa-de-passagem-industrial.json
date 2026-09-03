@@ -1,0 +1,44 @@
+{
+  "title": "CAIXA DE PASSAGEM INDUSTRIAL",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria caixa de passagem industrial em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CAIXA DE PASSAGEM INDUSTRIAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9795",
+      "title": "CAIXA CONDUTORA DE ALUMINIO 080SP1",
+      "brand": "ABB",
+      "brandCode": "86",
+      "supplier": "APS COMPONENTES ELETRICOS SA",
+      "supplierCode": "1300",
+      "manufacturerCode": "1SFA170801R1001",
+      "category": "CAIXA DE PASSAGEM INDUSTRIAL",
+      "categorySlug": "caixa-de-passagem-industrial",
+      "path": "/caixa-condutora-de-aluminio-080sp1-9795",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--caixa-de-passagem-industrial"
+  }
+}

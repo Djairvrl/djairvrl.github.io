@@ -1,0 +1,70 @@
+{
+  "title": "LAVOR",
+  "parentLabel": "Marca",
+  "description": "Produtos LAVOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LAVOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6589",
+      "title": "ASPIRADOR DE PÓ E ÁGUA KRONOS DUPLO 22L 1600W 220V - LAVOR B8.201.0065",
+      "brand": "LAVOR",
+      "brandCode": "221",
+      "supplier": "LAVORWASH BRASIL INDUSTRIAL E COMERCIAL LTDA",
+      "supplierCode": "920",
+      "manufacturerCode": "B8.201.0065",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-e-agua-kronos-duplo-22l-1600w-220v--lavor-b82010065-6589",
+      "image": "/products/images/0065/6589.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "4388",
+      "title": "ASPIRADOR DE PÓ E ÁGUA MASTER 2.65 IF 65L 2800W 220V - LAVOR B8.201.0095",
+      "brand": "LAVOR",
+      "brandCode": "221",
+      "supplier": "LAVORWASH BRASIL INDUSTRIAL E COMERCIAL LTDA",
+      "supplierCode": "920",
+      "manufacturerCode": "B8.201.0095",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-e-agua-master-265-if-65l-2800w-220v--lavor-b82010095-4388",
+      "image": "/products/images/0043/4388.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "4389",
+      "title": "LAVADORA DE  ALTA PRESSAO 1800W 220V FAST EXTRA 135 - LAVOR",
+      "brand": "LAVOR",
+      "brandCode": "221",
+      "supplier": "LAVORWASH BRASIL INDUSTRIAL E COMERCIAL LTDA",
+      "supplierCode": "920",
+      "manufacturerCode": "8.109.0034C",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-de-alta-pressao-1800w-220v-fast-extra-135--lavor-4389",
+      "image": "/products/images/0043/4389.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--221--lavor"
+  }
+}

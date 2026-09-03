@@ -1,0 +1,78 @@
+{
+  "title": "PRENSAS HIDRÁULICAS",
+  "parentLabel": "Equipamentos Hidráulicos",
+  "description": "Produtos da categoria prensas hidráulicas em equipamentos hidráulicos.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Equipamentos Hidráulicos",
+      "to": "/maquinas-e-acessorios/equipamentos-hidraulicos"
+    },
+    {
+      "label": "PRENSAS HIDRÁULICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6781",
+      "title": "PRENSA HIDRAULICA 10 TON VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "68.10.100.000",
+      "category": "PRENSAS HIDRÁULICAS",
+      "categorySlug": "prensas-hidraulicas",
+      "path": "/prensa-hidraulica-10-ton-vonder-6781",
+      "image": "/products/images/0067/6781.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "3442",
+      "title": "PRENSA HIDRAULICA 15T",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "MPH-15",
+      "category": "PRENSAS HIDRÁULICAS",
+      "categorySlug": "prensas-hidraulicas",
+      "path": "/prensa-hidraulica-15t-3442",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "11367",
+      "title": "PRENSA HIDRAULICA 15T MPH-15D",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "MPH-15D",
+      "category": "PRENSAS HIDRÁULICAS",
+      "categorySlug": "prensas-hidraulicas",
+      "path": "/prensa-hidraulica-15t-mph15d-11367",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "maquinas-e-acessorios--equipamentos-hidraulicos--prensas-hidraulicas"
+  }
+}

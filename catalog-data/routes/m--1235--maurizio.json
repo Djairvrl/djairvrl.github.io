@@ -1,0 +1,36 @@
+{
+  "title": "MAURIZIO",
+  "parentLabel": "Marca",
+  "description": "Produtos MAURIZIO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAURIZIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13387",
+      "title": "CHAVE SECC UNIP POLIM 36KV 630A CSDUVP 2",
+      "brand": "MAURIZIO",
+      "brandCode": "1235",
+      "supplier": "MAURIZIO & CIA LTDA",
+      "supplierCode": "6268",
+      "manufacturerCode": "MSDB362807E",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-secc-unip-polim-36kv-630a-csduvp-2-13387",
+      "image": "/products/images/0133/13387.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1235--maurizio"
+  }
+}

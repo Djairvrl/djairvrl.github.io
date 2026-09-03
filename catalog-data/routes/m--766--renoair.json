@@ -1,0 +1,36 @@
+{
+  "title": "RENOAIR",
+  "parentLabel": "Marca",
+  "description": "Produtos RENOAIR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RENOAIR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10303",
+      "title": "ANEMOMETER THIES FIRST CLAS ADVANCED II",
+      "brand": "RENOAIR",
+      "brandCode": "766",
+      "supplier": "RENOAIR ENERGIAS RENOVAVEIS DO BRASIL LTDA",
+      "supplierCode": "2970",
+      "manufacturerCode": "PRD00001",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/anemometer-thies-first-clas-advanced-ii-10303",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--766--renoair"
+  }
+}

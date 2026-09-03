@@ -1,0 +1,36 @@
+{
+  "title": "RN EMBALAGENS",
+  "parentLabel": "Marca",
+  "description": "Produtos RN EMBALAGENS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RN EMBALAGENS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9300",
+      "title": "FRASCO PET P CAP 100ML ROSCA LACRE 10UND",
+      "brand": "RN EMBALAGENS",
+      "brandCode": "665",
+      "supplier": "RNS COMERCIO LTDA",
+      "supplierCode": "2490",
+      "manufacturerCode": "25BS7B26M",
+      "category": "KIT LIMPEZA INDUSTRIAL",
+      "categorySlug": "kit-limpeza-industrial",
+      "path": "/frasco-pet-p-cap-100ml-rosca-lacre-10und-9300",
+      "image": "/products/images/0093/9300.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--665--rn-embalagens"
+  }
+}

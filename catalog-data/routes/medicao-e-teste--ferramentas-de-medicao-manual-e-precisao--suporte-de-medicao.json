@@ -1,0 +1,112 @@
+{
+  "title": "SUPORTE DE MEDIÇÃO",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria suporte de medição em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "SUPORTE DE MEDIÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3872",
+      "title": "SUPORTE BASE MAGNETICA COM AJUSTE FINO 60KG - DASQUA 421,0001",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "421,0001",
+      "category": "SUPORTE DE MEDIÇÃO",
+      "categorySlug": "suporte-de-medicao",
+      "path": "/suporte-base-magnetica-com-ajuste-fino-60kg--dasqua-4210001-3872",
+      "image": "/products/images/0038/3872.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "6271",
+      "title": "SUPORTE DE MEDICAO C/ BASE MAGNETICA",
+      "brand": "MITUTOYO",
+      "brandCode": "110",
+      "supplier": "MITUTOYO SUL AMERICANA LTDA",
+      "supplierCode": "269",
+      "manufacturerCode": "7033-10",
+      "category": "SUPORTE DE MEDIÇÃO",
+      "categorySlug": "suporte-de-medicao",
+      "path": "/suporte-de-medicao-c-base-magnetica-6271",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "12520",
+      "title": "SUPORTE MAGN FIXO C/ AJUSTE FINO",
+      "brand": "VECTRA",
+      "brandCode": "51",
+      "supplier": "INSTRUSUL COMERCIO E MANUTENCAO DE INSTRUMENTOS DE MEDICAO",
+      "supplierCode": "3300",
+      "manufacturerCode": "7015-10",
+      "category": "SUPORTE DE MEDIÇÃO",
+      "categorySlug": "suporte-de-medicao",
+      "path": "/suporte-magn-fixo-c-ajuste-fino-12520",
+      "image": "/products/images/0125/12520.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "2534",
+      "title": "SUPORTE MAGNÉTICO COLUNA RETA RAIO DE ALCANCE 150MM - MITUTOYO REF. 7010S-10",
+      "brand": "MITUTOYO",
+      "brandCode": "110",
+      "supplier": "MITUTOYO SUL AMERICANA LTDA",
+      "supplierCode": "1789",
+      "manufacturerCode": "7010S-10",
+      "category": "SUPORTE DE MEDIÇÃO",
+      "categorySlug": "suporte-de-medicao",
+      "path": "/suporte-magnetico-coluna-reta-raio-de-alcance-150mm--mitutoyo-ref-7010s10-2534",
+      "image": "/products/images/0025/2534.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "9438",
+      "title": "TRIPE BT 170 HD PROFESSIONAL",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601091B00000",
+      "category": "SUPORTE DE MEDIÇÃO",
+      "categorySlug": "suporte-de-medicao",
+      "path": "/tripe-bt-170-hd-professional-9438",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--suporte-de-medicao"
+  }
+}

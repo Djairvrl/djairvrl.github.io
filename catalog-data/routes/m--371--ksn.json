@@ -1,0 +1,36 @@
+{
+  "title": "KSN",
+  "parentLabel": "Marca",
+  "description": "Produtos KSN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KSN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6877",
+      "title": "RESPIRADOR DOBRA PFF2 S/ VALVULA CA 8357",
+      "brand": "KSN",
+      "brandCode": "371",
+      "supplier": "KSN - PROTECAO RESPIRATORIA EIRELI",
+      "supplierCode": "1413",
+      "manufacturerCode": "10.02",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/respirador-dobra-pff2-s-valvula-ca-8357-6877",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--371--ksn"
+  }
+}

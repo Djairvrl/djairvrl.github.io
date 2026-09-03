@@ -1,0 +1,112 @@
+{
+  "title": "LUBRIFICADORES DE ÓLEO",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria lubrificadores de óleo em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "LUBRIFICADORES DE ÓLEO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "464",
+      "title": "ALMOTOLIA METALICA CAP 300ML PONTA FLEXI",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "5313055",
+      "category": "LUBRIFICADORES DE ÓLEO",
+      "categorySlug": "lubrificadores-de-oleo",
+      "path": "/almotolia-metalica-cap-300ml-ponta-flexi-464",
+      "image": "/products/images/0004/464.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "4627",
+      "title": "ALMOTOLIA PROFISSIONAL SEMI-SPRAY 250ML PARA ÓLEO - BOZZA 3250",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.420.0070",
+      "category": "LUBRIFICADORES DE ÓLEO",
+      "categorySlug": "lubrificadores-de-oleo",
+      "path": "/almotolia-profissional-semispray-250ml-para-oleo--bozza-3250-4627",
+      "image": "/products/images/0046/4627.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "657",
+      "title": "BOMBA DE TRANSFERÊNCIA MANUAL COM TUBO TELESCÓPICO 7022-T-G2 50-220L BOZZA REF 122100075",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.210.0075",
+      "category": "LUBRIFICADORES DE ÓLEO",
+      "categorySlug": "lubrificadores-de-oleo",
+      "path": "/bomba-de-transferencia-manual-com-tubo-telescopico-7022tg2-50220l-bozza-ref-122100075-657",
+      "image": "/products/images/0006/657.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "7128",
+      "title": "BOMBA DE TRANSFERÊNCIA MANUAL ROTATIVA PARA ÓLEO BOZZA - 7801-M-G2",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "7801-M-G2",
+      "category": "LUBRIFICADORES DE ÓLEO",
+      "categorySlug": "lubrificadores-de-oleo",
+      "path": "/bomba-de-transferencia-manual-rotativa-para-oleo-bozza--7801mg2-7128",
+      "image": "/products/images/0071/7128.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "6975",
+      "title": "BOMBA MANUAL P/TRANSFERENCIA OLEOS",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "5120055000",
+      "category": "LUBRIFICADORES DE ÓLEO",
+      "categorySlug": "lubrificadores-de-oleo",
+      "path": "/bomba-manual-ptransferencia-oleos-6975",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--lubrificadores-de-oleo"
+  }
+}

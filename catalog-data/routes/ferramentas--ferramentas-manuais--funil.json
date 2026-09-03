@@ -1,0 +1,163 @@
+{
+  "title": "FUNIL",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria funil em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "FUNIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10934",
+      "title": "FUNIL 2 CURVAS EM ACO ZINCADO LUB-58",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "ROMATA FERRAMENTAS E MAQUINAS LTDA",
+      "supplierCode": "4231",
+      "manufacturerCode": "01211",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-2-curvas-em-aco-zincado-lub58-10934",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6480",
+      "title": "FUNIL DE ALUMINIO 1 CURVA",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "G D S LIMA COMERCIAL & EQUIPAMENTOS LTDA",
+      "supplierCode": "1236",
+      "manufacturerCode": "237",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-de-aluminio-1-curva-6480",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2124",
+      "title": "FUNIL DE USO GERAL EM AÇO GALVANIZADO BICO RETO LUB-55 -  LUBEFER",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "G D S LIMA COMERCIAL & EQUIPAMENTOS LTDA",
+      "supplierCode": "1236",
+      "manufacturerCode": "239",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-de-uso-geral-em-aco-galvanizado-bico-reto-lub55--lubefer-2124",
+      "image": "/products/images/0021/2124.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10965",
+      "title": "FUNIL DE USO GERAL MERCEDES LUB 59",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "C F DA SILVA COSTA",
+      "supplierCode": "4266",
+      "manufacturerCode": "0000000000706",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-de-uso-geral-mercedes-lub-59-10965",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10510",
+      "title": "FUNIL PLAST FLEX 145MM",
+      "brand": "WORKER",
+      "brandCode": "421",
+      "supplier": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "supplierCode": "857",
+      "manufacturerCode": "7899737517621",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-plast-flex-145mm-10510",
+      "image": "/products/images/0105/10510.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "518",
+      "title": "FUNIL PLASTICO DIAMETRO 120MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "5372059",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-plastico-diametro-120mm-518",
+      "image": "/products/images/0005/518.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5053",
+      "title": "FUNIL PLÁSTICO BICO FLEXÍVEL  PRETO 160MM - VONDER 5167100000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "5167100000",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-plastico-bico-flexivel-preto-160mm--vonder-5167100000-5053",
+      "image": "/products/images/0050/5053.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1066",
+      "title": "JOGO DE FUNIS PLÁSTICOS 4 PEÇAS -  VONDER REF 5167040000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "5167040000",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/jogo-de-funis-plasticos-4-pecas--vonder-ref-5167040000-1066",
+      "image": "/products/images/0010/1066.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "ferramentas--ferramentas-manuais--funil"
+  }
+}

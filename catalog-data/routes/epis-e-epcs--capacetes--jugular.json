@@ -1,0 +1,112 @@
+{
+  "title": "JUGULAR",
+  "parentLabel": "Capacetes",
+  "description": "Produtos da categoria jugular em capacetes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Capacetes",
+      "to": "/epis-e-epcs/capacetes"
+    },
+    {
+      "label": "JUGULAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4384",
+      "title": "JUGULAR PARA CAPACETE CA 31469",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - SP",
+      "supplierCode": "30",
+      "manufacturerCode": "700.00048",
+      "category": "JUGULAR",
+      "categorySlug": "jugular",
+      "path": "/jugular-para-capacete-ca-31469-4384",
+      "image": "/products/images/0043/4384.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    },
+    {
+      "code": "9633",
+      "title": "JUGULAR TÊXTIL COM 02 GANCHOS  MSA REF 297604",
+      "brand": "MSA",
+      "brandCode": "9",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "297604-P",
+      "category": "JUGULAR",
+      "categorySlug": "jugular",
+      "path": "/jugular-textil-com-02-ganchos-msa-ref-297604-9633",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    },
+    {
+      "code": "996",
+      "title": "TIRA JUGUL 6PT P/SUSPENSAO SIMPLES H-700",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "420",
+      "manufacturerCode": "1176770",
+      "category": "JUGULAR",
+      "categorySlug": "jugular",
+      "path": "/tira-jugul-6pt-psuspensao-simples-h700-996",
+      "image": "/products/images/0009/996.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    },
+    {
+      "code": "998",
+      "title": "TIRA JUGULAR DE TECIDO PARA CAPACETE DE SEGURANÇA H 700 - 3M HB004217442",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "420",
+      "manufacturerCode": "HB004217442",
+      "category": "JUGULAR",
+      "categorySlug": "jugular",
+      "path": "/tira-jugular-de-tecido-para-capacete-de-seguranca-h-700--3m-hb004217442-998",
+      "image": "/products/images/0009/998.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    },
+    {
+      "code": "997",
+      "title": "TIRA JUGULAR DE TECIDO PARA CAPACETE(H-700) DE SEGURANÇA  EM ELÁSTICO - 3M REF H-700-S6",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "420",
+      "manufacturerCode": "HB004229017",
+      "category": "JUGULAR",
+      "categorySlug": "jugular",
+      "path": "/tira-jugular-de-tecido-para-capaceteh700-de-seguranca-em-elastico--3m-ref-h700s6-997",
+      "image": "/products/images/0009/997.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--capacetes--jugular"
+  }
+}

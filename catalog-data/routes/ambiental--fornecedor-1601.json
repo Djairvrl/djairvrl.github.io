@@ -1,0 +1,336 @@
+{
+  "title": "Ambiental",
+  "parentLabel": "Departamento",
+  "description": "Produtos de JATICLEAN INDUSTRIA E COMERCIO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental"
+    }
+  ],
+  "children": [
+    {
+      "name": "Contenção Ambiental",
+      "slug": "contencao-ambiental",
+      "path": "/ambiental/contencao-ambiental",
+      "count": 243,
+      "categories": [
+        {
+          "name": "ABSORVENTES ORGÂNICOS",
+          "slug": "absorventes-organicos",
+          "path": "/ambiental/contencao-ambiental/absorventes-organicos",
+          "count": 5
+        },
+        {
+          "name": "BACIAS DE CONTEÇÕES",
+          "slug": "bacias-de-contecoes",
+          "path": "/ambiental/contencao-ambiental/bacias-de-contecoes",
+          "count": 9
+        },
+        {
+          "name": "COLETORES",
+          "slug": "coletores",
+          "path": "/ambiental/contencao-ambiental/coletores",
+          "count": 24
+        },
+        {
+          "name": "CONTENTORES",
+          "slug": "contentores",
+          "path": "/ambiental/contencao-ambiental/contentores",
+          "count": 19
+        },
+        {
+          "name": "CONTROLE DE PRAGAS E VETORES",
+          "slug": "controle-de-pragas-e-vetores",
+          "path": "/ambiental/contencao-ambiental/controle-de-pragas-e-vetores",
+          "count": 2
+        },
+        {
+          "name": "CORDÕES ABSORVENTES",
+          "slug": "cordoes-absorventes",
+          "path": "/ambiental/contencao-ambiental/cordoes-absorventes",
+          "count": 4
+        },
+        {
+          "name": "GALÕES E BOMBONAS",
+          "slug": "galoes-e-bombonas",
+          "path": "/ambiental/contencao-ambiental/galoes-e-bombonas",
+          "count": 30
+        },
+        {
+          "name": "KIT MITIGAÇÃO",
+          "slug": "kit-mitigacao",
+          "path": "/ambiental/contencao-ambiental/kit-mitigacao",
+          "count": 10
+        },
+        {
+          "name": "LIXEIRAS",
+          "slug": "lixeiras",
+          "path": "/ambiental/contencao-ambiental/lixeiras",
+          "count": 105
+        },
+        {
+          "name": "MANTAS ABSORVENTES",
+          "slug": "mantas-absorventes",
+          "path": "/ambiental/contencao-ambiental/mantas-absorventes",
+          "count": 7
+        },
+        {
+          "name": "PALLETS DE CONTENÇÃO",
+          "slug": "pallets-de-contencao",
+          "path": "/ambiental/contencao-ambiental/pallets-de-contencao",
+          "count": 10
+        },
+        {
+          "name": "PESTICIDAS",
+          "slug": "pesticidas",
+          "path": "/ambiental/contencao-ambiental/pesticidas",
+          "count": 5
+        },
+        {
+          "name": "PÁ ANTI FAÍSCA",
+          "slug": "pa-anti-faisca",
+          "path": "/ambiental/contencao-ambiental/pa-anti-faisca",
+          "count": 2
+        },
+        {
+          "name": "TRAPOS",
+          "slug": "trapos",
+          "path": "/ambiental/contencao-ambiental/trapos",
+          "count": 5
+        },
+        {
+          "name": "TRATAMENTO DE EFLUENTES",
+          "slug": "tratamento-de-efluentes",
+          "path": "/ambiental/contencao-ambiental/tratamento-de-efluentes",
+          "count": 1
+        },
+        {
+          "name": "TRAVESSEIROS ABSORVENTES",
+          "slug": "travesseiros-absorventes",
+          "path": "/ambiental/contencao-ambiental/travesseiros-absorventes",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Limpeza Industrial",
+      "slug": "limpeza-industrial",
+      "path": "/ambiental/limpeza-industrial",
+      "count": 80,
+      "categories": [
+        {
+          "name": "BANDEJAS E COLETORAS",
+          "slug": "bandejas-e-coletoras",
+          "path": "/ambiental/limpeza-industrial/bandejas-e-coletoras",
+          "count": 1
+        },
+        {
+          "name": "CARROS FUNCIONAIS E ACESSÓRIOS",
+          "slug": "carros-funcionais-e-acessorios",
+          "path": "/ambiental/limpeza-industrial/carros-funcionais-e-acessorios",
+          "count": 3
+        },
+        {
+          "name": "DESENGRAXANTES",
+          "slug": "desengraxantes",
+          "path": "/ambiental/limpeza-industrial/desengraxantes",
+          "count": 13
+        },
+        {
+          "name": "DESINCRUSTANTES",
+          "slug": "desincrustantes",
+          "path": "/ambiental/limpeza-industrial/desincrustantes",
+          "count": 1
+        },
+        {
+          "name": "ESFREGÕES INDUSTRIAIS",
+          "slug": "esfregoes-industriais",
+          "path": "/ambiental/limpeza-industrial/esfregoes-industriais",
+          "count": 5
+        },
+        {
+          "name": "KIT LIMPEZA INDUSTRIAL",
+          "slug": "kit-limpeza-industrial",
+          "path": "/ambiental/limpeza-industrial/kit-limpeza-industrial",
+          "count": 8
+        },
+        {
+          "name": "PÁS",
+          "slug": "pas",
+          "path": "/ambiental/limpeza-industrial/pas",
+          "count": 4
+        },
+        {
+          "name": "SACOS DE LIXO",
+          "slug": "sacos-de-lixo",
+          "path": "/ambiental/limpeza-industrial/sacos-de-lixo",
+          "count": 37
+        },
+        {
+          "name": "VASSOURAS",
+          "slug": "vassouras",
+          "path": "/ambiental/limpeza-industrial/vassouras",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Proteção e Manejo de Fauna",
+      "slug": "protecao-e-manejo-de-fauna",
+      "path": "/ambiental/protecao-e-manejo-de-fauna",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Acessórios",
+      "slug": "acessorios",
+      "path": "/ambiental/acessorios",
+      "count": 14,
+      "categories": [
+        {
+          "name": "APARELHOS REPELENTES",
+          "slug": "aparelhos-repelentes",
+          "path": "/ambiental/acessorios/aparelhos-repelentes",
+          "count": 1
+        },
+        {
+          "name": "KIT ANIMAIS PEÇONHENTOS",
+          "slug": "kit-animais-peconhentos",
+          "path": "/ambiental/acessorios/kit-animais-peconhentos",
+          "count": 13
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1601",
+    "name": "JATICLEAN INDUSTRIA E COMERCIO LTDA"
+  },
+  "products": [
+    {
+      "code": "7380",
+      "title": "LIXEIRA  2 DIV ACO INOX 30L PLASTI/PAPEL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LAMIX-008",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-2-div-aco-inox-30l-plastipapel-7380",
+      "image": "/products/images/0073/7380.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7699",
+      "title": "LIXEIRA ACO INOX 430 C PEDAL 45X90 150LT",
+      "brand": "JATICLEAN",
+      "brandCode": "526",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-018",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-aco-inox-430-c-pedal-45x90-150lt-7699",
+      "image": "/products/images/0076/7699.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7701",
+      "title": "LIXEIRA C TAMPA PED 30X60 ACO INOX 50LT",
+      "brand": "JATICLEAN",
+      "brandCode": "526",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-008",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-c-tampa-ped-30x60-aco-inox-50lt-7701",
+      "image": "/products/images/0077/7701.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7700",
+      "title": "LIXEIRA C TAMPA PED 40X80 ACO-INOX 100LT",
+      "brand": "JATICLEAN",
+      "brandCode": "526",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-014",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-c-tampa-ped-40x80-acoinox-100lt-7700",
+      "image": "/products/images/0077/7700.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7378",
+      "title": "LIXEIRA EM AÇO INOX 30 X 40CM COM TAMPA E PEDAL 30 LITROS - ECOBIN LP-006",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-006",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-em-aco-inox-30-x-40cm-com-tampa-e-pedal-30-litros--ecobin-lp006-7378",
+      "image": "/products/images/0073/7378.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7379",
+      "title": "LIXEIRA EM AÇO INOX COLETORA DE PILHAS E BATERIAS 24 X 50CM  25 LITROS - ECOBIN LPB-004",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LPB-004",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-em-aco-inox-coletora-de-pilhas-e-baterias-24-x-50cm-25-litros--ecobin-lpb004-7379",
+      "image": "/products/images/0073/7379.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "8215",
+      "title": "LIXEIRA MIX COM 2 DIVISÕES EM AÇO INOX 430 30 LITROS - PLÁSTICO E PAPEL",
+      "brand": "ECOBIN",
+      "brandCode": "576",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LAMIX-008-1",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-mix-com-2-divisoes-em-aco-inox-430-30-litros--plastico-e-papel-8215",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "ambiental--fornecedor-1601"
+  }
+}

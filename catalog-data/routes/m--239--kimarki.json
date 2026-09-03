@@ -1,0 +1,70 @@
+{
+  "title": "KIMARKI",
+  "parentLabel": "Marca",
+  "description": "Produtos KIMARKI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KIMARKI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5555",
+      "title": "AUTOTRANSFORMADOR TRIFASICO 7,5 KVA IP21",
+      "brand": "KIMARKI",
+      "brandCode": "239",
+      "supplier": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1012",
+      "manufacturerCode": "7/5KVA",
+      "category": "AUTOTRANSFORMADORES",
+      "categorySlug": "autotransformadores",
+      "path": "/autotransformador-trifasico-75-kva-ip21-5555",
+      "image": "/products/images/0055/5555.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4899",
+      "title": "TRANSFORMADOR ISOLADOR 10KVA 380V",
+      "brand": "KIMARKI",
+      "brandCode": "239",
+      "supplier": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1012",
+      "manufacturerCode": "10KVA",
+      "category": "TRANSFORMADORES",
+      "categorySlug": "transformadores",
+      "path": "/transformador-isolador-10kva-380v-4899",
+      "image": "/products/images/0048/4899.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7022",
+      "title": "TRANSFORMADOR ISOLADOR 15KVA 380V",
+      "brand": "KIMARKI",
+      "brandCode": "239",
+      "supplier": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1012",
+      "manufacturerCode": "15KVA",
+      "category": "TRANSFORMADORES",
+      "categorySlug": "transformadores",
+      "path": "/transformador-isolador-15kva-380v-7022",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--239--kimarki"
+  }
+}

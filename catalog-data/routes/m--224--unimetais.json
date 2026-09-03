@@ -1,0 +1,121 @@
+{
+  "title": "UNIMETAIS",
+  "parentLabel": "Marca",
+  "description": "Produtos UNIMETAIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UNIMETAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4551",
+      "title": "CHAPA PRETA FINA 0,90MM Nº 20",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "13995",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-preta-fina-090mm-no-20-4551",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "4552",
+      "title": "CHAPA PRETA FINA 1,20MM Nº 18",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "13996",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-preta-fina-120mm-no-18-4552",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "10842",
+      "title": "IMP CANTONEIRA L A-36  04- 1.1/2 X1/8",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "14468",
+      "category": "CANTONEIRAS",
+      "categorySlug": "cantoneiras",
+      "path": "/imp-cantoneira-l-a36-04-112-x18-10842",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "12527",
+      "title": "IMP CHAPA GALV 1,55 MM NO.16",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "23696",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/imp-chapa-galv-155-mm-no16-12527",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "10841",
+      "title": "PERFIL U CD -3X 1.1/2 4,75MM - CH 3/16",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "14146",
+      "category": "CANTONEIRAS",
+      "categorySlug": "cantoneiras",
+      "path": "/perfil-u-cd-3x-112-475mm--ch-316-10841",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "4553",
+      "title": "TELHA GALVANIZADA 01-T-980X0,43",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "18398",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/telha-galvanizada-01t980x043-4553",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--224--unimetais"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "FTDI",
+  "parentLabel": "Marca",
+  "description": "Produtos FTDI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FTDI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11087",
+      "title": "USB  IEEE 1394 NULL MODEM CABLE 2.5M",
+      "brand": "FTDI",
+      "brandCode": "875",
+      "supplier": "MOUSER ELECTRONICS, INC.",
+      "supplierCode": "4472",
+      "manufacturerCode": "895-USB-NMC-2.5M",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/usb-ieee-1394-null-modem-cable-25m-11087",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--875--ftdi"
+  }
+}

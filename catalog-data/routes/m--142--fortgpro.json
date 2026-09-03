@@ -1,0 +1,36 @@
+{
+  "title": "FORTGPRO",
+  "parentLabel": "Marca",
+  "description": "Produtos FORTGPRO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FORTGPRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6600",
+      "title": "BANCADA COMPLETA C/ MOTOR ESMERIAL FORTG",
+      "brand": "FORTGPRO",
+      "brandCode": "142",
+      "supplier": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "supplierCode": "727",
+      "manufacturerCode": "9903103",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-completa-c-motor-esmerial-fortg-6600",
+      "image": "/products/images/0066/6600.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--142--fortgpro"
+  }
+}

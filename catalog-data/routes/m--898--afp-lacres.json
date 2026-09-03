@@ -1,0 +1,53 @@
+{
+  "title": "AFP LACRES",
+  "parentLabel": "Marca",
+  "description": "Produtos AFP LACRES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AFP LACRES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11666",
+      "title": "LACRE GRAVADO 50 VERDE C/100",
+      "brand": "AFP LACRES",
+      "brandCode": "898",
+      "supplier": "AFP LACRES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4632",
+      "manufacturerCode": "SL 6 PE MASTER C/AR 3X26",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-gravado-50-verde-c100-11666",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "11158",
+      "title": "SL64 PP LACRE BAIXO RELEVO",
+      "brand": "AFP LACRES",
+      "brandCode": "898",
+      "supplier": "AFP LACRES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4632",
+      "manufacturerCode": "SL 64 PP",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/sl64-pp-lacre-baixo-relevo-11158",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--898--afp-lacres"
+  }
+}

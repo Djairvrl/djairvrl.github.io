@@ -1,0 +1,53 @@
+{
+  "title": "CRISTALINA",
+  "parentLabel": "Marca",
+  "description": "Produtos CRISTALINA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CRISTALINA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10191",
+      "title": "AGUA MINERAL CRISTALINA GF 500ML CX C/12",
+      "brand": "CRISTALINA",
+      "brandCode": "758",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "81",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-mineral-cristalina-gf-500ml-cx-c12-10191",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8034",
+      "title": "ÁGUA MINERAL 1,5 LITROS SEM GÁS PACOTE COM 6 UND - CRISTALINA",
+      "brand": "CRISTALINA",
+      "brandCode": "758",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "91",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-mineral-15-litros-sem-gas-pacote-com-6-und--cristalina-8034",
+      "image": "/products/images/0080/8034.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--758--cristalina"
+  }
+}

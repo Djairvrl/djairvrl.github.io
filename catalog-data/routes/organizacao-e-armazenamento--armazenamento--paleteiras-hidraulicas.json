@@ -1,0 +1,112 @@
+{
+  "title": "PALETEIRAS HIDRÁULICAS",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria paleteiras hidráulicas em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "PALETEIRAS HIDRÁULICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2776",
+      "title": "EMPILHADEIRA HIDRAU P/1000KG C/PROT RODA",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "2310",
+      "category": "PALETEIRAS HIDRÁULICAS",
+      "categorySlug": "paleteiras-hidraulicas",
+      "path": "/empilhadeira-hidrau-p1000kg-cprot-roda-2776",
+      "image": "/products/images/0027/2776.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "2125",
+      "title": "EMPILHADEIRA MANUAL HIDRÁULICA AZUL 2 TON  ELEVAÇÃO DE 1,6M - BREMEN 6260",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "6260",
+      "category": "PALETEIRAS HIDRÁULICAS",
+      "categorySlug": "paleteiras-hidraulicas",
+      "path": "/empilhadeira-manual-hidraulica-azul-2-ton-elevacao-de-16m--bremen-6260-2125",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10561",
+      "title": "PALETEIRA HIDR 2.5T 685X1220MM RD DUPLAS",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "9840",
+      "category": "PALETEIRAS HIDRÁULICAS",
+      "categorySlug": "paleteiras-hidraulicas",
+      "path": "/paleteira-hidr-25t-685x1220mm-rd-duplas-10561",
+      "image": "/products/images/0105/10561.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11028",
+      "title": "PALETEIRA HIDR 3T 685MMX1220MM RD DUPLAS",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "9885",
+      "category": "PALETEIRAS HIDRÁULICAS",
+      "categorySlug": "paleteiras-hidraulicas",
+      "path": "/paleteira-hidr-3t-685mmx1220mm-rd-duplas-11028",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9025",
+      "title": "PALETEIRA HIDRAULICA 2,5 T 1.150 MMX680",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6889252680",
+      "category": "PALETEIRAS HIDRÁULICAS",
+      "categorySlug": "paleteiras-hidraulicas",
+      "path": "/paleteira-hidraulica-25-t-1150-mmx680-9025",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--paleteiras-hidraulicas"
+  }
+}

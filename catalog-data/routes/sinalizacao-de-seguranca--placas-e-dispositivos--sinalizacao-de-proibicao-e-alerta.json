@@ -1,0 +1,146 @@
+{
+  "title": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+  "parentLabel": "Placas E Dispositivos",
+  "description": "Produtos da categoria sinalização de proibição e alerta em placas e dispositivos.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança",
+      "to": "/sinalizacao-de-seguranca"
+    },
+    {
+      "label": "Placas E Dispositivos",
+      "to": "/sinalizacao-de-seguranca/placas-e-dispositivos"
+    },
+    {
+      "label": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12526",
+      "title": "MADEIRA BARROTE PIQUIUBA 3/3",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "A CASA MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1196",
+      "manufacturerCode": "12526",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/madeira-barrote-piquiuba-33-12526",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "10523",
+      "title": "MANTA MAGNETICA 30X40CM",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "MNTG - 30X40CM",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/manta-magnetica-30x40cm-10523",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "1710",
+      "title": "PLACA  RISC CHOQ ELET 15X20CM 2MM PVC A5",
+      "brand": "TAG",
+      "brandCode": "153",
+      "supplier": "TAG SINALIZACAO EIRELI",
+      "supplierCode": "516",
+      "manufacturerCode": "0590",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/placa-risc-choq-elet-15x20cm-2mm-pvc-a5-1710",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "10670",
+      "title": "PLACA CARGAS SUSPENSAS 1,5MM 30X20CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SIGA INDUSTRIA E COMERCIO DE PRODUTOS PARA SINALIZACAO LTDA",
+      "supplierCode": "3942",
+      "manufacturerCode": "PR3042",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/placa-cargas-suspensas-15mm-30x20cm-10670",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "10481",
+      "title": "PLACA DE SINALIZACAO A5",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "PLCA5",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/placa-de-sinalizacao-a5-10481",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "3320",
+      "title": "PLACAS SINALIZ AREA CLASSIFICADA 60X40",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "48",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/placas-sinaliz-area-classificada-60x40-3320",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "8654",
+      "title": "PLACAS SOMENTE PESSOAS AUT 30X20CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "8654",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/placas-somente-pessoas-aut-30x20cm-8654",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "sinalizacao-de-seguranca--placas-e-dispositivos--sinalizacao-de-proibicao-e-alerta"
+  }
+}

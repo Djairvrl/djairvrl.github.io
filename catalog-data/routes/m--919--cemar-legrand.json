@@ -1,0 +1,36 @@
+{
+  "title": "CEMAR LEGRAND",
+  "parentLabel": "Marca",
+  "description": "Produtos CEMAR LEGRAND disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CEMAR LEGRAND"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11293",
+      "title": "QUADRO COM AC PINT BG 1P 500X 400X 200MM",
+      "brand": "CEMAR LEGRAND",
+      "brandCode": "919",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1471",
+      "manufacturerCode": "QCS504020",
+      "category": "QUADROS DE MONTAGEM",
+      "categorySlug": "quadros-de-montagem",
+      "path": "/quadro-com-ac-pint-bg-1p-500x-400x-200mm-11293",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--919--cemar-legrand"
+  }
+}

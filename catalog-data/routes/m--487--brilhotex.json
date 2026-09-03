@@ -1,0 +1,36 @@
+{
+  "title": "BRILHOTEX",
+  "parentLabel": "Marca",
+  "description": "Produtos BRILHOTEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRILHOTEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7513",
+      "title": "POLIDOR DE ALUMINIO BRILHOTEX 490ML",
+      "brand": "BRILHOTEX",
+      "brandCode": "487",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "182564",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/polidor-de-aluminio-brilhotex-490ml-7513",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--487--brilhotex"
+  }
+}

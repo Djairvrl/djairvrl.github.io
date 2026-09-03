@@ -1,0 +1,70 @@
+{
+  "title": "WESTERN",
+  "parentLabel": "Marca",
+  "description": "Produtos WESTERN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WESTERN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5939",
+      "title": "CLAVICULARIO P/ 20 CHAVES COM CHAVEIROS",
+      "brand": "WESTERN",
+      "brandCode": "292",
+      "supplier": "VRS PEREIRA LTDA",
+      "supplierCode": "1345",
+      "manufacturerCode": "DS146",
+      "category": "CLAVICULARIOS",
+      "categorySlug": "clavicularios",
+      "path": "/claviculario-p-20-chaves-com-chaveiros-5939",
+      "image": "/products/images/0059/5939.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6845",
+      "title": "COFRE CLAVICULARIO ARMARIO COM 48 CHAVEI",
+      "brand": "WESTERN",
+      "brandCode": "292",
+      "supplier": "GUIBE PETS E UTILIDADES EIRELI",
+      "supplierCode": "1396",
+      "manufacturerCode": "CV48",
+      "category": "CLAVICULARIOS",
+      "categorySlug": "clavicularios",
+      "path": "/cofre-claviculario-armario-com-48-chavei-6845",
+      "image": "/products/images/0068/6845.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6799",
+      "title": "GAS PARA MACARICO 300ML GI-3000",
+      "brand": "WESTERN",
+      "brandCode": "292",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "89896891",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/gas-para-macarico-300ml-gi3000-6799",
+      "image": "/products/images/0067/6799.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--292--western"
+  }
+}

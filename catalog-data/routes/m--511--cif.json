@@ -1,0 +1,53 @@
+{
+  "title": "CIF",
+  "parentLabel": "Marca",
+  "description": "Produtos CIF disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CIF"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7592",
+      "title": "LIMP CIF CREM 450ML",
+      "brand": "CIF",
+      "brandCode": "511",
+      "supplier": "COMERCIAL J. M. LTDA",
+      "supplierCode": "1500",
+      "manufacturerCode": "00001-0",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/limp-cif-crem-450ml-7592",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7593",
+      "title": "LIMPA VIDROS VEJA C/ALCOOL 500ML",
+      "brand": "CIF",
+      "brandCode": "511",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "201919",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/limpa-vidros-veja-calcool-500ml-7593",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--511--cif"
+  }
+}

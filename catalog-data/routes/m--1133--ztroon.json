@@ -1,0 +1,36 @@
+{
+  "title": "ZTROON",
+  "parentLabel": "Marca",
+  "description": "Produtos ZTROON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZTROON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12763",
+      "title": "PAINEL SOLAR FOTOVOLTAICO 30WP",
+      "brand": "ZTROON",
+      "brandCode": "1133",
+      "supplier": "NEOSOLAR ENERGIA LTDA",
+      "supplierCode": "5921",
+      "manufacturerCode": "24461",
+      "category": "PAINÉIS SOLARES",
+      "categorySlug": "paineis-solares",
+      "path": "/painel-solar-fotovoltaico-30wp-12763",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1133--ztroon"
+  }
+}

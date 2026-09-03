@@ -1,0 +1,36 @@
+{
+  "title": "DOBLE",
+  "parentLabel": "Marca",
+  "description": "Produtos DOBLE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DOBLE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9028",
+      "title": "SISTEMA DE ENSAIOS EM DISJUNTORES TDR900",
+      "brand": "DOBLE",
+      "brandCode": "642",
+      "supplier": "ELECTRISA - SOLUCOES EM ENERGIA LTDA.",
+      "supplierCode": "2362",
+      "manufacturerCode": "9028",
+      "category": "BANCOS DE TESTE",
+      "categorySlug": "bancos-de-teste",
+      "path": "/sistema-de-ensaios-em-disjuntores-tdr900-9028",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--642--doble"
+  }
+}

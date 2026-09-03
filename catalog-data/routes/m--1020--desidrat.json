@@ -1,0 +1,36 @@
+{
+  "title": "DESIDRAT",
+  "parentLabel": "Marca",
+  "description": "Produtos DESIDRAT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DESIDRAT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12013",
+      "title": "DESUMID DESIDRAT PROFISS NEW PLUS 1500 2",
+      "brand": "DESIDRAT",
+      "brandCode": "1020",
+      "supplier": "MERCADO DA IMPRESSORA LTDA",
+      "supplierCode": "5442",
+      "manufacturerCode": "44840350434",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/desumid-desidrat-profiss-new-plus-1500-2-12013",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1020--desidrat"
+  }
+}

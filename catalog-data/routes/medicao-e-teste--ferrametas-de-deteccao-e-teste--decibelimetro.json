@@ -1,0 +1,61 @@
+{
+  "title": "DECIBELÍMETRO",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria decibelímetro em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "DECIBELÍMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12387",
+      "title": "COMBO DECIBELIMETRO DEC500 C/ACESSORIOS",
+      "brand": "INSTRUTHERM",
+      "brandCode": "519",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12387",
+      "category": "DECIBELÍMETRO",
+      "categorySlug": "decibelimetro",
+      "path": "/combo-decibelimetro-dec500-cacessorios-12387",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12355",
+      "title": "DECIBELIMETRO DIG 30 A 130DB",
+      "brand": "INSTRUTHERM",
+      "brandCode": "519",
+      "supplier": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1748",
+      "manufacturerCode": "DEC-500",
+      "category": "DECIBELÍMETRO",
+      "categorySlug": "decibelimetro",
+      "path": "/decibelimetro-dig-30-a-130db-12355",
+      "image": "/products/images/0123/12355.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--decibelimetro"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "TOPCLEAR",
+  "parentLabel": "Marca",
+  "description": "Produtos TOPCLEAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TOPCLEAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11873",
+      "title": "LAVA LOUÇA LIQ. TOPCLEAR NEUTRO 500ML",
+      "brand": "TOPCLEAR",
+      "brandCode": "999",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "61999",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/lava-louca-liq-topclear-neutro-500ml-11873",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--999--topclear"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "SEAFLO",
+  "parentLabel": "Marca",
+  "description": "Produtos SEAFLO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SEAFLO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10123",
+      "title": "MANTA ANTI CHAMA FIRE BLANKET 1,20 X 1,80M  SEAFLO REF 60375",
+      "brand": "SEAFLO",
+      "brandCode": "437",
+      "supplier": "BR100 BRASIL FERRAMENTAS LTDA",
+      "supplierCode": "3091",
+      "manufacturerCode": "11386",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/manta-anti-chama-fire-blanket-120-x-180m-seaflo-ref-60375-10123",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--437--seaflo"
+  }
+}

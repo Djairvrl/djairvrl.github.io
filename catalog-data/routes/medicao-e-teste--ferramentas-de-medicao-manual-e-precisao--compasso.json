@@ -1,0 +1,61 @@
+{
+  "title": "COMPASSO",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria compasso em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "COMPASSO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8472",
+      "title": "COMPASSO ESC LEO&LEO PASTEL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7897256224044",
+      "category": "COMPASSO",
+      "categorySlug": "compasso",
+      "path": "/compasso-esc-leoleo-pastel-8472",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3799",
+      "title": "COMPASSO INTERNO 730-3",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "043003",
+      "category": "COMPASSO",
+      "categorySlug": "compasso",
+      "path": "/compasso-interno-7303-3799",
+      "image": "/products/images/0037/3799.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--compasso"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "FUSÍVEIS",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria fusíveis em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "FUSÍVEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6876",
+      "title": "FUSIVEL DIAZED GL/GG RETARDADO 6A 500V",
+      "brand": "DNI",
+      "brandCode": "366",
+      "supplier": "RODRIGO APARECIDO DE SOUSA 16252210889",
+      "supplierCode": "1412",
+      "manufacturerCode": "DZ6ARET",
+      "category": "FUSÍVEIS",
+      "categorySlug": "fusiveis",
+      "path": "/fusivel-diazed-glgg-retardado-6a-500v-6876",
+      "image": "/products/images/0068/6876.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--fusiveis"
+  }
+}

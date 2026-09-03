@@ -1,0 +1,70 @@
+{
+  "title": "PANDIN",
+  "parentLabel": "Marca",
+  "description": "Produtos PANDIN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PANDIN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12548",
+      "title": "DISPENSADOR P/PAPEL HIG 400M ACO INOX430",
+      "brand": "PANDIN",
+      "brandCode": "738",
+      "supplier": "METALPRECISION INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5681",
+      "manufacturerCode": "PPH-002",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/dispensador-ppapel-hig-400m-aco-inox430-12548",
+      "image": "/products/images/0125/12548.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9984",
+      "title": "MESA DE REUNIAO MEDINDO 2600X1200 BCA",
+      "brand": "PANDIN",
+      "brandCode": "738",
+      "supplier": "LOJAS DIJOSETE LTDA",
+      "supplierCode": "2397",
+      "manufacturerCode": "155",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-de-reuniao-medindo-2600x1200-bca-9984",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12650",
+      "title": "MESA DE REUNIAO RETANGULAR 750X2000X900",
+      "brand": "PANDIN",
+      "brandCode": "738",
+      "supplier": "LOJAS DIJOSETE LTDA",
+      "supplierCode": "2397",
+      "manufacturerCode": "155",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-de-reuniao-retangular-750x2000x900-12650",
+      "image": "/products/images/0126/12650.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--738--pandin"
+  }
+}

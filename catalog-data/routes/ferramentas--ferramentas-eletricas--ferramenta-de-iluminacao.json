@@ -1,0 +1,146 @@
+{
+  "title": "FERRAMENTA DE ILUMINAÇÃO",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria ferramenta de iluminação em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "FERRAMENTA DE ILUMINAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9595",
+      "title": "COMBO LANTERNA +  KIT 2BAT 2AH / CARREG",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "9595",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/combo-lanterna-kit-2bat-2ah-carreg-9595",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "11893",
+      "title": "KIT LANTERNA 18VGLI18V 2BAT E CARREGADOR",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "55555555",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/kit-lanterna-18vgli18v-2bat-e-carregador-11893",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "11874",
+      "title": "LANTERNA REFL 1900 LUMA 18V GLI 18V-1900",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "B&C COMERCIO E DISTRIBUICAO DE ELETRONICOS LTDA",
+      "supplierCode": "2159",
+      "manufacturerCode": "GLI18V1900SB",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/lanterna-refl-1900-luma-18v-gli-18v1900-11874",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3331",
+      "title": "LUMINARIA DOBRAVEL RECAR. 1100 LUMENS",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST90765L",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/luminaria-dobravel-recar-1100-lumens-3331",
+      "image": "/products/images/0033/3331.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7730",
+      "title": "PROJETOR COM LED NOVA 4 CONNECT 4000 LUM",
+      "brand": "SCANGRIP",
+      "brandCode": "530",
+      "supplier": "A T I BRASIL ARTIGOS TECNICOS INDUSTRIAIS LTDA",
+      "supplierCode": "1798",
+      "manufacturerCode": "SG03.6101C",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/projetor-com-led-nova-4-connect-4000-lum-7730",
+      "image": "/products/images/0077/7730.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7831",
+      "title": "REFLETOR PARA AREA DE TRABALHO A BATERIA 18V 10.000 LM - MAKITA DML809-220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "DML809-220V",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/refletor-para-area-de-trabalho-a-bateria-18v-10000-lm--makita-dml809220v-7831",
+      "image": "/products/images/0078/7831.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "11094",
+      "title": "TORRE DE ILUMINACAO 20V MAX S/BAT S/CARR",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DCL079B",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/torre-de-iluminacao-20v-max-sbat-scarr-11094",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "ferramentas--ferramentas-eletricas--ferramenta-de-iluminacao"
+  }
+}

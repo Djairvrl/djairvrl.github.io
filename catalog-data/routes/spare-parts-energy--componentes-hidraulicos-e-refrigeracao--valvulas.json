@@ -1,0 +1,95 @@
+{
+  "title": "VÁLVULAS",
+  "parentLabel": "Componentes Hidráulicos e Refrigeração",
+  "description": "Produtos da categoria válvulas em componentes hidráulicos e refrigeração.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Hidráulicos e Refrigeração",
+      "to": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "label": "VÁLVULAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13032",
+      "title": "BLOCO 2X WSE ACU ALU BLRFM HBC15981",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "PROD30",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/bloco-2x-wse-acu-alu-blrfm-hbc15981-13032",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "13031",
+      "title": "BLOCO HYFM02-20 HYBOX FLEX MINI 20L",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "3361736BR",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/bloco-hyfm0220-hybox-flex-mini-20l-13031",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12546",
+      "title": "VALVULA C1600S 1'NPTF ACO",
+      "brand": "PARKER",
+      "brandCode": "1091",
+      "supplier": "HMC HYDRAULICS LTDA",
+      "supplierCode": "5769",
+      "manufacturerCode": "00050010203",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/valvula-c1600s-1nptf-aco-12546",
+      "image": "/products/images/0125/12546.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "4279",
+      "title": "VALVULA REGULADORA DE VAZAO - DV-08-V-N",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910001173",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/valvula-reguladora-de-vazao--dv08vn-4279",
+      "image": "/products/images/0042/4279.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "spare-parts-energy--componentes-hidraulicos-e-refrigeracao--valvulas"
+  }
+}

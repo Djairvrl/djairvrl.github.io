@@ -1,0 +1,36 @@
+{
+  "title": "NEW HORIZON",
+  "parentLabel": "Marca",
+  "description": "Produtos NEW HORIZON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEW HORIZON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11379",
+      "title": "NHE320C MANTA CINZA 2CAM 500X1.000MM",
+      "brand": "NEW HORIZON",
+      "brandCode": "928",
+      "supplier": "NEW HORIZON COMERCIAL LTDA",
+      "supplierCode": "4880",
+      "manufacturerCode": "320A0174",
+      "category": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+      "categorySlug": "manutencao-tecnica-de-informatica",
+      "path": "/nhe320c-manta-cinza-2cam-500x1000mm-11379",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--928--new-horizon"
+  }
+}

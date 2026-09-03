@@ -1,0 +1,1670 @@
+{
+  "title": "Ferramentas",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MUNDO DAS FERRAMENTAS DO BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas"
+    }
+  ],
+  "children": [
+    {
+      "name": "Ferramentas Elétricas",
+      "slug": "ferramentas-eletricas",
+      "path": "/ferramentas/ferramentas-eletricas",
+      "count": 391,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+          "slug": "acessorios-para-ferramentas-eletricas",
+          "path": "/ferramentas/ferramentas-eletricas/acessorios-para-ferramentas-eletricas",
+          "count": 16
+        },
+        {
+          "name": "AQUECEDORES INDUTIVOS",
+          "slug": "aquecedores-indutivos",
+          "path": "/ferramentas/ferramentas-eletricas/aquecedores-indutivos",
+          "count": 2
+        },
+        {
+          "name": "ASPIRADORES E EXTRATORES",
+          "slug": "aspiradores-e-extratores",
+          "path": "/ferramentas/ferramentas-eletricas/aspiradores-e-extratores",
+          "count": 1
+        },
+        {
+          "name": "BATERIA E CARREGADORES",
+          "slug": "bateria-e-carregadores",
+          "path": "/ferramentas/ferramentas-eletricas/bateria-e-carregadores",
+          "count": 75
+        },
+        {
+          "name": "CHAVES DE IMPACTO",
+          "slug": "chaves-de-impacto",
+          "path": "/ferramentas/ferramentas-eletricas/chaves-de-impacto",
+          "count": 42
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-eletricas/cortador",
+          "count": 6
+        },
+        {
+          "name": "ESMERIL DE BANCADA",
+          "slug": "esmeril-de-bancada",
+          "path": "/ferramentas/ferramentas-eletricas/esmeril-de-bancada",
+          "count": 5
+        },
+        {
+          "name": "ESMERILHADEIRA",
+          "slug": "esmerilhadeira",
+          "path": "/ferramentas/ferramentas-eletricas/esmerilhadeira",
+          "count": 40
+        },
+        {
+          "name": "FERRAMENTA DE ILUMINAÇÃO",
+          "slug": "ferramenta-de-iluminacao",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-de-iluminacao",
+          "count": 7
+        },
+        {
+          "name": "FERRAMENTA ROTATIVA",
+          "slug": "ferramenta-rotativa",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-rotativa",
+          "count": 1
+        },
+        {
+          "name": "FURADEIRA",
+          "slug": "furadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira",
+          "count": 31
+        },
+        {
+          "name": "FURADEIRA/PARAFUSADEIRA",
+          "slug": "furadeira-parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira-parafusadeira",
+          "count": 30
+        },
+        {
+          "name": "GRAVADOR",
+          "slug": "gravador",
+          "path": "/ferramentas/ferramentas-eletricas/gravador",
+          "count": 1
+        },
+        {
+          "name": "JARDINAGEM",
+          "slug": "jardinagem",
+          "path": "/ferramentas/ferramentas-eletricas/jardinagem",
+          "count": 1
+        },
+        {
+          "name": "LIXADEIRAS",
+          "slug": "lixadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/lixadeiras",
+          "count": 13
+        },
+        {
+          "name": "MARTELETES",
+          "slug": "marteletes",
+          "path": "/ferramentas/ferramentas-eletricas/marteletes",
+          "count": 8
+        },
+        {
+          "name": "MARTELOS",
+          "slug": "martelos",
+          "path": "/ferramentas/ferramentas-eletricas/martelos",
+          "count": 11
+        },
+        {
+          "name": "MICRO RETIFICA",
+          "slug": "micro-retifica",
+          "path": "/ferramentas/ferramentas-eletricas/micro-retifica",
+          "count": 3
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/ferramentas/ferramentas-eletricas/misturador",
+          "count": 1
+        },
+        {
+          "name": "MOTOSSERRA",
+          "slug": "motosserra",
+          "path": "/ferramentas/ferramentas-eletricas/motosserra",
+          "count": 1
+        },
+        {
+          "name": "PARAFUSADEIRA",
+          "slug": "parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/parafusadeira",
+          "count": 8
+        },
+        {
+          "name": "PEÇAS DE REPOSIÇÃO",
+          "slug": "pecas-de-reposicao",
+          "path": "/ferramentas/ferramentas-eletricas/pecas-de-reposicao",
+          "count": 18
+        },
+        {
+          "name": "PISTOLA CALAFETADORA",
+          "slug": "pistola-calafetadora",
+          "path": "/ferramentas/ferramentas-eletricas/pistola-calafetadora",
+          "count": 2
+        },
+        {
+          "name": "PLAINAS",
+          "slug": "plainas",
+          "path": "/ferramentas/ferramentas-eletricas/plainas",
+          "count": 3
+        },
+        {
+          "name": "PNEUMÁTICO",
+          "slug": "pneumatico",
+          "path": "/ferramentas/ferramentas-eletricas/pneumatico",
+          "count": 2
+        },
+        {
+          "name": "POLITRIZ",
+          "slug": "politriz",
+          "path": "/ferramentas/ferramentas-eletricas/politriz",
+          "count": 2
+        },
+        {
+          "name": "RETIFICA",
+          "slug": "retifica",
+          "path": "/ferramentas/ferramentas-eletricas/retifica",
+          "count": 3
+        },
+        {
+          "name": "SERRAS",
+          "slug": "serras",
+          "path": "/ferramentas/ferramentas-eletricas/serras",
+          "count": 24
+        },
+        {
+          "name": "SOPRADORES",
+          "slug": "sopradores",
+          "path": "/ferramentas/ferramentas-eletricas/sopradores",
+          "count": 21
+        },
+        {
+          "name": "SUPORTE",
+          "slug": "suporte",
+          "path": "/ferramentas/ferramentas-eletricas/suporte",
+          "count": 3
+        },
+        {
+          "name": "TESOURA",
+          "slug": "tesoura",
+          "path": "/ferramentas/ferramentas-eletricas/tesoura",
+          "count": 1
+        },
+        {
+          "name": "TORQUEADEIRAS",
+          "slug": "torqueadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/torqueadeiras",
+          "count": 4
+        },
+        {
+          "name": "TUPIAS",
+          "slug": "tupias",
+          "path": "/ferramentas/ferramentas-eletricas/tupias",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES PORTÁTEIS",
+          "slug": "ventiladores-portateis",
+          "path": "/ferramentas/ferramentas-eletricas/ventiladores-portateis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas de Jardinagem",
+      "slug": "ferramentas-de-jardinagem",
+      "path": "/ferramentas/ferramentas-de-jardinagem",
+      "count": 48,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/ferramentas/ferramentas-de-jardinagem/acessorios",
+          "count": 16
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/mangueiras",
+          "count": 5
+        },
+        {
+          "name": "PULVERIZADORES",
+          "slug": "pulverizadores",
+          "path": "/ferramentas/ferramentas-de-jardinagem/pulverizadores",
+          "count": 17
+        },
+        {
+          "name": "ROÇADEIRAS",
+          "slug": "rocadeiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/rocadeiras",
+          "count": 6
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/tesouras",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas Manuais",
+      "slug": "ferramentas-manuais",
+      "path": "/ferramentas/ferramentas-manuais",
+      "count": 1843,
+      "categories": [
+        {
+          "name": "ALICATES",
+          "slug": "alicates",
+          "path": "/ferramentas/ferramentas-manuais/alicates",
+          "count": 116
+        },
+        {
+          "name": "APLICADORES",
+          "slug": "aplicadores",
+          "path": "/ferramentas/ferramentas-manuais/aplicadores",
+          "count": 8
+        },
+        {
+          "name": "ARCOS DE SERRA",
+          "slug": "arcos-de-serra",
+          "path": "/ferramentas/ferramentas-manuais/arcos-de-serra",
+          "count": 12
+        },
+        {
+          "name": "AUTOMOTIVAS",
+          "slug": "automotivas",
+          "path": "/ferramentas/ferramentas-manuais/automotivas",
+          "count": 52
+        },
+        {
+          "name": "CAIXAS DE FERRAMENTAS",
+          "slug": "caixas-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/caixas-de-ferramentas",
+          "count": 11
+        },
+        {
+          "name": "CARRINHO",
+          "slug": "carrinho",
+          "path": "/ferramentas/ferramentas-manuais/carrinho",
+          "count": 3
+        },
+        {
+          "name": "CHAVES AXIAIS E MISTAS",
+          "slug": "chaves-axiais-e-mistas",
+          "path": "/ferramentas/ferramentas-manuais/chaves-axiais-e-mistas",
+          "count": 210
+        },
+        {
+          "name": "CHAVES RADIAIS",
+          "slug": "chaves-radiais",
+          "path": "/ferramentas/ferramentas-manuais/chaves-radiais",
+          "count": 271
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-manuais/cortador",
+          "count": 11
+        },
+        {
+          "name": "COSSINETES",
+          "slug": "cossinetes",
+          "path": "/ferramentas/ferramentas-manuais/cossinetes",
+          "count": 16
+        },
+        {
+          "name": "DESENCAPADORES",
+          "slug": "desencapadores",
+          "path": "/ferramentas/ferramentas-manuais/desencapadores",
+          "count": 3
+        },
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/ferramentas/ferramentas-manuais/diversos",
+          "count": 9
+        },
+        {
+          "name": "EXTRATORES",
+          "slug": "extratores",
+          "path": "/ferramentas/ferramentas-manuais/extratores",
+          "count": 23
+        },
+        {
+          "name": "FACA E CANIVETE",
+          "slug": "faca-e-canivete",
+          "path": "/ferramentas/ferramentas-manuais/faca-e-canivete",
+          "count": 10
+        },
+        {
+          "name": "FERRAMENTAS ISOLADAS",
+          "slug": "ferramentas-isoladas",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-isoladas",
+          "count": 192
+        },
+        {
+          "name": "FERRAMENTAS PARA TUBO",
+          "slug": "ferramentas-para-tubo",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-para-tubo",
+          "count": 20
+        },
+        {
+          "name": "FORMÕES",
+          "slug": "formoes",
+          "path": "/ferramentas/ferramentas-manuais/formoes",
+          "count": 2
+        },
+        {
+          "name": "FUNIL",
+          "slug": "funil",
+          "path": "/ferramentas/ferramentas-manuais/funil",
+          "count": 8
+        },
+        {
+          "name": "GRAMPEADOR",
+          "slug": "grampeador",
+          "path": "/ferramentas/ferramentas-manuais/grampeador",
+          "count": 6
+        },
+        {
+          "name": "GRAMPOS",
+          "slug": "grampos",
+          "path": "/ferramentas/ferramentas-manuais/grampos",
+          "count": 16
+        },
+        {
+          "name": "JOGO DE FERRAMENTAS",
+          "slug": "jogo-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/jogo-de-ferramentas",
+          "count": 18
+        },
+        {
+          "name": "LIMA",
+          "slug": "lima",
+          "path": "/ferramentas/ferramentas-manuais/lima",
+          "count": 16
+        },
+        {
+          "name": "MACHADOS E MACHADINHAS",
+          "slug": "machados-e-machadinhas",
+          "path": "/ferramentas/ferramentas-manuais/machados-e-machadinhas",
+          "count": 3
+        },
+        {
+          "name": "MARRETAS",
+          "slug": "marretas",
+          "path": "/ferramentas/ferramentas-manuais/marretas",
+          "count": 31
+        },
+        {
+          "name": "MARTELETE",
+          "slug": "martelete",
+          "path": "/ferramentas/ferramentas-manuais/martelete",
+          "count": 1
+        },
+        {
+          "name": "MARTELO",
+          "slug": "martelo",
+          "path": "/ferramentas/ferramentas-manuais/martelo",
+          "count": 50
+        },
+        {
+          "name": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+          "slug": "pistola-de-fixacao-a-polvora",
+          "path": "/ferramentas/ferramentas-manuais/pistola-de-fixacao-a-polvora",
+          "count": 3
+        },
+        {
+          "name": "PONTEIRAS",
+          "slug": "ponteiras",
+          "path": "/ferramentas/ferramentas-manuais/ponteiras",
+          "count": 1
+        },
+        {
+          "name": "PUNÇÕES",
+          "slug": "puncoes",
+          "path": "/ferramentas/ferramentas-manuais/puncoes",
+          "count": 6
+        },
+        {
+          "name": "SACA PINO",
+          "slug": "saca-pino",
+          "path": "/ferramentas/ferramentas-manuais/saca-pino",
+          "count": 1
+        },
+        {
+          "name": "SACA POLIA",
+          "slug": "saca-polia",
+          "path": "/ferramentas/ferramentas-manuais/saca-polia",
+          "count": 15
+        },
+        {
+          "name": "SERRA MANUAL",
+          "slug": "serra-manual",
+          "path": "/ferramentas/ferramentas-manuais/serra-manual",
+          "count": 4
+        },
+        {
+          "name": "SOQUETES E ACESSÓRIOS",
+          "slug": "soquetes-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/soquetes-e-acessorios",
+          "count": 517
+        },
+        {
+          "name": "TALHADEIRAS",
+          "slug": "talhadeiras",
+          "path": "/ferramentas/ferramentas-manuais/talhadeiras",
+          "count": 12
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-manuais/tesouras",
+          "count": 8
+        },
+        {
+          "name": "TORNO",
+          "slug": "torno",
+          "path": "/ferramentas/ferramentas-manuais/torno",
+          "count": 9
+        },
+        {
+          "name": "TORQUIMETROS",
+          "slug": "torquimetros",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros",
+          "count": 4
+        },
+        {
+          "name": "TORQUÊS",
+          "slug": "torques",
+          "path": "/ferramentas/ferramentas-manuais/torques",
+          "count": 5
+        },
+        {
+          "name": "TORQUÍMETROS E ACESSÓRIOS",
+          "slug": "torquimetros-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros-e-acessorios",
+          "count": 138
+        }
+      ]
+    },
+    {
+      "name": "Construção Civil",
+      "slug": "construcao-civil",
+      "path": "/ferramentas/construcao-civil",
+      "count": 275,
+      "categories": [
+        {
+          "name": "ABERTURAS",
+          "slug": "aberturas",
+          "path": "/ferramentas/construcao-civil/aberturas",
+          "count": 1
+        },
+        {
+          "name": "ALAVANCA",
+          "slug": "alavanca",
+          "path": "/ferramentas/construcao-civil/alavanca",
+          "count": 4
+        },
+        {
+          "name": "APLICADOR",
+          "slug": "aplicador",
+          "path": "/ferramentas/construcao-civil/aplicador",
+          "count": 5
+        },
+        {
+          "name": "ARAMES",
+          "slug": "arames",
+          "path": "/ferramentas/construcao-civil/arames",
+          "count": 10
+        },
+        {
+          "name": "BALDE",
+          "slug": "balde",
+          "path": "/ferramentas/construcao-civil/balde",
+          "count": 12
+        },
+        {
+          "name": "BETONEIRAS",
+          "slug": "betoneiras",
+          "path": "/ferramentas/construcao-civil/betoneiras",
+          "count": 2
+        },
+        {
+          "name": "CADEADO",
+          "slug": "cadeado",
+          "path": "/ferramentas/construcao-civil/cadeado",
+          "count": 33
+        },
+        {
+          "name": "CARRO DE MÃO, JERICA E PLATAFORMA",
+          "slug": "carro-de-mao-jerica-e-plataforma",
+          "path": "/ferramentas/construcao-civil/carro-de-mao-jerica-e-plataforma",
+          "count": 11
+        },
+        {
+          "name": "CAVADEIRA",
+          "slug": "cavadeira",
+          "path": "/ferramentas/construcao-civil/cavadeira",
+          "count": 4
+        },
+        {
+          "name": "COLHER DE PEDREIRO",
+          "slug": "colher-de-pedreiro",
+          "path": "/ferramentas/construcao-civil/colher-de-pedreiro",
+          "count": 7
+        },
+        {
+          "name": "CONCRETO E ARGAMASSA",
+          "slug": "concreto-e-argamassa",
+          "path": "/ferramentas/construcao-civil/concreto-e-argamassa",
+          "count": 1
+        },
+        {
+          "name": "CORRENTES DE USO GERAL",
+          "slug": "correntes-de-uso-geral",
+          "path": "/ferramentas/construcao-civil/correntes-de-uso-geral",
+          "count": 12
+        },
+        {
+          "name": "CORTA VERGALHÃO",
+          "slug": "corta-vergalhao",
+          "path": "/ferramentas/construcao-civil/corta-vergalhao",
+          "count": 14
+        },
+        {
+          "name": "DESEMPENADEIRAS",
+          "slug": "desempenadeiras",
+          "path": "/ferramentas/construcao-civil/desempenadeiras",
+          "count": 9
+        },
+        {
+          "name": "ENXADAS",
+          "slug": "enxadas",
+          "path": "/ferramentas/construcao-civil/enxadas",
+          "count": 6
+        },
+        {
+          "name": "ESCADAS",
+          "slug": "escadas",
+          "path": "/ferramentas/construcao-civil/escadas",
+          "count": 47
+        },
+        {
+          "name": "ESPATULAS",
+          "slug": "espatulas",
+          "path": "/ferramentas/construcao-civil/espatulas",
+          "count": 1
+        },
+        {
+          "name": "ESPAÇADOR",
+          "slug": "espacador",
+          "path": "/ferramentas/construcao-civil/espacador",
+          "count": 1
+        },
+        {
+          "name": "ESPUMA EXPANSIVA",
+          "slug": "espuma-expansiva",
+          "path": "/ferramentas/construcao-civil/espuma-expansiva",
+          "count": 4
+        },
+        {
+          "name": "FOICES",
+          "slug": "foices",
+          "path": "/ferramentas/construcao-civil/foices",
+          "count": 2
+        },
+        {
+          "name": "FURADOR E CORTADOR",
+          "slug": "furador-e-cortador",
+          "path": "/ferramentas/construcao-civil/furador-e-cortador",
+          "count": 3
+        },
+        {
+          "name": "LIMPEZA",
+          "slug": "limpeza",
+          "path": "/ferramentas/construcao-civil/limpeza",
+          "count": 1
+        },
+        {
+          "name": "LONA",
+          "slug": "lona",
+          "path": "/ferramentas/construcao-civil/lona",
+          "count": 14
+        },
+        {
+          "name": "LÁPIS",
+          "slug": "lapis",
+          "path": "/ferramentas/construcao-civil/lapis",
+          "count": 2
+        },
+        {
+          "name": "MISTURADORES",
+          "slug": "misturadores",
+          "path": "/ferramentas/construcao-civil/misturadores",
+          "count": 5
+        },
+        {
+          "name": "MÁQUINA",
+          "slug": "maquina",
+          "path": "/ferramentas/construcao-civil/maquina",
+          "count": 1
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/ferramentas/construcao-civil/outros",
+          "count": 5
+        },
+        {
+          "name": "PE-DE-CABRA",
+          "slug": "pe-de-cabra",
+          "path": "/ferramentas/construcao-civil/pe-de-cabra",
+          "count": 4
+        },
+        {
+          "name": "PICARETA",
+          "slug": "picareta",
+          "path": "/ferramentas/construcao-civil/picareta",
+          "count": 3
+        },
+        {
+          "name": "PLACA VIBRATÓRIA",
+          "slug": "placa-vibratoria",
+          "path": "/ferramentas/construcao-civil/placa-vibratoria",
+          "count": 1
+        },
+        {
+          "name": "PONTEIRA E TALHADEIRA",
+          "slug": "ponteira-e-talhadeira",
+          "path": "/ferramentas/construcao-civil/ponteira-e-talhadeira",
+          "count": 15
+        },
+        {
+          "name": "PREGO",
+          "slug": "prego",
+          "path": "/ferramentas/construcao-civil/prego",
+          "count": 5
+        },
+        {
+          "name": "PÁ",
+          "slug": "pa",
+          "path": "/ferramentas/construcao-civil/pa",
+          "count": 4
+        },
+        {
+          "name": "RASTELO",
+          "slug": "rastelo",
+          "path": "/ferramentas/construcao-civil/rastelo",
+          "count": 2
+        },
+        {
+          "name": "RÉGUA, PRUMO E LINHA",
+          "slug": "regua-prumo-e-linha",
+          "path": "/ferramentas/construcao-civil/regua-prumo-e-linha",
+          "count": 11
+        },
+        {
+          "name": "SERROTES",
+          "slug": "serrotes",
+          "path": "/ferramentas/construcao-civil/serrotes",
+          "count": 6
+        },
+        {
+          "name": "VENTOSAS",
+          "slug": "ventosas",
+          "path": "/ferramentas/construcao-civil/ventosas",
+          "count": 1
+        },
+        {
+          "name": "VIBRADORES DE CONCRETO",
+          "slug": "vibradores-de-concreto",
+          "path": "/ferramentas/construcao-civil/vibradores-de-concreto",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Lubrificação e Abastecimento",
+      "slug": "ferramentas-lubrificacao-e-abastecimento",
+      "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento",
+      "count": 44,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+          "slug": "acessorios-de-lubrificacao-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/acessorios-de-lubrificacao-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BICOS DE ABASTECIMENTO",
+          "slug": "bicos-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bicos-de-abastecimento",
+          "count": 2
+        },
+        {
+          "name": "BOMBAS DE ABASTECIMENTO",
+          "slug": "bombas-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BOMBAS DE GRAXA ELÉTRICAS",
+          "slug": "bombas-de-graxa-eletricas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-eletricas",
+          "count": 4
+        },
+        {
+          "name": "BOMBAS DE GRAXA MANUAL",
+          "slug": "bombas-de-graxa-manual",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-manual",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE GRAXA PNEUMÁTICAS",
+          "slug": "bombas-de-graxa-pneumaticas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-pneumaticas",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TRANSFERÊNCIA",
+          "slug": "bombas-de-transferencia",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-transferencia",
+          "count": 6
+        },
+        {
+          "name": "FILTROS E ELEMENTOS FILTRANTES",
+          "slug": "filtros-e-elementos-filtrantes",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/filtros-e-elementos-filtrantes",
+          "count": 1
+        },
+        {
+          "name": "LUBRIFICADORES DE ÓLEO",
+          "slug": "lubrificadores-de-oleo",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/lubrificadores-de-oleo",
+          "count": 5
+        },
+        {
+          "name": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+          "slug": "pistolas-de-lubrificacao-eletrica",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/pistolas-de-lubrificacao-eletrica",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "244",
+    "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "409",
+      "title": "ALICATE BOMBA D' AGUA 12\" 300MM ACO CARB",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "157099",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-bomba-d-agua-12-300mm-aco-carb-409",
+      "image": "/products/images/0004/409.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7044",
+      "title": "ALICATE BOMBA D' AGUA 12\" 300MM ACO CARB",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "157099",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-bomba-d-agua-12-300mm-aco-carb-7044",
+      "image": "/products/images/0070/7044.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "298",
+      "title": "ALICATE CORTE DIAGONAL 6\"(160 MM) NÍCKEL MTX REF 175209",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "175209",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-corte-diagonal-6160-mm-nickel-mtx-ref-175209-298",
+      "image": "/products/images/0002/298.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "554",
+      "title": "ALICATE CRIMP CABOS P/TERMINAIS RJ-45,6P",
+      "brand": "GROSS",
+      "brandCode": "106",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1771955",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-crimp-cabos-pterminais-rj456p-554",
+      "image": "/products/images/0005/554.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "590",
+      "title": "ALICATE DESENCAPADOR DE FIOS 0,2/0,6MM",
+      "brand": "GROSS",
+      "brandCode": "106",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1771855",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-desencapador-de-fios-0206mm-590",
+      "image": "/products/images/0005/590.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "411",
+      "title": "ALICATE UNIVERSAL 7\" 180MM CRV CABO ISOL",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "169039",
+      "category": "FERRAMENTAS ISOLADAS",
+      "categorySlug": "ferramentas-isoladas",
+      "path": "/alicate-universal-7-180mm-crv-cabo-isol-411",
+      "image": "/products/images/0004/411.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "299",
+      "title": "ALICATE UNIVERSAL NIQUELADO 8\"(200MM) MTX REF 169069",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "169069",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-universal-niquelado-8200mm-mtx-ref-169069-299",
+      "image": "/products/images/0002/299.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "464",
+      "title": "ALMOTOLIA METALICA CAP 300ML PONTA FLEXI",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "5313055",
+      "category": "LUBRIFICADORES DE ÓLEO",
+      "categorySlug": "lubrificadores-de-oleo",
+      "path": "/almotolia-metalica-cap-300ml-ponta-flexi-464",
+      "image": "/products/images/0004/464.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "412",
+      "title": "APLICADOR DE SILICONE 750ML HASTE 8MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8864855",
+      "category": "APLICADOR",
+      "categorySlug": "aplicador",
+      "path": "/aplicador-de-silicone-750ml-haste-8mm-412",
+      "image": "/products/images/0004/412.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "467",
+      "title": "CANIVETE 200MM LAMINA RETA CABO MADEIRA",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "7899855",
+      "category": "FACA E CANIVETE",
+      "categorySlug": "faca-e-canivete",
+      "path": "/canivete-200mm-lamina-reta-cabo-madeira-467",
+      "image": "/products/images/0004/467.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "371",
+      "title": "CARRETEL DE LINHA 30M COM GIZ VERMELHO PARA DRYWALL, E TUBO 115G MTX REF 848559",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "848559",
+      "category": "RÉGUA, PRUMO E LINHA",
+      "categorySlug": "regua-prumo-e-linha",
+      "path": "/carretel-de-linha-30m-com-giz-vermelho-para-drywall-e-tubo-115g-mtx-ref-848559-371",
+      "image": "/products/images/0003/371.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "469",
+      "title": "CHAVE DE FENDA 1/8X3\" SL3,0 CRV CAB",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "114069",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/chave-de-fenda-18x3-sl30-crv-cab-469",
+      "image": "/products/images/0004/469.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "432",
+      "title": "CHAVE DE FENDA 5/32\"X4\" SL4,0 ACO CRMO",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "129169",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/chave-de-fenda-532x4-sl40-aco-crmo-432",
+      "image": "/products/images/0004/432.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "468",
+      "title": "CHAVE FENDA 1/4X1.1/2\" SL6,0 CABO INJECA",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "11620",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/chave-fenda-14x112-sl60-cabo-injeca-468",
+      "image": "/products/images/0004/468.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "434",
+      "title": "CHAVE PHILLIPS 1/8\"X3\" PH0 ACO CRMO",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "129249",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/chave-phillips-18x3-ph0-aco-crmo-434",
+      "image": "/products/images/0004/434.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "471",
+      "title": "CHAVE PHILLIPS 5/16X6\" PH3 CRV CABO INJE",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "11638",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/chave-phillips-516x6-ph3-crv-cabo-inje-471",
+      "image": "/products/images/0004/471.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "372",
+      "title": "COLHER DE PEDREIRO OVAL 8\"(200MM) MTX REF 8620255",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8620255",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-oval-8200mm-mtx-ref-8620255-372",
+      "image": "/products/images/0003/372.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "331",
+      "title": "COLHER DE PEDREIRO OVAL 9\"(225MM) MTX REF 8620355",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8620355",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-oval-9225mm-mtx-ref-8620355-331",
+      "image": "/products/images/0003/331.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "373",
+      "title": "CORTADOR DE CERÂMICA CIRCULAR AJUSTÁVEL 20 A 94MM COM PROTEÇÃO MTX REF 882409",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "882409",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortador-de-ceramica-circular-ajustavel-20-a-94mm-com-protecao-mtx-ref-882409-373",
+      "image": "/products/images/0003/373.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "474",
+      "title": "ESPACADOR P/PISO 20MM PLASTICO 200PC",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "880685",
+      "category": "ESPAÇADOR",
+      "categorySlug": "espacador",
+      "path": "/espacador-ppiso-20mm-plastico-200pc-474",
+      "image": "/products/images/0004/474.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "509",
+      "title": "EXTENSÃO FLEXÍVEL CR-V 1/4\"(150MM) STELS -1390956",
+      "brand": "STELS",
+      "brandCode": "105",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1390956",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/extensao-flexivel-crv-14150mm-stels-1390956-509",
+      "image": "/products/images/0005/509.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "518",
+      "title": "FUNIL PLASTICO DIAMETRO 120MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "5372059",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-plastico-diametro-120mm-518",
+      "image": "/products/images/0005/518.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "478",
+      "title": "GRAMPO TIPO \"C\" 150 X 125 X 240 MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "2066255",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-tipo-c-150-x-125-x-240-mm-478",
+      "image": "/products/images/0004/478.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "479",
+      "title": "GRAMPO TIPO \"C\" 200 X 160 X 290 MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "2066555",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-tipo-c-200-x-160-x-290-mm-479",
+      "image": "/products/images/0004/479.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "480",
+      "title": "GRAMPO TIPO \"C\" 50 X 60 X 95 MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "2065055",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-tipo-c-50-x-60-x-95-mm-480",
+      "image": "/products/images/0004/480.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "481",
+      "title": "GRAMPO TIPO \"C\" 75 X 75 X 130 MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "2065355",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-tipo-c-75-x-75-x-130-mm-481",
+      "image": "/products/images/0004/481.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "454",
+      "title": "JG CHAVE COMBINADA 6X22MM 12PCS CROMO",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "154129",
+      "category": "CHAVES RADIAIS",
+      "categorySlug": "chaves-radiais",
+      "path": "/jg-chave-combinada-6x22mm-12pcs-cromo-454",
+      "image": "/products/images/0004/454.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "458",
+      "title": "JG CHAVE HEXAG TORX CURTA 10PC 1-5-12MM",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "123099",
+      "category": "CHAVES RADIAIS",
+      "categorySlug": "chaves-radiais",
+      "path": "/jg-chave-hexag-torx-curta-10pc-1512mm-458",
+      "image": "/products/images/0004/458.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "343",
+      "title": "JOGO CHAVE ALLEN LONGA ABAULADA 1,5-10MM CRV MTX REF 112339",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "112339",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/jogo-chave-allen-longa-abaulada-1510mm-crv-mtx-ref-112339-343",
+      "image": "/products/images/0003/343.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "511",
+      "title": "JOGO CHAVE CATRACA  1/2\" SOQUETES (10-22MM) 11 PEÇAS STELS 1412755",
+      "brand": "STELS",
+      "brandCode": "105",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1412755",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/jogo-chave-catraca-12-soquetes-1022mm-11-pecas-stels-1412755-511",
+      "image": "/products/images/0005/511.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "532",
+      "title": "JOGO DE CHAVES DE PRECISAO 6PCS PH/SL",
+      "brand": "GROSS",
+      "brandCode": "106",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "13346",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/jogo-de-chaves-de-precisao-6pcs-phsl-532",
+      "image": "/products/images/0005/532.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "483",
+      "title": "JOGO DE GRAMPO TIPO \"C\" 25-50-75MM 3 PCS",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "2067555",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/jogo-de-grampo-tipo-c-255075mm-3-pcs-483",
+      "image": "/products/images/0004/483.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1818",
+      "title": "JOGO DE SOQ. 1/4\" CRV CAIX PLAST 29PCS",
+      "brand": "STELS",
+      "brandCode": "105",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1410055",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/jogo-de-soq-14-crv-caix-plast-29pcs-1818",
+      "image": "/products/images/0018/1818.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "516",
+      "title": "KIT FERRAMENTA 1/4\" CRV CAIXA PLAST 57PC",
+      "brand": "STELS",
+      "brandCode": "105",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1410155",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/kit-ferramenta-14-crv-caixa-plast-57pc-516",
+      "image": "/products/images/0005/516.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "348",
+      "title": "LAMINA P/ ARCO DE SERRA 12\"(300MM) 24 TPI 2 PEÇAS MTX REF 77729",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "777729",
+      "category": "ARCOS DE SERRA",
+      "categorySlug": "arcos-de-serra",
+      "path": "/lamina-p-arco-de-serra-12300mm-24-tpi-2-pecas-mtx-ref-77729-348",
+      "image": "/products/images/0003/348.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "485",
+      "title": "LAPIS CARPINTERIO/MARCENERIO 250MM",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8480555",
+      "category": "LÁPIS",
+      "categorySlug": "lapis",
+      "path": "/lapis-carpinteriomarcenerio-250mm-485",
+      "image": "/products/images/0004/485.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "486",
+      "title": "MARRETA OITAVADA 1000G CABO DE MADEIRA",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1090555",
+      "category": "MARRETAS",
+      "categorySlug": "marretas",
+      "path": "/marreta-oitavada-1000g-cabo-de-madeira-486",
+      "image": "/products/images/0004/486.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "487",
+      "title": "MARRETA OITAVADA 1500G CABO DE MADEIRA",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1090755",
+      "category": "MARRETAS",
+      "categorySlug": "marretas",
+      "path": "/marreta-oitavada-1500g-cabo-de-madeira-487",
+      "image": "/products/images/0004/487.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "488",
+      "title": "MARRETA OITAVADA 2000G CABO DE MADEIRA",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1090955",
+      "category": "MARRETAS",
+      "categorySlug": "marretas",
+      "path": "/marreta-oitavada-2000g-cabo-de-madeira-488",
+      "image": "/products/images/0004/488.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "351",
+      "title": "MARTELO DE BORRACHA 450G PRETO E BRANCO CABO EM FIBRA DE VIDRO MTX REF 111719",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "111719",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/martelo-de-borracha-450g-preto-e-branco-cabo-em-fibra-de-vidro-mtx-ref-111719-351",
+      "image": "/products/images/0003/351.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "441",
+      "title": "MARTELO POLIURETANO ANTI-RETORNO 60MM",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1098755",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/martelo-poliuretano-antiretorno-60mm-441",
+      "image": "/products/images/0004/441.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "353",
+      "title": "MARTELO UNHA 20MM COM CABO DE FIBRA MTX REF 1040555",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1040555",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/martelo-unha-20mm-com-cabo-de-fibra-mtx-ref-1040555-353",
+      "image": "/products/images/0003/353.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "354",
+      "title": "MARTELO UNHA 23MM COM CABO DE FIBRA MTX REF 1040655",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1040655",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/martelo-unha-23mm-com-cabo-de-fibra-mtx-ref-1040655-354",
+      "image": "/products/images/0003/354.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "355",
+      "title": "MARTELO UNHA 25MM COM CABO DE FIBRA MTX REF 1040755",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1040755",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/martelo-unha-25mm-com-cabo-de-fibra-mtx-ref-1040755-355",
+      "image": "/products/images/0003/355.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "493",
+      "title": "MARTELO UNHA CABECA 25MM CABO MADEIRA",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "104106",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/martelo-unha-cabeca-25mm-cabo-madeira-493",
+      "image": "/products/images/0004/493.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "934",
+      "title": "MATELO DE BORRACHA PRET 450G CB FIBR VID",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "111859",
+      "category": "MARRETAS",
+      "categorySlug": "marretas",
+      "path": "/matelo-de-borracha-pret-450g-cb-fibr-vid-934",
+      "image": "/products/images/0009/934.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "935",
+      "title": "MATELO DE BORRACHA PRET 680G CB FIBR VID",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "111939",
+      "category": "MARRETAS",
+      "categorySlug": "marretas",
+      "path": "/matelo-de-borracha-pret-680g-cb-fibr-vid-935",
+      "image": "/products/images/0009/935.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "376",
+      "title": "MINI ALICATE UNIVERSAL REFORÇADO  FOSFATIZADO 120MM GROSS REF 1783355",
+      "brand": "GROSS",
+      "brandCode": "106",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "1783355",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/mini-alicate-universal-reforcado-fosfatizado-120mm-gross-ref-1783355-376",
+      "image": "/products/images/0003/376.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2618",
+      "title": "PE DE CABRA, REFOR, 24POL, 600MM X29X15M",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "252339",
+      "category": "PE-DE-CABRA",
+      "categorySlug": "pe-de-cabra",
+      "path": "/pe-de-cabra-refor-24pol-600mm-x29x15m-2618",
+      "image": "/products/images/0026/2618.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "382",
+      "title": "PISTOLA APLICADORA DE SILICONE 310ML SEMI ABERTA SPARTA REF 8863655",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8863655",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/pistola-aplicadora-de-silicone-310ml-semi-aberta-sparta-ref-8863655-382",
+      "image": "/products/images/0003/382.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 2,
+    "total": 67,
+    "pageBase": "ferramentas--fornecedor-244"
+  }
+}

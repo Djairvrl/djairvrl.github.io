@@ -1,0 +1,36 @@
+{
+  "title": "COPETEC",
+  "parentLabel": "Marca",
+  "description": "Produtos COPETEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COPETEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7080",
+      "title": "KIT 2 ESCOVAS PARA USO POLITRIZES E PARA",
+      "brand": "COPETEC",
+      "brandCode": "413",
+      "supplier": "COMERCIAL COPETEC LTDA",
+      "supplierCode": "1498",
+      "manufacturerCode": "RO8536",
+      "category": "POLITRIZ",
+      "categorySlug": "politriz",
+      "path": "/kit-2-escovas-para-uso-politrizes-e-para-7080",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--413--copetec"
+  }
+}

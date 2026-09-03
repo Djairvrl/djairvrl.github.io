@@ -1,0 +1,61 @@
+{
+  "title": "GUINDASTE",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria guindaste em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "GUINDASTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9015",
+      "title": "GUINDASTE DE LANCA GIRAT 1,5T 4MTS",
+      "brand": "PG",
+      "brandCode": "641",
+      "supplier": "PG ELEVACAO DE CARGAS INDUSTRIAIS LTDA.",
+      "supplierCode": "2279",
+      "manufacturerCode": "12PG1503K3K21",
+      "category": "GUINDASTE",
+      "categorySlug": "guindaste",
+      "path": "/guindaste-de-lanca-girat-15t-4mts-9015",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "8947",
+      "title": "GUINDASTE DE LANCA GIRAT 1500KGS ELEV 4M",
+      "brand": "PG",
+      "brandCode": "641",
+      "supplier": "PG ELEVACAO DE CARGAS INDUSTRIAIS LTDA.",
+      "supplierCode": "2279",
+      "manufacturerCode": "8947",
+      "category": "GUINDASTE",
+      "categorySlug": "guindaste",
+      "path": "/guindaste-de-lanca-girat-1500kgs-elev-4m-8947",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--guindaste"
+  }
+}

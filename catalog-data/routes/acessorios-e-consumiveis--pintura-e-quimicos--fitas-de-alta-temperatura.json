@@ -1,0 +1,44 @@
+{
+  "title": "FITAS DE ALTA TEMPERATURA",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria fitas de alta temperatura em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "FITAS DE ALTA TEMPERATURA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11862",
+      "title": "FITA VHB GPH-160GF 25X33M",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "ANAY FITAS COMERCIAL E DISTRIBUIDORA LTDA",
+      "supplierCode": "5342",
+      "manufacturerCode": "23091",
+      "category": "FITAS DE ALTA TEMPERATURA",
+      "categorySlug": "fitas-de-alta-temperatura",
+      "path": "/fita-vhb-gph160gf-25x33m-11862",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--fitas-de-alta-temperatura"
+  }
+}

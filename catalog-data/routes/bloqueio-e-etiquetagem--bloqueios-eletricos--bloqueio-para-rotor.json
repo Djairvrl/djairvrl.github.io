@@ -1,0 +1,44 @@
+{
+  "title": "BLOQUEIO PARA ROTOR",
+  "parentLabel": "Bloqueios Elétricos",
+  "description": "Produtos da categoria bloqueio para rotor em bloqueios elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Bloqueios Elétricos",
+      "to": "/bloqueio-e-etiquetagem/bloqueios-eletricos"
+    },
+    {
+      "label": "BLOQUEIO PARA ROTOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6400",
+      "title": "CHAVE DE BLOQUEIO PARA ROTOR",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "45",
+      "category": "BLOQUEIO PARA ROTOR",
+      "categorySlug": "bloqueio-para-rotor",
+      "path": "/chave-de-bloqueio-para-rotor-6400",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "bloqueio-e-etiquetagem--bloqueios-eletricos--bloqueio-para-rotor"
+  }
+}

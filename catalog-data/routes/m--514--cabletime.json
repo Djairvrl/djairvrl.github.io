@@ -1,0 +1,36 @@
+{
+  "title": "CABLETIME",
+  "parentLabel": "Marca",
+  "description": "Produtos CABLETIME disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CABLETIME"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7612",
+      "title": "CABO USB 4.0 TIPO C THUNDERBOLT 4",
+      "brand": "CABLETIME",
+      "brandCode": "514",
+      "supplier": "RAUL DORNELES DE SOUSA NETO - VIRTUA FX - LTDA",
+      "supplierCode": "1738",
+      "manufacturerCode": "MLB2029321860",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cabo-usb-40-tipo-c-thunderbolt-4-7612",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--514--cabletime"
+  }
+}

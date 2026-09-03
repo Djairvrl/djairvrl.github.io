@@ -1,0 +1,129 @@
+{
+  "title": "SELANTE",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria selante em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "SELANTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7031",
+      "title": "ADESIVO SELANTE MS930 CARTU BRANCO 310ML",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2496647",
+      "category": "SELANTE",
+      "categorySlug": "selante",
+      "path": "/adesivo-selante-ms930-cartu-branco-310ml-7031",
+      "image": "/products/images/0070/7031.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7233",
+      "title": "BORRACHA DE SILICONE ACETICO BRANCO 250G",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "5542",
+      "category": "SELANTE",
+      "categorySlug": "selante",
+      "path": "/borracha-de-silicone-acetico-branco-250g-7233",
+      "image": "/products/images/0072/7233.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8464",
+      "title": "ESPUMA TYTAN PRO30 ANTICHAMA 480G/500ML",
+      "brand": "TYTAN",
+      "brandCode": "597",
+      "supplier": "SELENA SULAMERICANA INDUSTRIA E COMERCIO DE PRODUTOS QUIMICO",
+      "supplierCode": "2107",
+      "manufacturerCode": "040295",
+      "category": "SELANTE",
+      "categorySlug": "selante",
+      "path": "/espuma-tytan-pro30-antichama-480g500ml-8464",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7007",
+      "title": "METAL LIQUIDO BI-COMPONENTE 500G - WURTH - 0893449",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0893449",
+      "category": "SELANTE",
+      "categorySlug": "selante",
+      "path": "/metal-liquido-bicomponente-500g--wurth--0893449-7007",
+      "image": "/products/images/0070/7007.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7231",
+      "title": "ORBIBLACK SELANTE NEUTRO 70G",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "11455",
+      "category": "SELANTE",
+      "categorySlug": "selante",
+      "path": "/orbiblack-selante-neutro-70g-7231",
+      "image": "/products/images/0072/7231.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7230",
+      "title": "ORBIVED SELANTE VERMELHO 50G",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "2",
+      "category": "SELANTE",
+      "categorySlug": "selante",
+      "path": "/orbived-selante-vermelho-50g-7230",
+      "image": "/products/images/0072/7230.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--selante"
+  }
+}

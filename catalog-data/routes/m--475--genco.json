@@ -1,0 +1,36 @@
+{
+  "title": "GENCO",
+  "parentLabel": "Marca",
+  "description": "Produtos GENCO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GENCO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7470",
+      "title": "CLORO TABLETE - GENCO AQUATRAT - 900 G",
+      "brand": "GENCO",
+      "brandCode": "475",
+      "supplier": "EQUIBOMBAS LAZER COMERCIO DE EQUIPAMENTOS E ACESSORIOS PARA",
+      "supplierCode": "1668",
+      "manufacturerCode": "5031",
+      "category": "LIMPADOR",
+      "categorySlug": "limpador",
+      "path": "/cloro-tablete--genco-aquatrat--900-g-7470",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--475--genco"
+  }
+}

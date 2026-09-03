@@ -1,0 +1,420 @@
+{
+  "title": "Organização e Armazenamento",
+  "parentLabel": "Departamento",
+  "description": "Produtos de BLACK  DECKER DO BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento"
+    }
+  ],
+  "children": [
+    {
+      "name": "Organização de Oficina e Bancada",
+      "slug": "organizacao-de-oficina-e-bancada",
+      "path": "/organizacao-e-armazenamento/organizacao-de-oficina-e-bancada",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento e Estruturas de Estoque",
+      "slug": "armazenamento-e-estruturas-de-estoque",
+      "path": "/organizacao-e-armazenamento/armazenamento-e-estruturas-de-estoque",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Movimentação e Intralogística",
+      "slug": "movimentacao-e-intralogistica",
+      "path": "/organizacao-e-armazenamento/movimentacao-e-intralogistica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento",
+      "slug": "armazenamento",
+      "path": "/organizacao-e-armazenamento/armazenamento",
+      "count": 183,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/organizacao-e-armazenamento/armazenamento/acessorios",
+          "count": 24
+        },
+        {
+          "name": "ARMÁRIOS",
+          "slug": "armarios",
+          "path": "/organizacao-e-armazenamento/armazenamento/armarios",
+          "count": 50
+        },
+        {
+          "name": "CAIXAS E CASES",
+          "slug": "caixas-e-cases",
+          "path": "/organizacao-e-armazenamento/armazenamento/caixas-e-cases",
+          "count": 20
+        },
+        {
+          "name": "CARRINHOS DE CARGA",
+          "slug": "carrinhos-de-carga",
+          "path": "/organizacao-e-armazenamento/armazenamento/carrinhos-de-carga",
+          "count": 5
+        },
+        {
+          "name": "EMPILHADEIRAS MANUAIS",
+          "slug": "empilhadeiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/empilhadeiras-manuais",
+          "count": 1
+        },
+        {
+          "name": "ESTANTES",
+          "slug": "estantes",
+          "path": "/organizacao-e-armazenamento/armazenamento/estantes",
+          "count": 24
+        },
+        {
+          "name": "FILME",
+          "slug": "filme",
+          "path": "/organizacao-e-armazenamento/armazenamento/filme",
+          "count": 5
+        },
+        {
+          "name": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+          "slug": "mesas-hidraulicas-pantograficas",
+          "path": "/organizacao-e-armazenamento/armazenamento/mesas-hidraulicas-pantograficas",
+          "count": 1
+        },
+        {
+          "name": "PALETEIRAS ELÉTRICAS",
+          "slug": "paleteiras-eletricas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-eletricas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS HIDRÁULICAS",
+          "slug": "paleteiras-hidraulicas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-hidraulicas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS MANUAIS",
+          "slug": "paleteiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-manuais",
+          "count": 10
+        },
+        {
+          "name": "PALETES PLÁSTICOS",
+          "slug": "paletes-plasticos",
+          "path": "/organizacao-e-armazenamento/armazenamento/paletes-plasticos",
+          "count": 1
+        },
+        {
+          "name": "PISOS MODULARES",
+          "slug": "pisos-modulares",
+          "path": "/organizacao-e-armazenamento/armazenamento/pisos-modulares",
+          "count": 2
+        },
+        {
+          "name": "PORTA PALETES",
+          "slug": "porta-paletes",
+          "path": "/organizacao-e-armazenamento/armazenamento/porta-paletes",
+          "count": 25
+        },
+        {
+          "name": "PRATELEIRA",
+          "slug": "prateleira",
+          "path": "/organizacao-e-armazenamento/armazenamento/prateleira",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Organização",
+      "slug": "organizacao",
+      "path": "/organizacao-e-armazenamento/organizacao",
+      "count": 150,
+      "categories": [
+        {
+          "name": "BANCADAS DE TRABALHO",
+          "slug": "bancadas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/bancadas-de-trabalho",
+          "count": 24
+        },
+        {
+          "name": "BOLSAS PARA FERRAMENTAS",
+          "slug": "bolsas-para-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/bolsas-para-ferramentas",
+          "count": 55
+        },
+        {
+          "name": "CARRINHOS DE FERRAMENTAS",
+          "slug": "carrinhos-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/carrinhos-de-ferramentas",
+          "count": 7
+        },
+        {
+          "name": "CLAVICULARIOS",
+          "slug": "clavicularios",
+          "path": "/organizacao-e-armazenamento/organizacao/clavicularios",
+          "count": 16
+        },
+        {
+          "name": "MALETAS DE TRABALHO",
+          "slug": "maletas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/maletas-de-trabalho",
+          "count": 18
+        },
+        {
+          "name": "ORGANIZADORES",
+          "slug": "organizadores",
+          "path": "/organizacao-e-armazenamento/organizacao/organizadores",
+          "count": 13
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/organizacao-e-armazenamento/organizacao/outros",
+          "count": 8
+        },
+        {
+          "name": "PAINÉIS DE FERRAMENTAS",
+          "slug": "paineis-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/paineis-de-ferramentas",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "412",
+    "name": "BLACK  DECKER DO BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "2610",
+      "title": "BANDEJA MAGNÉTICA RETANGULAR 242X143MM - STANLEY REF. 78-226",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "78-226",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/bandeja-magnetica-retangular-242x143mm--stanley-ref-78226-2610",
+      "image": "/products/images/0026/2610.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "9154",
+      "title": "BOLSA DEWALT MULTITASK COM RODINHAS",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWST82929-LA",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-dewalt-multitask-com-rodinhas-9154",
+      "image": "/products/images/0091/9154.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "5331",
+      "title": "BOLSA PARA FERRAMENTAS 12\" COM 13 BOLSOS - STANLEY STST512114",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "STST512114",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-para-ferramentas-12-com-13-bolsos--stanley-stst512114-5331",
+      "image": "/products/images/0053/5331.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6953",
+      "title": "BOLSA PARA FERRAMENTAS 16\" COM BASE EMBORRACHADA - IRWIN 1868231",
+      "brand": "IRWIN",
+      "brandCode": "256",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "1868231",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-para-ferramentas-16-com-base-emborrachada--irwin-1868231-6953",
+      "image": "/products/images/0069/6953.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "5806",
+      "title": "BOLSA PARA FERRAMENTAS 16\" STANDARD  5 BOLSOS - IRWIN 1870406",
+      "brand": "IRWIN",
+      "brandCode": "256",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "1870406",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-para-ferramentas-16-standard-5-bolsos--irwin-1870406-5806",
+      "image": "/products/images/0058/5806.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "13309",
+      "title": "BOLSA PARA FERRAMENTAS 19 STANLEY",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "STST74319LA",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-para-ferramentas-19-stanley-13309",
+      "image": "/products/images/0133/13309.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "5807",
+      "title": "BOLSA PARA FERRAMENTAS 20\" STANDARD 12 BOLSOS - IRWIN 1868232",
+      "brand": "IRWIN",
+      "brandCode": "256",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "1868232",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-para-ferramentas-20-standard-12-bolsos--irwin-1868232-5807",
+      "image": "/products/images/0058/5807.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "1958",
+      "title": "BOLSA PARA TRANSPORTE DE FERRAMENTAS 16\" - STANLEY  STST516126",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "STST516126",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-para-transporte-de-ferramentas-16--stanley-stst516126-1958",
+      "image": "/products/images/0019/1958.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "10698",
+      "title": "BOLSA PORTA  FERRAMENTAS PRO 20\"",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWST560104",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-porta-ferramentas-pro-20-10698",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "2443",
+      "title": "CAIXA ORGANIZADORA GRANDE SORTMASTER 17 COMPARTIMENTOS - STANLEY STST14026",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "STST14026",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/caixa-organizadora-grande-sortmaster-17-compartimentos--stanley-stst14026-2443",
+      "image": "/products/images/0024/2443.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "9501",
+      "title": "MALA PARA FERRAMENTAS STANDARD 12\" 4 BOLSOS IRWIN REF 1870405",
+      "brand": "IRWIN",
+      "brandCode": "256",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "1870405",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/mala-para-ferramentas-standard-12-4-bolsos-irwin-ref-1870405-9501",
+      "image": "/products/images/0095/9501.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11785",
+      "title": "MOCHILA DEWALT DWST560102",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWST560102",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/mochila-dewalt-dwst560102-11785",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "13353",
+      "title": "MOCHILA MCLAREN DEWALT",
+      "brand": "DEWALT",
+      "brandCode": "138",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "DWST60122-1",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/mochila-mclaren-dewalt-13353",
+      "image": "/products/images/0133/13353.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 13,
+    "pageBase": "organizacao-e-armazenamento--fornecedor-412"
+  }
+}

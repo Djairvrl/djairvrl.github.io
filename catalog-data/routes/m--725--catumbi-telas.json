@@ -1,0 +1,36 @@
+{
+  "title": "CATUMBI TELAS",
+  "parentLabel": "Marca",
+  "description": "Produtos CATUMBI TELAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CATUMBI TELAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9806",
+      "title": "TELA ONDULADA GALV MALHA 2 FIO12 ALT 2MT",
+      "brand": "CATUMBI TELAS",
+      "brandCode": "725",
+      "supplier": "BARALDI MARQUES TELAS LTDA",
+      "supplierCode": "2720",
+      "manufacturerCode": "OND2122000",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-ondulada-galv-malha-2-fio12-alt-2mt-9806",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--725--catumbi-telas"
+  }
+}

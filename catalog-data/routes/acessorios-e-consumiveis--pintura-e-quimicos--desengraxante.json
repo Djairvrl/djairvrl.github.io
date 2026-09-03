@@ -1,0 +1,112 @@
+{
+  "title": "DESENGRAXANTE",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria desengraxante em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "DESENGRAXANTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7731",
+      "title": "CLARUS RUSTYMAX RAC-05 / 1 L",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CLARUS TECHNOLOGY DO BRASIL LTDA",
+      "supplierCode": "1799",
+      "manufacturerCode": "05.01.0004-010",
+      "category": "DESENGRAXANTE",
+      "categorySlug": "desengraxante",
+      "path": "/clarus-rustymax-rac05-1-l-7731",
+      "image": "/products/images/0077/7731.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12987",
+      "title": "DESENGRAXANTE EXPRESS 500 ML/310G",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0890107433",
+      "category": "DESENGRAXANTE",
+      "categorySlug": "desengraxante",
+      "path": "/desengraxante-express-500-ml310g-12987",
+      "image": "/products/images/0129/12987.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5658",
+      "title": "DESENGRAXANTE SPRAY SF 7070  400ML -  LOCTITE",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "233554",
+      "category": "DESENGRAXANTE",
+      "categorySlug": "desengraxante",
+      "path": "/desengraxante-spray-sf-7070-400ml--loctite-5658",
+      "image": "/products/images/0056/5658.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11047",
+      "title": "LIMPA FREIOS E PES BASIC 500ML/342G",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0890108011",
+      "category": "DESENGRAXANTE",
+      "categorySlug": "desengraxante",
+      "path": "/limpa-freios-e-pes-basic-500ml342g-11047",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "9859",
+      "title": "ORBI CAR 2000-DESCARBONIZANTE 300ML/209G",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "OFICINA DOS BITS LTDA",
+      "supplierCode": "1454",
+      "manufacturerCode": "80.85.000.026",
+      "category": "DESENGRAXANTE",
+      "categorySlug": "desengraxante",
+      "path": "/orbi-car-2000descarbonizante-300ml209g-9859",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--desengraxante"
+  }
+}

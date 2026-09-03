@@ -1,0 +1,36 @@
+{
+  "title": "MULTIPANO",
+  "parentLabel": "Marca",
+  "description": "Produtos MULTIPANO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MULTIPANO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13097",
+      "title": "TOALHA DESC. MULTIPANO 28X28 C/600UN",
+      "brand": "MULTIPANO",
+      "brandCode": "1182",
+      "supplier": "EXCLEAN LTDA",
+      "supplierCode": "6088",
+      "manufacturerCode": "5308",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/toalha-desc-multipano-28x28-c600un-13097",
+      "image": "/products/images/0130/13097.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1182--multipano"
+  }
+}

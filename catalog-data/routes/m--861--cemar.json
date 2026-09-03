@@ -1,0 +1,36 @@
+{
+  "title": "CEMAR",
+  "parentLabel": "Marca",
+  "description": "Produtos CEMAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CEMAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11037",
+      "title": "CAIXA DE PASSAGEM EMB.300X300X90",
+      "brand": "CEMAR",
+      "brandCode": "861",
+      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "supplierCode": "631",
+      "manufacturerCode": "7579",
+      "category": "CAIXA DE PASSAGEM",
+      "categorySlug": "caixa-de-passagem",
+      "path": "/caixa-de-passagem-emb300x300x90-11037",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--861--cemar"
+  }
+}

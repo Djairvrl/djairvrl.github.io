@@ -1,0 +1,44 @@
+{
+  "title": "TESOURA",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria tesoura em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "TESOURA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5801",
+      "title": "TESOURA DE PODA 12V PRO S/ BATERIA",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06019K10E0000",
+      "category": "TESOURA",
+      "categorySlug": "tesoura",
+      "path": "/tesoura-de-poda-12v-pro-s-bateria-5801",
+      "image": "/products/images/0058/5801.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-eletricas--tesoura"
+  }
+}

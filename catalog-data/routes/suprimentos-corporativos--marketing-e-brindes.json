@@ -1,0 +1,22 @@
+{
+  "title": "Marketing e Brindes",
+  "parentLabel": "Suprimentos Corporativos",
+  "description": "Soluções de marketing e brindes disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Marketing e Brindes"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "suprimentos-corporativos--marketing-e-brindes"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ARDUT",
+  "parentLabel": "Marca",
+  "description": "Produtos ARDUT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ARDUT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12087",
+      "title": "FITA ADESIVA BOPP ALUMINIZADA 48MM X 50M",
+      "brand": "ARDUT",
+      "brandCode": "1029",
+      "supplier": "ARDUT COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2622",
+      "manufacturerCode": "AV02050001",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/fita-adesiva-bopp-aluminizada-48mm-x-50m-12087",
+      "image": "/products/images/0120/12087.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1029--ardut"
+  }
+}

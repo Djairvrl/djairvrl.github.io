@@ -1,0 +1,36 @@
+{
+  "title": "ACO FORTE",
+  "parentLabel": "Marca",
+  "description": "Produtos ACO FORTE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ACO FORTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12779",
+      "title": "CHAVE DE PRECISAO 11 PCS CM36 ACO FORTE",
+      "brand": "ACO FORTE",
+      "brandCode": "1134",
+      "supplier": "BARBARA ESTELA FELIX RAMOS ARAGAO LTDA",
+      "supplierCode": "5926",
+      "manufacturerCode": "25550",
+      "category": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+      "categorySlug": "manutencao-tecnica-de-informatica",
+      "path": "/chave-de-precisao-11-pcs-cm36-aco-forte-12779",
+      "image": "/products/images/0127/12779.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1134--aco-forte"
+  }
+}

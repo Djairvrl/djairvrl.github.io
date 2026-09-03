@@ -1,0 +1,36 @@
+{
+  "title": "HEALTH & SAFETY",
+  "parentLabel": "Marca",
+  "description": "Produtos HEALTH & SAFETY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HEALTH & SAFETY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7580",
+      "title": "BAFOMETRO PASSIVO - IBLOW 10",
+      "brand": "HEALTH & SAFETY",
+      "brandCode": "507",
+      "supplier": "HEALTH & SAFETY DISTRIBUICAO IMPORTACAO",
+      "supplierCode": "1710",
+      "manufacturerCode": "IBLOW10",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/bafometro-passivo--iblow-10-7580",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--507--health-safety"
+  }
+}

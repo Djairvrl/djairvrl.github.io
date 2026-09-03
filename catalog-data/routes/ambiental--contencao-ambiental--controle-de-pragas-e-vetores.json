@@ -1,0 +1,61 @@
+{
+  "title": "CONTROLE DE PRAGAS E VETORES",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria controle de pragas e vetores em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "CONTROLE DE PRAGAS E VETORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10696",
+      "title": "ARMADILHA LATERAL NEW COMPACT 15 BIVOLT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "UL BRASIL INDUSTRIA E COMERCIO DE ARMADILHAS LUMINOSAS LTDA",
+      "supplierCode": "3989",
+      "manufacturerCode": "11800-COMPACT-15",
+      "category": "CONTROLE DE PRAGAS E VETORES",
+      "categorySlug": "controle-de-pragas-e-vetores",
+      "path": "/armadilha-lateral-new-compact-15-bivolt-10696",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "13215",
+      "title": "VENTILADOR REPELENTE PORTATIL MOOD UV",
+      "brand": "MOOD",
+      "brandCode": "1201",
+      "supplier": "GOEDERT LTDA",
+      "supplierCode": "6172",
+      "manufacturerCode": "57064",
+      "category": "CONTROLE DE PRAGAS E VETORES",
+      "categorySlug": "controle-de-pragas-e-vetores",
+      "path": "/ventilador-repelente-portatil-mood-uv-13215",
+      "image": "/products/images/0132/13215.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ambiental--contencao-ambiental--controle-de-pragas-e-vetores"
+  }
+}

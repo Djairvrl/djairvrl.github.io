@@ -1,0 +1,1534 @@
+{
+  "title": "Ferramentas",
+  "parentLabel": "Departamento",
+  "description": "Produtos de ROBERT BOSCH LIMITADA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas"
+    }
+  ],
+  "children": [
+    {
+      "name": "Ferramentas Elétricas",
+      "slug": "ferramentas-eletricas",
+      "path": "/ferramentas/ferramentas-eletricas",
+      "count": 391,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+          "slug": "acessorios-para-ferramentas-eletricas",
+          "path": "/ferramentas/ferramentas-eletricas/acessorios-para-ferramentas-eletricas",
+          "count": 16
+        },
+        {
+          "name": "AQUECEDORES INDUTIVOS",
+          "slug": "aquecedores-indutivos",
+          "path": "/ferramentas/ferramentas-eletricas/aquecedores-indutivos",
+          "count": 2
+        },
+        {
+          "name": "ASPIRADORES E EXTRATORES",
+          "slug": "aspiradores-e-extratores",
+          "path": "/ferramentas/ferramentas-eletricas/aspiradores-e-extratores",
+          "count": 1
+        },
+        {
+          "name": "BATERIA E CARREGADORES",
+          "slug": "bateria-e-carregadores",
+          "path": "/ferramentas/ferramentas-eletricas/bateria-e-carregadores",
+          "count": 75
+        },
+        {
+          "name": "CHAVES DE IMPACTO",
+          "slug": "chaves-de-impacto",
+          "path": "/ferramentas/ferramentas-eletricas/chaves-de-impacto",
+          "count": 42
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-eletricas/cortador",
+          "count": 6
+        },
+        {
+          "name": "ESMERIL DE BANCADA",
+          "slug": "esmeril-de-bancada",
+          "path": "/ferramentas/ferramentas-eletricas/esmeril-de-bancada",
+          "count": 5
+        },
+        {
+          "name": "ESMERILHADEIRA",
+          "slug": "esmerilhadeira",
+          "path": "/ferramentas/ferramentas-eletricas/esmerilhadeira",
+          "count": 40
+        },
+        {
+          "name": "FERRAMENTA DE ILUMINAÇÃO",
+          "slug": "ferramenta-de-iluminacao",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-de-iluminacao",
+          "count": 7
+        },
+        {
+          "name": "FERRAMENTA ROTATIVA",
+          "slug": "ferramenta-rotativa",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-rotativa",
+          "count": 1
+        },
+        {
+          "name": "FURADEIRA",
+          "slug": "furadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira",
+          "count": 31
+        },
+        {
+          "name": "FURADEIRA/PARAFUSADEIRA",
+          "slug": "furadeira-parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira-parafusadeira",
+          "count": 30
+        },
+        {
+          "name": "GRAVADOR",
+          "slug": "gravador",
+          "path": "/ferramentas/ferramentas-eletricas/gravador",
+          "count": 1
+        },
+        {
+          "name": "JARDINAGEM",
+          "slug": "jardinagem",
+          "path": "/ferramentas/ferramentas-eletricas/jardinagem",
+          "count": 1
+        },
+        {
+          "name": "LIXADEIRAS",
+          "slug": "lixadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/lixadeiras",
+          "count": 13
+        },
+        {
+          "name": "MARTELETES",
+          "slug": "marteletes",
+          "path": "/ferramentas/ferramentas-eletricas/marteletes",
+          "count": 8
+        },
+        {
+          "name": "MARTELOS",
+          "slug": "martelos",
+          "path": "/ferramentas/ferramentas-eletricas/martelos",
+          "count": 11
+        },
+        {
+          "name": "MICRO RETIFICA",
+          "slug": "micro-retifica",
+          "path": "/ferramentas/ferramentas-eletricas/micro-retifica",
+          "count": 3
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/ferramentas/ferramentas-eletricas/misturador",
+          "count": 1
+        },
+        {
+          "name": "MOTOSSERRA",
+          "slug": "motosserra",
+          "path": "/ferramentas/ferramentas-eletricas/motosserra",
+          "count": 1
+        },
+        {
+          "name": "PARAFUSADEIRA",
+          "slug": "parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/parafusadeira",
+          "count": 8
+        },
+        {
+          "name": "PEÇAS DE REPOSIÇÃO",
+          "slug": "pecas-de-reposicao",
+          "path": "/ferramentas/ferramentas-eletricas/pecas-de-reposicao",
+          "count": 18
+        },
+        {
+          "name": "PISTOLA CALAFETADORA",
+          "slug": "pistola-calafetadora",
+          "path": "/ferramentas/ferramentas-eletricas/pistola-calafetadora",
+          "count": 2
+        },
+        {
+          "name": "PLAINAS",
+          "slug": "plainas",
+          "path": "/ferramentas/ferramentas-eletricas/plainas",
+          "count": 3
+        },
+        {
+          "name": "PNEUMÁTICO",
+          "slug": "pneumatico",
+          "path": "/ferramentas/ferramentas-eletricas/pneumatico",
+          "count": 2
+        },
+        {
+          "name": "POLITRIZ",
+          "slug": "politriz",
+          "path": "/ferramentas/ferramentas-eletricas/politriz",
+          "count": 2
+        },
+        {
+          "name": "RETIFICA",
+          "slug": "retifica",
+          "path": "/ferramentas/ferramentas-eletricas/retifica",
+          "count": 3
+        },
+        {
+          "name": "SERRAS",
+          "slug": "serras",
+          "path": "/ferramentas/ferramentas-eletricas/serras",
+          "count": 24
+        },
+        {
+          "name": "SOPRADORES",
+          "slug": "sopradores",
+          "path": "/ferramentas/ferramentas-eletricas/sopradores",
+          "count": 21
+        },
+        {
+          "name": "SUPORTE",
+          "slug": "suporte",
+          "path": "/ferramentas/ferramentas-eletricas/suporte",
+          "count": 3
+        },
+        {
+          "name": "TESOURA",
+          "slug": "tesoura",
+          "path": "/ferramentas/ferramentas-eletricas/tesoura",
+          "count": 1
+        },
+        {
+          "name": "TORQUEADEIRAS",
+          "slug": "torqueadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/torqueadeiras",
+          "count": 4
+        },
+        {
+          "name": "TUPIAS",
+          "slug": "tupias",
+          "path": "/ferramentas/ferramentas-eletricas/tupias",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES PORTÁTEIS",
+          "slug": "ventiladores-portateis",
+          "path": "/ferramentas/ferramentas-eletricas/ventiladores-portateis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas de Jardinagem",
+      "slug": "ferramentas-de-jardinagem",
+      "path": "/ferramentas/ferramentas-de-jardinagem",
+      "count": 48,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/ferramentas/ferramentas-de-jardinagem/acessorios",
+          "count": 16
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/mangueiras",
+          "count": 5
+        },
+        {
+          "name": "PULVERIZADORES",
+          "slug": "pulverizadores",
+          "path": "/ferramentas/ferramentas-de-jardinagem/pulverizadores",
+          "count": 17
+        },
+        {
+          "name": "ROÇADEIRAS",
+          "slug": "rocadeiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/rocadeiras",
+          "count": 6
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/tesouras",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas Manuais",
+      "slug": "ferramentas-manuais",
+      "path": "/ferramentas/ferramentas-manuais",
+      "count": 1843,
+      "categories": [
+        {
+          "name": "ALICATES",
+          "slug": "alicates",
+          "path": "/ferramentas/ferramentas-manuais/alicates",
+          "count": 116
+        },
+        {
+          "name": "APLICADORES",
+          "slug": "aplicadores",
+          "path": "/ferramentas/ferramentas-manuais/aplicadores",
+          "count": 8
+        },
+        {
+          "name": "ARCOS DE SERRA",
+          "slug": "arcos-de-serra",
+          "path": "/ferramentas/ferramentas-manuais/arcos-de-serra",
+          "count": 12
+        },
+        {
+          "name": "AUTOMOTIVAS",
+          "slug": "automotivas",
+          "path": "/ferramentas/ferramentas-manuais/automotivas",
+          "count": 52
+        },
+        {
+          "name": "CAIXAS DE FERRAMENTAS",
+          "slug": "caixas-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/caixas-de-ferramentas",
+          "count": 11
+        },
+        {
+          "name": "CARRINHO",
+          "slug": "carrinho",
+          "path": "/ferramentas/ferramentas-manuais/carrinho",
+          "count": 3
+        },
+        {
+          "name": "CHAVES AXIAIS E MISTAS",
+          "slug": "chaves-axiais-e-mistas",
+          "path": "/ferramentas/ferramentas-manuais/chaves-axiais-e-mistas",
+          "count": 210
+        },
+        {
+          "name": "CHAVES RADIAIS",
+          "slug": "chaves-radiais",
+          "path": "/ferramentas/ferramentas-manuais/chaves-radiais",
+          "count": 271
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-manuais/cortador",
+          "count": 11
+        },
+        {
+          "name": "COSSINETES",
+          "slug": "cossinetes",
+          "path": "/ferramentas/ferramentas-manuais/cossinetes",
+          "count": 16
+        },
+        {
+          "name": "DESENCAPADORES",
+          "slug": "desencapadores",
+          "path": "/ferramentas/ferramentas-manuais/desencapadores",
+          "count": 3
+        },
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/ferramentas/ferramentas-manuais/diversos",
+          "count": 9
+        },
+        {
+          "name": "EXTRATORES",
+          "slug": "extratores",
+          "path": "/ferramentas/ferramentas-manuais/extratores",
+          "count": 23
+        },
+        {
+          "name": "FACA E CANIVETE",
+          "slug": "faca-e-canivete",
+          "path": "/ferramentas/ferramentas-manuais/faca-e-canivete",
+          "count": 10
+        },
+        {
+          "name": "FERRAMENTAS ISOLADAS",
+          "slug": "ferramentas-isoladas",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-isoladas",
+          "count": 192
+        },
+        {
+          "name": "FERRAMENTAS PARA TUBO",
+          "slug": "ferramentas-para-tubo",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-para-tubo",
+          "count": 20
+        },
+        {
+          "name": "FORMÕES",
+          "slug": "formoes",
+          "path": "/ferramentas/ferramentas-manuais/formoes",
+          "count": 2
+        },
+        {
+          "name": "FUNIL",
+          "slug": "funil",
+          "path": "/ferramentas/ferramentas-manuais/funil",
+          "count": 8
+        },
+        {
+          "name": "GRAMPEADOR",
+          "slug": "grampeador",
+          "path": "/ferramentas/ferramentas-manuais/grampeador",
+          "count": 6
+        },
+        {
+          "name": "GRAMPOS",
+          "slug": "grampos",
+          "path": "/ferramentas/ferramentas-manuais/grampos",
+          "count": 16
+        },
+        {
+          "name": "JOGO DE FERRAMENTAS",
+          "slug": "jogo-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/jogo-de-ferramentas",
+          "count": 18
+        },
+        {
+          "name": "LIMA",
+          "slug": "lima",
+          "path": "/ferramentas/ferramentas-manuais/lima",
+          "count": 16
+        },
+        {
+          "name": "MACHADOS E MACHADINHAS",
+          "slug": "machados-e-machadinhas",
+          "path": "/ferramentas/ferramentas-manuais/machados-e-machadinhas",
+          "count": 3
+        },
+        {
+          "name": "MARRETAS",
+          "slug": "marretas",
+          "path": "/ferramentas/ferramentas-manuais/marretas",
+          "count": 31
+        },
+        {
+          "name": "MARTELETE",
+          "slug": "martelete",
+          "path": "/ferramentas/ferramentas-manuais/martelete",
+          "count": 1
+        },
+        {
+          "name": "MARTELO",
+          "slug": "martelo",
+          "path": "/ferramentas/ferramentas-manuais/martelo",
+          "count": 50
+        },
+        {
+          "name": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+          "slug": "pistola-de-fixacao-a-polvora",
+          "path": "/ferramentas/ferramentas-manuais/pistola-de-fixacao-a-polvora",
+          "count": 3
+        },
+        {
+          "name": "PONTEIRAS",
+          "slug": "ponteiras",
+          "path": "/ferramentas/ferramentas-manuais/ponteiras",
+          "count": 1
+        },
+        {
+          "name": "PUNÇÕES",
+          "slug": "puncoes",
+          "path": "/ferramentas/ferramentas-manuais/puncoes",
+          "count": 6
+        },
+        {
+          "name": "SACA PINO",
+          "slug": "saca-pino",
+          "path": "/ferramentas/ferramentas-manuais/saca-pino",
+          "count": 1
+        },
+        {
+          "name": "SACA POLIA",
+          "slug": "saca-polia",
+          "path": "/ferramentas/ferramentas-manuais/saca-polia",
+          "count": 15
+        },
+        {
+          "name": "SERRA MANUAL",
+          "slug": "serra-manual",
+          "path": "/ferramentas/ferramentas-manuais/serra-manual",
+          "count": 4
+        },
+        {
+          "name": "SOQUETES E ACESSÓRIOS",
+          "slug": "soquetes-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/soquetes-e-acessorios",
+          "count": 517
+        },
+        {
+          "name": "TALHADEIRAS",
+          "slug": "talhadeiras",
+          "path": "/ferramentas/ferramentas-manuais/talhadeiras",
+          "count": 12
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-manuais/tesouras",
+          "count": 8
+        },
+        {
+          "name": "TORNO",
+          "slug": "torno",
+          "path": "/ferramentas/ferramentas-manuais/torno",
+          "count": 9
+        },
+        {
+          "name": "TORQUIMETROS",
+          "slug": "torquimetros",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros",
+          "count": 4
+        },
+        {
+          "name": "TORQUÊS",
+          "slug": "torques",
+          "path": "/ferramentas/ferramentas-manuais/torques",
+          "count": 5
+        },
+        {
+          "name": "TORQUÍMETROS E ACESSÓRIOS",
+          "slug": "torquimetros-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros-e-acessorios",
+          "count": 138
+        }
+      ]
+    },
+    {
+      "name": "Construção Civil",
+      "slug": "construcao-civil",
+      "path": "/ferramentas/construcao-civil",
+      "count": 275,
+      "categories": [
+        {
+          "name": "ABERTURAS",
+          "slug": "aberturas",
+          "path": "/ferramentas/construcao-civil/aberturas",
+          "count": 1
+        },
+        {
+          "name": "ALAVANCA",
+          "slug": "alavanca",
+          "path": "/ferramentas/construcao-civil/alavanca",
+          "count": 4
+        },
+        {
+          "name": "APLICADOR",
+          "slug": "aplicador",
+          "path": "/ferramentas/construcao-civil/aplicador",
+          "count": 5
+        },
+        {
+          "name": "ARAMES",
+          "slug": "arames",
+          "path": "/ferramentas/construcao-civil/arames",
+          "count": 10
+        },
+        {
+          "name": "BALDE",
+          "slug": "balde",
+          "path": "/ferramentas/construcao-civil/balde",
+          "count": 12
+        },
+        {
+          "name": "BETONEIRAS",
+          "slug": "betoneiras",
+          "path": "/ferramentas/construcao-civil/betoneiras",
+          "count": 2
+        },
+        {
+          "name": "CADEADO",
+          "slug": "cadeado",
+          "path": "/ferramentas/construcao-civil/cadeado",
+          "count": 33
+        },
+        {
+          "name": "CARRO DE MÃO, JERICA E PLATAFORMA",
+          "slug": "carro-de-mao-jerica-e-plataforma",
+          "path": "/ferramentas/construcao-civil/carro-de-mao-jerica-e-plataforma",
+          "count": 11
+        },
+        {
+          "name": "CAVADEIRA",
+          "slug": "cavadeira",
+          "path": "/ferramentas/construcao-civil/cavadeira",
+          "count": 4
+        },
+        {
+          "name": "COLHER DE PEDREIRO",
+          "slug": "colher-de-pedreiro",
+          "path": "/ferramentas/construcao-civil/colher-de-pedreiro",
+          "count": 7
+        },
+        {
+          "name": "CONCRETO E ARGAMASSA",
+          "slug": "concreto-e-argamassa",
+          "path": "/ferramentas/construcao-civil/concreto-e-argamassa",
+          "count": 1
+        },
+        {
+          "name": "CORRENTES DE USO GERAL",
+          "slug": "correntes-de-uso-geral",
+          "path": "/ferramentas/construcao-civil/correntes-de-uso-geral",
+          "count": 12
+        },
+        {
+          "name": "CORTA VERGALHÃO",
+          "slug": "corta-vergalhao",
+          "path": "/ferramentas/construcao-civil/corta-vergalhao",
+          "count": 14
+        },
+        {
+          "name": "DESEMPENADEIRAS",
+          "slug": "desempenadeiras",
+          "path": "/ferramentas/construcao-civil/desempenadeiras",
+          "count": 9
+        },
+        {
+          "name": "ENXADAS",
+          "slug": "enxadas",
+          "path": "/ferramentas/construcao-civil/enxadas",
+          "count": 6
+        },
+        {
+          "name": "ESCADAS",
+          "slug": "escadas",
+          "path": "/ferramentas/construcao-civil/escadas",
+          "count": 47
+        },
+        {
+          "name": "ESPATULAS",
+          "slug": "espatulas",
+          "path": "/ferramentas/construcao-civil/espatulas",
+          "count": 1
+        },
+        {
+          "name": "ESPAÇADOR",
+          "slug": "espacador",
+          "path": "/ferramentas/construcao-civil/espacador",
+          "count": 1
+        },
+        {
+          "name": "ESPUMA EXPANSIVA",
+          "slug": "espuma-expansiva",
+          "path": "/ferramentas/construcao-civil/espuma-expansiva",
+          "count": 4
+        },
+        {
+          "name": "FOICES",
+          "slug": "foices",
+          "path": "/ferramentas/construcao-civil/foices",
+          "count": 2
+        },
+        {
+          "name": "FURADOR E CORTADOR",
+          "slug": "furador-e-cortador",
+          "path": "/ferramentas/construcao-civil/furador-e-cortador",
+          "count": 3
+        },
+        {
+          "name": "LIMPEZA",
+          "slug": "limpeza",
+          "path": "/ferramentas/construcao-civil/limpeza",
+          "count": 1
+        },
+        {
+          "name": "LONA",
+          "slug": "lona",
+          "path": "/ferramentas/construcao-civil/lona",
+          "count": 14
+        },
+        {
+          "name": "LÁPIS",
+          "slug": "lapis",
+          "path": "/ferramentas/construcao-civil/lapis",
+          "count": 2
+        },
+        {
+          "name": "MISTURADORES",
+          "slug": "misturadores",
+          "path": "/ferramentas/construcao-civil/misturadores",
+          "count": 5
+        },
+        {
+          "name": "MÁQUINA",
+          "slug": "maquina",
+          "path": "/ferramentas/construcao-civil/maquina",
+          "count": 1
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/ferramentas/construcao-civil/outros",
+          "count": 5
+        },
+        {
+          "name": "PE-DE-CABRA",
+          "slug": "pe-de-cabra",
+          "path": "/ferramentas/construcao-civil/pe-de-cabra",
+          "count": 4
+        },
+        {
+          "name": "PICARETA",
+          "slug": "picareta",
+          "path": "/ferramentas/construcao-civil/picareta",
+          "count": 3
+        },
+        {
+          "name": "PLACA VIBRATÓRIA",
+          "slug": "placa-vibratoria",
+          "path": "/ferramentas/construcao-civil/placa-vibratoria",
+          "count": 1
+        },
+        {
+          "name": "PONTEIRA E TALHADEIRA",
+          "slug": "ponteira-e-talhadeira",
+          "path": "/ferramentas/construcao-civil/ponteira-e-talhadeira",
+          "count": 15
+        },
+        {
+          "name": "PREGO",
+          "slug": "prego",
+          "path": "/ferramentas/construcao-civil/prego",
+          "count": 5
+        },
+        {
+          "name": "PÁ",
+          "slug": "pa",
+          "path": "/ferramentas/construcao-civil/pa",
+          "count": 4
+        },
+        {
+          "name": "RASTELO",
+          "slug": "rastelo",
+          "path": "/ferramentas/construcao-civil/rastelo",
+          "count": 2
+        },
+        {
+          "name": "RÉGUA, PRUMO E LINHA",
+          "slug": "regua-prumo-e-linha",
+          "path": "/ferramentas/construcao-civil/regua-prumo-e-linha",
+          "count": 11
+        },
+        {
+          "name": "SERROTES",
+          "slug": "serrotes",
+          "path": "/ferramentas/construcao-civil/serrotes",
+          "count": 6
+        },
+        {
+          "name": "VENTOSAS",
+          "slug": "ventosas",
+          "path": "/ferramentas/construcao-civil/ventosas",
+          "count": 1
+        },
+        {
+          "name": "VIBRADORES DE CONCRETO",
+          "slug": "vibradores-de-concreto",
+          "path": "/ferramentas/construcao-civil/vibradores-de-concreto",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Lubrificação e Abastecimento",
+      "slug": "ferramentas-lubrificacao-e-abastecimento",
+      "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento",
+      "count": 44,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+          "slug": "acessorios-de-lubrificacao-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/acessorios-de-lubrificacao-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BICOS DE ABASTECIMENTO",
+          "slug": "bicos-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bicos-de-abastecimento",
+          "count": 2
+        },
+        {
+          "name": "BOMBAS DE ABASTECIMENTO",
+          "slug": "bombas-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BOMBAS DE GRAXA ELÉTRICAS",
+          "slug": "bombas-de-graxa-eletricas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-eletricas",
+          "count": 4
+        },
+        {
+          "name": "BOMBAS DE GRAXA MANUAL",
+          "slug": "bombas-de-graxa-manual",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-manual",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE GRAXA PNEUMÁTICAS",
+          "slug": "bombas-de-graxa-pneumaticas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-pneumaticas",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TRANSFERÊNCIA",
+          "slug": "bombas-de-transferencia",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-transferencia",
+          "count": 6
+        },
+        {
+          "name": "FILTROS E ELEMENTOS FILTRANTES",
+          "slug": "filtros-e-elementos-filtrantes",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/filtros-e-elementos-filtrantes",
+          "count": 1
+        },
+        {
+          "name": "LUBRIFICADORES DE ÓLEO",
+          "slug": "lubrificadores-de-oleo",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/lubrificadores-de-oleo",
+          "count": 5
+        },
+        {
+          "name": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+          "slug": "pistolas-de-lubrificacao-eletrica",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/pistolas-de-lubrificacao-eletrica",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "432",
+    "name": "ROBERT BOSCH LIMITADA"
+  },
+  "products": [
+    {
+      "code": "3400",
+      "title": "BATERIA DE LÍTIO GBA 12V MAX 2.0AH PROFESSIONAL - BOSCH 1600A0021D",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "1600A0021D000",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-de-litio-gba-12v-max-20ah-professional--bosch-1600a0021d-3400",
+      "image": "/products/images/0034/3400.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2382",
+      "title": "BATERIA GBA LI-ON 18V 4.0AH COM SISTEMA DE RESFRIAMENTO COOLPACK - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "1600Z00038000",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-gba-lion-18v-40ah-com-sistema-de-resfriamento-coolpack--bosch-2382",
+      "image": "/products/images/0023/2382.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3061",
+      "title": "BATERIA LION 0Z00 GBA 18V 2.0AH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "1600Z00036000",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-lion-0z00-gba-18v-20ah-3061",
+      "image": "/products/images/0030/3061.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5617",
+      "title": "CARREGADOR BR 18V/220V GAL1880 CV",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "1600A015TJ000",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-br-18v220v-gal1880-cv-5617",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2816",
+      "title": "CARREGADOR BR 18V/220V GAL1880 RAPIDO",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "2607225935000",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-br-18v220v-gal1880-rapido-2816",
+      "image": "/products/images/0028/2816.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3102",
+      "title": "CHAVE DE IMPACT. S/BATERIA GDS 18V-LI HT",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019B1300000",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impact-sbateria-gds-18vli-ht-3102",
+      "image": "/products/images/0031/3102.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1099",
+      "title": "CHAVE DE IMPACTO 18V 180NM COM 2 BATERIAS 2.0AH CARREGADOR BIVOLT E MALETA GDX 180-LI - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019G52E0000",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-18v-180nm-com-2-baterias-20ah-carregador-bivolt-e-maleta-gdx-180li--bosch-1099",
+      "image": "/products/images/0010/1099.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4629",
+      "title": "CHAVE DE IMPACTO BAT 3/4\"18V GDS 18V1050",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019J85E1000",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-bat-3418v-gds-18v1050-4629",
+      "image": "/products/images/0046/4629.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4017",
+      "title": "CHAVE DE IMPACTO GDX 18V-200",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019N21E5000",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/chave-de-impacto-gdx-18v200-4017",
+      "image": "/products/images/0040/4017.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4614",
+      "title": "COMBO CARREGADOR GAL 12V-20 + 2 BATERIAS 12V 2,0AH - BOSCH 1600A021KS",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "1600A021KS000",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/combo-carregador-gal-12v20-2-baterias-12v-20ah--bosch-1600a021ks-4614",
+      "image": "/products/images/0046/4614.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4018",
+      "title": "COMBO CHAVE DE IMP GDX 18V-200+2 BAT 4AH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "4018",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/combo-chave-de-imp-gdx-18v2002-bat-4ah-4018",
+      "image": "/products/images/0040/4018.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4118",
+      "title": "COMBO CHAVE DE IMPACTO GDS 18V-LI HT + 2 BATERIA 18V 4AH + CARREGADOR GAL 18V-20 - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "4118",
+      "category": "CHAVES DE IMPACTO",
+      "categorySlug": "chaves-de-impacto",
+      "path": "/combo-chave-de-impacto-gds-18vli-ht-2-bateria-18v-4ah-carregador-gal-18v20--bosch-4118",
+      "image": "/products/images/0041/4118.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3435",
+      "title": "COMBO PARAF GSB 120LI + GDR 120LI",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019G81E3000",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/combo-paraf-gsb-120li-gdr-120li-3435",
+      "image": "/products/images/0034/3435.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9017",
+      "title": "COMBO SERRA CIRCULAR GKS 18V-57 2/B 4AH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "9017",
+      "category": "SERRAS",
+      "categorySlug": "serras",
+      "path": "/combo-serra-circular-gks-18v57-2b-4ah-9017",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5630",
+      "title": "CORTADORA DE METAL GCO 220",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "0601B371E0000",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortadora-de-metal-gco-220-5630",
+      "image": "/products/images/0056/5630.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10886",
+      "title": "ESCARIADOR 9901 CARBTUNG 1/8",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "2615.009.901-000",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/escariador-9901-carbtung-18-10886",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "914",
+      "title": "ESMERILHADEIRA ANGULAR 4.1/2\"(115MM) 830W COM 2 DISCOS E BOLSA 9004 - SKIL",
+      "brand": "SKIL",
+      "brandCode": "75",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "F0129004JU000",
+      "category": "ESMERILHADEIRA",
+      "categorySlug": "esmerilhadeira",
+      "path": "/esmerilhadeira-angular-412115mm-830w-com-2-discos-e-bolsa-9004--skil-914",
+      "image": "/products/images/0009/914.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1067",
+      "title": "FURADEIRA DE IMPACTO 6555 13MM 570W + 14BROCAS 220V - SKIL  F0126555JK",
+      "brand": "SKIL",
+      "brandCode": "75",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "F0126555JK000",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-de-impacto-6555-13mm-570w-14brocas-220v--skil-f0126555jk-1067",
+      "image": "/products/images/0010/1067.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4401",
+      "title": "FURADEIRA DE IMPACTO GSB 13 RE 220V CX P",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "060123D5E0000",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-de-impacto-gsb-13-re-220v-cx-p-4401",
+      "image": "/products/images/0044/4401.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10187",
+      "title": "FURADEIRA DE IMPACTO GSB 16RE",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06012281E1000",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-de-impacto-gsb-16re-10187",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "924",
+      "title": "FURADEIRA DE IMPACTO GSB-13RE 1/2\"(13MM) 650W 220V - BOSCH -060123D5E2000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "060123D5E2000",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-de-impacto-gsb13re-1213mm-650w-220v--bosch-060123d5e2000-924",
+      "image": "/products/images/0009/924.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4909",
+      "title": "FURADEIRA IMPACT GSB 450W RE + BROCAS",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06011B50E1000",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furadeira-impact-gsb-450w-re-brocas-4909",
+      "image": "/products/images/0049/4909.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3972",
+      "title": "KIT DE PONTAS E SOQUETES EXTRA HARD COM 43 PEÇAS - BOSCH 2607017164",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "2607017164000",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/kit-de-pontas-e-soquetes-extra-hard-com-43-pecas--bosch-2607017164-3972",
+      "image": "/products/images/0039/3972.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3062",
+      "title": "LIXADEIRA ANGULAR 7\" GWS 22 U 220V 2200W - BOSCH 06018F90E0000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06018F90E0000",
+      "category": "LIXADEIRAS",
+      "categorySlug": "lixadeiras",
+      "path": "/lixadeira-angular-7-gws-22-u-220v-2200w--bosch-06018f90e0000-3062",
+      "image": "/products/images/0030/3062.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4009",
+      "title": "LIXADEIRA ORBITAL GSS1401A 220V",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06012A21E0000",
+      "category": "LIXADEIRAS",
+      "categorySlug": "lixadeiras",
+      "path": "/lixadeira-orbital-gss1401a-220v-4009",
+      "image": "/products/images/0040/4009.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10899",
+      "title": "MANDRIL APERTO RAPIDO 4486",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "2615.448.6BR-000",
+      "category": null,
+      "categorySlug": null,
+      "path": "/mandril-aperto-rapido-4486-10899",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1108",
+      "title": "MARTELETE PERFURADOR E ROMPEDOR GBH 2-26 DRE 800W 220V - BOSCH 06112537E0",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06112537E0000",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/martelete-perfurador-e-rompedor-gbh-226-dre-800w-220v--bosch-06112537e0-1108",
+      "image": "/products/images/0011/1108.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3433",
+      "title": "MARTELO DEMOLIDOR GSH 500 1100W 220V COM MALETA - BOSCH  06113387E0",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06113387E0000",
+      "category": "MARTELOS",
+      "categorySlug": "martelos",
+      "path": "/martelo-demolidor-gsh-500-1100w-220v-com-maleta--bosch-06113387e0-3433",
+      "image": "/products/images/0034/3433.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2438",
+      "title": "MICRORRETÍFICA DREMEL 4000 3/36 COM 36 ACESSÓRIOS E 3 ACOPLAMENTOS -175W 240V",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "F0134000NC000",
+      "category": "MICRO RETIFICA",
+      "categorySlug": "micro-retifica",
+      "path": "/microrretifica-dremel-4000-336-com-36-acessorios-e-3-acoplamentos-175w-240v-2438",
+      "image": "/products/images/0024/2438.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1270",
+      "title": "PARAF. GSR120LI 2 BAT C/ MALETA",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019G80E0000",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/paraf-gsr120li-2-bat-c-maleta-1270",
+      "image": "/products/images/0012/1270.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5377",
+      "title": "PARAFUSADEIRA / FURADEIRA DE IMPACTO GSB120-LI 3/8\"  12V + 2 BATERIAS 12V 2.0AH + CARREGADOR GAL 12V-20  + MALETA - BOSCH 06019G81E2",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019G81E2000",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/parafusadeira-furadeira-de-impacto-gsb120li-38-12v-2-baterias-12v-20ah-carregador-gal-12v20-maleta--bosch-06019g81e2-5377",
+      "image": "/products/images/0053/5377.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2778",
+      "title": "PARAFUSADEIRA A BATERIA GO 3,6V  VERSÃO KIT COM 33 CHAVES DE FENDA - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019H20E1000",
+      "category": "PARAFUSADEIRA",
+      "categorySlug": "parafusadeira",
+      "path": "/parafusadeira-a-bateria-go-36v-versao-kit-com-33-chaves-de-fenda--bosch-2778",
+      "image": "/products/images/0027/2778.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1269",
+      "title": "PARAFUSADEIRA E FURADEIRA DE IMPACTO GSB 180-LI 18V COM BATERIA 2.0AH, CARREGADOR BIVOLT E MALETA - BOSCH 06019F83E4000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019F83E4000",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/parafusadeira-e-furadeira-de-impacto-gsb-180li-18v-com-bateria-20ah-carregador-bivolt-e-maleta--bosch-06019f83e4000-1269",
+      "image": "/products/images/0012/1269.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4963",
+      "title": "PARAFUSADEIRA FURADEIRA GSR 7-14 E C/ TORQUE 24+1 CABO 4M - 220V BOSCH 06014470E0",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06014470E0000",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/parafusadeira-furadeira-gsr-714-e-c-torque-241-cabo-4m--220v-bosch-06014470e0-4963",
+      "image": "/products/images/0049/4963.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2806",
+      "title": "PARAFUSADEIRA/FURADEIRA 12V GSR 120 -LI+MALETA+1BAT - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06019G80E1000",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/parafusadeirafuradeira-12v-gsr-120-limaleta1bat--bosch-2806",
+      "image": "/products/images/0028/2806.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2805",
+      "title": "PARAFUSADEIRA/FURADEIRA DE IMPACTO 18V GSB 183 - LI+MALETA+2 BATERIA - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "0601.9K9.1E2-000",
+      "category": "FURADEIRA/PARAFUSADEIRA",
+      "categorySlug": "furadeira-parafusadeira",
+      "path": "/parafusadeirafuradeira-de-impacto-18v-gsb-183--limaleta2-bateria--bosch-2805",
+      "image": "/products/images/0028/2805.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2815",
+      "title": "SERRA CIRCULAR A BATERIA 18V GKS 18V-57 SB  - BOSCH 0601.6A2.2E0-000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06016A22E0000",
+      "category": "SERRAS",
+      "categorySlug": "serras",
+      "path": "/serra-circular-a-bateria-18v-gks-18v57-sb--bosch-06016a22e0000-2815",
+      "image": "/products/images/0028/2815.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2742",
+      "title": "SERRA CIRCULAR GKS 150 7.1/4\" 1500W 220V + 1 DISCO - BOSCH REF. 06016A10E0",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06016B30E0000",
+      "category": "SERRAS",
+      "categorySlug": "serras",
+      "path": "/serra-circular-gks-150-714-1500w-220v-1-disco--bosch-ref-06016a10e0-2742",
+      "image": "/products/images/0027/2742.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2355",
+      "title": "SERRA D MEIA ESQUADRIA GCM 10X 220V",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "0601B150E0000",
+      "category": "SERRAS",
+      "categorySlug": "serras",
+      "path": "/serra-d-meia-esquadria-gcm-10x-220v-2355",
+      "image": "/products/images/0023/2355.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4910",
+      "title": "SERRA MEIA ESQUADRIA TELESCÓPICA 10\" 3311 1800W COM DISCO E ACESSÓRIOS 220V - SKILL F0123311JA000",
+      "brand": "SKIL",
+      "brandCode": "75",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "F0123311JA000",
+      "category": "SERRAS",
+      "categorySlug": "serras",
+      "path": "/serra-meia-esquadria-telescopica-10-3311-1800w-com-disco-e-acessorios-220v--skill-f0123311ja000-4910",
+      "image": "/products/images/0049/4910.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "690",
+      "title": "SERRA MÁRMORE DE DIAMANTE GDC 150  TITAN PROFESSIONAL 220V BOSCH 06015486E0000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06015486E0000",
+      "category": "SERRAS",
+      "categorySlug": "serras",
+      "path": "/serra-marmore-de-diamante-gdc-150-titan-professional-220v-bosch-06015486e0000-690",
+      "image": "/products/images/0006/690.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2333",
+      "title": "TALHADEIRA SDS-PLUS 250X20MM - BOSCH 2608578519000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "2608578519000",
+      "category": "PONTEIRA E TALHADEIRA",
+      "categorySlug": "ponteira-e-talhadeira",
+      "path": "/talhadeira-sdsplus-250x20mm--bosch-2608578519000-2333",
+      "image": "/products/images/0023/2333.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 42,
+    "pageBase": "ferramentas--fornecedor-432"
+  }
+}

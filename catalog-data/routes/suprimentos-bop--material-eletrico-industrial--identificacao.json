@@ -1,0 +1,44 @@
+{
+  "title": "IDENTIFICAÇÃO",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria identificação em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "IDENTIFICAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13072",
+      "title": "ROTULADOR ELETRONICO PORTATIL PTE560BTVP",
+      "brand": "BROTHER",
+      "brandCode": "123",
+      "supplier": "REIS OFFICE PRODUCTS COMERCIAL LTDA",
+      "supplierCode": "6072",
+      "manufacturerCode": "PTE560BTVP",
+      "category": "IDENTIFICAÇÃO",
+      "categorySlug": "identificacao",
+      "path": "/rotulador-eletronico-portatil-pte560btvp-13072",
+      "image": "/products/images/0130/13072.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--identificacao"
+  }
+}

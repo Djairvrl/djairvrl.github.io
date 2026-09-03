@@ -1,0 +1,36 @@
+{
+  "title": "CONDUMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos CONDUMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CONDUMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10795",
+      "title": "CB MAXLINK G-FLEX 0,6/1KV 95,00 MM2 PR B",
+      "brand": "CONDUMAX",
+      "brandCode": "813",
+      "supplier": "CONDUMAX - ELETRO METALURGICA CIAFUNDI LTDA",
+      "supplierCode": "4103",
+      "manufacturerCode": "314001031010009",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cb-maxlink-gflex-061kv-9500-mm2-pr-b-10795",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--813--condumax"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "LOGISCAL",
+  "parentLabel": "Marca",
+  "description": "Produtos LOGISCAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LOGISCAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11995",
+      "title": "PALETE DE CONTENÇÃO NOVO 220L 4 TAMBORES",
+      "brand": "LOGISCAL",
+      "brandCode": "1016",
+      "supplier": "TAOPLAST COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "5420",
+      "manufacturerCode": "CT 1313 BX",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/palete-de-contencao-novo-220l-4-tambores-11995",
+      "image": "/products/images/0119/11995.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12340",
+      "title": "PALETE PLASTICO NOVO INJETADO",
+      "brand": "LOGISCAL",
+      "brandCode": "1016",
+      "supplier": "TAOPLAST COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "5420",
+      "manufacturerCode": "20",
+      "category": "PALETES PLÁSTICOS",
+      "categorySlug": "paletes-plasticos",
+      "path": "/palete-plastico-novo-injetado-12340",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1016--logiscal"
+  }
+}

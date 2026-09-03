@@ -1,0 +1,174 @@
+{
+  "title": "Sinalização de Segurança",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MARTA RAQUEL SOARES CESARIO 05179236452 neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança"
+    }
+  ],
+  "children": [
+    {
+      "name": "Placas de Advertência e Emergência",
+      "slug": "placas-de-advertencia-e-emergencia",
+      "path": "/sinalizacao-de-seguranca/placas-de-advertencia-e-emergencia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Sinalização Viária, Tráfego e Delimitação",
+      "slug": "sinalizacao-viaria-trafego-e-delimitacao",
+      "path": "/sinalizacao-de-seguranca/sinalizacao-viaria-trafego-e-delimitacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Adesivo Refletivo Grau Prismático Iii",
+      "slug": "adesivo-refletivo-grau-prismatico-iii",
+      "path": "/sinalizacao-de-seguranca/adesivo-refletivo-grau-prismatico-iii",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Placas E Dispositivos",
+      "slug": "placas-e-dispositivos",
+      "path": "/sinalizacao-de-seguranca/placas-e-dispositivos",
+      "count": 179,
+      "categories": [
+        {
+          "name": "SINALIZAÇÃO DE EXTINTORES",
+          "slug": "sinalizacao-de-extintores",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-extintores",
+          "count": 27
+        },
+        {
+          "name": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+          "slug": "sinalizacao-de-proibicao-e-alerta",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-proibicao-e-alerta",
+          "count": 7
+        },
+        {
+          "name": "SINALIZAÇÃO EQUIPAMENTOS",
+          "slug": "sinalizacao-equipamentos",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-equipamentos",
+          "count": 2
+        },
+        {
+          "name": "SINALIZAÇÃO ROTA DE FUGA",
+          "slug": "sinalizacao-rota-de-fuga",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-rota-de-fuga",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÃO VIÁRIA",
+          "slug": "sinalizacao-viaria",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-viaria",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÕES DIVERSAS",
+          "slug": "sinalizacoes-diversas",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacoes-diversas",
+          "count": 71
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "959",
+    "name": "MARTA RAQUEL SOARES CESARIO 05179236452"
+  },
+  "products": [
+    {
+      "code": "7673",
+      "title": "PLACA 20X15CM EM ALUMINIO IMPRESSAO EPOX",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "2106B",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-20x15cm-em-aluminio-impressao-epox-7673",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "7672",
+      "title": "PLACA 30X15CM EM PVC EXPANDIDO DE 3MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "2106A",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-30x15cm-em-pvc-expandido-de-3mm-7672",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "2457",
+      "title": "PLACA 50X80CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "2023101",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-50x80cm-2457",
+      "image": "/products/images/0024/2457.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "7460",
+      "title": "PLACA EM PVC 30X20CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "2023102",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-em-pvc-30x20cm-7460",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "7461",
+      "title": "PLACA EM PVC 30X40CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "2023103",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-em-pvc-30x40cm-7461",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "sinalizacao-de-seguranca--fornecedor-959"
+  }
+}

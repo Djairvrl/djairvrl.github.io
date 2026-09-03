@@ -1,0 +1,61 @@
+{
+  "title": "ESTAÇÕES DE RETRABALHO BGA",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria estações de retrabalho bga em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "ESTAÇÕES DE RETRABALHO BGA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12968",
+      "title": "ESTACAO RETRABALHO BGA F-TEC R690",
+      "brand": "FTEC",
+      "brandCode": "1165",
+      "supplier": "FEROCK MULTIMARCAS LTDA",
+      "supplierCode": "6016",
+      "manufacturerCode": "R690V5",
+      "category": "ESTAÇÕES DE RETRABALHO BGA",
+      "categorySlug": "estacoes-de-retrabalho-bga",
+      "path": "/estacao-retrabalho-bga-ftec-r690-12968",
+      "image": "/products/images/0129/12968.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12993",
+      "title": "SUGON 8650 PRO ESTACAO DE RETRABALHO",
+      "brand": "SUGON",
+      "brandCode": "1167",
+      "supplier": "BFCH COMERCIAL LTDA",
+      "supplierCode": "6028",
+      "manufacturerCode": "8650",
+      "category": "ESTAÇÕES DE RETRABALHO BGA",
+      "categorySlug": "estacoes-de-retrabalho-bga",
+      "path": "/sugon-8650-pro-estacao-de-retrabalho-12993",
+      "image": "/products/images/0129/12993.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--estacoes-de-retrabalho-bga"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "VULCAN",
+  "parentLabel": "Marca",
+  "description": "Produtos VULCAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VULCAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6746",
+      "title": "MOTOPODADOR DE GALHOS GASOLINA 2T 33CC 1,3HP COM EXTENSOR VP3300L - VULCAN 56570",
+      "brand": "VULCAN",
+      "brandCode": "330",
+      "supplier": "SPINNER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1314",
+      "manufacturerCode": "56570",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/motopodador-de-galhos-gasolina-2t-33cc-13hp-com-extensor-vp3300l--vulcan-56570-6746",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--330--vulcan"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "PISTOLA CALAFETADORA",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria pistola calafetadora em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "PISTOLA CALAFETADORA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7825",
+      "title": "COMBO PISTOLA CALAFETAGEM 2 BAT 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "7825",
+      "category": "PISTOLA CALAFETADORA",
+      "categorySlug": "pistola-calafetadora",
+      "path": "/combo-pistola-calafetagem-2-bat-18v-7825",
+      "image": "/products/images/0078/7825.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7896",
+      "title": "PISTOLA DE CALAFETAGEM A BATERIA 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DCG180ZB",
+      "category": "PISTOLA CALAFETADORA",
+      "categorySlug": "pistola-calafetadora",
+      "path": "/pistola-de-calafetagem-a-bateria-18v-7896",
+      "image": "/products/images/0078/7896.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-eletricas--pistola-calafetadora"
+  }
+}

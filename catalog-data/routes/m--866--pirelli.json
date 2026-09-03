@@ -1,0 +1,70 @@
+{
+  "title": "PIRELLI",
+  "parentLabel": "Marca",
+  "description": "Produtos PIRELLI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PIRELLI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11053",
+      "title": "CAMARA  DE AR 26",
+      "brand": "PIRELLI",
+      "brandCode": "866",
+      "supplier": "R PAULO DO NASCIMENTO FILHO LTDA",
+      "supplierCode": "4401",
+      "manufacturerCode": "528",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/camara-de-ar-26-11053",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11056",
+      "title": "CAMARA DE AR 20",
+      "brand": "PIRELLI",
+      "brandCode": "866",
+      "supplier": "R PAULO DO NASCIMENTO FILHO LTDA",
+      "supplierCode": "4401",
+      "manufacturerCode": "85",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/camara-de-ar-20-11056",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11052",
+      "title": "PNEU 20X175 TOP CROSS",
+      "brand": "PIRELLI",
+      "brandCode": "866",
+      "supplier": "R PAULO DO NASCIMENTO FILHO LTDA",
+      "supplierCode": "4401",
+      "manufacturerCode": "240",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/pneu-20x175-top-cross-11052",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--866--pirelli"
+  }
+}

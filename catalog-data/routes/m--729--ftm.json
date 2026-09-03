@@ -1,0 +1,53 @@
+{
+  "title": "FTM",
+  "parentLabel": "Marca",
+  "description": "Produtos FTM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FTM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11554",
+      "title": "CAIXA FERRAMENTAS C/FECHADURA PT COMP530",
+      "brand": "FTM",
+      "brandCode": "729",
+      "supplier": "SC PECAS LTDAAVENIDA RIO BRANCO",
+      "supplierCode": "5086",
+      "manufacturerCode": "5000CNC",
+      "category": "CAIXAS DE FERRAMENTAS",
+      "categorySlug": "caixas-de-ferramentas",
+      "path": "/caixa-ferramentas-cfechadura-pt-comp530-11554",
+      "image": "/products/images/0115/11554.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9834",
+      "title": "MULTIPLICADOR DE TORQUE COM FATOR 4:1  ENTRADA 1/2\" E  ENCAIXE DE SAÍDA SEXTAVADO 36MM  FTM REF FTM-050-4-1-36MM",
+      "brand": "FTM",
+      "brandCode": "729",
+      "supplier": "F. T. M. MECANICA DE PRECISAO LTDA",
+      "supplierCode": "2740",
+      "manufacturerCode": "FTM-050-4-1-36MM",
+      "category": "TORQUÍMETROS E ACESSÓRIOS",
+      "categorySlug": "torquimetros-e-acessorios",
+      "path": "/multiplicador-de-torque-com-fator-41-entrada-12-e-encaixe-de-saida-sextavado-36mm-ftm-ref-ftm0504136mm-9834",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--729--ftm"
+  }
+}

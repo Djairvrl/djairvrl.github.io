@@ -1,0 +1,61 @@
+{
+  "title": "FORMÕES",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria formões em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "FORMÕES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12706",
+      "title": "FORMAO CHANFRADO RETO 1/2 C/CABO MADEIRA",
+      "brand": "PACETTA",
+      "brandCode": "1123",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3074312000",
+      "category": "FORMÕES",
+      "categorySlug": "formoes",
+      "path": "/formao-chanfrado-reto-12-ccabo-madeira-12706",
+      "image": "/products/images/0127/12706.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5436",
+      "title": "JOGO DE FORMÕES EM CROMO VANÁDIO 8 - 24MM  4 PEÇAS - ROCAST",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "177,0009",
+      "category": "FORMÕES",
+      "categorySlug": "formoes",
+      "path": "/jogo-de-formoes-em-cromo-vanadio-8--24mm-4-pecas--rocast-5436",
+      "image": "/products/images/0054/5436.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-manuais--formoes"
+  }
+}

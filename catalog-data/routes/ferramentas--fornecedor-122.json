@@ -1,0 +1,1602 @@
+{
+  "title": "Ferramentas",
+  "parentLabel": "Departamento",
+  "description": "Produtos de O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas"
+    }
+  ],
+  "children": [
+    {
+      "name": "Ferramentas Elétricas",
+      "slug": "ferramentas-eletricas",
+      "path": "/ferramentas/ferramentas-eletricas",
+      "count": 391,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+          "slug": "acessorios-para-ferramentas-eletricas",
+          "path": "/ferramentas/ferramentas-eletricas/acessorios-para-ferramentas-eletricas",
+          "count": 16
+        },
+        {
+          "name": "AQUECEDORES INDUTIVOS",
+          "slug": "aquecedores-indutivos",
+          "path": "/ferramentas/ferramentas-eletricas/aquecedores-indutivos",
+          "count": 2
+        },
+        {
+          "name": "ASPIRADORES E EXTRATORES",
+          "slug": "aspiradores-e-extratores",
+          "path": "/ferramentas/ferramentas-eletricas/aspiradores-e-extratores",
+          "count": 1
+        },
+        {
+          "name": "BATERIA E CARREGADORES",
+          "slug": "bateria-e-carregadores",
+          "path": "/ferramentas/ferramentas-eletricas/bateria-e-carregadores",
+          "count": 75
+        },
+        {
+          "name": "CHAVES DE IMPACTO",
+          "slug": "chaves-de-impacto",
+          "path": "/ferramentas/ferramentas-eletricas/chaves-de-impacto",
+          "count": 42
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-eletricas/cortador",
+          "count": 6
+        },
+        {
+          "name": "ESMERIL DE BANCADA",
+          "slug": "esmeril-de-bancada",
+          "path": "/ferramentas/ferramentas-eletricas/esmeril-de-bancada",
+          "count": 5
+        },
+        {
+          "name": "ESMERILHADEIRA",
+          "slug": "esmerilhadeira",
+          "path": "/ferramentas/ferramentas-eletricas/esmerilhadeira",
+          "count": 40
+        },
+        {
+          "name": "FERRAMENTA DE ILUMINAÇÃO",
+          "slug": "ferramenta-de-iluminacao",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-de-iluminacao",
+          "count": 7
+        },
+        {
+          "name": "FERRAMENTA ROTATIVA",
+          "slug": "ferramenta-rotativa",
+          "path": "/ferramentas/ferramentas-eletricas/ferramenta-rotativa",
+          "count": 1
+        },
+        {
+          "name": "FURADEIRA",
+          "slug": "furadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira",
+          "count": 31
+        },
+        {
+          "name": "FURADEIRA/PARAFUSADEIRA",
+          "slug": "furadeira-parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/furadeira-parafusadeira",
+          "count": 30
+        },
+        {
+          "name": "GRAVADOR",
+          "slug": "gravador",
+          "path": "/ferramentas/ferramentas-eletricas/gravador",
+          "count": 1
+        },
+        {
+          "name": "JARDINAGEM",
+          "slug": "jardinagem",
+          "path": "/ferramentas/ferramentas-eletricas/jardinagem",
+          "count": 1
+        },
+        {
+          "name": "LIXADEIRAS",
+          "slug": "lixadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/lixadeiras",
+          "count": 13
+        },
+        {
+          "name": "MARTELETES",
+          "slug": "marteletes",
+          "path": "/ferramentas/ferramentas-eletricas/marteletes",
+          "count": 8
+        },
+        {
+          "name": "MARTELOS",
+          "slug": "martelos",
+          "path": "/ferramentas/ferramentas-eletricas/martelos",
+          "count": 11
+        },
+        {
+          "name": "MICRO RETIFICA",
+          "slug": "micro-retifica",
+          "path": "/ferramentas/ferramentas-eletricas/micro-retifica",
+          "count": 3
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/ferramentas/ferramentas-eletricas/misturador",
+          "count": 1
+        },
+        {
+          "name": "MOTOSSERRA",
+          "slug": "motosserra",
+          "path": "/ferramentas/ferramentas-eletricas/motosserra",
+          "count": 1
+        },
+        {
+          "name": "PARAFUSADEIRA",
+          "slug": "parafusadeira",
+          "path": "/ferramentas/ferramentas-eletricas/parafusadeira",
+          "count": 8
+        },
+        {
+          "name": "PEÇAS DE REPOSIÇÃO",
+          "slug": "pecas-de-reposicao",
+          "path": "/ferramentas/ferramentas-eletricas/pecas-de-reposicao",
+          "count": 18
+        },
+        {
+          "name": "PISTOLA CALAFETADORA",
+          "slug": "pistola-calafetadora",
+          "path": "/ferramentas/ferramentas-eletricas/pistola-calafetadora",
+          "count": 2
+        },
+        {
+          "name": "PLAINAS",
+          "slug": "plainas",
+          "path": "/ferramentas/ferramentas-eletricas/plainas",
+          "count": 3
+        },
+        {
+          "name": "PNEUMÁTICO",
+          "slug": "pneumatico",
+          "path": "/ferramentas/ferramentas-eletricas/pneumatico",
+          "count": 2
+        },
+        {
+          "name": "POLITRIZ",
+          "slug": "politriz",
+          "path": "/ferramentas/ferramentas-eletricas/politriz",
+          "count": 2
+        },
+        {
+          "name": "RETIFICA",
+          "slug": "retifica",
+          "path": "/ferramentas/ferramentas-eletricas/retifica",
+          "count": 3
+        },
+        {
+          "name": "SERRAS",
+          "slug": "serras",
+          "path": "/ferramentas/ferramentas-eletricas/serras",
+          "count": 24
+        },
+        {
+          "name": "SOPRADORES",
+          "slug": "sopradores",
+          "path": "/ferramentas/ferramentas-eletricas/sopradores",
+          "count": 21
+        },
+        {
+          "name": "SUPORTE",
+          "slug": "suporte",
+          "path": "/ferramentas/ferramentas-eletricas/suporte",
+          "count": 3
+        },
+        {
+          "name": "TESOURA",
+          "slug": "tesoura",
+          "path": "/ferramentas/ferramentas-eletricas/tesoura",
+          "count": 1
+        },
+        {
+          "name": "TORQUEADEIRAS",
+          "slug": "torqueadeiras",
+          "path": "/ferramentas/ferramentas-eletricas/torqueadeiras",
+          "count": 4
+        },
+        {
+          "name": "TUPIAS",
+          "slug": "tupias",
+          "path": "/ferramentas/ferramentas-eletricas/tupias",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES PORTÁTEIS",
+          "slug": "ventiladores-portateis",
+          "path": "/ferramentas/ferramentas-eletricas/ventiladores-portateis",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas de Jardinagem",
+      "slug": "ferramentas-de-jardinagem",
+      "path": "/ferramentas/ferramentas-de-jardinagem",
+      "count": 48,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/ferramentas/ferramentas-de-jardinagem/acessorios",
+          "count": 16
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/mangueiras",
+          "count": 5
+        },
+        {
+          "name": "PULVERIZADORES",
+          "slug": "pulverizadores",
+          "path": "/ferramentas/ferramentas-de-jardinagem/pulverizadores",
+          "count": 17
+        },
+        {
+          "name": "ROÇADEIRAS",
+          "slug": "rocadeiras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/rocadeiras",
+          "count": 6
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-de-jardinagem/tesouras",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas Manuais",
+      "slug": "ferramentas-manuais",
+      "path": "/ferramentas/ferramentas-manuais",
+      "count": 1843,
+      "categories": [
+        {
+          "name": "ALICATES",
+          "slug": "alicates",
+          "path": "/ferramentas/ferramentas-manuais/alicates",
+          "count": 116
+        },
+        {
+          "name": "APLICADORES",
+          "slug": "aplicadores",
+          "path": "/ferramentas/ferramentas-manuais/aplicadores",
+          "count": 8
+        },
+        {
+          "name": "ARCOS DE SERRA",
+          "slug": "arcos-de-serra",
+          "path": "/ferramentas/ferramentas-manuais/arcos-de-serra",
+          "count": 12
+        },
+        {
+          "name": "AUTOMOTIVAS",
+          "slug": "automotivas",
+          "path": "/ferramentas/ferramentas-manuais/automotivas",
+          "count": 52
+        },
+        {
+          "name": "CAIXAS DE FERRAMENTAS",
+          "slug": "caixas-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/caixas-de-ferramentas",
+          "count": 11
+        },
+        {
+          "name": "CARRINHO",
+          "slug": "carrinho",
+          "path": "/ferramentas/ferramentas-manuais/carrinho",
+          "count": 3
+        },
+        {
+          "name": "CHAVES AXIAIS E MISTAS",
+          "slug": "chaves-axiais-e-mistas",
+          "path": "/ferramentas/ferramentas-manuais/chaves-axiais-e-mistas",
+          "count": 210
+        },
+        {
+          "name": "CHAVES RADIAIS",
+          "slug": "chaves-radiais",
+          "path": "/ferramentas/ferramentas-manuais/chaves-radiais",
+          "count": 271
+        },
+        {
+          "name": "CORTADOR",
+          "slug": "cortador",
+          "path": "/ferramentas/ferramentas-manuais/cortador",
+          "count": 11
+        },
+        {
+          "name": "COSSINETES",
+          "slug": "cossinetes",
+          "path": "/ferramentas/ferramentas-manuais/cossinetes",
+          "count": 16
+        },
+        {
+          "name": "DESENCAPADORES",
+          "slug": "desencapadores",
+          "path": "/ferramentas/ferramentas-manuais/desencapadores",
+          "count": 3
+        },
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/ferramentas/ferramentas-manuais/diversos",
+          "count": 9
+        },
+        {
+          "name": "EXTRATORES",
+          "slug": "extratores",
+          "path": "/ferramentas/ferramentas-manuais/extratores",
+          "count": 23
+        },
+        {
+          "name": "FACA E CANIVETE",
+          "slug": "faca-e-canivete",
+          "path": "/ferramentas/ferramentas-manuais/faca-e-canivete",
+          "count": 10
+        },
+        {
+          "name": "FERRAMENTAS ISOLADAS",
+          "slug": "ferramentas-isoladas",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-isoladas",
+          "count": 192
+        },
+        {
+          "name": "FERRAMENTAS PARA TUBO",
+          "slug": "ferramentas-para-tubo",
+          "path": "/ferramentas/ferramentas-manuais/ferramentas-para-tubo",
+          "count": 20
+        },
+        {
+          "name": "FORMÕES",
+          "slug": "formoes",
+          "path": "/ferramentas/ferramentas-manuais/formoes",
+          "count": 2
+        },
+        {
+          "name": "FUNIL",
+          "slug": "funil",
+          "path": "/ferramentas/ferramentas-manuais/funil",
+          "count": 8
+        },
+        {
+          "name": "GRAMPEADOR",
+          "slug": "grampeador",
+          "path": "/ferramentas/ferramentas-manuais/grampeador",
+          "count": 6
+        },
+        {
+          "name": "GRAMPOS",
+          "slug": "grampos",
+          "path": "/ferramentas/ferramentas-manuais/grampos",
+          "count": 16
+        },
+        {
+          "name": "JOGO DE FERRAMENTAS",
+          "slug": "jogo-de-ferramentas",
+          "path": "/ferramentas/ferramentas-manuais/jogo-de-ferramentas",
+          "count": 18
+        },
+        {
+          "name": "LIMA",
+          "slug": "lima",
+          "path": "/ferramentas/ferramentas-manuais/lima",
+          "count": 16
+        },
+        {
+          "name": "MACHADOS E MACHADINHAS",
+          "slug": "machados-e-machadinhas",
+          "path": "/ferramentas/ferramentas-manuais/machados-e-machadinhas",
+          "count": 3
+        },
+        {
+          "name": "MARRETAS",
+          "slug": "marretas",
+          "path": "/ferramentas/ferramentas-manuais/marretas",
+          "count": 31
+        },
+        {
+          "name": "MARTELETE",
+          "slug": "martelete",
+          "path": "/ferramentas/ferramentas-manuais/martelete",
+          "count": 1
+        },
+        {
+          "name": "MARTELO",
+          "slug": "martelo",
+          "path": "/ferramentas/ferramentas-manuais/martelo",
+          "count": 50
+        },
+        {
+          "name": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+          "slug": "pistola-de-fixacao-a-polvora",
+          "path": "/ferramentas/ferramentas-manuais/pistola-de-fixacao-a-polvora",
+          "count": 3
+        },
+        {
+          "name": "PONTEIRAS",
+          "slug": "ponteiras",
+          "path": "/ferramentas/ferramentas-manuais/ponteiras",
+          "count": 1
+        },
+        {
+          "name": "PUNÇÕES",
+          "slug": "puncoes",
+          "path": "/ferramentas/ferramentas-manuais/puncoes",
+          "count": 6
+        },
+        {
+          "name": "SACA PINO",
+          "slug": "saca-pino",
+          "path": "/ferramentas/ferramentas-manuais/saca-pino",
+          "count": 1
+        },
+        {
+          "name": "SACA POLIA",
+          "slug": "saca-polia",
+          "path": "/ferramentas/ferramentas-manuais/saca-polia",
+          "count": 15
+        },
+        {
+          "name": "SERRA MANUAL",
+          "slug": "serra-manual",
+          "path": "/ferramentas/ferramentas-manuais/serra-manual",
+          "count": 4
+        },
+        {
+          "name": "SOQUETES E ACESSÓRIOS",
+          "slug": "soquetes-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/soquetes-e-acessorios",
+          "count": 517
+        },
+        {
+          "name": "TALHADEIRAS",
+          "slug": "talhadeiras",
+          "path": "/ferramentas/ferramentas-manuais/talhadeiras",
+          "count": 12
+        },
+        {
+          "name": "TESOURAS",
+          "slug": "tesouras",
+          "path": "/ferramentas/ferramentas-manuais/tesouras",
+          "count": 8
+        },
+        {
+          "name": "TORNO",
+          "slug": "torno",
+          "path": "/ferramentas/ferramentas-manuais/torno",
+          "count": 9
+        },
+        {
+          "name": "TORQUIMETROS",
+          "slug": "torquimetros",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros",
+          "count": 4
+        },
+        {
+          "name": "TORQUÊS",
+          "slug": "torques",
+          "path": "/ferramentas/ferramentas-manuais/torques",
+          "count": 5
+        },
+        {
+          "name": "TORQUÍMETROS E ACESSÓRIOS",
+          "slug": "torquimetros-e-acessorios",
+          "path": "/ferramentas/ferramentas-manuais/torquimetros-e-acessorios",
+          "count": 138
+        }
+      ]
+    },
+    {
+      "name": "Construção Civil",
+      "slug": "construcao-civil",
+      "path": "/ferramentas/construcao-civil",
+      "count": 275,
+      "categories": [
+        {
+          "name": "ABERTURAS",
+          "slug": "aberturas",
+          "path": "/ferramentas/construcao-civil/aberturas",
+          "count": 1
+        },
+        {
+          "name": "ALAVANCA",
+          "slug": "alavanca",
+          "path": "/ferramentas/construcao-civil/alavanca",
+          "count": 4
+        },
+        {
+          "name": "APLICADOR",
+          "slug": "aplicador",
+          "path": "/ferramentas/construcao-civil/aplicador",
+          "count": 5
+        },
+        {
+          "name": "ARAMES",
+          "slug": "arames",
+          "path": "/ferramentas/construcao-civil/arames",
+          "count": 10
+        },
+        {
+          "name": "BALDE",
+          "slug": "balde",
+          "path": "/ferramentas/construcao-civil/balde",
+          "count": 12
+        },
+        {
+          "name": "BETONEIRAS",
+          "slug": "betoneiras",
+          "path": "/ferramentas/construcao-civil/betoneiras",
+          "count": 2
+        },
+        {
+          "name": "CADEADO",
+          "slug": "cadeado",
+          "path": "/ferramentas/construcao-civil/cadeado",
+          "count": 33
+        },
+        {
+          "name": "CARRO DE MÃO, JERICA E PLATAFORMA",
+          "slug": "carro-de-mao-jerica-e-plataforma",
+          "path": "/ferramentas/construcao-civil/carro-de-mao-jerica-e-plataforma",
+          "count": 11
+        },
+        {
+          "name": "CAVADEIRA",
+          "slug": "cavadeira",
+          "path": "/ferramentas/construcao-civil/cavadeira",
+          "count": 4
+        },
+        {
+          "name": "COLHER DE PEDREIRO",
+          "slug": "colher-de-pedreiro",
+          "path": "/ferramentas/construcao-civil/colher-de-pedreiro",
+          "count": 7
+        },
+        {
+          "name": "CONCRETO E ARGAMASSA",
+          "slug": "concreto-e-argamassa",
+          "path": "/ferramentas/construcao-civil/concreto-e-argamassa",
+          "count": 1
+        },
+        {
+          "name": "CORRENTES DE USO GERAL",
+          "slug": "correntes-de-uso-geral",
+          "path": "/ferramentas/construcao-civil/correntes-de-uso-geral",
+          "count": 12
+        },
+        {
+          "name": "CORTA VERGALHÃO",
+          "slug": "corta-vergalhao",
+          "path": "/ferramentas/construcao-civil/corta-vergalhao",
+          "count": 14
+        },
+        {
+          "name": "DESEMPENADEIRAS",
+          "slug": "desempenadeiras",
+          "path": "/ferramentas/construcao-civil/desempenadeiras",
+          "count": 9
+        },
+        {
+          "name": "ENXADAS",
+          "slug": "enxadas",
+          "path": "/ferramentas/construcao-civil/enxadas",
+          "count": 6
+        },
+        {
+          "name": "ESCADAS",
+          "slug": "escadas",
+          "path": "/ferramentas/construcao-civil/escadas",
+          "count": 47
+        },
+        {
+          "name": "ESPATULAS",
+          "slug": "espatulas",
+          "path": "/ferramentas/construcao-civil/espatulas",
+          "count": 1
+        },
+        {
+          "name": "ESPAÇADOR",
+          "slug": "espacador",
+          "path": "/ferramentas/construcao-civil/espacador",
+          "count": 1
+        },
+        {
+          "name": "ESPUMA EXPANSIVA",
+          "slug": "espuma-expansiva",
+          "path": "/ferramentas/construcao-civil/espuma-expansiva",
+          "count": 4
+        },
+        {
+          "name": "FOICES",
+          "slug": "foices",
+          "path": "/ferramentas/construcao-civil/foices",
+          "count": 2
+        },
+        {
+          "name": "FURADOR E CORTADOR",
+          "slug": "furador-e-cortador",
+          "path": "/ferramentas/construcao-civil/furador-e-cortador",
+          "count": 3
+        },
+        {
+          "name": "LIMPEZA",
+          "slug": "limpeza",
+          "path": "/ferramentas/construcao-civil/limpeza",
+          "count": 1
+        },
+        {
+          "name": "LONA",
+          "slug": "lona",
+          "path": "/ferramentas/construcao-civil/lona",
+          "count": 14
+        },
+        {
+          "name": "LÁPIS",
+          "slug": "lapis",
+          "path": "/ferramentas/construcao-civil/lapis",
+          "count": 2
+        },
+        {
+          "name": "MISTURADORES",
+          "slug": "misturadores",
+          "path": "/ferramentas/construcao-civil/misturadores",
+          "count": 5
+        },
+        {
+          "name": "MÁQUINA",
+          "slug": "maquina",
+          "path": "/ferramentas/construcao-civil/maquina",
+          "count": 1
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/ferramentas/construcao-civil/outros",
+          "count": 5
+        },
+        {
+          "name": "PE-DE-CABRA",
+          "slug": "pe-de-cabra",
+          "path": "/ferramentas/construcao-civil/pe-de-cabra",
+          "count": 4
+        },
+        {
+          "name": "PICARETA",
+          "slug": "picareta",
+          "path": "/ferramentas/construcao-civil/picareta",
+          "count": 3
+        },
+        {
+          "name": "PLACA VIBRATÓRIA",
+          "slug": "placa-vibratoria",
+          "path": "/ferramentas/construcao-civil/placa-vibratoria",
+          "count": 1
+        },
+        {
+          "name": "PONTEIRA E TALHADEIRA",
+          "slug": "ponteira-e-talhadeira",
+          "path": "/ferramentas/construcao-civil/ponteira-e-talhadeira",
+          "count": 15
+        },
+        {
+          "name": "PREGO",
+          "slug": "prego",
+          "path": "/ferramentas/construcao-civil/prego",
+          "count": 5
+        },
+        {
+          "name": "PÁ",
+          "slug": "pa",
+          "path": "/ferramentas/construcao-civil/pa",
+          "count": 4
+        },
+        {
+          "name": "RASTELO",
+          "slug": "rastelo",
+          "path": "/ferramentas/construcao-civil/rastelo",
+          "count": 2
+        },
+        {
+          "name": "RÉGUA, PRUMO E LINHA",
+          "slug": "regua-prumo-e-linha",
+          "path": "/ferramentas/construcao-civil/regua-prumo-e-linha",
+          "count": 11
+        },
+        {
+          "name": "SERROTES",
+          "slug": "serrotes",
+          "path": "/ferramentas/construcao-civil/serrotes",
+          "count": 6
+        },
+        {
+          "name": "VENTOSAS",
+          "slug": "ventosas",
+          "path": "/ferramentas/construcao-civil/ventosas",
+          "count": 1
+        },
+        {
+          "name": "VIBRADORES DE CONCRETO",
+          "slug": "vibradores-de-concreto",
+          "path": "/ferramentas/construcao-civil/vibradores-de-concreto",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Lubrificação e Abastecimento",
+      "slug": "ferramentas-lubrificacao-e-abastecimento",
+      "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento",
+      "count": 44,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+          "slug": "acessorios-de-lubrificacao-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/acessorios-de-lubrificacao-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BICOS DE ABASTECIMENTO",
+          "slug": "bicos-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bicos-de-abastecimento",
+          "count": 2
+        },
+        {
+          "name": "BOMBAS DE ABASTECIMENTO",
+          "slug": "bombas-de-abastecimento",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-abastecimento",
+          "count": 7
+        },
+        {
+          "name": "BOMBAS DE GRAXA ELÉTRICAS",
+          "slug": "bombas-de-graxa-eletricas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-eletricas",
+          "count": 4
+        },
+        {
+          "name": "BOMBAS DE GRAXA MANUAL",
+          "slug": "bombas-de-graxa-manual",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-manual",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE GRAXA PNEUMÁTICAS",
+          "slug": "bombas-de-graxa-pneumaticas",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-graxa-pneumaticas",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TRANSFERÊNCIA",
+          "slug": "bombas-de-transferencia",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/bombas-de-transferencia",
+          "count": 6
+        },
+        {
+          "name": "FILTROS E ELEMENTOS FILTRANTES",
+          "slug": "filtros-e-elementos-filtrantes",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/filtros-e-elementos-filtrantes",
+          "count": 1
+        },
+        {
+          "name": "LUBRIFICADORES DE ÓLEO",
+          "slug": "lubrificadores-de-oleo",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/lubrificadores-de-oleo",
+          "count": 5
+        },
+        {
+          "name": "PISTOLAS DE LUBRIFICAÇÃO ELÉTRICA",
+          "slug": "pistolas-de-lubrificacao-eletrica",
+          "path": "/ferramentas/ferramentas-lubrificacao-e-abastecimento/pistolas-de-lubrificacao-eletrica",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "122",
+    "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA"
+  },
+  "products": [
+    {
+      "code": "9515",
+      "title": "ALAVANCA CURVA COM CABO 36\" VONDER REF 3599036100",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3599036100",
+      "category": "ALAVANCA",
+      "categorySlug": "alavanca",
+      "path": "/alavanca-curva-com-cabo-36-vonder-ref-3599036100-9515",
+      "image": "/products/images/0095/9515.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8996",
+      "title": "ALIC CRIMP P/ TERMINAIS ISOLADOS AC400",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686000400",
+      "category": "FERRAMENTAS ISOLADAS",
+      "categorySlug": "ferramentas-isoladas",
+      "path": "/alic-crimp-p-terminais-isolados-ac400-8996",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "8897",
+      "title": "ALIC CRIMPADOR P/ TERMINAL SOLAR MC4 VD",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686025600",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alic-crimpador-p-terminal-solar-mc4-vd-8897",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5448",
+      "title": "ALICATE CORTA CABOS 7.1/2\" (190MM) - VONDER 3662005000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3662005000",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-corta-cabos-712-190mm--vonder-3662005000-5448",
+      "image": "/products/images/0054/5448.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7499",
+      "title": "ALICATE CRIMPADOR RJ45/11/12 COM 26 PEÇAS - VONDER 3686026000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686026000",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-crimpador-rj451112-com-26-pecas--vonder-3686026000-7499",
+      "image": "/products/images/0074/7499.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4624",
+      "title": "ALICATE P/ANEIS EXTERNOS RETO 305MM/12\"",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3662310000",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-paneis-externos-reto-305mm12-4624",
+      "image": "/products/images/0046/4624.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3708",
+      "title": "ALICATE PARA ABRAÇADEIRAS RADIAIS - VONDER 6510002002",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6510002002",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-para-abracadeiras-radiais--vonder-6510002002-3708",
+      "image": "/products/images/0037/3708.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4950",
+      "title": "ALICATE PRENSA TERMINAIS COAXIAL 1,7MM² A 8,1MM² AP 106 - VONDER 3686005100",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686005100",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-prensa-terminais-coaxial-17mm2-a-81mm2-ap-106--vonder-3686005100-4950",
+      "image": "/products/images/0049/4950.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5644",
+      "title": "ALICATE PRENSA TERMINAIS COAXIAL AP 051 1,7MM - 6,5MM  -  VONDER 3686005000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686005000",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-prensa-terminais-coaxial-ap-051-17mm--65mm--vonder-3686005000-5644",
+      "image": "/products/images/0056/5644.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2412",
+      "title": "ALICATE PRENSA TERMINAIS TUBULAR 0,25-6,0MM² MODELO AP 256 - VONDER 36.86.864.000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686864000",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-prensa-terminais-tubular-02560mm2-modelo-ap-256--vonder-3686864000-2412",
+      "image": "/products/images/0024/2412.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7849",
+      "title": "ALICATE PRENSA TERMINAIS TUBULAR 0,5MM² A 6,0MM² AP 054 - VONDER 3686004100",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686004100",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-prensa-terminais-tubular-05mm2-a-60mm2-ap-054--vonder-3686004100-7849",
+      "image": "/products/images/0078/7849.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "557",
+      "title": "ARAME GALVANIZADO INDUSTRIAL BWG 12 (2,77MM) VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "7491012500",
+      "category": "ARAMES",
+      "categorySlug": "arames",
+      "path": "/arame-galvanizado-industrial-bwg-12-277mm-vonder-557",
+      "image": "/products/images/0005/557.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "567",
+      "title": "BALDE METÁLICO 10 LITROS PARA CONCRETO VONDER 3315010000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3315010000",
+      "category": "BALDE",
+      "categorySlug": "balde",
+      "path": "/balde-metalico-10-litros-para-concreto-vonder-3315010000-567",
+      "image": "/products/images/0005/567.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8639",
+      "title": "BALDE PLAST EXTRA-REFOR 12L PRETO VD",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3315012001",
+      "category": "BALDE",
+      "categorySlug": "balde",
+      "path": "/balde-plast-extrarefor-12l-preto-vd-8639",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "568",
+      "title": "BALDE PLÁSTICO 12L PARA CONCRETO- VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3315012000",
+      "category": "BALDE",
+      "categorySlug": "balde",
+      "path": "/balde-plastico-12l-para-concreto-vonder-568",
+      "image": "/products/images/0005/568.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "7260",
+      "title": "BICO SIMPLES COM PRESILHA",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "51.11.140.011",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/bico-simples-com-presilha-7260",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6975",
+      "title": "BOMBA MANUAL P/TRANSFERENCIA OLEOS",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "5120055000",
+      "category": "LUBRIFICADORES DE ÓLEO",
+      "categorySlug": "lubrificadores-de-oleo",
+      "path": "/bomba-manual-ptransferencia-oleos-6975",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "1672",
+      "title": "CABO DE TRANSMISSÃO/CHUPETA PARA CAMINHÃO, 25 MM X 3,5M - VONDER REF. 78.99.800.350",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "7899800350",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/cabo-de-transmissaochupeta-para-caminhao-25-mm-x-35m--vonder-ref-7899800350-1672",
+      "image": "/products/images/0016/1672.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9103",
+      "title": "CORRENTE 8,0MM-5/16\"ZB CURTA",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "15.58.516.080",
+      "category": "CORRENTES DE USO GERAL",
+      "categorySlug": "correntes-de-uso-geral",
+      "path": "/corrente-80mm516zb-curta-9103",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "7325",
+      "title": "CORRENTE ZINCADA COM ELO CURTO 6,5MM (1/4\") - VONDER 1558014064",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "1558014064",
+      "category": "CORRENTES DE USO GERAL",
+      "categorySlug": "correntes-de-uso-geral",
+      "path": "/corrente-zincada-com-elo-curto-65mm-14--vonder-1558014064-7325",
+      "image": "/products/images/0073/7325.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1262",
+      "title": "DESEMPENADEIRA PLÁSTICA BASE LISA 170X300MM - VONDER 33.28.301.730",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3328301730",
+      "category": "DESEMPENADEIRAS",
+      "categorySlug": "desempenadeiras",
+      "path": "/desempenadeira-plastica-base-lisa-170x300mm--vonder-3328301730-1262",
+      "image": "/products/images/0012/1262.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "9863",
+      "title": "ESCADA EXTENSIVA DE ALUMÍNIO 2 X 6 DEGRAUS 3 EM 1  BOTAFOGO REF ESC0615",
+      "brand": "BOTAFOGO",
+      "brandCode": "732",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "8085000026",
+      "category": "ESCADAS",
+      "categorySlug": "escadas",
+      "path": "/escada-extensiva-de-aluminio-2-x-6-degraus-3-em-1-botafogo-ref-esc0615-9863",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "7809",
+      "title": "ESMERILHADEIRA 9\" EAV2609 220V",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6001269220",
+      "category": "ESMERILHADEIRA",
+      "categorySlug": "esmerilhadeira",
+      "path": "/esmerilhadeira-9-eav2609-220v-7809",
+      "image": "/products/images/0078/7809.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "907",
+      "title": "ESPUMA EXPANSIVA DE POLIURETANO 500ML/340G - NOVE54 - 16 90 340 500",
+      "brand": "954",
+      "brandCode": "108",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "1690340500",
+      "category": "ESPUMA EXPANSIVA",
+      "categorySlug": "espuma-expansiva",
+      "path": "/espuma-expansiva-de-poliuretano-500ml340g--nove54--16-90-340-500-907",
+      "image": "/products/images/0009/907.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8451",
+      "title": "ESPUMA POLIURETANO 500ML/340G",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "1690340500",
+      "category": "ESPUMA EXPANSIVA",
+      "categorySlug": "espuma-expansiva",
+      "path": "/espuma-poliuretano-500ml340g-8451",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8104",
+      "title": "FACÃO PARA MATO 18\" AÇO CARBONO CABO DE PLÁSTICO - VONDER 3140000018",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3140000018",
+      "category": "FACA E CANIVETE",
+      "categorySlug": "faca-e-canivete",
+      "path": "/facao-para-mato-18-aco-carbono-cabo-de-plastico--vonder-3140000018-8104",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "8448",
+      "title": "FIO DE NYLON 2,0MMX10MM REDONDO VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3373200100",
+      "category": "RÉGUA, PRUMO E LINHA",
+      "categorySlug": "regua-prumo-e-linha",
+      "path": "/fio-de-nylon-20mmx10mm-redondo-vonder-8448",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "5053",
+      "title": "FUNIL PLÁSTICO BICO FLEXÍVEL  PRETO 160MM - VONDER 5167100000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "5167100000",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-plastico-bico-flexivel-preto-160mm--vonder-5167100000-5053",
+      "image": "/products/images/0050/5053.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9418",
+      "title": "GRAMPO SARGENTO TIPO C 2\" VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3575000200",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-sargento-tipo-c-2-vonder-9418",
+      "image": "/products/images/0094/9418.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9675",
+      "title": "GRAMPO SARGENTO TIPO C 6\" VONDER  REF 3575000600",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3575000600",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-sargento-tipo-c-6-vonder-ref-3575000600-9675",
+      "image": "/products/images/0096/9675.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4695",
+      "title": "JOGO DE MINIPEGADORES 4 PEÇAS - VONDER 3599000400",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3599000400",
+      "category": "JOGO DE FERRAMENTAS",
+      "categorySlug": "jogo-de-ferramentas",
+      "path": "/jogo-de-minipegadores-4-pecas--vonder-3599000400-4695",
+      "image": "/products/images/0046/4695.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5777",
+      "title": "LIMA CHATA BASTARDA 8\" (203MM) COM CABO - VONDER 4310100802",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "4310100802",
+      "category": "LIMA",
+      "categorySlug": "lima",
+      "path": "/lima-chata-bastarda-8-203mm-com-cabo--vonder-4310100802-5777",
+      "image": "/products/images/0057/5777.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10143",
+      "title": "LIMA P/ ENXADA 8\"",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "4310018000",
+      "category": "LIMA",
+      "categorySlug": "lima",
+      "path": "/lima-p-enxada-8-10143",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9022",
+      "title": "LIMA TRIANG MURCA 8",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "4310210803",
+      "category": "LIMA",
+      "categorySlug": "lima",
+      "path": "/lima-triang-murca-8-9022",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1406",
+      "title": "LINHA PARA PEDREIRO LISA 0,8MMX100M - VONDER 33.23.100.080",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3323100080",
+      "category": "RÉGUA, PRUMO E LINHA",
+      "categorySlug": "regua-prumo-e-linha",
+      "path": "/linha-para-pedreiro-lisa-08mmx100m--vonder-3323100080-1406",
+      "image": "/products/images/0014/1406.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "9516",
+      "title": "MACHADINHA COM CABO DE FIBRA 600G VONDER REF 3589000600",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3589000600",
+      "category": "MACHADOS E MACHADINHAS",
+      "categorySlug": "machados-e-machadinhas",
+      "path": "/machadinha-com-cabo-de-fibra-600g-vonder-ref-3589000600-9516",
+      "image": "/products/images/0095/9516.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6605",
+      "title": "MANGUEIRA DE JARDIM TRANCADA 50M",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "31.21.050.000",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-de-jardim-trancada-50m-6605",
+      "image": "/products/images/0066/6605.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "8617",
+      "title": "MICRORRETIFICA MRV 115 220V VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "0001",
+      "category": "MICRO RETIFICA",
+      "categorySlug": "micro-retifica",
+      "path": "/microrretifica-mrv-115-220v-vonder-8617",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5912",
+      "title": "MOTOESMERIL 360W MONO 220V",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6892360220",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/motoesmeril-360w-mono-220v-5912",
+      "image": "/products/images/0059/5912.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7847",
+      "title": "PRUMO DE CENTRO DE METAL 400G - VONDER 3321200400",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3321200400",
+      "category": "RÉGUA, PRUMO E LINHA",
+      "categorySlug": "regua-prumo-e-linha",
+      "path": "/prumo-de-centro-de-metal-400g--vonder-3321200400-7847",
+      "image": "/products/images/0078/7847.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8007",
+      "title": "PRUMO DE CENTRO METAL 400G",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3321200400",
+      "category": "RÉGUA, PRUMO E LINHA",
+      "categorySlug": "regua-prumo-e-linha",
+      "path": "/prumo-de-centro-metal-400g-8007",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1355",
+      "title": "PULVERIZADOR 1,5 LITRO COM COMPRESSÃO PRÉVIA - VONDER 62.40.000.150",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6240000150",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulverizador-15-litro-com-compressao-previa--vonder-6240000150-1355",
+      "image": "/products/images/0013/1355.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "9604",
+      "title": "ROÇADEIRA A GASOLINA COM PARTIDA ELÉTRICA 2,1 CV E 41,5 CM³ (CC)  RGP 415E VONDER  REF 6804000415",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "68.04.000.415",
+      "category": "ROÇADEIRAS",
+      "categorySlug": "rocadeiras",
+      "path": "/rocadeira-a-gasolina-com-partida-eletrica-21-cv-e-415-cm3-cc-rgp-415e-vonder-ref-6804000415-9604",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "8885",
+      "title": "SOPRADOR COSTAL GASOLINA SCV517",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6866517000",
+      "category": "SOPRADORES",
+      "categorySlug": "sopradores",
+      "path": "/soprador-costal-gasolina-scv517-8885",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7846",
+      "title": "TALHADEIRA CHATA 8\" 2060 PACETTA",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3342080000",
+      "category": "TALHADEIRAS",
+      "categorySlug": "talhadeiras",
+      "path": "/talhadeira-chata-8-2060-pacetta-7846",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "995",
+      "title": "TESOURA PARA CABISTA/ELETRICISTA 5.1/2\" - 139 MM - VONDER REF 3085512000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3085512000",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-para-cabistaeletricista-512--139-mm--vonder-ref-3085512000-995",
+      "image": "/products/images/0009/995.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 46,
+    "pageBase": "ferramentas--fornecedor-122"
+  }
+}

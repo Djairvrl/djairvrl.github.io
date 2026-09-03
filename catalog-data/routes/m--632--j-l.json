@@ -1,0 +1,36 @@
+{
+  "title": "J&L",
+  "parentLabel": "Marca",
+  "description": "Produtos J&L disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "J&L"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8910",
+      "title": "MANILHA CURVA PORCA E CUPILHA 1.3/4 - 25",
+      "brand": "J&L",
+      "brandCode": "632",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "236114",
+      "category": "MANILHA",
+      "categorySlug": "manilha",
+      "path": "/manilha-curva-porca-e-cupilha-134--25-8910",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--632--j-l"
+  }
+}

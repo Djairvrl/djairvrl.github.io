@@ -1,0 +1,36 @@
+{
+  "title": "MOELLER",
+  "parentLabel": "Marca",
+  "description": "Produtos MOELLER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MOELLER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9641",
+      "title": "MODULO ELETRONICO CLP 24VCCEASY719-DC-RC",
+      "brand": "MOELLER",
+      "brandCode": "706",
+      "supplier": "PETRARC REP E COM LTDA",
+      "supplierCode": "2657",
+      "manufacturerCode": "274119",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/modulo-eletronico-clp-24vcceasy719dcrc-9641",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--706--moeller"
+  }
+}

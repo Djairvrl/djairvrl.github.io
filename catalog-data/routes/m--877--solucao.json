@@ -1,0 +1,36 @@
+{
+  "title": "SOLUÇÃO",
+  "parentLabel": "Marca",
+  "description": "Produtos SOLUÇÃO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOLUÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11091",
+      "title": "VARA MANOBRA TELESCOPICA 7 ELEM  9180MM",
+      "brand": "SOLUÇÃO",
+      "brandCode": "877",
+      "supplier": "SEGUNA INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4486",
+      "manufacturerCode": "SE915",
+      "category": "VARA DE MANOBRA",
+      "categorySlug": "vara-de-manobra",
+      "path": "/vara-manobra-telescopica-7-elem-9180mm-11091",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--877--solucao"
+  }
+}

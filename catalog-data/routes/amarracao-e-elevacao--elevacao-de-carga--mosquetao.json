@@ -1,0 +1,44 @@
+{
+  "title": "MOSQUETÃO",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria mosquetão em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "MOSQUETÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11045",
+      "title": "MOSQUETAO OVAL",
+      "brand": "VICSA",
+      "brandCode": "4",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "VIC24300 00 00",
+      "category": "MOSQUETÃO",
+      "categorySlug": "mosquetao",
+      "path": "/mosquetao-oval-11045",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--mosquetao"
+  }
+}

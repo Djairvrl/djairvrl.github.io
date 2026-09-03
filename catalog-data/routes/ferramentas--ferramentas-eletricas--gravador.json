@@ -1,0 +1,44 @@
+{
+  "title": "GRAVADOR",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria gravador em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "GRAVADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11503",
+      "title": "GRAVADOR ELETRICO 220V VONDER GRV7000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "60.01.700.220",
+      "category": "GRAVADOR",
+      "categorySlug": "gravador",
+      "path": "/gravador-eletrico-220v-vonder-grv7000-11503",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-eletricas--gravador"
+  }
+}

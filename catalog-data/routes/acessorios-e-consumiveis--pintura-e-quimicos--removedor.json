@@ -1,0 +1,95 @@
+{
+  "title": "REMOVEDOR",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria removedor em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "REMOVEDOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9953",
+      "title": "REMOVEDOR PERFECTO REMOVEX 1LT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TRES MARIAS ALIMENTOS DO VALLE LTDA",
+      "supplierCode": "2192",
+      "manufacturerCode": "520047",
+      "category": "REMOVEDOR",
+      "categorySlug": "removedor",
+      "path": "/removedor-perfecto-removex-1lt-9953",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "9952",
+      "title": "REMOVEDOR PERFECTO REMOVEX 2L",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TRES MARIAS ALIMENTOS DO VALLE LTDA",
+      "supplierCode": "2192",
+      "manufacturerCode": "1533363",
+      "category": "REMOVEDOR",
+      "categorySlug": "removedor",
+      "path": "/removedor-perfecto-removex-2l-9952",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8836",
+      "title": "REMOVEDOR SKC-S AEROSOL MAGNA FLUX",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PALMA MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "2267",
+      "manufacturerCode": "28778",
+      "category": "REMOVEDOR",
+      "categorySlug": "removedor",
+      "path": "/removedor-skcs-aerosol-magna-flux-8836",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7732",
+      "title": "REMOVEDOR TMC 10 5L",
+      "brand": "METAL CHECK",
+      "brandCode": "531",
+      "supplier": "METAL CHEK DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1801",
+      "manufacturerCode": "AAACZZAAVAAADAE",
+      "category": "REMOVEDOR",
+      "categorySlug": "removedor",
+      "path": "/removedor-tmc-10-5l-7732",
+      "image": "/products/images/0077/7732.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--removedor"
+  }
+}

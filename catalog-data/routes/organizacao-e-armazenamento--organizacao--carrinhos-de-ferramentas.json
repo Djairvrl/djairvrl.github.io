@@ -1,0 +1,146 @@
+{
+  "title": "CARRINHOS DE FERRAMENTAS",
+  "parentLabel": "Organização",
+  "description": "Produtos da categoria carrinhos de ferramentas em organização.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Organização",
+      "to": "/organizacao-e-armazenamento/organizacao"
+    },
+    {
+      "label": "CARRINHOS DE FERRAMENTAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8922",
+      "title": "CARRINHO P/TRANSP DE OXIG/ACET 1C",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6160006000",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carrinho-ptransp-de-oxigacet-1c-8922",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "1987",
+      "title": "CARRINHO TRANSPORTE  LBOOXX ALUMINIO",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "1600A001SA000",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carrinho-transporte-lbooxx-aluminio-1987",
+      "image": "/products/images/0019/1987.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "4382",
+      "title": "CARRO FERRAMENTA DESM. C/ GAVET VD1020",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6160001020",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carro-ferramenta-desm-c-gavet-vd1020-4382",
+      "image": "/products/images/0043/4382.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7697",
+      "title": "CARRO P/ TRANSPORTE DE CILINDRO",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "7697",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carro-p-transporte-de-cilindro-7697",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6677",
+      "title": "CARRO P/ TRANSPORTE DE TAMBOR 200L",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "TM-32",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carro-p-transporte-de-tambor-200l-6677",
+      "image": "/products/images/0066/6677.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "4472",
+      "title": "CARRO PARA FERRAMENTAS ABERTO SATA",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST95113SC",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carro-para-ferramentas-aberto-sata-4472",
+      "image": "/products/images/0044/4472.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "4516",
+      "title": "CARRO PARA FERRAMENTAS R20150106",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3301664",
+      "category": "CARRINHOS DE FERRAMENTAS",
+      "categorySlug": "carrinhos-de-ferramentas",
+      "path": "/carro-para-ferramentas-r20150106-4516",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "organizacao-e-armazenamento--organizacao--carrinhos-de-ferramentas"
+  }
+}

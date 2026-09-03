@@ -1,0 +1,53 @@
+{
+  "title": "CARRIER",
+  "parentLabel": "Marca",
+  "description": "Produtos CARRIER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CARRIER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9321",
+      "title": "AR COND 60000 BTUS CARRIER",
+      "brand": "CARRIER",
+      "brandCode": "581",
+      "supplier": "JCM NITEROI REFRIGERAÇÃO LTDA",
+      "supplierCode": "2360",
+      "manufacturerCode": "32491",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ar-cond-60000-btus-carrier-9321",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8295",
+      "title": "AR CONDI CARRIER 57K 380/3 F SIL",
+      "brand": "CARRIER",
+      "brandCode": "581",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "1384",
+      "manufacturerCode": "000000000001015209",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ar-condi-carrier-57k-3803-f-sil-8295",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--581--carrier"
+  }
+}

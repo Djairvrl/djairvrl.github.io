@@ -1,0 +1,36 @@
+{
+  "title": "ASGARD",
+  "parentLabel": "Marca",
+  "description": "Produtos ASGARD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ASGARD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8403",
+      "title": "DISJ CX MOLD TRIP 200A SERIE S250 690V",
+      "brand": "ASGARD",
+      "brandCode": "588",
+      "supplier": "CJ METAIS E CONSTRUCOES LTDA",
+      "supplierCode": "679",
+      "manufacturerCode": "81163",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disj-cx-mold-trip-200a-serie-s250-690v-8403",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--588--asgard"
+  }
+}

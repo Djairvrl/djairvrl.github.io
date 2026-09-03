@@ -1,0 +1,44 @@
+{
+  "title": "VEDA CALHA",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria veda calha em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "VEDA CALHA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13371",
+      "title": "FITA VEDA ROSCA 18MMX50 AMANCO",
+      "brand": "AMANCO",
+      "brandCode": "80",
+      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "supplierCode": "631",
+      "manufacturerCode": "21478",
+      "category": "VEDA CALHA",
+      "categorySlug": "veda-calha",
+      "path": "/fita-veda-rosca-18mmx50-amanco-13371",
+      "image": "/products/images/0133/13371.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--veda-calha"
+  }
+}

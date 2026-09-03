@@ -1,0 +1,95 @@
+{
+  "title": "PLASTI FILM",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria plasti film em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "PLASTI FILM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3452",
+      "title": "EMBURRAC A FRIO PLAST FILM PRETO 500ML",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "CK1",
+      "category": "PLASTI FILM",
+      "categorySlug": "plasti-film",
+      "path": "/emburrac-a-frio-plast-film-preto-500ml-3452",
+      "image": "/products/images/0034/3452.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "1433",
+      "title": "FILME PVC BOBINA 38CM X 300M - VABENE",
+      "brand": "VABENE",
+      "brandCode": "116",
+      "supplier": "BM3 IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "293",
+      "manufacturerCode": "1625",
+      "category": "PLASTI FILM",
+      "categorySlug": "plasti-film",
+      "path": "/filme-pvc-bobina-38cm-x-300m--vabene-1433",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11192",
+      "title": "FILME PVC ROLO 38X300M TECFILM REFIL UN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ESPIRITO SANTO COMERCIO EMBALAGENS LTDA",
+      "supplierCode": "4673",
+      "manufacturerCode": "58055",
+      "category": "PLASTI FILM",
+      "categorySlug": "plasti-film",
+      "path": "/filme-pvc-rolo-38x300m-tecfilm-refil-un-11192",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6957",
+      "title": "PELICULA MASACARA TRANSF NC 1,00X75M",
+      "brand": "DM REFLETIVO",
+      "brandCode": "29",
+      "supplier": "DAOMING BRASIL TECIDOS E FILMES REFLET",
+      "supplierCode": "31",
+      "manufacturerCode": "DM2100N",
+      "category": "PLASTI FILM",
+      "categorySlug": "plasti-film",
+      "path": "/pelicula-masacara-transf-nc-100x75m-6957",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--plasti-film"
+  }
+}

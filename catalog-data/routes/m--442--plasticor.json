@@ -1,0 +1,36 @@
+{
+  "title": "PLASTICOR",
+  "parentLabel": "Marca",
+  "description": "Produtos PLASTICOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLASTICOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10951",
+      "title": "CONE LARANJA E BRANCO 75CM",
+      "brand": "PLASTICOR",
+      "brandCode": "442",
+      "supplier": "PLASTCOR DO BRASIL LTDA - PB",
+      "supplierCode": "3880",
+      "manufacturerCode": "700.01291",
+      "category": "CONES",
+      "categorySlug": "cones",
+      "path": "/cone-laranja-e-branco-75cm-10951",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--442--plasticor"
+  }
+}

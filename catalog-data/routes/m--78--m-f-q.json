@@ -1,0 +1,36 @@
+{
+  "title": "M.F.Q",
+  "parentLabel": "Marca",
+  "description": "Produtos M.F.Q disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "M.F.Q"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1151",
+      "title": "RESPIRADOR DESCARTÁVEL PFF2 COM VÁLVULA AZUL CA36857 - MFQ",
+      "brand": "M.F.Q",
+      "brandCode": "78",
+      "supplier": "MFQ RESPIRADORES INDUSTRIA E COMERCIO",
+      "supplierCode": "90",
+      "manufacturerCode": "538",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/respirador-descartavel-pff2-com-valvula-azul-ca36857--mfq-1151",
+      "image": "/products/images/0011/1151.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--78--m-f-q"
+  }
+}

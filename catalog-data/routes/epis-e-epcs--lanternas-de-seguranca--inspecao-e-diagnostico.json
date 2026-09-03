@@ -1,0 +1,44 @@
+{
+  "title": "INSPEÇÃO E DIAGNÓSTICO",
+  "parentLabel": "Lanternas de Segurança",
+  "description": "Produtos da categoria inspeção e diagnóstico em lanternas de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Lanternas de Segurança",
+      "to": "/epis-e-epcs/lanternas-de-seguranca"
+    },
+    {
+      "label": "INSPEÇÃO E DIAGNÓSTICO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11032",
+      "title": "LANTERNA RECAR DE INSPECAO UV VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "8075037003",
+      "category": "INSPEÇÃO E DIAGNÓSTICO",
+      "categorySlug": "inspecao-e-diagnostico",
+      "path": "/lanterna-recar-de-inspecao-uv-vonder-11032",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--lanternas-de-seguranca--inspecao-e-diagnostico"
+  }
+}

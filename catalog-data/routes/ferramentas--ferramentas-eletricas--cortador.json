@@ -1,0 +1,129 @@
+{
+  "title": "CORTADOR",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria cortador em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "CORTADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11834",
+      "title": "COMBO CORTADORA COMPAC+2 BAT+CARREGADOR",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11834",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/combo-cortadora-compac2-batcarregador-11834",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7827",
+      "title": "CORTADOR DE GALHO 100MM A BATERIA 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DUC101Z01",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortador-de-galho-100mm-a-bateria-18v-7827",
+      "image": "/products/images/0078/7827.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "8095",
+      "title": "CORTADORA 355MM A BAT XGT 2X 40V MAX",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "CE001GZ",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortadora-355mm-a-bat-xgt-2x-40v-max-8095",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10104",
+      "title": "CORTADORA ANGULAR 76MM A BATERIA  MAKITA REF DMC300Z",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "DMC300Z",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortadora-angular-76mm-a-bateria-makita-ref-dmc300z-10104",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5955",
+      "title": "CORTADORA DE METAIS GCO 14-24 220V+5DISC",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601B370E1000",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortadora-de-metais-gco-1424-220v5disc-5955",
+      "image": "/products/images/0059/5955.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5630",
+      "title": "CORTADORA DE METAL GCO 220",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "0601B371E0000",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortadora-de-metal-gco-220-5630",
+      "image": "/products/images/0056/5630.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ferramentas--ferramentas-eletricas--cortador"
+  }
+}

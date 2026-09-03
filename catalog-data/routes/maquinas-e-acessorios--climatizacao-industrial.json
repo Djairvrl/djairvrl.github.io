@@ -1,0 +1,64 @@
+{
+  "title": "Climatização Industrial",
+  "parentLabel": "Máquinas e Acessórios",
+  "description": "Soluções de climatização industrial disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Climatização Industrial"
+    }
+  ],
+  "children": [
+    {
+      "name": "SECADOR E AQUECEDOR INDUSTRIAL",
+      "slug": "secador-e-aquecedor-industrial",
+      "path": "/maquinas-e-acessorios/climatizacao-industrial/secador-e-aquecedor-industrial",
+      "count": 2
+    }
+  ],
+  "products": [
+    {
+      "code": "13421",
+      "title": "CINTA AQUECIMENTO SILICONE TAMBOR 200L",
+      "brand": "ITAQUA",
+      "brandCode": "260",
+      "supplier": "ITAQUA INDUSTRIA E COMERCIO DE RESISTENCIAS ELETRICAS LTDA",
+      "supplierCode": "6280",
+      "manufacturerCode": "MLB3783586587",
+      "category": "SECADOR E AQUECEDOR INDUSTRIAL",
+      "categorySlug": "secador-e-aquecedor-industrial",
+      "path": "/cinta-aquecimento-silicone-tambor-200l-13421",
+      "image": "/products/images/0134/13421.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Climatização Industrial",
+      "sectionSlug": "climatizacao-industrial"
+    },
+    {
+      "code": "12681",
+      "title": "SECADOR INDUSTRIAL ELETRICO FE300F",
+      "brand": "FURIO",
+      "brandCode": "1116",
+      "supplier": "BOSSA NOVA COMERCIAL LTDA",
+      "supplierCode": "5854",
+      "manufacturerCode": "FE300F",
+      "category": "SECADOR E AQUECEDOR INDUSTRIAL",
+      "categorySlug": "secador-e-aquecedor-industrial",
+      "path": "/secador-industrial-eletrico-fe300f-12681",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Climatização Industrial",
+      "sectionSlug": "climatizacao-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "maquinas-e-acessorios--climatizacao-industrial"
+  }
+}

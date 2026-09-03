@@ -1,0 +1,149 @@
+{
+  "title": "Informatica E Eletronicos",
+  "parentLabel": "Suprimentos Corporativos",
+  "description": "Soluções de informatica e eletronicos disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informatica E Eletronicos"
+    }
+  ],
+  "children": [
+    {
+      "name": "ACESSÓRIOS",
+      "slug": "acessorios",
+      "path": "/suprimentos-corporativos/informatica-e-eletronicos/acessorios",
+      "count": 7
+    }
+  ],
+  "products": [
+    {
+      "code": "10943",
+      "title": "CENTRAL COMANDO TRIF FACILITY BIV. 60HZ",
+      "brand": "TRIFLEX",
+      "brandCode": "835",
+      "supplier": "MEG ATACADO & VAREJO LTDA",
+      "supplierCode": "3097",
+      "manufacturerCode": "A22102",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/central-comando-trif-facility-biv-60hz-10943",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    },
+    {
+      "code": "11163",
+      "title": "CONECTOR EMENDA RJ-45 RETO. WURTH",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "23240",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/conector-emenda-rj45-reto-wurth-11163",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    },
+    {
+      "code": "11164",
+      "title": "CONECTOR RJ-45 MACHO CAT.5E. WURTH",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "48961",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/conector-rj45-macho-cat5e-wurth-11164",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    },
+    {
+      "code": "11015",
+      "title": "FONTE CARREG NOTEBOOK 5V-20V/3.25A USB-C",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DOC COM LTDA",
+      "supplierCode": "4331",
+      "manufacturerCode": "F106",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/fonte-carreg-notebook-5v20v325a-usbc-11015",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    },
+    {
+      "code": "13343",
+      "title": "KIT SNMP NOBREAK - EXTERNO",
+      "brand": "TS SHARA",
+      "brandCode": "1227",
+      "supplier": "TS SHARA TECNOLOGIA DE SISTEMAS LTDA",
+      "supplierCode": "6247",
+      "manufacturerCode": "979",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/kit-snmp-nobreak--externo-13343",
+      "image": "/products/images/0133/13343.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    },
+    {
+      "code": "10990",
+      "title": "QUADRO ROBOZINHO DJ159 404020 METALICO",
+      "brand": "DJ LED",
+      "brandCode": "849",
+      "supplier": "DJ LED ELETRICA COMERCIO DE MATERIAL ELETRICO LTDA.",
+      "supplierCode": "4308",
+      "manufacturerCode": "DJ.159.ROBOMET",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/quadro-robozinho-dj159-404020-metalico-10990",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    },
+    {
+      "code": "11014",
+      "title": "TECLADO P/ COMPUTADR PORT INSP 3511/3512",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DOC COM LTDA",
+      "supplierCode": "4331",
+      "manufacturerCode": "T249",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/teclado-p-computadr-port-insp-35113512-11014",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "suprimentos-corporativos--informatica-e-eletronicos"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "MINASPLAST",
+  "parentLabel": "Marca",
+  "description": "Produtos MINASPLAST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MINASPLAST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11410",
+      "title": "COPO 150ML AGUA C/100 TRANS PP 1X1",
+      "brand": "MINASPLAST",
+      "brandCode": "935",
+      "supplier": "CASA NORTE LTDA",
+      "supplierCode": "4511",
+      "manufacturerCode": "110197",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/copo-150ml-agua-c100-trans-pp-1x1-11410",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--935--minasplast"
+  }
+}

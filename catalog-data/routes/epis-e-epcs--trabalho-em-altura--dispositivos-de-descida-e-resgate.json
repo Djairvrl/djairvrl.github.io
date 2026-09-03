@@ -1,0 +1,146 @@
+{
+  "title": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+  "parentLabel": "Trabalho em Altura",
+  "description": "Produtos da categoria dispositivos  de descida e resgate em trabalho em altura.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Trabalho em Altura",
+      "to": "/epis-e-epcs/trabalho-em-altura"
+    },
+    {
+      "label": "DISPOSITIVOS  DE DESCIDA E RESGATE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6474",
+      "title": "CINTO DE RESGATE IMMO - ULTRA SAIFE USM54000000",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USM540000000",
+      "category": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+      "categorySlug": "dispositivos-de-descida-e-resgate",
+      "path": "/cinto-de-resgate-immo--ultra-saife-usm54000000-6474",
+      "image": "/products/images/0064/6474.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "2611",
+      "title": "DISPOSITIVO DE DESCIDA E RESGATE ROLLGLISS R550 120M - 3M DBI SALA",
+      "brand": "DBI SALAS",
+      "brandCode": "3",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "3327400",
+      "category": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+      "categorySlug": "dispositivos-de-descida-e-resgate",
+      "path": "/dispositivo-de-descida-e-resgate-rollgliss-r550-120m--3m-dbi-sala-2611",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "7286",
+      "title": "DISPOSITIVO DESCIDA E RESGATE RINNO 90M",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USAE00000090",
+      "category": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+      "categorySlug": "dispositivos-de-descida-e-resgate",
+      "path": "/dispositivo-descida-e-resgate-rinno-90m-7286",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "10635",
+      "title": "ROPE RESCUE THOR",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USKR00100000",
+      "category": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+      "categorySlug": "dispositivos-de-descida-e-resgate",
+      "path": "/rope-rescue-thor-10635",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "7340",
+      "title": "SAFESCAPE ELITE RDD, VOLANTE GUINCHO E BOLSA RESGATE. 120M DE CORDA DE TRABALHO HONEYWELL REF 1029163-POR",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "160",
+      "manufacturerCode": "IT000000027506",
+      "category": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+      "categorySlug": "dispositivos-de-descida-e-resgate",
+      "path": "/safescape-elite-rdd-volante-guincho-e-bolsa-resgate-120m-de-corda-de-trabalho-honeywell-ref-1029163por-7340",
+      "image": "/products/images/0073/7340.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "4856",
+      "title": "SAFESCAPE ELITE RDD, VOLANTE GUINCHO E BOLSA RESGATE. 150M DE CORDA DE TRABALHO - HONEYWELL REF 1029160-POR",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "171",
+      "manufacturerCode": "IT000000027505",
+      "category": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+      "categorySlug": "dispositivos-de-descida-e-resgate",
+      "path": "/safescape-elite-rdd-volante-guincho-e-bolsa-resgate-150m-de-corda-de-trabalho--honeywell-ref-1029160por-4856",
+      "image": "/products/images/0048/4856.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "8987",
+      "title": "SISTEMA DE TRAB E RESG  ESC 40M CORDA",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USLV00100300",
+      "category": "DISPOSITIVOS  DE DESCIDA E RESGATE",
+      "categorySlug": "dispositivos-de-descida-e-resgate",
+      "path": "/sistema-de-trab-e-resg-esc-40m-corda-8987",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--trabalho-em-altura--dispositivos-de-descida-e-resgate"
+  }
+}

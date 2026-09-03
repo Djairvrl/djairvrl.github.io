@@ -1,0 +1,53 @@
+{
+  "title": "M2",
+  "parentLabel": "Marca",
+  "description": "Produtos M2 disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "M2"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10984",
+      "title": "COLA FIXADORA M2 BALDE DE 5KG",
+      "brand": "M2",
+      "brandCode": "846",
+      "supplier": "VIA CLEAN COMERCIO DE SINALIZACAO VIARIA, CONTAINER, PALLETS",
+      "supplierCode": "4292",
+      "manufacturerCode": "M2S 0125",
+      "category": "COLA",
+      "categorySlug": "cola",
+      "path": "/cola-fixadora-m2-balde-de-5kg-10984",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10985",
+      "title": "TACHA BIDIR. AMARELA REFLETIVA T1",
+      "brand": "M2",
+      "brandCode": "846",
+      "supplier": "VIA CLEAN COMERCIO DE SINALIZACAO VIARIA, CONTAINER, PALLETS",
+      "supplierCode": "4292",
+      "manufacturerCode": "M2S 0020",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/tacha-bidir-amarela-refletiva-t1-10985",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--846--m2"
+  }
+}

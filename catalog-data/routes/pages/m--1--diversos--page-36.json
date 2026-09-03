@@ -1,0 +1,22 @@
+{
+  "page": 36,
+  "products": [
+    {
+      "code": "4481",
+      "title": "ÁLCOOL ISOPROPÍLICO PA ACS 1L 99.9% - ATRIOM  REF.  AT0500",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ATRIOM PRODUTOS QUIMICOS LTDA",
+      "supplierCode": "924",
+      "manufacturerCode": "AT0006",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-isopropilico-pa-acs-1l-999--atriom-ref-at0500-4481",
+      "image": "/products/images/0044/4481.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ]
+}

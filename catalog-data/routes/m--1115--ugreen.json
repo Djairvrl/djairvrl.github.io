@@ -1,0 +1,36 @@
+{
+  "title": "UGREEN",
+  "parentLabel": "Marca",
+  "description": "Produtos UGREEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UGREEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12679",
+      "title": "CABO EXTENSAO USB-C MACHO P FEMEA 1M",
+      "brand": "UGREEN",
+      "brandCode": "1115",
+      "supplier": "MANZANO COMERCIO E SERVICOS LTDA",
+      "supplierCode": "5863",
+      "manufacturerCode": "4888",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cabo-extensao-usbc-macho-p-femea-1m-12679",
+      "image": "/products/images/0126/12679.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1115--ugreen"
+  }
+}

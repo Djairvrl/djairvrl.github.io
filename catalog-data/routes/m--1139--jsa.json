@@ -1,0 +1,87 @@
+{
+  "title": "JSA",
+  "parentLabel": "Marca",
+  "description": "Produtos JSA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JSA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12830",
+      "title": "LIXEIRA BASCULANTE 012 LT AZUL",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00825",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012-lt-azul-12830",
+      "image": "/products/images/0128/12830.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12831",
+      "title": "LIXEIRA BASCULANTE 012 LT VERDE",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00828",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012-lt-verde-12831",
+      "image": "/products/images/0128/12831.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12832",
+      "title": "LIXEIRA BASCULANTE 012 LT VERMELHO",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00829",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012-lt-vermelho-12832",
+      "image": "/products/images/0128/12832.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "12833",
+      "title": "LIXEIRA BASCULANTE 012L CINZA",
+      "brand": "JSA",
+      "brandCode": "1139",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "00821",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-basculante-012l-cinza-12833",
+      "image": "/products/images/0128/12833.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--1139--jsa"
+  }
+}

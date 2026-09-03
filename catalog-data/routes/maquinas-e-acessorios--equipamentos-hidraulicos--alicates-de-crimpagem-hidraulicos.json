@@ -1,0 +1,112 @@
+{
+  "title": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+  "parentLabel": "Equipamentos Hidráulicos",
+  "description": "Produtos da categoria alicates de crimpagem hidráulicos em equipamentos hidráulicos.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Equipamentos Hidráulicos",
+      "to": "/maquinas-e-acessorios/equipamentos-hidraulicos"
+    },
+    {
+      "label": "ALICATES DE CRIMPAGEM HIDRÁULICOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10726",
+      "title": "ALICATE CRIMPADOR ACV245",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3686245000",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-acv245-10726",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "2413",
+      "title": "ALICATE CRIMPADOR HIDRÁULICO 508MM ACV 300 COM 12 MATRIZES -  VONDER 36.86.300.000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686300000",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-hidraulico-508mm-acv-300-com-12-matrizes--vonder-3686300000-2413",
+      "image": "/products/images/0024/2413.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "9676",
+      "title": "ALICATE CRIMPADOR HIDRÁULICO A BATERIA 20V ACW400  WORKER REF 300844",
+      "brand": "WORKER",
+      "brandCode": "421",
+      "supplier": "SUPER-PRO COMERCIO DE EQUIPAMENTOS E FERRAMENTAS LTDA.",
+      "supplierCode": "1539",
+      "manufacturerCode": "300844",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-hidraulico-a-bateria-20v-acw400-worker-ref-300844-9676",
+      "image": "/products/images/0096/9676.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "3465",
+      "title": "ALICATE CRIMPADOR HIDRÁULICO ACV 400 - VONDER 3686400000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3686400000",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-crimpador-hidraulico-acv-400--vonder-3686400000-3465",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "8880",
+      "title": "ALICATE REDE CRIMPAGEM CABO CONECTOR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "J. P.TESSARINI COMERCIO DE EQUIPAMENTOS DE INFORMATICA",
+      "supplierCode": "2278",
+      "manufacturerCode": "12821",
+      "category": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+      "categorySlug": "alicates-de-crimpagem-hidraulicos",
+      "path": "/alicate-rede-crimpagem-cabo-conector-8880",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "maquinas-e-acessorios--equipamentos-hidraulicos--alicates-de-crimpagem-hidraulicos"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "BICOS DE ABASTECIMENTO",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria bicos de abastecimento em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "BICOS DE ABASTECIMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11762",
+      "title": "BICO ABAST AUT 1/2\" VERM V 70L/M CURTO",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "4625",
+      "category": "BICOS DE ABASTECIMENTO",
+      "categorySlug": "bicos-de-abastecimento",
+      "path": "/bico-abast-aut-12-verm-v-70lm-curto-11762",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "12868",
+      "title": "BICO ABAST AUT 3/4\" VERM 75L/M CURTO",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "3819",
+      "category": "BICOS DE ABASTECIMENTO",
+      "categorySlug": "bicos-de-abastecimento",
+      "path": "/bico-abast-aut-34-verm-75lm-curto-12868",
+      "image": "/products/images/0128/12868.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--bicos-de-abastecimento"
+  }
+}

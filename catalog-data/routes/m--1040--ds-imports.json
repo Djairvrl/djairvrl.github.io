@@ -1,0 +1,36 @@
+{
+  "title": "DS IMPORTS",
+  "parentLabel": "Marca",
+  "description": "Produtos DS IMPORTS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DS IMPORTS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12142",
+      "title": "CANETA LANTERNA MEDICA",
+      "brand": "DS IMPORTS",
+      "brandCode": "1040",
+      "supplier": "DIOGO DAMASIO BARDELLI",
+      "supplierCode": "5556",
+      "manufacturerCode": "DS0009",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/caneta-lanterna-medica-12142",
+      "image": "/products/images/0121/12142.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1040--ds-imports"
+  }
+}

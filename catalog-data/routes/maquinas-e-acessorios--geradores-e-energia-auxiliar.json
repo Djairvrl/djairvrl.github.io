@@ -1,0 +1,22 @@
+{
+  "title": "Geradores e Energia Auxiliar",
+  "parentLabel": "Máquinas e Acessórios",
+  "description": "Soluções de geradores e energia auxiliar disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Geradores e Energia Auxiliar"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "maquinas-e-acessorios--geradores-e-energia-auxiliar"
+  }
+}

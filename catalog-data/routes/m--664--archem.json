@@ -1,0 +1,53 @@
+{
+  "title": "ARCHEM",
+  "parentLabel": "Marca",
+  "description": "Produtos ARCHEM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ARCHEM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11151",
+      "title": "ARCHEM SM 26 20L",
+      "brand": "ARCHEM",
+      "brandCode": "664",
+      "supplier": "JOTAPEDOIS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "4617",
+      "manufacturerCode": "3042",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/archem-sm-26-20l-11151",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "9299",
+      "title": "SOLVENTE DE SEG P/ LIMPEZA DE EQUIP ELET",
+      "brand": "ARCHEM",
+      "brandCode": "664",
+      "supplier": "PROLUB COMERCIO E REPRESENTACOES LTDA",
+      "supplierCode": "2489",
+      "manufacturerCode": "562",
+      "category": "SOLVENTE",
+      "categorySlug": "solvente",
+      "path": "/solvente-de-seg-p-limpeza-de-equip-elet-9299",
+      "image": "/products/images/0092/9299.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--664--archem"
+  }
+}

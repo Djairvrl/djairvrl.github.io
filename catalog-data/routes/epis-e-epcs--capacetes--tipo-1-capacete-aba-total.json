@@ -1,0 +1,78 @@
+{
+  "title": "TIPO 1 CAPACETE ABA TOTAL",
+  "parentLabel": "Capacetes",
+  "description": "Produtos da categoria tipo 1 capacete aba total em capacetes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Capacetes",
+      "to": "/epis-e-epcs/capacetes"
+    },
+    {
+      "label": "TIPO 1 CAPACETE ABA TOTAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2989",
+      "title": "CAPAC ABA TOTAL CINZA CL B AJ. FAC CA365",
+      "brand": "MSA",
+      "brandCode": "9",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "101MJAT   00 CZ",
+      "category": "TIPO 1 CAPACETE ABA TOTAL",
+      "categorySlug": "tipo-1-capacete-aba-total",
+      "path": "/capac-aba-total-cinza-cl-b-aj-fac-ca365-2989",
+      "image": "/products/images/0029/2989.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    },
+    {
+      "code": "1332",
+      "title": "CAPACETE DE SEGURANÇA V-GARD BRANCO ABA TOTAL COM SUSPENSÃO PUSH KEY E JUGULAR CLASSE B CA365 - MSA",
+      "brand": "MSA",
+      "brandCode": "9",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "101MJAT   00 BR",
+      "category": "TIPO 1 CAPACETE ABA TOTAL",
+      "categorySlug": "tipo-1-capacete-aba-total",
+      "path": "/capacete-de-seguranca-vgard-branco-aba-total-com-suspensao-push-key-e-jugular-classe-b-ca365--msa-1332",
+      "image": "/products/images/0013/1332.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    },
+    {
+      "code": "2911",
+      "title": "CAPACETE DE SEGURANÇA V-GARD VERMELHO ABA TOTAL COM SUSPENSÃO PUSH KEY E JUGULAR CLASSE B CA365 - MSA",
+      "brand": "MSA",
+      "brandCode": "9",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "101MJAT   00 VM",
+      "category": "TIPO 1 CAPACETE ABA TOTAL",
+      "categorySlug": "tipo-1-capacete-aba-total",
+      "path": "/capacete-de-seguranca-vgard-vermelho-aba-total-com-suspensao-push-key-e-jugular-classe-b-ca365--msa-2911",
+      "image": "/products/images/0029/2911.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--capacetes--tipo-1-capacete-aba-total"
+  }
+}

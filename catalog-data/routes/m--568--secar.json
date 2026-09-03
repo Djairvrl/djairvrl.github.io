@@ -1,0 +1,36 @@
+{
+  "title": "SECAR",
+  "parentLabel": "Marca",
+  "description": "Produtos SECAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SECAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8140",
+      "title": "DESUMIDIFICADOR SECAR 180G KIDS",
+      "brand": "SECAR",
+      "brandCode": "568",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "13553",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/desumidificador-secar-180g-kids-8140",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--568--secar"
+  }
+}

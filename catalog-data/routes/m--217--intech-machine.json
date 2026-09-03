@@ -1,0 +1,87 @@
+{
+  "title": "INTECH MACHINE",
+  "parentLabel": "Marca",
+  "description": "Produtos INTECH MACHINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INTECH MACHINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4255",
+      "title": "BOMBA D'AGUA PERIFERICA BP500 220V",
+      "brand": "INTECH MACHINE",
+      "brandCode": "217",
+      "supplier": "SEMAR IMPORT ATACADISTA LTDA",
+      "supplierCode": "899",
+      "manufacturerCode": "BP500-220V",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/bomba-dagua-periferica-bp500-220v-4255",
+      "image": "/products/images/0042/4255.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "11491",
+      "title": "BOMBA PERIFERICA MONOFASICA BP500-127V",
+      "brand": "INTECH MACHINE",
+      "brandCode": "217",
+      "supplier": "WSRC MACHINES DO BRASIL LTDA",
+      "supplierCode": "4996",
+      "manufacturerCode": "BOMBA-BP500",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/bomba-periferica-monofasica-bp500127v-11491",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "11615",
+      "title": "MOTOBOMBA PERIFER 1/2 HP MONO BP500 220V",
+      "brand": "INTECH MACHINE",
+      "brandCode": "217",
+      "supplier": "DUTRA MAQUINAS COMERCIAL E TECNICA LTDA",
+      "supplierCode": "5130",
+      "manufacturerCode": "BP500-220V",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/motobomba-perifer-12-hp-mono-bp500-220v-11615",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "4253",
+      "title": "PULVERIZADOR 20 LITROS COSTAL MANUAL 4 BICOS GP2000 - INTECH MACHINE",
+      "brand": "INTECH MACHINE",
+      "brandCode": "217",
+      "supplier": "SEMAR IMPORT ATACADISTA LTDA",
+      "supplierCode": "899",
+      "manufacturerCode": "GP2000",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulverizador-20-litros-costal-manual-4-bicos-gp2000--intech-machine-4253",
+      "image": "/products/images/0042/4253.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--217--intech-machine"
+  }
+}

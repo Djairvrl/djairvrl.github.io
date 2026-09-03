@@ -1,0 +1,146 @@
+{
+  "title": "REFLETORES PORTÁTEIS",
+  "parentLabel": "Lanternas de Segurança",
+  "description": "Produtos da categoria refletores portáteis em lanternas de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Lanternas de Segurança",
+      "to": "/epis-e-epcs/lanternas-de-seguranca"
+    },
+    {
+      "label": "REFLETORES PORTÁTEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10516",
+      "title": "COMBO LANTERNA + BAT5AH E CARREGADOR 18V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10516",
+      "category": "REFLETORES PORTÁTEIS",
+      "categorySlug": "refletores-portateis",
+      "path": "/combo-lanterna-bat5ah-e-carregador-18v-10516",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "8509",
+      "title": "COMBO REFLETOR PARA AREA TRABALHO 2 BAT",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "8509",
+      "category": "REFLETORES PORTÁTEIS",
+      "categorySlug": "refletores-portateis",
+      "path": "/combo-refletor-para-area-trabalho-2-bat-8509",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "1248",
+      "title": "CORDÃO PARA ILUMINAÇÃO AUTOMOTIVA COM GARRA PARA BATERIA 12V 40W 5M - FORCI LINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "1617",
+      "category": "REFLETORES PORTÁTEIS",
+      "categorySlug": "refletores-portateis",
+      "path": "/cordao-para-iluminacao-automotiva-com-garra-para-bateria-12v-40w-5m--forci-line-1248",
+      "image": "/products/images/0012/1248.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "6533",
+      "title": "REFLETOR 220VOLT COM SUPORTE 100WAT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "0008",
+      "category": "REFLETORES PORTÁTEIS",
+      "categorySlug": "refletores-portateis",
+      "path": "/refletor-220volt-com-suporte-100wat-6533",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "6590",
+      "title": "REFLETOR DE LED HÍBRIDO A BATERIA 360º SEM BATERIA E CARREGADOR 220V - MAKITA DML805",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "DML805-220V",
+      "category": "REFLETORES PORTÁTEIS",
+      "categorySlug": "refletores-portateis",
+      "path": "/refletor-de-led-hibrido-a-bateria-360o-sem-bateria-e-carregador-220v--makita-dml805-6590",
+      "image": "/products/images/0065/6590.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "12950",
+      "title": "REFLETOR RECAR LED SMD 10W RRV010 VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "8075010900",
+      "category": "REFLETORES PORTÁTEIS",
+      "categorySlug": "refletores-portateis",
+      "path": "/refletor-recar-led-smd-10w-rrv010-vonder-12950",
+      "image": "/products/images/0129/12950.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "8834",
+      "title": "TRIPE  POTATIL P/REFLETOR DML 805",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1240",
+      "manufacturerCode": "GM00001381",
+      "category": "REFLETORES PORTÁTEIS",
+      "categorySlug": "refletores-portateis",
+      "path": "/tripe-potatil-prefletor-dml-805-8834",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--lanternas-de-seguranca--refletores-portateis"
+  }
+}

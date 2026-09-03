@@ -1,0 +1,170 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1379",
+    "name": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL"
+  },
+  "products": [
+    {
+      "code": "10376",
+      "title": "ABRIGO EM ACO GALVANIZ VERDE 75X30 25CM",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "ABG17032025",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-em-aco-galvaniz-verde-75x30-25cm-10376",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9231",
+      "title": "CAPA EXTINTOR COM VISOR TRANSP P/ 50KG",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.001-1",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-extintor-com-visor-transp-p-50kg-9231",
+      "image": "/products/images/0092/9231.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9233",
+      "title": "CAPA EXTINTOR COM VISOR TRANSP P/ 6KG",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.003-3",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-extintor-com-visor-transp-p-6kg-9233",
+      "image": "/products/images/0092/9233.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9232",
+      "title": "CAPA EXTINTOR COM VISOR TRANSP P/ 8KG",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.002-2",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-extintor-com-visor-transp-p-8kg-9232",
+      "image": "/products/images/0092/9232.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "10261",
+      "title": "CAPA P/ EXTINTOR LONACILINDRICA CO2 12KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.005",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-p-extintor-lonacilindrica-co2-12kg-10261",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9352",
+      "title": "ETIQUETA PARA EXTINTOR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "TGEXT25062024",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/etiqueta-para-extintor-9352",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "combate-a-incendio--fornecedor-1379"
+  }
+}

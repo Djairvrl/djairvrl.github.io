@@ -1,0 +1,36 @@
+{
+  "title": "AKAUA",
+  "parentLabel": "Marca",
+  "description": "Produtos AKAUA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AKAUA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6640",
+      "title": "CAIXA ISCA DE PAPELAO PARA A BELHAS",
+      "brand": "AKAUA",
+      "brandCode": "313",
+      "supplier": "AKAUA DO AMARAL PROCOPIO PEREIRA 44176378816",
+      "supplierCode": "1275",
+      "manufacturerCode": "CIPROMO7",
+      "category": "KIT ANIMAIS PEÇONHENTOS",
+      "categorySlug": "kit-animais-peconhentos",
+      "path": "/caixa-isca-de-papelao-para-a-belhas-6640",
+      "image": "/products/images/0066/6640.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Acessórios",
+      "sectionSlug": "acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--313--akaua"
+  }
+}

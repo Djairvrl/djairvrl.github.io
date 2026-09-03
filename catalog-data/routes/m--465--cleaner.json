@@ -1,0 +1,36 @@
+{
+  "title": "CLEANER",
+  "parentLabel": "Marca",
+  "description": "Produtos CLEANER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CLEANER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7443",
+      "title": "CANETA LIMPEZA DE CONECTORES OPTICOS",
+      "brand": "CLEANER",
+      "brandCode": "465",
+      "supplier": "PRIMOS SHOP LTDA",
+      "supplierCode": "1650",
+      "manufacturerCode": "LICO",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/caneta-limpeza-de-conectores-opticos-7443",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--465--cleaner"
+  }
+}

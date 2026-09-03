@@ -1,0 +1,95 @@
+{
+  "title": "FUSÍVEiS E RESISTORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria fusíveis e resistores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "FUSÍVEiS E RESISTORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10771",
+      "title": "BASE FUSIVEL 5SF1024 SIEMENS",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "NEOEX MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "4075",
+      "manufacturerCode": "MLB3710105207_180581582810",
+      "category": "FUSÍVEiS E RESISTORES",
+      "categorySlug": "fusiveis-e-resistores",
+      "path": "/base-fusivel-5sf1024-siemens-10771",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8917",
+      "title": "BUSSMANN FUSE 550A 690V 170M3672",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JER - COMANDO E AUTOMACAO LTDA",
+      "supplierCode": "2298",
+      "manufacturerCode": "170M3672",
+      "category": "FUSÍVEiS E RESISTORES",
+      "categorySlug": "fusiveis-e-resistores",
+      "path": "/bussmann-fuse-550a-690v-170m3672-8917",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10776",
+      "title": "CAPA PROTECAO DII 2 25A CPFW25",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "AEA DISTRIBUIDORA DE MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "4081",
+      "manufacturerCode": "000000000010045367",
+      "category": "FUSÍVEiS E RESISTORES",
+      "categorySlug": "fusiveis-e-resistores",
+      "path": "/capa-protecao-dii-2-25a-cpfw25-10776",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10777",
+      "title": "TAMPA P/FUSIVEL DIAZED 02- 25A 5SH1221",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "LOJA ELETRICA LTDA",
+      "supplierCode": "4083",
+      "manufacturerCode": "230030332023",
+      "category": "FUSÍVEiS E RESISTORES",
+      "categorySlug": "fusiveis-e-resistores",
+      "path": "/tampa-pfusivel-diazed-02-25a-5sh1221-10777",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--fusiveis-e-resistores"
+  }
+}

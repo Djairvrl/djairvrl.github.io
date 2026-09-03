@@ -1,0 +1,146 @@
+{
+  "title": "TIPO PLUG",
+  "parentLabel": "Proteção Auditiva",
+  "description": "Produtos da categoria tipo plug em proteção auditiva.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Auditiva",
+      "to": "/epis-e-epcs/protecao-auditiva"
+    },
+    {
+      "label": "TIPO PLUG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3587",
+      "title": "PROT AURICULAR PLUG LARANJA C.A15485",
+      "brand": "DYSTRAY",
+      "brandCode": "192",
+      "supplier": "DYSTRAY INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "793",
+      "manufacturerCode": "PLUG 3000L",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/prot-auricular-plug-laranja-ca15485-3587",
+      "image": "/products/images/0035/3587.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "2598",
+      "title": "PROT. AUR. TIPO PLUG CA 36817",
+      "brand": "PROVENT",
+      "brandCode": "150",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "2598",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/prot-aur-tipo-plug-ca-36817-2598",
+      "image": "/products/images/0025/2598.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "9037",
+      "title": "PROTETOR AUDITIVO COM CORDAO 1,3X1 CM",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "420",
+      "manufacturerCode": "H0002053355",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/protetor-auditivo-com-cordao-13x1-cm-9037",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "7163",
+      "title": "PROTETOR AUDITIVO K10 PLUG SILICONE COM CORDÃO DE ALGODÃO - KALIPSO 06.01.1.3",
+      "brand": "KALIPSO",
+      "brandCode": "11",
+      "supplier": "KALIPSO EQUIP INDIVIDUAIS DE PROTECAO",
+      "supplierCode": "140",
+      "manufacturerCode": "06.01.1.3",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/protetor-auditivo-k10-plug-silicone-com-cordao-de-algodao--kalipso-060113-7163",
+      "image": "/products/images/0071/7163.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "6905",
+      "title": "PROTETOR AURICULAR MODELO POMP PLUS 3M C",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004680565",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/protetor-auricular-modelo-pomp-plus-3m-c-6905",
+      "image": "/products/images/0069/6905.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "800",
+      "title": "PROTETOR AURICULAR POMP PLUS - CORDÃO DE POLIÉSTER CA5745 3M  REF HB004680573",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "420",
+      "manufacturerCode": "HB004680565",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/protetor-auricular-pomp-plus--cordao-de-poliester-ca5745-3m-ref-hb004680573-800",
+      "image": "/products/images/0008/800.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "816",
+      "title": "PROTETOR AURICULAR TIPO PLUG 1270 COM CORDÃO EM PVC CA9584 3M - HB004372155",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004372155",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/protetor-auricular-tipo-plug-1270-com-cordao-em-pvc-ca9584-3m--hb004372155-816",
+      "image": "/products/images/0008/816.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--protecao-auditiva--tipo-plug"
+  }
+}

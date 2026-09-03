@@ -1,0 +1,36 @@
+{
+  "title": "BELENUS",
+  "parentLabel": "Marca",
+  "description": "Produtos BELENUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BELENUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5039",
+      "title": "ARRUELA LISA -18.22.1- 5/16 FE. ZB",
+      "brand": "BELENUS",
+      "brandCode": "240",
+      "supplier": "BELENUS LTDA",
+      "supplierCode": "1020",
+      "manufacturerCode": "4807",
+      "category": "ARRUELAS",
+      "categorySlug": "arruelas",
+      "path": "/arruela-lisa-18221-516-fe-zb-5039",
+      "image": "/products/images/0050/5039.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--240--belenus"
+  }
+}

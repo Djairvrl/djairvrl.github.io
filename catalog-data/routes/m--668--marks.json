@@ -1,0 +1,36 @@
+{
+  "title": "MARKS",
+  "parentLabel": "Marca",
+  "description": "Produtos MARKS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARKS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9335",
+      "title": "TENDA GAZEBO REFORCADA 3X3",
+      "brand": "MARKS",
+      "brandCode": "668",
+      "supplier": "MANUELLE GOMES DA SILVA MARINS",
+      "supplierCode": "2499",
+      "manufacturerCode": "MLB3116988252_176322529351",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/tenda-gazebo-reforcada-3x3-9335",
+      "image": "/products/images/0093/9335.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--668--marks"
+  }
+}

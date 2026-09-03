@@ -1,0 +1,73 @@
+{
+  "page": 3,
+  "products": [
+    {
+      "code": "3154",
+      "title": "PRATO DIAM EXPFORCONC SGMT 115X22,23MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608601761000",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/prato-diam-expforconc-sgmt-115x2223mm-3154",
+      "image": "/products/images/0031/3154.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3156",
+      "title": "PRATO DIAM EXPFORCONC SGMT 125X22,23MM",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608601762000",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/prato-diam-expforconc-sgmt-125x2223mm-3156",
+      "image": "/products/images/0031/3156.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3153",
+      "title": "PRATO DIAMANTADO EXPERT FOR UNIVERSAL TURBO 100X22,23MM - BOSCH 2608601778",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608601778000",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/prato-diamantado-expert-for-universal-turbo-100x2223mm--bosch-2608601778-3153",
+      "image": "/products/images/0031/3153.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "2800",
+      "title": "DISCO DE CORTE DIAMANTADO STANDARD - TURBO 105MM FURO 20MM - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608603675000",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/disco-de-corte-diamantado-standard--turbo-105mm-furo-20mm--bosch-2800",
+      "image": "/products/images/0028/2800.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    }
+  ]
+}

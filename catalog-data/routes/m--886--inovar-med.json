@@ -1,0 +1,36 @@
+{
+  "title": "INOVAR MED",
+  "parentLabel": "Marca",
+  "description": "Produtos INOVAR MED disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INOVAR MED"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11128",
+      "title": "MACA P/ RESGATE TIPO OFF SHORE 1,90X0,57",
+      "brand": "INOVAR MED",
+      "brandCode": "886",
+      "supplier": "INOVAR MED INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4584",
+      "manufacturerCode": "7008318501",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/maca-p-resgate-tipo-off-shore-190x057-11128",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--886--inovar-med"
+  }
+}

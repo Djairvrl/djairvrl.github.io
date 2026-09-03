@@ -1,0 +1,129 @@
+{
+  "title": "BANDEJA",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria bandeja em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "BANDEJA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4037",
+      "title": "BANDEJA GRANDE PARA PINTURA 2,85 LITROS - CONDOR REF. 997",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "89036",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/bandeja-grande-para-pintura-285-litros--condor-ref-997-4037",
+      "image": "/products/images/0040/4037.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4039",
+      "title": "BANDEJA PEQUENA PARA PINTURA 1 LITRO - CONDOR REF. 998",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "89037",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/bandeja-pequena-para-pintura-1-litro--condor-ref-998-4039",
+      "image": "/products/images/0040/4039.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "9799",
+      "title": "BANDEJA PLÁSTICA PARA PINTURA PARA ROLOS DE 23CM  VONDER  REF 6241099500",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6241099500",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/bandeja-plastica-para-pintura-para-rolos-de-23cm-vonder-ref-6241099500-9799",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4129",
+      "title": "CAIXA MULTIUSO PLASTICO 20L 1008",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971674",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/caixa-multiuso-plastico-20l-1008-4129",
+      "image": "/products/images/0041/4129.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4696",
+      "title": "CAIXA PLÁSTICA RETANGULAR PARA MASSA 20 LITROS - VONDER 3315000200",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3315000200",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/caixa-plastica-retangular-para-massa-20-litros--vonder-3315000200-4696",
+      "image": "/products/images/0046/4696.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4697",
+      "title": "CAIXA PLÁSTICA RETANGULAR PARA MASSA 40 LITROS - VONDER 3315400000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3315400000",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/caixa-plastica-retangular-para-massa-40-litros--vonder-3315400000-4697",
+      "image": "/products/images/0046/4697.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--bandeja"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "IRRIGAÇÃI",
+  "parentLabel": "Hidraulico",
+  "description": "Produtos da categoria irrigaçãi em hidraulico.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Hidraulico",
+      "to": "/material-de-construcao/hidraulico"
+    },
+    {
+      "label": "IRRIGAÇÃI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7677",
+      "title": "MANGUEIRA 3/8X2 0 CRISTAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2157",
+      "category": "IRRIGAÇÃI",
+      "categorySlug": "irrigacai",
+      "path": "/mangueira-38x2-0-cristal-7677",
+      "image": "/products/images/0076/7677.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7943",
+      "title": "MANGUEIRA CRISTAL TRANCAD PT 250 PSI 3/4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "347",
+      "category": "IRRIGAÇÃI",
+      "categorySlug": "irrigacai",
+      "path": "/mangueira-cristal-trancad-pt-250-psi-34-7943",
+      "image": "/products/images/0079/7943.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "8040",
+      "title": "MANGUEIRA CRISTAL TRANCAD PT 250 PSI 3/4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "8040",
+      "category": "IRRIGAÇÃI",
+      "categorySlug": "irrigacai",
+      "path": "/mangueira-cristal-trancad-pt-250-psi-34-8040",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "material-de-construcao--hidraulico--irrigacai"
+  }
+}

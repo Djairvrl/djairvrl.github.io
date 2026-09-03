@@ -1,0 +1,104 @@
+{
+  "title": "IQUINE",
+  "parentLabel": "Marca",
+  "description": "Produtos IQUINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IQUINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13004",
+      "title": "ESM. SINT. AMARELO DIALINE 3,0LT",
+      "brand": "IQUINE",
+      "brandCode": "931",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69630",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/esm-sint-amarelo-dialine-30lt-13004",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "13005",
+      "title": "ESM. SINT. BRANCO NEVE DIALINE 3,0LT",
+      "brand": "IQUINE",
+      "brandCode": "931",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "01229",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/esm-sint-branco-neve-dialine-30lt-13005",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "13006",
+      "title": "ESM. SINT. VERMELHO DIALINE 3,0LT",
+      "brand": "IQUINE",
+      "brandCode": "931",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69657",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/esm-sint-vermelho-dialine-30lt-13006",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11394",
+      "title": "MASSA  ACRILICA 5,4KG IQUINE",
+      "brand": "IQUINE",
+      "brandCode": "931",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1469",
+      "manufacturerCode": "666",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/massa-acrilica-54kg-iquine-11394",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11397",
+      "title": "THINNER 1010 NITRO/SINT. 5 LT IQUINE",
+      "brand": "IQUINE",
+      "brandCode": "931",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1469",
+      "manufacturerCode": "67944",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-1010-nitrosint-5-lt-iquine-11397",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--931--iquine"
+  }
+}

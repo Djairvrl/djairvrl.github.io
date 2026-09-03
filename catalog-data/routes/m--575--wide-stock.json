@@ -1,0 +1,36 @@
+{
+  "title": "WIDE STOCK",
+  "parentLabel": "Marca",
+  "description": "Produtos WIDE STOCK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WIDE STOCK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8201",
+      "title": "BOBINA PICOTADA 50X70 WIDE STOCK",
+      "brand": "WIDE STOCK",
+      "brandCode": "575",
+      "supplier": "WIDE STOCK COMERCIO E DISTRIBUICAO LTDA",
+      "supplierCode": "1980",
+      "manufacturerCode": "3483",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/bobina-picotada-50x70-wide-stock-8201",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--575--wide-stock"
+  }
+}

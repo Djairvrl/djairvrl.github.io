@@ -1,0 +1,36 @@
+{
+  "title": "COLORART",
+  "parentLabel": "Marca",
+  "description": "Produtos COLORART disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COLORART"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7220",
+      "title": "ZINCAGEM A FRIO",
+      "brand": "COLORART",
+      "brandCode": "429",
+      "supplier": "COLORART NOU COLORS DIST DE TINTAS EIRELI EPP",
+      "supplierCode": "636",
+      "manufacturerCode": "00003859",
+      "category": "INIBIDOR DE FERRUGEM",
+      "categorySlug": "inibidor-de-ferrugem",
+      "path": "/zincagem-a-frio-7220",
+      "image": "/products/images/0072/7220.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--429--colorart"
+  }
+}

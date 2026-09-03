@@ -1,0 +1,234 @@
+{
+  "title": "Ambiental",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MEGA VARIEDADES COMERCIO VAREJISTA DE UTENSILIOS DOMESTICOS neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental"
+    }
+  ],
+  "children": [
+    {
+      "name": "Contenção Ambiental",
+      "slug": "contencao-ambiental",
+      "path": "/ambiental/contencao-ambiental",
+      "count": 243,
+      "categories": [
+        {
+          "name": "ABSORVENTES ORGÂNICOS",
+          "slug": "absorventes-organicos",
+          "path": "/ambiental/contencao-ambiental/absorventes-organicos",
+          "count": 5
+        },
+        {
+          "name": "BACIAS DE CONTEÇÕES",
+          "slug": "bacias-de-contecoes",
+          "path": "/ambiental/contencao-ambiental/bacias-de-contecoes",
+          "count": 9
+        },
+        {
+          "name": "COLETORES",
+          "slug": "coletores",
+          "path": "/ambiental/contencao-ambiental/coletores",
+          "count": 24
+        },
+        {
+          "name": "CONTENTORES",
+          "slug": "contentores",
+          "path": "/ambiental/contencao-ambiental/contentores",
+          "count": 19
+        },
+        {
+          "name": "CONTROLE DE PRAGAS E VETORES",
+          "slug": "controle-de-pragas-e-vetores",
+          "path": "/ambiental/contencao-ambiental/controle-de-pragas-e-vetores",
+          "count": 2
+        },
+        {
+          "name": "CORDÕES ABSORVENTES",
+          "slug": "cordoes-absorventes",
+          "path": "/ambiental/contencao-ambiental/cordoes-absorventes",
+          "count": 4
+        },
+        {
+          "name": "GALÕES E BOMBONAS",
+          "slug": "galoes-e-bombonas",
+          "path": "/ambiental/contencao-ambiental/galoes-e-bombonas",
+          "count": 30
+        },
+        {
+          "name": "KIT MITIGAÇÃO",
+          "slug": "kit-mitigacao",
+          "path": "/ambiental/contencao-ambiental/kit-mitigacao",
+          "count": 10
+        },
+        {
+          "name": "LIXEIRAS",
+          "slug": "lixeiras",
+          "path": "/ambiental/contencao-ambiental/lixeiras",
+          "count": 105
+        },
+        {
+          "name": "MANTAS ABSORVENTES",
+          "slug": "mantas-absorventes",
+          "path": "/ambiental/contencao-ambiental/mantas-absorventes",
+          "count": 7
+        },
+        {
+          "name": "PALLETS DE CONTENÇÃO",
+          "slug": "pallets-de-contencao",
+          "path": "/ambiental/contencao-ambiental/pallets-de-contencao",
+          "count": 10
+        },
+        {
+          "name": "PESTICIDAS",
+          "slug": "pesticidas",
+          "path": "/ambiental/contencao-ambiental/pesticidas",
+          "count": 5
+        },
+        {
+          "name": "PÁ ANTI FAÍSCA",
+          "slug": "pa-anti-faisca",
+          "path": "/ambiental/contencao-ambiental/pa-anti-faisca",
+          "count": 2
+        },
+        {
+          "name": "TRAPOS",
+          "slug": "trapos",
+          "path": "/ambiental/contencao-ambiental/trapos",
+          "count": 5
+        },
+        {
+          "name": "TRATAMENTO DE EFLUENTES",
+          "slug": "tratamento-de-efluentes",
+          "path": "/ambiental/contencao-ambiental/tratamento-de-efluentes",
+          "count": 1
+        },
+        {
+          "name": "TRAVESSEIROS ABSORVENTES",
+          "slug": "travesseiros-absorventes",
+          "path": "/ambiental/contencao-ambiental/travesseiros-absorventes",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Limpeza Industrial",
+      "slug": "limpeza-industrial",
+      "path": "/ambiental/limpeza-industrial",
+      "count": 80,
+      "categories": [
+        {
+          "name": "BANDEJAS E COLETORAS",
+          "slug": "bandejas-e-coletoras",
+          "path": "/ambiental/limpeza-industrial/bandejas-e-coletoras",
+          "count": 1
+        },
+        {
+          "name": "CARROS FUNCIONAIS E ACESSÓRIOS",
+          "slug": "carros-funcionais-e-acessorios",
+          "path": "/ambiental/limpeza-industrial/carros-funcionais-e-acessorios",
+          "count": 3
+        },
+        {
+          "name": "DESENGRAXANTES",
+          "slug": "desengraxantes",
+          "path": "/ambiental/limpeza-industrial/desengraxantes",
+          "count": 13
+        },
+        {
+          "name": "DESINCRUSTANTES",
+          "slug": "desincrustantes",
+          "path": "/ambiental/limpeza-industrial/desincrustantes",
+          "count": 1
+        },
+        {
+          "name": "ESFREGÕES INDUSTRIAIS",
+          "slug": "esfregoes-industriais",
+          "path": "/ambiental/limpeza-industrial/esfregoes-industriais",
+          "count": 5
+        },
+        {
+          "name": "KIT LIMPEZA INDUSTRIAL",
+          "slug": "kit-limpeza-industrial",
+          "path": "/ambiental/limpeza-industrial/kit-limpeza-industrial",
+          "count": 8
+        },
+        {
+          "name": "PÁS",
+          "slug": "pas",
+          "path": "/ambiental/limpeza-industrial/pas",
+          "count": 4
+        },
+        {
+          "name": "SACOS DE LIXO",
+          "slug": "sacos-de-lixo",
+          "path": "/ambiental/limpeza-industrial/sacos-de-lixo",
+          "count": 37
+        },
+        {
+          "name": "VASSOURAS",
+          "slug": "vassouras",
+          "path": "/ambiental/limpeza-industrial/vassouras",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Proteção e Manejo de Fauna",
+      "slug": "protecao-e-manejo-de-fauna",
+      "path": "/ambiental/protecao-e-manejo-de-fauna",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Acessórios",
+      "slug": "acessorios",
+      "path": "/ambiental/acessorios",
+      "count": 14,
+      "categories": [
+        {
+          "name": "APARELHOS REPELENTES",
+          "slug": "aparelhos-repelentes",
+          "path": "/ambiental/acessorios/aparelhos-repelentes",
+          "count": 1
+        },
+        {
+          "name": "KIT ANIMAIS PEÇONHENTOS",
+          "slug": "kit-animais-peconhentos",
+          "path": "/ambiental/acessorios/kit-animais-peconhentos",
+          "count": 13
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "4179",
+    "name": "MEGA VARIEDADES COMERCIO VAREJISTA DE UTENSILIOS DOMESTICOS"
+  },
+  "products": [
+    {
+      "code": "10896",
+      "title": "LIXEIRA LIXO DE METAL PARA ESCRITORIO PE",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEGA VARIEDADES COMERCIO VAREJISTA DE UTENSILIOS DOMESTICOS",
+      "supplierCode": "4179",
+      "manufacturerCode": "LI511",
+      "category": null,
+      "categorySlug": null,
+      "path": "/lixeira-lixo-de-metal-para-escritorio-pe-10896",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ambiental--fornecedor-4179"
+  }
+}

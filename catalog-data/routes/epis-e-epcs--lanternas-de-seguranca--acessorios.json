@@ -1,0 +1,44 @@
+{
+  "title": "ACESSÓRIOS",
+  "parentLabel": "Lanternas de Segurança",
+  "description": "Produtos da categoria acessórios em lanternas de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Lanternas de Segurança",
+      "to": "/epis-e-epcs/lanternas-de-seguranca"
+    },
+    {
+      "label": "ACESSÓRIOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1165",
+      "title": "KIT 4 PEÇAS CLIP PLÁSTICO PARA FIXAÇÃO DE LANTERNA - MONTANA",
+      "brand": "MONTANA",
+      "brandCode": "15",
+      "supplier": "MONTANA EQUIP. ESPORTIVOS LTDA",
+      "supplierCode": "61",
+      "manufacturerCode": "185",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/kit-4-pecas-clip-plastico-para-fixacao-de-lanterna--montana-1165",
+      "image": "/products/images/0011/1165.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--lanternas-de-seguranca--acessorios"
+  }
+}

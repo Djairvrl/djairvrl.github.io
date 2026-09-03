@@ -1,0 +1,36 @@
+{
+  "title": "NANO",
+  "parentLabel": "Marca",
+  "description": "Produtos NANO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NANO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13405",
+      "title": "LUMINARIA LUPA USB RING LIGHT LED ARTICU",
+      "brand": "NANO",
+      "brandCode": "1236",
+      "supplier": "SKZECOM LTDA",
+      "supplierCode": "6271",
+      "manufacturerCode": "LUMINARIALUPA-BRANCA",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/luminaria-lupa-usb-ring-light-led-articu-13405",
+      "image": "/products/images/0134/13405.webp",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1236--nano"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "DILUENTE",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria diluente em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "DILUENTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12855",
+      "title": "DILUENTE W-CLEAN | 5 L",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "WEG TINTAS LTDA",
+      "supplierCode": "5982",
+      "manufacturerCode": "000000000011119368",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/diluente-wclean-5-l-12855",
+      "image": "/products/images/0128/12855.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11397",
+      "title": "THINNER 1010 NITRO/SINT. 5 LT IQUINE",
+      "brand": "IQUINE",
+      "brandCode": "931",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1469",
+      "manufacturerCode": "67944",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-1010-nitrosint-5-lt-iquine-11397",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6060",
+      "title": "THINNER 5 LT",
+      "brand": "ITAQUA",
+      "brandCode": "260",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "8199",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-5-lt-6060",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8336",
+      "title": "THINNER 900ML 101 PETROLUSA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "supplierCode": "857",
+      "manufacturerCode": "7897911710172",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-900ml-101-petrolusa-8336",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6744",
+      "title": "THINNER MULTIUSO PARA LIMPEZA E DILUIÇÃO 5 LITROS - SOLUT SL10",
+      "brand": "SOLUT",
+      "brandCode": "328",
+      "supplier": "SOLUT QUIMICA INDUSTRIAL LTDA",
+      "supplierCode": "1280",
+      "manufacturerCode": "962",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-multiuso-para-limpeza-e-diluicao-5-litros--solut-sl10-6744",
+      "image": "/products/images/0067/6744.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12071",
+      "title": "THINNER P/ EPOXI FLEET COLOR 5,0L",
+      "brand": "EPOXI",
+      "brandCode": "1025",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "70662",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-p-epoxi-fleet-color-50l-12071",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--diluente"
+  }
+}

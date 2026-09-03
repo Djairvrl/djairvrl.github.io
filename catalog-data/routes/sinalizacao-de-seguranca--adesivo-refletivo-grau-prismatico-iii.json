@@ -1,0 +1,40 @@
+{
+  "title": "Adesivo Refletivo Grau Prismático Iii",
+  "parentLabel": "Sinalização de Segurança",
+  "description": "Soluções de adesivo refletivo grau prismático iii disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança",
+      "to": "/sinalizacao-de-seguranca"
+    },
+    {
+      "label": "Adesivo Refletivo Grau Prismático Iii"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5595",
+      "title": "ADESIVO REFLETIVO 120X70 CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "supplierCode": "935",
+      "manufacturerCode": "0050",
+      "category": null,
+      "categorySlug": null,
+      "path": "/adesivo-refletivo-120x70-cm-5595",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Adesivo Refletivo Grau Prismático Iii",
+      "sectionSlug": "adesivo-refletivo-grau-prismatico-iii"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "sinalizacao-de-seguranca--adesivo-refletivo-grau-prismatico-iii"
+  }
+}

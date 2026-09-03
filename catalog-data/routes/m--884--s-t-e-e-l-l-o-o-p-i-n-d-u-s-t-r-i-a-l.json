@@ -1,0 +1,53 @@
+{
+  "title": "S T E E L L O O P I N D U S T R I A L",
+  "parentLabel": "Marca",
+  "description": "Produtos S T E E L L O O P I N D U S T R I A L disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "S T E E L L O O P I N D U S T R I A L"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11117",
+      "title": "EMENDA PREF NU 954MCM Ø27,73 A 28,86MM",
+      "brand": "S T E E L L O O P I N D U S T R I A L",
+      "brandCode": "884",
+      "supplier": "STEEL LOOP INDUSTRIAL DO BRASIL LTDA",
+      "supplierCode": "4557",
+      "manufacturerCode": "ECA-1954",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/emenda-pref-nu-954mcm-2773-a-2886mm-11117",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "11116",
+      "title": "EMENDA PREF P/CONDUTOR CAA 24,61 A 25,61",
+      "brand": "S T E E L L O O P I N D U S T R I A L",
+      "brandCode": "884",
+      "supplier": "STEEL LOOP INDUSTRIAL DO BRASIL LTDA",
+      "supplierCode": "4557",
+      "manufacturerCode": "ECA1636A",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/emenda-pref-pcondutor-caa-2461-a-2561-11116",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--884--s-t-e-e-l-l-o-o-p-i-n-d-u-s-t-r-i-a-l"
+  }
+}

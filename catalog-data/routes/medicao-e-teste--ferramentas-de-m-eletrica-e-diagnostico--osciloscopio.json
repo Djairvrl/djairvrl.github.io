@@ -1,0 +1,44 @@
+{
+  "title": "OSCILOSCÓPIO",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria osciloscópio em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "OSCILOSCÓPIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12205",
+      "title": "OSCILOSCÓPIO DIG.2 CANAIS",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MO-1102C",
+      "category": "OSCILOSCÓPIO",
+      "categorySlug": "osciloscopio",
+      "path": "/osciloscopio-dig2-canais-12205",
+      "image": "/products/images/0122/12205.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--osciloscopio"
+  }
+}

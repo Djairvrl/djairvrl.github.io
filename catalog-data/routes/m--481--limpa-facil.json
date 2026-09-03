@@ -1,0 +1,36 @@
+{
+  "title": "LIMPA FACIL",
+  "parentLabel": "Marca",
+  "description": "Produtos LIMPA FACIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LIMPA FACIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7508",
+      "title": "ACIDO MURIATICO LIMPA FACIL 1LT",
+      "brand": "LIMPA FACIL",
+      "brandCode": "481",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "04343",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/acido-muriatico-limpa-facil-1lt-7508",
+      "image": "/products/images/0075/7508.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--481--limpa-facil"
+  }
+}

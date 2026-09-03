@@ -1,0 +1,36 @@
+{
+  "title": "OUROLUX",
+  "parentLabel": "Marca",
+  "description": "Produtos OUROLUX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OUROLUX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12921",
+      "title": "LAMPADA LED A60 E27 6500K BIV 12W 1080LM",
+      "brand": "OUROLUX",
+      "brandCode": "1153",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1105386",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/lampada-led-a60-e27-6500k-biv-12w-1080lm-12921",
+      "image": "/products/images/0129/12921.webp",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1153--ourolux"
+  }
+}

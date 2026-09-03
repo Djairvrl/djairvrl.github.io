@@ -1,0 +1,36 @@
+{
+  "title": "L&A",
+  "parentLabel": "Marca",
+  "description": "Produtos L&A disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "L&A"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12160",
+      "title": "BANDEIRA REFL 1,30MT VM SLRVM EV+ML SFIO",
+      "brand": "L&A",
+      "brandCode": "1046",
+      "supplier": "CADIPECAS DISTRIBUIDORA DE AUTO PECAS LTDA",
+      "supplierCode": "5568",
+      "manufacturerCode": "0003549",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/bandeira-refl-130mt-vm-slrvm-evml-sfio-12160",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1046--l-a"
+  }
+}

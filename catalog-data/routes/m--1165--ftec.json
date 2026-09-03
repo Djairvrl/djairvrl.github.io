@@ -1,0 +1,36 @@
+{
+  "title": "FTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos FTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12968",
+      "title": "ESTACAO RETRABALHO BGA F-TEC R690",
+      "brand": "FTEC",
+      "brandCode": "1165",
+      "supplier": "FEROCK MULTIMARCAS LTDA",
+      "supplierCode": "6016",
+      "manufacturerCode": "R690V5",
+      "category": "ESTAÇÕES DE RETRABALHO BGA",
+      "categorySlug": "estacoes-de-retrabalho-bga",
+      "path": "/estacao-retrabalho-bga-ftec-r690-12968",
+      "image": "/products/images/0129/12968.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1165--ftec"
+  }
+}

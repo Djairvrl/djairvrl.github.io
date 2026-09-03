@@ -1,0 +1,87 @@
+{
+  "title": "MARTINS",
+  "parentLabel": "Marca",
+  "description": "Produtos MARTINS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARTINS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10662",
+      "title": "BLUSAO SEG. AMARELO CA6385 TAM. M",
+      "brand": "MARTINS",
+      "brandCode": "797",
+      "supplier": "MARTINS & SA IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "3930",
+      "manufacturerCode": "BL03-B2",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/blusao-seg-amarelo-ca6385-tam-m-10662",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "12048",
+      "title": "CALCA CAMURCA ELAST/CORD CA27038 TAM40",
+      "brand": "MARTINS",
+      "brandCode": "797",
+      "supplier": "MARTINS & SA IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "3930",
+      "manufacturerCode": "CL01-A40",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/calca-camurca-elastcord-ca27038-tam40-12048",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "10664",
+      "title": "CALCA SEG. AMARELA CA27038 TAM. 60",
+      "brand": "MARTINS",
+      "brandCode": "797",
+      "supplier": "MARTINS & SA IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "3930",
+      "manufacturerCode": "CL01-A60",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/calca-seg-amarela-ca27038-tam-60-10664",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "10663",
+      "title": "CALCA SEG. CA27038 AMARELA TAM. 50",
+      "brand": "MARTINS",
+      "brandCode": "797",
+      "supplier": "MARTINS & SA IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "3930",
+      "manufacturerCode": "CL01-A50",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/calca-seg-ca27038-amarela-tam-50-10663",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--797--martins"
+  }
+}

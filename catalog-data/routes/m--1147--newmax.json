@@ -1,0 +1,36 @@
+{
+  "title": "NEWMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos NEWMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEWMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12876",
+      "title": "BATERIA VRLA SELADA ESTACIONARIA",
+      "brand": "NEWMAX",
+      "brandCode": "1147",
+      "supplier": "OPT - ELETRONICOS E BATERIAS LIMITADA",
+      "supplierCode": "5986",
+      "manufacturerCode": "FNC122000-C",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-vrla-selada-estacionaria-12876",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1147--newmax"
+  }
+}

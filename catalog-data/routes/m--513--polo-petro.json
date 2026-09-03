@@ -1,0 +1,36 @@
+{
+  "title": "POLO PETRO",
+  "parentLabel": "Marca",
+  "description": "Produtos POLO PETRO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "POLO PETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7601",
+      "title": "CABO DE SEGURANCA  ACO CARBONO 1/8 400MM",
+      "brand": "POLO PETRO",
+      "brandCode": "513",
+      "supplier": "POLO PETRO IMPORT E COM. DE PRODST IND",
+      "supplierCode": "324",
+      "manufacturerCode": "DS-1/8-400-AC",
+      "category": "CINTAS DE AMARRAÇÃO",
+      "categorySlug": "cintas-de-amarracao",
+      "path": "/cabo-de-seguranca-aco-carbono-18-400mm-7601",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--513--polo-petro"
+  }
+}

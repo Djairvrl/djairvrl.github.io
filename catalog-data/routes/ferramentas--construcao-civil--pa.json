@@ -1,0 +1,95 @@
+{
+  "title": "PÁ",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria pá em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "PÁ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12556",
+      "title": "PA BICO 459/30 ACO C/ CABOMADEIRA 120CM",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "77459534",
+      "category": "PÁ",
+      "categorySlug": "pa",
+      "path": "/pa-bico-45930-aco-c-cabomadeira-120cm-12556",
+      "image": "/products/images/0125/12556.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "12575",
+      "title": "PA QUADRADA 464/30 ACO C/ CABO MADEIRA 1",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "77464534",
+      "category": "PÁ",
+      "categorySlug": "pa",
+      "path": "/pa-quadrada-46430-aco-c-cabo-madeira-1-12575",
+      "image": "/products/images/0125/12575.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1282",
+      "title": "PÁ DE BICO 460/20 EM AÇO COM CABO DE MADEIRA 71CM EMPUNHADURA PLÁSTICA CURVA ERGONÔMICA - TRAMONTINA REF 77460424",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77460424",
+      "category": "PÁ",
+      "categorySlug": "pa",
+      "path": "/pa-de-bico-46020-em-aco-com-cabo-de-madeira-71cm-empunhadura-plastica-curva-ergonomica--tramontina-ref-77460424-1282",
+      "image": "/products/images/0012/1282.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1281",
+      "title": "PÁ QUADRADA 464/30 EM AÇO COM CABO DE MADEIRA 71CM EMPUNHADURA PLÁSTICA RETA ERGONÔMICA - TRAMONTINA  REF  77464434",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77464434",
+      "category": "PÁ",
+      "categorySlug": "pa",
+      "path": "/pa-quadrada-46430-em-aco-com-cabo-de-madeira-71cm-empunhadura-plastica-reta-ergonomica--tramontina-ref-77464434-1281",
+      "image": "/products/images/0012/1281.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--construcao-civil--pa"
+  }
+}

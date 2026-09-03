@@ -1,0 +1,36 @@
+{
+  "title": "POLYMER",
+  "parentLabel": "Marca",
+  "description": "Produtos POLYMER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "POLYMER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13327",
+      "title": "PROTETOR FACIAL POLYMER INCOLOR CA 51387",
+      "brand": "POLYMER",
+      "brandCode": "1225",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "8960",
+      "category": "PROTETOR FACIAL",
+      "categorySlug": "protetor-facial",
+      "path": "/protetor-facial-polymer-incolor-ca-51387-13327",
+      "image": "/products/images/0133/13327.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Face",
+      "sectionSlug": "protecao-da-face"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1225--polymer"
+  }
+}

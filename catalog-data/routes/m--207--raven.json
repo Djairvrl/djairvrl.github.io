@@ -1,0 +1,36 @@
+{
+  "title": "RAVEN",
+  "parentLabel": "Marca",
+  "description": "Produtos RAVEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RAVEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13366",
+      "title": "SUPORTE MOTOR/CAMBIO 1300KG MOVEL",
+      "brand": "RAVEN",
+      "brandCode": "207",
+      "supplier": "ANHANGUERA COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "5182",
+      "manufacturerCode": "9097700100",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/suporte-motorcambio-1300kg-movel-13366",
+      "image": "/products/images/0133/13366.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--207--raven"
+  }
+}

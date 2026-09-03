@@ -1,0 +1,87 @@
+{
+  "title": "SIKA",
+  "parentLabel": "Marca",
+  "description": "Produtos SIKA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SIKA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9568",
+      "title": "ADESIVO ESTRUTURAL BICOMPONENTE DE RÁPIDA CURA SIKAFAST-555 L03",
+      "brand": "SIKA",
+      "brandCode": "694",
+      "supplier": "SIKA S A",
+      "supplierCode": "2614",
+      "manufacturerCode": "555027",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/adesivo-estrutural-bicomponente-de-rapida-cura-sikafast555-l03-9568",
+      "image": "/products/images/0095/9568.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10789",
+      "title": "INJECAO ESTRUTURAL BASE EPOXI SIKADUR 52",
+      "brand": "SIKA",
+      "brandCode": "694",
+      "supplier": "SIKA S A",
+      "supplierCode": "2614",
+      "manufacturerCode": "560006",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/injecao-estrutural-base-epoxi-sikadur-52-10789",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12425",
+      "title": "SIKA AKTIVADOR 205 4X1000ML",
+      "brand": "SIKA",
+      "brandCode": "694",
+      "supplier": "SIKA S A",
+      "supplierCode": "2614",
+      "manufacturerCode": "451585",
+      "category": "PRIMERS / PROMOTORES DE ADESÃO",
+      "categorySlug": "primers-promotores-de-adesao",
+      "path": "/sika-aktivador-205-4x1000ml-12425",
+      "image": "/products/images/0124/12425.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12072",
+      "title": "SIKAGROUT TIX SA 25KG",
+      "brand": "SIKA",
+      "brandCode": "694",
+      "supplier": "3D REVENDA TECNICA LTDA",
+      "supplierCode": "5486",
+      "manufacturerCode": "1718",
+      "category": "CONCRETO E ARGAMASSA",
+      "categorySlug": "concreto-e-argamassa",
+      "path": "/sikagrout-tix-sa-25kg-12072",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--694--sika"
+  }
+}

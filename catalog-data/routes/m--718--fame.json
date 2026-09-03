@@ -1,0 +1,70 @@
+{
+  "title": "FAME",
+  "parentLabel": "Marca",
+  "description": "Produtos FAME disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FAME"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9823",
+      "title": "KIT PLUG MACHO 20A + PLUG FEMEA 20A",
+      "brand": "FAME",
+      "brandCode": "718",
+      "supplier": "SAO FRANCISCO MARKET LTDA",
+      "supplierCode": "2703",
+      "manufacturerCode": "9823",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/kit-plug-macho-20a-plug-femea-20a-9823",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9733",
+      "title": "PLUG FEMEA 2P+T 20A",
+      "brand": "FAME",
+      "brandCode": "718",
+      "supplier": "SAO FRANCISCO MARKET LTDA",
+      "supplierCode": "2703",
+      "manufacturerCode": "SFFM1728",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/plug-femea-2pt-20a-9733",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9734",
+      "title": "PLUG MACHO 2P+T 20A",
+      "brand": "FAME",
+      "brandCode": "718",
+      "supplier": "SAO FRANCISCO MARKET LTDA",
+      "supplierCode": "2703",
+      "manufacturerCode": "SFFM1730",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/plug-macho-2pt-20a-9734",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--718--fame"
+  }
+}

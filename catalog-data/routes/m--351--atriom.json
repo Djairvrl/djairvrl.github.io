@@ -1,0 +1,36 @@
+{
+  "title": "ATRIOM",
+  "parentLabel": "Marca",
+  "description": "Produtos ATRIOM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ATRIOM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6810",
+      "title": "ALCOOL ISOPROPILICO PA ACS BB 20LT",
+      "brand": "ATRIOM",
+      "brandCode": "351",
+      "supplier": "ATRIOM PRODUTOS QUIMICOS LTDA",
+      "supplierCode": "924",
+      "manufacturerCode": "AT0800",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-isopropilico-pa-acs-bb-20lt-6810",
+      "image": "/products/images/0068/6810.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--351--atriom"
+  }
+}

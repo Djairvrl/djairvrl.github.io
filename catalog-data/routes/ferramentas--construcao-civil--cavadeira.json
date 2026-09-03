@@ -1,0 +1,95 @@
+{
+  "title": "CAVADEIRA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria cavadeira em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "CAVADEIRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12713",
+      "title": "CABO DE MADEIRA PARA CAVADEIRA RETA 1,2",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "8023120003",
+      "category": "CAVADEIRA",
+      "categorySlug": "cavadeira",
+      "path": "/cabo-de-madeira-para-cavadeira-reta-12-12713",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1659",
+      "title": "CAVADEIRA ARTICULADA METÁLICA CABOS DE MADEIRA 120CM E BATENTE PLÁSTICO - TRAMONTINA REF.  77562503",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77562503",
+      "category": "CAVADEIRA",
+      "categorySlug": "cavadeira",
+      "path": "/cavadeira-articulada-metalica-cabos-de-madeira-120cm-e-batente-plastico--tramontina-ref-77562503-1659",
+      "image": "/products/images/0016/1659.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1658",
+      "title": "CAVADEIRA ARTICULADA METÁLICA CABOS DE MADEIRA 145CM E BATENTE PLÁSTICO - TRAMONTINA REF.  77566813",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77566813",
+      "category": "CAVADEIRA",
+      "categorySlug": "cavadeira",
+      "path": "/cavadeira-articulada-metalica-cabos-de-madeira-145cm-e-batente-plastico--tramontina-ref-77566813-1658",
+      "image": "/products/images/0016/1658.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1660",
+      "title": "CAVADEIRA RETA METÁLICA  COM CABO EM MADEIRA 120CM - TRAMONTINA REF. 77553545",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77553545",
+      "category": "CAVADEIRA",
+      "categorySlug": "cavadeira",
+      "path": "/cavadeira-reta-metalica-com-cabo-em-madeira-120cm--tramontina-ref-77553545-1660",
+      "image": "/products/images/0016/1660.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--construcao-civil--cavadeira"
+  }
+}

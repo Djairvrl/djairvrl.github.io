@@ -1,0 +1,36 @@
+{
+  "title": "ALROC",
+  "parentLabel": "Marca",
+  "description": "Produtos ALROC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALROC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6523",
+      "title": "DESENCAPADOR DE CABOS",
+      "brand": "ALROC",
+      "brandCode": "288",
+      "supplier": "INDUSTRIA E COMERCIO LEAL LTDA",
+      "supplierCode": "1248",
+      "manufacturerCode": "002",
+      "category": "FERRAMENTA ROTATIVA",
+      "categorySlug": "ferramenta-rotativa",
+      "path": "/desencapador-de-cabos-6523",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--288--alroc"
+  }
+}

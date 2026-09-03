@@ -1,0 +1,36 @@
+{
+  "title": "COMPROT",
+  "parentLabel": "Marca",
+  "description": "Produtos COMPROT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COMPROT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12607",
+      "title": "BONE CASQUETE MOD. JAPONES CINZA CA43553",
+      "brand": "COMPROT",
+      "brandCode": "1096",
+      "supplier": "COMPROT EPI INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5796",
+      "manufacturerCode": "23308",
+      "category": "BONÉ",
+      "categorySlug": "bone",
+      "path": "/bone-casquete-mod-japones-cinza-ca43553-12607",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1096--comprot"
+  }
+}

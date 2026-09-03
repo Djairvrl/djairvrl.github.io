@@ -1,0 +1,44 @@
+{
+  "title": "TREINAMENTO E SIMULAÇÃO",
+  "parentLabel": "Resgate e Salvamento",
+  "description": "Produtos da categoria treinamento e simulação em resgate e salvamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Resgate e Salvamento",
+      "to": "/epis-e-epcs/resgate-e-salvamento"
+    },
+    {
+      "label": "TREINAMENTO E SIMULAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12444",
+      "title": "BONECO P/ TREINOS RESGATE E EMER 172CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SANTANA BELLINI COMERCIO VAREJISTA DE ARTIGOS ESPORTIVOS LTD",
+      "supplierCode": "5716",
+      "manufacturerCode": "P090",
+      "category": "TREINAMENTO E SIMULAÇÃO",
+      "categorySlug": "treinamento-e-simulacao",
+      "path": "/boneco-p-treinos-resgate-e-emer-172cm-12444",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--resgate-e-salvamento--treinamento-e-simulacao"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "KING TONY",
+  "parentLabel": "Marca",
+  "description": "Produtos KING TONY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KING TONY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13265",
+      "title": "CHAVE SOQ MULTIDENTADA M18X1/2 CROMADO",
+      "brand": "KING TONY",
+      "brandCode": "418",
+      "supplier": "63.146.797 LUCIANO MOREIRA GAMA",
+      "supplierCode": "6197",
+      "manufacturerCode": "402618",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/chave-soq-multidentada-m18x12-cromado-13265",
+      "image": "/products/images/0132/13265.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7132",
+      "title": "SOQ ESTRIADO IMP EXTRA LONGO 1/2\" 13MM",
+      "brand": "KING TONY",
+      "brandCode": "418",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "443013M",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/soq-estriado-imp-extra-longo-12-13mm-7132",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7135",
+      "title": "SOQ ESTRIADO IMP EXTRA LONGO 1/2\" 17MM",
+      "brand": "KING TONY",
+      "brandCode": "418",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "443017M",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/soq-estriado-imp-extra-longo-12-17mm-7135",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "7136",
+      "title": "SOQ ESTRIADO IMP EXTRA LONGO 1/2\" 19MM",
+      "brand": "KING TONY",
+      "brandCode": "418",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "443019M",
+      "category": "SOQUETES E ACESSÓRIOS",
+      "categorySlug": "soquetes-e-acessorios",
+      "path": "/soq-estriado-imp-extra-longo-12-19mm-7136",
+      "image": "/products/images/0071/7136.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--418--king-tony"
+  }
+}

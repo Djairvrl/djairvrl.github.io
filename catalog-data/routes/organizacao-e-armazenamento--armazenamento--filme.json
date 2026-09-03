@@ -1,0 +1,112 @@
+{
+  "title": "FILME",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria filme em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "FILME"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8744",
+      "title": "BOBINA DE FILME STRETCH",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MULT EMBALAGENS LTDA ME",
+      "supplierCode": "39",
+      "manufacturerCode": "1062",
+      "category": "FILME",
+      "categorySlug": "filme",
+      "path": "/bobina-de-filme-stretch-8744",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9918",
+      "title": "BOBINA FILME STRETCH 500MX0,25MIC VIRGEM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "GUIPACK INDUSTRIA E COMERCIO DE",
+      "supplierCode": "2778",
+      "manufacturerCode": "STRETCH1KG",
+      "category": "FILME",
+      "categorySlug": "filme",
+      "path": "/bobina-filme-stretch-500mx025mic-virgem-9918",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "1434",
+      "title": "FILME STRETCH 150MMX300M EMPACOT",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1131150300",
+      "category": "FILME",
+      "categorySlug": "filme",
+      "path": "/filme-stretch-150mmx300m-empacot-1434",
+      "image": "/products/images/0014/1434.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "5662",
+      "title": "FILME STRETCH 500MM X 260M 25 MICRA 3,5KG - VONDER 1132050003",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1132050003",
+      "category": "FILME",
+      "categorySlug": "filme",
+      "path": "/filme-stretch-500mm-x-260m-25-micra-35kg--vonder-1132050003-5662",
+      "image": "/products/images/0056/5662.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "2446",
+      "title": "FILME STRETCH 500X0,25- 3KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MOSCKA SOLUÇÕES EM EMBALAGENS INDUSTRIAIS LTDA",
+      "supplierCode": "689",
+      "manufacturerCode": "5003",
+      "category": "FILME",
+      "categorySlug": "filme",
+      "path": "/filme-stretch-500x025-3kg-2446",
+      "image": "/products/images/0024/2446.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--filme"
+  }
+}

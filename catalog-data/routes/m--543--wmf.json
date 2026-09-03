@@ -1,0 +1,53 @@
+{
+  "title": "WMF",
+  "parentLabel": "Marca",
+  "description": "Produtos WMF disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WMF"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7695",
+      "title": "BANCADA ABERTA C/5 GAVETAS REFORCADA",
+      "brand": "WMF",
+      "brandCode": "543",
+      "supplier": "WMF INDUSTRIA E COMERCIO DE PRODUTOS DE ACO LTDA",
+      "supplierCode": "1787",
+      "manufacturerCode": "WMFBAL16735G",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-aberta-c5-gavetas-reforcada-7695",
+      "image": "/products/images/0076/7695.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "9361",
+      "title": "CARRINHO DE CARGA 7 A 10 M3 - 40 A 50L",
+      "brand": "WMF",
+      "brandCode": "543",
+      "supplier": "WMF INDUSTRIA E COMERCIO DE PRODUTOS DE ACO LTDA",
+      "supplierCode": "1787",
+      "manufacturerCode": "WMO1CM",
+      "category": null,
+      "categorySlug": null,
+      "path": "/carrinho-de-carga-7-a-10-m3--40-a-50l-9361",
+      "image": "/products/images/0093/9361.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--543--wmf"
+  }
+}

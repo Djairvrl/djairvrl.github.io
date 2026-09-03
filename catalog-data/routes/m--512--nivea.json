@@ -1,0 +1,53 @@
+{
+  "title": "NIVEA",
+  "parentLabel": "Marca",
+  "description": "Produtos NIVEA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NIVEA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7739",
+      "title": "SAB LIQ NIVEA CREME CARE 250ML",
+      "brand": "NIVEA",
+      "brandCode": "512",
+      "supplier": "COMERCIAL J. M. LTDA",
+      "supplierCode": "1500",
+      "manufacturerCode": "61259",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/sab-liq-nivea-creme-care-250ml-7739",
+      "image": "/products/images/0077/7739.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "7599",
+      "title": "SABONETE LIQUIDO 250ML SOFT",
+      "brand": "NIVEA",
+      "brandCode": "512",
+      "supplier": "COMERCIAL J. M. LTDA",
+      "supplierCode": "1500",
+      "manufacturerCode": "61261",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/sabonete-liquido-250ml-soft-7599",
+      "image": "/products/images/0075/7599.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--512--nivea"
+  }
+}

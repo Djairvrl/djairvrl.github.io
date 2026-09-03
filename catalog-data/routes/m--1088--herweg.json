@@ -1,0 +1,53 @@
+{
+  "title": "HERWEG",
+  "parentLabel": "Marca",
+  "description": "Produtos HERWEG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HERWEG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12515",
+      "title": "6289 - RELOGIO PARED DIGITAL 034 - PRETO",
+      "brand": "HERWEG",
+      "brandCode": "1088",
+      "supplier": "SULCLOCK COMERCIAL LTDA",
+      "supplierCode": "5748",
+      "manufacturerCode": "6289",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/6289--relogio-pared-digital-034--preto-12515",
+      "image": "/products/images/0125/12515.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12516",
+      "title": "6492 - RELOGIO DE PAREDE, 034 - PRETO",
+      "brand": "HERWEG",
+      "brandCode": "1088",
+      "supplier": "SULCLOCK COMERCIAL LTDA",
+      "supplierCode": "5748",
+      "manufacturerCode": "6492",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/6492--relogio-de-parede-034--preto-12516",
+      "image": "/products/images/0125/12516.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1088--herweg"
+  }
+}

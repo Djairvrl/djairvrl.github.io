@@ -1,0 +1,95 @@
+{
+  "title": "BOMBAS DE GRAXA ELÉTRICAS",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria bombas de graxa elétricas em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "BOMBAS DE GRAXA ELÉTRICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11403",
+      "title": "APLICADOR DE GRAXA A BATERIA",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DGP180ZB",
+      "category": "BOMBAS DE GRAXA ELÉTRICAS",
+      "categorySlug": "bombas-de-graxa-eletricas",
+      "path": "/aplicador-de-graxa-a-bateria-11403",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "7810",
+      "title": "APLICADOR DE GRAXA A BATERIA 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DGP180RTB",
+      "category": "BOMBAS DE GRAXA ELÉTRICAS",
+      "categorySlug": "bombas-de-graxa-eletricas",
+      "path": "/aplicador-de-graxa-a-bateria-18v-7810",
+      "image": "/products/images/0078/7810.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "3817",
+      "title": "BOMBA ELETRICA P/ GRAXA 14.4V 400GR S/FIO - BOZZA REF. 7029-PREMIUM-G2",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.421.0055",
+      "category": "BOMBAS DE GRAXA ELÉTRICAS",
+      "categorySlug": "bombas-de-graxa-eletricas",
+      "path": "/bomba-eletrica-p-graxa-144v-400gr-sfio--bozza-ref-7029premiumg2-3817",
+      "image": "/products/images/0038/3817.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "7952",
+      "title": "BOMBA ELÉTRICA PARA GRAXA 20V 400G SEM FIO 7029-PREMIUM-G3 - BOZZA 12.421.0080",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.421.0080",
+      "category": "BOMBAS DE GRAXA ELÉTRICAS",
+      "categorySlug": "bombas-de-graxa-eletricas",
+      "path": "/bomba-eletrica-para-graxa-20v-400g-sem-fio-7029premiumg3--bozza-124210080-7952",
+      "image": "/products/images/0079/7952.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--bombas-de-graxa-eletricas"
+  }
+}

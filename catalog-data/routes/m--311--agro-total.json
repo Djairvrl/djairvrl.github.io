@@ -1,0 +1,36 @@
+{
+  "title": "AGRO TOTAL",
+  "parentLabel": "Marca",
+  "description": "Produtos AGRO TOTAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AGRO TOTAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6639",
+      "title": "FUMIGADOR PARA APICULTURA",
+      "brand": "AGRO TOTAL",
+      "brandCode": "311",
+      "supplier": "AGRO TOTAL REPRESENTACOES LTDA",
+      "supplierCode": "1274",
+      "manufacturerCode": "1455",
+      "category": "APICULTOR",
+      "categorySlug": "apicultor",
+      "path": "/fumigador-para-apicultura-6639",
+      "image": "/products/images/0066/6639.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--311--agro-total"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "title": "BOLSAS DE IÇAMENTO",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria bolsas de içamento em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "BOLSAS DE IÇAMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3431",
+      "title": "BOLSA DE CILINDRO 2T 0,30 X 2,50M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "CA0229",
+      "category": "BOLSAS DE IÇAMENTO",
+      "categorySlug": "bolsas-de-icamento",
+      "path": "/bolsa-de-cilindro-2t-030-x-250m-3431",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "3432",
+      "title": "BOLSA DE CILINDRO 2T 300MM X 0,75M COM FATOR DE SEGURANÇA 5:1 - LEVTEC A14918",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "A14918",
+      "category": "BOLSAS DE IÇAMENTO",
+      "categorySlug": "bolsas-de-icamento",
+      "path": "/bolsa-de-cilindro-2t-300mm-x-075m-com-fator-de-seguranca-51--levtec-a14918-3432",
+      "image": "/products/images/0034/3432.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "1649",
+      "title": "BOLSA DE IÇAMENTO 2T EM POLIÉSTER REFORÇADO CMT FS 7:1 - TECNOTEXTIL",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "A14818",
+      "category": "BOLSAS DE IÇAMENTO",
+      "categorySlug": "bolsas-de-icamento",
+      "path": "/bolsa-de-icamento-2t-em-poliester-reforcado-cmt-fs-71--tecnotextil-1649",
+      "image": "/products/images/0016/1649.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "638",
+      "title": "BOLSA DE IÇAR 60X100CM 500KG (0,5T) TECNOTEXTIL LEVTEC REF A20216",
+      "brand": "LEVTEC",
+      "brandCode": "166",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "A20216",
+      "category": "BOLSAS DE IÇAMENTO",
+      "categorySlug": "bolsas-de-icamento",
+      "path": "/bolsa-de-icar-60x100cm-500kg-05t-tecnotextil-levtec-ref-a20216-638",
+      "image": "/products/images/0006/638.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "2933",
+      "title": "BOLSA DE IÇAR ALÇA 180  800MM X 1M CMT 500KG 100% PES F.S 2:1 - TECNOTEXTIL A07119",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "A07119",
+      "category": "BOLSAS DE IÇAMENTO",
+      "categorySlug": "bolsas-de-icamento",
+      "path": "/bolsa-de-icar-alca-180-800mm-x-1m-cmt-500kg-100-pes-fs-21--tecnotextil-a07119-2933",
+      "image": "/products/images/0029/2933.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "645",
+      "title": "BOLSA DE IÇAR FERRAMENTAS CMT 250KG TECNOTEXTIL LEVTEC REF A10115",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "A10115",
+      "category": "BOLSAS DE IÇAMENTO",
+      "categorySlug": "bolsas-de-icamento",
+      "path": "/bolsa-de-icar-ferramentas-cmt-250kg-tecnotextil-levtec-ref-a10115-645",
+      "image": "/products/images/0006/645.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "11694",
+      "title": "BOLSA PES CMT 0,5T 400 FERRAM 0,6 X 1,3M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "CA0660",
+      "category": "BOLSAS DE IÇAMENTO",
+      "categorySlug": "bolsas-de-icamento",
+      "path": "/bolsa-pes-cmt-05t-400-ferram-06-x-13m-11694",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--bolsas-de-icamento"
+  }
+}

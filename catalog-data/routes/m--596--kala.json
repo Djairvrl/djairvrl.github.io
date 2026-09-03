@@ -1,0 +1,70 @@
+{
+  "title": "KALA",
+  "parentLabel": "Marca",
+  "description": "Produtos KALA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KALA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8460",
+      "title": "GAZEBO DOBRAVEL PES ALUM 3X3M AZ - KALA",
+      "brand": "KALA",
+      "brandCode": "596",
+      "supplier": "TWINBROW COMERCIAL LTDA",
+      "supplierCode": "2106",
+      "manufacturerCode": "103888",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/gazebo-dobravel-pes-alum-3x3m-az--kala-8460",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    },
+    {
+      "code": "11308",
+      "title": "VARAL SANFONADO 80CM ACO",
+      "brand": "KALA",
+      "brandCode": "596",
+      "supplier": "RENOMAR DISTRIBUIDORA LTDA",
+      "supplierCode": "4759",
+      "manufacturerCode": "497",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/varal-sanfonado-80cm-aco-11308",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12462",
+      "title": "LANTERNA 37LEDS RECARREGAVEL BIVOLT 12V",
+      "brand": "KALA",
+      "brandCode": "596",
+      "supplier": "ELETRICARIO.COM.BR IMPORTADORA E COM DE MAQ E EQUIP LTDA",
+      "supplierCode": "5726",
+      "manufacturerCode": "515",
+      "category": "PORTE MÉDIO",
+      "categorySlug": "porte-medio",
+      "path": "/lanterna-37leds-recarregavel-bivolt-12v-12462",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--596--kala"
+  }
+}

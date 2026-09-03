@@ -1,0 +1,104 @@
+{
+  "title": "MARCHESONI",
+  "parentLabel": "Marca",
+  "description": "Produtos MARCHESONI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARCHESONI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11822",
+      "title": "CAFETEIRA AUT MAQ CAFE 2 LIT COR INOX",
+      "brand": "MARCHESONI",
+      "brandCode": "578",
+      "supplier": "MFS COMERCIO VAREJISTA LTDA",
+      "supplierCode": "4019",
+      "manufacturerCode": "MARCHCF1202",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-aut-maq-cafe-2-lit-cor-inox-11822",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11424",
+      "title": "CAFETEIRA AUTOMATICA 6 LITROS 220V",
+      "brand": "MARCHESONI",
+      "brandCode": "578",
+      "supplier": "PATRICIA CORREIA DA SILVA",
+      "supplierCode": "4581",
+      "manufacturerCode": "CAFETEIRA MARCHESONI 6L",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-automatica-6-litros-220v-11424",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10133",
+      "title": "CAFETEIRA ELETRICA AUTOMAT INDL 2L INOX",
+      "brand": "MARCHESONI",
+      "brandCode": "578",
+      "supplier": "DALIA COMERCIO ELETRONICO LTDA",
+      "supplierCode": "3130",
+      "manufacturerCode": "MAR00302",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-eletrica-automat-indl-2l-inox-10133",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8269",
+      "title": "CAFETEIRA ELETRICA AUTOMATICA 2L 220V",
+      "brand": "MARCHESONI",
+      "brandCode": "578",
+      "supplier": "DESCONTO MAGAZINE COMERCIO",
+      "supplierCode": "2764",
+      "manufacturerCode": "2773",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-eletrica-automatica-2l-220v-8269",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11125",
+      "title": "MAQUINA CAFE AUTOMATICA 2 LTS 220V",
+      "brand": "MARCHESONI",
+      "brandCode": "578",
+      "supplier": "PATRICIA CORREIA DA SILVA",
+      "supplierCode": "4581",
+      "manufacturerCode": "CAFETEIRA MARCHESONI",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/maquina-cafe-automatica-2-lts-220v-11125",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--578--marchesoni"
+  }
+}

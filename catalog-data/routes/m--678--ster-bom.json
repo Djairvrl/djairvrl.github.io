@@ -1,0 +1,70 @@
+{
+  "title": "STER BOM",
+  "parentLabel": "Marca",
+  "description": "Produtos STER BOM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STER BOM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9395",
+      "title": "AGUA MINERAL STER BOM 20L",
+      "brand": "STER BOM",
+      "brandCode": "678",
+      "supplier": "SUPERMERCADO MEDEIROS LTDA",
+      "supplierCode": "1455",
+      "manufacturerCode": "000741",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-mineral-ster-bom-20l-9395",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8357",
+      "title": "AGUA MINERAL STER BOM GF 500ML CX C/12",
+      "brand": "STER BOM",
+      "brandCode": "678",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "39",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-mineral-ster-bom-gf-500ml-cx-c12-8357",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9507",
+      "title": "AGUA MINERAL STERBOM 20LT",
+      "brand": "STER BOM",
+      "brandCode": "678",
+      "supplier": "J & B MERCANTIL LTDA",
+      "supplierCode": "2156",
+      "manufacturerCode": "00000000086622",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-mineral-sterbom-20lt-9507",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--678--ster-bom"
+  }
+}

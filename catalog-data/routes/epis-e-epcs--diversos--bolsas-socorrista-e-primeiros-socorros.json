@@ -1,0 +1,112 @@
+{
+  "title": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+  "parentLabel": "Diversos",
+  "description": "Produtos da categoria bolsas socorrista e primeiros socorros em diversos.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Diversos",
+      "to": "/epis-e-epcs/diversos"
+    },
+    {
+      "label": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "685",
+      "title": "BOLSA P/KIT P.SOCORROS PEQUENA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "0035",
+      "category": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+      "categorySlug": "bolsas-socorrista-e-primeiros-socorros",
+      "path": "/bolsa-pkit-psocorros-pequena-685",
+      "image": "/products/images/0006/685.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "652",
+      "title": "BOLSA SOCORRISTA VERMELHA GRANDE",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "CENTERCORE COMERCIO DE PRODUTOS MEDICOS",
+      "supplierCode": "188",
+      "manufacturerCode": "4116",
+      "category": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+      "categorySlug": "bolsas-socorrista-e-primeiros-socorros",
+      "path": "/bolsa-socorrista-vermelha-grande-652",
+      "image": "/products/images/0006/652.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "11318",
+      "title": "BOLSA TATICO MILITAR PRIMEIROS SOCORROS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "STUDIO CRL BELEZA ESTETICA ME",
+      "supplierCode": "4775",
+      "manufacturerCode": "PCTPMSCPT",
+      "category": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+      "categorySlug": "bolsas-socorrista-e-primeiros-socorros",
+      "path": "/bolsa-tatico-militar-primeiros-socorros-11318",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "2668",
+      "title": "BOLSA(G) NYLON LARANJ C/VISOR 75X33X30CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "BL03112023",
+      "category": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+      "categorySlug": "bolsas-socorrista-e-primeiros-socorros",
+      "path": "/bolsag-nylon-laranj-cvisor-75x33x30cm-2668",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "1379",
+      "title": "NECESSAIRE PRIMEIRO SOCORROS GRANDE",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "GNSYS SOLUCOES LTDA",
+      "supplierCode": "172",
+      "manufacturerCode": "NC03006",
+      "category": "BOLSAS SOCORRISTA E PRIMEIROS SOCORROS",
+      "categorySlug": "bolsas-socorrista-e-primeiros-socorros",
+      "path": "/necessaire-primeiro-socorros-grande-1379",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--diversos--bolsas-socorrista-e-primeiros-socorros"
+  }
+}

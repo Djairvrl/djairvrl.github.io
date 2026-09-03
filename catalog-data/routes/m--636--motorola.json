@@ -1,0 +1,104 @@
+{
+  "title": "MOTOROLA",
+  "parentLabel": "Marca",
+  "description": "Produtos MOTOROLA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MOTOROLA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10198",
+      "title": "BATERIA MOTOROLA PMNN4491D",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "RADIOCELL ELETRONICA LTDA",
+      "supplierCode": "3285",
+      "manufacturerCode": "CNB 8128",
+      "category": "PILHAS E BATERIAS",
+      "categorySlug": "pilhas-e-baterias",
+      "path": "/bateria-motorola-pmnn4491d-10198",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8963",
+      "title": "RADIO COMUNICADOR PORTATIL MODELO DEP450",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "INTELISENSE RADIOCOMUNICACAO LTDA",
+      "supplierCode": "2098",
+      "manufacturerCode": "LAH01QDC9JA2AN",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/radio-comunicador-portatil-modelo-dep450-8963",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10729",
+      "title": "SMARTPHONE MOTO G05 128GB CINZA MOTOROLA",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "49559",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/smartphone-moto-g05-128gb-cinza-motorola-10729",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12347",
+      "title": "SMARTPHONE MOTO G15 - 256GB 4GB GRAFITE",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "BRAIN BOX COMERCIO E SERVICOS DE INFORMATICA LTDA",
+      "supplierCode": "5668",
+      "manufacturerCode": "MLB5788170688",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/smartphone-moto-g15--256gb-4gb-grafite-12347",
+      "image": "/products/images/0123/12347.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12484",
+      "title": "SMARTPHONE MOTO G35 5G 256GB CINZA",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "49327",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/smartphone-moto-g35-5g-256gb-cinza-12484",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--636--motorola"
+  }
+}

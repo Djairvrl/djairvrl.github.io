@@ -1,0 +1,112 @@
+{
+  "title": "DOSADORES",
+  "parentLabel": "Higienização e Proteção da Pele",
+  "description": "Produtos da categoria dosadores em higienização e proteção da pele.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Higienização e Proteção da Pele",
+      "to": "/epis-e-epcs/higienizacao-e-protecao-da-pele"
+    },
+    {
+      "label": "DOSADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7171",
+      "title": "DISPENSER DE SABONETE COMPACTA C19533",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "227983",
+      "category": "DOSADORES",
+      "categorySlug": "dosadores",
+      "path": "/dispenser-de-sabonete-compacta-c19533-7171",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "7782",
+      "title": "DISPENSER SABONETEIRA 800ML INVOQ",
+      "brand": "PREMISSE",
+      "brandCode": "536",
+      "supplier": "NATAL LIMP DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "1678",
+      "manufacturerCode": "1821",
+      "category": "DOSADORES",
+      "categorySlug": "dosadores",
+      "path": "/dispenser-saboneteira-800ml-invoq-7782",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "3057",
+      "title": "PORTA SABONETE LIQUIDO 350ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HOME DECOR LTDA",
+      "supplierCode": "752",
+      "manufacturerCode": "1142",
+      "category": "DOSADORES",
+      "categorySlug": "dosadores",
+      "path": "/porta-sabonete-liquido-350ml-3057",
+      "image": "/products/images/0030/3057.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "9429",
+      "title": "SABONETEIRA COMPACTA INVOQ PREMISSE BRAN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "BENDITO PRODUTO LTDA",
+      "supplierCode": "2546",
+      "manufacturerCode": "SKU0156",
+      "category": "DOSADORES",
+      "categorySlug": "dosadores",
+      "path": "/saboneteira-compacta-invoq-premisse-bran-9429",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "7947",
+      "title": "SABONETEIRA SOBREPOR INOX",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1619",
+      "category": "DOSADORES",
+      "categorySlug": "dosadores",
+      "path": "/saboneteira-sobrepor-inox-7947",
+      "image": "/products/images/0079/7947.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--higienizacao-e-protecao-da-pele--dosadores"
+  }
+}

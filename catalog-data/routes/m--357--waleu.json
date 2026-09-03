@@ -1,0 +1,70 @@
+{
+  "title": "WALEU",
+  "parentLabel": "Marca",
+  "description": "Produtos WALEU disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WALEU"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12966",
+      "title": "PRANCHETA WALEU OF MDF (30) 10260013",
+      "brand": "WALEU",
+      "brandCode": "357",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "221782",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/prancheta-waleu-of-mdf-30-10260013-12966",
+      "image": "/products/images/0129/12966.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "6823",
+      "title": "PRANCHETA WALEU SUP MET FM 10260020",
+      "brand": "WALEU",
+      "brandCode": "357",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7897294404088",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/prancheta-waleu-sup-met-fm-10260020-6823",
+      "image": "/products/images/0068/6823.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8023",
+      "title": "REGUA WALEU 30CM SUP 10P'",
+      "brand": "WALEU",
+      "brandCode": "357",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7897294400127",
+      "category": "RÉGUA",
+      "categorySlug": "regua",
+      "path": "/regua-waleu-30cm-sup-10p-8023",
+      "image": "/products/images/0080/8023.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--357--waleu"
+  }
+}

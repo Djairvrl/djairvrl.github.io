@@ -1,0 +1,61 @@
+{
+  "title": "SISTEMA DE CALIBRAÇÃO",
+  "parentLabel": "Proteção Respiratória",
+  "description": "Produtos da categoria sistema de calibração em proteção respiratória.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Respiratória",
+      "to": "/epis-e-epcs/protecao-respiratoria"
+    },
+    {
+      "label": "SISTEMA DE CALIBRAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13386",
+      "title": "CARTUCHO 3M MULTIGAS P3 60926",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "H0001924333",
+      "category": "SISTEMA DE CALIBRAÇÃO",
+      "categorySlug": "sistema-de-calibracao",
+      "path": "/cartucho-3m-multigas-p3-60926-13386",
+      "image": "/products/images/0133/13386.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "9651",
+      "title": "SISTEMA CARONA T8000: MASC/VALV CA37294",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "160",
+      "manufacturerCode": "SCBA-25T",
+      "category": "SISTEMA DE CALIBRAÇÃO",
+      "categorySlug": "sistema-de-calibracao",
+      "path": "/sistema-carona-t8000-mascvalv-ca37294-9651",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--protecao-respiratoria--sistema-de-calibracao"
+  }
+}

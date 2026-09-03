@@ -1,0 +1,36 @@
+{
+  "title": "MARGIRIUS",
+  "parentLabel": "Marca",
+  "description": "Produtos MARGIRIUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARGIRIUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11098",
+      "title": "RELE FOTOELETRICO C/ BASE 1000W 220V RFE",
+      "brand": "MARGIRIUS",
+      "brandCode": "881",
+      "supplier": "LUMIX COMERCIAL LTDA",
+      "supplierCode": "3894",
+      "manufacturerCode": "1469",
+      "category": "RELÉS",
+      "categorySlug": "reles",
+      "path": "/rele-fotoeletrico-c-base-1000w-220v-rfe-11098",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--881--margirius"
+  }
+}

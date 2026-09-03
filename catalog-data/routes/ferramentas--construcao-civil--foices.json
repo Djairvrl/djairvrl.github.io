@@ -1,0 +1,61 @@
+{
+  "title": "FOICES",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria foices em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "FOICES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9802",
+      "title": "CURVA SOLDAVEL 90 60MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "4960",
+      "category": "FOICES",
+      "categorySlug": "foices",
+      "path": "/curva-soldavel-90-60mm-9802",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1661",
+      "title": "FOICE ROÇADEIRA EM AÇO CARBONO COM CABO DE MADEIRA 110CM - TRAMONTINA REF. 77600615",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77600615",
+      "category": "FOICES",
+      "categorySlug": "foices",
+      "path": "/foice-rocadeira-em-aco-carbono-com-cabo-de-madeira-110cm--tramontina-ref-77600615-1661",
+      "image": "/products/images/0016/1661.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--construcao-civil--foices"
+  }
+}

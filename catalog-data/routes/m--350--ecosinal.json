@@ -1,0 +1,70 @@
+{
+  "title": "ECOSINAL",
+  "parentLabel": "Marca",
+  "description": "Produtos ECOSINAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ECOSINAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6802",
+      "title": "CONTEINER DE 1000 LITROS PRETO",
+      "brand": "ECOSINAL",
+      "brandCode": "350",
+      "supplier": "NALCON COMPOSTOS PARA ROTOMOLDAGEM LTDA",
+      "supplierCode": "1367",
+      "manufacturerCode": "1078-2",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/conteiner-de-1000-litros-preto-6802",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "6801",
+      "title": "CONTEINER DE 1000 LITROS VERDE ECO",
+      "brand": "ECOSINAL",
+      "brandCode": "350",
+      "supplier": "POLY EASY DO BRASIL INDUSTRIA E COMERCIO S/A",
+      "supplierCode": "1365",
+      "manufacturerCode": "1078-1",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/conteiner-de-1000-litros-verde-eco-6801",
+      "image": "/products/images/0068/6801.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7385",
+      "title": "CONTEINER DE 700 LITROS PRETO ECO",
+      "brand": "ECOSINAL",
+      "brandCode": "350",
+      "supplier": "NALCON COMPOSTOS PARA ROTOMOLDAGEM LTDA",
+      "supplierCode": "1367",
+      "manufacturerCode": "001",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/conteiner-de-700-litros-preto-eco-7385",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--350--ecosinal"
+  }
+}

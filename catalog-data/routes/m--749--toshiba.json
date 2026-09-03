@@ -1,0 +1,70 @@
+{
+  "title": "TOSHIBA",
+  "parentLabel": "Marca",
+  "description": "Produtos TOSHIBA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TOSHIBA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13337",
+      "title": "HD CFTV 04TB TOSHIBA S300",
+      "brand": "TOSHIBA",
+      "brandCode": "749",
+      "supplier": "DISTRIBUIDORA CASA DO INSTALADOR LTDA",
+      "supplierCode": "3658",
+      "manufacturerCode": "7535",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/hd-cftv-04tb-toshiba-s300-13337",
+      "image": "/products/images/0133/13337.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13112",
+      "title": "HD EXTERNO 2TB USB 3.0 TOSHIBA CANVIO",
+      "brand": "TOSHIBA",
+      "brandCode": "749",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "46969",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/hd-externo-2tb-usb-30-toshiba-canvio-13112",
+      "image": "/products/images/0131/13112.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10086",
+      "title": "SMART TV QLED 55\" 4K 55C450NS GOOGLE TV   TOSHIBA REF TB035M",
+      "brand": "TOSHIBA",
+      "brandCode": "749",
+      "supplier": "GRUPO MULTI S.A",
+      "supplierCode": "1171",
+      "manufacturerCode": "TB035M",
+      "category": "TVs",
+      "categorySlug": "tvs",
+      "path": "/smart-tv-qled-55-4k-55c450ns-google-tv-toshiba-ref-tb035m-10086",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--749--toshiba"
+  }
+}

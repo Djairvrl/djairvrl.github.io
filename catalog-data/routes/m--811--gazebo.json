@@ -1,0 +1,36 @@
+{
+  "title": "GAZEBO",
+  "parentLabel": "Marca",
+  "description": "Produtos GAZEBO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GAZEBO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10770",
+      "title": "TENDA GAZEBO DOBRAVEL 3X3 BASE ALUMINIO",
+      "brand": "GAZEBO",
+      "brandCode": "811",
+      "supplier": "AVJ COMERCIO VAREJISTA LTDA",
+      "supplierCode": "4074",
+      "manufacturerCode": "PAGODA",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/tenda-gazebo-dobravel-3x3-base-aluminio-10770",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--811--gazebo"
+  }
+}

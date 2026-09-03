@@ -1,0 +1,53 @@
+{
+  "title": "BRASIL EMBALAGENS",
+  "parentLabel": "Marca",
+  "description": "Produtos BRASIL EMBALAGENS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRASIL EMBALAGENS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11881",
+      "title": "SACO PP LISO 10X25X04",
+      "brand": "BRASIL EMBALAGENS",
+      "brandCode": "1001",
+      "supplier": "BRASIL DISTRIBUIDORA DE EMBALAGENS LTDA",
+      "supplierCode": "5354",
+      "manufacturerCode": "73560",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/saco-pp-liso-10x25x04-11881",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11878",
+      "title": "SACO TRANSPARENTE 52X70 INCOLOR",
+      "brand": "BRASIL EMBALAGENS",
+      "brandCode": "1001",
+      "supplier": "BRASIL DISTRIBUIDORA DE EMBALAGENS LTDA",
+      "supplierCode": "5354",
+      "manufacturerCode": "13901",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/saco-transparente-52x70-incolor-11878",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1001--brasil-embalagens"
+  }
+}

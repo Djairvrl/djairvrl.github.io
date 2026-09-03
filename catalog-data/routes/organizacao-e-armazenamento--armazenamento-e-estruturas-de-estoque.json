@@ -1,0 +1,22 @@
+{
+  "title": "Armazenamento e Estruturas de Estoque",
+  "parentLabel": "Organização e Armazenamento",
+  "description": "Soluções de armazenamento e estruturas de estoque disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento e Estruturas de Estoque"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "organizacao-e-armazenamento--armazenamento-e-estruturas-de-estoque"
+  }
+}

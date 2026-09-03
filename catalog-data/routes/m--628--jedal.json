@@ -1,0 +1,70 @@
+{
+  "title": "JEDAL",
+  "parentLabel": "Marca",
+  "description": "Produtos JEDAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JEDAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11350",
+      "title": "ARMARIO CORTA FOGO STD PREM VERM2X1X0,45",
+      "brand": "JEDAL",
+      "brandCode": "628",
+      "supplier": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1134",
+      "manufacturerCode": "690204009B",
+      "category": "ARMÁRIOS CORTA-FOGO",
+      "categorySlug": "armarios-corta-fogo",
+      "path": "/armario-corta-fogo-std-prem-verm2x1x045-11350",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "5945",
+      "title": "ARMÁRIO CORTA-FOGO PRACTICAL VERMELHO 2,0 × 1,0 × 0,45M - REDENTOR 690504009",
+      "brand": "JEDAL",
+      "brandCode": "628",
+      "supplier": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1134",
+      "manufacturerCode": "690504009",
+      "category": "ARMÁRIOS CORTA-FOGO",
+      "categorySlug": "armarios-corta-fogo",
+      "path": "/armario-cortafogo-practical-vermelho-20-10-045m--redentor-690504009-5945",
+      "image": "/products/images/0059/5945.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11837",
+      "title": "CONTANIER R7-L REV.B P",
+      "brand": "JEDAL",
+      "brandCode": "628",
+      "supplier": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1134",
+      "manufacturerCode": "691720009C",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/contanier-r7l-revb-p-11837",
+      "image": "/products/images/0118/11837.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--628--jedal"
+  }
+}

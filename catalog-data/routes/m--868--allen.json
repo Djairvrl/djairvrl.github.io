@@ -1,0 +1,36 @@
+{
+  "title": "ALLEN",
+  "parentLabel": "Marca",
+  "description": "Produtos ALLEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALLEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11055",
+      "title": "FREIO W-BRAKE NYLON PT ALLEN",
+      "brand": "ALLEN",
+      "brandCode": "868",
+      "supplier": "R PAULO DO NASCIMENTO FILHO LTDA",
+      "supplierCode": "4401",
+      "manufacturerCode": "1651",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/freio-wbrake-nylon-pt-allen-11055",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--868--allen"
+  }
+}

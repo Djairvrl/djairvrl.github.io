@@ -1,0 +1,121 @@
+{
+  "title": "GUARANY",
+  "parentLabel": "Marca",
+  "description": "Produtos GUARANY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GUARANY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2665",
+      "title": "ABAFADOR FLORESTAL COM CABO DE MADEIRA E LONA 12 FUROS PARA COMBATE A INCÊNDIO - GUARANY REF. 0467.08.00",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0467.08.00",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/abafador-florestal-com-cabo-de-madeira-e-lona-12-furos-para-combate-a-incendio--guarany-ref-04670800-2665",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9142",
+      "title": "APARELHO MECANICO/PULV COMP S-2 15L",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0441.01.00",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/aparelho-mecanicopulv-comp-s2-15l-9142",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "4866",
+      "title": "BOMBA COSTAL ANTI-INCÊNDIO S4 20L PROFISSIONAL - GUARANY 0431.30",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0431.30.00",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/bomba-costal-antiincendio-s4-20l-profissional--guarany-043130-4866",
+      "image": "/products/images/0048/4866.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "8101",
+      "title": "MOCHILA COSTAL FLEXÍVEL ANTI-INCENDIO 21L ECOFIRE - GUARANY 0431.25",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0431.25.00",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/mochila-costal-flexivel-antiincendio-21l-ecofire--guarany-043125-8101",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12568",
+      "title": "PULV DE ALTA PRESSAO PAP-5",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "04252500",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulv-de-alta-pressao-pap5-12568",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "6952",
+      "title": "PULVERIZADOR MANUAL DE COMPRESSÃO PRÉVIA 1,2L PCP-1P - GUARANY 0424.00",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0424.00.00",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulverizador-manual-de-compressao-previa-12l-pcp1p--guarany-042400-6952",
+      "image": "/products/images/0069/6952.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--171--guarany"
+  }
+}

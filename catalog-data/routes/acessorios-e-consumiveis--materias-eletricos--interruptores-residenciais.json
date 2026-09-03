@@ -1,0 +1,95 @@
+{
+  "title": "INTERRUPTORES RESIDENCIAIS",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria interruptores residenciais em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "INTERRUPTORES RESIDENCIAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9797",
+      "title": "1 INTERRUPTOR PARALELO COM 1 TOMADA",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "S3B69040",
+      "category": "INTERRUPTORES RESIDENCIAIS",
+      "categorySlug": "interruptores-residenciais",
+      "path": "/1-interruptor-paralelo-com-1-tomada-9797",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9796",
+      "title": "INTERRUPTOR PARALELO 10A 250V MILUZ",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "S3B62030",
+      "category": "INTERRUPTORES RESIDENCIAIS",
+      "categorySlug": "interruptores-residenciais",
+      "path": "/interruptor-paralelo-10a-250v-miluz-9796",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9790",
+      "title": "INTERRUPTOR PRED 4X2\" 2 TECLAS 250V 10A",
+      "brand": "PIAL LEGRAND",
+      "brandCode": "723",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "2100",
+      "category": "INTERRUPTORES RESIDENCIAIS",
+      "categorySlug": "interruptores-residenciais",
+      "path": "/interruptor-pred-4x2-2-teclas-250v-10a-9790",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9791",
+      "title": "INTERRUPTOR SIMPLES 10A 250V MILUZ",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "S3B62010",
+      "category": "INTERRUPTORES RESIDENCIAIS",
+      "categorySlug": "interruptores-residenciais",
+      "path": "/interruptor-simples-10a-250v-miluz-9791",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--interruptores-residenciais"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "BLUMENAU",
+  "parentLabel": "Marca",
+  "description": "Produtos BLUMENAU disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BLUMENAU"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9975",
+      "title": "LUMINÁRIA DE EMERGÊNCIA LED 2.200LM 10W 2 FARÓIS 6.500K  BLUMENAU REF 40012224-3",
+      "brand": "BLUMENAU",
+      "brandCode": "205",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "64244",
+      "category": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+      "categorySlug": "sistemas-de-iluminacao-de-emergencia",
+      "path": "/luminaria-de-emergencia-led-2200lm-10w-2-farois-6500k-blumenau-ref-400122243-9975",
+      "image": "/products/images/0099/9975.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "13211",
+      "title": "PAINEL ABS PLAY 24W 6500K BLUMENA",
+      "brand": "BLUMENAU",
+      "brandCode": "205",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "67941",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/painel-abs-play-24w-6500k-blumena-13211",
+      "image": "/products/images/0132/13211.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "13210",
+      "title": "PAINEL ABS PLAY QD 18W 6500K BLUMENAU",
+      "brand": "BLUMENAU",
+      "brandCode": "205",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "67944",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/painel-abs-play-qd-18w-6500k-blumenau-13210",
+      "image": "/products/images/0132/13210.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--205--blumenau"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "ROLDANA",
+  "parentLabel": "Marca",
+  "description": "Produtos ROLDANA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROLDANA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10992",
+      "title": "COMBO PORTA 2,10X0,90 + KIT ROLDANA 2M",
+      "brand": "ROLDANA",
+      "brandCode": "844",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10992",
+      "category": "DECORAÇÃO E INFRAESTRUTURA",
+      "categorySlug": "decoracao-e-infraestrutura",
+      "path": "/combo-porta-210x090-kit-roldana-2m-10992",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10980",
+      "title": "KIT ROLDANA PORTA CORRER EMBUT 2M PERFIL",
+      "brand": "ROLDANA",
+      "brandCode": "844",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "10909",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/kit-roldana-porta-correr-embut-2m-perfil-10980",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--844--roldana"
+  }
+}

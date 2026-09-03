@@ -1,0 +1,1623 @@
+{
+  "title": "Organização e Armazenamento",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento"
+    }
+  ],
+  "children": [
+    {
+      "name": "Organização de Oficina e Bancada",
+      "slug": "organizacao-de-oficina-e-bancada",
+      "path": "/organizacao-e-armazenamento/organizacao-de-oficina-e-bancada",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento e Estruturas de Estoque",
+      "slug": "armazenamento-e-estruturas-de-estoque",
+      "path": "/organizacao-e-armazenamento/armazenamento-e-estruturas-de-estoque",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Movimentação e Intralogística",
+      "slug": "movimentacao-e-intralogistica",
+      "path": "/organizacao-e-armazenamento/movimentacao-e-intralogistica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento",
+      "slug": "armazenamento",
+      "path": "/organizacao-e-armazenamento/armazenamento",
+      "count": 183,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/organizacao-e-armazenamento/armazenamento/acessorios",
+          "count": 24
+        },
+        {
+          "name": "ARMÁRIOS",
+          "slug": "armarios",
+          "path": "/organizacao-e-armazenamento/armazenamento/armarios",
+          "count": 50
+        },
+        {
+          "name": "CAIXAS E CASES",
+          "slug": "caixas-e-cases",
+          "path": "/organizacao-e-armazenamento/armazenamento/caixas-e-cases",
+          "count": 20
+        },
+        {
+          "name": "CARRINHOS DE CARGA",
+          "slug": "carrinhos-de-carga",
+          "path": "/organizacao-e-armazenamento/armazenamento/carrinhos-de-carga",
+          "count": 5
+        },
+        {
+          "name": "EMPILHADEIRAS MANUAIS",
+          "slug": "empilhadeiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/empilhadeiras-manuais",
+          "count": 1
+        },
+        {
+          "name": "ESTANTES",
+          "slug": "estantes",
+          "path": "/organizacao-e-armazenamento/armazenamento/estantes",
+          "count": 24
+        },
+        {
+          "name": "FILME",
+          "slug": "filme",
+          "path": "/organizacao-e-armazenamento/armazenamento/filme",
+          "count": 5
+        },
+        {
+          "name": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+          "slug": "mesas-hidraulicas-pantograficas",
+          "path": "/organizacao-e-armazenamento/armazenamento/mesas-hidraulicas-pantograficas",
+          "count": 1
+        },
+        {
+          "name": "PALETEIRAS ELÉTRICAS",
+          "slug": "paleteiras-eletricas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-eletricas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS HIDRÁULICAS",
+          "slug": "paleteiras-hidraulicas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-hidraulicas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS MANUAIS",
+          "slug": "paleteiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-manuais",
+          "count": 10
+        },
+        {
+          "name": "PALETES PLÁSTICOS",
+          "slug": "paletes-plasticos",
+          "path": "/organizacao-e-armazenamento/armazenamento/paletes-plasticos",
+          "count": 1
+        },
+        {
+          "name": "PISOS MODULARES",
+          "slug": "pisos-modulares",
+          "path": "/organizacao-e-armazenamento/armazenamento/pisos-modulares",
+          "count": 2
+        },
+        {
+          "name": "PORTA PALETES",
+          "slug": "porta-paletes",
+          "path": "/organizacao-e-armazenamento/armazenamento/porta-paletes",
+          "count": 25
+        },
+        {
+          "name": "PRATELEIRA",
+          "slug": "prateleira",
+          "path": "/organizacao-e-armazenamento/armazenamento/prateleira",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Organização",
+      "slug": "organizacao",
+      "path": "/organizacao-e-armazenamento/organizacao",
+      "count": 150,
+      "categories": [
+        {
+          "name": "BANCADAS DE TRABALHO",
+          "slug": "bancadas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/bancadas-de-trabalho",
+          "count": 24
+        },
+        {
+          "name": "BOLSAS PARA FERRAMENTAS",
+          "slug": "bolsas-para-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/bolsas-para-ferramentas",
+          "count": 55
+        },
+        {
+          "name": "CARRINHOS DE FERRAMENTAS",
+          "slug": "carrinhos-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/carrinhos-de-ferramentas",
+          "count": 7
+        },
+        {
+          "name": "CLAVICULARIOS",
+          "slug": "clavicularios",
+          "path": "/organizacao-e-armazenamento/organizacao/clavicularios",
+          "count": 16
+        },
+        {
+          "name": "MALETAS DE TRABALHO",
+          "slug": "maletas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/maletas-de-trabalho",
+          "count": 18
+        },
+        {
+          "name": "ORGANIZADORES",
+          "slug": "organizadores",
+          "path": "/organizacao-e-armazenamento/organizacao/organizadores",
+          "count": 13
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/organizacao-e-armazenamento/organizacao/outros",
+          "count": 8
+        },
+        {
+          "name": "PAINÉIS DE FERRAMENTAS",
+          "slug": "paineis-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/paineis-de-ferramentas",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "4588",
+      "name": "35.092.668 ARIDNA SUZZY DA CAMARA CARNEVALE COELHO",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-4588.json"
+    },
+    {
+      "code": "34",
+      "name": "3M DO BRASIL LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-34.json"
+    },
+    {
+      "code": "5939",
+      "name": "66.320.667 MARCELO CARNEVALE COELHO",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5939.json"
+    },
+    {
+      "code": "1430",
+      "name": "A REDE ASSESSORIA COMERCIAL LTDA.",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1430.json"
+    },
+    {
+      "code": "4889",
+      "name": "ABC METAL INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-4889.json"
+    },
+    {
+      "code": "5937",
+      "name": "AGILIDADE COMERCIO E IMPORTACAO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5937.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-798.json"
+    },
+    {
+      "code": "5318",
+      "name": "AM FERRAMENTAS INDUSTRIA E COMERCIO DE FERRAMENTAS ESPECIAIS",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5318.json"
+    },
+    {
+      "code": "2435",
+      "name": "ANDREZA MESSIAS CAMAROTO SOLUCOES COMERCIAIS",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2435.json"
+    },
+    {
+      "code": "628",
+      "name": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--fornecedor-628.json"
+    },
+    {
+      "code": "5999",
+      "name": "APS COMERCIO DE EMBALAGEM LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5999.json"
+    },
+    {
+      "code": "3973",
+      "name": "ARAMAQUI COMERCIO DE VARIEDADES LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-3973.json"
+    },
+    {
+      "code": "2539",
+      "name": "BERTOLINI S/A",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2539.json"
+    },
+    {
+      "code": "412",
+      "name": "BLACK  DECKER DO BRASIL LTDA",
+      "count": 13,
+      "file": "organizacao-e-armazenamento--fornecedor-412.json"
+    },
+    {
+      "code": "4262",
+      "name": "BRACLAY COMERCIAL LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-4262.json"
+    },
+    {
+      "code": "5354",
+      "name": "BRASIL DISTRIBUIDORA DE EMBALAGENS LTDA",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-5354.json"
+    },
+    {
+      "code": "521",
+      "name": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--fornecedor-521.json"
+    },
+    {
+      "code": "66",
+      "name": "CARBOGRAFITE EQUIPAMENTOS INDUSTRIAIS",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-66.json"
+    },
+    {
+      "code": "1383",
+      "name": "CONSTRUMAQ INDUSTRIA DE MAQUINAS E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1383.json"
+    },
+    {
+      "code": "6049",
+      "name": "COPKO STORE LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-6049.json"
+    },
+    {
+      "code": "895",
+      "name": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--fornecedor-895.json"
+    },
+    {
+      "code": "3236",
+      "name": "CRISTIANO R. FUZARO COMERCIO DE BORRACHAS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-3236.json"
+    },
+    {
+      "code": "4464",
+      "name": "CRYSTAL LIFE DISTRIBUIDORA DE VARIEDADES LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-4464.json"
+    },
+    {
+      "code": "1578",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1578.json"
+    },
+    {
+      "code": "1562",
+      "name": "DUTRA MAQUINAS COMERCIAL E TECNICA LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-1562.json"
+    },
+    {
+      "code": "3596",
+      "name": "E-BAZAR DE EQUIPAMENTOS COMERCIAIS INDUSTRIAIS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-3596.json"
+    },
+    {
+      "code": "2776",
+      "name": "ELASTOBOR BORRACHAS E PLASTICOS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2776.json"
+    },
+    {
+      "code": "805",
+      "name": "ELETROMESA - IND. COMERCIO E SEVICOS LTDA",
+      "count": 13,
+      "file": "organizacao-e-armazenamento--fornecedor-805.json"
+    },
+    {
+      "code": "1831",
+      "name": "ELYT MOVEIS DE ACO LTDA",
+      "count": 6,
+      "file": "organizacao-e-armazenamento--fornecedor-1831.json"
+    },
+    {
+      "code": "2790",
+      "name": "EMBAFORT COMERCIO DE EMBALAGENS",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2790.json"
+    },
+    {
+      "code": "4022",
+      "name": "ESTILO DECOR",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-4022.json"
+    },
+    {
+      "code": "6223",
+      "name": "FATTO SISTEMA DE ARMAZENAGEM LTDA",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-6223.json"
+    },
+    {
+      "code": "5606",
+      "name": "FELIPE GARCIA VAZ CORREA DE SOUZA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5606.json"
+    },
+    {
+      "code": "2077",
+      "name": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-2077.json"
+    },
+    {
+      "code": "174",
+      "name": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "count": 15,
+      "file": "organizacao-e-armazenamento--fornecedor-174.json"
+    },
+    {
+      "code": "806",
+      "name": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-806.json"
+    },
+    {
+      "code": "839",
+      "name": "G7 EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-839.json"
+    },
+    {
+      "code": "3956",
+      "name": "GMA COMERCIO ONLINE LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-3956.json"
+    },
+    {
+      "code": "172",
+      "name": "GNSYS SOLUCOES LTDA",
+      "count": 10,
+      "file": "organizacao-e-armazenamento--fornecedor-172.json"
+    },
+    {
+      "code": "1396",
+      "name": "GUIBE PETS E UTILIDADES EIRELI",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1396.json"
+    },
+    {
+      "code": "2778",
+      "name": "GUIPACK INDUSTRIA E COMERCIO DE",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2778.json"
+    },
+    {
+      "code": "727",
+      "name": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-727.json"
+    },
+    {
+      "code": "3778",
+      "name": "HANNOVERHOME COMERCIO DE ARTIGOS DE ARMARINHO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-3778.json"
+    },
+    {
+      "code": "6137",
+      "name": "INOVATTO SOLUCOES EM ARMAZENAGEM LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-6137.json"
+    },
+    {
+      "code": "1284",
+      "name": "ISMA INDUSTRIA SILVEIRA DE MOVEIS DE ACO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1284.json"
+    },
+    {
+      "code": "1848",
+      "name": "J. A. S. DE MACEDO ACESSORIOS PARA BEBES",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1848.json"
+    },
+    {
+      "code": "463",
+      "name": "JOSENILDO DOS SANTOS NASCIMENTO - EPP",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-463.json"
+    },
+    {
+      "code": "2163",
+      "name": "KAFER INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2163.json"
+    },
+    {
+      "code": "1615",
+      "name": "LAR PLASTICOS INDUSTRIA E COMERCIO DE PRODUTOS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1615.json"
+    },
+    {
+      "code": "4077",
+      "name": "LOJAITU",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-4077.json"
+    },
+    {
+      "code": "4168",
+      "name": "LUCIENE DE CARVALHO KITAOKA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-4168.json"
+    },
+    {
+      "code": "6031",
+      "name": "M A SILVERIO UNIPESSOAL LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-6031.json"
+    },
+    {
+      "code": "1662",
+      "name": "M.F. PASSARINHO ARTIGOS ELETRONICOS",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-1662.json"
+    },
+    {
+      "code": "5664",
+      "name": "MAF IMPORTACAO E DISTRIBUICAO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5664.json"
+    },
+    {
+      "code": "1168",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1168.json"
+    },
+    {
+      "code": "1095",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-1095.json"
+    },
+    {
+      "code": "1115",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-1115.json"
+    },
+    {
+      "code": "223",
+      "name": "MARCON INDUSTRIA METALURGICA LTDA",
+      "count": 13,
+      "file": "organizacao-e-armazenamento--fornecedor-223.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 6,
+      "file": "organizacao-e-armazenamento--fornecedor-4.json"
+    },
+    {
+      "code": "1177",
+      "name": "METAL TECNICA BOVENAU LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1177.json"
+    },
+    {
+      "code": "1581",
+      "name": "METALURGICA AMAPA S.A.",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-1581.json"
+    },
+    {
+      "code": "1332",
+      "name": "METALURGICA FERCAR LTDA",
+      "count": 7,
+      "file": "organizacao-e-armazenamento--fornecedor-1332.json"
+    },
+    {
+      "code": "689",
+      "name": "MOSCKA SOLUÇÕES EM EMBALAGENS INDUSTRIAIS LTDA",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-689.json"
+    },
+    {
+      "code": "39",
+      "name": "MULT EMBALAGENS LTDA ME",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-39.json"
+    },
+    {
+      "code": "244",
+      "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-244.json"
+    },
+    {
+      "code": "557",
+      "name": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-557.json"
+    },
+    {
+      "code": "5614",
+      "name": "NIL ART INDUSTRIA METALURGICA LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5614.json"
+    },
+    {
+      "code": "965",
+      "name": "NILKO TECNOLOGIA LTDA",
+      "count": 7,
+      "file": "organizacao-e-armazenamento--fornecedor-965.json"
+    },
+    {
+      "code": "1614",
+      "name": "NORDESTE CAIXAS LTDA",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-1614.json"
+    },
+    {
+      "code": "3090",
+      "name": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 12,
+      "file": "organizacao-e-armazenamento--fornecedor-3090.json"
+    },
+    {
+      "code": "846",
+      "name": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-846.json"
+    },
+    {
+      "code": "88",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 13,
+      "file": "organizacao-e-armazenamento--fornecedor-88.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 19,
+      "file": "organizacao-e-armazenamento--fornecedor-122.json"
+    },
+    {
+      "code": "1303",
+      "name": "ORK INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1303.json"
+    },
+    {
+      "code": "1816",
+      "name": "PAKKI COMERCIO DE EMBALAGENS LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-1816.json"
+    },
+    {
+      "code": "2978",
+      "name": "PALETRANS EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2978.json"
+    },
+    {
+      "code": "2088",
+      "name": "PERFORMANCE COMERCIO, IMPORTACAO E EXPORTACAO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2088.json"
+    },
+    {
+      "code": "5665",
+      "name": "PLASBIN INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-5665.json"
+    },
+    {
+      "code": "2405",
+      "name": "R M FERNANDES DA SILVA",
+      "count": 11,
+      "file": "organizacao-e-armazenamento--fornecedor-2405.json"
+    },
+    {
+      "code": "893",
+      "name": "REDE UNILAR LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-893.json"
+    },
+    {
+      "code": "3614",
+      "name": "RENAN BELTRATI COSER",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-3614.json"
+    },
+    {
+      "code": "158",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 7,
+      "file": "organizacao-e-armazenamento--fornecedor-158.json"
+    },
+    {
+      "code": "2961",
+      "name": "SAGA COMERCIO & IMPORTACAO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-2961.json"
+    },
+    {
+      "code": "1591",
+      "name": "SCHIER MOVEIS",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-1591.json"
+    },
+    {
+      "code": "5780",
+      "name": "SEEK ENGENHARIA LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5780.json"
+    },
+    {
+      "code": "6056",
+      "name": "SITIO CERCADOJACHINSKI COMERCIO DE MOVEIS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-6056.json"
+    },
+    {
+      "code": "2924",
+      "name": "SOEPOXI COMERCIO E SERVICO DE PINTURA ELETROSTATICA LTDA",
+      "count": 4,
+      "file": "organizacao-e-armazenamento--fornecedor-2924.json"
+    },
+    {
+      "code": "5872",
+      "name": "SUELLEN TOLEDO AMORIM COMERCIO E IMPORTACAO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5872.json"
+    },
+    {
+      "code": "5420",
+      "name": "TAOPLAST COMERCIO DE PLASTICOS LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5420.json"
+    },
+    {
+      "code": "519",
+      "name": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "count": 20,
+      "file": "organizacao-e-armazenamento--fornecedor-519.json"
+    },
+    {
+      "code": "5584",
+      "name": "VICENTE XISTO CUPERTINO LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-5584.json"
+    },
+    {
+      "code": "1663",
+      "name": "VOICHEVE INDUSTRIA E COMERCIO LTDA",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--fornecedor-1663.json"
+    },
+    {
+      "code": "1345",
+      "name": "VRS PEREIRA LTDA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--fornecedor-1345.json"
+    },
+    {
+      "code": "1787",
+      "name": "WMF INDUSTRIA E COMERCIO DE PRODUTOS DE ACO LTDA",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--fornecedor-1787.json"
+    },
+    {
+      "code": "83",
+      "name": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "count": 29,
+      "file": "organizacao-e-armazenamento--fornecedor-83.json"
+    },
+    {
+      "code": "316",
+      "name": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "count": 6,
+      "file": "organizacao-e-armazenamento--fornecedor-316.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "3684",
+      "title": "AMÁRIO UNIVERSAL \"JUMBO\" COM DIVISÓRIAS  - GEDORE REF. 52510",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001061",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/amario-universal-jumbo-com-divisorias--gedore-ref-52510-3684",
+      "image": "/products/images/0036/3684.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10717",
+      "title": "APARADOR CANTINHO CAFE GAVETA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ESTILO DECOR",
+      "supplierCode": "4022",
+      "manufacturerCode": "BF TIP TOP OFF/FREIJO",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/aparador-cantinho-cafe-gaveta-10717",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11084",
+      "title": "ARM CLAVICULARIO 120 PORTA CHAVES S/CHAV",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "CRYSTAL LIFE DISTRIBUIDORA DE VARIEDADES LTDA",
+      "supplierCode": "4464",
+      "manufacturerCode": "797",
+      "category": "CLAVICULARIOS",
+      "categorySlug": "clavicularios",
+      "path": "/arm-claviculario-120-porta-chaves-schav-11084",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7368",
+      "title": "ARMARIO 02 PORTAS GRANDES MODELO 407/33",
+      "brand": "SCHIER",
+      "brandCode": "448",
+      "supplier": "SCHIER MOVEIS",
+      "supplierCode": "1591",
+      "manufacturerCode": "40733",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-02-portas-grandes-modelo-40733-7368",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7755",
+      "title": "ARMARIO 02 PORTAS GRANDES MODELO 407/33",
+      "brand": "SCHIER",
+      "brandCode": "448",
+      "supplier": "SCHIER MOVEIS",
+      "supplierCode": "1591",
+      "manufacturerCode": "40733",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-02-portas-grandes-modelo-40733-7755",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11532",
+      "title": "ARMARIO 03 BAND/ 05 GAVE/ PORTA VID AM-1",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "AM-14",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-03-band-05-gave-porta-vid-am1-11532",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10398",
+      "title": "ARMARIO 170X080X030",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "117",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-170x080x030-10398",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11297",
+      "title": "ARMARIO 190X120X40 C/5 PRATELEIRAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "138-",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-190x120x40-c5-prateleiras-11297",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7681",
+      "title": "ARMARIO 2 PORTAS C/ VISORES AZUL",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955/220",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-2-portas-c-visores-azul-7681",
+      "image": "/products/images/0076/7681.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10559",
+      "title": "ARMARIO ACO C/3 PRATELEIRAS 170X75X32CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "122",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-aco-c3-prateleiras-170x75x32cm-10559",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12287",
+      "title": "ARMARIO ACO C/50 GAVET 14X07X30CM",
+      "brand": "NILARTS",
+      "brandCode": "1059",
+      "supplier": "NIL ART INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "5614",
+      "manufacturerCode": "AG50T50",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-aco-c50-gavet-14x07x30cm-12287",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9138",
+      "title": "ARMARIO ARM-10 4 PRATELEIRAS",
+      "brand": "FERCAR",
+      "brandCode": "337",
+      "supplier": "METALURGICA FERCAR LTDA",
+      "supplierCode": "1332",
+      "manufacturerCode": "ARM-10",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-arm10-4-prateleiras-9138",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11502",
+      "title": "ARMARIO C/2 PORT TIPO G. VOL 198X033X040",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "148",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-c2-port-tipo-g-vol-198x033x040-11502",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "6730",
+      "title": "ARMARIO COM 4 PRATELEIRAS REMOVIVEIS",
+      "brand": "ORK",
+      "brandCode": "324",
+      "supplier": "ORK INDUSTRIA E COMERCIO DE EQUIPAMENTOS LTDA",
+      "supplierCode": "1303",
+      "manufacturerCode": "ARM-021",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-com-4-prateleiras-removiveis-6730",
+      "image": "/products/images/0067/6730.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "3479",
+      "title": "ARMARIO COM CHAPA PERFURADA 52640",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001062",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-com-chapa-perfurada-52640-3479",
+      "image": "/products/images/0034/3479.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10733",
+      "title": "ARMARIO DE ACO C/4 PRATELEIRA 198X120X40",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "127",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-c4-prateleira-198x120x40-10733",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9378",
+      "title": "ARMARIO DE ACO CINZA 1,98 X 0,90 X 0,40",
+      "brand": "FATTO",
+      "brandCode": "675",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "PA90",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-cinza-198-x-090-x-040-9378",
+      "image": "/products/images/0093/9378.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10037",
+      "title": "ARMARIO DE ACO PA 90",
+      "brand": "ELYT",
+      "brandCode": "534",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "0000000000026",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-pa-90-10037",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "13045",
+      "title": "ARMARIO ESCANINHO 12 PORTAS 128X162X40",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SITIO CERCADOJACHINSKI COMERCIO DE MOVEIS LTDA",
+      "supplierCode": "6056",
+      "manufacturerCode": "M1116",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-escaninho-12-portas-128x162x40-13045",
+      "image": "/products/images/0130/13045.webp",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "13205",
+      "title": "ARMARIO GAVETEIRO",
+      "brand": "NILKO",
+      "brandCode": "227",
+      "supplier": "NILKO TECNOLOGIA LTDA",
+      "supplierCode": "965",
+      "manufacturerCode": "NK 1723",
+      "category": "ORGANIZADORES",
+      "categorySlug": "organizadores",
+      "path": "/armario-gaveteiro-13205",
+      "image": "/products/images/0132/13205.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "3706",
+      "title": "ARMARIO MODULAR MOD AM-60",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "AM-60",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-modular-mod-am60-3706",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "6835",
+      "title": "ARMARIO MULT USO ORGANIZADOR MDF",
+      "brand": "LAGES",
+      "brandCode": "392",
+      "supplier": "A REDE ASSESSORIA COMERCIAL LTDA.",
+      "supplierCode": "1430",
+      "manufacturerCode": "306-2",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-mult-uso-organizador-mdf-6835",
+      "image": "/products/images/0068/6835.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "13203",
+      "title": "ARMARIO MULTI-USO TRIPLO 18 PORTAS",
+      "brand": "NILKO",
+      "brandCode": "227",
+      "supplier": "NILKO TECNOLOGIA LTDA",
+      "supplierCode": "965",
+      "manufacturerCode": "NK 3306",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-multiuso-triplo-18-portas-13203",
+      "image": "/products/images/0132/13203.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10505",
+      "title": "ARMARIO ORG CORDOBA 2 PTS FREIJO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "RENAN BELTRATI COSER",
+      "supplierCode": "3614",
+      "manufacturerCode": "30078",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-org-cordoba-2-pts-freijo-10505",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10964",
+      "title": "ARMARIO P/ FERRAMENTAS C/ 4 PRAT BRA-290",
+      "brand": "BRACLAY",
+      "brandCode": "839",
+      "supplier": "BRACLAY COMERCIAL LTDA",
+      "supplierCode": "4262",
+      "manufacturerCode": "BRA.001.0037",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-p-ferramentas-c-4-prat-bra290-10964",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12276",
+      "title": "ARMARIO P/FERRAMENTAS COM VISOR DE VIDRO",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "AM12",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-pferramentas-com-visor-de-vidro-12276",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "3477",
+      "title": "ARMARIO PARA FERRAMENTAS 1400",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001004",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-para-ferramentas-1400-3477",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11534",
+      "title": "ARMARIO PORTA CHAVES 20 CHAVES BEGE",
+      "brand": "NILKO",
+      "brandCode": "227",
+      "supplier": "NILKO TECNOLOGIA LTDA",
+      "supplierCode": "965",
+      "manufacturerCode": "083020000100",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-porta-chaves-20-chaves-bege-11534",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9294",
+      "title": "ARMARIO PORTA-FERRAMENTAS MEDIO AM7",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "AM7",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-portaferramentas-medio-am7-9294",
+      "image": "/products/images/0092/9294.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "5796",
+      "title": "ARMARIO ROUPEIRO DUPLO-FECHADURA ELETRON",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "AM-90",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-roupeiro-duplofechadura-eletron-5796",
+      "image": "/products/images/0057/5796.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7682",
+      "title": "ARMARIO VERTICAL COM VISORES 29 BIN",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955/221",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-vertical-com-visores-29-bin-7682",
+      "image": "/products/images/0076/7682.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7756",
+      "title": "ARMÁRIO DE AÇO 2 PORTAS 1,70 X 0,70 X 0,30 - ELYT REF. PA 70",
+      "brand": "ELYT",
+      "brandCode": "534",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "PA70",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-2-portas-170-x-070-x-030--elyt-ref-pa-70-7756",
+      "image": "/products/images/0077/7756.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9985",
+      "title": "ARMÁRIO DE AÇO 4 PORTAS NILKO REF NK2332",
+      "brand": "NILKO",
+      "brandCode": "227",
+      "supplier": "NILKO TECNOLOGIA LTDA",
+      "supplierCode": "965",
+      "manufacturerCode": "NK 2332",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-4-portas-nilko-ref-nk2332-9985",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "6203",
+      "title": "ARMÁRIO GRANDE PORTA-FERRAMENTAS 900 X 370 X 1855MM - MARCON REF. AM-71",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "AM71",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-grande-portaferramentas-900-x-370-x-1855mm--marcon-ref-am71-6203",
+      "image": "/products/images/0062/6203.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11409",
+      "title": "ARMÁRIO QUIMICO EM AÇO 2 PORTAS",
+      "brand": "NILKO",
+      "brandCode": "227",
+      "supplier": "NILKO TECNOLOGIA LTDA",
+      "supplierCode": "965",
+      "manufacturerCode": "190063111006",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-quimico-em-aco-2-portas-11409",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7367",
+      "title": "ARMÁRIO ROUPEIRO DE AÇO 8 PORTAS GRANDES - SCHIER MÓVEIS P-8",
+      "brand": "SCHIER",
+      "brandCode": "448",
+      "supplier": "SCHIER MOVEIS",
+      "supplierCode": "1591",
+      "manufacturerCode": "RGRSP-8",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-roupeiro-de-aco-8-portas-grandes--schier-moveis-p8-7367",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "5941",
+      "title": "ARMÁRIO UNIVERSAL PARA FERRAMENTAS 2 PORTAS 4 GAVETAS 2 PRATELEIRAS - GEDORE REF 52640",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001062",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-universal-para-ferramentas-2-portas-4-gavetas-2-prateleiras--gedore-ref-52640-5941",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "6488",
+      "title": "ARMÁRIO VERTICAL PARA FERRAMENTAS 2 PORTAS 5 PRATELEIRAS - TRAMONTINA PRO 44955010",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955010",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-vertical-para-ferramentas-2-portas-5-prateleiras--tramontina-pro-44955010-6488",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "8173",
+      "title": "ARMÁRIO VERTICAL PARA FERRAMENTAS AZUL 2 PORTAS 400KG - TRAMONTINA PRO 44955210",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44955210",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-vertical-para-ferramentas-azul-2-portas-400kg--tramontina-pro-44955210-8173",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10673",
+      "title": "BALCAO ARMARIO MULTIUSO PARA ESCRITORIO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "GMA COMERCIO ONLINE LTDA",
+      "supplierCode": "3956",
+      "manufacturerCode": "BR-4000F",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/balcao-armario-multiuso-para-escritorio-10673",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7683",
+      "title": "BANCADA ABERTA 2 GAVETAS AZUL",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44954/240",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-aberta-2-gavetas-azul-7683",
+      "image": "/products/images/0076/7683.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7695",
+      "title": "BANCADA ABERTA C/5 GAVETAS REFORCADA",
+      "brand": "WMF",
+      "brandCode": "543",
+      "supplier": "WMF INDUSTRIA E COMERCIO DE PRODUTOS DE ACO LTDA",
+      "supplierCode": "1787",
+      "manufacturerCode": "WMFBAL16735G",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-aberta-c5-gavetas-reforcada-7695",
+      "image": "/products/images/0076/7695.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "5943",
+      "title": "BANCADA C/2 MODULOS 30870-84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "099156",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-c2-modulos-3087084622-5943",
+      "image": "/products/images/0059/5943.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6223",
+      "title": "BANCADA COM 2 MÓDULOS 10 GAVETAS E 1 PORTA TAMPO EM MADEIRA - GEDORE 30825-84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "007055",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-com-2-modulos-10-gavetas-e-1-porta-tampo-em-madeira--gedore-3082584622-6223",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "3909",
+      "title": "BANCADA COM 2 MÓDULOS 3 GAVETAS 1 PORTA 2000 X 840 X 700MM - GEDORE REF.  30835 - 84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "007057",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-com-2-modulos-3-gavetas-1-porta-2000-x-840-x-700mm--gedore-ref-30835--84622-3909",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11920",
+      "title": "BANCADA COM PES REGULAVEIS",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "007010",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-com-pes-regulaveis-11920",
+      "image": "/products/images/0119/11920.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "3476",
+      "title": "BANCADA COM SUPORTE (PÉS) REGULÁVEIS - GEDORE REF. 30300 - 84622",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "007060",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-com-suporte-pes-regulaveis--gedore-ref-30300--84622-3476",
+      "image": "/products/images/0034/3476.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6600",
+      "title": "BANCADA COMPLETA C/ MOTOR ESMERIAL FORTG",
+      "brand": "FORTGPRO",
+      "brandCode": "142",
+      "supplier": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "supplierCode": "727",
+      "manufacturerCode": "9903103",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-completa-c-motor-esmerial-fortg-6600",
+      "image": "/products/images/0066/6600.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "12204",
+      "title": "BANCADA DE TRABALHO PARA ELETRONICA",
+      "brand": "REVITEC",
+      "brandCode": "1049",
+      "supplier": "VICENTE XISTO CUPERTINO LTDA",
+      "supplierCode": "5584",
+      "manufacturerCode": "RVMP0221",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-de-trabalho-para-eletronica-12204",
+      "image": "/products/images/0122/12204.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "10506",
+      "title": "BANCADA DESMONT C/2 TAMPOS 2000 X 600",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "BM-O",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-desmont-c2-tampos-2000-x-600-10506",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 7,
+    "total": 333,
+    "pageBase": "organizacao-e-armazenamento"
+  }
+}

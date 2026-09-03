@@ -1,0 +1,78 @@
+{
+  "title": "BOMBAS DE GRAXA HIGH PRESSURE",
+  "parentLabel": "Equipamentos De Lubrificação",
+  "description": "Produtos da categoria bombas de graxa high pressure em equipamentos de lubrificação.",
+  "breadcrumbs": [
+    {
+      "label": "Equipamentos Industriais",
+      "to": "/equipamentos-industriais"
+    },
+    {
+      "label": "Equipamentos De Lubrificação",
+      "to": "/equipamentos-industriais/equipamentos-de-lubrificacao"
+    },
+    {
+      "label": "BOMBAS DE GRAXA HIGH PRESSURE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10700",
+      "title": "BUCKETMANAGER HIGH PRESSURE",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "10700",
+      "category": "BOMBAS DE GRAXA HIGH PRESSURE",
+      "categorySlug": "bombas-de-graxa-high-pressure",
+      "path": "/bucketmanager-high-pressure-10700",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "12027",
+      "title": "COMBO BUCKETMANAGER HIGH PRESSURE",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "12027",
+      "category": "BOMBAS DE GRAXA HIGH PRESSURE",
+      "categorySlug": "bombas-de-graxa-high-pressure",
+      "path": "/combo-bucketmanager-high-pressure-12027",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "12401",
+      "title": "GREASEMANAGER HIGH PRESSURE 230V SCHUKO",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "351056",
+      "category": "BOMBAS DE GRAXA HIGH PRESSURE",
+      "categorySlug": "bombas-de-graxa-high-pressure",
+      "path": "/greasemanager-high-pressure-230v-schuko-12401",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "equipamentos-industriais--equipamentos-de-lubrificacao--bombas-de-graxa-high-pressure"
+  }
+}

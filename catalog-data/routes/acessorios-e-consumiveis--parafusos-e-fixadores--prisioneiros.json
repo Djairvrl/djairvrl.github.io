@@ -1,0 +1,95 @@
+{
+  "title": "PRISIONEIROS",
+  "parentLabel": "Parafusos e Fixadores",
+  "description": "Produtos da categoria prisioneiros em parafusos e fixadores.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Parafusos e Fixadores",
+      "to": "/acessorios-e-consumiveis/parafusos-e-fixadores"
+    },
+    {
+      "label": "PRISIONEIROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13108",
+      "title": "COMBO ESTOJO A193 B71.3/8-8UNX11(280MM)",
+      "brand": "METHA",
+      "brandCode": "968",
+      "supplier": "METHAFIX INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5179",
+      "manufacturerCode": "ESTB7138X11BCOMBO",
+      "category": "PRISIONEIROS",
+      "categorySlug": "prisioneiros",
+      "path": "/combo-estojo-a193-b71388unx11280mm-13108",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "12790",
+      "title": "ESTOJO A193 B7 1.3/8-8UN X 11 (280MM) BC",
+      "brand": "METHA",
+      "brandCode": "968",
+      "supplier": "METHAFIX INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5179",
+      "manufacturerCode": "ESTB7138X11BC",
+      "category": "PRISIONEIROS",
+      "categorySlug": "prisioneiros",
+      "path": "/estojo-a193-b7-1388un-x-11-280mm-bc-12790",
+      "image": "/products/images/0127/12790.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "12083",
+      "title": "ESTOJO A193 B7 3/4 X 115+2PO 2H BC IMP",
+      "brand": "METHAFIX",
+      "brandCode": "1027",
+      "supplier": "METHAFIX INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5179",
+      "manufacturerCode": "B734X115+POBCI",
+      "category": "PRISIONEIROS",
+      "categorySlug": "prisioneiros",
+      "path": "/estojo-a193-b7-34-x-1152po-2h-bc-imp-12083",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "13413",
+      "title": "ESTOJO A193 B7 5/8X110MM 2PO 2H CADM",
+      "brand": "METHA",
+      "brandCode": "968",
+      "supplier": "METHAFIX INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5179",
+      "manufacturerCode": "B758X110+POCDI",
+      "category": "PRISIONEIROS",
+      "categorySlug": "prisioneiros",
+      "path": "/estojo-a193-b7-58x110mm-2po-2h-cadm-13413",
+      "image": "/products/images/0134/13413.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "acessorios-e-consumiveis--parafusos-e-fixadores--prisioneiros"
+  }
+}

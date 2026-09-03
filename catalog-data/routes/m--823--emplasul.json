@@ -1,0 +1,53 @@
+{
+  "title": "EMPLASUL",
+  "parentLabel": "Marca",
+  "description": "Produtos EMPLASUL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EMPLASUL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10882",
+      "title": "BOMBONA PLAST 50L AZUL C/ TAMPA ROSCA",
+      "brand": "EMPLASUL",
+      "brandCode": "823",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "8321",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/bombona-plast-50l-azul-c-tampa-rosca-10882",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "13419",
+      "title": "BOMBONA PLASTICA 220LTS - TR AZUL",
+      "brand": "EMPLASUL",
+      "brandCode": "823",
+      "supplier": "EMPLASUL TRANSPORTE E COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1852",
+      "manufacturerCode": "1759",
+      "category": null,
+      "categorySlug": null,
+      "path": "/bombona-plastica-220lts--tr-azul-13419",
+      "image": "/products/images/0134/13419.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--823--emplasul"
+  }
+}

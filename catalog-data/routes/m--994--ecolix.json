@@ -1,0 +1,36 @@
+{
+  "title": "ECOLIX",
+  "parentLabel": "Marca",
+  "description": "Produtos ECOLIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ECOLIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11850",
+      "title": "SUPORTE ENCAIXE 4 X 60 L BASCULANTE LP",
+      "brand": "ECOLIX",
+      "brandCode": "994",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "10165",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/suporte-encaixe-4-x-60-l-basculante-lp-11850",
+      "image": "/products/images/0118/11850.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--994--ecolix"
+  }
+}

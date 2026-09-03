@@ -1,0 +1,36 @@
+{
+  "title": "RADILUB",
+  "parentLabel": "Marca",
+  "description": "Produtos RADILUB disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RADILUB"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6266",
+      "title": "RADILUB ANTI CORROSIVO 2950 DIESEL 1LT",
+      "brand": "RADILUB",
+      "brandCode": "344",
+      "supplier": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA",
+      "supplierCode": "1349",
+      "manufacturerCode": "6263029",
+      "category": "INIBIDOR DE FERRUGEM",
+      "categorySlug": "inibidor-de-ferrugem",
+      "path": "/radilub-anti-corrosivo-2950-diesel-1lt-6266",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--344--radilub"
+  }
+}

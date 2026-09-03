@@ -1,0 +1,104 @@
+{
+  "title": "ELYT",
+  "parentLabel": "Marca",
+  "description": "Produtos ELYT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ELYT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10037",
+      "title": "ARMARIO DE ACO PA 90",
+      "brand": "ELYT",
+      "brandCode": "534",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "0000000000026",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-pa-90-10037",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7756",
+      "title": "ARMÁRIO DE AÇO 2 PORTAS 1,70 X 0,70 X 0,30 - ELYT REF. PA 70",
+      "brand": "ELYT",
+      "brandCode": "534",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "PA70",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-2-portas-170-x-070-x-030--elyt-ref-pa-70-7756",
+      "image": "/products/images/0077/7756.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "8332",
+      "title": "ESTANTE 0,30X0,92X2,00 C/5 BAND LEVE",
+      "brand": "ELYT",
+      "brandCode": "534",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "9",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/estante-030x092x200-c5-band-leve-8332",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10035",
+      "title": "ROUPEIRO DE ACO 8 PORTAS GRANDES",
+      "brand": "ELYT",
+      "brandCode": "534",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "0000000000411",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/roupeiro-de-aco-8-portas-grandes-10035",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10036",
+      "title": "ROUPEIRO DE ACO 8 PORTAS PEQUENAS",
+      "brand": "ELYT",
+      "brandCode": "534",
+      "supplier": "ELYT MOVEIS DE ACO LTDA",
+      "supplierCode": "1831",
+      "manufacturerCode": "0000000000034",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/roupeiro-de-aco-8-portas-pequenas-10036",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--534--elyt"
+  }
+}

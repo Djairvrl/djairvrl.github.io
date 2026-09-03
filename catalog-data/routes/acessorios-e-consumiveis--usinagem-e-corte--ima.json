@@ -1,0 +1,95 @@
+{
+  "title": "IMÃ",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria imã em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "IMÃ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2963",
+      "title": "IMAS BOTOES COLORIDOS -32MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "LOUSATEC FABRICA DE QUADROS ESCOLARES EIRELI",
+      "supplierCode": "684",
+      "manufacturerCode": "KIBC",
+      "category": "IMÃ",
+      "categorySlug": "ima",
+      "path": "/imas-botoes-coloridos-32mm-2963",
+      "image": "/products/images/0029/2963.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6500",
+      "title": "LEVANTADOR MAGNETICO MANUAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "BRASIL MAGNETS LTDA",
+      "supplierCode": "1244",
+      "manufacturerCode": "UTM002",
+      "category": "IMÃ",
+      "categorySlug": "ima",
+      "path": "/levantador-magnetico-manual-6500",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6848",
+      "title": "MANTA MAGNETICA 30X40CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "14",
+      "category": "IMÃ",
+      "categorySlug": "ima",
+      "path": "/manta-magnetica-30x40cm-6848",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6290",
+      "title": "PEGADOR MAGNÉTICO EXTENSÍVEL ATÉ 840MM PM 85 -  VONDER 3599085000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3599085000",
+      "category": "IMÃ",
+      "categorySlug": "ima",
+      "path": "/pegador-magnetico-extensivel-ate-840mm-pm-85--vonder-3599085000-6290",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--ima"
+  }
+}

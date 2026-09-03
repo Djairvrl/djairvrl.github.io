@@ -1,0 +1,36 @@
+{
+  "title": "RAINHA DO VALE",
+  "parentLabel": "Marca",
+  "description": "Produtos RAINHA DO VALE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RAINHA DO VALE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7402",
+      "title": "FLANELA RAINHA DO VALE 28X48CM AMARELA",
+      "brand": "RAINHA DO VALE",
+      "brandCode": "454",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000002493",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/flanela-rainha-do-vale-28x48cm-amarela-7402",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--454--rainha-do-vale"
+  }
+}

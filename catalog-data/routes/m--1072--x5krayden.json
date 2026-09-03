@@ -1,0 +1,36 @@
+{
+  "title": "X5KRAYDEN",
+  "parentLabel": "Marca",
+  "description": "Produtos X5KRAYDEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "X5KRAYDEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12372",
+      "title": "MOLYKOTE P 74 - 500G",
+      "brand": "X5KRAYDEN",
+      "brandCode": "1072",
+      "supplier": "X5 COMERCIO DE PRODUTOS AERONAUTICOS E INDUSTRIAIS LTDA",
+      "supplierCode": "5687",
+      "manufacturerCode": "01",
+      "category": "PASTAS LUBRIFICANTES",
+      "categorySlug": "pastas-lubrificantes",
+      "path": "/molykote-p-74--500g-12372",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Compostos e Lubrificantes Técnicos",
+      "sectionSlug": "compostos-e-lubrificantes-tecnicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1072--x5krayden"
+  }
+}

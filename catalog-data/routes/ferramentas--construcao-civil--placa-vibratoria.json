@@ -1,0 +1,44 @@
+{
+  "title": "PLACA VIBRATÓRIA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria placa vibratória em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "PLACA VIBRATÓRIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10153",
+      "title": "PLACA VIBRA COMP TPC60W-XP GASOL TE65-XP",
+      "brand": "TOYAMA",
+      "brandCode": "549",
+      "supplier": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "supplierCode": "1909",
+      "manufacturerCode": "613002",
+      "category": "PLACA VIBRATÓRIA",
+      "categorySlug": "placa-vibratoria",
+      "path": "/placa-vibra-comp-tpc60wxp-gasol-te65xp-10153",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--construcao-civil--placa-vibratoria"
+  }
+}

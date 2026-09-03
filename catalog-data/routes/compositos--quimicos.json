@@ -1,0 +1,64 @@
+{
+  "title": "Químicos",
+  "parentLabel": "Compósitos",
+  "description": "Soluções de químicos disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos",
+      "to": "/compositos"
+    },
+    {
+      "label": "Químicos"
+    }
+  ],
+  "children": [
+    {
+      "name": "TINTAS",
+      "slug": "tintas",
+      "path": "/compositos/quimicos/tintas",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "code": "11400",
+      "title": "AZUL PORTO SEGURO PAREDES PRO ACET.  BAS",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69424",
+      "category": "TINTAS",
+      "categorySlug": "tintas",
+      "path": "/azul-porto-seguro-paredes-pro-acet-bas-11400",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    },
+    {
+      "code": "11401",
+      "title": "WAX I POLISH CERA PRETA 5L BECKER",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "PA4065",
+      "category": null,
+      "categorySlug": null,
+      "path": "/wax-i-polish-cera-preta-5l-becker-11401",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "compositos--quimicos"
+  }
+}

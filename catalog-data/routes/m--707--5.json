@@ -1,0 +1,36 @@
+{
+  "title": "5+",
+  "parentLabel": "Marca",
+  "description": "Produtos 5+ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "5+"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9643",
+      "title": "CABO PATCH INFO - PATCH CORD CAT5E FTP",
+      "brand": "5+",
+      "brandCode": "707",
+      "supplier": "VUC SOLUCOES E SERVICOS DE APOIO LTDA",
+      "supplierCode": "2513",
+      "manufacturerCode": "CAT5B5M",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cabo-patch-info--patch-cord-cat5e-ftp-9643",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--707--5"
+  }
+}

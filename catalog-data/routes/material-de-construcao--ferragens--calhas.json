@@ -1,0 +1,78 @@
+{
+  "title": "CALHAS",
+  "parentLabel": "Ferragens",
+  "description": "Produtos da categoria calhas em ferragens.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Ferragens",
+      "to": "/material-de-construcao/ferragens"
+    },
+    {
+      "label": "CALHAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13120",
+      "title": "BOBINA ALUMÍNIO 60CM X 10M PARA CALHAS E",
+      "brand": "PILLARTECH",
+      "brandCode": "1187",
+      "supplier": "ELLOS PILLARTECK MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "6116",
+      "manufacturerCode": "SCH9898",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/bobina-aluminio-60cm-x-10m-para-calhas-e-13120",
+      "image": "/products/images/0131/13120.png",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7902",
+      "title": "CALHA DE ZINCO 2 MTS C/ DESCIDA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "8619",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/calha-de-zinco-2-mts-c-descida-7902",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7903",
+      "title": "CALHA DE ZINCO CONTINUA 2MT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "8617",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/calha-de-zinco-continua-2mt-7903",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "material-de-construcao--ferragens--calhas"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "KOSM",
+  "parentLabel": "Marca",
+  "description": "Produtos KOSM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KOSM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9369",
+      "title": "REBITE KOSM/REB/NFIX 6,2MM X 25MM",
+      "brand": "KOSM",
+      "brandCode": "673",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "CH311160",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/rebite-kosmrebnfix-62mm-x-25mm-9369",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--673--kosm"
+  }
+}

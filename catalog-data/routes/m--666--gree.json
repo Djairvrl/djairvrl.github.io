@@ -1,0 +1,53 @@
+{
+  "title": "GREE",
+  "parentLabel": "Marca",
+  "description": "Produtos GREE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GREE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9322",
+      "title": "AR COND GREE 30000 BTUS",
+      "brand": "GREE",
+      "brandCode": "666",
+      "supplier": "DENTECK LTDA",
+      "supplierCode": "2440",
+      "manufacturerCode": "0010020838",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ar-cond-gree-30000-btus-9322",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13099",
+      "title": "PLUG BANANA 4MM - PRETO PCT C/ 10 UN",
+      "brand": "GREE",
+      "brandCode": "666",
+      "supplier": "SMART COMPONENTES ELETRONICOS LTDA",
+      "supplierCode": "6093",
+      "manufacturerCode": "7899278977089",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/plug-banana-4mm--preto-pct-c-10-un-13099",
+      "image": "/products/images/0130/13099.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--666--gree"
+  }
+}

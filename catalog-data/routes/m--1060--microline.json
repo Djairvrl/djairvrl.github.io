@@ -1,0 +1,36 @@
+{
+  "title": "MICROLINE",
+  "parentLabel": "Marca",
+  "description": "Produtos MICROLINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MICROLINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12296",
+      "title": "RIBBON CERA 110X74 M063",
+      "brand": "MICROLINE",
+      "brandCode": "1060",
+      "supplier": "MICROLINE COMERCIO E SERVICOS LTDA.",
+      "supplierCode": "913",
+      "manufacturerCode": "63",
+      "category": "INSUMOS",
+      "categorySlug": "insumos",
+      "path": "/ribbon-cera-110x74-m063-12296",
+      "image": "/products/images/0122/12296.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1060--microline"
+  }
+}

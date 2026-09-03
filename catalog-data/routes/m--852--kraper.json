@@ -1,0 +1,36 @@
+{
+  "title": "KRAPER",
+  "parentLabel": "Marca",
+  "description": "Produtos KRAPER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KRAPER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11013",
+      "title": "TRANSFORMADOR MONO KRAPER1 200VA 60HZ",
+      "brand": "KRAPER",
+      "brandCode": "852",
+      "supplier": "DIMERI AUTOMACAO LTDA",
+      "supplierCode": "4310",
+      "manufacturerCode": "4051-01355-0004",
+      "category": "TRANSFORMADORES",
+      "categorySlug": "transformadores",
+      "path": "/transformador-mono-kraper1-200va-60hz-11013",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--852--kraper"
+  }
+}

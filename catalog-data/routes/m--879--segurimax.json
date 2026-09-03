@@ -1,0 +1,87 @@
+{
+  "title": "SEGURIMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos SEGURIMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SEGURIMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12613",
+      "title": "BOTOEIRA DE ALARME DE INCENDIO RESETAVEL",
+      "brand": "SEGURIMAX",
+      "brandCode": "879",
+      "supplier": "WALLACE HENRIQUE BANDEIRA ALVES LTDA",
+      "supplierCode": "5798",
+      "manufacturerCode": "573",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/botoeira-de-alarme-de-incendio-resetavel-12613",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12098",
+      "title": "DETECTOR DE INCENDIO OPTICO 12V 24V",
+      "brand": "SEGURIMAX",
+      "brandCode": "879",
+      "supplier": "ADVANZ COMMERCE LTDA",
+      "supplierCode": "5520",
+      "manufacturerCode": "000001",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/detector-de-incendio-optico-12v-24v-12098",
+      "image": "/products/images/0120/12098.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11095",
+      "title": "LUMINARIA DE EMERGENNCIA AUTONOMA 30 LED",
+      "brand": "SEGURIMAX",
+      "brandCode": "879",
+      "supplier": "COMCEL COMERCIAL DE MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "632",
+      "manufacturerCode": "10880",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/luminaria-de-emergenncia-autonoma-30-led-11095",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12640",
+      "title": "UNIAO GAL C/ASSENTO CONICO BRONZE 2.1/2",
+      "brand": "SEGURIMAX",
+      "brandCode": "879",
+      "supplier": "M. PEREIRA MATERIAIS HIDRAULICOS E DE CONSTRUCAO LTDA",
+      "supplierCode": "5817",
+      "manufacturerCode": "40572",
+      "category": "ACESSÓRIOS HIDRÁULICOS",
+      "categorySlug": "acessorios-hidraulicos",
+      "path": "/uniao-gal-cassento-conico-bronze-212-12640",
+      "image": "/products/images/0126/12640.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--879--segurimax"
+  }
+}

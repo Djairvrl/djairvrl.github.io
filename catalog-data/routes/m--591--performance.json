@@ -1,0 +1,36 @@
+{
+  "title": "PERFORMANCE",
+  "parentLabel": "Marca",
+  "description": "Produtos PERFORMANCE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PERFORMANCE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8408",
+      "title": "BOLSA FERRAMENTAS TECIDO SINT 46X26X30CM",
+      "brand": "PERFORMANCE",
+      "brandCode": "591",
+      "supplier": "PERFORMANCE COMERCIO, IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "2088",
+      "manufacturerCode": "SKU 095",
+      "category": "BOLSAS PARA FERRAMENTAS",
+      "categorySlug": "bolsas-para-ferramentas",
+      "path": "/bolsa-ferramentas-tecido-sint-46x26x30cm-8408",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--591--performance"
+  }
+}

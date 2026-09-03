@@ -1,0 +1,53 @@
+{
+  "title": "FORTREK",
+  "parentLabel": "Marca",
+  "description": "Produtos FORTREK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FORTREK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9601",
+      "title": "CONECTOR MACHO CAT5E RJ45 201 FK 120E",
+      "brand": "FORTREK",
+      "brandCode": "697",
+      "supplier": "HAYAMAX DISTR.PROD.ELETRONICOS LTDA",
+      "supplierCode": "2598",
+      "manufacturerCode": "RJ45-201 | FK 120E",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/conector-macho-cat5e-rj45-201-fk-120e-9601",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13322",
+      "title": "SUPORTE PARA NOTEBOOK E MONITOR BRACO",
+      "brand": "FORTREK",
+      "brandCode": "697",
+      "supplier": "BITTENCOURT AUDIO E VIDEO LTDA",
+      "supplierCode": "6239",
+      "manufacturerCode": "FK485S",
+      "category": "ERGONOMIA",
+      "categorySlug": "ergonomia",
+      "path": "/suporte-para-notebook-e-monitor-braco-13322",
+      "image": "/products/images/0133/13322.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--697--fortrek"
+  }
+}

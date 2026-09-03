@@ -1,0 +1,104 @@
+{
+  "title": "AGRATTO",
+  "parentLabel": "Marca",
+  "description": "Produtos AGRATTO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AGRATTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10691",
+      "title": "BEBEDOURO MESA BEM-03 20L BRANCO AGATTO",
+      "brand": "AGRATTO",
+      "brandCode": "401",
+      "supplier": "COMERCIAL CJJ LTDA",
+      "supplierCode": "3974",
+      "manufacturerCode": "14176",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/bebedouro-mesa-bem03-20l-branco-agatto-10691",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "5230",
+      "title": "SANDUICHEIRA/GRILL 750W ANTIADER",
+      "brand": "AGRATTO",
+      "brandCode": "401",
+      "supplier": "MTX COM. DE EQ. DE INF. ON LINE LTDA",
+      "supplierCode": "1024",
+      "manufacturerCode": "13717",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/sanduicheiragrill-750w-antiader-5230",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12512",
+      "title": "SPLIT AGRATTO HW 12K 220 F LIV IN",
+      "brand": "AGRATTO",
+      "brandCode": "401",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "000000000001014350",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/split-agratto-hw-12k-220-f-liv-in-12512",
+      "image": "/products/images/0125/12512.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13339",
+      "title": "SPLIT AGRATTO HW 30K 220 F LIV TOP IN",
+      "brand": "AGRATTO",
+      "brandCode": "401",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "000000000001029235",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/split-agratto-hw-30k-220-f-liv-top-in-13339",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12806",
+      "title": "SPLIT AGRATTO HW 9K 220 F ZEN TOP IN",
+      "brand": "AGRATTO",
+      "brandCode": "401",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "000000000001038927",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/split-agratto-hw-9k-220-f-zen-top-in-12806",
+      "image": "/products/images/0128/12806.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--401--agratto"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "KPN",
+  "parentLabel": "Marca",
+  "description": "Produtos KPN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KPN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10704",
+      "title": "MASCARA DE PROTECAO + FFP3",
+      "brand": "KPN",
+      "brandCode": "801",
+      "supplier": "KPN SAFETY LTDA",
+      "supplierCode": "3998",
+      "manufacturerCode": "151.17.05.00.00",
+      "category": "SEMIFACIAL",
+      "categorySlug": "semifacial",
+      "path": "/mascara-de-protecao-ffp3-10704",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "11042",
+      "title": "MASCARA LENCO AMARELA COMBATE FLORESTAL",
+      "brand": "KPN",
+      "brandCode": "801",
+      "supplier": "KPN SAFETY LTDA",
+      "supplierCode": "3998",
+      "manufacturerCode": "151.69.68.31.00",
+      "category": "SEMIFACIAL",
+      "categorySlug": "semifacial",
+      "path": "/mascara-lenco-amarela-combate-florestal-11042",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "10709",
+      "title": "PA ADESIVA MULTI FUNCION AD 79047 INSRTA",
+      "brand": "KPN",
+      "brandCode": "801",
+      "supplier": "KPN SAFETY LTDA",
+      "supplierCode": "3998",
+      "manufacturerCode": "181.78.32.05.00",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/pa-adesiva-multi-funcion-ad-79047-insrta-10709",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--801--kpn"
+  }
+}

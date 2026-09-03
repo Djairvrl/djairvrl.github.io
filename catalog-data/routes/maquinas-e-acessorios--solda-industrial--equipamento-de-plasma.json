@@ -1,0 +1,44 @@
+{
+  "title": "EQUIPAMENTO DE PLASMA",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria equipamento de plasma em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "EQUIPAMENTO DE PLASMA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5367",
+      "title": "DISTRIBUIDOR DE GAS PLASMA (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30028915",
+      "category": "EQUIPAMENTO DE PLASMA",
+      "categorySlug": "equipamento-de-plasma",
+      "path": "/distribuidor-de-gas-plasma-pt80-5367",
+      "image": "/products/images/0053/5367.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--equipamento-de-plasma"
+  }
+}

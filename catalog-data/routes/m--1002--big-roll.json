@@ -1,0 +1,36 @@
+{
+  "title": "BIG ROLL",
+  "parentLabel": "Marca",
+  "description": "Produtos BIG ROLL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BIG ROLL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11880",
+      "title": "PAPEL EQUILIBRI SOFT 300MX9 CM C/ROLOS 8",
+      "brand": "BIG ROLL",
+      "brandCode": "1002",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "300SOFT",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/papel-equilibri-soft-300mx9-cm-crolos-8-11880",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1002--big-roll"
+  }
+}

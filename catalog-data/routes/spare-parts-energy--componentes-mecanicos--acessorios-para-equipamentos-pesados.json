@@ -1,0 +1,95 @@
+{
+  "title": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+  "parentLabel": "Componentes Mecânicos",
+  "description": "Produtos da categoria acessórios para equipamentos pesados em componentes mecânicos.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Mecânicos",
+      "to": "/spare-parts-energy/componentes-mecanicos"
+    },
+    {
+      "label": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10209",
+      "title": "CALCO ESTABILIZADOR 16TON 40 X 28 X 8CM",
+      "brand": "PERFECTBORR",
+      "brandCode": "763",
+      "supplier": "MM DISTRIBUIDORA DE PRODUTOS E EQUIPAMENTOS LTDA",
+      "supplierCode": "3306",
+      "manufacturerCode": "7898996089405",
+      "category": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+      "categorySlug": "acessorios-para-equipamentos-pesados",
+      "path": "/calco-estabilizador-16ton-40-x-28-x-8cm-10209",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "13271",
+      "title": "JUNTA CARTER MWM 4.10/4.12 330411",
+      "brand": "SPAAL",
+      "brandCode": "1215",
+      "supplier": "93.978.013/0002-00GPL DISTRIBUIDORA E LOGISTICA LTDA",
+      "supplierCode": "6200",
+      "manufacturerCode": "60839",
+      "category": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+      "categorySlug": "acessorios-para-equipamentos-pesados",
+      "path": "/junta-carter-mwm-410412-330411-13271",
+      "image": "/products/images/0132/13271.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "12841",
+      "title": "PLACA PROT 7 A 7,5X150X196MM C/ 2 FUROS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "supplierCode": "1575",
+      "manufacturerCode": "PURPLCA92SH7X150X196",
+      "category": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+      "categorySlug": "acessorios-para-equipamentos-pesados",
+      "path": "/placa-prot-7-a-75x150x196mm-c-2-furos-12841",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "12840",
+      "title": "PLACA PROT HDPRENE 6 A 6,5X98X150MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "supplierCode": "1575",
+      "manufacturerCode": "PURPLCA92SH6X98X150",
+      "category": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+      "categorySlug": "acessorios-para-equipamentos-pesados",
+      "path": "/placa-prot-hdprene-6-a-65x98x150mm-12840",
+      "image": "/products/images/0128/12840.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "spare-parts-energy--componentes-mecanicos--acessorios-para-equipamentos-pesados"
+  }
+}

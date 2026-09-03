@@ -1,0 +1,36 @@
+{
+  "title": "ALCABOS",
+  "parentLabel": "Marca",
+  "description": "Produtos ALCABOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALCABOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12435",
+      "title": "ESTROPO DE ACO GALVANIZADO 3/8 X 1,5M",
+      "brand": "ALCABOS",
+      "brandCode": "1079",
+      "supplier": "JR SERVICOS E COMERCIO LTDA",
+      "supplierCode": "5713",
+      "manufacturerCode": "CA38619AA1,5",
+      "category": "CABO",
+      "categorySlug": "cabo",
+      "path": "/estropo-de-aco-galvanizado-38-x-15m-12435",
+      "image": "/products/images/0124/12435.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1079--alcabos"
+  }
+}

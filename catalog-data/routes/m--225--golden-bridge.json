@@ -1,0 +1,36 @@
+{
+  "title": "GOLDEN BRIDGE",
+  "parentLabel": "Marca",
+  "description": "Produtos GOLDEN BRIDGE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GOLDEN BRIDGE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4570",
+      "title": "ELETRODO E6013 3,2MMX350MM GOLDEN BRIDGE",
+      "brand": "GOLDEN BRIDGE",
+      "brandCode": "225",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13359",
+      "category": "ELETRODO REVESTIDO",
+      "categorySlug": "eletrodo-revestido",
+      "path": "/eletrodo-e6013-32mmx350mm-golden-bridge-4570",
+      "image": "/products/images/0045/4570.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--225--golden-bridge"
+  }
+}

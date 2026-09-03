@@ -1,0 +1,78 @@
+{
+  "title": "ARCO ELÉTRICO",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria arco elétrico em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "ARCO ELÉTRICO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6672",
+      "title": "LUVA DANNY DNY ARCSHIELD M CA 45499",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA60900 M 00",
+      "category": "ARCO ELÉTRICO",
+      "categorySlug": "arco-eletrico",
+      "path": "/luva-danny-dny-arcshield-m-ca-45499-6672",
+      "image": "/products/images/0066/6672.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "6673",
+      "title": "LUVA DANNY DNY ARCSHIELD P CA 45499",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA60900 P 00",
+      "category": "ARCO ELÉTRICO",
+      "categorySlug": "arco-eletrico",
+      "path": "/luva-danny-dny-arcshield-p-ca-45499-6673",
+      "image": "/products/images/0066/6673.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "7555",
+      "title": "LUVA DNY ARCSHIELD TAMANHO G (9) CA 45499 - DANNY DA60900",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA60900 G 00",
+      "category": "ARCO ELÉTRICO",
+      "categorySlug": "arco-eletrico",
+      "path": "/luva-dny-arcshield-tamanho-g-9-ca-45499--danny-da60900-7555",
+      "image": "/products/images/0075/7555.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--arco-eletrico"
+  }
+}

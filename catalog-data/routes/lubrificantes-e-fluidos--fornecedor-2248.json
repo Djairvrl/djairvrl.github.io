@@ -1,0 +1,159 @@
+{
+  "title": "Lubrificantes e Fluidos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de LUBCENTER COMERCIO E DISTRIBUICAO DE PECAS E LUBRIFICANTES L neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Graxas Industriais",
+      "slug": "graxas-industriais",
+      "path": "/lubrificantes-e-fluidos/graxas-industriais",
+      "count": 27,
+      "categories": [
+        {
+          "name": "GRAXAS PARA ROLAMENTOS",
+          "slug": "graxas-para-rolamentos",
+          "path": "/lubrificantes-e-fluidos/graxas-industriais/graxas-para-rolamentos",
+          "count": 6
+        },
+        {
+          "name": "GRAXAS PARA USO EM CONDIÇÕES SEVERAS",
+          "slug": "graxas-para-uso-em-condicoes-severas",
+          "path": "/lubrificantes-e-fluidos/graxas-industriais/graxas-para-uso-em-condicoes-severas",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "name": "Óleos Industriais",
+      "slug": "oleos-industriais",
+      "path": "/lubrificantes-e-fluidos/oleos-industriais",
+      "count": 20,
+      "categories": [
+        {
+          "name": "ÓLEOS HIDRÁULICOS",
+          "slug": "oleos-hidraulicos",
+          "path": "/lubrificantes-e-fluidos/oleos-industriais/oleos-hidraulicos",
+          "count": 6
+        },
+        {
+          "name": "ÓLEOS PARA COMPRESSORES",
+          "slug": "oleos-para-compressores",
+          "path": "/lubrificantes-e-fluidos/oleos-industriais/oleos-para-compressores",
+          "count": 5
+        },
+        {
+          "name": "ÓLEOS PARA ENGRENAGENS",
+          "slug": "oleos-para-engrenagens",
+          "path": "/lubrificantes-e-fluidos/oleos-industriais/oleos-para-engrenagens",
+          "count": 7
+        },
+        {
+          "name": "ÓLEOS PARA TRANSFERÊNCIA DE CALOR",
+          "slug": "oleos-para-transferencia-de-calor",
+          "path": "/lubrificantes-e-fluidos/oleos-industriais/oleos-para-transferencia-de-calor",
+          "count": 1
+        },
+        {
+          "name": "ÓLEOS PARA TURBINAS",
+          "slug": "oleos-para-turbinas",
+          "path": "/lubrificantes-e-fluidos/oleos-industriais/oleos-para-turbinas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Fluidos Especiais",
+      "slug": "fluidos-especiais",
+      "path": "/lubrificantes-e-fluidos/fluidos-especiais",
+      "count": 5,
+      "categories": [
+        {
+          "name": "FLUIDOS DE CORTE E REFRIGERAÇÃO",
+          "slug": "fluidos-de-corte-e-refrigeracao",
+          "path": "/lubrificantes-e-fluidos/fluidos-especiais/fluidos-de-corte-e-refrigeracao",
+          "count": 1
+        },
+        {
+          "name": "LUBRIFICANTES PARA CONDIÇÕES SEVERAS",
+          "slug": "lubrificantes-para-condicoes-severas",
+          "path": "/lubrificantes-e-fluidos/fluidos-especiais/lubrificantes-para-condicoes-severas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Aditivos",
+      "slug": "aditivos",
+      "path": "/lubrificantes-e-fluidos/aditivos",
+      "count": 7,
+      "categories": [
+        {
+          "name": "ADITIVOS PARA LIMPEZA E ESTABILIZAÇÃO",
+          "slug": "aditivos-para-limpeza-e-estabilizacao",
+          "path": "/lubrificantes-e-fluidos/aditivos/aditivos-para-limpeza-e-estabilizacao",
+          "count": 2
+        },
+        {
+          "name": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+          "slug": "aditivos-para-sistemas-de-arrefecimento",
+          "path": "/lubrificantes-e-fluidos/aditivos/aditivos-para-sistemas-de-arrefecimento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Compostos e Lubrificantes Técnicos",
+      "slug": "compostos-e-lubrificantes-tecnicos",
+      "path": "/lubrificantes-e-fluidos/compostos-e-lubrificantes-tecnicos",
+      "count": 7,
+      "categories": [
+        {
+          "name": "PASTAS LUBRIFICANTES",
+          "slug": "pastas-lubrificantes",
+          "path": "/lubrificantes-e-fluidos/compostos-e-lubrificantes-tecnicos/pastas-lubrificantes",
+          "count": 4
+        },
+        {
+          "name": "VASELINAS",
+          "slug": "vaselinas",
+          "path": "/lubrificantes-e-fluidos/compostos-e-lubrificantes-tecnicos/vaselinas",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "2248",
+    "name": "LUBCENTER COMERCIO E DISTRIBUICAO DE PECAS E LUBRIFICANTES L"
+  },
+  "products": [
+    {
+      "code": "8902",
+      "title": "OLEO SINT CASTROL VISCOGEN KL23 20L",
+      "brand": "CASTROL",
+      "brandCode": "890",
+      "supplier": "LUBCENTER COMERCIO E DISTRIBUICAO DE PECAS E LUBRIFICANTES L",
+      "supplierCode": "2248",
+      "manufacturerCode": "2000000025667",
+      "category": "ÓLEOS PARA ENGRENAGENS",
+      "categorySlug": "oleos-para-engrenagens",
+      "path": "/oleo-sint-castrol-viscogen-kl23-20l-8902",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "lubrificantes-e-fluidos--fornecedor-2248"
+  }
+}

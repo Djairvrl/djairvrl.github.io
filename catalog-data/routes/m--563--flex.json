@@ -1,0 +1,53 @@
+{
+  "title": "FLEX",
+  "parentLabel": "Marca",
+  "description": "Produtos FLEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FLEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8119",
+      "title": "BAT C 4500MAH 1,2V C/2 FLEX NIMH",
+      "brand": "FLEX",
+      "brandCode": "563",
+      "supplier": "VALVOLANDIA COMERCIO DE PILHAS E BATERIAS LTDA",
+      "supplierCode": "1949",
+      "manufacturerCode": "C-4500",
+      "category": "PILHAS E BATERIAS",
+      "categorySlug": "pilhas-e-baterias",
+      "path": "/bat-c-4500mah-12v-c2-flex-nimh-8119",
+      "image": "/products/images/0081/8119.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8117",
+      "title": "CARREGADOR P/ APLICADOR DE HERB. PURO",
+      "brand": "FLEX",
+      "brandCode": "563",
+      "supplier": "LOJA DO CAMPO COMERCIO VAREJISTA LTDA",
+      "supplierCode": "1947",
+      "manufacturerCode": "91",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-p-aplicador-de-herb-puro-8117",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--563--flex"
+  }
+}

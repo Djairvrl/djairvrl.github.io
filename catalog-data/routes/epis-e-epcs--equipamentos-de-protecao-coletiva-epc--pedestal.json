@@ -1,0 +1,61 @@
+{
+  "title": "PEDESTAL",
+  "parentLabel": "Equipamentos de Proteção Coletiva — EPC",
+  "description": "Produtos da categoria pedestal em equipamentos de proteção coletiva — epc.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Equipamentos de Proteção Coletiva — EPC",
+      "to": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "label": "PEDESTAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1021",
+      "title": "PEDESTAL PARA SINALIZAÇÃO ZEBRADO 95CM - KTELI",
+      "brand": "KTELI",
+      "brandCode": "124",
+      "supplier": "KTELI INDUSTRIA E COMERCIO LTDA - ME",
+      "supplierCode": "330",
+      "manufacturerCode": "10",
+      "category": "PEDESTAL",
+      "categorySlug": "pedestal",
+      "path": "/pedestal-para-sinalizacao-zebrado-95cm--kteli-1021",
+      "image": "/products/images/0010/1021.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "6753",
+      "title": "PEDESTAL SINALIZACAO PT/AM 90CM",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "FERREIRA COSTA CIA LTDA",
+      "supplierCode": "1089",
+      "manufacturerCode": "2270773",
+      "category": "PEDESTAL",
+      "categorySlug": "pedestal",
+      "path": "/pedestal-sinalizacao-ptam-90cm-6753",
+      "image": "/products/images/0067/6753.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--equipamentos-de-protecao-coletiva-epc--pedestal"
+  }
+}

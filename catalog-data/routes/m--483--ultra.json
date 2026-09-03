@@ -1,0 +1,36 @@
+{
+  "title": "ULTRA",
+  "parentLabel": "Marca",
+  "description": "Produtos ULTRA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ULTRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6970",
+      "title": "COPO PP ULTRA TT 150ML",
+      "brand": "ULTRA",
+      "brandCode": "483",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "04607",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/copo-pp-ultra-tt-150ml-6970",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--483--ultra"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "FTTH",
+  "parentLabel": "Marca",
+  "description": "Produtos FTTH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FTTH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10368",
+      "title": "KIT DE LIMPEZA OPTICA FTTH (IMP)",
+      "brand": "FTTH",
+      "brandCode": "771",
+      "supplier": "TEC WI COMERCIO E IMPORTACAO DE EQUIPAMENTOS WIRELESS LTDA",
+      "supplierCode": "3449",
+      "manufacturerCode": "4999",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/kit-de-limpeza-optica-ftth-imp-10368",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--771--ftth"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "MEGGER",
+  "parentLabel": "Marca",
+  "description": "Produtos MEGGER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MEGGER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8062",
+      "title": "MEDIDOR DE RESISTÊNCIA DE ENROLAMENTO DE TRANSFORMADORES MTO210 - MEGGER",
+      "brand": "MEGGER",
+      "brandCode": "555",
+      "supplier": "INSTRONIC INSTRUMENTOS DE TESTES LTDA",
+      "supplierCode": "1228",
+      "manufacturerCode": "1MRA016B",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/medidor-de-resistencia-de-enrolamento-de-transformadores-mto210--megger-8062",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--555--megger"
+  }
+}

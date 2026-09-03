@@ -1,0 +1,36 @@
+{
+  "title": "VENDIMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos VENDIMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VENDIMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12641",
+      "title": "CORDA DE DEMARCACAO 10MMX100M",
+      "brand": "VENDIMAX",
+      "brandCode": "1103",
+      "supplier": "VENDIMAX COMERCIO E IMPORTACAO DE UTILIDADES LTDA",
+      "supplierCode": "5818",
+      "manufacturerCode": "CORDA SINALIZAÇÃO",
+      "category": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
+      "categorySlug": "fitas-e-cordas-de-demarcacao-sinalizacao",
+      "path": "/corda-de-demarcacao-10mmx100m-12641",
+      "image": "/products/images/0126/12641.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1103--vendimax"
+  }
+}

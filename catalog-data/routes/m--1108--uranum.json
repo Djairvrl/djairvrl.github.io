@@ -1,0 +1,36 @@
+{
+  "title": "URANUM",
+  "parentLabel": "Marca",
+  "description": "Produtos URANUM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "URANUM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12658",
+      "title": "BINOCULO URANUM 20X80 LONGO ALCANCE PRET",
+      "brand": "URANUM",
+      "brandCode": "1108",
+      "supplier": "HORIZONTE ASTRONOMICO LTDA",
+      "supplierCode": "5840",
+      "manufacturerCode": "LUNARP",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-uranum-20x80-longo-alcance-pret-12658",
+      "image": "/products/images/0126/12658.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1108--uranum"
+  }
+}

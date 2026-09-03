@@ -1,0 +1,36 @@
+{
+  "title": "4X4SC",
+  "parentLabel": "Marca",
+  "description": "Produtos 4X4SC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "4X4SC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13275",
+      "title": "CARREGADOR BAT 127/220V 180W 10AH",
+      "brand": "4X4SC",
+      "brandCode": "1218",
+      "supplier": "SOMAX CONCEPT LTDA",
+      "supplierCode": "6205",
+      "manufacturerCode": "SMART10A-TTD",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-bat-127220v-180w-10ah-13275",
+      "image": "/products/images/0132/13275.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1218--4x4sc"
+  }
+}

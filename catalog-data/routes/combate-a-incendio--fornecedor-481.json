@@ -1,0 +1,187 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de RESIL COMERCIAL INDUSTRIAL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "481",
+    "name": "RESIL COMERCIAL INDUSTRIAL LTDA"
+  },
+  "products": [
+    {
+      "code": "4600",
+      "title": "ABRIGO PLASTICO EXTINTOR GRANDE",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "1300.85014",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-plastico-extintor-grande-4600",
+      "image": "/products/images/0046/4600.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "1562",
+      "title": "EXTINTOR 2KG PO ABC USO AUTOMOT",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "130095400",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-2kg-po-abc-uso-automot-1562",
+      "image": "/products/images/0015/1562.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "948",
+      "title": "EXTINTOR DE INCÊNDIO ABC PORTÁTIL 4KG PQS  - RESIL REF R916",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "E013",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-de-incendio-abc-portatil-4kg-pqs--resil-ref-r916-948",
+      "image": "/products/images/0009/948.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "959",
+      "title": "EXTINTOR DE INCÊNDIO BC PORTÁTIL 6KG CO2  - RESIL REF R941",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "1300.94100",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-de-incendio-bc-portatil-6kg-co2--resil-ref-r941-959",
+      "image": "/products/images/0009/959.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "960",
+      "title": "EXTINTOR PO BC 8KG R958 CLASSE FOGO BC",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "130095800",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-po-bc-8kg-r958-classe-fogo-bc-960",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11523",
+      "title": "EXTINTOR SOBRE RODAS 50L ESPUMA",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "130092700",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-sobre-rodas-50l-espuma-11523",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11524",
+      "title": "EXTINTOR SOBRE RODAS PO BC 50KG",
+      "brand": "RESIL",
+      "brandCode": "129",
+      "supplier": "RESIL COMERCIAL INDUSTRIAL LTDA",
+      "supplierCode": "481",
+      "manufacturerCode": "130095000",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-sobre-rodas-po-bc-50kg-11524",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "combate-a-incendio--fornecedor-481"
+  }
+}

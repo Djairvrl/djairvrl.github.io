@@ -1,0 +1,73 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "12775",
+      "title": "TIPOIA ESTABI ESTOFADA AZUL TAM G-BC0069",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "100980",
+      "category": "IMOBILIZADORES",
+      "categorySlug": "imobilizadores",
+      "path": "/tipoia-estabi-estofada-azul-tam-gbc0069-12775",
+      "image": "/products/images/0127/12775.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1655",
+      "title": "TOUCA DESCARTAVEL SANFONADA - TNT C/100",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "96397",
+      "category": "CAPUZ E BALACLAVA",
+      "categorySlug": "capuz-e-balaclava",
+      "path": "/touca-descartavel-sanfonada--tnt-c100-1655",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1631",
+      "title": "ÁLCOOL ANTISSÉPTICO CONCENTRAÇÃO 70% FRASCO PLÁSTICO 1000ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "79863",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-antisseptico-concentracao-70-frasco-plastico-1000ml-1631",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "551",
+      "title": "ÁLCOOL ETÍLICO HIDRATADO 70% 1000ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "2020",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-etilico-hidratado-70-1000ml-551",
+      "image": "/products/images/0005/551.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ]
+}

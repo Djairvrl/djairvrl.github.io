@@ -1,0 +1,36 @@
+{
+  "title": "INSTRAMED",
+  "parentLabel": "Marca",
+  "description": "Produtos INSTRAMED disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INSTRAMED"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11957",
+      "title": "PÁ ADESIVA MULTIFUNCIONAL ADULTO",
+      "brand": "INSTRAMED",
+      "brandCode": "1011",
+      "supplier": "INSTRAMED INDUSTRIA MEDICO HOSPITALAR LTDA",
+      "supplierCode": "5387",
+      "manufacturerCode": "79047",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/pa-adesiva-multifuncional-adulto-11957",
+      "image": "/products/images/0119/11957.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1011--instramed"
+  }
+}

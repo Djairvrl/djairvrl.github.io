@@ -1,0 +1,44 @@
+{
+  "title": "CANALETAS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria canaletas em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CANALETAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7794",
+      "title": "CANALETA PCV P FIOS 30X30MM HELLERMANN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "11800051",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/canaleta-pcv-p-fios-30x30mm-hellermann-7794",
+      "image": "/products/images/0077/7794.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--canaletas"
+  }
+}

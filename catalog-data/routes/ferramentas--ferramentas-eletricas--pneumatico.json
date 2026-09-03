@@ -1,0 +1,61 @@
+{
+  "title": "PNEUMÁTICO",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria pneumático em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "PNEUMÁTICO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4492",
+      "title": "CHAVE DE IMPACTO PNEUMATICA 1/2\" 435 NM",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST02131SC",
+      "category": "PNEUMÁTICO",
+      "categorySlug": "pneumatico",
+      "path": "/chave-de-impacto-pneumatica-12-435-nm-4492",
+      "image": "/products/images/0044/4492.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "5552",
+      "title": "PINO P/ENGATE RAPIDO FEMEA PEF 1/4\"",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "50124002",
+      "category": "PNEUMÁTICO",
+      "categorySlug": "pneumatico",
+      "path": "/pino-pengate-rapido-femea-pef-14-5552",
+      "image": "/products/images/0055/5552.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--ferramentas-eletricas--pneumatico"
+  }
+}

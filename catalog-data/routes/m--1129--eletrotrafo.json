@@ -1,0 +1,36 @@
+{
+  "title": "ELETROTRAFO",
+  "parentLabel": "Marca",
+  "description": "Produtos ELETROTRAFO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ELETROTRAFO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12754",
+      "title": "FILTRO OLEO/AGUA P/BASE SKID MOD.P410",
+      "brand": "ELETROTRAFO",
+      "brandCode": "1129",
+      "supplier": "ELETROTRAFO PRODUTOS ELETRICOS LTDA",
+      "supplierCode": "5912",
+      "manufacturerCode": "03820516",
+      "category": "FILTROS AMBIENTAIS",
+      "categorySlug": "filtros-ambientais",
+      "path": "/filtro-oleoagua-pbase-skid-modp410-12754",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1129--eletrotrafo"
+  }
+}

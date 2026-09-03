@@ -1,0 +1,129 @@
+{
+  "title": "PORTE PEQUENO",
+  "parentLabel": "Lanternas de Segurança",
+  "description": "Produtos da categoria porte pequeno em lanternas de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Lanternas de Segurança",
+      "to": "/epis-e-epcs/lanternas-de-seguranca"
+    },
+    {
+      "label": "PORTE PEQUENO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6129",
+      "title": "LANTERNA DE LED RECARREGÁVEL COM BASE MAGNÉTICA - TRAMONTINA PRO 44550302",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44550302",
+      "category": "PORTE PEQUENO",
+      "categorySlug": "porte-pequeno",
+      "path": "/lanterna-de-led-recarregavel-com-base-magnetica--tramontina-pro-44550302-6129",
+      "image": "/products/images/0061/6129.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "2234",
+      "title": "LANTERNA DOBRAVEL RECAR 300LM SATA",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST90723",
+      "category": "PORTE PEQUENO",
+      "categorySlug": "porte-pequeno",
+      "path": "/lanterna-dobravel-recar-300lm-sata-2234",
+      "image": "/products/images/0022/2234.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "7142",
+      "title": "LANTERNA HIBRIDA 19 LEDS- PILHA E BATERI",
+      "brand": "RAYOVAC",
+      "brandCode": "420",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "R19LED110V220V",
+      "category": "PORTE PEQUENO",
+      "categorySlug": "porte-pequeno",
+      "path": "/lanterna-hibrida-19-leds-pilha-e-bateri-7142",
+      "image": "/products/images/0071/7142.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "4707",
+      "title": "LANTERNA LED GLI 18V-300 6 LEDS SEM BATERIA - BOSCH 06014A1100",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06014A1100000",
+      "category": "PORTE PEQUENO",
+      "categorySlug": "porte-pequeno",
+      "path": "/lanterna-led-gli-18v300-6-leds-sem-bateria--bosch-06014a1100-4707",
+      "image": "/products/images/0047/4707.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "13302",
+      "title": "LANTERNA LED RECARREGAVEL ERGO MERCURY",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0827950400",
+      "category": "PORTE PEQUENO",
+      "categorySlug": "porte-pequeno",
+      "path": "/lanterna-led-recarregavel-ergo-mercury-13302",
+      "image": "/products/images/0133/13302.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "3591",
+      "title": "LANTERNA SUPERLED CREE LLV 1500 - VONDER 8075150000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "8075150000",
+      "category": "PORTE PEQUENO",
+      "categorySlug": "porte-pequeno",
+      "path": "/lanterna-superled-cree-llv-1500--vonder-8075150000-3591",
+      "image": "/products/images/0035/3591.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "epis-e-epcs--lanternas-de-seguranca--porte-pequeno"
+  }
+}

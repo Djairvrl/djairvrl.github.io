@@ -1,0 +1,36 @@
+{
+  "title": "PINHO TROP",
+  "parentLabel": "Marca",
+  "description": "Produtos PINHO TROP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PINHO TROP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7524",
+      "title": "PINHO TROP LAVANDA 500ML",
+      "brand": "PINHO TROP",
+      "brandCode": "497",
+      "supplier": "FAMA DISTRUBUIÇÃO E LOGISTICA LTDA",
+      "supplierCode": "784",
+      "manufacturerCode": "732025",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pinho-trop-lavanda-500ml-7524",
+      "image": "/products/images/0075/7524.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--497--pinho-trop"
+  }
+}

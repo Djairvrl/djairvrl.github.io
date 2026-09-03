@@ -1,0 +1,112 @@
+{
+  "title": "ADITIVO",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria aditivo em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "ADITIVO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6747",
+      "title": "ADITIVO COMB ACTIO A550 ACT5500000 500ML",
+      "brand": "ACTIOIL",
+      "brandCode": "331",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "112053",
+      "category": "ADITIVO",
+      "categorySlug": "aditivo",
+      "path": "/aditivo-comb-actio-a550-act5500000-500ml-6747",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6618",
+      "title": "ADITIVO DIESEL - 200ML",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "7896580700194",
+      "category": "ADITIVO",
+      "categorySlug": "aditivo",
+      "path": "/aditivo-diesel--200ml-6618",
+      "image": "/products/images/0066/6618.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7861",
+      "title": "ADITIVO DIESEL 200ML",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "1623",
+      "category": "ADITIVO",
+      "categorySlug": "aditivo",
+      "path": "/aditivo-diesel-200ml-7861",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6619",
+      "title": "ADITIVO PARA COMBUSTÍVEL FLEX 200ML - ORBI QUÍMICA 1797",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "1797",
+      "category": "ADITIVO",
+      "categorySlug": "aditivo",
+      "path": "/aditivo-para-combustivel-flex-200ml--orbi-quimica-1797-6619",
+      "image": "/products/images/0066/6619.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6617",
+      "title": "ADITIVO PARA GASOLINA AG 200ML - ORBI QUÍMICA",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "1622",
+      "category": "ADITIVO",
+      "categorySlug": "aditivo",
+      "path": "/aditivo-para-gasolina-ag-200ml--orbi-quimica-6617",
+      "image": "/products/images/0066/6617.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--aditivo"
+  }
+}

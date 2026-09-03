@@ -1,0 +1,146 @@
+{
+  "title": "SABONETES",
+  "parentLabel": "Higienização e Proteção da Pele",
+  "description": "Produtos da categoria sabonetes em higienização e proteção da pele.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Higienização e Proteção da Pele",
+      "to": "/epis-e-epcs/higienizacao-e-protecao-da-pele"
+    },
+    {
+      "label": "SABONETES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3566",
+      "title": "LIMPA MAOS NATURAL BIODEG. SF7850 - 4KG",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "394833",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/limpa-maos-natural-biodeg-sf7850--4kg-3566",
+      "image": "/products/images/0035/3566.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "11212",
+      "title": "REFIL PARA SABONETEIRA BECKSOAP 800ML",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "1683",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/refil-para-saboneteira-becksoap-800ml-11212",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "7739",
+      "title": "SAB LIQ NIVEA CREME CARE 250ML",
+      "brand": "NIVEA",
+      "brandCode": "512",
+      "supplier": "COMERCIAL J. M. LTDA",
+      "supplierCode": "1500",
+      "manufacturerCode": "61259",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/sab-liq-nivea-creme-care-250ml-7739",
+      "image": "/products/images/0077/7739.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "9458",
+      "title": "SABONETE LIQUIDO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "GAYSON MORAES PORTO",
+      "supplierCode": "2230",
+      "manufacturerCode": "2000000000002",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/sabonete-liquido-9458",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "7599",
+      "title": "SABONETE LIQUIDO 250ML SOFT",
+      "brand": "NIVEA",
+      "brandCode": "512",
+      "supplier": "COMERCIAL J. M. LTDA",
+      "supplierCode": "1500",
+      "manufacturerCode": "61261",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/sabonete-liquido-250ml-soft-7599",
+      "image": "/products/images/0075/7599.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "9815",
+      "title": "SABONETE LIQUIDO 5LT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JOVANILSON BRAGA DA SILVA DA CASA NOVA",
+      "supplierCode": "2726",
+      "manufacturerCode": "231",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/sabonete-liquido-5lt-9815",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "3100",
+      "title": "SABONETE LIQUIDO CLEAN  GALAO 5L",
+      "brand": "HENLAU",
+      "brandCode": "13",
+      "supplier": "HENLAU QUIMICA EIRELI  EPP",
+      "supplierCode": "191",
+      "manufacturerCode": "02209",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/sabonete-liquido-clean-galao-5l-3100",
+      "image": "/products/images/0031/3100.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--higienizacao-e-protecao-da-pele--sabonetes"
+  }
+}

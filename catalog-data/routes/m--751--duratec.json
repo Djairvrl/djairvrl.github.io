@@ -1,0 +1,36 @@
+{
+  "title": "DURATEC",
+  "parentLabel": "Marca",
+  "description": "Produtos DURATEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DURATEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10127",
+      "title": "MESA RETANGULAR DOBRAVEL AO MEIO 1,22M",
+      "brand": "DURATEC",
+      "brandCode": "751",
+      "supplier": "MULTIENERGY IMPORTACAO, EXPORTACAO E COMERCIO LTDA",
+      "supplierCode": "3100",
+      "manufacturerCode": "MRT122",
+      "category": "MESAS PORTÁTEIS",
+      "categorySlug": "mesas-portateis",
+      "path": "/mesa-retangular-dobravel-ao-meio-122m-10127",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--751--duratec"
+  }
+}

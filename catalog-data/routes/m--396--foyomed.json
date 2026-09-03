@@ -1,0 +1,36 @@
+{
+  "title": "FOYOMED",
+  "parentLabel": "Marca",
+  "description": "Produtos FOYOMED disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FOYOMED"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6968",
+      "title": "REANIMADOR MANUAL PVC-PORTEX",
+      "brand": "FOYOMED",
+      "brandCode": "396",
+      "supplier": "BASMED DISTRIBUIDORA LTDA",
+      "supplierCode": "5046",
+      "manufacturerCode": "MLB3406446297_179386261235",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/reanimador-manual-pvcportex-6968",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--396--foyomed"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "TORQUÊS",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria torquês em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "TORQUÊS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "723",
+      "title": "TORQUÊS ARMADOR 10\" AÇO CARBONO - SÃO ROMÃO REF 1715",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "157",
+      "category": "TORQUÊS",
+      "categorySlug": "torques",
+      "path": "/torques-armador-10-aco-carbono--sao-romao-ref-1715-723",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5765",
+      "title": "TORQUÊS ARMADOR 11\" (280MM)  GEDORE REF. 8380-280",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "029798",
+      "category": "TORQUÊS",
+      "categorySlug": "torques",
+      "path": "/torques-armador-11-280mm-gedore-ref-8380280-5765",
+      "image": "/products/images/0057/5765.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4452",
+      "title": "TORQUÊS ARMADOR 12\" AÇO CARBONO - SÃO ROMÃO REF 1716",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "INDSUTRIA DE FORJADOS SAO ROMAO",
+      "supplierCode": "484",
+      "manufacturerCode": "1716",
+      "category": "TORQUÊS",
+      "categorySlug": "torques",
+      "path": "/torques-armador-12-aco-carbono--sao-romao-ref-1716-4452",
+      "image": "/products/images/0044/4452.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4360",
+      "title": "TORQUÊS ARMADOR 13\" (330MM) -  GEDORE RED REF.  R28924113",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3369847",
+      "category": "TORQUÊS",
+      "categorySlug": "torques",
+      "path": "/torques-armador-13-330mm--gedore-red-ref-r28924113-4360",
+      "image": "/products/images/0043/4360.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "274",
+      "title": "TORQUÊS PARA ARMADOR 300MM GEDORE RED R28924112",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3369846",
+      "category": "TORQUÊS",
+      "categorySlug": "torques",
+      "path": "/torques-para-armador-300mm-gedore-red-r28924112-274",
+      "image": "/products/images/0002/274.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--ferramentas-manuais--torques"
+  }
+}

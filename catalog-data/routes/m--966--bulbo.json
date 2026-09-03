@@ -1,0 +1,36 @@
+{
+  "title": "BULBO",
+  "parentLabel": "Marca",
+  "description": "Produtos BULBO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BULBO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11624",
+      "title": "LAMPADA LED BULBO 50W 6500K BIV E27 ELGI",
+      "brand": "BULBO",
+      "brandCode": "966",
+      "supplier": "MCORDEIRO COMERCIO DE VARIEDADES LTDA",
+      "supplierCode": "5150",
+      "manufacturerCode": "732728646",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/lampada-led-bulbo-50w-6500k-biv-e27-elgi-11624",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--966--bulbo"
+  }
+}

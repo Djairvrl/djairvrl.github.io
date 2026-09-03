@@ -1,0 +1,44 @@
+{
+  "title": "BARROTES E CAIBROS",
+  "parentLabel": "Madeira",
+  "description": "Produtos da categoria barrotes e caibros em madeira.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Madeira",
+      "to": "/material-de-construcao/madeira"
+    },
+    {
+      "label": "BARROTES E CAIBROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1763",
+      "title": "BARROTE 6 X 5 CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "A CASA MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1196",
+      "manufacturerCode": "1111",
+      "category": "BARROTES E CAIBROS",
+      "categorySlug": "barrotes-e-caibros",
+      "path": "/barrote-6-x-5-cm-1763",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "material-de-construcao--madeira--barrotes-e-caibros"
+  }
+}

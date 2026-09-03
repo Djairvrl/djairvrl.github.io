@@ -1,0 +1,121 @@
+{
+  "title": "STIHL",
+  "parentLabel": "Marca",
+  "description": "Produtos STIHL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STIHL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10420",
+      "title": "CINTURAO PARA SOPRADOR BR600 STIHL",
+      "brand": "STIHL",
+      "brandCode": "774",
+      "supplier": "COMERCIAL LACERDA LTDA",
+      "supplierCode": "3505",
+      "manufacturerCode": "80430",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/cinturao-para-soprador-br600-stihl-10420",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10421",
+      "title": "CINTURAO SIMPLES STIHL",
+      "brand": "STIHL",
+      "brandCode": "774",
+      "supplier": "COMERCIAL LACERDA LTDA",
+      "supplierCode": "3505",
+      "manufacturerCode": "82341",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/cinturao-simples-stihl-10421",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10417",
+      "title": "FILTRO DE AR P/ BR 600",
+      "brand": "STIHL",
+      "brandCode": "774",
+      "supplier": "COMERCIAL LACERDA LTDA",
+      "supplierCode": "3505",
+      "manufacturerCode": "83477",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/filtro-de-ar-p-br-600-10417",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "13170",
+      "title": "FIO NYLON AM REDONDO 3,0MM X 1,0M",
+      "brand": "STIHL",
+      "brandCode": "774",
+      "supplier": "ELITE FERRAMENTAS MOTORIZADAS LTDA",
+      "supplierCode": "6142",
+      "manufacturerCode": "0000-930-3624",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/fio-nylon-am-redondo-30mm-x-10m-13170",
+      "image": "/products/images/0131/13170.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "13216",
+      "title": "OLEO 2T STIHL ORIGINAL CASTROL 500ML 2TX",
+      "brand": "STIHL",
+      "brandCode": "774",
+      "supplier": "ROMA COMERCIAL LTDA",
+      "supplierCode": "6173",
+      "manufacturerCode": "0781-389-3004",
+      "category": "ÓLEOS PARA COMPRESSORES",
+      "categorySlug": "oleos-para-compressores",
+      "path": "/oleo-2t-stihl-original-castrol-500ml-2tx-13216",
+      "image": "/products/images/0132/13216.webp",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "11139",
+      "title": "SOPRADOR COSTAL BR 600 4,0 CV 64,8 CIL",
+      "brand": "STIHL",
+      "brandCode": "774",
+      "supplier": "A CHELITA ATACADO LTDA",
+      "supplierCode": "4603",
+      "manufacturerCode": "04637",
+      "category": "SOPRADORES",
+      "categorySlug": "sopradores",
+      "path": "/soprador-costal-br-600-40-cv-648-cil-11139",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--774--stihl"
+  }
+}

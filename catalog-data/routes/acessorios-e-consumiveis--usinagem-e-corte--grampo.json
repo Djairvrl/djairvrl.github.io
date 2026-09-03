@@ -1,0 +1,44 @@
+{
+  "title": "GRAMPO",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria grampo em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "GRAMPO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5694",
+      "title": "GRAMPO ROCAMA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1207",
+      "category": "GRAMPO",
+      "categorySlug": "grampo",
+      "path": "/grampo-rocama-5694",
+      "image": "/products/images/0056/5694.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--grampo"
+  }
+}

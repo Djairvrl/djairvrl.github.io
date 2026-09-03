@@ -1,0 +1,95 @@
+{
+  "title": "AMPLA VISÃO",
+  "parentLabel": "Óculos de Proteção",
+  "description": "Produtos da categoria ampla visão em óculos de proteção.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Óculos de Proteção",
+      "to": "/epis-e-epcs/oculos-de-protecao"
+    },
+    {
+      "label": "AMPLA VISÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1375",
+      "title": "ÓCULOS DE SEGURANÇA AMPLA VISÃO EVEREST LENTE CINZA ANTIRRISCO, ANTIEMBAÇANTE E UV CA19628 - VICSA VIC56120",
+      "brand": "VICSA",
+      "brandCode": "4",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "VIC56120 00 CZ",
+      "category": "AMPLA VISÃO",
+      "categorySlug": "ampla-visao",
+      "path": "/oculos-de-seguranca-ampla-visao-everest-lente-cinza-antirrisco-antiembacante-e-uv-ca19628--vicsa-vic56120-1375",
+      "image": "/products/images/0013/1375.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "1376",
+      "title": "ÓCULOS DE SEGURANÇA AMPLA VISÃO EVEREST LENTE INCOLOR ANTIRRISCO, ANTIEMBAÇANTE E UV CA19628 - VICSA VIC56110",
+      "brand": "VICSA",
+      "brandCode": "4",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "VIC56110 00 IN",
+      "category": "AMPLA VISÃO",
+      "categorySlug": "ampla-visao",
+      "path": "/oculos-de-seguranca-ampla-visao-everest-lente-incolor-antirrisco-antiembacante-e-uv-ca19628--vicsa-vic56110-1376",
+      "image": "/products/images/0013/1376.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "9713",
+      "title": "ÓCULOS LENTE CINZA TRATAMENTO ANTIEMBAÇANTE  HONEYWELL REF S4041-BR",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "160",
+      "manufacturerCode": "S4041-BR",
+      "category": "AMPLA VISÃO",
+      "categorySlug": "ampla-visao",
+      "path": "/oculos-lente-cinza-tratamento-antiembacante-honeywell-ref-s4041br-9713",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "9712",
+      "title": "ÓCULOS LENTE INCOLOR TRATAMENTO ANTIEMBAÇANTE  HONEYWELL REF S4040-BR",
+      "brand": "HONEYWELL",
+      "brandCode": "71",
+      "supplier": "HONEYWELL INDUSTRIA DE TECNOLOGIA LTDA",
+      "supplierCode": "160",
+      "manufacturerCode": "S4040-BR",
+      "category": "AMPLA VISÃO",
+      "categorySlug": "ampla-visao",
+      "path": "/oculos-lente-incolor-tratamento-antiembacante-honeywell-ref-s4040br-9712",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--oculos-de-protecao--ampla-visao"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "TAPETE ISOLANTE",
+  "parentLabel": "NR-10",
+  "description": "Produtos da categoria tapete isolante em nr-10.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "NR-10",
+      "to": "/epis-e-epcs/nr-10"
+    },
+    {
+      "label": "TAPETE ISOLANTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2427",
+      "title": "TAPETE ISOLANTE CLAS 0",
+      "brand": "ORION",
+      "brandCode": "27",
+      "supplier": "ORION S.A.",
+      "supplierCode": "64",
+      "manufacturerCode": "05509103252",
+      "category": "TAPETE ISOLANTE",
+      "categorySlug": "tapete-isolante",
+      "path": "/tapete-isolante-clas-0-2427",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "1159",
+      "title": "TAPETE ISOLANTE DE BORRACHA CLASSE 4 ETIQUETA LARANJA (12,7 X 914 X 1000MM) NR1157 - ORION",
+      "brand": "ORION",
+      "brandCode": "27",
+      "supplier": "ORION S.A.",
+      "supplierCode": "1108",
+      "manufacturerCode": "05509112752",
+      "category": "TAPETE ISOLANTE",
+      "categorySlug": "tapete-isolante",
+      "path": "/tapete-isolante-de-borracha-classe-4-etiqueta-laranja-127-x-914-x-1000mm-nr1157--orion-1159",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "13391",
+      "title": "TAPETE ORION ISOLANTE DIAM. 914X3,2MM",
+      "brand": "ORION",
+      "brandCode": "27",
+      "supplier": "ORION S.A.",
+      "supplierCode": "1108",
+      "manufacturerCode": "S462 - BR",
+      "category": "TAPETE ISOLANTE",
+      "categorySlug": "tapete-isolante",
+      "path": "/tapete-orion-isolante-diam-914x32mm-13391",
+      "image": "/products/images/0133/13391.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--nr-10--tapete-isolante"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "PANEW",
+  "parentLabel": "Marca",
+  "description": "Produtos PANEW disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PANEW"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11875",
+      "title": "NAFTALINA PCT DE 30 GR PANEW",
+      "brand": "PANEW",
+      "brandCode": "1000",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "550",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/naftalina-pct-de-30-gr-panew-11875",
+      "image": "/products/images/0118/11875.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1000--panew"
+  }
+}

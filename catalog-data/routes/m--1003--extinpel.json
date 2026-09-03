@@ -1,0 +1,121 @@
+{
+  "title": "EXTINPEL",
+  "parentLabel": "Marca",
+  "description": "Produtos EXTINPEL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EXTINPEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11884",
+      "title": "EXTINTOR CARRETA PQS BC 50KG (80BC)",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "123591",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-carreta-pqs-bc-50kg-80bc-11884",
+      "image": "/products/images/0118/11884.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11882",
+      "title": "EXTINTOR CO2 6 KG - NAO AUTOMOTIVO",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "120401",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-co2-6-kg--nao-automotivo-11882",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11883",
+      "title": "EXTINTOR ESPUMA MECANICA 10 LTS CAP.2A 1",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "73851",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-espuma-mecanica-10-lts-cap2a-1-11883",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11885",
+      "title": "MANGUEIRA TIPO 1 - 1.1/2 X 15M - LATAO",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "5362",
+      "manufacturerCode": "120341",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo-1--112-x-15m--latao-11885",
+      "image": "/products/images/0118/11885.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11886",
+      "title": "MANGUEIRA TIPO 2 2.1/2 X 15M LATAO",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "5362",
+      "manufacturerCode": "120381",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo-2-212-x-15m-latao-11886",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11887",
+      "title": "VALVULA GLOBO GPM PN 16 INDUST- 45º 2.1/",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "5362",
+      "manufacturerCode": "93711",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/valvula-globo-gpm-pn-16-indust-45o-21-11887",
+      "image": "/products/images/0118/11887.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--1003--extinpel"
+  }
+}

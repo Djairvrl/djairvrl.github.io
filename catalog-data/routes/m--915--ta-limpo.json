@@ -1,0 +1,87 @@
+{
+  "title": "TA LIMPO",
+  "parentLabel": "Marca",
+  "description": "Produtos TA LIMPO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TA LIMPO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11220",
+      "title": "SACO 100L LIXO MICRA 08 - 73X83 50UN",
+      "brand": "TA LIMPO",
+      "brandCode": "915",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "376",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-100l-lixo-micra-08--73x83-50un-11220",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "11221",
+      "title": "SACO 200L LIXO MICRAS 08 - 90X100 50UN",
+      "brand": "TA LIMPO",
+      "brandCode": "915",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "382",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-200l-lixo-micras-08--90x100-50un-11221",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "11222",
+      "title": "SACO 40L LIXO LEVE - 47X55 100 UN",
+      "brand": "TA LIMPO",
+      "brandCode": "915",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "391",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-40l-lixo-leve--47x55-100-un-11222",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "11223",
+      "title": "SACO 60L LIXO LEVE - 57X70 100 UN",
+      "brand": "TA LIMPO",
+      "brandCode": "915",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "393",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-60l-lixo-leve--57x70-100-un-11223",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--915--ta-limpo"
+  }
+}

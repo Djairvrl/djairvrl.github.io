@@ -1,0 +1,36 @@
+{
+  "title": "NEW FIX",
+  "parentLabel": "Marca",
+  "description": "Produtos NEW FIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEW FIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13061",
+      "title": "REBITE ALUM.POP 625 6.2X25",
+      "brand": "NEW FIX",
+      "brandCode": "1176",
+      "supplier": "JR COMERCIO DE MATERIAIS PARA CONSTRUCAO LTDA",
+      "supplierCode": "6067",
+      "manufacturerCode": "500733FG",
+      "category": "REBITE",
+      "categorySlug": "rebite",
+      "path": "/rebite-alumpop-625-62x25-13061",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1176--new-fix"
+  }
+}

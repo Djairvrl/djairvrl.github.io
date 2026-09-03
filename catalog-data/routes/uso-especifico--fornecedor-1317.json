@@ -1,0 +1,55 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos de REINALDO ALMEIDA DO COUTO 00056732406 neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1317",
+    "name": "REINALDO ALMEIDA DO COUTO 00056732406"
+  },
+  "products": [
+    {
+      "code": "7037",
+      "title": "ADESIVO VINIL 15 X 4 CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "REINALDO ALMEIDA DO COUTO 00056732406",
+      "supplierCode": "1317",
+      "manufacturerCode": "0068",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivo-vinil-15-x-4-cm-7037",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "uso-especifico--fornecedor-1317"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "COLORMAQ",
+  "parentLabel": "Marca",
+  "description": "Produtos COLORMAQ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COLORMAQ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11129",
+      "title": "TANQUINHO COLORMAQ LCS 15 BRANCO 220V",
+      "brand": "COLORMAQ",
+      "brandCode": "887",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "532",
+      "manufacturerCode": "7674235",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/tanquinho-colormaq-lcs-15-branco-220v-11129",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--887--colormaq"
+  }
+}

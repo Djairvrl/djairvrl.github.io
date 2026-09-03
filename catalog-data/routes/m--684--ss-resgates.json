@@ -1,0 +1,104 @@
+{
+  "title": "SS RESGATES",
+  "parentLabel": "Marca",
+  "description": "Produtos SS RESGATES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SS RESGATES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11358",
+      "title": "CINTO ARANHA ADULTO SS RESGATE",
+      "brand": "SS RESGATES",
+      "brandCode": "684",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "52785",
+      "category": "CINTOS",
+      "categorySlug": "cintos",
+      "path": "/cinto-aranha-adulto-ss-resgate-11358",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "11768",
+      "title": "MALETA DE PRIMEIROS SOCORROS VAZIA",
+      "brand": "SS RESGATES",
+      "brandCode": "684",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "74855",
+      "category": "MALETAS E ARMÁRIOS",
+      "categorySlug": "maletas-e-armarios",
+      "path": "/maleta-de-primeiros-socorros-vazia-11768",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7331",
+      "title": "MÁSCARA POCKET PARA RCP COM CONECTOR 15MM E ESTOJO",
+      "brand": "SS RESGATES",
+      "brandCode": "684",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS080",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/mascara-pocket-para-rcp-com-conector-15mm-e-estojo-7331",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7330",
+      "title": "TALA DE PUNHO E DEDO 16X180",
+      "brand": "SS RESGATES",
+      "brandCode": "684",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS119",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/tala-de-punho-e-dedo-16x180-7330",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7332",
+      "title": "TIPOIA DESCARTAVEL EM TNT",
+      "brand": "SS RESGATES",
+      "brandCode": "684",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS128",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/tipoia-descartavel-em-tnt-7332",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--684--ss-resgates"
+  }
+}

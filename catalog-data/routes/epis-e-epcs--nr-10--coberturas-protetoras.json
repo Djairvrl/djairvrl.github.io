@@ -1,0 +1,44 @@
+{
+  "title": "COBERTURAS PROTETORAS",
+  "parentLabel": "NR-10",
+  "description": "Produtos da categoria coberturas protetoras em nr-10.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "NR-10",
+      "to": "/epis-e-epcs/nr-10"
+    },
+    {
+      "label": "COBERTURAS PROTETORAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10224",
+      "title": "MANTA COBERTURA P/CABO PROTEGIDA 35KV",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "MULTFER SOLUCOES PARA INDUSTRIA E CONSTRUCAO LTDA",
+      "supplierCode": "3326",
+      "manufacturerCode": "HB0042088078",
+      "category": "COBERTURAS PROTETORAS",
+      "categorySlug": "coberturas-protetoras",
+      "path": "/manta-cobertura-pcabo-protegida-35kv-10224",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--nr-10--coberturas-protetoras"
+  }
+}

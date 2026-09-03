@@ -1,0 +1,95 @@
+{
+  "title": "BONÉ",
+  "parentLabel": "Diversos",
+  "description": "Produtos da categoria boné em diversos.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Diversos",
+      "to": "/epis-e-epcs/diversos"
+    },
+    {
+      "label": "BONÉ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12607",
+      "title": "BONE CASQUETE MOD. JAPONES CINZA CA43553",
+      "brand": "COMPROT",
+      "brandCode": "1096",
+      "supplier": "COMPROT EPI INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5796",
+      "manufacturerCode": "23308",
+      "category": "BONÉ",
+      "categorySlug": "bone",
+      "path": "/bone-casquete-mod-japones-cinza-ca43553-12607",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "662",
+      "title": "BONE LEGIONARIO GD IMP MASC KAKI",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "202326",
+      "category": "BONÉ",
+      "categorySlug": "bone",
+      "path": "/bone-legionario-gd-imp-masc-kaki-662",
+      "image": "/products/images/0006/662.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "660",
+      "title": "BONÉ TIPO ÁRABE EM BRIM CINZA 1009 CA43078 - SAYRO",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "22152",
+      "category": "BONÉ",
+      "categorySlug": "bone",
+      "path": "/bone-tipo-arabe-em-brim-cinza-1009-ca43078--sayro-660",
+      "image": "/products/images/0006/660.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "661",
+      "title": "BONÉ TIPO ÁRABE EM HELANCA 100% POLIÉSTER COR CHUMBO CA43073 - SAYRO",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "16098",
+      "category": "BONÉ",
+      "categorySlug": "bone",
+      "path": "/bone-tipo-arabe-em-helanca-100-poliester-cor-chumbo-ca43073--sayro-661",
+      "image": "/products/images/0006/661.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--diversos--bone"
+  }
+}

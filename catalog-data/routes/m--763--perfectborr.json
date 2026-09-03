@@ -1,0 +1,36 @@
+{
+  "title": "PERFECTBORR",
+  "parentLabel": "Marca",
+  "description": "Produtos PERFECTBORR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PERFECTBORR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10209",
+      "title": "CALCO ESTABILIZADOR 16TON 40 X 28 X 8CM",
+      "brand": "PERFECTBORR",
+      "brandCode": "763",
+      "supplier": "MM DISTRIBUIDORA DE PRODUTOS E EQUIPAMENTOS LTDA",
+      "supplierCode": "3306",
+      "manufacturerCode": "7898996089405",
+      "category": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+      "categorySlug": "acessorios-para-equipamentos-pesados",
+      "path": "/calco-estabilizador-16ton-40-x-28-x-8cm-10209",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--763--perfectborr"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "MAF",
+  "parentLabel": "Marca",
+  "description": "Produtos MAF disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAF"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12342",
+      "title": "PORTA CHAVE CLAVICULARIO 100 CHAVES",
+      "brand": "MAF",
+      "brandCode": "1063",
+      "supplier": "MAF IMPORTACAO E DISTRIBUICAO LTDA",
+      "supplierCode": "5664",
+      "manufacturerCode": "M1015",
+      "category": "CLAVICULARIOS",
+      "categorySlug": "clavicularios",
+      "path": "/porta-chave-claviculario-100-chaves-12342",
+      "image": "/products/images/0123/12342.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1063--maf"
+  }
+}

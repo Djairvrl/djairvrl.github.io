@@ -1,0 +1,36 @@
+{
+  "title": "PILLARTECH",
+  "parentLabel": "Marca",
+  "description": "Produtos PILLARTECH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PILLARTECH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13120",
+      "title": "BOBINA ALUMÍNIO 60CM X 10M PARA CALHAS E",
+      "brand": "PILLARTECH",
+      "brandCode": "1187",
+      "supplier": "ELLOS PILLARTECK MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "6116",
+      "manufacturerCode": "SCH9898",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/bobina-aluminio-60cm-x-10m-para-calhas-e-13120",
+      "image": "/products/images/0131/13120.png",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1187--pillartech"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "ERCAPLAST",
+  "parentLabel": "Marca",
+  "description": "Produtos ERCAPLAST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ERCAPLAST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13168",
+      "title": "PALITEIRO ERCAPLAST MESA",
+      "brand": "ERCAPLAST",
+      "brandCode": "1193",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "208361",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/paliteiro-ercaplast-mesa-13168",
+      "image": "/products/images/0131/13168.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13166",
+      "title": "SALEIRO ERCAPLAST MESA",
+      "brand": "ERCAPLAST",
+      "brandCode": "1193",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "209210",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/saleiro-ercaplast-mesa-13166",
+      "image": "/products/images/0131/13166.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1193--ercaplast"
+  }
+}

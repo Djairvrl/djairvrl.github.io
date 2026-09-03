@@ -1,0 +1,36 @@
+{
+  "title": "DORMAKABA",
+  "parentLabel": "Marca",
+  "description": "Produtos DORMAKABA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DORMAKABA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13406",
+      "title": "BARRA ANTIPANICO PHA 1102 PRATA",
+      "brand": "DORMAKABA",
+      "brandCode": "1237",
+      "supplier": "DORMAKABA BRASIL SOLUCOES DE ACESSO LTDA.",
+      "supplierCode": "6272",
+      "manufacturerCode": "980.83.11201",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/barra-antipanico-pha-1102-prata-13406",
+      "image": "/products/images/0134/13406.webp",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1237--dormakaba"
+  }
+}

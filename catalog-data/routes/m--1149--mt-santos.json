@@ -1,0 +1,36 @@
+{
+  "title": "MT SANTOS",
+  "parentLabel": "Marca",
+  "description": "Produtos MT SANTOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MT SANTOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12879",
+      "title": "LUVA MEIA MALHA BRANCA",
+      "brand": "MT SANTOS",
+      "brandCode": "1149",
+      "supplier": "BOUTIQUE DAS MARCAS LTDA",
+      "supplierCode": "5988",
+      "manufacturerCode": "MLLUVAMEIAM ALHAG1",
+      "category": "ALGODÃO",
+      "categorySlug": "algodao",
+      "path": "/luva-meia-malha-branca-12879",
+      "image": "/products/images/0128/12879.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1149--mt-santos"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Compósitos e Laminação Técnica",
+  "parentLabel": "Acessórios e Consumíveis",
+  "description": "Soluções de compósitos e laminação técnica disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Compósitos e Laminação Técnica"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "acessorios-e-consumiveis--compositos-e-laminacao-tecnica"
+  }
+}

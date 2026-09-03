@@ -1,0 +1,36 @@
+{
+  "title": "KINGBOLEN",
+  "parentLabel": "Marca",
+  "description": "Produtos KINGBOLEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KINGBOLEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8281",
+      "title": "TESTADOR BATERIA CARRO BM550 6V 12V 24V",
+      "brand": "KINGBOLEN",
+      "brandCode": "580",
+      "supplier": "LUCAS RODRIGUES DA SILVA COMERCIO",
+      "supplierCode": "2034",
+      "manufacturerCode": "EWF",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-bateria-carro-bm550-6v-12v-24v-8281",
+      "image": "/products/images/0082/8281.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--580--kingbolen"
+  }
+}

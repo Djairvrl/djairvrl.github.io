@@ -1,0 +1,1306 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Produtos de CONDOR PINCEIS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "880",
+    "name": "CONDOR PINCEIS LTDA"
+  },
+  "products": [
+    {
+      "code": "10800",
+      "title": "713 1 1/2 TRINCHA 12X1",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971462",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/713-1-12-trincha-12x1-10800",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10801",
+      "title": "713 2 TRINCHA 12X1",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971463",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/713-2-trincha-12x1-10801",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4037",
+      "title": "BANDEJA GRANDE PARA PINTURA 2,85 LITROS - CONDOR REF. 997",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "89036",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/bandeja-grande-para-pintura-285-litros--condor-ref-997-4037",
+      "image": "/products/images/0040/4037.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4039",
+      "title": "BANDEJA PEQUENA PARA PINTURA 1 LITRO - CONDOR REF. 998",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "89037",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/bandeja-pequena-para-pintura-1-litro--condor-ref-998-4039",
+      "image": "/products/images/0040/4039.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4035",
+      "title": "BROXA RETANGULAR CERDAS 65CM COM SUPORTE PARA LATAS E GALÕES - CONDOR REF. 930",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "87706",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/broxa-retangular-cerdas-65cm-com-suporte-para-latas-e-galoes--condor-ref-930-4035",
+      "image": "/products/images/0040/4035.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4052",
+      "title": "CABO EXTENS TELESCOP SIST BLOQUEIO 803-1",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972006",
+      "category": "EQUIPAMENTO DE PINTURA",
+      "categorySlug": "equipamento-de-pintura",
+      "path": "/cabo-extens-telescop-sist-bloqueio-8031-4052",
+      "image": "/products/images/0040/4052.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4040",
+      "title": "CABO EXTENSOR TELESCÓPICO PARA PINTURA 2 METROS - CONDOR REF. 803/2",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "93434",
+      "category": "EQUIPAMENTO DE PINTURA",
+      "categorySlug": "equipamento-de-pintura",
+      "path": "/cabo-extensor-telescopico-para-pintura-2-metros--condor-ref-8032-4040",
+      "image": "/products/images/0040/4040.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4041",
+      "title": "CABO EXTENSOR TELESCÓPICO PARA PINTURA 3 METROS - CONDOR REF. 803/3",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971541",
+      "category": "EQUIPAMENTO DE PINTURA",
+      "categorySlug": "equipamento-de-pintura",
+      "path": "/cabo-extensor-telescopico-para-pintura-3-metros--condor-ref-8033-4041",
+      "image": "/products/images/0040/4041.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4129",
+      "title": "CAIXA MULTIUSO PLASTICO 20L 1008",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971674",
+      "category": "BANDEJA",
+      "categorySlug": "bandeja",
+      "path": "/caixa-multiuso-plastico-20l-1008-4129",
+      "image": "/products/images/0041/4129.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4029",
+      "title": "ESPONJA MULTIUSO LEVE 4 PAGUE 3 - 1539",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970712",
+      "category": "ESPONJAS",
+      "categorySlug": "esponjas",
+      "path": "/esponja-multiuso-leve-4-pague-3--1539-4029",
+      "image": "/products/images/0040/4029.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "4042",
+      "title": "ESPÁTULA AÇO INOX MULTIUSO - CONDOR REF. 145",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970219",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-aco-inox-multiuso--condor-ref-145-4042",
+      "image": "/products/images/0040/4042.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4043",
+      "title": "ESPÁTULA DE AÇO CARBONO  4CM - CONDOR REF.135/4",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970220",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-carbono-4cm--condor-ref1354-4043",
+      "image": "/products/images/0040/4043.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4046",
+      "title": "ESPÁTULA DE AÇO CARBONO 10CM - CONDOR REF.135/10",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970223",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-carbono-10cm--condor-ref13510-4046",
+      "image": "/products/images/0040/4046.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4047",
+      "title": "ESPÁTULA DE AÇO CARBONO 12CM - CONDOR REF.135/12",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970224",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-carbono-12cm--condor-ref13512-4047",
+      "image": "/products/images/0040/4047.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4044",
+      "title": "ESPÁTULA DE AÇO CARBONO 6CM - CONDOR REF.135/6",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970221",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-carbono-6cm--condor-ref1356-4044",
+      "image": "/products/images/0040/4044.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4045",
+      "title": "ESPÁTULA DE AÇO CARBONO 8CM - CONDOR REF.135/8",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970222",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-de-aco-carbono-8cm--condor-ref1358-4045",
+      "image": "/products/images/0040/4045.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4049",
+      "title": "KIT PINTURA 3 PC 8096",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971551",
+      "category": "EQUIPAMENTO DE PINTURA",
+      "categorySlug": "equipamento-de-pintura",
+      "path": "/kit-pintura-3-pc-8096-4049",
+      "image": "/products/images/0040/4049.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4048",
+      "title": "KIT SUSTENTAVEL PINTURA 5 PC 819",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971549",
+      "category": "EQUIPAMENTO DE PINTURA",
+      "categorySlug": "equipamento-de-pintura",
+      "path": "/kit-sustentavel-pintura-5-pc-819-4048",
+      "image": "/products/images/0040/4048.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4123",
+      "title": "ROLO DE ESPUMA CINZA C/ SUPORTE 15CM 975",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "86738",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-espuma-cinza-c-suporte-15cm-975-4123",
+      "image": "/products/images/0041/4123.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4125",
+      "title": "ROLO DE ESPUMA CINZA C/ SUPORTE 5CM 988",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "86741",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-espuma-cinza-c-suporte-5cm-988-4125",
+      "image": "/products/images/0041/4125.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4124",
+      "title": "ROLO DE ESPUMA CINZA C/ SUPORTE 9CM 983",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "86739",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-espuma-cinza-c-suporte-9cm-983-4124",
+      "image": "/products/images/0041/4124.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4036",
+      "title": "ROLO DE FIBRA DE VINIL PARA TEXTURA 23CM - CONDOR REF. 969",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "88731",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-fibra-de-vinil-para-textura-23cm--condor-ref-969-4036",
+      "image": "/products/images/0040/4036.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4056",
+      "title": "ROLO DE LÃ ANTIRRESPINGO 23MM (SEM SUPORTE) PARA PINTURA - CONDOR REF. 8095",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "97608",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-la-antirrespingo-23mm-sem-suporte-para-pintura--condor-ref-8095-4056",
+      "image": "/products/images/0040/4056.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4055",
+      "title": "ROLO DE LÃ ANTIRRESPINGO 23MM COM SUPORTE PARA PINTURA - CONDOR REF. 8095",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "97504",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-la-antirrespingo-23mm-com-suporte-para-pintura--condor-ref-8095-4055",
+      "image": "/products/images/0040/4055.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6715",
+      "title": "ROLO DE PINTURA 100% LÃ DE CARNEIRO COM SUPORTE 15CM - CONDOR 958",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "90096",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-pintura-100-la-de-carneiro-com-suporte-15cm--condor-958-6715",
+      "image": "/products/images/0067/6715.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6714",
+      "title": "ROLO DE PINTURA 100% LÃ DE CARNEIRO COM SUPORTE 9CM - CONDOR 958",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "90095",
+      "category": "ROLO",
+      "categorySlug": "rolo",
+      "path": "/rolo-de-pintura-100-la-de-carneiro-com-suporte-9cm--condor-958-6714",
+      "image": "/products/images/0067/6714.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4050",
+      "title": "SUPORTE GARFO GAIOLA PARA ROLOS 23CM - CONDOR REF. 909",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971584",
+      "category": "EQUIPAMENTO DE PINTURA",
+      "categorySlug": "equipamento-de-pintura",
+      "path": "/suporte-garfo-gaiola-para-rolos-23cm--condor-ref-909-4050",
+      "image": "/products/images/0040/4050.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5512",
+      "title": "TRINCHA MÉDIA CERDA MISTA 1\" - CONDOR REF. 710",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "90665",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-media-cerda-mista-1--condor-ref-710-5512",
+      "image": "/products/images/0055/5512.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6716",
+      "title": "TRINCHA MÉDIA CERDA MISTA 1.1/2\" - CONDOR REF. 710",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971440",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-media-cerda-mista-112--condor-ref-710-6716",
+      "image": "/products/images/0067/6716.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5513",
+      "title": "TRINCHA MÉDIA CERDAS MISTAS 2\" - CONDOR REF. 710",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "90667",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-media-cerdas-mistas-2--condor-ref-710-5513",
+      "image": "/products/images/0055/5513.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4275",
+      "title": "TRINCHA RECORT 1 ½\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972077",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-1-12-para-recortes-precisos--condor-ref-726-4275",
+      "image": "/products/images/0042/4275.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4128",
+      "title": "TRINCHA RECORT 1\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972076",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-1-para-recortes-precisos--condor-ref-726-4128",
+      "image": "/products/images/0041/4128.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4276",
+      "title": "TRINCHA RECORT 1/2\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972074",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-12-para-recortes-precisos--condor-ref-726-4276",
+      "image": "/products/images/0042/4276.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4277",
+      "title": "TRINCHA RECORT 2 ½\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972079",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-2-12-para-recortes-precisos--condor-ref-726-4277",
+      "image": "/products/images/0042/4277.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4378",
+      "title": "TRINCHA RECORT 2\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972078",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-2-para-recortes-precisos--condor-ref-726-4378",
+      "image": "/products/images/0043/4378.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4053",
+      "title": "TRINCHA RECORT 3\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972080",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-3-para-recortes-precisos--condor-ref-726-4053",
+      "image": "/products/images/0040/4053.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4377",
+      "title": "TRINCHA RECORT 3/4\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972075",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-34-para-recortes-precisos--condor-ref-726-4377",
+      "image": "/products/images/0043/4377.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4054",
+      "title": "TRINCHA RECORT 4\" PARA RECORTES PRECISOS - CONDOR REF. 726",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972081",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-recort-4-para-recortes-precisos--condor-ref-726-4054",
+      "image": "/products/images/0040/4054.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4126",
+      "title": "TRINCHA SINTÉTICA 1.1/2\" PARA ACABAMENTO FINO E RECORTES PRECISOS - CONDOR REF. 711",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "97491",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/trincha-sintetica-112-para-acabamento-fino-e-recortes-precisos--condor-ref-711-4126",
+      "image": "/products/images/0041/4126.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 39,
+    "pageBase": "acessorios-e-consumiveis--fornecedor-880"
+  }
+}

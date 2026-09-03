@@ -1,0 +1,61 @@
+{
+  "title": "TANQUES E CAIXAS D'ÁGUA",
+  "parentLabel": "Hidraulico",
+  "description": "Produtos da categoria tanques e caixas d'água em hidraulico.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Hidraulico",
+      "to": "/material-de-construcao/hidraulico"
+    },
+    {
+      "label": "TANQUES E CAIXAS D'ÁGUA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11135",
+      "title": "TANQUE PE AZUL  5000L H1,51",
+      "brand": "FORTLEV",
+      "brandCode": "228",
+      "supplier": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "967",
+      "manufacturerCode": "2070025",
+      "category": "TANQUES E CAIXAS D'ÁGUA",
+      "categorySlug": "tanques-e-caixas-d-agua",
+      "path": "/tanque-pe-azul-5000l-h151-11135",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7784",
+      "title": "TANQUE PE AZUL 20000L H2,83",
+      "brand": "FORTLEV",
+      "brandCode": "228",
+      "supplier": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "966",
+      "manufacturerCode": "2070052",
+      "category": "TANQUES E CAIXAS D'ÁGUA",
+      "categorySlug": "tanques-e-caixas-d-agua",
+      "path": "/tanque-pe-azul-20000l-h283-7784",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "material-de-construcao--hidraulico--tanques-e-caixas-d-agua"
+  }
+}

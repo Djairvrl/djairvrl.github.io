@@ -1,0 +1,53 @@
+{
+  "title": "INNOVA SAFETY",
+  "parentLabel": "Marca",
+  "description": "Produtos INNOVA SAFETY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INNOVA SAFETY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9630",
+      "title": "BOLSA DE NYLON PARA TRANSPORTE DE CAPACETE INNOVA SAFETY REF INPC",
+      "brand": "INNOVA SAFETY",
+      "brandCode": "702",
+      "supplier": "MAXQUALITY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "2656",
+      "manufacturerCode": "INPC",
+      "category": "BOLSAS E ACESSÓRIOS",
+      "categorySlug": "bolsas-e-acessorios",
+      "path": "/bolsa-de-nylon-para-transporte-de-capacete-innova-safety-ref-inpc-9630",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "9810",
+      "title": "MOCHILA COM COMPARTIMENTO PARA CAPACETE  INNOVA SAFETY  REF INMCC",
+      "brand": "INNOVA SAFETY",
+      "brandCode": "702",
+      "supplier": "MAXQUALITY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "2656",
+      "manufacturerCode": "INMCC",
+      "category": "BOLSAS E ACESSÓRIOS",
+      "categorySlug": "bolsas-e-acessorios",
+      "path": "/mochila-com-compartimento-para-capacete-innova-safety-ref-inmcc-9810",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--702--innova-safety"
+  }
+}

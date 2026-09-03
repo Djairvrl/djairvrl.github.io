@@ -1,0 +1,78 @@
+{
+  "title": "COLETES E BÓIAS SALVA VIDAS",
+  "parentLabel": "Diversos",
+  "description": "Produtos da categoria coletes e bóias salva vidas em diversos.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Diversos",
+      "to": "/epis-e-epcs/diversos"
+    },
+    {
+      "label": "COLETES E BÓIAS SALVA VIDAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8799",
+      "title": "BOIA MACARRAO FLUTUADOR PISCINA",
+      "brand": "BRASILPEX",
+      "brandCode": "626",
+      "supplier": "FRS COMERCIAL LTDA",
+      "supplierCode": "2243",
+      "manufacturerCode": "MLB4281990500",
+      "category": "COLETES E BÓIAS SALVA VIDAS",
+      "categorySlug": "coletes-e-boias-salva-vidas",
+      "path": "/boia-macarrao-flutuador-piscina-8799",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "9040",
+      "title": "BOIA RESGATE CLASSE II 60CM",
+      "brand": "ATIVA",
+      "brandCode": "645",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "BCD60",
+      "category": "COLETES E BÓIAS SALVA VIDAS",
+      "categorySlug": "coletes-e-boias-salva-vidas",
+      "path": "/boia-resgate-classe-ii-60cm-9040",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "6907",
+      "title": "COLETE SALVA-VIDAS HOMOLOGADO MARINHA",
+      "brand": "VOPEN",
+      "brandCode": "378",
+      "supplier": "FABIULA PACHECO",
+      "supplierCode": "1417",
+      "manufacturerCode": "VP-22",
+      "category": "COLETES E BÓIAS SALVA VIDAS",
+      "categorySlug": "coletes-e-boias-salva-vidas",
+      "path": "/colete-salvavidas-homologado-marinha-6907",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--diversos--coletes-e-boias-salva-vidas"
+  }
+}

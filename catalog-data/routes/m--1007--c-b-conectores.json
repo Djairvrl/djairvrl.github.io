@@ -1,0 +1,36 @@
+{
+  "title": "C&B CONECTORES",
+  "parentLabel": "Marca",
+  "description": "Produtos C&B CONECTORES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "C&B CONECTORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11942",
+      "title": "TERMINAL FORQUILHA ISOL AM 4,0-6,0MM2 M6",
+      "brand": "C&B CONECTORES",
+      "brandCode": "1007",
+      "supplier": "ARMAZEM H.A.S. LTDA",
+      "supplierCode": "5377",
+      "manufacturerCode": "ELTEFOAM006006",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-forquilha-isol-am-4060mm2-m6-11942",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1007--c-b-conectores"
+  }
+}

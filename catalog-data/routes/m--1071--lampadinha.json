@@ -1,0 +1,53 @@
+{
+  "title": "LAMPADINHA",
+  "parentLabel": "Marca",
+  "description": "Produtos LAMPADINHA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LAMPADINHA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12369",
+      "title": "ELETRODUTO SOLDAVEL PT CLASSE B 32MM",
+      "brand": "LAMPADINHA",
+      "brandCode": "1071",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "742",
+      "category": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+      "categorySlug": "eletrodutos-conduites-e-acessorios",
+      "path": "/eletroduto-soldavel-pt-classe-b-32mm-12369",
+      "image": "/products/images/0123/12369.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12371",
+      "title": "SEALTUBO PLUS SEALFLEX PRETO 1\"",
+      "brand": "LAMPADINHA",
+      "brandCode": "1071",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "1335",
+      "category": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+      "categorySlug": "eletrodutos-conduites-e-acessorios",
+      "path": "/sealtubo-plus-sealflex-preto-1-12371",
+      "image": "/products/images/0123/12371.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1071--lampadinha"
+  }
+}

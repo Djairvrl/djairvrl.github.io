@@ -1,0 +1,69 @@
+{
+  "title": "Compósitos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de ESSENTRA INDUSTRIA E COMERCIO LTDA. neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Químicos",
+      "slug": "quimicos",
+      "path": "/compositos/quimicos",
+      "count": 2,
+      "categories": [
+        {
+          "name": "TINTAS",
+          "slug": "tintas",
+          "path": "/compositos/quimicos/tintas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Tecidos E Fibras",
+      "slug": "tecidos-e-fibras",
+      "path": "/compositos/tecidos-e-fibras",
+      "count": 1,
+      "categories": [
+        {
+          "name": "FITAS PARA LAMINAÇÃO TÉCNICA",
+          "slug": "fitas-para-laminacao-tecnica",
+          "path": "/compositos/tecidos-e-fibras/fitas-para-laminacao-tecnica",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1916",
+    "name": "ESSENTRA INDUSTRIA E COMERCIO LTDA."
+  },
+  "products": [
+    {
+      "code": "8041",
+      "title": "FITA DE FIBRA DE VIDRO 1''",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ESSENTRA INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "1916",
+      "manufacturerCode": "MTGC0100A",
+      "category": "FITAS PARA LAMINAÇÃO TÉCNICA",
+      "categorySlug": "fitas-para-laminacao-tecnica",
+      "path": "/fita-de-fibra-de-vidro-1-8041",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Tecidos E Fibras",
+      "sectionSlug": "tecidos-e-fibras"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "compositos--fornecedor-1916"
+  }
+}

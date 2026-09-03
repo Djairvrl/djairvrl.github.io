@@ -1,0 +1,104 @@
+{
+  "title": "RECICLES MAIS",
+  "parentLabel": "Marca",
+  "description": "Produtos RECICLES MAIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RECICLES MAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7948",
+      "title": "CESTO 15L, PP - LR",
+      "brand": "RECICLES MAIS",
+      "brandCode": "546",
+      "supplier": "RECICLES COMÉRCIO DE COLETORES E REPRESENTAÇÕES EIRELI",
+      "supplierCode": "906",
+      "manufacturerCode": "CE159908",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/cesto-15l-pp--lr-7948",
+      "image": "/products/images/0079/7948.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "10074",
+      "title": "CESTO PARA LIXO 15 LITROS  RECICLES REF CE15PP06",
+      "brand": "RECICLES MAIS",
+      "brandCode": "546",
+      "supplier": "RECICLES COMÉRCIO DE COLETORES E REPRESENTAÇÕES EIRELI",
+      "supplierCode": "906",
+      "manufacturerCode": "CE15PP06",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/cesto-para-lixo-15-litros-recicles-ref-ce15pp06-10074",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "8077",
+      "title": "COMBO COLETOR PILHAS E BATERIAS BASCUL.",
+      "brand": "RECICLES MAIS",
+      "brandCode": "546",
+      "supplier": "RECICLES COMÉRCIO DE COLETORES E REPRESENTAÇÕES EIRELI",
+      "supplierCode": "906",
+      "manufacturerCode": "8077",
+      "category": "COLETORES",
+      "categorySlug": "coletores",
+      "path": "/combo-coletor-pilhas-e-baterias-bascul-8077",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "10077",
+      "title": "TAMPA BASCULANTE 15/23L - CZ",
+      "brand": "RECICLES MAIS",
+      "brandCode": "546",
+      "supplier": "RECICLES COMÉRCIO DE COLETORES E REPRESENTAÇÕES EIRELI",
+      "supplierCode": "906",
+      "manufacturerCode": "TV1523CZ",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/tampa-basculante-1523l--cz-10077",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7949",
+      "title": "TAMPA BASCULHANTE 15/23L - LR",
+      "brand": "RECICLES MAIS",
+      "brandCode": "546",
+      "supplier": "RECICLES COMÉRCIO DE COLETORES E REPRESENTAÇÕES EIRELI",
+      "supplierCode": "906",
+      "manufacturerCode": "TV1523LR",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/tampa-basculhante-1523l--lr-7949",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--546--recicles-mais"
+  }
+}

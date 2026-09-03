@@ -1,0 +1,44 @@
+{
+  "title": "CAIXA TERMICA",
+  "parentLabel": "Camping",
+  "description": "Produtos da categoria caixa termica em camping.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Camping",
+      "to": "/epis-e-epcs/camping"
+    },
+    {
+      "label": "CAIXA TERMICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11339",
+      "title": "CANTIL TERMICO AZUL 1 LT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PABLO JUNIO NONATO TEMDETUDO COMERCIO",
+      "supplierCode": "4798",
+      "manufacturerCode": "CFOP6108",
+      "category": "CAIXA TERMICA",
+      "categorySlug": "caixa-termica",
+      "path": "/cantil-termico-azul-1-lt-11339",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--camping--caixa-termica"
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "title": "Medição e Teste",
+  "parentLabel": "Departamento",
+  "description": "Produtos de AMATOOLS COMERCIAL E IMPORTADORA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste"
+    }
+  ],
+  "children": [
+    {
+      "name": "Medição Manual e Precisão",
+      "slug": "ferramentas-de-medicao-manual-e-precisao",
+      "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao",
+      "count": 149,
+      "categories": [
+        {
+          "name": "CALIBRE",
+          "slug": "calibre",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/calibre",
+          "count": 2
+        },
+        {
+          "name": "COMPARADOR DE DIÂMETRO INTERNO",
+          "slug": "comparador-de-diametro-interno",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/comparador-de-diametro-interno",
+          "count": 1
+        },
+        {
+          "name": "COMPASSO",
+          "slug": "compasso",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/compasso",
+          "count": 2
+        },
+        {
+          "name": "ESCALA",
+          "slug": "escala",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/escala",
+          "count": 2
+        },
+        {
+          "name": "ESQUADRO",
+          "slug": "esquadro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/esquadro",
+          "count": 7
+        },
+        {
+          "name": "FASÍMETRO",
+          "slug": "fasimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/fasimetro",
+          "count": 2
+        },
+        {
+          "name": "GONIÔMETRO",
+          "slug": "goniometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/goniometro",
+          "count": 1
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/medidor",
+          "count": 18
+        },
+        {
+          "name": "MICRÔMETRO",
+          "slug": "micrometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/micrometro",
+          "count": 4
+        },
+        {
+          "name": "NÍVEL",
+          "slug": "nivel",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel",
+          "count": 9
+        },
+        {
+          "name": "NÍVEL LASER",
+          "slug": "nivel-laser",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel-laser",
+          "count": 13
+        },
+        {
+          "name": "PAQUÍMETRO",
+          "slug": "paquimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/paquimetro",
+          "count": 25
+        },
+        {
+          "name": "RELÓGIO COMPARADOR",
+          "slug": "relogio-comparador",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/relogio-comparador",
+          "count": 15
+        },
+        {
+          "name": "RÉGUA",
+          "slug": "regua",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/regua",
+          "count": 3
+        },
+        {
+          "name": "SUPORTE DE MEDIÇÃO",
+          "slug": "suporte-de-medicao",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/suporte-de-medicao",
+          "count": 5
+        },
+        {
+          "name": "TRENAS",
+          "slug": "trenas",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/trenas",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "name": "Medição Elétrica e Diagnóstico",
+      "slug": "ferramentas-de-m-eletrica-e-diagnostico",
+      "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico",
+      "count": 111,
+      "categories": [
+        {
+          "name": "ALICATE AMPERÍMETRO",
+          "slug": "alicate-amperimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/alicate-amperimetro",
+          "count": 12
+        },
+        {
+          "name": "ANALISADORES",
+          "slug": "analisadores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/analisadores",
+          "count": 14
+        },
+        {
+          "name": "CERTIFICADORES DE CABOS DE REDE",
+          "slug": "certificadores-de-cabos-de-rede",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/certificadores-de-cabos-de-rede",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR",
+          "slug": "detector",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/detector",
+          "count": 2
+        },
+        {
+          "name": "FONTES REGULÁVEIS",
+          "slug": "fontes-regulaveis",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/fontes-regulaveis",
+          "count": 4
+        },
+        {
+          "name": "MEDIDORES DE TTR",
+          "slug": "medidores-de-ttr",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-ttr",
+          "count": 1
+        },
+        {
+          "name": "MEDIDORES DE VELOCIDADES",
+          "slug": "medidores-de-velocidades",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-velocidades",
+          "count": 5
+        },
+        {
+          "name": "MEGÔMETRO",
+          "slug": "megometro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/megometro",
+          "count": 7
+        },
+        {
+          "name": "MILIOHMÍMETRO",
+          "slug": "miliohmimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/miliohmimetro",
+          "count": 2
+        },
+        {
+          "name": "MULTÍMETRO",
+          "slug": "multimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/multimetro",
+          "count": 20
+        },
+        {
+          "name": "OSCILOSCÓPIO",
+          "slug": "osciloscopio",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/osciloscopio",
+          "count": 1
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/sensores",
+          "count": 4
+        },
+        {
+          "name": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+          "slug": "termo-higrometros-e-acessorios",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termo-higrometros-e-acessorios",
+          "count": 11
+        },
+        {
+          "name": "TERMÔMETROS",
+          "slug": "termometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termometros",
+          "count": 8
+        },
+        {
+          "name": "TERRÔMETROS",
+          "slug": "terrometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/terrometros",
+          "count": 2
+        },
+        {
+          "name": "TESTADORES DE BATERIA",
+          "slug": "testadores-de-bateria",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-bateria",
+          "count": 6
+        },
+        {
+          "name": "TESTADORES DE FASE",
+          "slug": "testadores-de-fase",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-fase",
+          "count": 7
+        },
+        {
+          "name": "TESTADORES DE ISOLAÇÃO",
+          "slug": "testadores-de-isolacao",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-isolacao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Calibração e Ajuste",
+      "slug": "ferramentas-de-calibracao-e-ajuste",
+      "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste",
+      "count": 58,
+      "categories": [
+        {
+          "name": "BALANÇA",
+          "slug": "balanca",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/balanca",
+          "count": 7
+        },
+        {
+          "name": "BANCOS DE TESTE",
+          "slug": "bancos-de-teste",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/bancos-de-teste",
+          "count": 1
+        },
+        {
+          "name": "CALIBRADORES",
+          "slug": "calibradores",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/calibradores",
+          "count": 5
+        },
+        {
+          "name": "KIT ACUMULADORES DE PRE CARGA",
+          "slug": "kit-acumuladores-de-pre-carga",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/kit-acumuladores-de-pre-carga",
+          "count": 2
+        },
+        {
+          "name": "MANÔMETRO",
+          "slug": "manometro",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/manometro",
+          "count": 32
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/medidor",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Detecção e Teste",
+      "slug": "ferrametas-de-deteccao-e-teste",
+      "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste",
+      "count": 52,
+      "categories": [
+        {
+          "name": "ANEMÔMETRO",
+          "slug": "anemometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/anemometro",
+          "count": 4
+        },
+        {
+          "name": "BOROSCÓPIO",
+          "slug": "boroscopio",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/boroscopio",
+          "count": 3
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/cameras",
+          "count": 8
+        },
+        {
+          "name": "DECIBELÍMETRO",
+          "slug": "decibelimetro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/decibelimetro",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR DE GÁS",
+          "slug": "detector-de-gas",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/detector-de-gas",
+          "count": 10
+        },
+        {
+          "name": "ETILÔMETROS DIGITAIS",
+          "slug": "etilometros-digitais",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/etilometros-digitais",
+          "count": 3
+        },
+        {
+          "name": "INSTRUMENTOS ÓPTICOS",
+          "slug": "instrumentos-opticos",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/instrumentos-opticos",
+          "count": 19
+        },
+        {
+          "name": "MEDIDORES DE ESPESSURA",
+          "slug": "medidores-de-espessura",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/medidores-de-espessura",
+          "count": 1
+        },
+        {
+          "name": "PLUVIÔMETRO",
+          "slug": "pluviometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/pluviometro",
+          "count": 1
+        },
+        {
+          "name": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+          "slug": "testadores-de-isolamento-hidrostatico",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/testadores-de-isolamento-hidrostatico",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Navegação e Geolocalização",
+      "slug": "navegacao-e-geolocalizacao",
+      "path": "/medicao-e-teste/navegacao-e-geolocalizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferramentas De Navegação/Geolocalização",
+      "slug": "ferramentas-de-navegacao-geolocalizacao",
+      "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao",
+      "count": 3,
+      "categories": [
+        {
+          "name": "GPS PORTÁTEIS",
+          "slug": "gps-portateis",
+          "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao/gps-portateis",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "790",
+    "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA"
+  },
+  "products": [
+    {
+      "code": "12783",
+      "title": "COMPARADOR INTERNO SUBITO 10-18MM",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "420,0009",
+      "category": "COMPARADOR DE DIÂMETRO INTERNO",
+      "categorySlug": "comparador-de-diametro-interno",
+      "path": "/comparador-interno-subito-1018mm-12783",
+      "image": "/products/images/0127/12783.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3115",
+      "title": "ESQUADRO MAGNÉTICO 12KG - ZAAS PRECISION 375,0001",
+      "brand": "ZAAS",
+      "brandCode": "179",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "375,0001",
+      "category": "ESQUADRO",
+      "categorySlug": "esquadro",
+      "path": "/esquadro-magnetico-12kg--zaas-precision-3750001-3115",
+      "image": "/products/images/0031/3115.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "11998",
+      "title": "PAQUÍMETRO DIGITAL 0-500MM/0-20",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "416,0015",
+      "category": "PAQUÍMETRO",
+      "categorySlug": "paquimetro",
+      "path": "/paquimetro-digital-0500mm020-11998",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "4223",
+      "title": "PAQUÍMETRO DIGITAL DE PROFUNDIDADE  0-300MM /0-12\" RESOLUÇÃO 0,01MM-0,0005\" - DASQUA 416,0019",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "416,0019",
+      "category": "PAQUÍMETRO",
+      "categorySlug": "paquimetro",
+      "path": "/paquimetro-digital-de-profundidade-0300mm-012-resolucao-001mm00005--dasqua-4160019-4223",
+      "image": "/products/images/0042/4223.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "6068",
+      "title": "PAQUÍMETRO DIGITAL DE PROFUNDIDADE 0-150 MM/0-6\" - DASQUA 416,0017",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "416,0017",
+      "category": "PAQUÍMETRO",
+      "categorySlug": "paquimetro",
+      "path": "/paquimetro-digital-de-profundidade-0150-mm06--dasqua-4160017-6068",
+      "image": "/products/images/0060/6068.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "1305",
+      "title": "PAQUÍMETRO UNIVERSAL ANALÓGICO 0-150 MM/0-6'' RESOLUÇÃO 0,05 MM/ 1/128' - DASQUA 416,0001",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "416,0001",
+      "category": "PAQUÍMETRO",
+      "categorySlug": "paquimetro",
+      "path": "/paquimetro-universal-analogico-0150-mm06-resolucao-005-mm-1128--dasqua-4160001-1305",
+      "image": "/products/images/0013/1305.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3954",
+      "title": "PAQUÍMETRO UNIVERSAL ANALÓGICO 0-300MM/0-12'' RESOLUÇÃO 0,05MM/ 1/128\" - DASQUA 416,0003",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "416,0003",
+      "category": "PAQUÍMETRO",
+      "categorySlug": "paquimetro",
+      "path": "/paquimetro-universal-analogico-0300mm012-resolucao-005mm-1128--dasqua-4160003-3954",
+      "image": "/products/images/0039/3954.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3955",
+      "title": "PAQUÍMETRO UNIVERSAL DIGITAL IP54  0-150MM/0-6'' RESOLUÇÃO 0.01MM-0.0005\"-1/128\" - DASQUA 416,00012",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "416,0012",
+      "category": "PAQUÍMETRO",
+      "categorySlug": "paquimetro",
+      "path": "/paquimetro-universal-digital-ip54-0150mm06-resolucao-001mm000051128--dasqua-41600012-3955",
+      "image": "/products/images/0039/3955.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3956",
+      "title": "PAQUÍMETRO UNIVERSAL DIGITAL IP54 0-300MM/0-12'' RESOLUÇÃO 0.01MM-0.0005\"-1/128\" - DASQUA 416,00014",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "416,0014",
+      "category": "PAQUÍMETRO",
+      "categorySlug": "paquimetro",
+      "path": "/paquimetro-universal-digital-ip54-0300mm012-resolucao-001mm000051128--dasqua-41600014-3956",
+      "image": "/products/images/0039/3956.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "2484",
+      "title": "RELÓGIO COMPARADOR DIGITAL 0-12.7MM -  0-1/2 \" - DASQUA  420,0003",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "420,0003",
+      "category": "RELÓGIO COMPARADOR",
+      "categorySlug": "relogio-comparador",
+      "path": "/relogio-comparador-digital-0127mm--012--dasqua-4200003-2484",
+      "image": "/products/images/0024/2484.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3872",
+      "title": "SUPORTE BASE MAGNETICA COM AJUSTE FINO 60KG - DASQUA 421,0001",
+      "brand": "DASQUA",
+      "brandCode": "201",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "421,0001",
+      "category": "SUPORTE DE MEDIÇÃO",
+      "categorySlug": "suporte-de-medicao",
+      "path": "/suporte-base-magnetica-com-ajuste-fino-60kg--dasqua-4210001-3872",
+      "image": "/products/images/0038/3872.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 11,
+    "pageBase": "medicao-e-teste--fornecedor-790"
+  }
+}

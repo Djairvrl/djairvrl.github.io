@@ -1,0 +1,36 @@
+{
+  "title": "TETRALITE",
+  "parentLabel": "Marca",
+  "description": "Produtos TETRALITE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TETRALITE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11773",
+      "title": "LONA TFP-COVER 9 X 6MT PRETA / LARANJA",
+      "brand": "TETRALITE",
+      "brandCode": "982",
+      "supplier": "TETRALITE FIREPROOF LTDA",
+      "supplierCode": "5280",
+      "manufacturerCode": "TFP-COVER",
+      "category": "LONA",
+      "categorySlug": "lona",
+      "path": "/lona-tfpcover-9-x-6mt-preta-laranja-11773",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--982--tetralite"
+  }
+}

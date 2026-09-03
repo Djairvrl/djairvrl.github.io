@@ -1,0 +1,129 @@
+{
+  "title": "PUNÇÕES",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria punções em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "PUNÇÕES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6553",
+      "title": "PUNCAO NUMERICO 10MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "60,0009",
+      "category": "PUNÇÕES",
+      "categorySlug": "puncoes",
+      "path": "/puncao-numerico-10mm-6553",
+      "image": "/products/images/0065/6553.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6554",
+      "title": "PUNCAO NUMERICO 12,5MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "60,0010",
+      "category": "PUNÇÕES",
+      "categorySlug": "puncoes",
+      "path": "/puncao-numerico-125mm-6554",
+      "image": "/products/images/0065/6554.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2999",
+      "title": "PUNÇAO DE CENTRO AUTOMÁTICA 130X4MM - GEDORE REF. 101",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "038040",
+      "category": "PUNÇÕES",
+      "categorySlug": "puncoes",
+      "path": "/puncao-de-centro-automatica-130x4mm--gedore-ref-101-2999",
+      "image": "/products/images/0029/2999.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5839",
+      "title": "PUNÇÃO DE CENTRO 4 X 120MM - GEDORE REF. 350 - 4",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "038001",
+      "category": "PUNÇÕES",
+      "categorySlug": "puncoes",
+      "path": "/puncao-de-centro-4-x-120mm--gedore-ref-350--4-5839",
+      "image": "/products/images/0058/5839.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "297",
+      "title": "PUNÇÃO DE CENTRO 4-1/2\"(114MM) STANLEY REF 16-228",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "16228",
+      "category": "PUNÇÕES",
+      "categorySlug": "puncoes",
+      "path": "/puncao-de-centro-412114mm-stanley-ref-16228-297",
+      "image": "/products/images/0002/297.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "182",
+      "title": "PUNÇÃO DE CENTRO GEDORE-VANADIUM REF 350-5",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "038002",
+      "category": "PUNÇÕES",
+      "categorySlug": "puncoes",
+      "path": "/puncao-de-centro-gedorevanadium-ref-3505-182",
+      "image": "/products/images/0001/182.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ferramentas--ferramentas-manuais--puncoes"
+  }
+}

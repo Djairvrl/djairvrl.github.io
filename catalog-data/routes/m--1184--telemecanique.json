@@ -1,0 +1,36 @@
+{
+  "title": "TELEMECANIQUE",
+  "parentLabel": "Marca",
+  "description": "Produtos TELEMECANIQUE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TELEMECANIQUE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13101",
+      "title": "BLOCO CONTATO 2NA+2NF XESP3021 TELEMECAN",
+      "brand": "TELEMECANIQUE",
+      "brandCode": "1184",
+      "supplier": "JH SHOPPING LTDA",
+      "supplierCode": "6094",
+      "manufacturerCode": "MLB2799831549",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/bloco-contato-2na2nf-xesp3021-telemecan-13101",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1184--telemecanique"
+  }
+}

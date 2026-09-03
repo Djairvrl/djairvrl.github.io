@@ -1,0 +1,36 @@
+{
+  "title": "RESERVA",
+  "parentLabel": "Marca",
+  "description": "Produtos RESERVA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RESERVA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12715",
+      "title": "PAPEL TOALHA ROLO 150MT RESERVA ECCO",
+      "brand": "RESERVA",
+      "brandCode": "1124",
+      "supplier": "AMORIM & CIA LTDA.",
+      "supplierCode": "4419",
+      "manufacturerCode": "992252",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/papel-toalha-rolo-150mt-reserva-ecco-12715",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1124--reserva"
+  }
+}

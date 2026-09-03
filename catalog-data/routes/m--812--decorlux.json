@@ -1,0 +1,121 @@
+{
+  "title": "DECORLUX",
+  "parentLabel": "Marca",
+  "description": "Produtos DECORLUX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DECORLUX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10791",
+      "title": "TERM OLHAL TA-5197 0,5-1,5MM M5 VM",
+      "brand": "DECORLUX",
+      "brandCode": "812",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "11740",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/term-olhal-ta5197-0515mm-m5-vm-10791",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "10790",
+      "title": "TERM OLHAL TA-5481 4-6MM M5 AM",
+      "brand": "DECORLUX",
+      "brandCode": "812",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "12009",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/term-olhal-ta5481-46mm-m5-am-10790",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12885",
+      "title": "TERM PRE ISOL OLHAL 1,5-2,5MM2 M5 AZUL",
+      "brand": "DECORLUX",
+      "brandCode": "812",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "13351",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/term-pre-isol-olhal-1525mm2-m5-azul-12885",
+      "image": "/products/images/0128/12885.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12886",
+      "title": "TERMINA PRE ISOL PN 1,5-2,5MM2 AZ TP2022",
+      "brand": "DECORLUX",
+      "brandCode": "812",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "12354",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/termina-pre-isol-pn-1525mm2-az-tp2022-12886",
+      "image": "/products/images/0128/12886.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12887",
+      "title": "TERMINA PRE ISOLADO PINO 1,5-2,5MM2 AZ T",
+      "brand": "DECORLUX",
+      "brandCode": "812",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "12354",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/termina-pre-isolado-pino-1525mm2-az-t-12887",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "10792",
+      "title": "TERMINAL GARFO TG-4272 1,5-2,5MM M4 AZ",
+      "brand": "DECORLUX",
+      "brandCode": "812",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "12011",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-garfo-tg4272-1525mm-m4-az-10792",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--812--decorlux"
+  }
+}

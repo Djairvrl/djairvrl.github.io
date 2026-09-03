@@ -1,0 +1,146 @@
+{
+  "title": "ESTAÇÃO LAVA OLHOS",
+  "parentLabel": "Equipamentos de Proteção Coletiva — EPC",
+  "description": "Produtos da categoria estação lava olhos em equipamentos de proteção coletiva — epc.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Equipamentos de Proteção Coletiva — EPC",
+      "to": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "label": "ESTAÇÃO LAVA OLHOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10739",
+      "title": "CHUVEIRO LAVA OLHOS PORTATIL 34,1 LITROS",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "AVLIS - HAWS DO BRASIL LTDA",
+      "supplierCode": "117",
+      "manufacturerCode": "LP-075",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/chuveiro-lava-olhos-portatil-341-litros-10739",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "13033",
+      "title": "DUCHA OFTALMICA 500ML PROTCAP SF-005",
+      "brand": "MAVARO",
+      "brandCode": "796",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "SF005",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/ducha-oftalmica-500ml-protcap-sf005-13033",
+      "image": "/products/images/0130/13033.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "10701",
+      "title": "ESPELHO PARA LAVA OLHOS  37X61",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "92326675",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/espelho-para-lava-olhos-37x61-10701",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "3362",
+      "title": "ESTAÇÃO LAVA OLHOS PORTÁTIL DE EMERGÊNCIA L-002 COM BACIA EM INOX - HAWS AVLIS",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "AVLIS - HAWS DO BRASIL LTDA",
+      "supplierCode": "117",
+      "manufacturerCode": "40L-002 B INOX",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/estacao-lava-olhos-portatil-de-emergencia-l002-com-bacia-em-inox--haws-avlis-3362",
+      "image": "/products/images/0033/3362.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "905",
+      "title": "ESTAÇÃO LAVA-OLHOS PORTÁTIL 36L - HAWS AVLIS  REF LP-075",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "AVLIS - HAWS DO BRASIL LTDA",
+      "supplierCode": "117",
+      "manufacturerCode": "40LP-075",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/estacao-lavaolhos-portatil-36l--haws-avlis-ref-lp075-905",
+      "image": "/products/images/0009/905.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "2639",
+      "title": "LIQUID BACTERICIDA PARA LAVA OLHOS 236ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CASALAB COMERCIO ATACADISTA DE EQUIPAMENTOS E SUPRIMENTOS LA",
+      "supplierCode": "1765",
+      "manufacturerCode": "97251",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/liquid-bactericida-para-lava-olhos-236ml-2639",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "7780",
+      "title": "SOLUÇAO CONCENTRADA  BACTERICIDA PARA LAVA-OLHOS 236ML - AVLIS HAWS 9082AB",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "9082AB",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/solucao-concentrada-bactericida-para-lavaolhos-236ml--avlis-haws-9082ab-7780",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--equipamentos-de-protecao-coletiva-epc--estacao-lava-olhos"
+  }
+}

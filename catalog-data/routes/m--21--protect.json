@@ -1,0 +1,53 @@
+{
+  "title": "PROTECT",
+  "parentLabel": "Marca",
+  "description": "Produtos PROTECT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PROTECT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1626",
+      "title": "ÓCULOS DE PROTEÇÃO WAVE POLI-FERR LENTE CINZA CA34653 - PROTECT",
+      "brand": "PROTECT",
+      "brandCode": "21",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "86",
+      "category": "CONTRA IMPACTO",
+      "categorySlug": "contra-impacto",
+      "path": "/oculos-de-protecao-wave-poliferr-lente-cinza-ca34653--protect-1626",
+      "image": "/products/images/0016/1626.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "1627",
+      "title": "ÓCULOS DE PROTEÇÃO WAVE POLI-FERR LENTE INCOLOR CA34653 - PROTECT",
+      "brand": "PROTECT",
+      "brandCode": "21",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "85",
+      "category": "CONTRA IMPACTO",
+      "categorySlug": "contra-impacto",
+      "path": "/oculos-de-protecao-wave-poliferr-lente-incolor-ca34653--protect-1627",
+      "image": "/products/images/0016/1627.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--21--protect"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "CONDUTECK",
+  "parentLabel": "Marca",
+  "description": "Produtos CONDUTECK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CONDUTECK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8177",
+      "title": "ESPIRAL CONDUTECK PRETO 19 MM 3/4 10M",
+      "brand": "CONDUTECK",
+      "brandCode": "571",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "19459",
+      "category": "ACESSÓRIOS PARA CABOS",
+      "categorySlug": "acessorios-para-cabos",
+      "path": "/espiral-conduteck-preto-19-mm-34-10m-8177",
+      "image": "/products/images/0081/8177.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--571--conduteck"
+  }
+}

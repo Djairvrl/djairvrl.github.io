@@ -1,0 +1,87 @@
+{
+  "title": "KARCHER",
+  "parentLabel": "Marca",
+  "description": "Produtos KARCHER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KARCHER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7129",
+      "title": "ASPIRADOR DE PO/AGU KARCHER NT 90/2 INOX",
+      "brand": "KARCHER",
+      "brandCode": "271",
+      "supplier": "HIDROJATO COMERCIO ASSISTENCIA TECNICA E LOCACAO DE MAQUINAS",
+      "supplierCode": "1511",
+      "manufacturerCode": "93983510",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-poagu-karcher-nt-902-inox-7129",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "6242",
+      "title": "ASPIRADOR DE PÓ E ÁGUA 1400W 20L 220V NT 2000 - KARCHER",
+      "brand": "KARCHER",
+      "brandCode": "271",
+      "supplier": "KARCHER INDUSTRIA E COMERCIO LIMITADA",
+      "supplierCode": "1185",
+      "manufacturerCode": "14287110",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/aspirador-de-po-e-agua-1400w-20l-220v-nt-2000--karcher-6242",
+      "image": "/products/images/0062/6242.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "9367",
+      "title": "COMBO ASPIRADOR + JOGO DE CHAVE",
+      "brand": "KARCHER",
+      "brandCode": "271",
+      "supplier": "KARCHER INDUSTRIA E COMERCIO LIMITADA",
+      "supplierCode": "1185",
+      "manufacturerCode": "9367",
+      "category": "ASPIRADORES DE PÓ INDUSTRIAL",
+      "categorySlug": "aspiradores-de-po-industrial",
+      "path": "/combo-aspirador-jogo-de-chave-9367",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    },
+    {
+      "code": "10204",
+      "title": "MANGUEIRA DE SUCCAO DN35 2,0M CPL",
+      "brand": "KARCHER",
+      "brandCode": "271",
+      "supplier": "INDALTEX COMERCIO E SERVICOS LTDA (KARCHER )",
+      "supplierCode": "3249",
+      "manufacturerCode": "93130720",
+      "category": "ASPIRADORES E EXTRATORES",
+      "categorySlug": "aspiradores-e-extratores",
+      "path": "/mangueira-de-succao-dn35-20m-cpl-10204",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--271--karcher"
+  }
+}

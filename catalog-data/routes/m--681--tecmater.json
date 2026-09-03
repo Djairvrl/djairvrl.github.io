@@ -1,0 +1,36 @@
+{
+  "title": "TECMATER",
+  "parentLabel": "Marca",
+  "description": "Produtos TECMATER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECMATER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9443",
+      "title": "PERNEIRA BIDIM JOELHO 3T ACO CA17136",
+      "brand": "TECMATER",
+      "brandCode": "681",
+      "supplier": "MARACCINI FRANCO & FRANCO LTDA",
+      "supplierCode": "2554",
+      "manufacturerCode": "513.002.019",
+      "category": "PERNEIRAS",
+      "categorySlug": "perneiras",
+      "path": "/perneira-bidim-joelho-3t-aco-ca17136-9443",
+      "image": "/products/images/0094/9443.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--681--tecmater"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "ADESIVO",
+  "parentLabel": "Marca",
+  "description": "Produtos ADESIVO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ADESIVO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11004",
+      "title": "ADESIVOS 14X4",
+      "brand": "ADESIVO",
+      "brandCode": "851",
+      "supplier": "SUPERGRAFICA INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1724",
+      "manufacturerCode": "ITEM 1",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivos-14x4-11004",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "11058",
+      "title": "CADASTRO NOVO",
+      "brand": "ADESIVO",
+      "brandCode": "851",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "CADASTRO NOVO 1",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/cadastro-novo-11058",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--851--adesivo"
+  }
+}

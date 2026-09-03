@@ -1,0 +1,112 @@
+{
+  "title": "VALVULAS E REGISTROS",
+  "parentLabel": "Hidraulico",
+  "description": "Produtos da categoria valvulas e registros em hidraulico.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Hidraulico",
+      "to": "/material-de-construcao/hidraulico"
+    },
+    {
+      "label": "VALVULAS E REGISTROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6955",
+      "title": "CONEXAO FEMEA CILIN.ESFERA CR400 3/8 NPT",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "1140745",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/conexao-femea-cilinesfera-cr400-38-npt-6955",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7625",
+      "title": "HIDROMETRO ECOGYRUS QN 1.5 DN 3/4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AEGIS LTDA",
+      "supplierCode": "1746",
+      "manufacturerCode": "1144004",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/hidrometro-ecogyrus-qn-15-dn-34-7625",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "9805",
+      "title": "REGISTRO ESFERA PVC 60MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "15760",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/registro-esfera-pvc-60mm-9805",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "8523",
+      "title": "REPARO SOS VALVULA DESCARGA 1.1/2",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "21497",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/reparo-sos-valvula-descarga-112-8523",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "13355",
+      "title": "VALVULA RETENÇÃO RK4",
+      "brand": "HIDRACOMP",
+      "brandCode": "1230",
+      "supplier": "HIDRACOMP COMPONENTES HIDRAULICOS LTDA",
+      "supplierCode": "6255",
+      "manufacturerCode": "05024",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/valvula-retencao-rk4-13355",
+      "image": "/products/images/0133/13355.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "material-de-construcao--hidraulico--valvulas-e-registros"
+  }
+}

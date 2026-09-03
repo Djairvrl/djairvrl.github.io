@@ -1,0 +1,104 @@
+{
+  "title": "CANON",
+  "parentLabel": "Marca",
+  "description": "Produtos CANON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CANON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6843",
+      "title": "BINOCULO CN 10X30 IS",
+      "brand": "CANON",
+      "brandCode": "361",
+      "supplier": "PARAQUEDAS IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "1394",
+      "manufacturerCode": "GFOCO",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-cn-10x30-is-6843",
+      "image": "/products/images/0068/6843.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7587",
+      "title": "CAMERA EOS T7+ C/ LENTE 18-55MM 2727C143",
+      "brand": "CANON",
+      "brandCode": "361",
+      "supplier": "BRUNO RAMOS DA SILVA COMERCIO DE ARTESANATOS",
+      "supplierCode": "1723",
+      "manufacturerCode": "CFOP6108",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-eos-t7-c-lente-1855mm-2727c143-7587",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8477",
+      "title": "CAMERA EOS T7+ C/ LENTE 18-55MM 2727C143",
+      "brand": "CANON",
+      "brandCode": "361",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "46283",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-eos-t7-c-lente-1855mm-2727c143-8477",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8480",
+      "title": "CASE TRIANGULO PARA CAMERAS",
+      "brand": "CANON",
+      "brandCode": "361",
+      "supplier": "ECLIPSE BOLSAS E ACESSORIOS LTDA",
+      "supplierCode": "2114",
+      "manufacturerCode": "MLB1174531408_32630858547",
+      "category": "ACESSÓRIOS PARA TRANSPORTE E PROTEÇÃO",
+      "categorySlug": "acessorios-para-transporte-e-protecao",
+      "path": "/case-triangulo-para-cameras-8480",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12712",
+      "title": "IMPRESSORA MULTIFUNC GX7010 MEGA TANK CA",
+      "brand": "CANON",
+      "brandCode": "361",
+      "supplier": "TNTINFO COMERCIO DE MATERIAIS",
+      "supplierCode": "3443",
+      "manufacturerCode": "1867",
+      "category": "IMPRESSORAS",
+      "categorySlug": "impressoras",
+      "path": "/impressora-multifunc-gx7010-mega-tank-ca-12712",
+      "image": "/products/images/0127/12712.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--361--canon"
+  }
+}

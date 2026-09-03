@@ -1,0 +1,36 @@
+{
+  "title": "LAGES",
+  "parentLabel": "Marca",
+  "description": "Produtos LAGES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LAGES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6835",
+      "title": "ARMARIO MULT USO ORGANIZADOR MDF",
+      "brand": "LAGES",
+      "brandCode": "392",
+      "supplier": "A REDE ASSESSORIA COMERCIAL LTDA.",
+      "supplierCode": "1430",
+      "manufacturerCode": "306-2",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-mult-uso-organizador-mdf-6835",
+      "image": "/products/images/0068/6835.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--392--lages"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "APS FITAS",
+  "parentLabel": "Marca",
+  "description": "Produtos APS FITAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "APS FITAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12995",
+      "title": "FITA PET VERDE 13MM 15KG.B",
+      "brand": "APS FITAS",
+      "brandCode": "1159",
+      "supplier": "APS COMERCIO DE EMBALAGEM LTDA",
+      "supplierCode": "5999",
+      "manufacturerCode": "MLB2666068299",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/fita-pet-verde-13mm-15kgb-12995",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12957",
+      "title": "KIT SELO METALICO 13MM",
+      "brand": "APS FITAS",
+      "brandCode": "1159",
+      "supplier": "AGILIDADE COMERCIO E IMPORTACAO LTDA",
+      "supplierCode": "5937",
+      "manufacturerCode": "6010",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/kit-selo-metalico-13mm-12957",
+      "image": "/products/images/0129/12957.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1159--aps-fitas"
+  }
+}

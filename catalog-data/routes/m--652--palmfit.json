@@ -1,0 +1,36 @@
+{
+  "title": "PALMFIT",
+  "parentLabel": "Marca",
+  "description": "Produtos PALMFIT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PALMFIT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9182",
+      "title": "LUVA ANTIESTATICA PALM FIT (PAR)",
+      "brand": "PALMFIT",
+      "brandCode": "652",
+      "supplier": "IPSYLON TECNOLOGIA LTDA",
+      "supplierCode": "2424",
+      "manufacturerCode": "1A4-MCINZA",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-antiestatica-palm-fit-par-9182",
+      "image": "/products/images/0091/9182.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--652--palmfit"
+  }
+}

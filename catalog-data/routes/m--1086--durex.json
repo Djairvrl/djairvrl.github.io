@@ -1,0 +1,53 @@
+{
+  "title": "DUREX",
+  "parentLabel": "Marca",
+  "description": "Produtos DUREX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DUREX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12495",
+      "title": "DUREX 3M TRANSP 12X30 1P 346 HB73884",
+      "brand": "DUREX",
+      "brandCode": "1086",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891040149346",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/durex-3m-transp-12x30-1p-346-hb73884-12495",
+      "image": "/products/images/0124/12495.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12984",
+      "title": "FITA ADESIVA \"CUIDADO FRAGIL\" UNITARIA",
+      "brand": "DUREX",
+      "brandCode": "1086",
+      "supplier": "VIEIRA COMERCIO E IMPORTACAO LTDA",
+      "supplierCode": "6025",
+      "manufacturerCode": "FITA-ADES-CFRAGIL-UNIT",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/fita-adesiva-cuidado-fragil-unitaria-12984",
+      "image": "/products/images/0129/12984.png",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1086--durex"
+  }
+}

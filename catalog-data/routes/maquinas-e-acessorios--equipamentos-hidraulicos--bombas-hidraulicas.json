@@ -1,0 +1,78 @@
+{
+  "title": "BOMBAS HIDRÁULICAS",
+  "parentLabel": "Equipamentos Hidráulicos",
+  "description": "Produtos da categoria bombas hidráulicas em equipamentos hidráulicos.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Equipamentos Hidráulicos",
+      "to": "/maquinas-e-acessorios/equipamentos-hidraulicos"
+    },
+    {
+      "label": "BOMBAS HIDRÁULICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7079",
+      "title": "BOMBA HIDR CAPAC 700 BAR MOD P-39 0,77L",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "supplierCode": "806",
+      "manufacturerCode": "1141057",
+      "category": "BOMBAS HIDRÁULICAS",
+      "categorySlug": "bombas-hidraulicas",
+      "path": "/bomba-hidr-capac-700-bar-mod-p39-077l-7079",
+      "image": "/products/images/0070/7079.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "7750",
+      "title": "BOMBA HIDR.MANUAL P-80 S.ACAO 34-700BAR",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "1140677",
+      "category": "BOMBAS HIDRÁULICAS",
+      "categorySlug": "bombas-hidraulicas",
+      "path": "/bomba-hidrmanual-p80-sacao-34700bar-7750",
+      "image": "/products/images/0077/7750.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "2139",
+      "title": "BOMBA HIDRÁULICA MANUAL MODELO P392 DE DUAS VELOCIDADES 700 BAR, 901 CM³ - ENERPAC",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "supplierCode": "806",
+      "manufacturerCode": "1140753",
+      "category": "BOMBAS HIDRÁULICAS",
+      "categorySlug": "bombas-hidraulicas",
+      "path": "/bomba-hidraulica-manual-modelo-p392-de-duas-velocidades-700-bar-901-cm3--enerpac-2139",
+      "image": "/products/images/0021/2139.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "maquinas-e-acessorios--equipamentos-hidraulicos--bombas-hidraulicas"
+  }
+}

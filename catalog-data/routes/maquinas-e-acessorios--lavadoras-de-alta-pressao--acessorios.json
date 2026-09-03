@@ -1,0 +1,44 @@
+{
+  "title": "ACESSÓRIOS",
+  "parentLabel": "Lavadoras De Alta Pressão",
+  "description": "Produtos da categoria acessórios em lavadoras de alta pressão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Lavadoras De Alta Pressão",
+      "to": "/maquinas-e-acessorios/lavadoras-de-alta-pressao"
+    },
+    {
+      "label": "ACESSÓRIOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7451",
+      "title": "PISTOLA D'AGUA LAVADORA ALTA PRESSAO REC",
+      "brand": "IMPORT",
+      "brandCode": "470",
+      "supplier": "M E GOMES DA SILVA",
+      "supplierCode": "1658",
+      "manufacturerCode": "MLB3112523333_176311403018",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/pistola-dagua-lavadora-alta-pressao-rec-7451",
+      "image": "/products/images/0074/7451.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--lavadoras-de-alta-pressao--acessorios"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "BLUE",
+  "parentLabel": "Marca",
+  "description": "Produtos BLUE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BLUE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12084",
+      "title": "FONTE DE ALIMENTACAO",
+      "brand": "BLUE",
+      "brandCode": "1028",
+      "supplier": "ZANA DIGITAL LTDA",
+      "supplierCode": "5498",
+      "manufacturerCode": "FT100",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/fonte-de-alimentacao-12084",
+      "image": "/products/images/0120/12084.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1028--blue"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "ALLTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos ALLTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALLTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1445",
+      "title": "FILTRO QUIM VO/GA P/RESP MASTT",
+      "brand": "ALLTEC",
+      "brandCode": "54",
+      "supplier": "ALLTEC DO BRASIL LTDA",
+      "supplierCode": "91",
+      "manufacturerCode": "CMC-1",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/filtro-quim-voga-presp-mastt-1445",
+      "image": "/products/images/0014/1445.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "1446",
+      "title": "FILTRO QUIMICO- VO P/RESP MASTT",
+      "brand": "ALLTEC",
+      "brandCode": "54",
+      "supplier": "ALLTEC DO BRASIL LTDA",
+      "supplierCode": "91",
+      "manufacturerCode": "CMA-1",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/filtro-quimico-vo-presp-mastt-1446",
+      "image": "/products/images/0014/1446.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "1146",
+      "title": "RESPIRADOR SEMI FACIAL MASTT 2401 COM FILTRO CA10463 - ALLTEC",
+      "brand": "ALLTEC",
+      "brandCode": "54",
+      "supplier": "ALLTEC DO BRASIL LTDA",
+      "supplierCode": "91",
+      "manufacturerCode": "529",
+      "category": "SEMIFACIAL",
+      "categorySlug": "semifacial",
+      "path": "/respirador-semi-facial-mastt-2401-com-filtro-ca10463--alltec-1146",
+      "image": "/products/images/0011/1146.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--54--alltec"
+  }
+}

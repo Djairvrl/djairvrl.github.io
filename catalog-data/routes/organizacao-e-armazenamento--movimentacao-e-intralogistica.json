@@ -1,0 +1,22 @@
+{
+  "title": "Movimentação e Intralogística",
+  "parentLabel": "Organização e Armazenamento",
+  "description": "Soluções de movimentação e intralogística disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Movimentação e Intralogística"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "organizacao-e-armazenamento--movimentacao-e-intralogistica"
+  }
+}

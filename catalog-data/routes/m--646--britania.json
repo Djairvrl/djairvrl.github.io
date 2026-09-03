@@ -1,0 +1,70 @@
+{
+  "title": "BRITANIA",
+  "parentLabel": "Marca",
+  "description": "Produtos BRITANIA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRITANIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10090",
+      "title": "CAFETEIRA 1,2 LITROS INOX 30 TEMP BRITÂNIA",
+      "brand": "BRITANIA",
+      "brandCode": "646",
+      "supplier": "AFC COMERCIO VAREJISTA DE COMPONENTES ELETRONICOS LTDA",
+      "supplierCode": "3022",
+      "manufacturerCode": "M-12313",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-12-litros-inox-30-temp-britania-10090",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9067",
+      "title": "CIRCULADOR DE AR C50 OSCILLATION 220V",
+      "brand": "BRITANIA",
+      "brandCode": "646",
+      "supplier": "J. C. M. NITEROI REFRIGERACAO LTDA",
+      "supplierCode": "2380",
+      "manufacturerCode": "32524",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/circulador-de-ar-c50-oscillation-220v-9067",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13363",
+      "title": "COPO LIQ BRITAN DIAMANT/ELECTROLUX",
+      "brand": "BRITANIA",
+      "brandCode": "646",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896483093546",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/copo-liq-britan-diamantelectrolux-13363",
+      "image": "/products/images/0133/13363.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--646--britania"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "TIFOR",
+  "parentLabel": "Marca",
+  "description": "Produtos TIFOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TIFOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8221",
+      "title": "GUINCHO MANUAL DE ELEV - 4 TONELADAS",
+      "brand": "TIFOR",
+      "brandCode": "577",
+      "supplier": "KELTER ELETRONICOS LTDA",
+      "supplierCode": "1998",
+      "manufacturerCode": "KGM4T",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/guincho-manual-de-elev--4-toneladas-8221",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--577--tifor"
+  }
+}

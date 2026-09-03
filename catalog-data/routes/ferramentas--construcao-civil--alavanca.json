@@ -1,0 +1,95 @@
+{
+  "title": "ALAVANCA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria alavanca em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "ALAVANCA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9515",
+      "title": "ALAVANCA CURVA COM CABO 36\" VONDER REF 3599036100",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3599036100",
+      "category": "ALAVANCA",
+      "categorySlug": "alavanca",
+      "path": "/alavanca-curva-com-cabo-36-vonder-ref-3599036100-9515",
+      "image": "/products/images/0095/9515.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1554",
+      "title": "ALAVANCA REDONDA EM AÇO CABONO ESPECIAL LISO 1\" X 1,50M - SÃO ROMÃO 1723",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "INDSUTRIA DE FORJADOS SAO ROMAO",
+      "supplierCode": "484",
+      "manufacturerCode": "1758",
+      "category": "ALAVANCA",
+      "categorySlug": "alavanca",
+      "path": "/alavanca-redonda-em-aco-cabono-especial-liso-1-x-150m--sao-romao-1723-1554",
+      "image": "/products/images/0015/1554.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1553",
+      "title": "ALAVANCA REDONDA EM AÇO CARBONO ESPECIAL LISO 1\" X 1,50M - SÃO ROMÃO 1723",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "INDSUTRIA DE FORJADOS SAO ROMAO",
+      "supplierCode": "484",
+      "manufacturerCode": "1723",
+      "category": "ALAVANCA",
+      "categorySlug": "alavanca",
+      "path": "/alavanca-redonda-em-aco-carbono-especial-liso-1-x-150m--sao-romao-1723-1553",
+      "image": "/products/images/0015/1553.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "10138",
+      "title": "ALAVANCA/PONTEIRO 1,8M",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3599015000",
+      "category": "ALAVANCA",
+      "categorySlug": "alavanca",
+      "path": "/alavancaponteiro-18m-10138",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--construcao-civil--alavanca"
+  }
+}

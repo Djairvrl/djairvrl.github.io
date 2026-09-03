@@ -1,0 +1,36 @@
+{
+  "title": "PADRAO FORTE",
+  "parentLabel": "Marca",
+  "description": "Produtos PADRAO FORTE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PADRAO FORTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11300",
+      "title": "TERMINAL PRE ISOLADO TUB DUPLO 1,50MM PT",
+      "brand": "PADRAO FORTE",
+      "brandCode": "920",
+      "supplier": "LUMIX COMERCIAL LTDA",
+      "supplierCode": "3894",
+      "manufacturerCode": "7538",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-pre-isolado-tub-duplo-150mm-pt-11300",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--920--padrao-forte"
+  }
+}

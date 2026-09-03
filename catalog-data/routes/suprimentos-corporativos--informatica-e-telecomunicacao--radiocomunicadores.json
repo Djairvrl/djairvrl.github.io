@@ -1,0 +1,146 @@
+{
+  "title": "RADIOCOMUNICADORES",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria radiocomunicadores em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "RADIOCOMUNICADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12703",
+      "title": "KIT 2 RADIOS COMUNICADOR BAOFENG",
+      "brand": "HOLD ON",
+      "brandCode": "1122",
+      "supplier": "48.688.060 DANIEL OCCULATE JUNIOR",
+      "supplierCode": "5884",
+      "manufacturerCode": "MLB4482815261",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/kit-2-radios-comunicador-baofeng-12703",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12778",
+      "title": "MICROFONE PORTATIL 4075 DEP-550",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "55.465.847 VICTOR MATHEUS DE ANDRADE RAMOS",
+      "supplierCode": "5927",
+      "manufacturerCode": "( M 119910 A M 119927",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/microfone-portatil-4075-dep550-12778",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8963",
+      "title": "RADIO COMUNICADOR PORTATIL MODELO DEP450",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "INTELISENSE RADIOCOMUNICACAO LTDA",
+      "supplierCode": "2098",
+      "manufacturerCode": "LAH01QDC9JA2AN",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/radio-comunicador-portatil-modelo-dep450-8963",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "7483",
+      "title": "RADIO COMUNICADOR RC 4002",
+      "brand": "INTELBRAS",
+      "brandCode": "300",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "825",
+      "manufacturerCode": "42886",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/radio-comunicador-rc-4002-7483",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "7604",
+      "title": "RADIO COMUNICADOR RC 4002",
+      "brand": "INTELBRAS",
+      "brandCode": "300",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "825",
+      "manufacturerCode": "42519",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/radio-comunicador-rc-4002-7604",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12466",
+      "title": "RADIO WALKIE TALKIE MULTI BAND BLUETOOTH",
+      "brand": "BAOFENG",
+      "brandCode": "1082",
+      "supplier": "MARX FAUX LTDA",
+      "supplierCode": "5728",
+      "manufacturerCode": "UV-32",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/radio-walkie-talkie-multi-band-bluetooth-12466",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6717",
+      "title": "RÁDIO COMUNICADORES RC 3002 G2 ALCANCE 20KM COM 16 CANAIS (PAR) - INTELBRAS",
+      "brand": "INTELBRAS",
+      "brandCode": "300",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "825",
+      "manufacturerCode": "44169",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/radio-comunicadores-rc-3002-g2-alcance-20km-com-16-canais-par--intelbras-6717",
+      "image": "/products/images/0067/6717.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--radiocomunicadores"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "GRAXAS PARA ROLAMENTOS",
+  "parentLabel": "Graxas Industriais",
+  "description": "Produtos da categoria graxas para rolamentos em graxas industriais.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos",
+      "to": "/lubrificantes-e-fluidos"
+    },
+    {
+      "label": "Graxas Industriais",
+      "to": "/lubrificantes-e-fluidos/graxas-industriais"
+    },
+    {
+      "label": "GRAXAS PARA ROLAMENTOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11597",
+      "title": "GRAXA ARCANOL LOAD 400-25 KG T",
+      "brand": "SCHAEFFLER",
+      "brandCode": "959",
+      "supplier": "ROLESTE ROLAMENTOS LTDA",
+      "supplierCode": "5114",
+      "manufacturerCode": "00037536",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/graxa-arcanol-load-40025-kg-t-11597",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    },
+    {
+      "code": "4364",
+      "title": "GRAXA BRANCA DE LÍTIO SPRAY 400ML SPECIALIST -  WD-40",
+      "brand": "WD40",
+      "brandCode": "220",
+      "supplier": "WD-40 COMPANY BRASIL LTDA.",
+      "supplierCode": "915",
+      "manufacturerCode": "497681",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/graxa-branca-de-litio-spray-400ml-specialist--wd40-4364",
+      "image": "/products/images/0043/4364.jpg",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    },
+    {
+      "code": "10161",
+      "title": "GRAXA ROLAMENTO ARCANOL LOAD400 25KG",
+      "brand": "FAG",
+      "brandCode": "755",
+      "supplier": "ENCOPEL COMERCIO DE ROLAMENTOS E PECAS LTDA",
+      "supplierCode": "3204",
+      "manufacturerCode": "32345",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/graxa-rolamento-arcanol-load400-25kg-10161",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    },
+    {
+      "code": "10994",
+      "title": "GRAXA SKF ROLAMENTOS LGMT 2/0.4",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ABECOM ROLAMENTOS E PRODUTOS DE BORRACHA LTDA",
+      "supplierCode": "4314",
+      "manufacturerCode": "89390",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/graxa-skf-rolamentos-lgmt-204-10994",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    },
+    {
+      "code": "12700",
+      "title": "KLUBERSYNTH BEM 44-4600 25KG",
+      "brand": "KLUBER",
+      "brandCode": "380",
+      "supplier": "KLUBER LUBRICATION LUBRIFICANTES ESPECIAIS LTDA",
+      "supplierCode": "1418",
+      "manufacturerCode": "0043190177",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/klubersynth-bem-444600-25kg-12700",
+      "image": "/products/images/0127/12700.jpg",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    },
+    {
+      "code": "13034",
+      "title": "LUBRAX LITH EP 2 - BL 20 K",
+      "brand": "LUBRAX",
+      "brandCode": "1131",
+      "supplier": "PARELHAS GAS LTDA",
+      "supplierCode": "5996",
+      "manufacturerCode": "258",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/lubrax-lith-ep-2--bl-20-k-13034",
+      "image": "/products/images/0130/13034.png",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "lubrificantes-e-fluidos--graxas-industriais--graxas-para-rolamentos"
+  }
+}

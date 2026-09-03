@@ -1,0 +1,87 @@
+{
+  "title": "ALUMIFER",
+  "parentLabel": "Marca",
+  "description": "Produtos ALUMIFER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALUMIFER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9496",
+      "title": "P.F.L TB F Q 20X20 1,20 CH.18",
+      "brand": "ALUMIFER",
+      "brandCode": "690",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "831030",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/pfl-tb-f-q-20x20-120-ch18-9496",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "9497",
+      "title": "P.F.L TB F Q 30X30 1,20 CH.18",
+      "brand": "ALUMIFER",
+      "brandCode": "690",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "831055",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/pfl-tb-f-q-30x30-120-ch18-9497",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "9495",
+      "title": "PERFIL U DO 2X1 CH14 1.80MM 6MT",
+      "brand": "ALUMIFER",
+      "brandCode": "690",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "570049",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/perfil-u-do-2x1-ch14-180mm-6mt-9495",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "9498",
+      "title": "TUBO GALV. 2 1.90 CH.14 60.30 LS",
+      "brand": "ALUMIFER",
+      "brandCode": "690",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "930057",
+      "category": "TUBOS",
+      "categorySlug": "tubos",
+      "path": "/tubo-galv-2-190-ch14-6030-ls-9498",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--690--alumifer"
+  }
+}

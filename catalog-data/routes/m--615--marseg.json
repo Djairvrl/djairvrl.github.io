@@ -1,0 +1,53 @@
+{
+  "title": "MARSEG",
+  "parentLabel": "Marca",
+  "description": "Produtos MARSEG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARSEG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8228",
+      "title": "PERNEIRA 3 TALAS COM VELCRO E PRESILHA CA44234 - MARSEG",
+      "brand": "MARSEG",
+      "brandCode": "615",
+      "supplier": "COMÉRCIO VAREJISTA DE FERRAGENS E FERRAMENTAS",
+      "supplierCode": "2195",
+      "manufacturerCode": "5468",
+      "category": "PERNEIRAS",
+      "categorySlug": "perneiras",
+      "path": "/perneira-3-talas-com-velcro-e-presilha-ca44234--marseg-8228",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "11044",
+      "title": "PERNEIRA 3 TALAS FECHADA CA 44208",
+      "brand": "MARSEG",
+      "brandCode": "615",
+      "supplier": "OLIVEIRA FABRICACAO DE EQUIPAMENTOS DE PROTECAO INDIVIDUAL L",
+      "supplierCode": "4011",
+      "manufacturerCode": "2",
+      "category": "PERNEIRAS",
+      "categorySlug": "perneiras",
+      "path": "/perneira-3-talas-fechada-ca-44208-11044",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--615--marseg"
+  }
+}

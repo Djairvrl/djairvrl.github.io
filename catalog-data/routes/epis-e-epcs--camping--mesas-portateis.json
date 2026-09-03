@@ -1,0 +1,61 @@
+{
+  "title": "MESAS PORTÁTEIS",
+  "parentLabel": "Camping",
+  "description": "Produtos da categoria mesas portáteis em camping.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Camping",
+      "to": "/epis-e-epcs/camping"
+    },
+    {
+      "label": "MESAS PORTÁTEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8124",
+      "title": "MESA DOBRAVEL PORTATIL MAL 120X60",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ALPHA CONSULTORIA E SERVICOS LTDA",
+      "supplierCode": "1736",
+      "manufacturerCode": "IDMESA120X60",
+      "category": "MESAS PORTÁTEIS",
+      "categorySlug": "mesas-portateis",
+      "path": "/mesa-dobravel-portatil-mal-120x60-8124",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    },
+    {
+      "code": "10127",
+      "title": "MESA RETANGULAR DOBRAVEL AO MEIO 1,22M",
+      "brand": "DURATEC",
+      "brandCode": "751",
+      "supplier": "MULTIENERGY IMPORTACAO, EXPORTACAO E COMERCIO LTDA",
+      "supplierCode": "3100",
+      "manufacturerCode": "MRT122",
+      "category": "MESAS PORTÁTEIS",
+      "categorySlug": "mesas-portateis",
+      "path": "/mesa-retangular-dobravel-ao-meio-122m-10127",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--camping--mesas-portateis"
+  }
+}

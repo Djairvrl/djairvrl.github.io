@@ -1,0 +1,95 @@
+{
+  "title": "PVC",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria pvc em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "PVC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1234",
+      "title": "LUVA PETRONIT PRETA PVC 35CM CA16397",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "25335",
+      "category": "PVC",
+      "categorySlug": "pvc",
+      "path": "/luva-petronit-preta-pvc-35cm-ca16397-1234",
+      "image": "/products/images/0012/1234.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1188",
+      "title": "LUVA PVC PALMA ÁSPERA 36CM TAM G VERDE CA 37127 - VOLK DO BRASIL REF. 102510403-G",
+      "brand": "VOLK DO BRASIL",
+      "brandCode": "120",
+      "supplier": "VOLK DO BRASIL LTDA - MTZ",
+      "supplierCode": "349",
+      "manufacturerCode": "102510403-G",
+      "category": "PVC",
+      "categorySlug": "pvc",
+      "path": "/luva-pvc-palma-aspera-36cm-tam-g-verde-ca-37127--volk-do-brasil-ref-102510403g-1188",
+      "image": "/products/images/0011/1188.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "2756",
+      "title": "LUVA PVC PALMA ÁSPERA 46CM TAM G VERDE CA 37127 - VOLK DO BRASIL REF. 102510503-G",
+      "brand": "VOLK DO BRASIL",
+      "brandCode": "120",
+      "supplier": "VOLK DO BRASIL LTDA - MTZ",
+      "supplierCode": "349",
+      "manufacturerCode": "102510503-G",
+      "category": "PVC",
+      "categorySlug": "pvc",
+      "path": "/luva-pvc-palma-aspera-46cm-tam-g-verde-ca-37127--volk-do-brasil-ref-102510503g-2756",
+      "image": "/products/images/0027/2756.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "9442",
+      "title": "LUVA VINIL S/ AMIDO TAM G CA 20722",
+      "brand": "VOLK DO BRASIL",
+      "brandCode": "120",
+      "supplier": "VOLK DO BRASIL LTDA - MTZ",
+      "supplierCode": "349",
+      "manufacturerCode": "108107711",
+      "category": "PVC",
+      "categorySlug": "pvc",
+      "path": "/luva-vinil-s-amido-tam-g-ca-20722-9442",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--pvc"
+  }
+}

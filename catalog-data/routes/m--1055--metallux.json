@@ -1,0 +1,36 @@
+{
+  "title": "METALLUX",
+  "parentLabel": "Marca",
+  "description": "Produtos METALLUX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "METALLUX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12263",
+      "title": "CARRO MACA ESMALTADO C/GRADE E RODIZIO",
+      "brand": "METALLUX",
+      "brandCode": "1055",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "102874",
+      "category": "MACAS E PRANCHAS DE RESGATE",
+      "categorySlug": "macas-e-pranchas-de-resgate",
+      "path": "/carro-maca-esmaltado-cgrade-e-rodizio-12263",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1055--metallux"
+  }
+}

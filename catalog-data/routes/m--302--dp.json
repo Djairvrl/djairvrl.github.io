@@ -1,0 +1,36 @@
+{
+  "title": "DP",
+  "parentLabel": "Marca",
+  "description": "Produtos DP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6582",
+      "title": "LANTERNA HOLOFOTE LED RECARREGAVEL 100W",
+      "brand": "DP",
+      "brandCode": "302",
+      "supplier": "RING LIGHT BRASIL OFICIAL EIRELI",
+      "supplierCode": "1261",
+      "manufacturerCode": "LANTERNA",
+      "category": "PORTE GRANDE",
+      "categorySlug": "porte-grande",
+      "path": "/lanterna-holofote-led-recarregavel-100w-6582",
+      "image": "/products/images/0065/6582.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--302--dp"
+  }
+}

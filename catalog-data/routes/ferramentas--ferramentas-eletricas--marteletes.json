@@ -1,0 +1,163 @@
+{
+  "title": "MARTELETES",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria marteletes em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "MARTELETES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12606",
+      "title": "FURADEIRA MARTELETE COMBINADA 800W 220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "HR2670-220V",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/furadeira-martelete-combinada-800w-220v-12606",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7467",
+      "title": "MARLETETE PERFURADOR GBH 2-24 D 820W 220V - BOSCH 06112A02E6",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06112A02E6000",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/marletete-perfurador-gbh-224-d-820w-220v--bosch-06112a02e6-7467",
+      "image": "/products/images/0074/7467.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7239",
+      "title": "MARTELETE COMBINAD 24MM 800W 15/16\" 220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "HR2470-220V",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/martelete-combinad-24mm-800w-1516-220v-7239",
+      "image": "/products/images/0072/7239.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "8030",
+      "title": "MARTELETE COMBINADO 40MM A BATERIA 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DHR400T2N-220V",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/martelete-combinado-40mm-a-bateria-18v-8030",
+      "image": "/products/images/0080/8030.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7820",
+      "title": "MARTELETE COMBINADO SDS PLUS  2,4J A BATERIA18V - MAKITA DHR242Z",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DHR242Z",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/martelete-combinado-sds-plus-24j-a-bateria18v--makita-dhr242z-7820",
+      "image": "/products/images/0078/7820.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2779",
+      "title": "MARTELETE PERFURADOR E ROMPEDOR GBH 2-24D SDS-PLUS 820W 220V COM MALETA HEAVY DUTY - BOSCH",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06112A02E0000",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/martelete-perfurador-e-rompedor-gbh-224d-sdsplus-820w-220v-com-maleta-heavy-duty--bosch-2779",
+      "image": "/products/images/0027/2779.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1108",
+      "title": "MARTELETE PERFURADOR E ROMPEDOR GBH 2-26 DRE 800W 220V - BOSCH 06112537E0",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "06112537E0000",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/martelete-perfurador-e-rompedor-gbh-226-dre-800w-220v--bosch-06112537e0-1108",
+      "image": "/products/images/0011/1108.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7817",
+      "title": "MARTELETE ROTATIVO ROMPEDOR A BAT 18V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DHR171Z",
+      "category": "MARTELETES",
+      "categorySlug": "marteletes",
+      "path": "/martelete-rotativo-rompedor-a-bat-18v-7817",
+      "image": "/products/images/0078/7817.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "ferramentas--ferramentas-eletricas--marteletes"
+  }
+}

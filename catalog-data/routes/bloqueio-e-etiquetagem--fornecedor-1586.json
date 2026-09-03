@@ -1,0 +1,269 @@
+{
+  "title": "Bloqueio e Etiquetagem",
+  "parentLabel": "Departamento",
+  "description": "Produtos de JD COMERCIO ELETRONICO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem"
+    }
+  ],
+  "children": [
+    {
+      "name": "Cadeados de Bloqueio",
+      "slug": "cadeados-de-bloqueio",
+      "path": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio",
+      "count": 15,
+      "categories": [
+        {
+          "name": "CADEADO HASTE ALUMÍNIO",
+          "slug": "cadeado-haste-aluminio",
+          "path": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio/cadeado-haste-aluminio",
+          "count": 1
+        },
+        {
+          "name": "CADEADO HASTE INOX",
+          "slug": "cadeado-haste-inox",
+          "path": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio/cadeado-haste-inox",
+          "count": 2
+        },
+        {
+          "name": "CADEADO HASTE METÁLICA",
+          "slug": "cadeado-haste-metalica",
+          "path": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio/cadeado-haste-metalica",
+          "count": 2
+        },
+        {
+          "name": "CADEADO HASTE PLÁSTICA",
+          "slug": "cadeado-haste-plastica",
+          "path": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio/cadeado-haste-plastica",
+          "count": 7
+        },
+        {
+          "name": "CAPA DE PROTEÇÃO PARA CADEADOS",
+          "slug": "capa-de-protecao-para-cadeados",
+          "path": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio/capa-de-protecao-para-cadeados",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Etiquetas e Sinalização de Segurança",
+      "slug": "etiquetas-e-sinalizacao-de-seguranca",
+      "path": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca",
+      "count": 25,
+      "categories": [
+        {
+          "name": "ETIQUETAS DE BLOQUEIO",
+          "slug": "etiquetas-de-bloqueio",
+          "path": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca/etiquetas-de-bloqueio",
+          "count": 5
+        },
+        {
+          "name": "ETIQUETAS PERSONALIZADAS",
+          "slug": "etiquetas-personalizadas",
+          "path": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca/etiquetas-personalizadas",
+          "count": 10
+        },
+        {
+          "name": "ETIQUETAS TERMOSENSÍVEIS",
+          "slug": "etiquetas-termosensiveis",
+          "path": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca/etiquetas-termosensiveis",
+          "count": 2
+        },
+        {
+          "name": "LACRES DE SEGURANÇA",
+          "slug": "lacres-de-seguranca",
+          "path": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca/lacres-de-seguranca",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Garras, Caixas e Estações",
+      "slug": "garras-caixas-e-estacoes",
+      "path": "/bloqueio-e-etiquetagem/garras-caixas-e-estacoes",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Dispositivos de Bloqueio Mecânico e Elétrico",
+      "slug": "dispositivos-de-bloqueio-mecanico-e-eletrico",
+      "path": "/bloqueio-e-etiquetagem/dispositivos-de-bloqueio-mecanico-e-eletrico",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Kits e Armazenamento",
+      "slug": "kits-e-armazenamento",
+      "path": "/bloqueio-e-etiquetagem/kits-e-armazenamento",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Bloqueios De Válvulas",
+      "slug": "bloqueios-de-valvulas",
+      "path": "/bloqueio-e-etiquetagem/bloqueios-de-valvulas",
+      "count": 11,
+      "categories": [
+        {
+          "name": "BLOQUEIO DE VÁLVULA MULTIUSO",
+          "slug": "bloqueio-de-valvula-multiuso",
+          "path": "/bloqueio-e-etiquetagem/bloqueios-de-valvulas/bloqueio-de-valvula-multiuso",
+          "count": 6
+        },
+        {
+          "name": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO",
+          "slug": "bloqueio-valvula-registro-gaveta-globo",
+          "path": "/bloqueio-e-etiquetagem/bloqueios-de-valvulas/bloqueio-valvula-registro-gaveta-globo",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Bloqueios Elétricos",
+      "slug": "bloqueios-eletricos",
+      "path": "/bloqueio-e-etiquetagem/bloqueios-eletricos",
+      "count": 28,
+      "categories": [
+        {
+          "name": "BLOQUEIO DE BOTÕES E FUSÍVEIS",
+          "slug": "bloqueio-de-botoes-e-fusiveis",
+          "path": "/bloqueio-e-etiquetagem/bloqueios-eletricos/bloqueio-de-botoes-e-fusiveis",
+          "count": 2
+        },
+        {
+          "name": "BLOQUEIO DE DISJUNTORES",
+          "slug": "bloqueio-de-disjuntores",
+          "path": "/bloqueio-e-etiquetagem/bloqueios-eletricos/bloqueio-de-disjuntores",
+          "count": 19
+        },
+        {
+          "name": "BLOQUEIO DE PLUGUES E PONTES",
+          "slug": "bloqueio-de-plugues-e-pontes",
+          "path": "/bloqueio-e-etiquetagem/bloqueios-eletricos/bloqueio-de-plugues-e-pontes",
+          "count": 5
+        },
+        {
+          "name": "BLOQUEIO PARA ROTOR",
+          "slug": "bloqueio-para-rotor",
+          "path": "/bloqueio-e-etiquetagem/bloqueios-eletricos/bloqueio-para-rotor",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Caixas E Estações De Bloqueio",
+      "slug": "caixas-e-estacoes-de-bloqueio",
+      "path": "/bloqueio-e-etiquetagem/caixas-e-estacoes-de-bloqueio",
+      "count": 10,
+      "categories": [
+        {
+          "name": "CAIXAS DE BLOQUEIO",
+          "slug": "caixas-de-bloqueio",
+          "path": "/bloqueio-e-etiquetagem/caixas-e-estacoes-de-bloqueio/caixas-de-bloqueio",
+          "count": 6
+        },
+        {
+          "name": "ESTAÇÕES DE BLOQUEIO",
+          "slug": "estacoes-de-bloqueio",
+          "path": "/bloqueio-e-etiquetagem/caixas-e-estacoes-de-bloqueio/estacoes-de-bloqueio",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Garras De Bloqueio",
+      "slug": "garras-de-bloqueio",
+      "path": "/bloqueio-e-etiquetagem/garras-de-bloqueio",
+      "count": 12,
+      "categories": [
+        {
+          "name": "GARRAS DE BLOQUEIO EM AÇO",
+          "slug": "garras-de-bloqueio-em-aco",
+          "path": "/bloqueio-e-etiquetagem/garras-de-bloqueio/garras-de-bloqueio-em-aco",
+          "count": 4
+        },
+        {
+          "name": "GARRAS DE BLOQUEIO EM PLÁSTICO",
+          "slug": "garras-de-bloqueio-em-plastico",
+          "path": "/bloqueio-e-etiquetagem/garras-de-bloqueio/garras-de-bloqueio-em-plastico",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Kits De Bloqueio",
+      "slug": "kits-de-bloqueio",
+      "path": "/bloqueio-e-etiquetagem/kits-de-bloqueio",
+      "count": 2,
+      "categories": [
+        {
+          "name": "KITS DE BLOQUEIO LOTO",
+          "slug": "kits-de-bloqueio-loto",
+          "path": "/bloqueio-e-etiquetagem/kits-de-bloqueio/kits-de-bloqueio-loto",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Malas E Bolsas De Bloqueio",
+      "slug": "malas-e-bolsas-de-bloqueio",
+      "path": "/bloqueio-e-etiquetagem/malas-e-bolsas-de-bloqueio",
+      "count": 1,
+      "categories": [
+        {
+          "name": "MALAS",
+          "slug": "malas",
+          "path": "/bloqueio-e-etiquetagem/malas-e-bolsas-de-bloqueio/malas",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1586",
+    "name": "JD COMERCIO ELETRONICO LTDA"
+  },
+  "products": [
+    {
+      "code": "7341",
+      "title": "ETIQUETA PARA REGISTRO DE TEMPERATURA A",
+      "brand": "THERMAX",
+      "brandCode": "447",
+      "supplier": "JD COMERCIO ELETRONICO LTDA",
+      "supplierCode": "1586",
+      "manufacturerCode": "M10STHERGBD 01P1",
+      "category": "ETIQUETAS TERMOSENSÍVEIS",
+      "categorySlug": "etiquetas-termosensiveis",
+      "path": "/etiqueta-para-registro-de-temperatura-a-7341",
+      "image": "/products/images/0073/7341.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "7342",
+      "title": "ETIQUETA PARA REGISTRO DE TEMPERATURA B",
+      "brand": "THERMAX",
+      "brandCode": "447",
+      "supplier": "JD COMERCIO ELETRONICO LTDA",
+      "supplierCode": "1586",
+      "manufacturerCode": "M10STHERGAD 01P1 - 1",
+      "category": "ETIQUETAS TERMOSENSÍVEIS",
+      "categorySlug": "etiquetas-termosensiveis",
+      "path": "/etiqueta-para-registro-de-temperatura-b-7342",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "bloqueio-e-etiquetagem--fornecedor-1586"
+  }
+}

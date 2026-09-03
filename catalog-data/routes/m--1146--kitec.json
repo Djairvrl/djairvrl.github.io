@@ -1,0 +1,36 @@
+{
+  "title": "KITEC",
+  "parentLabel": "Marca",
+  "description": "Produtos KITEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KITEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12872",
+      "title": "CARREGADOR PORT DE BATERIAS 12/24V 200AH",
+      "brand": "KITEC",
+      "brandCode": "1146",
+      "supplier": "VIRTUAL DISTRIBUIDORA DE MATERIAL ELETRICO LTDA",
+      "supplierCode": "5984",
+      "manufacturerCode": "7898575260195",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-port-de-baterias-1224v-200ah-12872",
+      "image": "/products/images/0128/12872.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1146--kitec"
+  }
+}

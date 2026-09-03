@@ -1,0 +1,61 @@
+{
+  "title": "TESTADORES DE ISOLAÇÃO",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria testadores de isolação em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "TESTADORES DE ISOLAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10024",
+      "title": "FLV11404 INFLADOR DE LUVAS MOD  REDUZIDO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "RITZ MG COMERCIAL LTDA",
+      "supplierCode": "2890",
+      "manufacturerCode": "0666020460",
+      "category": "TESTADORES DE ISOLAÇÃO",
+      "categorySlug": "testadores-de-isolacao",
+      "path": "/flv11404-inflador-de-luvas-mod-reduzido-10024",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3546",
+      "title": "TESTADOR DE ISOLACAO 1550C",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "3665021",
+      "category": "TESTADORES DE ISOLAÇÃO",
+      "categorySlug": "testadores-de-isolacao",
+      "path": "/testador-de-isolacao-1550c-3546",
+      "image": "/products/images/0035/3546.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--testadores-de-isolacao"
+  }
+}

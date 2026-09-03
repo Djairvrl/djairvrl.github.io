@@ -1,0 +1,515 @@
+{
+  "title": "Suprimentos BOP",
+  "parentLabel": "Departamento",
+  "description": "Produtos de DIMENSIONAL BRASIL SOLUCOES LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP"
+    }
+  ],
+  "children": [
+    {
+      "name": "Material Elétrico Industrial",
+      "slug": "material-eletrico-industrial",
+      "path": "/suprimentos-bop/material-eletrico-industrial",
+      "count": 283,
+      "categories": [
+        {
+          "name": "ACIONAMENTO",
+          "slug": "acionamento",
+          "path": "/suprimentos-bop/material-eletrico-industrial/acionamento",
+          "count": 3
+        },
+        {
+          "name": "ANÉIS DESLIZANTES E ESCOVAS",
+          "slug": "aneis-deslizantes-e-escovas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/aneis-deslizantes-e-escovas",
+          "count": 1
+        },
+        {
+          "name": "AUTOMAÇÃO E ACIONAMENTOS",
+          "slug": "automacao-e-acionamentos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/automacao-e-acionamentos",
+          "count": 8
+        },
+        {
+          "name": "AUTOTRANSFORMADORES",
+          "slug": "autotransformadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/autotransformadores",
+          "count": 2
+        },
+        {
+          "name": "BARRAMENTO",
+          "slug": "barramento",
+          "path": "/suprimentos-bop/material-eletrico-industrial/barramento",
+          "count": 2
+        },
+        {
+          "name": "BATERIAS ESTACIONÁRIAS",
+          "slug": "baterias-estacionarias",
+          "path": "/suprimentos-bop/material-eletrico-industrial/baterias-estacionarias",
+          "count": 18
+        },
+        {
+          "name": "BOTÕES E SINALEIROS",
+          "slug": "botoes-e-sinaleiros",
+          "path": "/suprimentos-bop/material-eletrico-industrial/botoes-e-sinaleiros",
+          "count": 7
+        },
+        {
+          "name": "CABOS ESPECIAIS",
+          "slug": "cabos-especiais",
+          "path": "/suprimentos-bop/material-eletrico-industrial/cabos-especiais",
+          "count": 3
+        },
+        {
+          "name": "CAIXA DE PASSAGEM INDUSTRIAL",
+          "slug": "caixa-de-passagem-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/caixa-de-passagem-industrial",
+          "count": 1
+        },
+        {
+          "name": "CAIXAS E BOTOEIRAS",
+          "slug": "caixas-e-botoeiras",
+          "path": "/suprimentos-bop/material-eletrico-industrial/caixas-e-botoeiras",
+          "count": 5
+        },
+        {
+          "name": "CAMPAINHAS E SIRENES",
+          "slug": "campainhas-e-sirenes",
+          "path": "/suprimentos-bop/material-eletrico-industrial/campainhas-e-sirenes",
+          "count": 4
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/canaletas",
+          "count": 1
+        },
+        {
+          "name": "CHAVES ELÉTRICAS",
+          "slug": "chaves-eletricas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/chaves-eletricas",
+          "count": 8
+        },
+        {
+          "name": "CONECTORES",
+          "slug": "conectores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/conectores",
+          "count": 5
+        },
+        {
+          "name": "CONTATORES E CONTATOS",
+          "slug": "contatores-e-contatos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/contatores-e-contatos",
+          "count": 14
+        },
+        {
+          "name": "CONTROLADORES E TOTALIZADORES",
+          "slug": "controladores-e-totalizadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/controladores-e-totalizadores",
+          "count": 3
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/disjuntores",
+          "count": 17
+        },
+        {
+          "name": "ELETROCALHAS, ELETRODUTOS E PERFILADOS",
+          "slug": "eletrocalhas-eletrodutos-e-perfilados",
+          "path": "/suprimentos-bop/material-eletrico-industrial/eletrocalhas-eletrodutos-e-perfilados",
+          "count": 1
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fios-e-cabos",
+          "count": 29
+        },
+        {
+          "name": "FONTES CHAVEADAS",
+          "slug": "fontes-chaveadas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fontes-chaveadas",
+          "count": 4
+        },
+        {
+          "name": "FUSÍVEiS E RESISTORES",
+          "slug": "fusiveis-e-resistores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fusiveis-e-resistores",
+          "count": 4
+        },
+        {
+          "name": "GASES ISOLANTES",
+          "slug": "gases-isolantes",
+          "path": "/suprimentos-bop/material-eletrico-industrial/gases-isolantes",
+          "count": 2
+        },
+        {
+          "name": "IDENTIFICAÇÃO",
+          "slug": "identificacao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/identificacao",
+          "count": 1
+        },
+        {
+          "name": "ILUMINAÇÃO DE ALTA PERFORMANCE",
+          "slug": "iluminacao-de-alta-performance",
+          "path": "/suprimentos-bop/material-eletrico-industrial/iluminacao-de-alta-performance",
+          "count": 15
+        },
+        {
+          "name": "INVERSORES DE TENSÃO",
+          "slug": "inversores-de-tensao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/inversores-de-tensao",
+          "count": 3
+        },
+        {
+          "name": "ISOLADORES",
+          "slug": "isoladores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/isoladores",
+          "count": 42
+        },
+        {
+          "name": "PAINÉIS SOLARES",
+          "slug": "paineis-solares",
+          "path": "/suprimentos-bop/material-eletrico-industrial/paineis-solares",
+          "count": 2
+        },
+        {
+          "name": "PARA-RAIOS E ATERRAMENTOS",
+          "slug": "para-raios-e-aterramentos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/para-raios-e-aterramentos",
+          "count": 3
+        },
+        {
+          "name": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+          "slug": "plugue-tomada-e-acoplamento-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/plugue-tomada-e-acoplamento-industrial",
+          "count": 16
+        },
+        {
+          "name": "QUADROS DE DISTRIBUIÇÃO",
+          "slug": "quadros-de-distribuicao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/quadros-de-distribuicao",
+          "count": 3
+        },
+        {
+          "name": "QUADROS DE MONTAGEM",
+          "slug": "quadros-de-montagem",
+          "path": "/suprimentos-bop/material-eletrico-industrial/quadros-de-montagem",
+          "count": 1
+        },
+        {
+          "name": "RELÉS",
+          "slug": "reles",
+          "path": "/suprimentos-bop/material-eletrico-industrial/reles",
+          "count": 12
+        },
+        {
+          "name": "SEGURANÇA INDUSTRIAL",
+          "slug": "seguranca-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/seguranca-industrial",
+          "count": 3
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/sensores",
+          "count": 8
+        },
+        {
+          "name": "SINALIZADORES",
+          "slug": "sinalizadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/sinalizadores",
+          "count": 3
+        },
+        {
+          "name": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+          "slug": "terminais-e-conexoes-industriais",
+          "path": "/suprimentos-bop/material-eletrico-industrial/terminais-e-conexoes-industriais",
+          "count": 25
+        },
+        {
+          "name": "TRANSFORMADORES",
+          "slug": "transformadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/transformadores",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES",
+          "slug": "ventiladores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/ventiladores",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1495",
+    "name": "DIMENSIONAL BRASIL SOLUCOES LTDA"
+  },
+  "products": [
+    {
+      "code": "11005",
+      "title": "BOTAO COMD RED/VD 22MM 100-240V 1NA",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "36759",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botao-comd-redvd-22mm-100240v-1na-11005",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8955",
+      "title": "CABO FLEXIVEL 1KV 90G HEPR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1361458",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-1kv-90g-hepr-8955",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9788",
+      "title": "CONTATOR 1NF 7A 50/60HZ TRIPOLAR 95-110V",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "CWC070130V15",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/contator-1nf-7a-5060hz-tripolar-95110v-9788",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9874",
+      "title": "CONTATOR AUXILIAR 250VCC 4NA",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "3RH21401BN40",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/contator-auxiliar-250vcc-4na-9874",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9470",
+      "title": "CONTATOR AUXILIAR INSTANTANEO 250VCC 4NA",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "CA3KN40",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/contator-auxiliar-instantaneo-250vcc-4na-9470",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9789",
+      "title": "CONTATOR TRIPOLAR 110A 380V 1NA+1NF",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "CWB1101130D33",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/contator-tripolar-110a-380v-1na1nf-9789",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9786",
+      "title": "DISJUNTOR CX MOLDADA 3P 400V 250A 20KVA",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "DWP250L2503",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-cx-moldada-3p-400v-250a-20kva-9786",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10034",
+      "title": "EMENDA CONTRATIL 1P 1KV 95-150MM2",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "H0001436775",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/emenda-contratil-1p-1kv-95150mm2-10034",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11072",
+      "title": "RELE TEMPO RETAR 1/10/20S-1/10/30M - 1H",
+      "brand": "COEL",
+      "brandCode": "871",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1049079",
+      "category": "RELÉS",
+      "categorySlug": "reles",
+      "path": "/rele-tempo-retar-11020s11030m--1h-11072",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10033",
+      "title": "TERM PRESSAO RETO COB 1FURO 13,5MM 120MM",
+      "brand": "INTELLI",
+      "brandCode": "499",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "TA120",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/term-pressao-reto-cob-1furo-135mm-120mm-10033",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9970",
+      "title": "TERMINAL COMPRESSAO TUB 16MM² 1F F8,5MM",
+      "brand": "INTELLI",
+      "brandCode": "499",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "TM168",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-tub-16mm2-1f-f85mm-9970",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9971",
+      "title": "TERMINAL COMPRESSAO TUB 240MM² 1FURO M16",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "C9062276000",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-tub-240mm2-1furo-m16-9971",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9972",
+      "title": "TERMINAL COMPRESSAO TUB 70MM² 1 FURO M12",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "C9062086000",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-tub-70mm2-1-furo-m12-9972",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9968",
+      "title": "TERMINAL CONTR FRIO 1P SIL INT QTII5623K",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "H0001854092",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-contr-frio-1p-sil-int-qtii5623k-9968",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9969",
+      "title": "TERMINAL PRESSAO RETO 1FURO 240MM² TA240",
+      "brand": "INTELLI",
+      "brandCode": "499",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "514",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-pressao-reto-1furo-240mm2-ta240-9969",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 15,
+    "pageBase": "suprimentos-bop--fornecedor-1495"
+  }
+}

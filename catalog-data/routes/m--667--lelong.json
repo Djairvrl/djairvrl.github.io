@@ -1,0 +1,36 @@
+{
+  "title": "LELONG",
+  "parentLabel": "Marca",
+  "description": "Produtos LELONG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LELONG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9334",
+      "title": "BINOCULO LELONG LE-2053",
+      "brand": "LELONG",
+      "brandCode": "667",
+      "supplier": "D. GUEDES COMERCIO DE VARIEDADES LTDA",
+      "supplierCode": "2500",
+      "manufacturerCode": "MLB3274802613_177457422843",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-lelong-le2053-9334",
+      "image": "/products/images/0093/9334.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--667--lelong"
+  }
+}

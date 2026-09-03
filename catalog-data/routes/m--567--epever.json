@@ -1,0 +1,53 @@
+{
+  "title": "EPEVER",
+  "parentLabel": "Marca",
+  "description": "Produtos EPEVER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EPEVER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8133",
+      "title": "CONTROLADOR CARGA MPPT 20A 12/24V",
+      "brand": "EPEVER",
+      "brandCode": "567",
+      "supplier": "NEOSOLAR ENERGIA LTDA",
+      "supplierCode": "1954",
+      "manufacturerCode": "20139",
+      "category": "CONTROLADORES E TOTALIZADORES",
+      "categorySlug": "controladores-e-totalizadores",
+      "path": "/controlador-carga-mppt-20a-1224v-8133",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8202",
+      "title": "SENSOR DE TEMPERATURA EPEVER",
+      "brand": "EPEVER",
+      "brandCode": "567",
+      "supplier": "NEOSOLAR ENERGIA LTDA",
+      "supplierCode": "1954",
+      "manufacturerCode": "20369",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/sensor-de-temperatura-epever-8202",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--567--epever"
+  }
+}

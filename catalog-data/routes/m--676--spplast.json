@@ -1,0 +1,104 @@
+{
+  "title": "SPPLAST",
+  "parentLabel": "Marca",
+  "description": "Produtos SPPLAST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SPPLAST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10741",
+      "title": "CESTO DE LIXO 15L SEM TAMPA CINZA",
+      "brand": "SPPLAST",
+      "brandCode": "676",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "CLST15L",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/cesto-de-lixo-15l-sem-tampa-cinza-10741",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "5713",
+      "title": "CONTENTOR 1000L AZUL",
+      "brand": "SPPLAST",
+      "brandCode": "676",
+      "supplier": "LAR PLASTICOS INDUSTRIA E COMERCIO DE PRODUTOS LTDA",
+      "supplierCode": "1615",
+      "manufacturerCode": "020067",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/contentor-1000l-azul-5713",
+      "image": "/products/images/0057/5713.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "9379",
+      "title": "PALLET 4 TAMBOR 220 LITROS - AMARELO",
+      "brand": "SPPLAST",
+      "brandCode": "676",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "42201",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/pallet-4-tambor-220-litros--amarelo-9379",
+      "image": "/products/images/0093/9379.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "10551",
+      "title": "PALLET DE CONTENCAO 1000 LITROS LARANJA",
+      "brand": "SPPLAST",
+      "brandCode": "676",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "C10031",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/pallet-de-contencao-1000-litros-laranja-10551",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "1278",
+      "title": "PALLET DE CONTENÇÃO 4 TAMBORES 150 LITROS - ROTOFORM P4T150L",
+      "brand": "SPPLAST",
+      "brandCode": "676",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "41501",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/pallet-de-contencao-4-tambores-150-litros--rotoform-p4t150l-1278",
+      "image": "/products/images/0012/1278.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--676--spplast"
+  }
+}

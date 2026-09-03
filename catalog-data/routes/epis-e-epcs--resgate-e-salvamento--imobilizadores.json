@@ -1,0 +1,61 @@
+{
+  "title": "IMOBILIZADORES",
+  "parentLabel": "Resgate e Salvamento",
+  "description": "Produtos da categoria imobilizadores em resgate e salvamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Resgate e Salvamento",
+      "to": "/epis-e-epcs/resgate-e-salvamento"
+    },
+    {
+      "label": "IMOBILIZADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12772",
+      "title": "ORTESE P/PUNHO C/TALA P/POLEGAR - BC0055",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "38652",
+      "category": "IMOBILIZADORES",
+      "categorySlug": "imobilizadores",
+      "path": "/ortese-ppunho-ctala-ppolegar--bc0055-12772",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12775",
+      "title": "TIPOIA ESTABI ESTOFADA AZUL TAM G-BC0069",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "100980",
+      "category": "IMOBILIZADORES",
+      "categorySlug": "imobilizadores",
+      "path": "/tipoia-estabi-estofada-azul-tam-gbc0069-12775",
+      "image": "/products/images/0127/12775.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--resgate-e-salvamento--imobilizadores"
+  }
+}

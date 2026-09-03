@@ -1,0 +1,61 @@
+{
+  "title": "CAPACETE COMBATE A INCÊNDIO",
+  "parentLabel": "Capacetes",
+  "description": "Produtos da categoria capacete combate a incêndio em capacetes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Capacetes",
+      "to": "/epis-e-epcs/capacetes"
+    },
+    {
+      "label": "CAPACETE COMBATE A INCÊNDIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9036",
+      "title": "CAPACETE BOMBEIRO VERMELHO",
+      "brand": "HERCULES",
+      "brandCode": "88",
+      "supplier": "MP TREINAMENTOS, COMERCIO E FABRICACAO DE EQUIPAMENTOS DE SE",
+      "supplierCode": "4607",
+      "manufacturerCode": "H400VM",
+      "category": "CAPACETE COMBATE A INCÊNDIO",
+      "categorySlug": "capacete-combate-a-incendio",
+      "path": "/capacete-bombeiro-vermelho-9036",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    },
+    {
+      "code": "9176",
+      "title": "CAPACETE BOMBEIRO VERMELHO CA 35173",
+      "brand": "HERCULES",
+      "brandCode": "88",
+      "supplier": "MP TREINAMENTOS, COMERCIO E FABRICACAO DE EQUIPAMENTOS DE SE",
+      "supplierCode": "4607",
+      "manufacturerCode": "HF09204NOR",
+      "category": "CAPACETE COMBATE A INCÊNDIO",
+      "categorySlug": "capacete-combate-a-incendio",
+      "path": "/capacete-bombeiro-vermelho-ca-35173-9176",
+      "image": "/products/images/0091/9176.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Capacetes",
+      "sectionSlug": "capacetes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--capacetes--capacete-combate-a-incendio"
+  }
+}

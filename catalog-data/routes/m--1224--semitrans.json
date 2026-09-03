@@ -1,0 +1,36 @@
+{
+  "title": "SEMITRANS",
+  "parentLabel": "Marca",
+  "description": "Produtos SEMITRANS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SEMITRANS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13318",
+      "title": "CHAVE REVERSORA S/0 3P 10A C.OVERLAP WS3",
+      "brand": "SEMITRANS",
+      "brandCode": "1224",
+      "supplier": "JER - COMANDO E AUTOMACAO LTDA",
+      "supplierCode": "2298",
+      "manufacturerCode": "WS310EZ11",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-reversora-s0-3p-10a-coverlap-ws3-13318",
+      "image": "/products/images/0133/13318.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1224--semitrans"
+  }
+}

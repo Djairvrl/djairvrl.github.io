@@ -1,0 +1,39 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "7873",
+      "title": "SACOLA CORDA 20L PTO P 11MM/12MM",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USS5012000PR",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/sacola-corda-20l-pto-p-11mm12mm-7873",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "13366",
+      "title": "SUPORTE MOTOR/CAMBIO 1300KG MOVEL",
+      "brand": "RAVEN",
+      "brandCode": "207",
+      "supplier": "ANHANGUERA COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "5182",
+      "manufacturerCode": "9097700100",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/suporte-motorcambio-1300kg-movel-13366",
+      "image": "/products/images/0133/13366.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ]
+}

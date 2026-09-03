@@ -1,0 +1,112 @@
+{
+  "title": "TABLETS E SMARTPHONES",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria tablets e smartphones em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "TABLETS E SMARTPHONES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6992",
+      "title": "IPAD 9TH WIFI 64GB SPACE GRAY MK2K3BZ/A",
+      "brand": "APPLE",
+      "brandCode": "399",
+      "supplier": "GLOBAL DISTRIBUICAO DE BENS DE CONSUMO LTDA",
+      "supplierCode": "1443",
+      "manufacturerCode": "219319",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/ipad-9th-wifi-64gb-space-gray-mk2k3bza-6992",
+      "image": "/products/images/0069/6992.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6993",
+      "title": "IPAD 9TH WIFI-CEL 64GB SPACE GRAY MK473B",
+      "brand": "APPLE",
+      "brandCode": "399",
+      "supplier": "GLOBAL DISTRIBUICAO DE BENS DE CONSUMO LTDA",
+      "supplierCode": "1443",
+      "manufacturerCode": "219325",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/ipad-9th-wificel-64gb-space-gray-mk473b-6993",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10729",
+      "title": "SMARTPHONE MOTO G05 128GB CINZA MOTOROLA",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "49559",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/smartphone-moto-g05-128gb-cinza-motorola-10729",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12347",
+      "title": "SMARTPHONE MOTO G15 - 256GB 4GB GRAFITE",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "BRAIN BOX COMERCIO E SERVICOS DE INFORMATICA LTDA",
+      "supplierCode": "5668",
+      "manufacturerCode": "MLB5788170688",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/smartphone-moto-g15--256gb-4gb-grafite-12347",
+      "image": "/products/images/0123/12347.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12484",
+      "title": "SMARTPHONE MOTO G35 5G 256GB CINZA",
+      "brand": "MOTOROLA",
+      "brandCode": "636",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "49327",
+      "category": "TABLETS E SMARTPHONES",
+      "categorySlug": "tablets-e-smartphones",
+      "path": "/smartphone-moto-g35-5g-256gb-cinza-12484",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--tablets-e-smartphones"
+  }
+}

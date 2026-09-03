@@ -1,0 +1,36 @@
+{
+  "title": "JBR",
+  "parentLabel": "Marca",
+  "description": "Produtos JBR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JBR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9289",
+      "title": "FILTRO LINHA 5T 4 USB JBR CABO 2M",
+      "brand": "JBR",
+      "brandCode": "661",
+      "supplier": "DEUS-GUARDE COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2481",
+      "manufacturerCode": "864",
+      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
+      "path": "/filtro-linha-5t-4-usb-jbr-cabo-2m-9289",
+      "image": "/products/images/0092/9289.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--661--jbr"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "title": "Equipamentos Industriais",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Equipamentos Industriais"
+    }
+  ],
+  "children": [
+    {
+      "name": "Equipamentos De Lubrificação",
+      "slug": "equipamentos-de-lubrificacao",
+      "path": "/equipamentos-industriais/equipamentos-de-lubrificacao",
+      "count": 11,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+          "slug": "acessorios-para-bomba-de-lubrificacao",
+          "path": "/equipamentos-industriais/equipamentos-de-lubrificacao/acessorios-para-bomba-de-lubrificacao",
+          "count": 8
+        },
+        {
+          "name": "BOMBAS DE GRAXA HIGH PRESSURE",
+          "slug": "bombas-de-graxa-high-pressure",
+          "path": "/equipamentos-industriais/equipamentos-de-lubrificacao/bombas-de-graxa-high-pressure",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "4918",
+      "name": "DANHYDRA INC.",
+      "count": 10,
+      "file": "equipamentos-industriais--fornecedor-4918.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 1,
+      "file": "equipamentos-industriais--fornecedor-4.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "11846",
+      "title": "BLADE BEARING ADAPTER ISO B",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "352011",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/blade-bearing-adapter-iso-b-11846",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "10700",
+      "title": "BUCKETMANAGER HIGH PRESSURE",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "10700",
+      "category": "BOMBAS DE GRAXA HIGH PRESSURE",
+      "categorySlug": "bombas-de-graxa-high-pressure",
+      "path": "/bucketmanager-high-pressure-10700",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "12027",
+      "title": "COMBO BUCKETMANAGER HIGH PRESSURE",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "12027",
+      "category": "BOMBAS DE GRAXA HIGH PRESSURE",
+      "categorySlug": "bombas-de-graxa-high-pressure",
+      "path": "/combo-bucketmanager-high-pressure-12027",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "11847",
+      "title": "GREASE ADAPTER 4 CLAW NIPPLE, 1/4\" ISO-B",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "351666",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/grease-adapter-4-claw-nipple-14-isob-11847",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "11848",
+      "title": "GREASE ADAPTER DIN 3404 PULL CONNEC 1/4\"",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "351667",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/grease-adapter-din-3404-pull-connec-14-11848",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "12401",
+      "title": "GREASEMANAGER HIGH PRESSURE 230V SCHUKO",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "351056",
+      "category": "BOMBAS DE GRAXA HIGH PRESSURE",
+      "categorySlug": "bombas-de-graxa-high-pressure",
+      "path": "/greasemanager-high-pressure-230v-schuko-12401",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "11845",
+      "title": "ISO-CONVERTER COUPLING FEMALE 1/4\"",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "300003",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/isoconverter-coupling-female-14-11845",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "11849",
+      "title": "M26 GREASE FILLING ADAPTER, 1/4\" MALE",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "351787",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/m26-grease-filling-adapter-14-male-11849",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "11842",
+      "title": "MAGUEIRA3/8\" 330BAR 1/4\"ISO 7241-1-B, 3M",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "351565",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/magueira38-330bar-14iso-72411b-3m-11842",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "11844",
+      "title": "MAIN BEARING ADAPTER ISO B",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "352003",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/main-bearing-adapter-iso-b-11844",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    },
+    {
+      "code": "11843",
+      "title": "REMOTE CONTROL",
+      "brand": "DANHYDRA",
+      "brandCode": "993",
+      "supplier": "DANHYDRA INC.",
+      "supplierCode": "4918",
+      "manufacturerCode": "351069",
+      "category": "ACESSÓRIOS PARA BOMBA DE LUBRIFICAÇÃO",
+      "categorySlug": "acessorios-para-bomba-de-lubrificacao",
+      "path": "/remote-control-11843",
+      "image": null,
+      "department": "Equipamentos Industriais",
+      "departmentSlug": "equipamentos-industriais",
+      "section": "Equipamentos De Lubrificação",
+      "sectionSlug": "equipamentos-de-lubrificacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 11,
+    "pageBase": "equipamentos-industriais"
+  }
+}

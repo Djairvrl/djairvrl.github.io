@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#17233d" />
+    <meta
+      name="description"
+      content="Catálogo on-line de produtos Medeiros Galvão."
+    />
+    <title>Catálogo | Medeiros Galvão</title>
+    <script>
+      try {
+        const redirect = sessionStorage.getItem('mg.pages.redirect')
+        if (redirect) {
+          sessionStorage.removeItem('mg.pages.redirect')
+          history.replaceState(null, '', redirect)
+        }
+      } catch {}
+    </script>
+    <script type="module" crossorigin src="/assets/index-D16w1i2p.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CvvULcZr.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

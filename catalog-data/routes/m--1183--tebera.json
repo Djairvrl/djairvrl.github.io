@@ -1,0 +1,36 @@
+{
+  "title": "TEBERA",
+  "parentLabel": "Marca",
+  "description": "Produtos TEBERA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TEBERA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13100",
+      "title": "GARRA JACARE P/ BATERIA 50A 100MM PAR PT",
+      "brand": "TEBERA",
+      "brandCode": "1183",
+      "supplier": "S&B COMERCIO DISTRIBUICAO IMPORTACAO E EXPORTACAO DE PRODUTO",
+      "supplierCode": "6092",
+      "manufacturerCode": "127019",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/garra-jacare-p-bateria-50a-100mm-par-pt-13100",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1183--tebera"
+  }
+}

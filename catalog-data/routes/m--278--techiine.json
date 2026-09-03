@@ -1,0 +1,36 @@
+{
+  "title": "TECHIINE",
+  "parentLabel": "Marca",
+  "description": "Produtos TECHIINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECHIINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6396",
+      "title": "MEDIDOR DE PRESSAO DIGITAL BRACO BP1209",
+      "brand": "TECHIINE",
+      "brandCode": "278",
+      "supplier": "MARIO CESAR VITAL RAMOS",
+      "supplierCode": "1493",
+      "manufacturerCode": "1458",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/medidor-de-pressao-digital-braco-bp1209-6396",
+      "image": "/products/images/0063/6396.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--278--techiine"
+  }
+}

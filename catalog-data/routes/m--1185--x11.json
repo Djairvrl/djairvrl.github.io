@@ -1,0 +1,53 @@
+{
+  "title": "X11",
+  "parentLabel": "Marca",
+  "description": "Produtos X11 disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "X11"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13107",
+      "title": "LUVA BLACKOUT 2 MASCUL X11 - PRETO-L/G",
+      "brand": "X11",
+      "brandCode": "1185",
+      "supplier": "FORT MOTOPECAS LTDA",
+      "supplierCode": "6096",
+      "manufacturerCode": "27987",
+      "category": "ANTI VIBRAÇÃO | ANTI IMPACTO",
+      "categorySlug": "anti-vibracao-anti-impacto",
+      "path": "/luva-blackout-2-mascul-x11--pretolg-13107",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "13106",
+      "title": "LUVA BLACKOUT 2 MASCUL X11 - PRETO-XL/GG",
+      "brand": "X11",
+      "brandCode": "1185",
+      "supplier": "FORT MOTOPECAS LTDA",
+      "supplierCode": "6096",
+      "manufacturerCode": "27988",
+      "category": "ANTI VIBRAÇÃO | ANTI IMPACTO",
+      "categorySlug": "anti-vibracao-anti-impacto",
+      "path": "/luva-blackout-2-mascul-x11--pretoxlgg-13106",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1185--x11"
+  }
+}

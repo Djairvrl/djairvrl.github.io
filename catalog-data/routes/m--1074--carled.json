@@ -1,0 +1,36 @@
+{
+  "title": "CARLED",
+  "parentLabel": "Marca",
+  "description": "Produtos CARLED disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CARLED"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12384",
+      "title": "GIROFLEX STROBO LED LUZ 9-30V",
+      "brand": "CARLED",
+      "brandCode": "1074",
+      "supplier": "M NASCIMENTO TERCEIRO LTDA",
+      "supplierCode": "5691",
+      "manufacturerCode": "1PCJSD02",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/giroflex-strobo-led-luz-930v-12384",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1074--carled"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "JIAXI",
+  "parentLabel": "Marca",
+  "description": "Produtos JIAXI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JIAXI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11851",
+      "title": "BINOCULO PROFISSIONAL 60X90 LONGO ALCANC",
+      "brand": "JIAXI",
+      "brandCode": "202",
+      "supplier": "AROMAHAT COMERCIO DE ARTIGOS ELETRONICOS LTDA",
+      "supplierCode": "5333",
+      "manufacturerCode": "56090",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-profissional-60x90-longo-alcanc-11851",
+      "image": "/products/images/0118/11851.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "3887",
+      "title": "TERMOM HIGROMETRO MEDI DE TEMPERUT HTC-1",
+      "brand": "JIAXI",
+      "brandCode": "202",
+      "supplier": "THATA STORE COMERCIO VIRTUAL EIRELI",
+      "supplierCode": "866",
+      "manufacturerCode": "6233",
+      "category": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+      "categorySlug": "termo-higrometros-e-acessorios",
+      "path": "/termom-higrometro-medi-de-temperut-htc1-3887",
+      "image": "/products/images/0038/3887.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--202--jiaxi"
+  }
+}

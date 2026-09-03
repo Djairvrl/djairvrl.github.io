@@ -1,0 +1,53 @@
+{
+  "title": "GLADE",
+  "parentLabel": "Marca",
+  "description": "Produtos GLADE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GLADE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7711",
+      "title": "MIX 24 PRO GLADE 360ML AEROSSOL 20% DESC",
+      "brand": "GLADE",
+      "brandCode": "528",
+      "supplier": "CENTRAL DE DISTRIBUIÇÃO AZEVEDO LTDA",
+      "supplierCode": "819",
+      "manufacturerCode": "52874",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix-24-pro-glade-360ml-aerossol-20-desc-7711",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7710",
+      "title": "MIX 24PRO GLADE RF 269ML AUT 20% DESC TQ",
+      "brand": "GLADE",
+      "brandCode": "528",
+      "supplier": "CENTRAL DE DISTRIBUIÇÃO AZEVEDO LTDA",
+      "supplierCode": "819",
+      "manufacturerCode": "58334",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix-24pro-glade-rf-269ml-aut-20-desc-tq-7710",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--528--glade"
+  }
+}

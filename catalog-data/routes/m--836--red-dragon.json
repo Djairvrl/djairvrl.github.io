@@ -1,0 +1,36 @@
+{
+  "title": "RED DRAGON",
+  "parentLabel": "Marca",
+  "description": "Produtos RED DRAGON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RED DRAGON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10946",
+      "title": "JOELHEIRA E COTOVELEIRA PARA MOTOCICLIST",
+      "brand": "RED DRAGON",
+      "brandCode": "836",
+      "supplier": "GOBOR STORE E-COMMERCE LTDA",
+      "supplierCode": "4245",
+      "manufacturerCode": "REDYD7AK",
+      "category": "JOELHEIRA",
+      "categorySlug": "joelheira",
+      "path": "/joelheira-e-cotoveleira-para-motociclist-10946",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--836--red-dragon"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "MAINFENG",
+  "parentLabel": "Marca",
+  "description": "Produtos MAINFENG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAINFENG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7018",
+      "title": "BINOCULO PROF DIURN/NOT 60X60 ATE 10KM",
+      "brand": "MAINFENG",
+      "brandCode": "406",
+      "supplier": "AMERICANAS S.A.",
+      "supplierCode": "1416",
+      "manufacturerCode": "MAIN60X60",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-prof-diurnnot-60x60-ate-10km-7018",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--406--mainfeng"
+  }
+}

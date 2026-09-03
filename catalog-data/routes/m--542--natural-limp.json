@@ -1,0 +1,53 @@
+{
+  "title": "NATURAL LIMP",
+  "parentLabel": "Marca",
+  "description": "Produtos NATURAL LIMP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NATURAL LIMP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8001",
+      "title": "COLETOR PARA 60 LAMPADAS",
+      "brand": "NATURAL LIMP",
+      "brandCode": "542",
+      "supplier": "NATURAL LIMP EQUIPAMENTOS PARA COLETA SELETIVA LTDA",
+      "supplierCode": "1844",
+      "manufacturerCode": "CL60NL",
+      "category": "COLETORES",
+      "categorySlug": "coletores",
+      "path": "/coletor-para-60-lampadas-8001",
+      "image": "/products/images/0080/8001.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7804",
+      "title": "CONJUNTOC/ 04 COLETORES 100LTS C/ TAMPA",
+      "brand": "NATURAL LIMP",
+      "brandCode": "542",
+      "supplier": "NATURAL LIMP EQUIPAMENTOS PARA COLETA SELETIVA LTDA",
+      "supplierCode": "1844",
+      "manufacturerCode": "CSTF100/4",
+      "category": "COLETORES",
+      "categorySlug": "coletores",
+      "path": "/conjuntoc-04-coletores-100lts-c-tampa-7804",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--542--natural-limp"
+  }
+}

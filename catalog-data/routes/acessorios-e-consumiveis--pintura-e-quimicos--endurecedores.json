@@ -1,0 +1,61 @@
+{
+  "title": "ENDURECEDORES",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria endurecedores em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "ENDURECEDORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12062",
+      "title": "AQUAPON ENDUREC EPX01.11 0,9L EPOXI PPG",
+      "brand": "EPOXI",
+      "brandCode": "1025",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "68809",
+      "category": "ENDURECEDORES",
+      "categorySlug": "endurecedores",
+      "path": "/aquapon-endurec-epx0111-09l-epoxi-ppg-12062",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12064",
+      "title": "QUAPON EPÓXI CINZA MUNSEL6,5 EPX300 2,7L",
+      "brand": "EPOXI",
+      "brandCode": "1025",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "68812",
+      "category": "ENDURECEDORES",
+      "categorySlug": "endurecedores",
+      "path": "/quapon-epoxi-cinza-munsel65-epx300-27l-12064",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--endurecedores"
+  }
+}

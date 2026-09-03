@@ -1,0 +1,36 @@
+{
+  "title": "SAKURA",
+  "parentLabel": "Marca",
+  "description": "Produtos SAKURA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SAKURA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7280",
+      "title": "BINOCULOS PROF 20X180X100 ZOOM + CASE",
+      "brand": "SAKURA",
+      "brandCode": "438",
+      "supplier": "KENNEDY ODILON DE AMORIM",
+      "supplierCode": "1566",
+      "manufacturerCode": "13363-65",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculos-prof-20x180x100-zoom-case-7280",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--438--sakura"
+  }
+}

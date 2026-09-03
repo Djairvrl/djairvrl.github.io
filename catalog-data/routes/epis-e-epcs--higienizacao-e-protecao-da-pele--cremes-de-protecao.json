@@ -1,0 +1,129 @@
+{
+  "title": "CREMES DE PROTEÇÃO",
+  "parentLabel": "Higienização e Proteção da Pele",
+  "description": "Produtos da categoria cremes de proteção em higienização e proteção da pele.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Higienização e Proteção da Pele",
+      "to": "/epis-e-epcs/higienizacao-e-protecao-da-pele"
+    },
+    {
+      "label": "CREMES DE PROTEÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2988",
+      "title": "CREME DE PROTEÇÃO SPECIAL BISNAGA 200G GRUPO 3 CA11070 - LUVEX 040620100110200",
+      "brand": "LUVEX",
+      "brandCode": "17",
+      "supplier": "ITW CHEMICAL PRODUCTS LTDA",
+      "supplierCode": "523",
+      "manufacturerCode": "040620100110200",
+      "category": "CREMES DE PROTEÇÃO",
+      "categorySlug": "cremes-de-protecao",
+      "path": "/creme-de-protecao-special-bisnaga-200g-grupo-3-ca11070--luvex-040620100110200-2988",
+      "image": "/products/images/0029/2988.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "12281",
+      "title": "CREME GRUPO 3 LUVEX SPECIAL BISNAGA 200G",
+      "brand": "LUVEX",
+      "brandCode": "17",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "4113BL",
+      "category": "CREMES DE PROTEÇÃO",
+      "categorySlug": "cremes-de-protecao",
+      "path": "/creme-grupo-3-luvex-special-bisnaga-200g-12281",
+      "image": "/products/images/0122/12281.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "8463",
+      "title": "CREME LUVA QUIM PLUS G3 200G  CA43802",
+      "brand": "NUTRIEX",
+      "brandCode": "242",
+      "supplier": "EQUILIBRIUM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "supplierCode": "1025",
+      "manufacturerCode": "0064717",
+      "category": "CREMES DE PROTEÇÃO",
+      "categorySlug": "cremes-de-protecao",
+      "path": "/creme-luva-quim-plus-g3-200g-ca43802-8463",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "13035",
+      "title": "CREME MAVARO PM1000 S AROMA 200G CA10931",
+      "brand": "MAVARO",
+      "brandCode": "796",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "PM100B",
+      "category": "CREMES DE PROTEÇÃO",
+      "categorySlug": "cremes-de-protecao",
+      "path": "/creme-mavaro-pm1000-s-aroma-200g-ca10931-13035",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "1254",
+      "title": "CREME PROT MAOS HELP HAND G3 CA9611 200G",
+      "brand": "HENLAU",
+      "brandCode": "13",
+      "supplier": "HENLAU QUIMICA EIRELI  EPP",
+      "supplierCode": "191",
+      "manufacturerCode": "02028",
+      "category": "CREMES DE PROTEÇÃO",
+      "categorySlug": "cremes-de-protecao",
+      "path": "/creme-prot-maos-help-hand-g3-ca9611-200g-1254",
+      "image": "/products/images/0012/1254.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "10054",
+      "title": "CREME PROTETOR PELE LUVA QUIMICA GR 3 PLUS FR 120G CA 43802  NUTRIEX REF 0064709",
+      "brand": "NUTRIEX",
+      "brandCode": "242",
+      "supplier": "EQUILIBRIUM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "supplierCode": "1025",
+      "manufacturerCode": "0064709",
+      "category": "CREMES DE PROTEÇÃO",
+      "categorySlug": "cremes-de-protecao",
+      "path": "/creme-protetor-pele-luva-quimica-gr-3-plus-fr-120g-ca-43802-nutriex-ref-0064709-10054",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "epis-e-epcs--higienizacao-e-protecao-da-pele--cremes-de-protecao"
+  }
+}

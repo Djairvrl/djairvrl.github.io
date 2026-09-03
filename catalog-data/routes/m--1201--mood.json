@@ -1,0 +1,36 @@
+{
+  "title": "MOOD",
+  "parentLabel": "Marca",
+  "description": "Produtos MOOD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MOOD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13215",
+      "title": "VENTILADOR REPELENTE PORTATIL MOOD UV",
+      "brand": "MOOD",
+      "brandCode": "1201",
+      "supplier": "GOEDERT LTDA",
+      "supplierCode": "6172",
+      "manufacturerCode": "57064",
+      "category": "CONTROLE DE PRAGAS E VETORES",
+      "categorySlug": "controle-de-pragas-e-vetores",
+      "path": "/ventilador-repelente-portatil-mood-uv-13215",
+      "image": "/products/images/0132/13215.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1201--mood"
+  }
+}

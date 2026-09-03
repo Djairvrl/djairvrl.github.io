@@ -1,0 +1,36 @@
+{
+  "title": "ELETROTESTE",
+  "parentLabel": "Marca",
+  "description": "Produtos ELETROTESTE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ELETROTESTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6637",
+      "title": "MEDIDOR DE SIMULTANEID DISJ TRIF MS-03W",
+      "brand": "ELETROTESTE",
+      "brandCode": "312",
+      "supplier": "ELETROTESTE INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1272",
+      "manufacturerCode": "009",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/medidor-de-simultaneid-disj-trif-ms03w-6637",
+      "image": "/products/images/0066/6637.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--312--eletroteste"
+  }
+}

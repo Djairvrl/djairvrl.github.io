@@ -1,0 +1,61 @@
+{
+  "title": "KEVLAR",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria kevlar em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "KEVLAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12946",
+      "title": "LUVA KEVLAR HYFLEX TG CA43804",
+      "brand": "ANSELL",
+      "brandCode": "829",
+      "supplier": "ANSELL BRAZIL LTDA.",
+      "supplierCode": "4204",
+      "manufacturerCode": "11-550",
+      "category": "KEVLAR",
+      "categorySlug": "kevlar",
+      "path": "/luva-kevlar-hyflex-tg-ca43804-12946",
+      "image": "/products/images/0129/12946.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "12945",
+      "title": "LUVA KEVLAR HYFLEX TM CA43804",
+      "brand": "ANSELL",
+      "brandCode": "829",
+      "supplier": "ANSELL BRAZIL LTDA.",
+      "supplierCode": "4204",
+      "manufacturerCode": "11-550",
+      "category": "KEVLAR",
+      "categorySlug": "kevlar",
+      "path": "/luva-kevlar-hyflex-tm-ca43804-12945",
+      "image": "/products/images/0129/12945.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--kevlar"
+  }
+}

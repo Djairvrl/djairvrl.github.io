@@ -1,0 +1,104 @@
+{
+  "title": "BECKER",
+  "parentLabel": "Marca",
+  "description": "Produtos BECKER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BECKER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11708",
+      "title": "DETERGENTE BECKEPLATER PLUS 5L",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "PA0000959",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/detergente-beckeplater-plus-5l-11708",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10915",
+      "title": "LIMPA VIDROS BECKER 6X500ML",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "06756",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/limpa-vidros-becker-6x500ml-10915",
+      "image": "/products/images/0109/10915.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11215",
+      "title": "MULTIUSO ORIGINAL 500ML BECKER",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "594",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/multiuso-original-500ml-becker-11215",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11212",
+      "title": "REFIL PARA SABONETEIRA BECKSOAP 800ML",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "1683",
+      "category": "SABONETES",
+      "categorySlug": "sabonetes",
+      "path": "/refil-para-saboneteira-becksoap-800ml-11212",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "11401",
+      "title": "WAX I POLISH CERA PRETA 5L BECKER",
+      "brand": "BECKER",
+      "brandCode": "831",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "PA4065",
+      "category": null,
+      "categorySlug": null,
+      "path": "/wax-i-polish-cera-preta-5l-becker-11401",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--831--becker"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "ACESSÓRIOS DE ENGRENAGEM",
+  "parentLabel": "Componentes Mecânicos",
+  "description": "Produtos da categoria acessórios de engrenagem em componentes mecânicos.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Mecânicos",
+      "to": "/spare-parts-energy/componentes-mecanicos"
+    },
+    {
+      "label": "ACESSÓRIOS DE ENGRENAGEM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8334",
+      "title": "TECIDO DE CARBONO 3K 200GSM 49CMX1,5MT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ROSANGELA COMERCIO BR LTDA",
+      "supplierCode": "2053",
+      "manufacturerCode": "CARBONO49CM1,5M",
+      "category": "ACESSÓRIOS DE ENGRENAGEM",
+      "categorySlug": "acessorios-de-engrenagem",
+      "path": "/tecido-de-carbono-3k-200gsm-49cmx15mt-8334",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "spare-parts-energy--componentes-mecanicos--acessorios-de-engrenagem"
+  }
+}

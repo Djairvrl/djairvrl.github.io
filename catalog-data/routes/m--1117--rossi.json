@@ -1,0 +1,70 @@
+{
+  "title": "ROSSI",
+  "parentLabel": "Marca",
+  "description": "Produtos ROSSI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROSSI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12702",
+      "title": "KIT MOTOR DZ4 6M CREM 2 CONTROL 850KG",
+      "brand": "ROSSI",
+      "brandCode": "1117",
+      "supplier": "TSY COMERCIO DE ELETROELETRONICOS LTDA",
+      "supplierCode": "5860",
+      "manufacturerCode": "0000000000",
+      "category": "MOTORES PARA PORTÃO",
+      "categorySlug": "motores-para-portao",
+      "path": "/kit-motor-dz4-6m-crem-2-control-850kg-12702",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "12682",
+      "title": "ROSSI BARRA DENTADA LEVE 0,5MX2 SERIE R",
+      "brand": "ROSSI",
+      "brandCode": "1117",
+      "supplier": "TSY COMERCIO DE ELETROELETRONICOS LTDA",
+      "supplierCode": "5860",
+      "manufacturerCode": "852",
+      "category": "MOTORES PARA PORTÃO",
+      "categorySlug": "motores-para-portao",
+      "path": "/rossi-barra-dentada-leve-05mx2-serie-r-12682",
+      "image": "/products/images/0126/12682.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "12683",
+      "title": "ROSSI CJ DZ4 SK 36 NITRO 127V/220V",
+      "brand": "ROSSI",
+      "brandCode": "1117",
+      "supplier": "TSY COMERCIO DE ELETROELETRONICOS LTDA",
+      "supplierCode": "5860",
+      "manufacturerCode": "35700",
+      "category": "MOTORES PARA PORTÃO",
+      "categorySlug": "motores-para-portao",
+      "path": "/rossi-cj-dz4-sk-36-nitro-127v220v-12683",
+      "image": "/products/images/0126/12683.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1117--rossi"
+  }
+}

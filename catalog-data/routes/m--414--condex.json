@@ -1,0 +1,36 @@
+{
+  "title": "CONDEX",
+  "parentLabel": "Marca",
+  "description": "Produtos CONDEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CONDEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7083",
+      "title": "CABO FLEXIVEL 16 MM",
+      "brand": "CONDEX",
+      "brandCode": "414",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "840",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-16-mm-7083",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--414--condex"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "CAMPER",
+  "parentLabel": "Marca",
+  "description": "Produtos CAMPER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CAMPER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6820",
+      "title": "PROTETOR AUDITIVO TIPO CONCHA CONFORT PLUS 26DB - CAMPER",
+      "brand": "CAMPER",
+      "brandCode": "356",
+      "supplier": "CAMPER EQUIPAMENTOS DE PROTECAO LTDA",
+      "supplierCode": "1375",
+      "manufacturerCode": "800204C",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/protetor-auditivo-tipo-concha-confort-plus-26db--camper-6820",
+      "image": "/products/images/0068/6820.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--356--camper"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "FARMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos FARMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FARMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6611",
+      "title": "ALCOOL EM GEL 70% 50ML",
+      "brand": "FARMAX",
+      "brandCode": "308",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "07353",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-em-gel-70-50ml-6611",
+      "image": "/products/images/0066/6611.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "1517",
+      "title": "IODO 10% FARMAIODINE 100ML - FARMAX",
+      "brand": "FARMAX",
+      "brandCode": "308",
+      "supplier": "DROGARIA UNIÃO LTDA",
+      "supplierCode": "761",
+      "manufacturerCode": "16703",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/iodo-10-farmaiodine-100ml--farmax-1517",
+      "image": "/products/images/0015/1517.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--308--farmax"
+  }
+}

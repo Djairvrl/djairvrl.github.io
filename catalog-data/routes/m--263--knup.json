@@ -1,0 +1,36 @@
+{
+  "title": "KNUP",
+  "parentLabel": "Marca",
+  "description": "Produtos KNUP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KNUP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7061",
+      "title": "INVERSOR TENSAO VEICULAR 24VDC 220VAC 50",
+      "brand": "KNUP",
+      "brandCode": "263",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "KP551",
+      "category": "INVERSORES DE TENSÃO",
+      "categorySlug": "inversores-de-tensao",
+      "path": "/inversor-tensao-veicular-24vdc-220vac-50-7061",
+      "image": "/products/images/0070/7061.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--263--knup"
+  }
+}

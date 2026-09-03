@@ -1,0 +1,36 @@
+{
+  "title": "IV PLAST",
+  "parentLabel": "Marca",
+  "description": "Produtos IV PLAST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IV PLAST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13217",
+      "title": "BUCHA PLASTICA 08MM C/ANEL -E- C/100",
+      "brand": "IV PLAST",
+      "brandCode": "1202",
+      "supplier": "EVECOM E-COMMERCE LTDA",
+      "supplierCode": "6174",
+      "manufacturerCode": "3120401",
+      "category": "BUCHA",
+      "categorySlug": "bucha",
+      "path": "/bucha-plastica-08mm-canel-e-c100-13217",
+      "image": "/products/images/0132/13217.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1202--iv-plast"
+  }
+}

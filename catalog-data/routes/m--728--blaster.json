@@ -1,0 +1,53 @@
+{
+  "title": "BLASTER",
+  "parentLabel": "Marca",
+  "description": "Produtos BLASTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BLASTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9830",
+      "title": "CINTA ABRASIVA DE AÇO MONTIPOWER REF BB-033-10",
+      "brand": "BLASTER",
+      "brandCode": "728",
+      "supplier": "MONTIPOWER BRASIL COMERCIO ATACADISTA IMP E EXP SA",
+      "supplierCode": "2739",
+      "manufacturerCode": "BB-033-10",
+      "category": "CINTAS DE AMARRAÇÃO",
+      "categorySlug": "cintas-de-amarracao",
+      "path": "/cinta-abrasiva-de-aco-montipower-ref-bb03310-9830",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "9826",
+      "title": "MÁQUINA BRISTLE BLASTER ELÉTRICA MONTIPOWER REF SE-1361",
+      "brand": "BLASTER",
+      "brandCode": "728",
+      "supplier": "MONTIPOWER BRASIL COMERCIO ATACADISTA IMP E EXP SA",
+      "supplierCode": "2739",
+      "manufacturerCode": "SE-1361",
+      "category": "POLITRIZ",
+      "categorySlug": "politriz",
+      "path": "/maquina-bristle-blaster-eletrica-montipower-ref-se1361-9826",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--728--blaster"
+  }
+}

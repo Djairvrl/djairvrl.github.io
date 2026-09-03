@@ -1,0 +1,112 @@
+{
+  "title": "PALETEIRAS ELÉTRICAS",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria paleteiras elétricas em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "PALETEIRAS ELÉTRICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8949",
+      "title": "COMBO EMPILHADEIRA ELEVACAO 1,5T EEV1500",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "846",
+      "manufacturerCode": "8949",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/combo-empilhadeira-elevacao-15t-eev1500-8949",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "8823",
+      "title": "EMPILHAD EL 1,5T 1150X695MM EEV1500",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "846",
+      "manufacturerCode": "6857150010",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/empilhad-el-15t-1150x695mm-eev1500-8823",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9298",
+      "title": "EMPILHAD EL 1,5T 1150X695MM EEV1500",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "6889151000",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/empilhad-el-15t-1150x695mm-eev1500-9298",
+      "image": "/products/images/0092/9298.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10697",
+      "title": "EMPILHADEIRA ELETRICA 1500KG 3M 12V/120A",
+      "brand": "BOVENAU",
+      "brandCode": "800",
+      "supplier": "METAL TECNICA BOVENAU LTDA",
+      "supplierCode": "1177",
+      "manufacturerCode": "EHM1530SE",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/empilhadeira-eletrica-1500kg-3m-12v120a-10697",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10059",
+      "title": "EMPILHADEIRA ELÉTRICA PATOLADA PT1635  PALETRANS  REF 0203404",
+      "brand": "PALETRANS",
+      "brandCode": "747",
+      "supplier": "PALETRANS EQUIPAMENTOS LTDA",
+      "supplierCode": "2978",
+      "manufacturerCode": "0203404",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/empilhadeira-eletrica-patolada-pt1635-paletrans-ref-0203404-10059",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--paleteiras-eletricas"
+  }
+}

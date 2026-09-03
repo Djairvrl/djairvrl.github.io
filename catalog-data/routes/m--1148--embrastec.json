@@ -1,0 +1,36 @@
+{
+  "title": "EMBRASTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos EMBRASTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EMBRASTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12871",
+      "title": "DPS ECOBOX G6+ MONOPOLAR 275 V - 20 KA",
+      "brand": "EMBRASTEC",
+      "brandCode": "1148",
+      "supplier": "EMBRASTEC INDUSTRIA E COMERCIO DE EQUIPAMENTOS ELETRONICOS L",
+      "supplierCode": "5989",
+      "manufacturerCode": "3092",
+      "category": "PARA-RAIOS E ATERRAMENTOS",
+      "categorySlug": "para-raios-e-aterramentos",
+      "path": "/dps-ecobox-g6-monopolar-275-v--20-ka-12871",
+      "image": "/products/images/0128/12871.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1148--embrastec"
+  }
+}

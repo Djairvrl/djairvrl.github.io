@@ -1,0 +1,95 @@
+{
+  "title": "CHUVEIRO LAVA-OLHOS",
+  "parentLabel": "Equipamentos de Proteção Coletiva — EPC",
+  "description": "Produtos da categoria chuveiro lava-olhos em equipamentos de proteção coletiva — epc.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Equipamentos de Proteção Coletiva — EPC",
+      "to": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "label": "CHUVEIRO LAVA-OLHOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8248",
+      "title": "CHUVEIRO LAVA OLHOS BACIA ABS PISO AVLIS",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "CL001",
+      "category": "CHUVEIRO LAVA-OLHOS",
+      "categorySlug": "chuveiro-lava-olhos",
+      "path": "/chuveiro-lava-olhos-bacia-abs-piso-avlis-8248",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "8094",
+      "title": "CHUVEIRO LAVA OLHOS CL-051 C/ BACIA",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "AVLIS - HAWS DO BRASIL LTDA",
+      "supplierCode": "117",
+      "manufacturerCode": "40CL-051",
+      "category": "CHUVEIRO LAVA-OLHOS",
+      "categorySlug": "chuveiro-lava-olhos",
+      "path": "/chuveiro-lava-olhos-cl051-c-bacia-8094",
+      "image": "/products/images/0080/8094.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "2237",
+      "title": "DUCHA OFTÁLMICA  5 UND DE 500ML COM SUPORTE PLÁSTICO DE FIXAÇÃO - HAWS  AVLIS D001-505",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "AVLIS - HAWS DO BRASIL LTDA",
+      "supplierCode": "117",
+      "manufacturerCode": "45D001-505",
+      "category": "CHUVEIRO LAVA-OLHOS",
+      "categorySlug": "chuveiro-lava-olhos",
+      "path": "/ducha-oftalmica-5-und-de-500ml-com-suporte-plastico-de-fixacao--haws-avlis-d001505-2237",
+      "image": "/products/images/0022/2237.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "2194",
+      "title": "DUCHA OFTÁLMICA D001-100 GARRAFA 500ML COM TAMPA DE PROTEÇÃO - HAWS AVLIS",
+      "brand": "HAWS AVLIS",
+      "brandCode": "58",
+      "supplier": "AVLIS - HAWS DO BRASIL LTDA",
+      "supplierCode": "117",
+      "manufacturerCode": "45D001-100",
+      "category": "CHUVEIRO LAVA-OLHOS",
+      "categorySlug": "chuveiro-lava-olhos",
+      "path": "/ducha-oftalmica-d001100-garrafa-500ml-com-tampa-de-protecao--haws-avlis-2194",
+      "image": "/products/images/0021/2194.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--equipamentos-de-protecao-coletiva-epc--chuveiro-lava-olhos"
+  }
+}

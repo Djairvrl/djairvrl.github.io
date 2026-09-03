@@ -1,0 +1,112 @@
+{
+  "title": "COLAR CERVICAL",
+  "parentLabel": "Resgate e Salvamento",
+  "description": "Produtos da categoria colar cervical em resgate e salvamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Resgate e Salvamento",
+      "to": "/epis-e-epcs/resgate-e-salvamento"
+    },
+    {
+      "label": "COLAR CERVICAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1477",
+      "title": "COLAR CERVICAL RESGATE REGULAVEL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS042",
+      "category": "COLAR CERVICAL",
+      "categorySlug": "colar-cervical",
+      "path": "/colar-cervical-resgate-regulavel-1477",
+      "image": "/products/images/0014/1477.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1475",
+      "title": "COLAR CERVICAL RÍGIDO ANATÔMICO PARA IMOBILIZAÇÃO - TAMANHO G",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS046",
+      "category": "COLAR CERVICAL",
+      "categorySlug": "colar-cervical",
+      "path": "/colar-cervical-rigido-anatomico-para-imobilizacao--tamanho-g-1475",
+      "image": "/products/images/0014/1475.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1473",
+      "title": "COLAR CERVICAL RÍGIDO ANATÔMICO PARA IMOBILIZAÇÃO - TAMANHO M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS045",
+      "category": "COLAR CERVICAL",
+      "categorySlug": "colar-cervical",
+      "path": "/colar-cervical-rigido-anatomico-para-imobilizacao--tamanho-m-1473",
+      "image": "/products/images/0014/1473.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1476",
+      "title": "COLAR CERVICAL RÍGIDO ANATÔMICO PARA IMOBILIZAÇÃO - TAMANHO P",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS044",
+      "category": "COLAR CERVICAL",
+      "categorySlug": "colar-cervical",
+      "path": "/colar-cervical-rigido-anatomico-para-imobilizacao--tamanho-p-1476",
+      "image": "/products/images/0014/1476.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1474",
+      "title": "COLAR CERVICAL RÍGIDO ANATÔMICO PARA IMOBILIZAÇÃO - TAMANHO PP",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS043",
+      "category": "COLAR CERVICAL",
+      "categorySlug": "colar-cervical",
+      "path": "/colar-cervical-rigido-anatomico-para-imobilizacao--tamanho-pp-1474",
+      "image": "/products/images/0014/1474.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--resgate-e-salvamento--colar-cervical"
+  }
+}

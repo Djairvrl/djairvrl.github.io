@@ -1,0 +1,78 @@
+{
+  "title": "PRIMERS / PROMOTORES DE ADESÃO",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria primers / promotores de adesão em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "PRIMERS / PROMOTORES DE ADESÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11290",
+      "title": "BASE P/PROTECAO ANTICORROSIVA PRETA 3,6L",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004270177",
+      "category": "PRIMERS / PROMOTORES DE ADESÃO",
+      "categorySlug": "primers-promotores-de-adesao",
+      "path": "/base-pprotecao-anticorrosiva-preta-36l-11290",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11854",
+      "title": "P8215 PRIMER CX 1 LATA 940ML",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004049209",
+      "category": "PRIMERS / PROMOTORES DE ADESÃO",
+      "categorySlug": "primers-promotores-de-adesao",
+      "path": "/p8215-primer-cx-1-lata-940ml-11854",
+      "image": "/products/images/0118/11854.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12425",
+      "title": "SIKA AKTIVADOR 205 4X1000ML",
+      "brand": "SIKA",
+      "brandCode": "694",
+      "supplier": "SIKA S A",
+      "supplierCode": "2614",
+      "manufacturerCode": "451585",
+      "category": "PRIMERS / PROMOTORES DE ADESÃO",
+      "categorySlug": "primers-promotores-de-adesao",
+      "path": "/sika-aktivador-205-4x1000ml-12425",
+      "image": "/products/images/0124/12425.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--primers-promotores-de-adesao"
+  }
+}

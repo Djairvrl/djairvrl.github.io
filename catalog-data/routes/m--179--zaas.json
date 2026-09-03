@@ -1,0 +1,36 @@
+{
+  "title": "ZAAS",
+  "parentLabel": "Marca",
+  "description": "Produtos ZAAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZAAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3115",
+      "title": "ESQUADRO MAGNÉTICO 12KG - ZAAS PRECISION 375,0001",
+      "brand": "ZAAS",
+      "brandCode": "179",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "375,0001",
+      "category": "ESQUADRO",
+      "categorySlug": "esquadro",
+      "path": "/esquadro-magnetico-12kg--zaas-precision-3750001-3115",
+      "image": "/products/images/0031/3115.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--179--zaas"
+  }
+}

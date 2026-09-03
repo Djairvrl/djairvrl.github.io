@@ -1,0 +1,36 @@
+{
+  "title": "JOAPE",
+  "parentLabel": "Marca",
+  "description": "Produtos JOAPE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JOAPE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10995",
+      "title": "CASSINO C/P 80L C/B 220V 60HZ CINZA",
+      "brand": "JOAPE",
+      "brandCode": "850",
+      "supplier": "JOAPE - CLIMATIZACAO INDUSTRIAL LTDA",
+      "supplierCode": "4316",
+      "manufacturerCode": "10026229",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cassino-cp-80l-cb-220v-60hz-cinza-10995",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--850--joape"
+  }
+}

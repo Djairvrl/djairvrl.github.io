@@ -1,0 +1,36 @@
+{
+  "title": "LUMANTI",
+  "parentLabel": "Marca",
+  "description": "Produtos LUMANTI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LUMANTI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11096",
+      "title": "LUMINARIA PUBLICA LED 200W",
+      "brand": "LUMANTI",
+      "brandCode": "880",
+      "supplier": "LUMIX COMERCIAL LTDA",
+      "supplierCode": "3894",
+      "manufacturerCode": "5092",
+      "category": "ILUMINAÇÃO DE ALTA PERFORMANCE",
+      "categorySlug": "iluminacao-de-alta-performance",
+      "path": "/luminaria-publica-led-200w-11096",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--880--lumanti"
+  }
+}

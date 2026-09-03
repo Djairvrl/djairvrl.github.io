@@ -1,0 +1,36 @@
+{
+  "title": "PAKKI",
+  "parentLabel": "Marca",
+  "description": "Produtos PAKKI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PAKKI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9434",
+      "title": "SELADOR PET 13/16 MM",
+      "brand": "PAKKI",
+      "brandCode": "680",
+      "supplier": "PAKKI COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1816",
+      "manufacturerCode": "9434",
+      "category": "SELADOR",
+      "categorySlug": "selador",
+      "path": "/selador-pet-1316-mm-9434",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--680--pakki"
+  }
+}

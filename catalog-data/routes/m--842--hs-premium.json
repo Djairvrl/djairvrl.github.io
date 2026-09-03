@@ -1,0 +1,36 @@
+{
+  "title": "HS PREMIUM",
+  "parentLabel": "Marca",
+  "description": "Produtos HS PREMIUM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HS PREMIUM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10977",
+      "title": "MASCARA DE SOLDA AUTOMATICO A50 CA50294",
+      "brand": "HS PREMIUM",
+      "brandCode": "842",
+      "supplier": "H. SOLDAS E EQUIPAMENTOS LTDA",
+      "supplierCode": "4283",
+      "manufacturerCode": "10565",
+      "category": "MÁSCARA DE SOLDA",
+      "categorySlug": "mascara-de-solda",
+      "path": "/mascara-de-solda-automatico-a50-ca50294-10977",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Facial",
+      "sectionSlug": "protecao-facial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--842--hs-premium"
+  }
+}

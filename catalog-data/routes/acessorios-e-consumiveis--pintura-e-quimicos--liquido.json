@@ -1,0 +1,44 @@
+{
+  "title": "LÍQUIDO",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria líquido em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "LÍQUIDO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8837",
+      "title": "PENETRANTE SKL-WP2 VISIVEL LIQUIDO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PALMA MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "2267",
+      "manufacturerCode": "28779",
+      "category": "LÍQUIDO",
+      "categorySlug": "liquido",
+      "path": "/penetrante-sklwp2-visivel-liquido-8837",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--liquido"
+  }
+}

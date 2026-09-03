@@ -1,0 +1,95 @@
+{
+  "title": "TRIPÉ PARA RESGATE",
+  "parentLabel": "Espaço Confinado",
+  "description": "Produtos da categoria tripé para resgate em espaço confinado.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Espaço Confinado",
+      "to": "/epis-e-epcs/espaco-confinado"
+    },
+    {
+      "label": "TRIPÉ PARA RESGATE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8461",
+      "title": "TRIPE",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1168",
+      "manufacturerCode": "GM00002378",
+      "category": "TRIPÉ PARA RESGATE",
+      "categorySlug": "tripe-para-resgate",
+      "path": "/tripe-8461",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    },
+    {
+      "code": "8487",
+      "title": "TRIPE UNIVERSAL ALUMINIO 1,10M",
+      "brand": "GENERICA",
+      "brandCode": "394",
+      "supplier": "MARTA BABICHAK RODRIGUES CORREIA COMERCIO ELETRONICO",
+      "supplierCode": "2115",
+      "manufacturerCode": "MLB1787215062",
+      "category": "TRIPÉ PARA RESGATE",
+      "categorySlug": "tripe-para-resgate",
+      "path": "/tripe-universal-aluminio-110m-8487",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    },
+    {
+      "code": "2811",
+      "title": "TRIPÉ AJUSTÁVEL BT 150 PARA NÍVEIS A LASER - BOSCH 0601.096.B00-000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0601096B00000",
+      "category": "TRIPÉ PARA RESGATE",
+      "categorySlug": "tripe-para-resgate",
+      "path": "/tripe-ajustavel-bt-150-para-niveis-a-laser--bosch-0601096b00000-2811",
+      "image": "/products/images/0028/2811.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    },
+    {
+      "code": "6481",
+      "title": "TRIPÉ TORO 16KN PARA RESGATE E ESPAÇO CONFINADO - ULTRA SAFE USTP00700300",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USTP00700300",
+      "category": "TRIPÉ PARA RESGATE",
+      "categorySlug": "tripe-para-resgate",
+      "path": "/tripe-toro-16kn-para-resgate-e-espaco-confinado--ultra-safe-ustp00700300-6481",
+      "image": "/products/images/0064/6481.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--espaco-confinado--tripe-para-resgate"
+  }
+}

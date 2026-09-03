@@ -1,0 +1,53 @@
+{
+  "title": "RIKEN KEIKI",
+  "parentLabel": "Marca",
+  "description": "Produtos RIKEN KEIKI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RIKEN KEIKI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7803",
+      "title": "ANALISADOR DE GASES SP-220",
+      "brand": "RIKEN KEIKI",
+      "brandCode": "541",
+      "supplier": "HIDEO NAKAYAMA IMPORTAC EXPORTACAO COM E INDUSTRIA LTDA",
+      "supplierCode": "1843",
+      "manufacturerCode": "0123A",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/analisador-de-gases-sp220-7803",
+      "image": "/products/images/0078/7803.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7802",
+      "title": "DETECTOR DE GAS FP-31",
+      "brand": "RIKEN KEIKI",
+      "brandCode": "541",
+      "supplier": "HIDEO NAKAYAMA IMPORTAC EXPORTACAO COM E INDUSTRIA LTDA",
+      "supplierCode": "1843",
+      "manufacturerCode": "0182A",
+      "category": "DETECTOR DE GÁS",
+      "categorySlug": "detector-de-gas",
+      "path": "/detector-de-gas-fp31-7802",
+      "image": "/products/images/0078/7802.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--541--riken-keiki"
+  }
+}

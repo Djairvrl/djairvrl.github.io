@@ -1,0 +1,53 @@
+{
+  "title": "DELIKASA",
+  "parentLabel": "Marca",
+  "description": "Produtos DELIKASA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DELIKASA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13361",
+      "title": "COPO 3P 250ML",
+      "brand": "DELIKASA",
+      "brandCode": "1234",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7908224369527",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/copo-3p-250ml-13361",
+      "image": "/products/images/0133/13361.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13362",
+      "title": "FORMA GELO",
+      "brand": "DELIKASA",
+      "brandCode": "1234",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7908224380225",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/forma-gelo-13362",
+      "image": "/products/images/0133/13362.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1234--delikasa"
+  }
+}

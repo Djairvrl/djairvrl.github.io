@@ -1,0 +1,53 @@
+{
+  "title": "SCANGRIP",
+  "parentLabel": "Marca",
+  "description": "Produtos SCANGRIP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SCANGRIP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7729",
+      "title": "CONECTOR BOSCH COM SISTEMA DE SEGURANCA",
+      "brand": "SCANGRIP",
+      "brandCode": "530",
+      "supplier": "A T I BRASIL ARTIGOS TECNICOS INDUSTRIAIS LTDA",
+      "supplierCode": "1798",
+      "manufacturerCode": "SG03.6140C",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/conector-bosch-com-sistema-de-seguranca-7729",
+      "image": "/products/images/0077/7729.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "7730",
+      "title": "PROJETOR COM LED NOVA 4 CONNECT 4000 LUM",
+      "brand": "SCANGRIP",
+      "brandCode": "530",
+      "supplier": "A T I BRASIL ARTIGOS TECNICOS INDUSTRIAIS LTDA",
+      "supplierCode": "1798",
+      "manufacturerCode": "SG03.6101C",
+      "category": "FERRAMENTA DE ILUMINAÇÃO",
+      "categorySlug": "ferramenta-de-iluminacao",
+      "path": "/projetor-com-led-nova-4-connect-4000-lum-7730",
+      "image": "/products/images/0077/7730.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--530--scangrip"
+  }
+}

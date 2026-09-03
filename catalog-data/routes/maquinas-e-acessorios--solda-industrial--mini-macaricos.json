@@ -1,0 +1,129 @@
+{
+  "title": "MINI-MAÇARICOS",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria mini-maçaricos em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "MINI-MAÇARICOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6799",
+      "title": "GAS PARA MACARICO 300ML GI-3000",
+      "brand": "WESTERN",
+      "brandCode": "292",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "89896891",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/gas-para-macarico-300ml-gi3000-6799",
+      "image": "/products/images/0067/6799.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "10118",
+      "title": "MACARICO MANUAL PORTATIL 3 EM 1",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "7299301000",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/macarico-manual-portatil-3-em-1-10118",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6544",
+      "title": "MAÇARICO PARA GÁS MAPP COM IGNIÇÃO AUTOMÁTICA - VONDER 7299100000",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "7299100000",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/macarico-para-gas-mapp-com-ignicao-automatica--vonder-7299100000-6544",
+      "image": "/products/images/0065/6544.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "1048",
+      "title": "MAÇARICO PORTÁTIL - BR TORCH REF BR-5IT",
+      "brand": "BR TORCH",
+      "brandCode": "532",
+      "supplier": "BR TORCH IMPORTACAO E COMERCIO DE FERRAGENS LTDA",
+      "supplierCode": "1143",
+      "manufacturerCode": "0004",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/macarico-portatil--br-torch-ref-br5it-1048",
+      "image": "/products/images/0010/1048.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6348",
+      "title": "MAÇARICO PORTÁTIL BR-T6 AUTOMÁTICO - BR TORCH",
+      "brand": "BR TORCH",
+      "brandCode": "532",
+      "supplier": "BR TORCH IMPORTACAO E COMERCIO DE FERRAGENS LTDA",
+      "supplierCode": "1143",
+      "manufacturerCode": "0019",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/macarico-portatil-brt6-automatico--br-torch-6348",
+      "image": "/products/images/0063/6348.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "2624",
+      "title": "MINI MACARICO A GAS C ACEN AUT, METAL",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "914279",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/mini-macarico-a-gas-c-acen-aut-metal-2624",
+      "image": "/products/images/0026/2624.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--mini-macaricos"
+  }
+}

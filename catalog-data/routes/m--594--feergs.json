@@ -1,0 +1,36 @@
+{
+  "title": "FEERGS",
+  "parentLabel": "Marca",
+  "description": "Produtos FEERGS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FEERGS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8431",
+      "title": "RECOLHEDOR FITA LARANJA/PRETO 50X40MM",
+      "brand": "FEERGS",
+      "brandCode": "594",
+      "supplier": "IRMAOS MULLER EXPORTACAO E IMPORTACAO LTDA",
+      "supplierCode": "2099",
+      "manufacturerCode": "2650",
+      "category": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
+      "categorySlug": "fitas-e-cordas-de-demarcacao-sinalizacao",
+      "path": "/recolhedor-fita-laranjapreto-50x40mm-8431",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--594--feergs"
+  }
+}

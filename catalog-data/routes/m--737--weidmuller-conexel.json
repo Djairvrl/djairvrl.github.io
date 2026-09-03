@@ -1,0 +1,121 @@
+{
+  "title": "WEIDMULLER CONEXEL",
+  "parentLabel": "Marca",
+  "description": "Produtos WEIDMULLER CONEXEL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "WEIDMULLER CONEXEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9971",
+      "title": "TERMINAL COMPRESSAO TUB 240MM² 1FURO M16",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "C9062276000",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-tub-240mm2-1furo-m16-9971",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9972",
+      "title": "TERMINAL COMPRESSAO TUB 70MM² 1 FURO M12",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "C9062086000",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-compressao-tub-70mm2-1-furo-m12-9972",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10044",
+      "title": "TERMINAL ELET TUB PRE-ISOLADO 16MM AZUL",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "C9019260000",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-elet-tub-preisolado-16mm-azul-10044",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10578",
+      "title": "TERMINAL ILHOS 2,5MM AZ H2.5-15BLSV",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "H2,515BLSV",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-ilhos-25mm-az-h2515blsv-10578",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "10580",
+      "title": "TERMINAL ILHOS DUP 1,5MM2 PT H1,516DZHS",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "H1,516DZHSWSV",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-ilhos-dup-15mm2-pt-h1516dzhs-10580",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12437",
+      "title": "TERMINAL ILHOS PRETO PRE-ISOLADO 1,5MM",
+      "brand": "WEIDMULLER CONEXEL",
+      "brandCode": "737",
+      "supplier": "TELARIO IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "5714",
+      "manufacturerCode": "E-1508",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-ilhos-preto-preisolado-15mm-12437",
+      "image": "/products/images/0124/12437.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--737--weidmuller-conexel"
+  }
+}

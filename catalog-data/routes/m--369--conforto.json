@@ -1,0 +1,36 @@
+{
+  "title": "CONFORTO",
+  "parentLabel": "Marca",
+  "description": "Produtos CONFORTO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CONFORTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6869",
+      "title": "LUVA DE COBERT VAQ 8/10  CA8989 P,M,G,GG",
+      "brand": "CONFORTO",
+      "brandCode": "369",
+      "supplier": "CONFORTO ARTEFATOS DE COURO LTDA",
+      "supplierCode": "1410",
+      "manufacturerCode": "L42VR30",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-de-cobert-vaq-810-ca8989-pmggg-6869",
+      "image": "/products/images/0068/6869.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--369--conforto"
+  }
+}

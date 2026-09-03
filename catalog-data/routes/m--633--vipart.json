@@ -1,0 +1,36 @@
+{
+  "title": "VIPART",
+  "parentLabel": "Marca",
+  "description": "Produtos VIPART disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VIPART"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8920",
+      "title": "BOMBA DRENAGEM 3POL 6M AV80F",
+      "brand": "VIPART",
+      "brandCode": "633",
+      "supplier": "VIPART INDUSTRIA E COMERCIO DE MAQUINAS E EQUIPAMENTOS PARA",
+      "supplierCode": "2302",
+      "manufacturerCode": "900250273",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/bomba-drenagem-3pol-6m-av80f-8920",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--633--vipart"
+  }
+}

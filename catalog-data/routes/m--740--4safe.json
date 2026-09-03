@@ -1,0 +1,53 @@
+{
+  "title": "4SAFE",
+  "parentLabel": "Marca",
+  "description": "Produtos 4SAFE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "4SAFE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10017",
+      "title": "BLOQUEIO A CABO AÇO INOX 1,6M ABERTO 4SAFE REF LTBCA003",
+      "brand": "4SAFE",
+      "brandCode": "740",
+      "supplier": "BUNZL EQUIPAMENTOS P PROTECAO INDIVIDUAL",
+      "supplierCode": "28",
+      "manufacturerCode": "LTBCA003",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-a-cabo-aco-inox-16m-aberto-4safe-ref-ltbca003-10017",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "11501",
+      "title": "BLOQUEIO DE CABO A NYLON 2,5M X 3,2MM",
+      "brand": "4SAFE",
+      "brandCode": "740",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "LTBCN001",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-de-cabo-a-nylon-25m-x-32mm-11501",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--740--4safe"
+  }
+}

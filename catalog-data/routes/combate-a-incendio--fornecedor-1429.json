@@ -1,0 +1,119 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de GUARANY INDUSTRIA E COMERCIO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1429",
+    "name": "GUARANY INDUSTRIA E COMERCIO LTDA"
+  },
+  "products": [
+    {
+      "code": "2665",
+      "title": "ABAFADOR FLORESTAL COM CABO DE MADEIRA E LONA 12 FUROS PARA COMBATE A INCÊNDIO - GUARANY REF. 0467.08.00",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0467.08.00",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/abafador-florestal-com-cabo-de-madeira-e-lona-12-furos-para-combate-a-incendio--guarany-ref-04670800-2665",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "4866",
+      "title": "BOMBA COSTAL ANTI-INCÊNDIO S4 20L PROFISSIONAL - GUARANY 0431.30",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0431.30.00",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/bomba-costal-antiincendio-s4-20l-profissional--guarany-043130-4866",
+      "image": "/products/images/0048/4866.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "8101",
+      "title": "MOCHILA COSTAL FLEXÍVEL ANTI-INCENDIO 21L ECOFIRE - GUARANY 0431.25",
+      "brand": "GUARANY",
+      "brandCode": "171",
+      "supplier": "GUARANY INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1429",
+      "manufacturerCode": "0431.25.00",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/mochila-costal-flexivel-antiincendio-21l-ecofire--guarany-043125-8101",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "combate-a-incendio--fornecedor-1429"
+  }
+}

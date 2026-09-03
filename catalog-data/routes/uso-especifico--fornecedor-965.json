@@ -1,0 +1,55 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos de NILKO TECNOLOGIA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "965",
+    "name": "NILKO TECNOLOGIA LTDA"
+  },
+  "products": [
+    {
+      "code": "9986",
+      "title": "PES ELEVADOS EM ACO INOX",
+      "brand": "NILKO",
+      "brandCode": "227",
+      "supplier": "NILKO TECNOLOGIA LTDA",
+      "supplierCode": "965",
+      "manufacturerCode": "NK 1510",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/pes-elevados-em-aco-inox-9986",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "uso-especifico--fornecedor-965"
+  }
+}

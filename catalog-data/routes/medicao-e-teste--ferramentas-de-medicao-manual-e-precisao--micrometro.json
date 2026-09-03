@@ -1,0 +1,95 @@
+{
+  "title": "MICRÔMETRO",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria micrômetro em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "MICRÔMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9576",
+      "title": "MICROMETRO EXTERNO DIGITAL CAPACIDADE 125-150MM/5-6\" (PROTECAO IP65) COM SAIDA DE DADOS DIGIMESS REF 110.255",
+      "brand": "DIGIMESS",
+      "brandCode": "170",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "110.255",
+      "category": "MICRÔMETRO",
+      "categorySlug": "micrometro",
+      "path": "/micrometro-externo-digital-capacidade-125150mm56-protecao-ip65-com-saida-de-dados-digimess-ref-110255-9576",
+      "image": "/products/images/0095/9576.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "9574",
+      "title": "MICROMETRO EXTERNO DIGITAL CAPACIDADE 150-175MM (PROTECAO IP65) COM SAIDA DE DADOS  DIGIMESS REF 110.256",
+      "brand": "DIGIMESS",
+      "brandCode": "170",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "110.256",
+      "category": "MICRÔMETRO",
+      "categorySlug": "micrometro",
+      "path": "/micrometro-externo-digital-capacidade-150175mm-protecao-ip65-com-saida-de-dados-digimess-ref-110256-9574",
+      "image": "/products/images/0095/9574.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "1705",
+      "title": "MICRÔMETRO EXTERNO DIGITAL 150 -175MM/0,001MM COM SAÍDA DE DADOS - PROTEÇÃOIP65 - MITUTOYO  293-252-30",
+      "brand": "MITUTOYO",
+      "brandCode": "110",
+      "supplier": "MITUTOYO SUL AMERICANA LTDA",
+      "supplierCode": "269",
+      "manufacturerCode": "293-252-30",
+      "category": "MICRÔMETRO",
+      "categorySlug": "micrometro",
+      "path": "/micrometro-externo-digital-150-175mm0001mm-com-saida-de-dados--protecaoip65--mitutoyo-29325230-1705",
+      "image": "/products/images/0017/1705.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "9577",
+      "title": "MICRÔMETROS EXTERNOS DIGITAIS CAPACIDADE 0-25MM/0-1\" ( NÍVEL DE PROTEÇÃO IP40)  DIGIMESS REF 110284-NEW",
+      "brand": "DIGIMESS",
+      "brandCode": "170",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "110.284-NEW",
+      "category": "MICRÔMETRO",
+      "categorySlug": "micrometro",
+      "path": "/micrometros-externos-digitais-capacidade-025mm01-nivel-de-protecao-ip40-digimess-ref-110284new-9577",
+      "image": "/products/images/0095/9577.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--micrometro"
+  }
+}

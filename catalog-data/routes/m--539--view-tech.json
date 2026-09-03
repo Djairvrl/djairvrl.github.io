@@ -1,0 +1,36 @@
+{
+  "title": "VIEW TECH",
+  "parentLabel": "Marca",
+  "description": "Produtos VIEW TECH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VIEW TECH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7796",
+      "title": "SINALEIRO LED 220VCC/VCA AMARLO 22MM MON",
+      "brand": "VIEW TECH",
+      "brandCode": "539",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "PLML3L220",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/sinaleiro-led-220vccvca-amarlo-22mm-mon-7796",
+      "image": "/products/images/0077/7796.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--539--view-tech"
+  }
+}

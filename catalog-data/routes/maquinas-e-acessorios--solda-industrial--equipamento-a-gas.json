@@ -1,0 +1,163 @@
+{
+  "title": "EQUIPAMENTO A GÁS",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria equipamento a gás em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "EQUIPAMENTO A GÁS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4745",
+      "title": "CILINDRO GÁS MAPP® 400G - ALTA PERFORMANCE PARA SOLDA - ROTHENBERGER",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "ROTHENBERGER DO BRASIL LTDA",
+      "supplierCode": "908",
+      "manufacturerCode": "R35539",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/cilindro-gas-mapp-400g--alta-performance-para-solda--rothenberger-4745",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5615",
+      "title": "CONJ DE SOLDA OXI-ACETILENO MILLENNIUM",
+      "brand": "FAMABRAS",
+      "brandCode": "250",
+      "supplier": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "supplierCode": "727",
+      "manufacturerCode": "1910497",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/conj-de-solda-oxiacetileno-millennium-5615",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6422",
+      "title": "DREMEL VERSATIP A GAS F 013 200",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CORDEIRO MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1223",
+      "manufacturerCode": "13584",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/dremel-versatip-a-gas-f-013-200-6422",
+      "image": "/products/images/0064/6422.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "8723",
+      "title": "GLP ENVASADO EM BOTIJAO DE 20KGS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JN DISTRIBUIDORA DE GAS LTDA",
+      "supplierCode": "2181",
+      "manufacturerCode": "0000000007",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/glp-envasado-em-botijao-de-20kgs-8723",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "4750",
+      "title": "MACARICO SUPER FOGO",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "ROTHENBERGER DO BRASIL LTDA",
+      "supplierCode": "908",
+      "manufacturerCode": "2544000",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/macarico-super-fogo-4750",
+      "image": "/products/images/0047/4750.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "1580",
+      "title": "MANGUEIRA DUPLA PARA SOLDA  5/16\" EM PVC COM TRAMAS REFORÇADO EM FIBRAS - NOLL 309.0001",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "309,0001",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/mangueira-dupla-para-solda-516-em-pvc-com-tramas-reforcado-em-fibras--noll-3090001-1580",
+      "image": "/products/images/0015/1580.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "3535",
+      "title": "MANGUEIRA PARA GÁS GLP 1,20M Ø10MM COM 2 ABRAÇADEIRAS - INMETRO -FORCELINE 0190400397",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0190400397",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/mangueira-para-gas-glp-120m-10mm-com-2-abracadeiras--inmetro-forceline-0190400397-3535",
+      "image": "/products/images/0035/3535.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6858",
+      "title": "REFIL MACARICO MAP",
+      "brand": "EOS",
+      "brandCode": "363",
+      "supplier": "TACIANE P S DE ALMEIDA FERRAGENS",
+      "supplierCode": "1389",
+      "manufacturerCode": "2499",
+      "category": "EQUIPAMENTO A GÁS",
+      "categorySlug": "equipamento-a-gas",
+      "path": "/refil-macarico-map-6858",
+      "image": "/products/images/0068/6858.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--equipamento-a-gas"
+  }
+}

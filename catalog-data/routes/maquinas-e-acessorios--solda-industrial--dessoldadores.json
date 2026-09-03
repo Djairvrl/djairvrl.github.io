@@ -1,0 +1,44 @@
+{
+  "title": "DESSOLDADORES",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria dessoldadores em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "DESSOLDADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12597",
+      "title": "SUGADOR DE SOLDA ELETRICO 220V 30W",
+      "brand": "BRASILHOME NET",
+      "brandCode": "1095",
+      "supplier": "BRASIL HOME EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "5789",
+      "manufacturerCode": "R978CQJ5L",
+      "category": "DESSOLDADORES",
+      "categorySlug": "dessoldadores",
+      "path": "/sugador-de-solda-eletrico-220v-30w-12597",
+      "image": "/products/images/0125/12597.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--dessoldadores"
+  }
+}

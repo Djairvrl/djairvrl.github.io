@@ -1,0 +1,36 @@
+{
+  "title": "FABRIFIX",
+  "parentLabel": "Marca",
+  "description": "Produtos FABRIFIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FABRIFIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11228",
+      "title": "REBITE ROSCADO M8 ZINCADO BRANCO",
+      "brand": "FABRIFIX",
+      "brandCode": "916",
+      "supplier": "FABRIFIX INDUSTRIA E COMERCIO DE FIXADORES LTDA",
+      "supplierCode": "4704",
+      "manufacturerCode": "RRRP0835ZB",
+      "category": "REBITE",
+      "categorySlug": "rebite",
+      "path": "/rebite-roscado-m8-zincado-branco-11228",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--916--fabrifix"
+  }
+}

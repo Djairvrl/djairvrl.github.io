@@ -1,0 +1,36 @@
+{
+  "title": "MULTISEG",
+  "parentLabel": "Marca",
+  "description": "Produtos MULTISEG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MULTISEG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8192",
+      "title": "SUPORTE SOLO TRIPE COM HASTE P4 P6",
+      "brand": "MULTISEG",
+      "brandCode": "598",
+      "supplier": "MULTISEG COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "1709",
+      "manufacturerCode": "1202",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/suporte-solo-tripe-com-haste-p4-p6-8192",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--598--multiseg"
+  }
+}

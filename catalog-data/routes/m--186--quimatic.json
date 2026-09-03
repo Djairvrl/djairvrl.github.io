@@ -1,0 +1,121 @@
+{
+  "title": "QUIMATIC",
+  "parentLabel": "Marca",
+  "description": "Produtos QUIMATIC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "QUIMATIC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3449",
+      "title": "CRZ GALVANIZAÇÃO A FRIO CINZA FOSCO SPRAY 300ML  ANTICORROSIVO - QUIMATIC",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "DM1",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/crz-galvanizacao-a-frio-cinza-fosco-spray-300ml-anticorrosivo--quimatic-3449",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3453",
+      "title": "DESENGRAX IND ED SOLV 5LT",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "DS2",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/desengrax-ind-ed-solv-5lt-3453",
+      "image": "/products/images/0034/3453.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "3452",
+      "title": "EMBURRAC A FRIO PLAST FILM PRETO 500ML",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "CK1",
+      "category": "PLASTI FILM",
+      "categorySlug": "plasti-film",
+      "path": "/emburrac-a-frio-plast-film-preto-500ml-3452",
+      "image": "/products/images/0034/3452.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8222",
+      "title": "GALVALUM GALVANIZAÇÃO ALUMINIZADA A FRIO 3,6 LITROS  ANTICORROSIVO - QUIMATIC DA3",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "DA3",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/galvalum-galvanizacao-aluminizada-a-frio-36-litros-anticorrosivo--quimatic-da3-8222",
+      "image": "/products/images/0082/8222.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3450",
+      "title": "GALVALUM GALVANIZAÇÃO ALUMINIZADA A FRIO SPRAY 300ML ANTICORROSIVO - QUIMATIC DN1",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "DN1",
+      "category": "GALVANIZADOR",
+      "categorySlug": "galvanizador",
+      "path": "/galvalum-galvanizacao-aluminizada-a-frio-spray-300ml-anticorrosivo--quimatic-dn1-3450",
+      "image": "/products/images/0034/3450.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3451",
+      "title": "LUBRIF SUPER IND QUIMATIC 20 300ML",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "AM1",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/lubrif-super-ind-quimatic-20-300ml-3451",
+      "image": "/products/images/0034/3451.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--186--quimatic"
+  }
+}

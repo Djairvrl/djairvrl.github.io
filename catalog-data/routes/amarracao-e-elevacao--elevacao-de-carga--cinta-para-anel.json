@@ -1,0 +1,44 @@
+{
+  "title": "CINTA PARA ANEL",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria cinta para anel em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "CINTA PARA ANEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13144",
+      "title": "CINTA PES 2T FS 7:1 ANEL 60MM X 2M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL-INDUSTRIA E COMERCIO DE CINTAS LTDA",
+      "supplierCode": "3627",
+      "manufacturerCode": "23060Z",
+      "category": "CINTA PARA ANEL",
+      "categorySlug": "cinta-para-anel",
+      "path": "/cinta-pes-2t-fs-71-anel-60mm-x-2m-13144",
+      "image": "/products/images/0131/13144.webp",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--cinta-para-anel"
+  }
+}

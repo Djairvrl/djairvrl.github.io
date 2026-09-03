@@ -1,0 +1,112 @@
+{
+  "title": "QUIMICOS INDUSTRIAS",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria quimicos industrias em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "QUIMICOS INDUSTRIAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13037",
+      "title": "BELZONA 1111 - 1KG",
+      "brand": "HITA",
+      "brandCode": "1171",
+      "supplier": "HITA COMERCIO E SERVIÇOS LTDA",
+      "supplierCode": "970",
+      "manufacturerCode": "1",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/belzona-1111--1kg-13037",
+      "image": "/products/images/0130/13037.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11609",
+      "title": "CARBURETO CALCIO CAIXA COM 100 AMPOLAS",
+      "brand": "DIDATICA LABOR",
+      "brandCode": "961",
+      "supplier": "DIDATICA EQUIPAMENTOS PARA LABORATORIO LTDA",
+      "supplierCode": "5122",
+      "manufacturerCode": "60504",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/carbureto-calcio-caixa-com-100-ampolas-11609",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "13154",
+      "title": "COMPOSTO PENETROX ANTI-OXI 300G",
+      "brand": "CONDEAL",
+      "brandCode": "516",
+      "supplier": "GKE ELETRO LTDA",
+      "supplierCode": "1740",
+      "manufacturerCode": "6064",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/composto-penetrox-antioxi-300g-13154",
+      "image": "/products/images/0131/13154.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "13317",
+      "title": "PASTA TERMICA 100G BRANCA",
+      "brand": "IMPLASTEC",
+      "brandCode": "405",
+      "supplier": "TECHNODATA DIGITAL RETAIL LTDA",
+      "supplierCode": "6234",
+      "manufacturerCode": "VNXPAPT1006C X",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/pasta-termica-100g-branca-13317",
+      "image": "/products/images/0133/13317.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "13247",
+      "title": "SILICA GEL AZUL 4.0 - 8.0 MM 40KG",
+      "brand": "SAGUARAGI",
+      "brandCode": "1207",
+      "supplier": "SAGUARAGI INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "6188",
+      "manufacturerCode": "137",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/silica-gel-azul-40--80-mm-40kg-13247",
+      "image": "/products/images/0132/13247.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--quimicos-industrias"
+  }
+}

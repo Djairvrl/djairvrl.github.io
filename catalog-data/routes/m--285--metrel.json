@@ -1,0 +1,36 @@
+{
+  "title": "METREL",
+  "parentLabel": "Marca",
+  "description": "Produtos METREL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "METREL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6434",
+      "title": "MICROHMIMETRO DE 100A - MOD: 3252",
+      "brand": "METREL",
+      "brandCode": "285",
+      "supplier": "INSTRONIC INSTRUMENTOS DE TESTES LTDA",
+      "supplierCode": "1228",
+      "manufacturerCode": "3MEA023A",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/microhmimetro-de-100a--mod-3252-6434",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--285--metrel"
+  }
+}

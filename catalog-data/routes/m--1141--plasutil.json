@@ -1,0 +1,36 @@
+{
+  "title": "PLASUTIL",
+  "parentLabel": "Marca",
+  "description": "Produtos PLASUTIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLASUTIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12844",
+      "title": "CAIXA PLASUT GRAN BOX ALTA 19,8L",
+      "brand": "PLASUTIL",
+      "brandCode": "1141",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896042028903",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/caixa-plasut-gran-box-alta-198l-12844",
+      "image": "/products/images/0128/12844.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1141--plasutil"
+  }
+}

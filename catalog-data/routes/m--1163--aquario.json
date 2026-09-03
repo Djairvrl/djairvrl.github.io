@@ -1,0 +1,36 @@
+{
+  "title": "AQUARIO",
+  "parentLabel": "Marca",
+  "description": "Produtos AQUARIO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AQUARIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12963",
+      "title": "SUPORTE DE PAREDE P/ MONITOR/ TV",
+      "brand": "AQUARIO",
+      "brandCode": "1163",
+      "supplier": "PROSPERITY COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "2207",
+      "manufacturerCode": "SUPAQU006",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/suporte-de-parede-p-monitor-tv-12963",
+      "image": "/products/images/0129/12963.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1163--aquario"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "PRO-TECH",
+  "parentLabel": "Marca",
+  "description": "Produtos PRO-TECH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PRO-TECH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4690",
+      "title": "MASCARA PFF2 604V C/VALVULA CA - 43742",
+      "brand": "PRO-TECH",
+      "brandCode": "199",
+      "supplier": "PRO-TECH INDUSTRIA DE EQUIPAMENTOS DE PROTEÇÃO EIRELI",
+      "supplierCode": "848",
+      "manufacturerCode": "5",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/mascara-pff2-604v-cvalvula-ca--43742-4690",
+      "image": "/products/images/0046/4690.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "4691",
+      "title": "MASCARA PFF3 804 V COM VALVULA",
+      "brand": "PRO-TECH",
+      "brandCode": "199",
+      "supplier": "PRO-TECH INDUSTRIA DE EQUIPAMENTOS DE PROTEÇÃO EIRELI",
+      "supplierCode": "848",
+      "manufacturerCode": "34",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/mascara-pff3-804-v-com-valvula-4691",
+      "image": "/products/images/0046/4691.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "3701",
+      "title": "MASCARA TRIPLA MOD CIRUGICA BRANCA",
+      "brand": "PRO-TECH",
+      "brandCode": "199",
+      "supplier": "PRO-TECH INDUSTRIA DE EQUIPAMENTOS DE PROTEÇÃO EIRELI",
+      "supplierCode": "848",
+      "manufacturerCode": "MA50A-BR",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/mascara-tripla-mod-cirugica-branca-3701",
+      "image": "/products/images/0037/3701.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--199--pro-tech"
+  }
+}

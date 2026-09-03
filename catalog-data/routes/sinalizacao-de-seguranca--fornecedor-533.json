@@ -1,0 +1,140 @@
+{
+  "title": "Sinalização de Segurança",
+  "parentLabel": "Departamento",
+  "description": "Produtos de TRANSSUPPLY OPERACOES LOGISTICA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança"
+    }
+  ],
+  "children": [
+    {
+      "name": "Placas de Advertência e Emergência",
+      "slug": "placas-de-advertencia-e-emergencia",
+      "path": "/sinalizacao-de-seguranca/placas-de-advertencia-e-emergencia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Sinalização Viária, Tráfego e Delimitação",
+      "slug": "sinalizacao-viaria-trafego-e-delimitacao",
+      "path": "/sinalizacao-de-seguranca/sinalizacao-viaria-trafego-e-delimitacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Adesivo Refletivo Grau Prismático Iii",
+      "slug": "adesivo-refletivo-grau-prismatico-iii",
+      "path": "/sinalizacao-de-seguranca/adesivo-refletivo-grau-prismatico-iii",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Placas E Dispositivos",
+      "slug": "placas-e-dispositivos",
+      "path": "/sinalizacao-de-seguranca/placas-e-dispositivos",
+      "count": 179,
+      "categories": [
+        {
+          "name": "SINALIZAÇÃO DE EXTINTORES",
+          "slug": "sinalizacao-de-extintores",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-extintores",
+          "count": 27
+        },
+        {
+          "name": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+          "slug": "sinalizacao-de-proibicao-e-alerta",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-proibicao-e-alerta",
+          "count": 7
+        },
+        {
+          "name": "SINALIZAÇÃO EQUIPAMENTOS",
+          "slug": "sinalizacao-equipamentos",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-equipamentos",
+          "count": 2
+        },
+        {
+          "name": "SINALIZAÇÃO ROTA DE FUGA",
+          "slug": "sinalizacao-rota-de-fuga",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-rota-de-fuga",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÃO VIÁRIA",
+          "slug": "sinalizacao-viaria",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-viaria",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÕES DIVERSAS",
+          "slug": "sinalizacoes-diversas",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacoes-diversas",
+          "count": 71
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "533",
+    "name": "TRANSSUPPLY OPERACOES LOGISTICA LTDA"
+  },
+  "products": [
+    {
+      "code": "5758",
+      "title": "PLACA  ADVERT USO OBRIG EPI/EPC 30X20",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "56",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-advert-uso-obrig-epiepc-30x20-5758",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "1009",
+      "title": "PLACA EM P.S DE ADVERTENCIA 30X20CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "47",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-em-ps-de-advertencia-30x20cm-1009",
+      "image": "/products/images/0010/1009.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "3320",
+      "title": "PLACAS SINALIZ AREA CLASSIFICADA 60X40",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "48",
+      "category": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+      "categorySlug": "sinalizacao-de-proibicao-e-alerta",
+      "path": "/placas-sinaliz-area-classificada-60x40-3320",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "sinalizacao-de-seguranca--fornecedor-533"
+  }
+}

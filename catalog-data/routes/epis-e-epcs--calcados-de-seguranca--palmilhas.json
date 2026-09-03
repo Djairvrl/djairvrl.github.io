@@ -1,0 +1,61 @@
+{
+  "title": "PALMILHAS",
+  "parentLabel": "Calçados de Segurança",
+  "description": "Produtos da categoria palmilhas em calçados de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Calçados de Segurança",
+      "to": "/epis-e-epcs/calcados-de-seguranca"
+    },
+    {
+      "label": "PALMILHAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11977",
+      "title": "PALMILHA ANTIPERFURANTE TAM 42",
+      "brand": "ESTIVAL",
+      "brandCode": "270",
+      "supplier": "ESTIVAL CALCADOS DE SEGURANCA LTDA",
+      "supplierCode": "1197",
+      "manufacturerCode": "CALCPU",
+      "category": "PALMILHAS",
+      "categorySlug": "palmilhas",
+      "path": "/palmilha-antiperfurante-tam-42-11977",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    },
+    {
+      "code": "12006",
+      "title": "PALMILHA ANTIPERFURANTE TAM 43",
+      "brand": "ESTIVAL",
+      "brandCode": "270",
+      "supplier": "ESTIVAL CALCADOS DE SEGURANCA LTDA",
+      "supplierCode": "1197",
+      "manufacturerCode": "CALCPU",
+      "category": "PALMILHAS",
+      "categorySlug": "palmilhas",
+      "path": "/palmilha-antiperfurante-tam-43-12006",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--calcados-de-seguranca--palmilhas"
+  }
+}

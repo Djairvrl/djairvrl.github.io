@@ -1,0 +1,87 @@
+{
+  "title": "HELLERMANN",
+  "parentLabel": "Marca",
+  "description": "Produtos HELLERMANN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HELLERMANN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11460",
+      "title": "FIXADORES AUTO ADESIVO 28X28MM KIT  500P",
+      "brand": "HELLERMANN",
+      "brandCode": "291",
+      "supplier": "RTF IMPORTACAO E COMERCIO DE COMPONENTES ELETRONICOS LTDA",
+      "supplierCode": "1264",
+      "manufacturerCode": "FX 28X28 BR X 500 PÇS",
+      "category": "FIXADORES",
+      "categorySlug": "fixadores",
+      "path": "/fixadores-auto-adesivo-28x28mm-kit-500p-11460",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "9697",
+      "title": "TUBO TERMOCONTRATIL HIS-3 12/4 1/2 PRETO",
+      "brand": "HELLERMANN",
+      "brandCode": "291",
+      "supplier": "ANDRA S A ELECTRIC SOLUTIONS",
+      "supplierCode": "2668",
+      "manufacturerCode": "HIS3C",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/tubo-termocontratil-his3-124-12-preto-9697",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9695",
+      "title": "TUBO TERMOCONTRATIL HIS-3 3/1 1/8 PRETO",
+      "brand": "HELLERMANN",
+      "brandCode": "291",
+      "supplier": "ANDRA S A ELECTRIC SOLUTIONS",
+      "supplierCode": "2668",
+      "manufacturerCode": "HIS3F",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/tubo-termocontratil-his3-31-18-preto-9695",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9696",
+      "title": "TUBO TERMOCONTRATIL HIS-3 6/2 1/4 PRETO",
+      "brand": "HELLERMANN",
+      "brandCode": "291",
+      "supplier": "ANDRA S A ELECTRIC SOLUTIONS",
+      "supplierCode": "2668",
+      "manufacturerCode": "HIS3D",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/tubo-termocontratil-his3-62-14-preto-9696",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--291--hellermann"
+  }
+}

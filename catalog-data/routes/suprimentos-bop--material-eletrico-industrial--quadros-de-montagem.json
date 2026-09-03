@@ -1,0 +1,44 @@
+{
+  "title": "QUADROS DE MONTAGEM",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria quadros de montagem em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "QUADROS DE MONTAGEM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11293",
+      "title": "QUADRO COM AC PINT BG 1P 500X 400X 200MM",
+      "brand": "CEMAR LEGRAND",
+      "brandCode": "919",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1471",
+      "manufacturerCode": "QCS504020",
+      "category": "QUADROS DE MONTAGEM",
+      "categorySlug": "quadros-de-montagem",
+      "path": "/quadro-com-ac-pint-bg-1p-500x-400x-200mm-11293",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--quadros-de-montagem"
+  }
+}

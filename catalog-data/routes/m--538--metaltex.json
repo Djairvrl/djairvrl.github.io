@@ -1,0 +1,70 @@
+{
+  "title": "METALTEX",
+  "parentLabel": "Marca",
+  "description": "Produtos METALTEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "METALTEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12077",
+      "title": "BOTOEIRA PLAS AM BOT.EMERG 40MM CP1-E",
+      "brand": "METALTEX",
+      "brandCode": "538",
+      "supplier": "DIGEL ELETRICA LTDA",
+      "supplierCode": "5495",
+      "manufacturerCode": "2249",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botoeira-plas-am-botemerg-40mm-cp1e-12077",
+      "image": "/products/images/0120/12077.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11331",
+      "title": "BOTOEIRA PONTE  ROLANTE 1 EIXOUNIDADE",
+      "brand": "METALTEX",
+      "brandCode": "538",
+      "supplier": "PROD ELETRONICOS METALTEX LTDA",
+      "supplierCode": "4790",
+      "manufacturerCode": "BPR-61E",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botoeira-ponte-rolante-1-eixounidade-11331",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7790",
+      "title": "CONTATOR TRIPOLAR 32A/AC3 220VCA 2NA+2NF",
+      "brand": "METALTEX",
+      "brandCode": "538",
+      "supplier": "LUZ AUTOMACAO INDUSTRIAL LTDA",
+      "supplierCode": "1840",
+      "manufacturerCode": "CT32-H5-322",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/contator-tripolar-32aac3-220vca-2na2nf-7790",
+      "image": "/products/images/0077/7790.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--538--metaltex"
+  }
+}

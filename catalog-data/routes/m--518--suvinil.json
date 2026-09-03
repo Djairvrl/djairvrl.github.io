@@ -1,0 +1,36 @@
+{
+  "title": "SUVINIL",
+  "parentLabel": "Marca",
+  "description": "Produtos SUVINIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SUVINIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7619",
+      "title": "TINTA ACRIL PREM FO CINZA 18L SUV PISO",
+      "brand": "SUVINIL",
+      "brandCode": "518",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "000000000090707631",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-acril-prem-fo-cinza-18l-suv-piso-7619",
+      "image": "/products/images/0076/7619.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--518--suvinil"
+  }
+}

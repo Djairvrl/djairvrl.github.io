@@ -1,0 +1,95 @@
+{
+  "title": "PÁS",
+  "parentLabel": "Limpeza Industrial",
+  "description": "Produtos da categoria pás em limpeza industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Limpeza Industrial",
+      "to": "/ambiental/limpeza-industrial"
+    },
+    {
+      "label": "PÁS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13411",
+      "title": "PA BITUQUEIRA VERMELHA",
+      "brand": "MOPPTA",
+      "brandCode": "1229",
+      "supplier": "CRYSMAR PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "6249",
+      "manufacturerCode": "SB71013",
+      "category": "PÁS",
+      "categorySlug": "pas",
+      "path": "/pa-bituqueira-vermelha-13411",
+      "image": "/products/images/0134/13411.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "4085",
+      "title": "PA COLETORA EM PLASTICO PROFISSIONAL",
+      "brand": "BRALIMPIA",
+      "brandCode": "210",
+      "supplier": "BRALIMPIA IND COM DE EQ P LIMP LTDA",
+      "supplierCode": "773",
+      "manufacturerCode": "MVPP502",
+      "category": "PÁS",
+      "categorySlug": "pas",
+      "path": "/pa-coletora-em-plastico-profissional-4085",
+      "image": "/products/images/0040/4085.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "4028",
+      "title": "PA PARA LIXO ARTICULADA 1506",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "98459",
+      "category": "PÁS",
+      "categorySlug": "pas",
+      "path": "/pa-para-lixo-articulada-1506-4028",
+      "image": "/products/images/0040/4028.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "4027",
+      "title": "PA PARA LIXO BORRACHA ADERENTE 1507",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "90852",
+      "category": "PÁS",
+      "categorySlug": "pas",
+      "path": "/pa-para-lixo-borracha-aderente-1507-4027",
+      "image": "/products/images/0040/4027.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ambiental--limpeza-industrial--pas"
+  }
+}

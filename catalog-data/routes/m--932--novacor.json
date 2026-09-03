@@ -1,0 +1,87 @@
+{
+  "title": "NOVACOR",
+  "parentLabel": "Marca",
+  "description": "Produtos NOVACOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NOVACOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11395",
+      "title": "NOVACOR PISO AMARELO DEMARC GALAO 3,6L",
+      "brand": "NOVACOR",
+      "brandCode": "932",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1469",
+      "manufacturerCode": "68574",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/novacor-piso-amarelo-demarc-galao-36l-11395",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11396",
+      "title": "NOVACOR PISO CINZA LATA 18L",
+      "brand": "NOVACOR",
+      "brandCode": "932",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1469",
+      "manufacturerCode": "68548",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/novacor-piso-cinza-lata-18l-11396",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12067",
+      "title": "NOVACOR PISO CONCRETO LATA 18L",
+      "brand": "NOVACOR",
+      "brandCode": "932",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "68560",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/novacor-piso-concreto-lata-18l-12067",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11399",
+      "title": "NOVACOR PISO PRETO GALAO 3,6L",
+      "brand": "NOVACOR",
+      "brandCode": "932",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1469",
+      "manufacturerCode": "68563",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/novacor-piso-preto-galao-36l-11399",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--932--novacor"
+  }
+}

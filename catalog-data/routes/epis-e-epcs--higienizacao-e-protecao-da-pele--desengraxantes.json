@@ -1,0 +1,112 @@
+{
+  "title": "DESENGRAXANTES",
+  "parentLabel": "Higienização e Proteção da Pele",
+  "description": "Produtos da categoria desengraxantes em higienização e proteção da pele.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Higienização e Proteção da Pele",
+      "to": "/epis-e-epcs/higienizacao-e-protecao-da-pele"
+    },
+    {
+      "label": "DESENGRAXANTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7313",
+      "title": "PASTA DESENGRAXANTE WURTH 3 KG",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0893900300",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/pasta-desengraxante-wurth-3-kg-7313",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "1683",
+      "title": "SABONETE DESENG LUVEX CLEAN GEL - 400G",
+      "brand": "LUVEX",
+      "brandCode": "17",
+      "supplier": "ITW CHEMICAL PRODUCTS LTDA",
+      "supplierCode": "523",
+      "manufacturerCode": "040620300080400",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/sabonete-deseng-luvex-clean-gel--400g-1683",
+      "image": "/products/images/0016/1683.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "2003",
+      "title": "SABONETE LIMPA MAOS HELP HAND CIT 3,5 KG",
+      "brand": "HENLAU",
+      "brandCode": "13",
+      "supplier": "HENLAU QUIMICA EIRELI  EPP",
+      "supplierCode": "191",
+      "manufacturerCode": "16756",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/sabonete-limpa-maos-help-hand-cit-35-kg-2003",
+      "image": "/products/images/0020/2003.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "5112",
+      "title": "SABONETE LÍQUIDO DESENGRAXANTE PROFISSIONAL CITRIC POWER ECO COM FRAGRÂNCIA 1L - NUTRIEX",
+      "brand": "NUTRIEX",
+      "brandCode": "242",
+      "supplier": "EQUILIBRIUM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "supplierCode": "1025",
+      "manufacturerCode": "0063628",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/sabonete-liquido-desengraxante-profissional-citric-power-eco-com-fragrancia-1l--nutriex-5112",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "5111",
+      "title": "SABONETE LÍQUIDO DESENGRAXANTE PROFISSIONAL CITRIC POWER ECO SEM FRAGRÂNCIA 200ML - NUTRIEX",
+      "brand": "NUTRIEX",
+      "brandCode": "242",
+      "supplier": "EQUILIBRIUM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "supplierCode": "1025",
+      "manufacturerCode": "9246406",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/sabonete-liquido-desengraxante-profissional-citric-power-eco-sem-fragrancia-200ml--nutriex-5111",
+      "image": "/products/images/0051/5111.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "epis-e-epcs--higienizacao-e-protecao-da-pele--desengraxantes"
+  }
+}

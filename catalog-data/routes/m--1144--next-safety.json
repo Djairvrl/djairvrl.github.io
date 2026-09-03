@@ -1,0 +1,70 @@
+{
+  "title": "NEXT SAFETY",
+  "parentLabel": "Marca",
+  "description": "Produtos NEXT SAFETY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEXT SAFETY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12849",
+      "title": "LUVA MAXIFLEX ENDURANCE 3/4 TAM G",
+      "brand": "NEXT SAFETY",
+      "brandCode": "1144",
+      "supplier": "NEXT SAFETY LTDA",
+      "supplierCode": "5360",
+      "manufacturerCode": "82000 G",
+      "category": "NITRÍLICA",
+      "categorySlug": "nitrilica",
+      "path": "/luva-maxiflex-endurance-34-tam-g-12849",
+      "image": "/products/images/0128/12849.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "12848",
+      "title": "LUVA MAXIFLEX ENDURANCE 3/4 TAM M",
+      "brand": "NEXT SAFETY",
+      "brandCode": "1144",
+      "supplier": "NEXT SAFETY LTDA",
+      "supplierCode": "5360",
+      "manufacturerCode": "82000 M",
+      "category": "NITRÍLICA",
+      "categorySlug": "nitrilica",
+      "path": "/luva-maxiflex-endurance-34-tam-m-12848",
+      "image": "/products/images/0128/12848.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "12852",
+      "title": "LUVA MAXIFLEX ENDURANCE 3/4 TAM XG",
+      "brand": "NEXT SAFETY",
+      "brandCode": "1144",
+      "supplier": "NEXT SAFETY LTDA",
+      "supplierCode": "5360",
+      "manufacturerCode": "82000 XG",
+      "category": "NITRÍLICA",
+      "categorySlug": "nitrilica",
+      "path": "/luva-maxiflex-endurance-34-tam-xg-12852",
+      "image": "/products/images/0128/12852.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1144--next-safety"
+  }
+}

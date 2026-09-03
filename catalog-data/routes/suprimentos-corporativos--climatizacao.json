@@ -1,0 +1,22 @@
+{
+  "title": "Climatização",
+  "parentLabel": "Suprimentos Corporativos",
+  "description": "Soluções de climatização disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Climatização"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "suprimentos-corporativos--climatizacao"
+  }
+}

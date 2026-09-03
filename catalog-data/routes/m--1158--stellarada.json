@@ -1,0 +1,36 @@
+{
+  "title": "STELLARADA",
+  "parentLabel": "Marca",
+  "description": "Produtos STELLARADA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STELLARADA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12956",
+      "title": "DESCENSOR AUTOBLOCANTE ANTI-PANICO",
+      "brand": "STELLARADA",
+      "brandCode": "1158",
+      "supplier": "STELLAR COMERCIO DE VARIEDADES E ACESSORIOS ELETRONICOS LTDA",
+      "supplierCode": "6009",
+      "manufacturerCode": "MLB5544270882 184560648",
+      "category": "DESCENSORES E ASCENSORES",
+      "categorySlug": "descensores-e-ascensores",
+      "path": "/descensor-autoblocante-antipanico-12956",
+      "image": "/products/images/0129/12956.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1158--stellarada"
+  }
+}

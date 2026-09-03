@@ -1,0 +1,121 @@
+{
+  "title": "PATO",
+  "parentLabel": "Marca",
+  "description": "Produtos PATO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PATO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10832",
+      "title": "MIX6 PRO PATO PASTILHA ADESIVAC/3 CITRU",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10094",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix6-pro-pato-pastilha-adesivac3-citru-10832",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13250",
+      "title": "MIX7 PATO PASTILHA ADESIVA C/3 CITRUS",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "1082",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix7-pato-pastilha-adesiva-c3-citrus-13250",
+      "image": "/products/images/0132/13250.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13249",
+      "title": "MIX7 PATO PASTILHA ADESIVA C/3 FLORAL",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "1083",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/mix7-pato-pastilha-adesiva-c3-floral-13249",
+      "image": "/products/images/0132/13249.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10865",
+      "title": "PATO PAST ADES C/3UN GAME DAS FRUTAS",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "16622",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pato-past-ades-c3un-game-das-frutas-10865",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10850",
+      "title": "PATO PASTILHA ADESIVA C/ 3 UND DES FLORE",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "16621",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pato-pastilha-adesiva-c-3-und-des-flore-10850",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13266",
+      "title": "PEDRA SANIT PATO 25G LAVANDA",
+      "brand": "PATO",
+      "brandCode": "819",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "56800",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/pedra-sanit-pato-25g-lavanda-13266",
+      "image": "/products/images/0132/13266.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--819--pato"
+  }
+}

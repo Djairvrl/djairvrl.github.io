@@ -1,0 +1,36 @@
+{
+  "title": "TEXACO",
+  "parentLabel": "Marca",
+  "description": "Produtos TEXACO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TEXACO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11865",
+      "title": "OLEO RANDO HD 46 1/20L",
+      "brand": "TEXACO",
+      "brandCode": "997",
+      "supplier": "LUBNORD COMERCIO DE LUBRIFICANTES DO NORDESTE LTDA",
+      "supplierCode": "5344",
+      "manufacturerCode": "1129",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/oleo-rando-hd-46-120l-11865",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--997--texaco"
+  }
+}

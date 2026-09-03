@@ -1,0 +1,95 @@
+{
+  "title": "CORTE PLASMA",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria corte plasma em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "CORTE PLASMA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5365",
+      "title": "BICO CORTE PLASMA 1.0MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008325",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-10mm-pt80-5365",
+      "image": "/products/images/0053/5365.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5364",
+      "title": "BICO CORTE PLASMA 1.1MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30000823",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-11mm-pt80-5364",
+      "image": "/products/images/0053/5364.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5366",
+      "title": "BICO CORTE PLASMA 1.2MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30000828",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-12mm-pt80-5366",
+      "image": "/products/images/0053/5366.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5363",
+      "title": "MAQ INV. PLASMA VULCANO CUT 62 - 220V TF",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30179542",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/maq-inv-plasma-vulcano-cut-62--220v-tf-5363",
+      "image": "/products/images/0053/5363.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--corte-plasma"
+  }
+}

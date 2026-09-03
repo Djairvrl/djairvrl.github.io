@@ -1,0 +1,53 @@
+{
+  "title": "UNIVERSO EPIS",
+  "parentLabel": "Marca",
+  "description": "Produtos UNIVERSO EPIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UNIVERSO EPIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12337",
+      "title": "CALÇA FR BRIM AZUL MARIN TAM M CA53303",
+      "brand": "UNIVERSO EPIS",
+      "brandCode": "1062",
+      "supplier": "UNIVERSO EPIS",
+      "supplierCode": "5615",
+      "manufacturerCode": "80883",
+      "category": "VESTIMENTAS ELETRICISTA",
+      "categorySlug": "vestimentas-eletricista",
+      "path": "/calca-fr-brim-azul-marin-tam-m-ca53303-12337",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "12338",
+      "title": "CALÇA FR BRIM AZUL MARIN TAM P CA53303",
+      "brand": "UNIVERSO EPIS",
+      "brandCode": "1062",
+      "supplier": "UNIVERSO EPIS",
+      "supplierCode": "5615",
+      "manufacturerCode": "97802",
+      "category": "VESTIMENTAS ELETRICISTA",
+      "categorySlug": "vestimentas-eletricista",
+      "path": "/calca-fr-brim-azul-marin-tam-p-ca53303-12338",
+      "image": "/products/images/0123/12338.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1062--universo-epis"
+  }
+}

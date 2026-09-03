@@ -1,0 +1,53 @@
+{
+  "title": "DYSTRAY",
+  "parentLabel": "Marca",
+  "description": "Produtos DYSTRAY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DYSTRAY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3589",
+      "title": "MASC DE PROTECAO FACE SHIELD C/ TESTEIRA",
+      "brand": "DYSTRAY",
+      "brandCode": "192",
+      "supplier": "DYSTRAY INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "793",
+      "manufacturerCode": "6000",
+      "category": "PROTETOR FACIAL",
+      "categorySlug": "protetor-facial",
+      "path": "/masc-de-protecao-face-shield-c-testeira-3589",
+      "image": "/products/images/0035/3589.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Facial",
+      "sectionSlug": "protecao-facial"
+    },
+    {
+      "code": "3587",
+      "title": "PROT AURICULAR PLUG LARANJA C.A15485",
+      "brand": "DYSTRAY",
+      "brandCode": "192",
+      "supplier": "DYSTRAY INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "793",
+      "manufacturerCode": "PLUG 3000L",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/prot-auricular-plug-laranja-ca15485-3587",
+      "image": "/products/images/0035/3587.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--192--dystray"
+  }
+}

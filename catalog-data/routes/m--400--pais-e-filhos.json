@@ -1,0 +1,53 @@
+{
+  "title": "PAIS E FILHOS",
+  "parentLabel": "Marca",
+  "description": "Produtos PAIS E FILHOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PAIS E FILHOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6994",
+      "title": "LUDO DAMA TRILHA",
+      "brand": "PAIS E FILHOS",
+      "brandCode": "400",
+      "supplier": "E A DE MELO LULA COM LOC E SERVICOS - ME",
+      "supplierCode": "270",
+      "manufacturerCode": "7712",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/ludo-dama-trilha-6994",
+      "image": "/products/images/0069/6994.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "6995",
+      "title": "TECLADO MUSICAL TOK KIDS",
+      "brand": "PAIS E FILHOS",
+      "brandCode": "400",
+      "supplier": "E A DE MELO LULA COM LOC E SERVICOS - ME",
+      "supplierCode": "270",
+      "manufacturerCode": "6182",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/teclado-musical-tok-kids-6995",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--400--pais-e-filhos"
+  }
+}

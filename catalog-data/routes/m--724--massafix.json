@@ -1,0 +1,36 @@
+{
+  "title": "MASSAFIX",
+  "parentLabel": "Marca",
+  "description": "Produtos MASSAFIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MASSAFIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9794",
+      "title": "COLA PLASTICA CINZA 400 GR",
+      "brand": "MASSAFIX",
+      "brandCode": "724",
+      "supplier": "DUALE SHP COMERCIAL LTDA",
+      "supplierCode": "2670",
+      "manufacturerCode": "SKU 6230",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/cola-plastica-cinza-400-gr-9794",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--724--massafix"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "NIKON",
+  "parentLabel": "Marca",
+  "description": "Produtos NIKON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NIKON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5229",
+      "title": "CAMERA DIG COOLPIX P1000 16,0MP 4K 125X",
+      "brand": "NIKON",
+      "brandCode": "296",
+      "supplier": "DJAIR VEIGA DOS SANTOS 37986194847",
+      "supplierCode": "1371",
+      "manufacturerCode": "FDRES",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-dig-coolpix-p1000-160mp-4k-125x-5229",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10272",
+      "title": "CAMERA DIGITAL NIKON COOLPIX P1100",
+      "brand": "NIKON",
+      "brandCode": "296",
+      "supplier": "LOJA DOS MARIOS IMPORTACAO E COMERCIO DE CAMERAS LTDA",
+      "supplierCode": "3366",
+      "manufacturerCode": "LMCAM-1309",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-digital-nikon-coolpix-p1100-10272",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "7550",
+      "title": "CAMERA NIKON COOLPIX B500",
+      "brand": "NIKON",
+      "brandCode": "296",
+      "supplier": "V DE CASTRO",
+      "supplierCode": "1258",
+      "manufacturerCode": "B500",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-nikon-coolpix-b500-7550",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "6558",
+      "title": "CAMERA NIKON COOLPIX P1000",
+      "brand": "NIKON",
+      "brandCode": "296",
+      "supplier": "V DE CASTRO",
+      "supplierCode": "1258",
+      "manufacturerCode": "2041",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-nikon-coolpix-p1000-6558",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12874",
+      "title": "CAMERA NIKON COOLPIX P950 PRETA",
+      "brand": "NIKON",
+      "brandCode": "296",
+      "supplier": "F M DARA COM. DE MAT. DE ESC. LTDA",
+      "supplierCode": "1003",
+      "manufacturerCode": "3426",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-nikon-coolpix-p950-preta-12874",
+      "image": "/products/images/0128/12874.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10188",
+      "title": "KIT CAMERA COOLPIX P1000 4K + TRIPE ALUM",
+      "brand": "NIKON",
+      "brandCode": "296",
+      "supplier": "VSO COMERCIO DE EQUIPAMENTOS ELTRONICOS LTDA",
+      "supplierCode": "3268",
+      "manufacturerCode": "VQA080EA",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/kit-camera-coolpix-p1000-4k-tripe-alum-10188",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--296--nikon"
+  }
+}

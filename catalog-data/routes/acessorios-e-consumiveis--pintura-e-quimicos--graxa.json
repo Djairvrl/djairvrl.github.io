@@ -1,0 +1,44 @@
+{
+  "title": "GRAXA",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria graxa em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "GRAXA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10993",
+      "title": "GRAXA LGMT 2/18",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ABECOM ROLAMENTOS E PRODUTOS DE BORRACHA LTDA",
+      "supplierCode": "4314",
+      "manufacturerCode": "130155",
+      "category": "GRAXA",
+      "categorySlug": "graxa",
+      "path": "/graxa-lgmt-218-10993",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--graxa"
+  }
+}

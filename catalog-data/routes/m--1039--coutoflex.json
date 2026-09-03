@@ -1,0 +1,121 @@
+{
+  "title": "COUTOFLEX",
+  "parentLabel": "Marca",
+  "description": "Produtos COUTOFLEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COUTOFLEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12562",
+      "title": "ADAP LATAO 1 1/2 STORZ X 2 1/2 F 5FPP",
+      "brand": "COUTOFLEX",
+      "brandCode": "1039",
+      "supplier": "COUTOFLEX INDUSTRIA DE MANGUEIRAS LTDA",
+      "supplierCode": "5551",
+      "manufacturerCode": "ORV001120",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/adap-latao-1-12-storz-x-2-12-f-5fpp-12562",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12567",
+      "title": "MANGUEIRA TIPO 2 - SUPERFLEX 1 1/2 X 15",
+      "brand": "COUTOFLEX",
+      "brandCode": "1039",
+      "supplier": "COUTOFLEX INDUSTRIA DE MANGUEIRAS LTDA",
+      "supplierCode": "5551",
+      "manufacturerCode": "FLEX000005",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo-2--superflex-1-12-x-15-12567",
+      "image": "/products/images/0125/12567.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12565",
+      "title": "MANGUEIRA TIPO 2 - SUPERFLEX 2 1/2 X 15M",
+      "brand": "COUTOFLEX",
+      "brandCode": "1039",
+      "supplier": "COUTOFLEX INDUSTRIA DE MANGUEIRAS LTDA",
+      "supplierCode": "5551",
+      "manufacturerCode": "FLEX000009",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo-2--superflex-2-12-x-15m-12565",
+      "image": "/products/images/0125/12565.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12126",
+      "title": "MANGUEIRA TIPO4 PLASTFLEX VERM 1 1/2X15M",
+      "brand": "COUTOFLEX",
+      "brandCode": "1039",
+      "supplier": "COUTOFLEX INDUSTRIA DE MANGUEIRAS LTDA",
+      "supplierCode": "5551",
+      "manufacturerCode": "FLEX000029",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo4-plastflex-verm-1-12x15m-12126",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12128",
+      "title": "MANGUEIRA TIPO4 PLASTFLEX VERM 2 1/2X15",
+      "brand": "COUTOFLEX",
+      "brandCode": "1039",
+      "supplier": "COUTOFLEX INDUSTRIA DE MANGUEIRAS LTDA",
+      "supplierCode": "5551",
+      "manufacturerCode": "FLEX000033",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo4-plastflex-verm-2-12x15-12128",
+      "image": "/products/images/0121/12128.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12127",
+      "title": "MANGUEIRA TIPO5 RUBERFLEX VERM 1 1/2X15M",
+      "brand": "COUTOFLEX",
+      "brandCode": "1039",
+      "supplier": "COUTOFLEX INDUSTRIA DE MANGUEIRAS LTDA",
+      "supplierCode": "5551",
+      "manufacturerCode": "FLEX000053",
+      "category": "MANGUEIRAS DE INCÊNDIO",
+      "categorySlug": "mangueiras-de-incendio",
+      "path": "/mangueira-tipo5-ruberflex-verm-1-12x15m-12127",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--1039--coutoflex"
+  }
+}

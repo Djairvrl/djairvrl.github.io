@@ -1,0 +1,44 @@
+{
+  "title": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria testadores de isolamento hidrostático em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11384",
+      "title": "BOMBA DE TESTE RP 50-S",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "ROTHENBERGER DO BRASIL LTDA",
+      "supplierCode": "908",
+      "manufacturerCode": "R60200",
+      "category": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+      "categorySlug": "testadores-de-isolamento-hidrostatico",
+      "path": "/bomba-de-teste-rp-50s-11384",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--testadores-de-isolamento-hidrostatico"
+  }
+}

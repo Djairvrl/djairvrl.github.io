@@ -1,0 +1,479 @@
+{
+  "title": "Medição e Teste",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FERRAMENTAS GEDORE DO BRASIL S.A. neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste"
+    }
+  ],
+  "children": [
+    {
+      "name": "Medição Manual e Precisão",
+      "slug": "ferramentas-de-medicao-manual-e-precisao",
+      "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao",
+      "count": 149,
+      "categories": [
+        {
+          "name": "CALIBRE",
+          "slug": "calibre",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/calibre",
+          "count": 2
+        },
+        {
+          "name": "COMPARADOR DE DIÂMETRO INTERNO",
+          "slug": "comparador-de-diametro-interno",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/comparador-de-diametro-interno",
+          "count": 1
+        },
+        {
+          "name": "COMPASSO",
+          "slug": "compasso",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/compasso",
+          "count": 2
+        },
+        {
+          "name": "ESCALA",
+          "slug": "escala",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/escala",
+          "count": 2
+        },
+        {
+          "name": "ESQUADRO",
+          "slug": "esquadro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/esquadro",
+          "count": 7
+        },
+        {
+          "name": "FASÍMETRO",
+          "slug": "fasimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/fasimetro",
+          "count": 2
+        },
+        {
+          "name": "GONIÔMETRO",
+          "slug": "goniometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/goniometro",
+          "count": 1
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/medidor",
+          "count": 18
+        },
+        {
+          "name": "MICRÔMETRO",
+          "slug": "micrometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/micrometro",
+          "count": 4
+        },
+        {
+          "name": "NÍVEL",
+          "slug": "nivel",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel",
+          "count": 9
+        },
+        {
+          "name": "NÍVEL LASER",
+          "slug": "nivel-laser",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel-laser",
+          "count": 13
+        },
+        {
+          "name": "PAQUÍMETRO",
+          "slug": "paquimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/paquimetro",
+          "count": 25
+        },
+        {
+          "name": "RELÓGIO COMPARADOR",
+          "slug": "relogio-comparador",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/relogio-comparador",
+          "count": 15
+        },
+        {
+          "name": "RÉGUA",
+          "slug": "regua",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/regua",
+          "count": 3
+        },
+        {
+          "name": "SUPORTE DE MEDIÇÃO",
+          "slug": "suporte-de-medicao",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/suporte-de-medicao",
+          "count": 5
+        },
+        {
+          "name": "TRENAS",
+          "slug": "trenas",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/trenas",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "name": "Medição Elétrica e Diagnóstico",
+      "slug": "ferramentas-de-m-eletrica-e-diagnostico",
+      "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico",
+      "count": 111,
+      "categories": [
+        {
+          "name": "ALICATE AMPERÍMETRO",
+          "slug": "alicate-amperimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/alicate-amperimetro",
+          "count": 12
+        },
+        {
+          "name": "ANALISADORES",
+          "slug": "analisadores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/analisadores",
+          "count": 14
+        },
+        {
+          "name": "CERTIFICADORES DE CABOS DE REDE",
+          "slug": "certificadores-de-cabos-de-rede",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/certificadores-de-cabos-de-rede",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR",
+          "slug": "detector",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/detector",
+          "count": 2
+        },
+        {
+          "name": "FONTES REGULÁVEIS",
+          "slug": "fontes-regulaveis",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/fontes-regulaveis",
+          "count": 4
+        },
+        {
+          "name": "MEDIDORES DE TTR",
+          "slug": "medidores-de-ttr",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-ttr",
+          "count": 1
+        },
+        {
+          "name": "MEDIDORES DE VELOCIDADES",
+          "slug": "medidores-de-velocidades",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-velocidades",
+          "count": 5
+        },
+        {
+          "name": "MEGÔMETRO",
+          "slug": "megometro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/megometro",
+          "count": 7
+        },
+        {
+          "name": "MILIOHMÍMETRO",
+          "slug": "miliohmimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/miliohmimetro",
+          "count": 2
+        },
+        {
+          "name": "MULTÍMETRO",
+          "slug": "multimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/multimetro",
+          "count": 20
+        },
+        {
+          "name": "OSCILOSCÓPIO",
+          "slug": "osciloscopio",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/osciloscopio",
+          "count": 1
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/sensores",
+          "count": 4
+        },
+        {
+          "name": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+          "slug": "termo-higrometros-e-acessorios",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termo-higrometros-e-acessorios",
+          "count": 11
+        },
+        {
+          "name": "TERMÔMETROS",
+          "slug": "termometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termometros",
+          "count": 8
+        },
+        {
+          "name": "TERRÔMETROS",
+          "slug": "terrometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/terrometros",
+          "count": 2
+        },
+        {
+          "name": "TESTADORES DE BATERIA",
+          "slug": "testadores-de-bateria",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-bateria",
+          "count": 6
+        },
+        {
+          "name": "TESTADORES DE FASE",
+          "slug": "testadores-de-fase",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-fase",
+          "count": 7
+        },
+        {
+          "name": "TESTADORES DE ISOLAÇÃO",
+          "slug": "testadores-de-isolacao",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-isolacao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Calibração e Ajuste",
+      "slug": "ferramentas-de-calibracao-e-ajuste",
+      "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste",
+      "count": 58,
+      "categories": [
+        {
+          "name": "BALANÇA",
+          "slug": "balanca",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/balanca",
+          "count": 7
+        },
+        {
+          "name": "BANCOS DE TESTE",
+          "slug": "bancos-de-teste",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/bancos-de-teste",
+          "count": 1
+        },
+        {
+          "name": "CALIBRADORES",
+          "slug": "calibradores",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/calibradores",
+          "count": 5
+        },
+        {
+          "name": "KIT ACUMULADORES DE PRE CARGA",
+          "slug": "kit-acumuladores-de-pre-carga",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/kit-acumuladores-de-pre-carga",
+          "count": 2
+        },
+        {
+          "name": "MANÔMETRO",
+          "slug": "manometro",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/manometro",
+          "count": 32
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/medidor",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Detecção e Teste",
+      "slug": "ferrametas-de-deteccao-e-teste",
+      "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste",
+      "count": 52,
+      "categories": [
+        {
+          "name": "ANEMÔMETRO",
+          "slug": "anemometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/anemometro",
+          "count": 4
+        },
+        {
+          "name": "BOROSCÓPIO",
+          "slug": "boroscopio",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/boroscopio",
+          "count": 3
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/cameras",
+          "count": 8
+        },
+        {
+          "name": "DECIBELÍMETRO",
+          "slug": "decibelimetro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/decibelimetro",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR DE GÁS",
+          "slug": "detector-de-gas",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/detector-de-gas",
+          "count": 10
+        },
+        {
+          "name": "ETILÔMETROS DIGITAIS",
+          "slug": "etilometros-digitais",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/etilometros-digitais",
+          "count": 3
+        },
+        {
+          "name": "INSTRUMENTOS ÓPTICOS",
+          "slug": "instrumentos-opticos",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/instrumentos-opticos",
+          "count": 19
+        },
+        {
+          "name": "MEDIDORES DE ESPESSURA",
+          "slug": "medidores-de-espessura",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/medidores-de-espessura",
+          "count": 1
+        },
+        {
+          "name": "PLUVIÔMETRO",
+          "slug": "pluviometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/pluviometro",
+          "count": 1
+        },
+        {
+          "name": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+          "slug": "testadores-de-isolamento-hidrostatico",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/testadores-de-isolamento-hidrostatico",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Navegação e Geolocalização",
+      "slug": "navegacao-e-geolocalizacao",
+      "path": "/medicao-e-teste/navegacao-e-geolocalizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferramentas De Navegação/Geolocalização",
+      "slug": "ferramentas-de-navegacao-geolocalizacao",
+      "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao",
+      "count": 3,
+      "categories": [
+        {
+          "name": "GPS PORTÁTEIS",
+          "slug": "gps-portateis",
+          "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao/gps-portateis",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "174",
+    "name": "FERRAMENTAS GEDORE DO BRASIL S.A."
+  },
+  "products": [
+    {
+      "code": "9",
+      "title": "CALIBRE DE FOLGA CANIVETE GEDORE 20 LÂMINAS 0,05 A 1,00MM REF 702-20M",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "050028",
+      "category": "CALIBRE",
+      "categorySlug": "calibre",
+      "path": "/calibre-de-folga-canivete-gedore-20-laminas-005-a-100mm-ref-70220m-9",
+      "image": "/products/images/0000/9.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "135",
+      "title": "CALIBRE DE ROSCA 52 LÂMINAS GEDORE REF 706",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "050479",
+      "category": "CALIBRE",
+      "categorySlug": "calibre",
+      "path": "/calibre-de-rosca-52-laminas-gedore-ref-706-135",
+      "image": "/products/images/0001/135.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3799",
+      "title": "COMPASSO INTERNO 730-3",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "043003",
+      "category": "COMPASSO",
+      "categorySlug": "compasso",
+      "path": "/compasso-interno-7303-3799",
+      "image": "/products/images/0037/3799.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "276",
+      "title": "TRENA FITA EM FIBRA DE VIDRO 100M GEDORE RED R94590100",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3301440",
+      "category": "TRENAS",
+      "categorySlug": "trenas",
+      "path": "/trena-fita-em-fibra-de-vidro-100m-gedore-red-r94590100-276",
+      "image": "/products/images/0002/276.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "277",
+      "title": "TRENA REDONDA FITA EM FIBRA DE VIDRO 10M GEDORE RED R94570010",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3301441",
+      "category": "TRENAS",
+      "categorySlug": "trenas",
+      "path": "/trena-redonda-fita-em-fibra-de-vidro-10m-gedore-red-r94570010-277",
+      "image": "/products/images/0002/277.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "278",
+      "title": "TRENA REDONDA FITA EM FIBRA DE VIDRO 20M GEDORE RED R94570020",
+      "brand": "GEDORE RED",
+      "brandCode": "119",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "3301442",
+      "category": "TRENAS",
+      "categorySlug": "trenas",
+      "path": "/trena-redonda-fita-em-fibra-de-vidro-20m-gedore-red-r94570020-278",
+      "image": "/products/images/0002/278.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "medicao-e-teste--fornecedor-174"
+  }
+}

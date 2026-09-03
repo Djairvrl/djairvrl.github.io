@@ -1,0 +1,36 @@
+{
+  "title": "ANDORINHA",
+  "parentLabel": "Marca",
+  "description": "Produtos ANDORINHA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ANDORINHA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11945",
+      "title": "AZEITE ANDORINHA 250ML EXT VIRG",
+      "brand": "ANDORINHA",
+      "brandCode": "1008",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "014051",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/azeite-andorinha-250ml-ext-virg-11945",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1008--andorinha"
+  }
+}

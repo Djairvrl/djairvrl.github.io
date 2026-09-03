@@ -1,0 +1,70 @@
+{
+  "title": "INCESA",
+  "parentLabel": "Marca",
+  "description": "Produtos INCESA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INCESA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7661",
+      "title": "ESPAÇADOR DE FASES PARA REDE PRIMÁRIA 1000MM - INCESA",
+      "brand": "INCESA",
+      "brandCode": "525",
+      "supplier": "INCESA INDUSTRIA DE COMPONENTES ELETRICOS LTDA",
+      "supplierCode": "1775",
+      "manufacturerCode": "3032930006",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/espacador-de-fases-para-rede-primaria-1000mm--incesa-7661",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "7660",
+      "title": "ESPAÇADOR DE FASES PARA REDE PRIMÁRIA 1200MM - INCESA",
+      "brand": "INCESA",
+      "brandCode": "525",
+      "supplier": "INCESA INDUSTRIA DE COMPONENTES ELETRICOS LTDA",
+      "supplierCode": "1775",
+      "manufacturerCode": "44955010-1",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/espacador-de-fases-para-rede-primaria-1200mm--incesa-7660",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "7662",
+      "title": "ESPAÇADOR DE FASES PARA REDE PRIMÁRIA 750MM - INCESA",
+      "brand": "INCESA",
+      "brandCode": "525",
+      "supplier": "INCESA INDUSTRIA DE COMPONENTES ELETRICOS LTDA",
+      "supplierCode": "1775",
+      "manufacturerCode": "3032930003",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/espacador-de-fases-para-rede-primaria-750mm--incesa-7662",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--525--incesa"
+  }
+}

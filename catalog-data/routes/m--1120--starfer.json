@@ -1,0 +1,104 @@
+{
+  "title": "STARFER",
+  "parentLabel": "Marca",
+  "description": "Produtos STARFER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STARFER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12988",
+      "title": "DISCO DE LIXA VELCRO FERRO 115MM GRAO 80",
+      "brand": "STARFER",
+      "brandCode": "1120",
+      "supplier": "ECONOMINET COMERCIO E ASSESSORIA EM VENDAS LTDA",
+      "supplierCode": "5976",
+      "manufacturerCode": "4000031",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/disco-de-lixa-velcro-ferro-115mm-grao-80-12988",
+      "image": "/products/images/0129/12988.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "12837",
+      "title": "DISCO LIXA VELCRO FR STARFER 115MM GR 60",
+      "brand": "STARFER",
+      "brandCode": "1120",
+      "supplier": "ECONOMINET COMERCIO E ASSESSORIA EM VENDAS LTDA",
+      "supplierCode": "5976",
+      "manufacturerCode": "4000021",
+      "category": "LIXAS",
+      "categorySlug": "lixas",
+      "path": "/disco-lixa-velcro-fr-starfer-115mm-gr-60-12837",
+      "image": "/products/images/0128/12837.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "12839",
+      "title": "DISCO LIXA VELCRO STARFER 115MM GRAO 220",
+      "brand": "STARFER",
+      "brandCode": "1120",
+      "supplier": "ECONOMINET COMERCIO E ASSESSORIA EM VENDAS LTDA",
+      "supplierCode": "5976",
+      "manufacturerCode": "4000129",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/disco-lixa-velcro-starfer-115mm-grao-220-12839",
+      "image": "/products/images/0128/12839.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "12838",
+      "title": "DISCO VELCRO FERRO STARFER 115MM GRÃO 12",
+      "brand": "STARFER",
+      "brandCode": "1120",
+      "supplier": "ECONOMINET COMERCIO E ASSESSORIA EM VENDAS LTDA",
+      "supplierCode": "5976",
+      "manufacturerCode": "4000064",
+      "category": "DISCOS",
+      "categorySlug": "discos",
+      "path": "/disco-velcro-ferro-starfer-115mm-grao-12-12838",
+      "image": "/products/images/0128/12838.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "12697",
+      "title": "KIT ESPELHO TELESCOPIO C LED LANTERNA",
+      "brand": "STARFER",
+      "brandCode": "1120",
+      "supplier": "GSN ECOMMERCE LTDA",
+      "supplierCode": "5873",
+      "manufacturerCode": "07101228050609 82",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/kit-espelho-telescopio-c-led-lanterna-12697",
+      "image": "/products/images/0126/12697.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--1120--starfer"
+  }
+}

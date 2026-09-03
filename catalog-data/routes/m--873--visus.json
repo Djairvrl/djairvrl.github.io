@@ -1,0 +1,36 @@
+{
+  "title": "VISUS",
+  "parentLabel": "Marca",
+  "description": "Produtos VISUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VISUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11082",
+      "title": "HORIMETRO DIG CP48-301 N-U 24-240VCA/VCC",
+      "brand": "VISUS",
+      "brandCode": "873",
+      "supplier": "MEGA LUX COMERCIO E SERVICOS DE MATERIAIS ELETRICOS",
+      "supplierCode": "4452",
+      "manufacturerCode": "35400",
+      "category": "CONTROLADORES E TOTALIZADORES",
+      "categorySlug": "controladores-e-totalizadores",
+      "path": "/horimetro-dig-cp48301-nu-24240vcavcc-11082",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--873--visus"
+  }
+}

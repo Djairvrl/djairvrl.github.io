@@ -1,0 +1,36 @@
+{
+  "title": "CONDUTI",
+  "parentLabel": "Marca",
+  "description": "Produtos CONDUTI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CONDUTI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11061",
+      "title": "CABO REDE LAN UTP COBR CAT5E  BRANC 100M",
+      "brand": "CONDUTI",
+      "brandCode": "869",
+      "supplier": "M J S COMERCIO VAREJISTA DE EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "4413",
+      "manufacturerCode": "FL213",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cabo-rede-lan-utp-cobr-cat5e-branc-100m-11061",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--869--conduti"
+  }
+}

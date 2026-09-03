@@ -1,0 +1,36 @@
+{
+  "title": "THIES CLIMA",
+  "parentLabel": "Marca",
+  "description": "Produtos THIES CLIMA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "THIES CLIMA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9217",
+      "title": "MEDIDOR DE DIRECAO DE VENTO",
+      "brand": "THIES CLIMA",
+      "brandCode": "658",
+      "supplier": "INTERCAMBIO LTDA",
+      "supplierCode": "2439",
+      "manufacturerCode": "AB2006067",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/medidor-de-direcao-de-vento-9217",
+      "image": "/products/images/0092/9217.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--658--thies-clima"
+  }
+}

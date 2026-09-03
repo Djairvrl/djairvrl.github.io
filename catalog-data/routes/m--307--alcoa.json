@@ -1,0 +1,36 @@
+{
+  "title": "ALCOA",
+  "parentLabel": "Marca",
+  "description": "Produtos ALCOA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALCOA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6609",
+      "title": "CABO FLEXONAX 3X2,5MM 1KV PRETO",
+      "brand": "ALCOA",
+      "brandCode": "307",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "288",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexonax-3x25mm-1kv-preto-6609",
+      "image": "/products/images/0066/6609.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--307--alcoa"
+  }
+}

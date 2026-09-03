@@ -1,0 +1,36 @@
+{
+  "title": "SIMPLEFIX",
+  "parentLabel": "Marca",
+  "description": "Produtos SIMPLEFIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SIMPLEFIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10918",
+      "title": "MANTA 2,00 X 20CM - 10MM AD",
+      "brand": "SIMPLEFIX",
+      "brandCode": "828",
+      "supplier": "SIMPLEFIX COMERCIO DE ARTEFATOS PLASTICOS E BORRACHAS LTDA",
+      "supplierCode": "4195",
+      "manufacturerCode": "M2002010_001_FULL",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-200-x-20cm--10mm-ad-10918",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--828--simplefix"
+  }
+}

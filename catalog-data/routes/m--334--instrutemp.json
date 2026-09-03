@@ -1,0 +1,53 @@
+{
+  "title": "INSTRUTEMP",
+  "parentLabel": "Marca",
+  "description": "Produtos INSTRUTEMP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INSTRUTEMP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11864",
+      "title": "DETECTOR FIXO DE SULFETO DE HIDROGENIO",
+      "brand": "INSTRUTEMP",
+      "brandCode": "334",
+      "supplier": "GAS AND SAFETY SOLUTIONS LTDA",
+      "supplierCode": "5343",
+      "manufacturerCode": "80536",
+      "category": "DETECTOR DE GÁS",
+      "categorySlug": "detector-de-gas",
+      "path": "/detector-fixo-de-sulfeto-de-hidrogenio-11864",
+      "image": "/products/images/0118/11864.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "6764",
+      "title": "EXAUST/INSUF 30CM 220V~50 HZ 620W C/DUTO",
+      "brand": "INSTRUTEMP",
+      "brandCode": "334",
+      "supplier": "IDEAL INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1329",
+      "manufacturerCode": "ITINS30",
+      "category": "SISTEMAS DE EXAUSTÃO E VENTILAÇÃO",
+      "categorySlug": "sistemas-de-exaustao-e-ventilacao",
+      "path": "/exaustinsuf-30cm-220v50-hz-620w-cduto-6764",
+      "image": "/products/images/0067/6764.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--334--instrutemp"
+  }
+}

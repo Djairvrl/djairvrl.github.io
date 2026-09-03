@@ -1,0 +1,87 @@
+{
+  "title": "GAMA",
+  "parentLabel": "Marca",
+  "description": "Produtos GAMA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GAMA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6646",
+      "title": "DINAMOMETRO ANALOGICO 1000 KGF",
+      "brand": "GAMA",
+      "brandCode": "258",
+      "supplier": "GAMA COM E SERV INSTRUMENTOS MEDICAO LTDA",
+      "supplierCode": "1122",
+      "manufacturerCode": "0222",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/dinamometro-analogico-1000-kgf-6646",
+      "image": "/products/images/0066/6646.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "6241",
+      "title": "DINAMOMETRO ANALOGICO 200 DAN (2000KGF)",
+      "brand": "GAMA",
+      "brandCode": "258",
+      "supplier": "GAMA COM E SERV INSTRUMENTOS MEDICAO LTDA",
+      "supplierCode": "1122",
+      "manufacturerCode": "0224",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/dinamometro-analogico-200-dan-2000kgf-6241",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "7032",
+      "title": "DINAMOMETRO ANALOGICO 3000 KGF",
+      "brand": "GAMA",
+      "brandCode": "258",
+      "supplier": "GAMA COM E SERV INSTRUMENTOS MEDICAO LTDA",
+      "supplierCode": "1122",
+      "manufacturerCode": "0631",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/dinamometro-analogico-3000-kgf-7032",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "12768",
+      "title": "MEDIDOR D RELACAO TRANSFORMACAO TRIFASIC",
+      "brand": "GAMA",
+      "brandCode": "258",
+      "supplier": "GAMA COM E SERV INSTRUMENTOS MEDICAO LTDA",
+      "supplierCode": "1122",
+      "manufacturerCode": "GMTTR-10K",
+      "category": "MEDIDORES DE TTR",
+      "categorySlug": "medidores-de-ttr",
+      "path": "/medidor-d-relacao-transformacao-trifasic-12768",
+      "image": "/products/images/0127/12768.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--258--gama"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Proteção Da Pele",
+  "parentLabel": "EPIs e EPCs",
+  "description": "Soluções de proteção da pele disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Da Pele"
+    }
+  ],
+  "children": [
+    {
+      "name": "LUVA QUIMICA",
+      "slug": "luva-quimica",
+      "path": "/epis-e-epcs/protecao-da-pele/luva-quimica",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "code": "10660",
+      "title": "CREME PROTETOR PELE PM100 DE 120G CA4233",
+      "brand": "MAVARO",
+      "brandCode": "796",
+      "supplier": "MAVARO INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA",
+      "supplierCode": "3929",
+      "manufacturerCode": "A009",
+      "category": "LUVA QUIMICA",
+      "categorySlug": "luva-quimica",
+      "path": "/creme-protetor-pele-pm100-de-120g-ca4233-10660",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Pele",
+      "sectionSlug": "protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--protecao-da-pele"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "ZIMPOR",
+  "parentLabel": "Marca",
+  "description": "Produtos ZIMPOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZIMPOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10937",
+      "title": "CANULA P PONTA DE FERRO ESTACAO DE SOLDA",
+      "brand": "ZIMPOR",
+      "brandCode": "833",
+      "supplier": "WS ELETRONICA LTDA",
+      "supplierCode": "4238",
+      "manufacturerCode": "W00110.001",
+      "category": "FERRO DE SOLDA",
+      "categorySlug": "ferro-de-solda",
+      "path": "/canula-p-ponta-de-ferro-estacao-de-solda-10937",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12696",
+      "title": "KIT CABO TESTE MULTI 1000V 10A JAC/AGU",
+      "brand": "ZIMPOR",
+      "brandCode": "833",
+      "supplier": "ZIMPOR COMERCIO DE PRODUTOS LTDA",
+      "supplierCode": "5882",
+      "manufacturerCode": "KITCABO+3PLUGSC",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/kit-cabo-teste-multi-1000v-10a-jacagu-12696",
+      "image": "/products/images/0126/12696.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--833--zimpor"
+  }
+}

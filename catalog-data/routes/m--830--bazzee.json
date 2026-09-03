@@ -1,0 +1,36 @@
+{
+  "title": "BAZZEE",
+  "parentLabel": "Marca",
+  "description": "Produtos BAZZEE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BAZZEE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10925",
+      "title": "EXTRATOR GRAMPOS BAZZE",
+      "brand": "BAZZEE",
+      "brandCode": "830",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7897476612706",
+      "category": "EXTRATORES",
+      "categorySlug": "extratores",
+      "path": "/extrator-grampos-bazze-10925",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--830--bazzee"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "PARA-RAIOS E ATERRAMENTOS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria para-raios e aterramentos em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "PARA-RAIOS E ATERRAMENTOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12871",
+      "title": "DPS ECOBOX G6+ MONOPOLAR 275 V - 20 KA",
+      "brand": "EMBRASTEC",
+      "brandCode": "1148",
+      "supplier": "EMBRASTEC INDUSTRIA E COMERCIO DE EQUIPAMENTOS ELETRONICOS L",
+      "supplierCode": "5989",
+      "manufacturerCode": "3092",
+      "category": "PARA-RAIOS E ATERRAMENTOS",
+      "categorySlug": "para-raios-e-aterramentos",
+      "path": "/dps-ecobox-g6-monopolar-275-v--20-ka-12871",
+      "image": "/products/images/0128/12871.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10239",
+      "title": "F2016 CHIFRE SIMPLES",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33201600",
+      "category": "PARA-RAIOS E ATERRAMENTOS",
+      "categorySlug": "para-raios-e-aterramentos",
+      "path": "/f2016-chifre-simples-10239",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8928",
+      "title": "HASTE ATERRAMENTO 3/8 1,20M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "978",
+      "category": "PARA-RAIOS E ATERRAMENTOS",
+      "categorySlug": "para-raios-e-aterramentos",
+      "path": "/haste-aterramento-38-120m-8928",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--para-raios-e-aterramentos"
+  }
+}

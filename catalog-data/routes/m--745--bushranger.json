@@ -1,0 +1,36 @@
+{
+  "title": "BUSHRANGER",
+  "parentLabel": "Marca",
+  "description": "Produtos BUSHRANGER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BUSHRANGER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10053",
+      "title": "JACK WITH HIGH TEMP HOSE",
+      "brand": "BUSHRANGER",
+      "brandCode": "745",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "RJX01",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/jack-with-high-temp-hose-10053",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--745--bushranger"
+  }
+}

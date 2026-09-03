@@ -1,0 +1,36 @@
+{
+  "title": "BRONZEARTE",
+  "parentLabel": "Marca",
+  "description": "Produtos BRONZEARTE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRONZEARTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9745",
+      "title": "REFLETOR LED 300W IP66 6500K BRONZEARTE  REF LDSMDRFFT300C11",
+      "brand": "BRONZEARTE",
+      "brandCode": "721",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "DSMDRFFT300C1",
+      "category": "ILUMINAÇÃO DE ALTA PERFORMANCE",
+      "categorySlug": "iluminacao-de-alta-performance",
+      "path": "/refletor-led-300w-ip66-6500k-bronzearte-ref-ldsmdrfft300c11-9745",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--721--bronzearte"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "SAFE PARK",
+  "parentLabel": "Marca",
+  "description": "Produtos SAFE PARK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SAFE PARK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11459",
+      "title": "BATE RODA DE BORRACHA 55X15X10CM",
+      "brand": "SAFE PARK",
+      "brandCode": "942",
+      "supplier": "FF BIANCHI LTDA",
+      "supplierCode": "4983",
+      "manufacturerCode": "SINBAT004",
+      "category": "SINALIZAÇÃO VIÁRIA",
+      "categorySlug": "sinalizacao-viaria",
+      "path": "/bate-roda-de-borracha-55x15x10cm-11459",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "11454",
+      "title": "KIT DE FIXAÇÃO",
+      "brand": "SAFE PARK",
+      "brandCode": "942",
+      "supplier": "FF BIANCHI LTDA",
+      "supplierCode": "4983",
+      "manufacturerCode": "SINLOMB009",
+      "category": "BUCHA",
+      "categorySlug": "bucha",
+      "path": "/kit-de-fixacao-11454",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--942--safe-park"
+  }
+}

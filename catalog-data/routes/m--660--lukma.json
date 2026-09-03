@@ -1,0 +1,70 @@
+{
+  "title": "LUKMA",
+  "parentLabel": "Marca",
+  "description": "Produtos LUKMA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LUKMA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11306",
+      "title": "TERMINAL PRE ISOLADO TUBULAR 1,5MM PRETO",
+      "brand": "LUKMA",
+      "brandCode": "660",
+      "supplier": "LUMIX COMERCIAL LTDA",
+      "supplierCode": "3894",
+      "manufacturerCode": "1764",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-pre-isolado-tubular-15mm-preto-11306",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11307",
+      "title": "TERMINAL PRE ISOLADO TUBULAR 4MM CINZA",
+      "brand": "LUKMA",
+      "brandCode": "660",
+      "supplier": "LUMIX COMERCIAL LTDA",
+      "supplierCode": "3894",
+      "manufacturerCode": "1766",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-pre-isolado-tubular-4mm-cinza-11307",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9272",
+      "title": "TOMADA INDUSTRIAL 3P+T+N 63A 380/440V 6H",
+      "brand": "LUKMA",
+      "brandCode": "660",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2537",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/tomada-industrial-3ptn-63a-380440v-6h-9272",
+      "image": "/products/images/0092/9272.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--660--lukma"
+  }
+}

@@ -1,0 +1,1295 @@
+{
+  "title": "Material de Construção",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção"
+    }
+  ],
+  "children": [
+    {
+      "name": "Madeiras e Estruturas de Fôrma",
+      "slug": "madeiras-e-estruturas-de-forma",
+      "path": "/material-de-construcao/madeiras-e-estruturas-de-forma",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Hidráulica, Condução e Louças",
+      "slug": "hidraulica-conducao-e-loucas",
+      "path": "/material-de-construcao/hidraulica-conducao-e-loucas",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferragens, Perfis e Serralheria",
+      "slug": "ferragens-perfis-e-serralheria",
+      "path": "/material-de-construcao/ferragens-perfis-e-serralheria",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferragens",
+      "slug": "ferragens",
+      "path": "/material-de-construcao/ferragens",
+      "count": 59,
+      "categories": [
+        {
+          "name": "BARRAS CHATAS",
+          "slug": "barras-chatas",
+          "path": "/material-de-construcao/ferragens/barras-chatas",
+          "count": 1
+        },
+        {
+          "name": "CALHAS",
+          "slug": "calhas",
+          "path": "/material-de-construcao/ferragens/calhas",
+          "count": 3
+        },
+        {
+          "name": "CANTONEIRAS",
+          "slug": "cantoneiras",
+          "path": "/material-de-construcao/ferragens/cantoneiras",
+          "count": 9
+        },
+        {
+          "name": "CAVALETE",
+          "slug": "cavalete",
+          "path": "/material-de-construcao/ferragens/cavalete",
+          "count": 1
+        },
+        {
+          "name": "CHAPAS",
+          "slug": "chapas",
+          "path": "/material-de-construcao/ferragens/chapas",
+          "count": 17
+        },
+        {
+          "name": "DIVERSAS",
+          "slug": "diversas",
+          "path": "/material-de-construcao/ferragens/diversas",
+          "count": 17
+        },
+        {
+          "name": "METALONS",
+          "slug": "metalons",
+          "path": "/material-de-construcao/ferragens/metalons",
+          "count": 4
+        },
+        {
+          "name": "TUBOS",
+          "slug": "tubos",
+          "path": "/material-de-construcao/ferragens/tubos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Hidraulico",
+      "slug": "hidraulico",
+      "path": "/material-de-construcao/hidraulico",
+      "count": 47,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/material-de-construcao/hidraulico/diversos",
+          "count": 9
+        },
+        {
+          "name": "IRRIGAÇÃI",
+          "slug": "irrigacai",
+          "path": "/material-de-construcao/hidraulico/irrigacai",
+          "count": 3
+        },
+        {
+          "name": "PIAS E TORNEIRAS",
+          "slug": "pias-e-torneiras",
+          "path": "/material-de-construcao/hidraulico/pias-e-torneiras",
+          "count": 2
+        },
+        {
+          "name": "TANQUES E CAIXAS D'ÁGUA",
+          "slug": "tanques-e-caixas-d-agua",
+          "path": "/material-de-construcao/hidraulico/tanques-e-caixas-d-agua",
+          "count": 2
+        },
+        {
+          "name": "TUBOS E CONEXÕES",
+          "slug": "tubos-e-conexoes",
+          "path": "/material-de-construcao/hidraulico/tubos-e-conexoes",
+          "count": 25
+        },
+        {
+          "name": "VALVULAS E REGISTROS",
+          "slug": "valvulas-e-registros",
+          "path": "/material-de-construcao/hidraulico/valvulas-e-registros",
+          "count": 5
+        },
+        {
+          "name": "VASOS SANITARIOS",
+          "slug": "vasos-sanitarios",
+          "path": "/material-de-construcao/hidraulico/vasos-sanitarios",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Madeira",
+      "slug": "madeira",
+      "path": "/material-de-construcao/madeira",
+      "count": 12,
+      "categories": [
+        {
+          "name": "BARROTES E CAIBROS",
+          "slug": "barrotes-e-caibros",
+          "path": "/material-de-construcao/madeira/barrotes-e-caibros",
+          "count": 1
+        },
+        {
+          "name": "COMPENSADOS E MADEIRITES",
+          "slug": "compensados-e-madeirites",
+          "path": "/material-de-construcao/madeira/compensados-e-madeirites",
+          "count": 4
+        },
+        {
+          "name": "DIVERSAS",
+          "slug": "diversas",
+          "path": "/material-de-construcao/madeira/diversas",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "1196",
+      "name": "A CASA MATERIAL DE CONSTRUCAO LTDA",
+      "count": 3,
+      "file": "material-de-construcao--fornecedor-1196.json"
+    },
+    {
+      "code": "22",
+      "name": "ACO CEARENSE INDUSTRIAL LTDA.",
+      "count": 2,
+      "file": "material-de-construcao--fornecedor-22.json"
+    },
+    {
+      "code": "518",
+      "name": "ACO POTIGUAR LTDA",
+      "count": 9,
+      "file": "material-de-construcao--fornecedor-518.json"
+    },
+    {
+      "code": "1768",
+      "name": "ACOS POSITANO TUBOS E VALVULAS INDUSTRIAIS LTDA",
+      "count": 3,
+      "file": "material-de-construcao--fornecedor-1768.json"
+    },
+    {
+      "code": "1746",
+      "name": "AEGIS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-1746.json"
+    },
+    {
+      "code": "1729",
+      "name": "AGROMETAL COMERCIAL DE FERRAGENS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-1729.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 7,
+      "file": "material-de-construcao--fornecedor-798.json"
+    },
+    {
+      "code": "1461",
+      "name": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "count": 9,
+      "file": "material-de-construcao--fornecedor-1461.json"
+    },
+    {
+      "code": "1776",
+      "name": "ARRUDA & FERREIRA - LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-1776.json"
+    },
+    {
+      "code": "545",
+      "name": "ARTHUR VICTOR DA SILVA GOMES ME",
+      "count": 3,
+      "file": "material-de-construcao--fornecedor-545.json"
+    },
+    {
+      "code": "4127",
+      "name": "CASA DOS FERROS LTDA",
+      "count": 2,
+      "file": "material-de-construcao--fornecedor-4127.json"
+    },
+    {
+      "code": "679",
+      "name": "CJ METAIS E CONSTRUCOES LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-679.json"
+    },
+    {
+      "code": "1330",
+      "name": "COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA",
+      "count": 2,
+      "file": "material-de-construcao--fornecedor-1330.json"
+    },
+    {
+      "code": "317",
+      "name": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "count": 8,
+      "file": "material-de-construcao--fornecedor-317.json"
+    },
+    {
+      "code": "2421",
+      "name": "DIFEMAQ FERRAMENTAS E MAQUINAS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-2421.json"
+    },
+    {
+      "code": "6116",
+      "name": "ELLOS PILLARTECK MATERIAIS DE CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-6116.json"
+    },
+    {
+      "code": "1042",
+      "name": "ESPAFERRO ESPACADORES PARA FERRAGENS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-1042.json"
+    },
+    {
+      "code": "700",
+      "name": "ESTEFANO GALVAO DE MACEDO",
+      "count": 2,
+      "file": "material-de-construcao--fornecedor-700.json"
+    },
+    {
+      "code": "3309",
+      "name": "EVERLANYA VASCONCELOS DA RESSURREICAO",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-3309.json"
+    },
+    {
+      "code": "927",
+      "name": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-927.json"
+    },
+    {
+      "code": "966",
+      "name": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "count": 3,
+      "file": "material-de-construcao--fornecedor-966.json"
+    },
+    {
+      "code": "967",
+      "name": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "count": 6,
+      "file": "material-de-construcao--fornecedor-967.json"
+    },
+    {
+      "code": "6255",
+      "name": "HIDRACOMP COMPONENTES HIDRAULICOS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-6255.json"
+    },
+    {
+      "code": "1018",
+      "name": "HIDRAUCONEX MATERIAIS HIDRAULICOS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-1018.json"
+    },
+    {
+      "code": "264",
+      "name": "INDUSTRIA DE ARTEFATOS PLASTICOS INDAIAL",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-264.json"
+    },
+    {
+      "code": "935",
+      "name": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-935.json"
+    },
+    {
+      "code": "563",
+      "name": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "count": 8,
+      "file": "material-de-construcao--fornecedor-563.json"
+    },
+    {
+      "code": "4024",
+      "name": "JANAINA R. BELLO",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-4024.json"
+    },
+    {
+      "code": "958",
+      "name": "KENIA SABATTYNE DE O BORGES",
+      "count": 7,
+      "file": "material-de-construcao--fornecedor-958.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 4,
+      "file": "material-de-construcao--fornecedor-4.json"
+    },
+    {
+      "code": "176",
+      "name": "MEXICHEM BRASIL IND DE TRANSF PLÁSTICA",
+      "count": 4,
+      "file": "material-de-construcao--fornecedor-176.json"
+    },
+    {
+      "code": "1709",
+      "name": "MULTISEG COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-1709.json"
+    },
+    {
+      "code": "3544",
+      "name": "NATALMAQ MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-3544.json"
+    },
+    {
+      "code": "2102",
+      "name": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "count": 3,
+      "file": "material-de-construcao--fornecedor-2102.json"
+    },
+    {
+      "code": "2078",
+      "name": "PALACIO DAS FERRAMENTAS E PARAFUSOS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-2078.json"
+    },
+    {
+      "code": "4611",
+      "name": "PEAD BRASIL SOLUCOES EM TERMOPLASTICOS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-4611.json"
+    },
+    {
+      "code": "242",
+      "name": "POTIGUAR ATACADIST IMPORT E COM DE PLAST",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-242.json"
+    },
+    {
+      "code": "225",
+      "name": "ROCA SANITARIOS BRASIL LTDA",
+      "count": 2,
+      "file": "material-de-construcao--fornecedor-225.json"
+    },
+    {
+      "code": "857",
+      "name": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-857.json"
+    },
+    {
+      "code": "4953",
+      "name": "SAMOGIN OLIVEIRA INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-4953.json"
+    },
+    {
+      "code": "434",
+      "name": "STAUFF BRASIL LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-434.json"
+    },
+    {
+      "code": "533",
+      "name": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-533.json"
+    },
+    {
+      "code": "662",
+      "name": "UNIMETAIS COMERCIO LTDA",
+      "count": 6,
+      "file": "material-de-construcao--fornecedor-662.json"
+    },
+    {
+      "code": "2568",
+      "name": "WALSYWA INDUSTRIA E COMERCIO DE PRODUTOS METALURGICOS LTDA",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-2568.json"
+    },
+    {
+      "code": "1370",
+      "name": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "count": 1,
+      "file": "material-de-construcao--fornecedor-1370.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "9500",
+      "title": "ABRACADEIRA U 2\" EM ALUMINIO 16MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1319",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/abracadeira-u-2-em-aluminio-16mm-9500",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "9800",
+      "title": "ADAPTADOR SOLD CURTO 60MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "7067",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/adaptador-sold-curto-60mm-9800",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "736",
+      "title": "ANEL BORRACHA 7MM INICIO 13/16MM AMANCO",
+      "brand": "AMANCO",
+      "brandCode": "80",
+      "supplier": "MEXICHEM BRASIL IND DE TRANSF PLÁSTICA",
+      "supplierCode": "176",
+      "manufacturerCode": "93067",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/anel-borracha-7mm-inicio-1316mm-amanco-736",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7696",
+      "title": "ANGELIN VERMELHO DIVERSAS BITOLAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ARRUDA & FERREIRA - LTDA",
+      "supplierCode": "1776",
+      "manufacturerCode": "000225",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/angelin-vermelho-diversas-bitolas-7696",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "566",
+      "title": "BACIA SANITÁRIA PARA CAIXA ACOPLADA FIT PLUS BRANCO CELITE",
+      "brand": "CELITE",
+      "brandCode": "94",
+      "supplier": "ROCA SANITARIOS BRASIL LTDA",
+      "supplierCode": "225",
+      "manufacturerCode": "66353",
+      "category": "VASOS SANITARIOS",
+      "categorySlug": "vasos-sanitarios",
+      "path": "/bacia-sanitaria-para-caixa-acoplada-fit-plus-branco-celite-566",
+      "image": "/products/images/0005/566.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "9499",
+      "title": "BARRA CHATA 1X1 8 PECA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ARTHUR VICTOR DA SILVA GOMES ME",
+      "supplierCode": "545",
+      "manufacturerCode": "2120",
+      "category": "BARRAS CHATAS",
+      "categorySlug": "barras-chatas",
+      "path": "/barra-chata-1x1-8-peca-9499",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1763",
+      "title": "BARROTE 6 X 5 CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "A CASA MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1196",
+      "manufacturerCode": "1111",
+      "category": "BARROTES E CAIBROS",
+      "categorySlug": "barrotes-e-caibros",
+      "path": "/barrote-6-x-5-cm-1763",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "13120",
+      "title": "BOBINA ALUMÍNIO 60CM X 10M PARA CALHAS E",
+      "brand": "PILLARTECH",
+      "brandCode": "1187",
+      "supplier": "ELLOS PILLARTECK MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "6116",
+      "manufacturerCode": "SCH9898",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/bobina-aluminio-60cm-x-10m-para-calhas-e-13120",
+      "image": "/products/images/0131/13120.png",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "12187",
+      "title": "BOBINA GALV 0.43MM 1.00 CH28 (UN:18)",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "750124",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/bobina-galv-043mm-100-ch28-un18-12187",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "12186",
+      "title": "BOBINA GALV 0.43MM 1.20 CH28 (UN:18)",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "750125",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/bobina-galv-043mm-120-ch28-un18-12186",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "8565",
+      "title": "BOIA ELETRICA 1,2M",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "15594",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/boia-eletrica-12m-8565",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "8566",
+      "title": "BOMBA DAGUA PERIFERICA 1CV 220V QB 80",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "16782",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/bomba-dagua-periferica-1cv-220v-qb-80-8566",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "9179",
+      "title": "BOMBA P AGUA SUJA 1100W 250L 220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "DIFEMAQ FERRAMENTAS E MAQUINAS LTDA",
+      "supplierCode": "2421",
+      "manufacturerCode": "21346",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/bomba-p-agua-suja-1100w-250l-220v-9179",
+      "image": "/products/images/0091/9179.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "8402",
+      "title": "BOMBA P AGUA SUJA 370W BS16 PREMIUM 220V",
+      "brand": "FERRARI",
+      "brandCode": "213",
+      "supplier": "PALACIO DAS FERRAMENTAS E PARAFUSOS LTDA",
+      "supplierCode": "2078",
+      "manufacturerCode": "72952",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/bomba-p-agua-suja-370w-bs16-premium-220v-8402",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7654",
+      "title": "BUCHA REDUCAO GALVANIZADA BSP 1 1/2X3/4\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ACOS POSITANO TUBOS E VALVULAS INDUSTRIAIS LTDA",
+      "supplierCode": "1768",
+      "manufacturerCode": "BRG112034",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/bucha-reducao-galvanizada-bsp-1-12x34-7654",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7655",
+      "title": "BUCHA REDUCAO GALVANIZADA BSP 1\"X3/4\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ACOS POSITANO TUBOS E VALVULAS INDUSTRIAIS LTDA",
+      "supplierCode": "1768",
+      "manufacturerCode": "BRG001034",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/bucha-reducao-galvanizada-bsp-1x34-7655",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7656",
+      "title": "BUCHA REDUCAO GALVANIZADA BSP 3/4X1/2\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ACOS POSITANO TUBOS E VALVULAS INDUSTRIAIS LTDA",
+      "supplierCode": "1768",
+      "manufacturerCode": "BRG034012",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/bucha-reducao-galvanizada-bsp-34x12-7656",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7932",
+      "title": "CAIXA D'ÁGUA DE POLIETILENO 10.000L - FORTLEV 2020016",
+      "brand": "FORTLEV",
+      "brandCode": "228",
+      "supplier": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "966",
+      "manufacturerCode": "2020016",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/caixa-dagua-de-polietileno-10000l--fortlev-2020016-7932",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "9798",
+      "title": "CAIXA PE FORTLEV 5000L",
+      "brand": "FORTLEV",
+      "brandCode": "228",
+      "supplier": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "966",
+      "manufacturerCode": "2020010",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/caixa-pe-fortlev-5000l-9798",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7902",
+      "title": "CALHA DE ZINCO 2 MTS C/ DESCIDA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "8619",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/calha-de-zinco-2-mts-c-descida-7902",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7903",
+      "title": "CALHA DE ZINCO CONTINUA 2MT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "8617",
+      "category": "CALHAS",
+      "categorySlug": "calhas",
+      "path": "/calha-de-zinco-continua-2mt-7903",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "9801",
+      "title": "CANO SOLDAVEL 60MM KRONA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "9873",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/cano-soldavel-60mm-krona-9801",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "10814",
+      "title": "CANTONEIRA 1.1/2X1/8 - 10.98KG/UM",
+      "brand": "GERDAU",
+      "brandCode": "815",
+      "supplier": "CASA DOS FERROS LTDA",
+      "supplierCode": "4127",
+      "manufacturerCode": "2",
+      "category": "CANTONEIRAS",
+      "categorySlug": "cantoneiras",
+      "path": "/cantoneira-112x18--1098kgum-10814",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7707",
+      "title": "CANTONEIRA 2.1/2 X 3/16",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "12520",
+      "category": "CANTONEIRAS",
+      "categorySlug": "cantoneiras",
+      "path": "/cantoneira-212-x-316-7707",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "6767",
+      "title": "CAVALETE DE FERRO 1,60M X 1M",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "supplierCode": "935",
+      "manufacturerCode": "0063",
+      "category": "CAVALETE",
+      "categorySlug": "cavalete",
+      "path": "/cavalete-de-ferro-160m-x-1m-6767",
+      "image": "/products/images/0067/6767.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "3394",
+      "title": "CH PLANA 0,95MM 20 GA 2000MM X1000MM X20",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CJ METAIS E CONSTRUCOES LTDA",
+      "supplierCode": "679",
+      "manufacturerCode": "71",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/ch-plana-095mm-20-ga-2000mm-x1000mm-x20-3394",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7708",
+      "title": "CHAPA GALV 20 2 X1,20 0,90MM",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "720080",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galv-20-2-x120-090mm-7708",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7398",
+      "title": "CHAPA GALV 24 2X1 0,60MM",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "720030",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galv-24-2x1-060mm-7398",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1769",
+      "title": "CHAPA GALV. 20 TAM 2,00 X 1,00 M",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "224",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galv-20-tam-200-x-100-m-1769",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1768",
+      "title": "CHAPA GALV. 20 TAM 2,00 X 1,20 M",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "720080-1",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galv-20-tam-200-x-120-m-1768",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "7024",
+      "title": "CHAPA GALV. 20 TAM 2,00 X 1,20 M",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "744",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galv-20-tam-200-x-120-m-7024",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1767",
+      "title": "CHAPA GALV. 20 TAM 3,00 X 1,20 M",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "2332",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galv-20-tam-300-x-120-m-1767",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1770",
+      "title": "CHAPA GALV. 22 TAM 2,00 X 1,20 M",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "946",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galv-22-tam-200-x-120-m-1770",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1905",
+      "title": "CHAPA GALVANIZADA 20 2 X1 090MM (UN20)",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "720070",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-galvanizada-20-2-x1-090mm-un20-1905",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "4266",
+      "title": "CHAPA METALON 16X16 - 1.20",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "736",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-metalon-16x16--120-4266",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "4674",
+      "title": "CHAPA PRETA 20 - 0,90 - 2 X1.20",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "143",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-preta-20--090--2-x120-4674",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "4551",
+      "title": "CHAPA PRETA FINA 0,90MM Nº 20",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "13995",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-preta-fina-090mm-no-20-4551",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "4552",
+      "title": "CHAPA PRETA FINA 1,20MM Nº 18",
+      "brand": "UNIMETAIS",
+      "brandCode": "224",
+      "supplier": "UNIMETAIS COMERCIO LTDA",
+      "supplierCode": "662",
+      "manufacturerCode": "13996",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-preta-fina-120mm-no-18-4552",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1771",
+      "title": "CHAPA PRETA. 18 TAM 2,00 X 1,00 M",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "1771",
+      "category": "CHAPAS",
+      "categorySlug": "chapas",
+      "path": "/chapa-preta-18-tam-200-x-100-m-1771",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "8439",
+      "title": "CHULA MODELO P (BILABIAL)",
+      "brand": "NETAFIM",
+      "brandCode": "595",
+      "supplier": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "supplierCode": "2102",
+      "manufacturerCode": "000000032500010450",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/chula-modelo-p-bilabial-8439",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "1817",
+      "title": "COMPENSADO 15MM 220 X 160 CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "1963",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/compensado-15mm-220-x-160-cm-1817",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "6768",
+      "title": "COMPENSADO PARICA 15MM 2.20X1,60",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "1330",
+      "manufacturerCode": "32823",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/compensado-parica-15mm-220x160-6768",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "8438",
+      "title": "CONECTOR INICIAL PE 16MM C/ANEL AZ 100UN",
+      "brand": "NETAFIM",
+      "brandCode": "595",
+      "supplier": "NETAFIM BRASIL SISTEMAS E EQUIPAMENTOS DE IRRIGACAO LTDA.",
+      "supplierCode": "2102",
+      "manufacturerCode": "000000032500017790",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/conector-inicial-pe-16mm-canel-az-100un-8438",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7901",
+      "title": "CONEXAO ALUMINIO 1/2 BSP",
+      "brand": "WEBPLASTICO",
+      "brandCode": "353",
+      "supplier": "WEBPLASTICO INDUSTRIA E COMERCIO EIRELI",
+      "supplierCode": "1370",
+      "manufacturerCode": "CA12",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/conexao-aluminio-12-bsp-7901",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "6955",
+      "title": "CONEXAO FEMEA CILIN.ESFERA CR400 3/8 NPT",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "1140745",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/conexao-femea-cilinesfera-cr400-38-npt-6955",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "1255",
+      "title": "CUBA EMBUTIDA OVAL 490X325",
+      "brand": "CELITE",
+      "brandCode": "94",
+      "supplier": "ROCA SANITARIOS BRASIL LTDA",
+      "supplierCode": "225",
+      "manufacturerCode": "1761170017300",
+      "category": "PIAS E TORNEIRAS",
+      "categorySlug": "pias-e-torneiras",
+      "path": "/cuba-embutida-oval-490x325-1255",
+      "image": "/products/images/0012/1255.jpg",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7406",
+      "title": "DURATEX MDF BRANCO 15MM 2FC 275X185",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "supplierCode": "563",
+      "manufacturerCode": "2107",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/duratex-mdf-branco-15mm-2fc-275x185-7406",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "4769",
+      "title": "FABRICACAO DE JANELAS",
+      "brand": null,
+      "brandCode": null,
+      "supplier": "ESTEFANO GALVAO DE MACEDO",
+      "supplierCode": "700",
+      "manufacturerCode": null,
+      "category": null,
+      "categorySlug": null,
+      "path": "/fabricacao-de-janelas-4769",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "10052",
+      "title": "GARRAFA COLETORA DE GORDURA ROLIX PVC 50",
+      "brand": "ROLIX",
+      "brandCode": "744",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "WS03600037",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/garrafa-coletora-de-gordura-rolix-pvc-50-10052",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "7625",
+      "title": "HIDROMETRO ECOGYRUS QN 1.5 DN 3/4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AEGIS LTDA",
+      "supplierCode": "1746",
+      "manufacturerCode": "1144004",
+      "category": "VALVULAS E REGISTROS",
+      "categorySlug": "valvulas-e-registros",
+      "path": "/hidrometro-ecogyrus-qn-15-dn-34-7625",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 3,
+    "total": 118,
+    "pageBase": "material-de-construcao"
+  }
+}

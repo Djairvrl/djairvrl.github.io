@@ -1,0 +1,53 @@
+{
+  "title": "APH",
+  "parentLabel": "Marca",
+  "description": "Produtos APH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "APH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11159",
+      "title": "IMOBILIZADOR CABECA HEA BLOCK- RESGATE",
+      "brand": "APH",
+      "brandCode": "402",
+      "supplier": "MARIA DAS GRACAS C. T. JOSE",
+      "supplierCode": "4634",
+      "manufacturerCode": "MLB5538185072_189447921895",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/imobilizador-cabeca-hea-block-resgate-11159",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "1063",
+      "title": "IMOBILIZADOR DE CABEÇA ADULTO - RESGATE APH",
+      "brand": "APH",
+      "brandCode": "402",
+      "supplier": "ODONTOMASTER COMERCIO DE PRODUTOS PARA SAUDE LTDA",
+      "supplierCode": "1754",
+      "manufacturerCode": "SS052",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/imobilizador-de-cabeca-adulto--resgate-aph-1063",
+      "image": "/products/images/0010/1063.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--402--aph"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "MEDIZ",
+  "parentLabel": "Marca",
+  "description": "Produtos MEDIZ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MEDIZ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10933",
+      "title": "CINTO ARANHA 8 PONTAS ADULTO MEDIZ",
+      "brand": "MEDIZ",
+      "brandCode": "832",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "01864",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/cinto-aranha-8-pontas-adulto-mediz-10933",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--832--mediz"
+  }
+}

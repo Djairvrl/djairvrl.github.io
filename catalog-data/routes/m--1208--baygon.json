@@ -1,0 +1,36 @@
+{
+  "title": "BAYGON",
+  "parentLabel": "Marca",
+  "description": "Produtos BAYGON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BAYGON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13252",
+      "title": "INS AER BAYGON MATA EM SEGUNDOS",
+      "brand": "BAYGON",
+      "brandCode": "1208",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "232",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/ins-aer-baygon-mata-em-segundos-13252",
+      "image": "/products/images/0132/13252.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1208--baygon"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ROTTO BRASIL",
+  "parentLabel": "Marca",
+  "description": "Produtos ROTTO BRASIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROTTO BRASIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10619",
+      "title": "CONTAINER COFRE CARGA MOD 350 POLIET AZ",
+      "brand": "ROTTO BRASIL",
+      "brandCode": "788",
+      "supplier": "ROTTO BRASIL INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "3897",
+      "manufacturerCode": "875AZ",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/container-cofre-carga-mod-350-poliet-az-10619",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--788--rotto-brasil"
+  }
+}

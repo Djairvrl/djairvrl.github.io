@@ -1,0 +1,146 @@
+{
+  "title": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+  "parentLabel": "Lavadoras De Alta Pressão",
+  "description": "Produtos da categoria lavadores de alta pressão elétricas em lavadoras de alta pressão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Lavadoras De Alta Pressão",
+      "to": "/maquinas-e-acessorios/lavadoras-de-alta-pressao"
+    },
+    {
+      "label": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10601",
+      "title": "LAVADORA A.PRESSAO LAV2000 220V",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "846",
+      "manufacturerCode": "6864200220",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-apressao-lav2000-220v-10601",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "7433",
+      "title": "LAVADORA ALTA PRESSAO PLUS 2200-220V",
+      "brand": "WAP",
+      "brandCode": "461",
+      "supplier": "UNIMARCAS COMERCIO E LOGISTICA LTDA",
+      "supplierCode": "1637",
+      "manufacturerCode": "2192400001",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-alta-pressao-plus-2200220v-7433",
+      "image": "/products/images/0074/7433.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "4389",
+      "title": "LAVADORA DE  ALTA PRESSAO 1800W 220V FAST EXTRA 135 - LAVOR",
+      "brand": "LAVOR",
+      "brandCode": "221",
+      "supplier": "LAVORWASH BRASIL INDUSTRIAL E COMERCIAL LTDA",
+      "supplierCode": "920",
+      "manufacturerCode": "8.109.0034C",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-de-alta-pressao-1800w-220v-fast-extra-135--lavor-4389",
+      "image": "/products/images/0043/4389.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "1408",
+      "title": "LAVADORA DE ALTA PRESSAO 1400W 1000PSI",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "928.0001-0",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-de-alta-pressao-1400w-1000psi-1408",
+      "image": "/products/images/0014/1408.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "8887",
+      "title": "LAVADORA DE ALTA PRESSAO 1450W 1000PSI",
+      "brand": "SCHULZ",
+      "brandCode": "113",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "92800090",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-de-alta-pressao-1450w-1000psi-8887",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "7659",
+      "title": "LAVADORA DE ALTA PRESSAO 1750W 1700PSI W",
+      "brand": "WAP",
+      "brandCode": "461",
+      "supplier": "FRESNOMAQ INDUSTRIA DE MAQUINAS S/A",
+      "supplierCode": "1790",
+      "manufacturerCode": "FW007116",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-de-alta-pressao-1750w-1700psi-w-7659",
+      "image": "/products/images/0076/7659.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "5383",
+      "title": "LAVADORA LR 20 MOTOR 2CV MONOF 110/220",
+      "brand": "ZM BOMBAS",
+      "brandCode": "244",
+      "supplier": "HIDRO METALURGICA ZM LTDA",
+      "supplierCode": "1046",
+      "manufacturerCode": "5020225",
+      "category": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+      "categorySlug": "lavadores-de-alta-pressao-eletricas",
+      "path": "/lavadora-lr-20-motor-2cv-monof-110220-5383",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "maquinas-e-acessorios--lavadoras-de-alta-pressao--lavadores-de-alta-pressao-eletricas"
+  }
+}

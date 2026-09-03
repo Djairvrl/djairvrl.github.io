@@ -1,0 +1,53 @@
+{
+  "title": "SILK CAMISETAS",
+  "parentLabel": "Marca",
+  "description": "Produtos SILK CAMISETAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SILK CAMISETAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6865",
+      "title": "CAMISA MANGA LONGA 100% ALGODAO G",
+      "brand": "SILK CAMISETAS",
+      "brandCode": "365",
+      "supplier": "SILK CAMISETAS COMERCIO E SERVICO EIRELI",
+      "supplierCode": "1406",
+      "manufacturerCode": "X",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/camisa-manga-longa-100-algodao-g-6865",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "6866",
+      "title": "CAMISA MANGA LONGA 100% ALGODAO M",
+      "brand": "SILK CAMISETAS",
+      "brandCode": "365",
+      "supplier": "SILK CAMISETAS COMERCIO E SERVICO EIRELI",
+      "supplierCode": "1406",
+      "manufacturerCode": "X-1",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/camisa-manga-longa-100-algodao-m-6866",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--365--silk-camisetas"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "TIG",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria tig em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "TIG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5355",
+      "title": "MAQ INV.TIG AC/DC MAXXITIG 200P 5-200A",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30079550",
+      "category": "TIG",
+      "categorySlug": "tig",
+      "path": "/maq-invtig-acdc-maxxitig-200p-5200a-5355",
+      "image": "/products/images/0053/5355.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--tig"
+  }
+}

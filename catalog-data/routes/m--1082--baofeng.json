@@ -1,0 +1,36 @@
+{
+  "title": "BAOFENG",
+  "parentLabel": "Marca",
+  "description": "Produtos BAOFENG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BAOFENG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12466",
+      "title": "RADIO WALKIE TALKIE MULTI BAND BLUETOOTH",
+      "brand": "BAOFENG",
+      "brandCode": "1082",
+      "supplier": "MARX FAUX LTDA",
+      "supplierCode": "5728",
+      "manufacturerCode": "UV-32",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/radio-walkie-talkie-multi-band-bluetooth-12466",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1082--baofeng"
+  }
+}

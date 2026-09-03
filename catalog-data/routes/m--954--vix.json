@@ -1,0 +1,87 @@
+{
+  "title": "VIX",
+  "parentLabel": "Marca",
+  "description": "Produtos VIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13356",
+      "title": "CHAVE CATRACA VIX PREM 1/4 3/8 3/16 5/16",
+      "brand": "VIX",
+      "brandCode": "954",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "00000000000101 6823",
+      "category": "CHAVES AXIAIS E MISTAS",
+      "categorySlug": "chaves-axiais-e-mistas",
+      "path": "/chave-catraca-vix-prem-14-38-316-516-13356",
+      "image": "/products/images/0133/13356.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11530",
+      "title": "SPLIT AGRATTO HW 9K 220 F LIV IN",
+      "brand": "VIX",
+      "brandCode": "954",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "000000000001014347",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/split-agratto-hw-9k-220-f-liv-in-11530",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11528",
+      "title": "SPLIT VIX HW 12K 220 F IN DCR2025158500",
+      "brand": "VIX",
+      "brandCode": "954",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "000000000001034635",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/split-vix-hw-12k-220-f-in-dcr2025158500-11528",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11529",
+      "title": "SPLIT VIX HW 18K 220 F IN DCR2024143878",
+      "brand": "VIX",
+      "brandCode": "954",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "000000000001029164",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/split-vix-hw-18k-220-f-in-dcr2024143878-11529",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--954--vix"
+  }
+}

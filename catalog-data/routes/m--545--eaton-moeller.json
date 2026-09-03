@@ -1,0 +1,70 @@
+{
+  "title": "EATON MOELLER",
+  "parentLabel": "Marca",
+  "description": "Produtos EATON MOELLER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EATON MOELLER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7942",
+      "title": "DISJUNTOR BIPOLAR C25",
+      "brand": "EATON MOELLER",
+      "brandCode": "545",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "389",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-bipolar-c25-7942",
+      "image": "/products/images/0079/7942.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13365",
+      "title": "NOBREAK EATON 9PX 3KVA 220V ONLINE",
+      "brand": "EATON MOELLER",
+      "brandCode": "545",
+      "supplier": "SCANSOURCE BRASIL DISTRIB DE TECNOLOGIAS LTDA",
+      "supplierCode": "5885",
+      "manufacturerCode": "00005102",
+      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
+      "path": "/nobreak-eaton-9px-3kva-220v-online-13365",
+      "image": "/products/images/0133/13365.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12738",
+      "title": "NOBREAK EATON 9PX 3KVA/2700W 220V RACK",
+      "brand": "EATON MOELLER",
+      "brandCode": "545",
+      "supplier": "SCANSOURCE BRASIL DISTRIB DE TECNOLOGIAS LTDA",
+      "supplierCode": "5885",
+      "manufacturerCode": "00005102",
+      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
+      "path": "/nobreak-eaton-9px-3kva2700w-220v-rack-12738",
+      "image": "/products/images/0127/12738.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--545--eaton-moeller"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "CORAX",
+  "parentLabel": "Marca",
+  "description": "Produtos CORAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CORAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13098",
+      "title": "HAMMERITE ESMALTE BRILHANTE CINZA 2,4L",
+      "brand": "CORAX",
+      "brandCode": "644",
+      "supplier": "COMERCIO DE TINTAS MATERIAL ELETRICO E HIDRAULICO VERGINIA L",
+      "supplierCode": "6091",
+      "manufacturerCode": "1250",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/hammerite-esmalte-brilhante-cinza-24l-13098",
+      "image": "/products/images/0130/13098.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--644--corax"
+  }
+}

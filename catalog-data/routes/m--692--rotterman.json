@@ -1,0 +1,36 @@
+{
+  "title": "ROTTERMAN",
+  "parentLabel": "Marca",
+  "description": "Produtos ROTTERMAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROTTERMAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9532",
+      "title": "BANCADA FECHADA 1,5 METROS 2 PORTAS 6 GAVETAS ROTTERMAN  REF RLL-204",
+      "brand": "ROTTERMAN",
+      "brandCode": "692",
+      "supplier": "DUTRA MAQUINAS COMERCIAL E TECNICA LTDA",
+      "supplierCode": "1562",
+      "manufacturerCode": "RLL-204A",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-fechada-15-metros-2-portas-6-gavetas-rotterman-ref-rll204-9532",
+      "image": "/products/images/0095/9532.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--692--rotterman"
+  }
+}

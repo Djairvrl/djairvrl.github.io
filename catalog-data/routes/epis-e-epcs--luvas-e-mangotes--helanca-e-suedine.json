@@ -1,0 +1,44 @@
+{
+  "title": "HELANCA E SUEDINE",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria helanca e suedine em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "HELANCA E SUEDINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1184",
+      "title": "LUVA TRICOTADA EM NYLON POLIFLEX PIGMENTADA TAM 9(G) CA14997 - DANNY REF DA-11.300",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "126D9",
+      "category": "HELANCA E SUEDINE",
+      "categorySlug": "helanca-e-suedine",
+      "path": "/luva-tricotada-em-nylon-poliflex-pigmentada-tam-9g-ca14997--danny-ref-da11300-1184",
+      "image": "/products/images/0011/1184.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--helanca-e-suedine"
+  }
+}

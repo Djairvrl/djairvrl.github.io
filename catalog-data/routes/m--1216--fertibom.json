@@ -1,0 +1,36 @@
+{
+  "title": "FERTIBOM",
+  "parentLabel": "Marca",
+  "description": "Produtos FERTIBOM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FERTIBOM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13272",
+      "title": "AGUA DESMIN 20L FERTIBOM RADIADOR",
+      "brand": "FERTIBOM",
+      "brandCode": "1216",
+      "supplier": "MAMEDE MULTI CENTER DESIGN LTDA",
+      "supplierCode": "6201",
+      "manufacturerCode": "AGUADESMINE-20L",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/agua-desmin-20l-fertibom-radiador-13272",
+      "image": "/products/images/0132/13272.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1216--fertibom"
+  }
+}

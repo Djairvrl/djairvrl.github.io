@@ -1,0 +1,36 @@
+{
+  "title": "HITA",
+  "parentLabel": "Marca",
+  "description": "Produtos HITA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HITA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13037",
+      "title": "BELZONA 1111 - 1KG",
+      "brand": "HITA",
+      "brandCode": "1171",
+      "supplier": "HITA COMERCIO E SERVIÇOS LTDA",
+      "supplierCode": "970",
+      "manufacturerCode": "1",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/belzona-1111--1kg-13037",
+      "image": "/products/images/0130/13037.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1171--hita"
+  }
+}

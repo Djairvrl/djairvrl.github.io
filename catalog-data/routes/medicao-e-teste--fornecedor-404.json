@@ -1,0 +1,768 @@
+{
+  "title": "Medição e Teste",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MINIPA DO BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste"
+    }
+  ],
+  "children": [
+    {
+      "name": "Medição Manual e Precisão",
+      "slug": "ferramentas-de-medicao-manual-e-precisao",
+      "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao",
+      "count": 149,
+      "categories": [
+        {
+          "name": "CALIBRE",
+          "slug": "calibre",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/calibre",
+          "count": 2
+        },
+        {
+          "name": "COMPARADOR DE DIÂMETRO INTERNO",
+          "slug": "comparador-de-diametro-interno",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/comparador-de-diametro-interno",
+          "count": 1
+        },
+        {
+          "name": "COMPASSO",
+          "slug": "compasso",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/compasso",
+          "count": 2
+        },
+        {
+          "name": "ESCALA",
+          "slug": "escala",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/escala",
+          "count": 2
+        },
+        {
+          "name": "ESQUADRO",
+          "slug": "esquadro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/esquadro",
+          "count": 7
+        },
+        {
+          "name": "FASÍMETRO",
+          "slug": "fasimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/fasimetro",
+          "count": 2
+        },
+        {
+          "name": "GONIÔMETRO",
+          "slug": "goniometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/goniometro",
+          "count": 1
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/medidor",
+          "count": 18
+        },
+        {
+          "name": "MICRÔMETRO",
+          "slug": "micrometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/micrometro",
+          "count": 4
+        },
+        {
+          "name": "NÍVEL",
+          "slug": "nivel",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel",
+          "count": 9
+        },
+        {
+          "name": "NÍVEL LASER",
+          "slug": "nivel-laser",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel-laser",
+          "count": 13
+        },
+        {
+          "name": "PAQUÍMETRO",
+          "slug": "paquimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/paquimetro",
+          "count": 25
+        },
+        {
+          "name": "RELÓGIO COMPARADOR",
+          "slug": "relogio-comparador",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/relogio-comparador",
+          "count": 15
+        },
+        {
+          "name": "RÉGUA",
+          "slug": "regua",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/regua",
+          "count": 3
+        },
+        {
+          "name": "SUPORTE DE MEDIÇÃO",
+          "slug": "suporte-de-medicao",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/suporte-de-medicao",
+          "count": 5
+        },
+        {
+          "name": "TRENAS",
+          "slug": "trenas",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/trenas",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "name": "Medição Elétrica e Diagnóstico",
+      "slug": "ferramentas-de-m-eletrica-e-diagnostico",
+      "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico",
+      "count": 111,
+      "categories": [
+        {
+          "name": "ALICATE AMPERÍMETRO",
+          "slug": "alicate-amperimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/alicate-amperimetro",
+          "count": 12
+        },
+        {
+          "name": "ANALISADORES",
+          "slug": "analisadores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/analisadores",
+          "count": 14
+        },
+        {
+          "name": "CERTIFICADORES DE CABOS DE REDE",
+          "slug": "certificadores-de-cabos-de-rede",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/certificadores-de-cabos-de-rede",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR",
+          "slug": "detector",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/detector",
+          "count": 2
+        },
+        {
+          "name": "FONTES REGULÁVEIS",
+          "slug": "fontes-regulaveis",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/fontes-regulaveis",
+          "count": 4
+        },
+        {
+          "name": "MEDIDORES DE TTR",
+          "slug": "medidores-de-ttr",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-ttr",
+          "count": 1
+        },
+        {
+          "name": "MEDIDORES DE VELOCIDADES",
+          "slug": "medidores-de-velocidades",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-velocidades",
+          "count": 5
+        },
+        {
+          "name": "MEGÔMETRO",
+          "slug": "megometro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/megometro",
+          "count": 7
+        },
+        {
+          "name": "MILIOHMÍMETRO",
+          "slug": "miliohmimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/miliohmimetro",
+          "count": 2
+        },
+        {
+          "name": "MULTÍMETRO",
+          "slug": "multimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/multimetro",
+          "count": 20
+        },
+        {
+          "name": "OSCILOSCÓPIO",
+          "slug": "osciloscopio",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/osciloscopio",
+          "count": 1
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/sensores",
+          "count": 4
+        },
+        {
+          "name": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+          "slug": "termo-higrometros-e-acessorios",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termo-higrometros-e-acessorios",
+          "count": 11
+        },
+        {
+          "name": "TERMÔMETROS",
+          "slug": "termometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termometros",
+          "count": 8
+        },
+        {
+          "name": "TERRÔMETROS",
+          "slug": "terrometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/terrometros",
+          "count": 2
+        },
+        {
+          "name": "TESTADORES DE BATERIA",
+          "slug": "testadores-de-bateria",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-bateria",
+          "count": 6
+        },
+        {
+          "name": "TESTADORES DE FASE",
+          "slug": "testadores-de-fase",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-fase",
+          "count": 7
+        },
+        {
+          "name": "TESTADORES DE ISOLAÇÃO",
+          "slug": "testadores-de-isolacao",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-isolacao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Calibração e Ajuste",
+      "slug": "ferramentas-de-calibracao-e-ajuste",
+      "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste",
+      "count": 58,
+      "categories": [
+        {
+          "name": "BALANÇA",
+          "slug": "balanca",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/balanca",
+          "count": 7
+        },
+        {
+          "name": "BANCOS DE TESTE",
+          "slug": "bancos-de-teste",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/bancos-de-teste",
+          "count": 1
+        },
+        {
+          "name": "CALIBRADORES",
+          "slug": "calibradores",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/calibradores",
+          "count": 5
+        },
+        {
+          "name": "KIT ACUMULADORES DE PRE CARGA",
+          "slug": "kit-acumuladores-de-pre-carga",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/kit-acumuladores-de-pre-carga",
+          "count": 2
+        },
+        {
+          "name": "MANÔMETRO",
+          "slug": "manometro",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/manometro",
+          "count": 32
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/medidor",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Detecção e Teste",
+      "slug": "ferrametas-de-deteccao-e-teste",
+      "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste",
+      "count": 52,
+      "categories": [
+        {
+          "name": "ANEMÔMETRO",
+          "slug": "anemometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/anemometro",
+          "count": 4
+        },
+        {
+          "name": "BOROSCÓPIO",
+          "slug": "boroscopio",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/boroscopio",
+          "count": 3
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/cameras",
+          "count": 8
+        },
+        {
+          "name": "DECIBELÍMETRO",
+          "slug": "decibelimetro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/decibelimetro",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR DE GÁS",
+          "slug": "detector-de-gas",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/detector-de-gas",
+          "count": 10
+        },
+        {
+          "name": "ETILÔMETROS DIGITAIS",
+          "slug": "etilometros-digitais",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/etilometros-digitais",
+          "count": 3
+        },
+        {
+          "name": "INSTRUMENTOS ÓPTICOS",
+          "slug": "instrumentos-opticos",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/instrumentos-opticos",
+          "count": 19
+        },
+        {
+          "name": "MEDIDORES DE ESPESSURA",
+          "slug": "medidores-de-espessura",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/medidores-de-espessura",
+          "count": 1
+        },
+        {
+          "name": "PLUVIÔMETRO",
+          "slug": "pluviometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/pluviometro",
+          "count": 1
+        },
+        {
+          "name": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+          "slug": "testadores-de-isolamento-hidrostatico",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/testadores-de-isolamento-hidrostatico",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Navegação e Geolocalização",
+      "slug": "navegacao-e-geolocalizacao",
+      "path": "/medicao-e-teste/navegacao-e-geolocalizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferramentas De Navegação/Geolocalização",
+      "slug": "ferramentas-de-navegacao-geolocalizacao",
+      "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao",
+      "count": 3,
+      "categories": [
+        {
+          "name": "GPS PORTÁTEIS",
+          "slug": "gps-portateis",
+          "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao/gps-portateis",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "404",
+    "name": "MINIPA DO BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "6776",
+      "title": "ALICATE AMPERIMETRO 6000 CAT IV 600V",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-3367C",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-6000-cat-iv-600v-6776",
+      "image": "/products/images/0067/6776.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8606",
+      "title": "ALICATE AMPERIMETRO CAT III 300V",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-3320A",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-cat-iii-300v-8606",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10699",
+      "title": "ALICATE AMPERIMETRO PARA PAINEL SOLAR",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-4710",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-para-painel-solar-10699",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3568",
+      "title": "ALICATE AMPERÍMETRO DIGITAL 1000A AC COM ILUMINAÇÃO DA GARRA - MINIPA ET-3200B",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-3200B",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-1000a-ac-com-iluminacao-da-garra--minipa-et3200b-3568",
+      "image": "/products/images/0035/3568.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9216",
+      "title": "ANEMOMETRO",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MDA-10A",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-9216",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "13274",
+      "title": "ANENOMETRO DIGITAL",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MDA-10B",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anenometro-digital-13274",
+      "image": "/products/images/0132/13274.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12986",
+      "title": "FASIMETRO CAT IV 600V S/ CONTATO METALIC",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MFA-845",
+      "category": "FASÍMETRO",
+      "categorySlug": "fasimetro",
+      "path": "/fasimetro-cat-iv-600v-s-contato-metalic-12986",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3545",
+      "title": "FASÍMETRO/SEQUENCÍMETRO CAT III/600V -  MINIPA MFA-862",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MFA-862",
+      "category": "FASÍMETRO",
+      "categorySlug": "fasimetro",
+      "path": "/fasimetrosequencimetro-cat-iii600v--minipa-mfa862-3545",
+      "image": "/products/images/0035/3545.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "9618",
+      "title": "FONTE ALIMENTACAO 5A 250V MINIPA REF MPS-3005B",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MPS-3005B",
+      "category": "FONTES REGULÁVEIS",
+      "categorySlug": "fontes-regulaveis",
+      "path": "/fonte-alimentacao-5a-250v-minipa-ref-mps3005b-9618",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "5790",
+      "title": "FONTE ALIMENTACAO DUPLA DC REGULA 30V/5A",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MPC-3005",
+      "category": "FONTES REGULÁVEIS",
+      "categorySlug": "fontes-regulaveis",
+      "path": "/fonte-alimentacao-dupla-dc-regula-30v5a-5790",
+      "image": "/products/images/0057/5790.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "6664",
+      "title": "GERADOR DE FORMA DE ONDA ARBITRARIA",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MFG-4225",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/gerador-de-forma-de-onda-arbitraria-6664",
+      "image": "/products/images/0066/6664.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11083",
+      "title": "MILIOHMIMETRO DIGITAL 1E",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MCR-1E EZ",
+      "category": "MILIOHMÍMETRO",
+      "categorySlug": "miliohmimetro",
+      "path": "/miliohmimetro-digital-1e-11083",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8835",
+      "title": "MINI TERMO-HIGROMETRO",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MTH-1300",
+      "category": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+      "categorySlug": "termo-higrometros-e-acessorios",
+      "path": "/mini-termohigrometro-8835",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12689",
+      "title": "MULTIMETRO DIGITAL 5000CNT CAP/FREQ/TEMP",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-2615A",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/multimetro-digital-5000cnt-capfreqtemp-12689",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7191",
+      "title": "MULTIMETRO DIGITAL TRUE RMS CATIII 600V",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-2042F",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/multimetro-digital-true-rms-catiii-600v-7191",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "5910",
+      "title": "MULTÍMETRO DIGITAL ET-1507B CAT III 600V TRUE RMS  - MINIPA",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-1507B",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/multimetro-digital-et1507b-cat-iii-600v-true-rms--minipa-5910",
+      "image": "/products/images/0059/5910.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "4733",
+      "title": "MULTÍMETRO DIGITAL TRUE-RMS NCV 600V CAT II ET-1100B - MINIPA",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-1100B",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/multimetro-digital-truerms-ncv-600v-cat-ii-et1100b--minipa-4733",
+      "image": "/products/images/0047/4733.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3567",
+      "title": "MULTÍMETRO MEGÔMETRO DIGITAL ET-2780 TRUE RMS CAT IV 600V - MINIPA",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "ET-2780",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/multimetro-megometro-digital-et2780-true-rms-cat-iv-600v--minipa-3567",
+      "image": "/products/images/0035/3567.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12205",
+      "title": "OSCILOSCÓPIO DIG.2 CANAIS",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MO-1102C",
+      "category": "OSCILOSCÓPIO",
+      "categorySlug": "osciloscopio",
+      "path": "/osciloscopio-dig2-canais-12205",
+      "image": "/products/images/0122/12205.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "5589",
+      "title": "RELÓGIO TERMO-HIGRÔMETRO DIGITAL  MT-241 (INTERNO/EXTERNO) - MINIPA",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MT-241",
+      "category": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+      "categorySlug": "termo-higrometros-e-acessorios",
+      "path": "/relogio-termohigrometro-digital-mt241-internoexterno--minipa-5589",
+      "image": "/products/images/0055/5589.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "4671",
+      "title": "TACÔMETRO DIGITAL FOTO/CONTATO RPM E M/MIN MDT-2238C - MINIPA",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MDT-2238C",
+      "category": "ANALISADORES",
+      "categorySlug": "analisadores",
+      "path": "/tacometro-digital-fotocontato-rpm-e-mmin-mdt2238c--minipa-4671",
+      "image": "/products/images/0046/4671.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11089",
+      "title": "TERROMETRO DIGITAL LCD 3 3/4 DIGITOS",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MTR - 1522",
+      "category": "TERRÔMETROS",
+      "categorySlug": "terrometros",
+      "path": "/terrometro-digital-lcd-3-34-digitos-11089",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8607",
+      "title": "TESTADOR DE BATERIA AUTOMOTIVO MTB-1000",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MTB-1000",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-de-bateria-automotivo-mtb1000-8607",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 23,
+    "pageBase": "medicao-e-teste--fornecedor-404"
+  }
+}

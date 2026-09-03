@@ -1,0 +1,36 @@
+{
+  "title": "OSTER",
+  "parentLabel": "Marca",
+  "description": "Produtos OSTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OSTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10913",
+      "title": "CAFETEIRA C/ JARRA DE INOX 1,2L 750W 220",
+      "brand": "OSTER",
+      "brandCode": "827",
+      "supplier": "WEBCONTINENTAL LTDA",
+      "supplierCode": "4185",
+      "manufacturerCode": "431250010122000013",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-c-jarra-de-inox-12l-750w-220-10913",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--827--oster"
+  }
+}

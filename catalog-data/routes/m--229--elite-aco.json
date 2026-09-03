@@ -1,0 +1,36 @@
+{
+  "title": "ELITE ACO",
+  "parentLabel": "Marca",
+  "description": "Produtos ELITE ACO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ELITE ACO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12842",
+      "title": "ROUPEIRO DE ACO 16 PORTAS AZUL",
+      "brand": "ELITE ACO",
+      "brandCode": "229",
+      "supplier": "ELITE AÇO IND E COM DE MOVEIS LTDA",
+      "supplierCode": "934",
+      "manufacturerCode": "EA716/002",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/roupeiro-de-aco-16-portas-azul-12842",
+      "image": "/products/images/0128/12842.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--229--elite-aco"
+  }
+}

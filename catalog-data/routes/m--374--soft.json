@@ -1,0 +1,36 @@
+{
+  "title": "SOFT",
+  "parentLabel": "Marca",
+  "description": "Produtos SOFT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOFT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6887",
+      "title": "MASCARA DE SOLDA AUTOMATICA MAB-90 PLUS",
+      "brand": "SOFT",
+      "brandCode": "374",
+      "supplier": "BUNZL EQUIPAMENTOS P PROTECAO INDIVIDUAL",
+      "supplierCode": "28",
+      "manufacturerCode": "SW913",
+      "category": "MÁSCARA DE SOLDA",
+      "categorySlug": "mascara-de-solda",
+      "path": "/mascara-de-solda-automatica-mab90-plus-6887",
+      "image": "/products/images/0068/6887.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Facial",
+      "sectionSlug": "protecao-facial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--374--soft"
+  }
+}

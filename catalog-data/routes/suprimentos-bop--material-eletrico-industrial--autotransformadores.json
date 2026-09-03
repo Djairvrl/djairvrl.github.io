@@ -1,0 +1,61 @@
+{
+  "title": "AUTOTRANSFORMADORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria autotransformadores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "AUTOTRANSFORMADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8906",
+      "title": "AUTO TRANSFORMADOR TRIFASICO A SECO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ALPHA SOLUCOES EM TRANSFORMACAO LTDA",
+      "supplierCode": "2288",
+      "manufacturerCode": "12348",
+      "category": "AUTOTRANSFORMADORES",
+      "categorySlug": "autotransformadores",
+      "path": "/auto-transformador-trifasico-a-seco-8906",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "5555",
+      "title": "AUTOTRANSFORMADOR TRIFASICO 7,5 KVA IP21",
+      "brand": "KIMARKI",
+      "brandCode": "239",
+      "supplier": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1012",
+      "manufacturerCode": "7/5KVA",
+      "category": "AUTOTRANSFORMADORES",
+      "categorySlug": "autotransformadores",
+      "path": "/autotransformador-trifasico-75-kva-ip21-5555",
+      "image": "/products/images/0055/5555.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--autotransformadores"
+  }
+}

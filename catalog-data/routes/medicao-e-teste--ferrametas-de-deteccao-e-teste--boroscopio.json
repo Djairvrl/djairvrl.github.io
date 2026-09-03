@@ -1,0 +1,78 @@
+{
+  "title": "BOROSCÓPIO",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria boroscópio em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "BOROSCÓPIO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8359",
+      "title": "BOROSCOPIO DE DIAGNOST C/ VIDEO DS703 FC",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4962665",
+      "category": "BOROSCÓPIO",
+      "categorySlug": "boroscopio",
+      "path": "/boroscopio-de-diagnost-c-video-ds703-fc-8359",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8881",
+      "title": "BOROSCOPIO DIGITAL HBR500",
+      "brand": "HIKARI",
+      "brandCode": "505",
+      "supplier": "MULTIPLA ELETRICA E ILUMINACAO LTDA",
+      "supplierCode": "1742",
+      "manufacturerCode": "21N280",
+      "category": "BOROSCÓPIO",
+      "categorySlug": "boroscopio",
+      "path": "/boroscopio-digital-hbr500-8881",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "7573",
+      "title": "BOROSCÓPIO DIGITAL HBR-300 - HIKARI 21N215",
+      "brand": "HIKARI",
+      "brandCode": "505",
+      "supplier": "MULTIPLA ELETRICA E ILUMINACAO LTDA",
+      "supplierCode": "1742",
+      "manufacturerCode": "7899810413031",
+      "category": "BOROSCÓPIO",
+      "categorySlug": "boroscopio",
+      "path": "/boroscopio-digital-hbr300--hikari-21n215-7573",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--boroscopio"
+  }
+}

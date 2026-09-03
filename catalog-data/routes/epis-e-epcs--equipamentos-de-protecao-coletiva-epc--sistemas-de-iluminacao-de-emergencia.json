@@ -1,0 +1,95 @@
+{
+  "title": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+  "parentLabel": "Equipamentos de Proteção Coletiva — EPC",
+  "description": "Produtos da categoria sistemas de iluminação de emergência em equipamentos de proteção coletiva — epc.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Equipamentos de Proteção Coletiva — EPC",
+      "to": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "label": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9998",
+      "title": "BLOCO AUTONOMO EMERG LED 16W 2000LM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MAGISTER FERRAMENTAS LTDA",
+      "supplierCode": "2876",
+      "manufacturerCode": "48LEM2KL0000",
+      "category": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+      "categorySlug": "sistemas-de-iluminacao-de-emergencia",
+      "path": "/bloco-autonomo-emerg-led-16w-2000lm-9998",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "815",
+      "title": "LUMINÁRIA DE EMERGÊNCIA 30 LEDS BIVOLT 55-100LM ELGIN - 48LEM30L0000",
+      "brand": "ELGIN",
+      "brandCode": "28",
+      "supplier": "ELGIN DISTRIBUIDORA LTDA",
+      "supplierCode": "231",
+      "manufacturerCode": "48LEM30L0000",
+      "category": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+      "categorySlug": "sistemas-de-iluminacao-de-emergencia",
+      "path": "/luminaria-de-emergencia-30-leds-bivolt-55100lm-elgin--48lem30l0000-815",
+      "image": "/products/images/0008/815.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "9975",
+      "title": "LUMINÁRIA DE EMERGÊNCIA LED 2.200LM 10W 2 FARÓIS 6.500K  BLUMENAU REF 40012224-3",
+      "brand": "BLUMENAU",
+      "brandCode": "205",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "64244",
+      "category": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+      "categorySlug": "sistemas-de-iluminacao-de-emergencia",
+      "path": "/luminaria-de-emergencia-led-2200lm-10w-2-farois-6500k-blumenau-ref-400122243-9975",
+      "image": "/products/images/0099/9975.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "812",
+      "title": "LUMINÁRIA DE EMERGÊNCIA LED 2000LM COM 2 FARÓIS  ELGIN - 48LEM2KL0000 110V/220V",
+      "brand": "ELGIN",
+      "brandCode": "28",
+      "supplier": "ELGIN DISTRIBUIDORA LTDA",
+      "supplierCode": "231",
+      "manufacturerCode": "48LEM2KL00000",
+      "category": "SISTEMAS DE ILUMINAÇÃO DE EMERGÊNCIA",
+      "categorySlug": "sistemas-de-iluminacao-de-emergencia",
+      "path": "/luminaria-de-emergencia-led-2000lm-com-2-farois-elgin--48lem2kl0000-110v220v-812",
+      "image": "/products/images/0008/812.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--equipamentos-de-protecao-coletiva-epc--sistemas-de-iluminacao-de-emergencia"
+  }
+}

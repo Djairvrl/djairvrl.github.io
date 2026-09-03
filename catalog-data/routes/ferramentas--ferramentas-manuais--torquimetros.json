@@ -1,0 +1,95 @@
+{
+  "title": "TORQUIMETROS",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria torquimetros em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "TORQUIMETROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11452",
+      "title": "TF-K100 TORQUIMETRO ESTALO TORCOFIX",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "047408",
+      "category": "TORQUIMETROS",
+      "categorySlug": "torquimetros",
+      "path": "/tfk100-torquimetro-estalo-torcofix-11452",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11918",
+      "title": "TORQ DE ESTALO TORCOFIX K 1/2 60-300 NM",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "047410",
+      "category": "TORQUIMETROS",
+      "categorySlug": "torquimetros",
+      "path": "/torq-de-estalo-torcofix-k-12-60300-nm-11918",
+      "image": "/products/images/0119/11918.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11160",
+      "title": "TORQ ESTALO TORCOFIX K 1/4\" 1-5 NM",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "047405",
+      "category": "TORQUIMETROS",
+      "categorySlug": "torquimetros",
+      "path": "/torq-estalo-torcofix-k-14-15-nm-11160",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10976",
+      "title": "TORQ ESTALO TORCOFIX K 1/4\" 5-25 NM",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "047406",
+      "category": "TORQUIMETROS",
+      "categorySlug": "torquimetros",
+      "path": "/torq-estalo-torcofix-k-14-525-nm-10976",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--ferramentas-manuais--torquimetros"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ROYAL FIX",
+  "parentLabel": "Marca",
+  "description": "Produtos ROYAL FIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROYAL FIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11020",
+      "title": "ADESIVO PLASTICO 500GR BRANCA C/CATALIS",
+      "brand": "ROYAL FIX",
+      "brandCode": "854",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "86",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/adesivo-plastico-500gr-branca-ccatalis-11020",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--854--royal-fix"
+  }
+}

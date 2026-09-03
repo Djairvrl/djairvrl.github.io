@@ -1,0 +1,36 @@
+{
+  "title": "BESTFER",
+  "parentLabel": "Marca",
+  "description": "Produtos BESTFER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BESTFER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12096",
+      "title": "TESTADOR DE TENSAO LED - BUS",
+      "brand": "BESTFER",
+      "brandCode": "1031",
+      "supplier": "V. Y. SAKAUE RAMOS CONSULTORIA EMPRESARIAL LTDA",
+      "supplierCode": "5510",
+      "manufacturerCode": "166271",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/testador-de-tensao-led--bus-12096",
+      "image": "/products/images/0120/12096.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1031--bestfer"
+  }
+}

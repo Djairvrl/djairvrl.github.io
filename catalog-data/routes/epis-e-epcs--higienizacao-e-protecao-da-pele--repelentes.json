@@ -1,0 +1,78 @@
+{
+  "title": "REPELENTES",
+  "parentLabel": "Higienização e Proteção da Pele",
+  "description": "Produtos da categoria repelentes em higienização e proteção da pele.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Higienização e Proteção da Pele",
+      "to": "/epis-e-epcs/higienizacao-e-protecao-da-pele"
+    },
+    {
+      "label": "REPELENTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9634",
+      "title": "REPELENTE ICARIDINA SPRAY 100ML MOSKITOFF",
+      "brand": "MOSKITOFF",
+      "brandCode": "704",
+      "supplier": "ZANUP MARKETPLACE E COMERCIO ONLINE LTDA",
+      "supplierCode": "2661",
+      "manufacturerCode": "10764",
+      "category": "REPELENTES",
+      "categorySlug": "repelentes",
+      "path": "/repelente-icaridina-spray-100ml-moskitoff-9634",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "8932",
+      "title": "REPELENTE INSETOS ATE 10H SPRAY 100ML",
+      "brand": "NUTRIEX",
+      "brandCode": "242",
+      "supplier": "EQUILIBRIUM DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+      "supplierCode": "1025",
+      "manufacturerCode": "63503",
+      "category": "REPELENTES",
+      "categorySlug": "repelentes",
+      "path": "/repelente-insetos-ate-10h-spray-100ml-8932",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "1143",
+      "title": "REPELENTES CONTRA INSETOS EM SPRAY 100ML - HENLAU",
+      "brand": "HENLAU",
+      "brandCode": "13",
+      "supplier": "HENLAU QUIMICA EIRELI  EPP",
+      "supplierCode": "191",
+      "manufacturerCode": "16315",
+      "category": "REPELENTES",
+      "categorySlug": "repelentes",
+      "path": "/repelentes-contra-insetos-em-spray-100ml--henlau-1143",
+      "image": "/products/images/0011/1143.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "epis-e-epcs--higienizacao-e-protecao-da-pele--repelentes"
+  }
+}

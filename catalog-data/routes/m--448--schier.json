@@ -1,0 +1,70 @@
+{
+  "title": "SCHIER",
+  "parentLabel": "Marca",
+  "description": "Produtos SCHIER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SCHIER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7368",
+      "title": "ARMARIO 02 PORTAS GRANDES MODELO 407/33",
+      "brand": "SCHIER",
+      "brandCode": "448",
+      "supplier": "SCHIER MOVEIS",
+      "supplierCode": "1591",
+      "manufacturerCode": "40733",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-02-portas-grandes-modelo-40733-7368",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7755",
+      "title": "ARMARIO 02 PORTAS GRANDES MODELO 407/33",
+      "brand": "SCHIER",
+      "brandCode": "448",
+      "supplier": "SCHIER MOVEIS",
+      "supplierCode": "1591",
+      "manufacturerCode": "40733",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-02-portas-grandes-modelo-40733-7755",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "7367",
+      "title": "ARMÁRIO ROUPEIRO DE AÇO 8 PORTAS GRANDES - SCHIER MÓVEIS P-8",
+      "brand": "SCHIER",
+      "brandCode": "448",
+      "supplier": "SCHIER MOVEIS",
+      "supplierCode": "1591",
+      "manufacturerCode": "RGRSP-8",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-roupeiro-de-aco-8-portas-grandes--schier-moveis-p8-7367",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--448--schier"
+  }
+}

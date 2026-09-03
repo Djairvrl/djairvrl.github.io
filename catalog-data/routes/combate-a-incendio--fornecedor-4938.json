@@ -1,0 +1,221 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "4938",
+    "name": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA"
+  },
+  "products": [
+    {
+      "code": "12148",
+      "title": "EXTINTOR CARRETA ESPUMA MEC. 50 LTS 6AB",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "88321",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-carreta-espuma-mec-50-lts-6ab-12148",
+      "image": "/products/images/0121/12148.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12149",
+      "title": "EXTINTOR CARRETA PQS 50 KG 80 BC",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "492",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-carreta-pqs-50-kg-80-bc-12149",
+      "image": "/products/images/0121/12149.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11884",
+      "title": "EXTINTOR CARRETA PQS BC 50KG (80BC)",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "123591",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-carreta-pqs-bc-50kg-80bc-11884",
+      "image": "/products/images/0118/11884.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11882",
+      "title": "EXTINTOR CO2 6 KG - NAO AUTOMOTIVO",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "120401",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-co2-6-kg--nao-automotivo-11882",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11883",
+      "title": "EXTINTOR ESPUMA MECANICA 10 LTS CAP.2A 1",
+      "brand": "EXTINPEL",
+      "brandCode": "1003",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "73851",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-espuma-mecanica-10-lts-cap2a-1-11883",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11127",
+      "title": "EXTINTOR PQS 6 KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "256859",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-pqs-6-kg-11127",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12150",
+      "title": "EXTINTOR PQS ABC 12,0 KG-",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "549",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-pqs-abc-120-kg-12150",
+      "image": "/products/images/0121/12150.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12151",
+      "title": "EXTINTOR PQS ABC 6,0 KG",
+      "brand": "FCV INDUSTRIA",
+      "brandCode": "1041",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "13",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-pqs-abc-60-kg-12151",
+      "image": "/products/images/0121/12151.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "12603",
+      "title": "SUPORTE TRIPE BICROMATIZADO P4/P6",
+      "brand": "MOCELIN",
+      "brandCode": "443",
+      "supplier": "FCV INDUSTRIA PLATINENSE DE EXTINTORES LTDA",
+      "supplierCode": "4938",
+      "manufacturerCode": "617",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/suporte-tripe-bicromatizado-p4p6-12603",
+      "image": "/products/images/0126/12603.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 9,
+    "pageBase": "combate-a-incendio--fornecedor-4938"
+  }
+}

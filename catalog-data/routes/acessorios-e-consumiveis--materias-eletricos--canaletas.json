@@ -1,0 +1,112 @@
+{
+  "title": "CANALETAS",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria canaletas em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "CANALETAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11185",
+      "title": "CANALETA FECH 1DIV 50X 20X 2000MM C/ADES",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "507974",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/canaleta-fech-1div-50x-20x-2000mm-cades-11185",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3540",
+      "title": "CANALETA PLAST 20X10X0,6MM 2M C/ADESIVO",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600100047",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/canaleta-plast-20x10x06mm-2m-cadesivo-3540",
+      "image": "/products/images/0035/3540.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11186",
+      "title": "COTOVELO 90G EXT 50X20MM P/ SIST X",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "253183",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/cotovelo-90g-ext-50x20mm-p-sist-x-11186",
+      "image": "/products/images/0111/11186.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11187",
+      "title": "COTOVELO 90G INT 50X20MM P/SIST 29903X",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "253175",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/cotovelo-90g-int-50x20mm-psist-29903x-11187",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "3541",
+      "title": "COTOVELO 90° PARA CANALETA",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600100049",
+      "category": "CANALETAS",
+      "categorySlug": "canaletas",
+      "path": "/cotovelo-90-para-canaleta-3541",
+      "image": "/products/images/0035/3541.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--canaletas"
+  }
+}

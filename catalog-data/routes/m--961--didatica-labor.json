@@ -1,0 +1,36 @@
+{
+  "title": "DIDATICA LABOR",
+  "parentLabel": "Marca",
+  "description": "Produtos DIDATICA LABOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DIDATICA LABOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11609",
+      "title": "CARBURETO CALCIO CAIXA COM 100 AMPOLAS",
+      "brand": "DIDATICA LABOR",
+      "brandCode": "961",
+      "supplier": "DIDATICA EQUIPAMENTOS PARA LABORATORIO LTDA",
+      "supplierCode": "5122",
+      "manufacturerCode": "60504",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/carbureto-calcio-caixa-com-100-ampolas-11609",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--961--didatica-labor"
+  }
+}

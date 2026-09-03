@@ -1,0 +1,36 @@
+{
+  "title": "APOLLO LIGHTING",
+  "parentLabel": "Marca",
+  "description": "Produtos APOLLO LIGHTING disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "APOLLO LIGHTING"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13264",
+      "title": "LAMPADA TUBULAR LED T5 18W 6500K BRANCO",
+      "brand": "APOLLO LIGHTING",
+      "brandCode": "1213",
+      "supplier": "BLACK AMETHYST LTDA",
+      "supplierCode": "6180",
+      "manufacturerCode": "2846",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/lampada-tubular-led-t5-18w-6500k-branco-13264",
+      "image": "/products/images/0132/13264.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1213--apollo-lighting"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "ROTOFORM",
+  "parentLabel": "Marca",
+  "description": "Produtos ROTOFORM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROTOFORM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7974",
+      "title": "PALLET 2 TAMBORES 120 LITROS - AMARELO",
+      "brand": "ROTOFORM",
+      "brandCode": "305",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "22561",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/pallet-2-tambores-120-litros--amarelo-7974",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7570",
+      "title": "PALLET DE CONTEÇÃO 4 TAMBORES 420 LITROS AMARELO - ROTOFORM P4T420L",
+      "brand": "ROTOFORM",
+      "brandCode": "305",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "44201",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/pallet-de-contecao-4-tambores-420-litros-amarelo--rotoform-p4t420l-7570",
+      "image": "/products/images/0075/7570.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7284",
+      "title": "PALLET IBC 1000 LITROS REDONDO - AMARELO",
+      "brand": "ROTOFORM",
+      "brandCode": "305",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "C10011",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/pallet-ibc-1000-litros-redondo--amarelo-7284",
+      "image": "/products/images/0072/7284.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7571",
+      "title": "SMART PALLET ECO 1210 VAZADO PRETO 1000 X 1200 X 150MM - SPPLAST",
+      "brand": "ROTOFORM",
+      "brandCode": "305",
+      "supplier": "SPPLAST INDUSTRIA E COMERCIO DE PRODUTOS PLASTICOS LTDA",
+      "supplierCode": "1352",
+      "manufacturerCode": "SP1210",
+      "category": "PALLETS DE CONTENÇÃO",
+      "categorySlug": "pallets-de-contencao",
+      "path": "/smart-pallet-eco-1210-vazado-preto-1000-x-1200-x-150mm--spplast-7571",
+      "image": "/products/images/0075/7571.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--305--rotoform"
+  }
+}

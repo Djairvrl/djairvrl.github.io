@@ -1,0 +1,36 @@
+{
+  "title": "SEVERAL",
+  "parentLabel": "Marca",
+  "description": "Produtos SEVERAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SEVERAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12959",
+      "title": "ALICATE CRIMPADOR PRENSA HEXAGONAL",
+      "brand": "SEVERAL",
+      "brandCode": "1161",
+      "supplier": "ISCALI DISTRIBUIDORA E LOGISTICA LTDA",
+      "supplierCode": "6011",
+      "manufacturerCode": "ALIC2510IL",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/alicate-crimpador-prensa-hexagonal-12959",
+      "image": "/products/images/0129/12959.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1161--several"
+  }
+}

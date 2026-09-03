@@ -1,0 +1,36 @@
+{
+  "title": "IMBAT",
+  "parentLabel": "Marca",
+  "description": "Produtos IMBAT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IMBAT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12978",
+      "title": "COLETE REFLETIVO LARANJA 1 BOLSO G",
+      "brand": "IMBAT",
+      "brandCode": "1166",
+      "supplier": "CJ METAIS E CONSTRUCOES LTDA",
+      "supplierCode": "679",
+      "manufacturerCode": "VIC72140 G LJ",
+      "category": "COLETES DE SINALIZAÇÃO",
+      "categorySlug": "coletes-de-sinalizacao",
+      "path": "/colete-refletivo-laranja-1-bolso-g-12978",
+      "image": "/products/images/0129/12978.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1166--imbat"
+  }
+}

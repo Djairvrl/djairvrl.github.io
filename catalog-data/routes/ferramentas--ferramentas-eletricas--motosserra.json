@@ -1,0 +1,44 @@
+{
+  "title": "MOTOSSERRA",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria motosserra em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "MOTOSSERRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5958",
+      "title": "MOTOSSERRA A GASOLINA BMT-53A 18\" 49,3CC  2,5CV PARTIDA MANUAL -  BRANCO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315453",
+      "category": "MOTOSSERRA",
+      "categorySlug": "motosserra",
+      "path": "/motosserra-a-gasolina-bmt53a-18-493cc-25cv-partida-manual--branco-5958",
+      "image": "/products/images/0059/5958.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-eletricas--motosserra"
+  }
+}

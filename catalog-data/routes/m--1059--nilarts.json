@@ -1,0 +1,36 @@
+{
+  "title": "NILARTS",
+  "parentLabel": "Marca",
+  "description": "Produtos NILARTS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NILARTS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12287",
+      "title": "ARMARIO ACO C/50 GAVET 14X07X30CM",
+      "brand": "NILARTS",
+      "brandCode": "1059",
+      "supplier": "NIL ART INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "5614",
+      "manufacturerCode": "AG50T50",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-aco-c50-gavet-14x07x30cm-12287",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1059--nilarts"
+  }
+}

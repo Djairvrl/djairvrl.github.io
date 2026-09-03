@@ -1,0 +1,129 @@
+{
+  "title": "GRAMPEADOR",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria grampeador em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "GRAMPEADOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4410",
+      "title": "GRAMPEADOR MANUAL HT 8 TIPO 53 EM AÇO POLIDO RESISTENTE  - BOSCH 0603038000",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "0603038000000",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampeador-manual-ht-8-tipo-53-em-aco-polido-resistente--bosch-0603038000-4410",
+      "image": "/products/images/0044/4410.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "5693",
+      "title": "GRAMPEADOR PROFISIONAL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1218",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampeador-profisional-5693",
+      "image": "/products/images/0056/5693.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4397",
+      "title": "GRAMPO 4 MM - CAIXA C/ 1.000PCS",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2609200291000",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampo-4-mm--caixa-c-1000pcs-4397",
+      "image": "/products/images/0043/4397.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4411",
+      "title": "GRAMPO 8 MM - CAIXA C/ 1000 PCS",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "1609200365000",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampo-8-mm--caixa-c-1000-pcs-4411",
+      "image": "/products/images/0044/4411.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3862",
+      "title": "GRAMPOS 1/4\" - 1.000 PC",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "TRA204T",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampos-14--1000-pc-3862",
+      "image": "/products/images/0038/3862.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3859",
+      "title": "GRAMPOS 5/16\" - 1.000 PC",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "TRA205T",
+      "category": "GRAMPEADOR",
+      "categorySlug": "grampeador",
+      "path": "/grampos-516--1000-pc-3859",
+      "image": "/products/images/0038/3859.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ferramentas--ferramentas-manuais--grampeador"
+  }
+}

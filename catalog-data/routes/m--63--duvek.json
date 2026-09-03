@@ -1,0 +1,70 @@
+{
+  "title": "DUVEK",
+  "parentLabel": "Marca",
+  "description": "Produtos DUVEK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DUVEK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "975",
+      "title": "MACACÃO DE PROTEÇÃO TIPO TYVEK TAM G BRANCO 2000 CA42444 - DUVEK REF MACACÃO 2000",
+      "brand": "DUVEK",
+      "brandCode": "63",
+      "supplier": "YMPULSE IMPORTACAO EXP E COM DE EPI LTDA",
+      "supplierCode": "326",
+      "manufacturerCode": "641DG",
+      "category": "MACACÕES",
+      "categorySlug": "macacoes",
+      "path": "/macacao-de-protecao-tipo-tyvek-tam-g-branco-2000-ca42444--duvek-ref-macacao-2000-975",
+      "image": "/products/images/0009/975.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "977",
+      "title": "MACACÃO DE PROTEÇÃO TIPO TYVEK TAM GG BRANCO 2000 CA42444 - DUVEK REF MACACÃO 2000",
+      "brand": "DUVEK",
+      "brandCode": "63",
+      "supplier": "YMPULSE IMPORTACAO EXP E COM DE EPI LTDA",
+      "supplierCode": "326",
+      "manufacturerCode": "641DGG",
+      "category": "MACACÕES",
+      "categorySlug": "macacoes",
+      "path": "/macacao-de-protecao-tipo-tyvek-tam-gg-branco-2000-ca42444--duvek-ref-macacao-2000-977",
+      "image": "/products/images/0009/977.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "974",
+      "title": "MACACÃO DE PROTEÇÃO TIPO TYVEK TAM P BRANCO 2000 CA42444 - DUVEK REF MACACÃO 2000",
+      "brand": "DUVEK",
+      "brandCode": "63",
+      "supplier": "YMPULSE IMPORTACAO EXP E COM DE EPI LTDA",
+      "supplierCode": "326",
+      "manufacturerCode": "641DP",
+      "category": "MACACÕES",
+      "categorySlug": "macacoes",
+      "path": "/macacao-de-protecao-tipo-tyvek-tam-p-branco-2000-ca42444--duvek-ref-macacao-2000-974",
+      "image": "/products/images/0009/974.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--63--duvek"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria mesas hidráulicas pantográficas em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "MESAS HIDRÁULICAS PANTOGRÁFICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12952",
+      "title": "MESA HID PANTOGRAFICA  350KG MPP352",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6889302000",
+      "category": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+      "categorySlug": "mesas-hidraulicas-pantograficas",
+      "path": "/mesa-hid-pantografica-350kg-mpp352-12952",
+      "image": "/products/images/0129/12952.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--mesas-hidraulicas-pantograficas"
+  }
+}

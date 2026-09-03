@@ -1,0 +1,121 @@
+{
+  "title": "MERCUR",
+  "parentLabel": "Marca",
+  "description": "Produtos MERCUR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MERCUR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8914",
+      "title": "BOLSA TERMICA GEL M BC0130-M48",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "34207",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/bolsa-termica-gel-m-bc0130m48-8914",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12386",
+      "title": "BOTA IMOBILIZADORA M1 CURTA",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "97164",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/bota-imobilizadora-m1-curta-12386",
+      "image": "/products/images/0123/12386.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12036",
+      "title": "CORRETIVO MERCUR 18ML",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896342413089",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/corretivo-mercur-18ml-12036",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7335",
+      "title": "ELASTICO STAND N18 120P 10750",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896342410750",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/elastico-stand-n18-120p-10750-7335",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12772",
+      "title": "ORTESE P/PUNHO C/TALA P/POLEGAR - BC0055",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "38652",
+      "category": "IMOBILIZADORES",
+      "categorySlug": "imobilizadores",
+      "path": "/ortese-ppunho-ctala-ppolegar--bc0055-12772",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12775",
+      "title": "TIPOIA ESTABI ESTOFADA AZUL TAM G-BC0069",
+      "brand": "MERCUR",
+      "brandCode": "620",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "100980",
+      "category": "IMOBILIZADORES",
+      "categorySlug": "imobilizadores",
+      "path": "/tipoia-estabi-estofada-azul-tam-gbc0069-12775",
+      "image": "/products/images/0127/12775.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--620--mercur"
+  }
+}

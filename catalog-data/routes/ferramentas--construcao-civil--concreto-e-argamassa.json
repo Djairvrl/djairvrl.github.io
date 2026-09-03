@@ -1,0 +1,44 @@
+{
+  "title": "CONCRETO E ARGAMASSA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria concreto e argamassa em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "CONCRETO E ARGAMASSA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12072",
+      "title": "SIKAGROUT TIX SA 25KG",
+      "brand": "SIKA",
+      "brandCode": "694",
+      "supplier": "3D REVENDA TECNICA LTDA",
+      "supplierCode": "5486",
+      "manufacturerCode": "1718",
+      "category": "CONCRETO E ARGAMASSA",
+      "categorySlug": "concreto-e-argamassa",
+      "path": "/sikagrout-tix-sa-25kg-12072",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--construcao-civil--concreto-e-argamassa"
+  }
+}

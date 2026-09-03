@@ -1,0 +1,36 @@
+{
+  "title": "CALAS",
+  "parentLabel": "Marca",
+  "description": "Produtos CALAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CALAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11840",
+      "title": "RESINA EPOXI CALAS-95",
+      "brand": "CALAS",
+      "brandCode": "992",
+      "supplier": "CISEL EXPRESS CONDUTORES E ISOLANTES ELETRICOS LTDA",
+      "supplierCode": "5331",
+      "manufacturerCode": "VZ-CALAS95",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/resina-epoxi-calas95-11840",
+      "image": "/products/images/0118/11840.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--992--calas"
+  }
+}

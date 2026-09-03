@@ -1,0 +1,36 @@
+{
+  "title": "FUSIMEC",
+  "parentLabel": "Marca",
+  "description": "Produtos FUSIMEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FUSIMEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7322",
+      "title": "MAQUINA CINTAR POSTE BLIND C CATRACA",
+      "brand": "FUSIMEC",
+      "brandCode": "445",
+      "supplier": "OCEANO TI DISTRIBUIDORA PRODUTOS PARA TELECOMUNICACOES LTDA",
+      "supplierCode": "1583",
+      "manufacturerCode": "175014",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/maquina-cintar-poste-blind-c-catraca-7322",
+      "image": "/products/images/0073/7322.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--445--fusimec"
+  }
+}

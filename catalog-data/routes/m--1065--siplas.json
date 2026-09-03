@@ -1,0 +1,53 @@
+{
+  "title": "SIPLAS",
+  "parentLabel": "Marca",
+  "description": "Produtos SIPLAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SIPLAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12673",
+      "title": "COMBO GAVETEIRO N6 AZUL GAVETA BIN P/ORG",
+      "brand": "SIPLAS",
+      "brandCode": "1065",
+      "supplier": "PLASBIN INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "5665",
+      "manufacturerCode": "12673",
+      "category": "CAIXAS E CASES",
+      "categorySlug": "caixas-e-cases",
+      "path": "/combo-gaveteiro-n6-azul-gaveta-bin-porg-12673",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12344",
+      "title": "GAVETEIRO N6 AZUL GAVETA BIN P/ ORGANIZA",
+      "brand": "SIPLAS",
+      "brandCode": "1065",
+      "supplier": "PLASBIN INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "5665",
+      "manufacturerCode": "30N6AZ",
+      "category": "CAIXAS E CASES",
+      "categorySlug": "caixas-e-cases",
+      "path": "/gaveteiro-n6-azul-gaveta-bin-p-organiza-12344",
+      "image": "/products/images/0123/12344.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1065--siplas"
+  }
+}

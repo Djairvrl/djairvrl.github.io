@@ -1,0 +1,36 @@
+{
+  "title": "BIOLAND",
+  "parentLabel": "Marca",
+  "description": "Produtos BIOLAND disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BIOLAND"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7441",
+      "title": "MEDIDOR DE GLICOSE MOD.G500B",
+      "brand": "BIOLAND",
+      "brandCode": "464",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "02742",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/medidor-de-glicose-modg500b-7441",
+      "image": "/products/images/0074/7441.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--464--bioland"
+  }
+}

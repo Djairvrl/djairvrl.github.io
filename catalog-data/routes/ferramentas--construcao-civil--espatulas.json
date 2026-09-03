@@ -1,0 +1,44 @@
+{
+  "title": "ESPATULAS",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria espatulas em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "ESPATULAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11895",
+      "title": "ESPATULA INOX 3\" MULTIUSO",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "846",
+      "manufacturerCode": "35.53.003.000",
+      "category": "ESPATULAS",
+      "categorySlug": "espatulas",
+      "path": "/espatula-inox-3-multiuso-11895",
+      "image": "/products/images/0118/11895.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--construcao-civil--espatulas"
+  }
+}

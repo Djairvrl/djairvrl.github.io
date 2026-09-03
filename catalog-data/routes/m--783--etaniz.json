@@ -1,0 +1,36 @@
+{
+  "title": "ETANIZ",
+  "parentLabel": "Marca",
+  "description": "Produtos ETANIZ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ETANIZ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10590",
+      "title": "SPRAY 400ML USO GERAL BRANCO BRIL",
+      "brand": "ETANIZ",
+      "brandCode": "783",
+      "supplier": "COMERCIAL JOSE LUCENA LTDA",
+      "supplierCode": "3818",
+      "manufacturerCode": "121673",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/spray-400ml-uso-geral-branco-bril-10590",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--783--etaniz"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "COFORJA",
+  "parentLabel": "Marca",
+  "description": "Produtos COFORJA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COFORJA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13179",
+      "title": "MANILHA CURVA 2\" GRAU 6 WLL 35T",
+      "brand": "COFORJA",
+      "brandCode": "1194",
+      "supplier": "COFORJA CORRENTES E ACESSORIOS BRASIL LTDA",
+      "supplierCode": "6149",
+      "manufacturerCode": "IMFA-51/PPC",
+      "category": "MANILHA",
+      "categorySlug": "manilha",
+      "path": "/manilha-curva-2-grau-6-wll-35t-13179",
+      "image": "/products/images/0131/13179.webp",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1194--coforja"
+  }
+}

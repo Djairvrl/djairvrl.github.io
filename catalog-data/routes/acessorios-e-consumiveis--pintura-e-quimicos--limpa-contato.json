@@ -1,0 +1,112 @@
+{
+  "title": "LIMPA CONTATO",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria limpa contato em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "LIMPA CONTATO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11366",
+      "title": "CORTEC ELECTRICORR VPCI 239 (270G/400ML)",
+      "brand": "CORTEC",
+      "brandCode": "926",
+      "supplier": "CORR SOLUTIONS BRASIL COMERCIO LTDA",
+      "supplierCode": "4844",
+      "manufacturerCode": "PRD00164",
+      "category": "LIMPA CONTATO",
+      "categorySlug": "limpa-contato",
+      "path": "/cortec-electricorr-vpci-239-270g400ml-11366",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3558",
+      "title": "LIMPA CONTATO ELÉTRICO SF 7647 220ML / 155G - LOCTITE 323590",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "3034209",
+      "category": "LIMPA CONTATO",
+      "categorySlug": "limpa-contato",
+      "path": "/limpa-contato-eletrico-sf-7647-220ml-155g--loctite-323590-3558",
+      "image": "/products/images/0035/3558.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10633",
+      "title": "LIMPA CONTATO SPRAY 300 ML AE06000019 DV",
+      "brand": "MUNDIAL PRIME",
+      "brandCode": "716",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "1062207",
+      "category": "LIMPA CONTATO",
+      "categorySlug": "limpa-contato",
+      "path": "/limpa-contato-spray-300-ml-ae06000019-dv-10633",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11276",
+      "title": "LIMPA CONTATO SPRAY W-MAX 300ML/200G",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "5986111400",
+      "category": "LIMPA CONTATO",
+      "categorySlug": "limpa-contato",
+      "path": "/limpa-contato-spray-wmax-300ml200g-11276",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6615",
+      "title": "LIMPA CONTATOS ELÉTRICOS E ELETRÔNICOS 300ML - ORBI QUÍMICA",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "7",
+      "category": "LIMPA CONTATO",
+      "categorySlug": "limpa-contato",
+      "path": "/limpa-contatos-eletricos-e-eletronicos-300ml--orbi-quimica-6615",
+      "image": "/products/images/0066/6615.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--limpa-contato"
+  }
+}

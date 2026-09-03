@@ -1,0 +1,36 @@
+{
+  "title": "UNIVERSO AVENTURA",
+  "parentLabel": "Marca",
+  "description": "Produtos UNIVERSO AVENTURA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UNIVERSO AVENTURA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12809",
+      "title": "CINTA REBOQ 6 METROS 10 TONEL AMARELA",
+      "brand": "UNIVERSO AVENTURA",
+      "brandCode": "1138",
+      "supplier": "UNIVERSO AVENTURA COMERCIO E IMPORTACAO LTDA.",
+      "supplierCode": "5953",
+      "manufacturerCode": "16267",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/cinta-reboq-6-metros-10-tonel-amarela-12809",
+      "image": "/products/images/0128/12809.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1138--universo-aventura"
+  }
+}

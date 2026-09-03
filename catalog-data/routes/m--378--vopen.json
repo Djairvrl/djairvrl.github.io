@@ -1,0 +1,36 @@
+{
+  "title": "VOPEN",
+  "parentLabel": "Marca",
+  "description": "Produtos VOPEN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VOPEN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6907",
+      "title": "COLETE SALVA-VIDAS HOMOLOGADO MARINHA",
+      "brand": "VOPEN",
+      "brandCode": "378",
+      "supplier": "FABIULA PACHECO",
+      "supplierCode": "1417",
+      "manufacturerCode": "VP-22",
+      "category": "COLETES E BÓIAS SALVA VIDAS",
+      "categorySlug": "coletes-e-boias-salva-vidas",
+      "path": "/colete-salvavidas-homologado-marinha-6907",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--378--vopen"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "OBER",
+  "parentLabel": "Marca",
+  "description": "Produtos OBER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OBER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11021",
+      "title": "TOALHA ABSORVENTE 29X29CM C/100 CINZA",
+      "brand": "OBER",
+      "brandCode": "855",
+      "supplier": "OBER SHOP COMERCIO LTDA",
+      "supplierCode": "4338",
+      "manufacturerCode": "OS920826000",
+      "category": "ABSORVENTES ORGÂNICOS",
+      "categorySlug": "absorventes-organicos",
+      "path": "/toalha-absorvente-29x29cm-c100-cinza-11021",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--855--ober"
+  }
+}

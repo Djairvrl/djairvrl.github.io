@@ -1,0 +1,53 @@
+{
+  "title": "QUALINE",
+  "parentLabel": "Marca",
+  "description": "Produtos QUALINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "QUALINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13001",
+      "title": "SACO LIXO 15L QUALINE PT C/20 39X58",
+      "brand": "QUALINE",
+      "brandCode": "1132",
+      "supplier": "CASA NORTE LTDA",
+      "supplierCode": "4511",
+      "manufacturerCode": "26447",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-lixo-15l-qualine-pt-c20-39x58-13001",
+      "image": "/products/images/0130/13001.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "12761",
+      "title": "SACO LIXO 30L QUALINE PT C/10",
+      "brand": "QUALINE",
+      "brandCode": "1132",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "012535",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/saco-lixo-30l-qualine-pt-c10-12761",
+      "image": "/products/images/0127/12761.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1132--qualine"
+  }
+}

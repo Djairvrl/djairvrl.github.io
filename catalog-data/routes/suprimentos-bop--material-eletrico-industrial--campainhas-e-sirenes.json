@@ -1,0 +1,95 @@
+{
+  "title": "CAMPAINHAS E SIRENES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria campainhas e sirenes em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CAMPAINHAS E SIRENES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9933",
+      "title": "SIRENE 105DB SIR 1000 - BR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KGMLAN DISTRIBUIDORA LTDA",
+      "supplierCode": "1641",
+      "manufacturerCode": "4543544",
+      "category": "CAMPAINHAS E SIRENES",
+      "categorySlug": "campainhas-e-sirenes",
+      "path": "/sirene-105db-sir-1000--br-9933",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13225",
+      "title": "SIRENE BIVOLT 110/220V ALARME PRETA 1TOM",
+      "brand": "GLK",
+      "brandCode": "1203",
+      "supplier": "IC BRAZIL STORE COMERCIAL ELETRONICA LTDA",
+      "supplierCode": "6177",
+      "manufacturerCode": "GLK SIRENE BIVOLT",
+      "category": "CAMPAINHAS E SIRENES",
+      "categorySlug": "campainhas-e-sirenes",
+      "path": "/sirene-bivolt-110220v-alarme-preta-1tom-13225",
+      "image": "/products/images/0132/13225.webp",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12664",
+      "title": "SIRENE DE RE BIVOLT 120DB C/ REDUCAO PRO",
+      "brand": "DNI",
+      "brandCode": "366",
+      "supplier": "SNAP COMERCIO E DISTRIBUIDORA DE PRODUTOS ELETRONICOS LTDA",
+      "supplierCode": "5851",
+      "manufacturerCode": "DNIU155R",
+      "category": "CAMPAINHAS E SIRENES",
+      "categorySlug": "campainhas-e-sirenes",
+      "path": "/sirene-de-re-bivolt-120db-c-reducao-pro-12664",
+      "image": "/products/images/0126/12664.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7500",
+      "title": "SIRENE ELETROMECÂNICA MCL 180 400M 40W - 220V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ATEC PONTO COMERCIO ASSISTENCIA TECNICA E EQUIPAMENTOS INFOR",
+      "supplierCode": "1679",
+      "manufacturerCode": "9001",
+      "category": "CAMPAINHAS E SIRENES",
+      "categorySlug": "campainhas-e-sirenes",
+      "path": "/sirene-eletromecanica-mcl-180-400m-40w--220v-7500",
+      "image": "/products/images/0075/7500.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--campainhas-e-sirenes"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "INDUSCABOS",
+  "parentLabel": "Marca",
+  "description": "Produtos INDUSCABOS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INDUSCABOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11648",
+      "title": "CABO CONTROLE 500V 70G PVC 5X1MM2 PT",
+      "brand": "INDUSCABOS",
+      "brandCode": "967",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1578",
+      "manufacturerCode": "1381026",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-controle-500v-70g-pvc-5x1mm2-pt-11648",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--967--induscabos"
+  }
+}

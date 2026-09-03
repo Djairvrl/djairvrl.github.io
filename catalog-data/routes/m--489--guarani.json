@@ -1,0 +1,70 @@
+{
+  "title": "GUARANI",
+  "parentLabel": "Marca",
+  "description": "Produtos GUARANI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GUARANI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8309",
+      "title": "DESINFETANTE GUARANI LAVANDA 5LT",
+      "brand": "GUARANI",
+      "brandCode": "489",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000002641",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/desinfetante-guarani-lavanda-5lt-8309",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7515",
+      "title": "NAFTALINA GUARANI 25G",
+      "brand": "GUARANI",
+      "brandCode": "489",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000002334",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/naftalina-guarani-25g-7515",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10968",
+      "title": "SABAO GUARANI GLICERINADO NEUTRO 180G",
+      "brand": "GUARANI",
+      "brandCode": "489",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "011835",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/sabao-guarani-glicerinado-neutro-180g-10968",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--489--guarani"
+  }
+}

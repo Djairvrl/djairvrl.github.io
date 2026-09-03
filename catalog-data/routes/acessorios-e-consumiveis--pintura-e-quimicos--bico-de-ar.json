@@ -1,0 +1,78 @@
+{
+  "title": "BICO DE AR",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria bico de ar em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "BICO DE AR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5553",
+      "title": "BICO DE LIMPEZA 6",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "10203000",
+      "category": "BICO DE AR",
+      "categorySlug": "bico-de-ar",
+      "path": "/bico-de-limpeza-6-5553",
+      "image": "/products/images/0055/5553.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5554",
+      "title": "BICO DE LIMPEZA 6 SL",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "10208000",
+      "category": "BICO DE AR",
+      "categorySlug": "bico-de-ar",
+      "path": "/bico-de-limpeza-6-sl-5554",
+      "image": "/products/images/0055/5554.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8956",
+      "title": "BICO DE LIMPEZA DELTA 8",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "MINAS FERRAMENTAS LTDA.",
+      "supplierCode": "2349",
+      "manufacturerCode": "376003501",
+      "category": "BICO DE AR",
+      "categorySlug": "bico-de-ar",
+      "path": "/bico-de-limpeza-delta-8-8956",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--bico-de-ar"
+  }
+}

@@ -1,0 +1,1493 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Produtos de AMATOOLS COMERCIAL E IMPORTADORA LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "790",
+    "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA"
+  },
+  "products": [
+    {
+      "code": "3959",
+      "title": "BITS FENDA  SL4 X 50MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0013-1",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/bits-fenda-sl4-x-50mm-3959",
+      "image": "/products/images/0039/3959.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3958",
+      "title": "BITS FENDA  SL5 X 50MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0014-1",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/bits-fenda-sl5-x-50mm-3958",
+      "image": "/products/images/0039/3958.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3957",
+      "title": "BITS FENDA SL6 X 50MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0015-1",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/bits-fenda-sl6-x-50mm-3957",
+      "image": "/products/images/0039/3957.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3962",
+      "title": "BITS PHILIPS  PH1 X 50MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0004-1",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/bits-philips-ph1-x-50mm-3962",
+      "image": "/products/images/0039/3962.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3961",
+      "title": "BITS PHILIPS  PH2 X 50MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0005-1",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/bits-philips-ph2-x-50mm-3961",
+      "image": "/products/images/0039/3961.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3960",
+      "title": "BITS PHILIPS  PH3 X 50MM",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0006-1",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/bits-philips-ph3-x-50mm-3960",
+      "image": "/products/images/0039/3960.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4858",
+      "title": "BROCA ANULAR HSS 14X50MM ENCAIXE WELDON 19MM - ROCAST 88,0028",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0028",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-14x50mm-encaixe-weldon-19mm--rocast-880028-4858",
+      "image": "/products/images/0048/4858.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4244",
+      "title": "BROCA ANULAR HSS 28X30MM ENCAIXE WELDON 19MM - ROCAST 88,0017",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0017",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-28x30mm-encaixe-weldon-19mm--rocast-880017-4244",
+      "image": "/products/images/0042/4244.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4245",
+      "title": "BROCA ANULAR HSS 30X30MM ENCAIXE WELDON 19MM - ROCAST 88,0019",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0019",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-30x30mm-encaixe-weldon-19mm--rocast-880019-4245",
+      "image": "/products/images/0042/4245.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4246",
+      "title": "BROCA ANULAR HSS 36X30MM ENCAIXE WELDON 19MM - ROCAST 88,0025",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0025",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-36x30mm-encaixe-weldon-19mm--rocast-880025-4246",
+      "image": "/products/images/0042/4246.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4247",
+      "title": "BROCA ANULAR HSS 38X30MM ENCAIXE WELDON 19MM - ROCAST 88,0052",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0052",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-38x30mm-encaixe-weldon-19mm--rocast-880052-4247",
+      "image": "/products/images/0042/4247.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4248",
+      "title": "BROCA ANULAR HSS 42X30MM ENCAIXE WELDON 19MM - ROCAST 88,0056",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0056",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-42x30mm-encaixe-weldon-19mm--rocast-880056-4248",
+      "image": "/products/images/0042/4248.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4249",
+      "title": "BROCA ANULAR HSS 48X30MM ENCAIXE WELDON 19MM - ROCAST 88,0062",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0062",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-48x30mm-encaixe-weldon-19mm--rocast-880062-4249",
+      "image": "/products/images/0042/4249.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "4250",
+      "title": "BROCA ANULAR HSS 50X30MM ENCAIXE WELDON 19MM - ROCAST 88,0064",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "88,0064",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-anular-hss-50x30mm-encaixe-weldon-19mm--rocast-880064-4250",
+      "image": "/products/images/0042/4250.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6094",
+      "title": "BROCA DE AÇO RÁPIDO HSS-TIN 10,00MM COM TRATAMENTO DE TITÂNIO - ROCAST 137,0019",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "137,0019",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hsstin-1000mm-com-tratamento-de-titanio--rocast-1370019-6094",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6095",
+      "title": "BROCA DE AÇO RÁPIDO HSS-TIN 12,00MM COM TRATAMENTO DE TITÂNIO - ROCAST 137,0023",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "137,0023",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hsstin-1200mm-com-tratamento-de-titanio--rocast-1370023-6095",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6092",
+      "title": "BROCA DE AÇO RÁPIDO HSS-TIN 5,00MM COM TRATAMENTO DE TITÂNIO - ROCAST 137,0009",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "137,0009",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hsstin-500mm-com-tratamento-de-titanio--rocast-1370009-6092",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6093",
+      "title": "BROCA DE AÇO RÁPIDO HSS-TIN 8,00MM COM TRATAMENTO DE TITÂNIO - ROCAST 137,0015",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "137,0015",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-de-aco-rapido-hsstin-800mm-com-tratamento-de-titanio--rocast-1370015-6093",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3143",
+      "title": "BROCA ESCALONADA 4,0 - 20MM HSS COM REVESTIMENTO DE TITÂNIO - ROCAST REF. Nº2",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "170,0002",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-escalonada-40--20mm-hss-com-revestimento-de-titanio--rocast-ref-no2-3143",
+      "image": "/products/images/0031/3143.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3621",
+      "title": "ESCOVA ACO TRANCADO CIRCUL 4.1/2\" X 1/2\"",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "319,0019",
+      "category": "ESCOVAS",
+      "categorySlug": "escovas",
+      "path": "/escova-aco-trancado-circul-412-x-12-3621",
+      "image": "/products/images/0036/3621.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "8499",
+      "title": "ESCOVA DE ACO TIPO COPO C/ ROSCA LATONAD",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "319,0011",
+      "category": "ESCOVAS",
+      "categorySlug": "escovas",
+      "path": "/escova-de-aco-tipo-copo-c-rosca-latonad-8499",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "7182",
+      "title": "ESCOVA DE AÇO LATONADO CIRCULAR 6\" X 1\" - ROCAST 319,0006",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "319,0006",
+      "category": "ESCOVAS",
+      "categorySlug": "escovas",
+      "path": "/escova-de-aco-latonado-circular-6-x-1--rocast-3190006-7182",
+      "image": "/products/images/0071/7182.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3165",
+      "title": "ESCOVA DE AÇO TRANÇADO TIPO COPO 100MM COM ROSCA M14 - ROCAST 319,0022",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "319,0022",
+      "category": "ESCOVAS",
+      "categorySlug": "escovas",
+      "path": "/escova-de-aco-trancado-tipo-copo-100mm-com-rosca-m14--rocast-3190022-3165",
+      "image": "/products/images/0031/3165.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3945",
+      "title": "ESCOVA DE AÇO TRANÇADO TIPO COPO 60MM COM ROSCA M14 - ROCAST 319,0021",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "319,0021",
+      "category": "ESCOVAS",
+      "categorySlug": "escovas",
+      "path": "/escova-de-aco-trancado-tipo-copo-60mm-com-rosca-m14--rocast-3190021-3945",
+      "image": "/products/images/0039/3945.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "5435",
+      "title": "ESCOVA MANUAL DE AÇO COM CABO 4 FILEIRAS DE FIOS - ROCAST 319,0017",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "319,0017",
+      "category": "ESCOVAS",
+      "categorySlug": "escovas",
+      "path": "/escova-manual-de-aco-com-cabo-4-fileiras-de-fios--rocast-3190017-5435",
+      "image": "/products/images/0054/5435.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3114",
+      "title": "FLUIDO DE CORTE 500ML",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "138,0001",
+      "category": "FLUIDO",
+      "categorySlug": "fluido",
+      "path": "/fluido-de-corte-500ml-3114",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7853",
+      "title": "JG BROCAS HP AR-P 29 PECAS 1/16\" A 1/2\"",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "001/338",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/jg-brocas-hp-arp-29-pecas-116-a-12-7853",
+      "image": "/products/images/0078/7853.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3624",
+      "title": "JOGO DE BITS FENDA  SL4 X 50MM C/ 6UND",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0013",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/jogo-de-bits-fenda-sl4-x-50mm-c-6und-3624",
+      "image": "/products/images/0036/3624.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3943",
+      "title": "JOGO DE BROCAS HELICOIDAIS HASTE CILÍNDRICA 1,0 A 13,0MM  HSS-TIN 25 PEÇAS - ROCAST 137,0059",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "137,0059",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/jogo-de-brocas-helicoidais-haste-cilindrica-10-a-130mm-hsstin-25-pecas--rocast-1370059-3943",
+      "image": "/products/images/0039/3943.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3946",
+      "title": "JOGO DE PONTEIRA PARA PARAFUSADEIRA (BITS)  FENDA (SL) SL6 X 50MM 6 PEÇAS  - NOLL 437,0015",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0014",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/jogo-de-ponteira-para-parafusadeira-bits-fenda-sl-sl6-x-50mm-6-pecas--noll-4370015-3946",
+      "image": "/products/images/0039/3946.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3947",
+      "title": "JOGO DE PONTEIRA PARA PARAFUSADEIRA (BITS)  FENDA (SL) SL6 X 50MM 6 PEÇAS  - NOLL 437,0015",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0015",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/jogo-de-ponteira-para-parafusadeira-bits-fenda-sl-sl6-x-50mm-6-pecas--noll-4370015-3947",
+      "image": "/products/images/0039/3947.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3948",
+      "title": "JOGO DE PONTEIRA PARA PARAFUSADEIRA (BITS) PHILLIPS  PH1 X 50MM 6 PEÇAS - NOLL 437,0004",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0004",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/jogo-de-ponteira-para-parafusadeira-bits-phillips-ph1-x-50mm-6-pecas--noll-4370004-3948",
+      "image": "/products/images/0039/3948.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3949",
+      "title": "JOGO DE PONTEIRA PARA PARAFUSADEIRA (BITS) PHILLIPS  PH2 X 50MM 6 PEÇAS - NOLL 437,0005",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0005",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/jogo-de-ponteira-para-parafusadeira-bits-phillips-ph2-x-50mm-6-pecas--noll-4370005-3949",
+      "image": "/products/images/0039/3949.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3950",
+      "title": "JOGO DE PONTEIRA PARA PARAFUSADEIRA (BITS) PHILLIPS  PH3 X 50MM 6 PEÇAS - NOLL 437,0006",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "437,0006",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/jogo-de-ponteira-para-parafusadeira-bits-phillips-ph3-x-50mm-6-pecas--noll-4370006-3950",
+      "image": "/products/images/0039/3950.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3951",
+      "title": "JOGO DE SUPORTES PARA SOQUETE (1/4\" - 3/8\" - 1/2\") 3 PEÇAS  -  NOLL  439,0001",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "439,0001",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/jogo-de-suportes-para-soquete-14--38--12-3-pecas--noll-4390001-3951",
+      "image": "/products/images/0039/3951.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5787",
+      "title": "KIT P/REPARO DE ROSCA POSTICA M5 X M12",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "95,0016",
+      "category": "ROSCA POSTIÇA",
+      "categorySlug": "rosca-postica",
+      "path": "/kit-preparo-de-rosca-postica-m5-x-m12-5787",
+      "image": "/products/images/0057/5787.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3937",
+      "title": "KIT PARA ROSCAR AÇO LIGA WS M3 A M12 40 PEÇAS -  ROCAST 94,0003",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "940003",
+      "category": "JOGO",
+      "categorySlug": "jogo",
+      "path": "/kit-para-roscar-aco-liga-ws-m3-a-m12-40-pecas--rocast-940003-3937",
+      "image": "/products/images/0039/3937.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "10048",
+      "title": "MACHO MANUAL HSS- M M24 X 3 - 2 PEÇAS EM AÇO RÁPIDO  GRAFF REF 5670036",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0036",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m-m24-x-3--2-pecas-em-aco-rapido-graff-ref-5670036-10048",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8681",
+      "title": "MACHO MANUAL HSS- M12 X 1,75 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0030",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m12-x-175--2-pcs-8681",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8683",
+      "title": "MACHO MANUAL HSS- M14 X 2 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0031",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m14-x-2--2-pcs-8683",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8682",
+      "title": "MACHO MANUAL HSS- M20 X 2,5 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0034",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m20-x-25--2-pcs-8682",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8680",
+      "title": "MACHO MANUAL HSS- M6 X 1 - 2 PCS",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0026",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hss-m6-x-1--2-pcs-8680",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13180",
+      "title": "MACHO MANUAL HSS-M M10 X 1.5",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "22,0009",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hssm-m10-x-15-13180",
+      "image": "/products/images/0131/13180.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13181",
+      "title": "MACHO MANUAL HSS-M M20 X 2,5",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "22,0049",
+      "category": null,
+      "categorySlug": null,
+      "path": "/macho-manual-hssm-m20-x-25-13181",
+      "image": "/products/images/0131/13181.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "10442",
+      "title": "MACHO MANUAL HSS-M M3.5 X 0.6",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "22,0003",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hssm-m35-x-06-10442",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "10049",
+      "title": "MACHO MANUAL HSS-M M30 X 3,5 - 2  PEÇAS EM AÇO RÁPIDO  GRAFF REF 5670038",
+      "brand": "GRAFF",
+      "brandCode": "608",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "567,0038",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hssm-m30-x-35--2-pecas-em-aco-rapido-graff-ref-5670038-10049",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6107",
+      "title": "MACHO MANUAL HSS-M33 X 3,5 - 2 PCS 352",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "22,0158",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hssm33-x-35--2-pcs-352-6107",
+      "image": "/products/images/0061/6107.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "13178",
+      "title": "MACHO MANUAL HSS-MM8 X 1.25",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "220008",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-hssmm8-x-125-13178",
+      "image": "/products/images/0131/13178.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3108",
+      "title": "MACHO MANUAL SERIADO EM AÇO RÁPIDO (HSS)  M10 X 1,5 - 2 PEÇAS - ROCAST 22,0148",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "22,0148",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-seriado-em-aco-rapido-hss-m10-x-15--2-pecas--rocast-220148-3108",
+      "image": "/products/images/0031/3108.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3109",
+      "title": "MACHO MANUAL SERIADO EM AÇO RÁPIDO (HSS)  M12 X 1,75 - 2 PEÇAS - ROCAST 22,0149",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "22,0149",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-manual-seriado-em-aco-rapido-hss-m12-x-175--2-pecas--rocast-220149-3109",
+      "image": "/products/images/0031/3109.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 2,
+    "total": 72,
+    "pageBase": "acessorios-e-consumiveis--fornecedor-790"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "FITAS",
+  "parentLabel": "Amarração",
+  "description": "Produtos da categoria fitas em amarração.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Amarração",
+      "to": "/amarracao-e-elevacao/amarracao"
+    },
+    {
+      "label": "FITAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5925",
+      "title": "CARINHO DESBOBINADOR PARA FITA PET/PP",
+      "brand": "MOSKA",
+      "brandCode": "671",
+      "supplier": "MOSCKA SOLUÇÕES EM EMBALAGENS INDUSTRIAIS LTDA",
+      "supplierCode": "689",
+      "manufacturerCode": "0026/19",
+      "category": "FITAS",
+      "categorySlug": "fitas",
+      "path": "/carinho-desbobinador-para-fita-petpp-5925",
+      "image": "/products/images/0059/5925.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "5922",
+      "title": "FITA DE ARQUEAR PET 13MM ROLO 15KG FT01",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PAKKI COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1816",
+      "manufacturerCode": "053",
+      "category": "FITAS",
+      "categorySlug": "fitas",
+      "path": "/fita-de-arquear-pet-13mm-rolo-15kg-ft01-5922",
+      "image": "/products/images/0059/5922.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "9358",
+      "title": "FITA PET 13 MM - 10 KG - FT02",
+      "brand": "MOSKA",
+      "brandCode": "671",
+      "supplier": "MOSCKA SOLUÇÕES EM EMBALAGENS INDUSTRIAIS LTDA",
+      "supplierCode": "689",
+      "manufacturerCode": "059",
+      "category": "FITAS",
+      "categorySlug": "fitas",
+      "path": "/fita-pet-13-mm--10-kg--ft02-9358",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "10092",
+      "title": "FITA PET 16 MM - 10 KG - FT02",
+      "brand": "MOSKA",
+      "brandCode": "671",
+      "supplier": "PAKKI COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1816",
+      "manufacturerCode": "123456789",
+      "category": "FITAS",
+      "categorySlug": "fitas",
+      "path": "/fita-pet-16-mm--10-kg--ft02-10092",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "10197",
+      "title": "FITA PET 19MM - 10KG FT02",
+      "brand": "MOSKA",
+      "brandCode": "671",
+      "supplier": "PAKKI COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "1816",
+      "manufacturerCode": "031",
+      "category": "FITAS",
+      "categorySlug": "fitas",
+      "path": "/fita-pet-19mm--10kg-ft02-10197",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "amarracao-e-elevacao--amarracao--fitas"
+  }
+}

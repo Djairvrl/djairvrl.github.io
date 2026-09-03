@@ -1,0 +1,36 @@
+{
+  "title": "PROTSPRAY",
+  "parentLabel": "Marca",
+  "description": "Produtos PROTSPRAY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PROTSPRAY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10819",
+      "title": "CAPUZ SCAPEBEE FIXO SCAP-B-205",
+      "brand": "PROTSPRAY",
+      "brandCode": "816",
+      "supplier": "HARSENAL EQUIPAMENTOS DE PROTECAO LTDA",
+      "supplierCode": "4135",
+      "manufacturerCode": "1111",
+      "category": "CAPUZ E BALACLAVA",
+      "categorySlug": "capuz-e-balaclava",
+      "path": "/capuz-scapebee-fixo-scapb205-10819",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--816--protspray"
+  }
+}

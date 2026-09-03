@@ -1,0 +1,70 @@
+{
+  "title": "CHAMEX",
+  "parentLabel": "Marca",
+  "description": "Produtos CHAMEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CHAMEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12491",
+      "title": "CHAMEX 75G A3 297X420 500F CMX075CA3",
+      "brand": "CHAMEX",
+      "brandCode": "1084",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891173022967",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/chamex-75g-a3-297x420-500f-cmx075ca3-12491",
+      "image": "/products/images/0124/12491.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12751",
+      "title": "PAPEL SULFITE A4 500 FOLHAS BRANCO 75G",
+      "brand": "CHAMEX",
+      "brandCode": "1084",
+      "supplier": "ZAKAH STORE LTDA",
+      "supplierCode": "5881",
+      "manufacturerCode": "MLB4341450593",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/papel-sulfite-a4-500-folhas-branco-75g-12751",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12691",
+      "title": "PAPEL SULFITE CHAMEX A4 75GR PCT 500FLS",
+      "brand": "CHAMEX",
+      "brandCode": "1084",
+      "supplier": "TECNOPRINT INFO COMERCIO DE SUPRIMENTOS DE INFORMATICA LTDA",
+      "supplierCode": "5878",
+      "manufacturerCode": "PPLCHXSULF75G500A4",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/papel-sulfite-chamex-a4-75gr-pct-500fls-12691",
+      "image": "/products/images/0126/12691.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1084--chamex"
+  }
+}

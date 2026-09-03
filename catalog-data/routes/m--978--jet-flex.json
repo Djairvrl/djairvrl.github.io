@@ -1,0 +1,53 @@
+{
+  "title": "JET FLEX",
+  "parentLabel": "Marca",
+  "description": "Produtos JET FLEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JET FLEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11753",
+      "title": "KIT PPA R800 JET FLEX + 6M CREMALHEIRA",
+      "brand": "JET FLEX",
+      "brandCode": "978",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11753",
+      "category": "MOTORES PARA PORTÃO",
+      "categorySlug": "motores-para-portao",
+      "path": "/kit-ppa-r800-jet-flex-6m-cremalheira-11753",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
+      "code": "11733",
+      "title": "PPA CJ DZ RIO R 800 JET FLEX BIVOLT",
+      "brand": "JET FLEX",
+      "brandCode": "978",
+      "supplier": "TSY COMERCIO DE ELETROELETRONICOS LTDA",
+      "supplierCode": "5240",
+      "manufacturerCode": "24710",
+      "category": "MOTORES PARA PORTÃO",
+      "categorySlug": "motores-para-portao",
+      "path": "/ppa-cj-dz-rio-r-800-jet-flex-bivolt-11733",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--978--jet-flex"
+  }
+}

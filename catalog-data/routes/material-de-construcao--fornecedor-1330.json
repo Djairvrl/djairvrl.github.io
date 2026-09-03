@@ -1,0 +1,211 @@
+{
+  "title": "Material de Construção",
+  "parentLabel": "Departamento",
+  "description": "Produtos de COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção"
+    }
+  ],
+  "children": [
+    {
+      "name": "Madeiras e Estruturas de Fôrma",
+      "slug": "madeiras-e-estruturas-de-forma",
+      "path": "/material-de-construcao/madeiras-e-estruturas-de-forma",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Hidráulica, Condução e Louças",
+      "slug": "hidraulica-conducao-e-loucas",
+      "path": "/material-de-construcao/hidraulica-conducao-e-loucas",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferragens, Perfis e Serralheria",
+      "slug": "ferragens-perfis-e-serralheria",
+      "path": "/material-de-construcao/ferragens-perfis-e-serralheria",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferragens",
+      "slug": "ferragens",
+      "path": "/material-de-construcao/ferragens",
+      "count": 59,
+      "categories": [
+        {
+          "name": "BARRAS CHATAS",
+          "slug": "barras-chatas",
+          "path": "/material-de-construcao/ferragens/barras-chatas",
+          "count": 1
+        },
+        {
+          "name": "CALHAS",
+          "slug": "calhas",
+          "path": "/material-de-construcao/ferragens/calhas",
+          "count": 3
+        },
+        {
+          "name": "CANTONEIRAS",
+          "slug": "cantoneiras",
+          "path": "/material-de-construcao/ferragens/cantoneiras",
+          "count": 9
+        },
+        {
+          "name": "CAVALETE",
+          "slug": "cavalete",
+          "path": "/material-de-construcao/ferragens/cavalete",
+          "count": 1
+        },
+        {
+          "name": "CHAPAS",
+          "slug": "chapas",
+          "path": "/material-de-construcao/ferragens/chapas",
+          "count": 17
+        },
+        {
+          "name": "DIVERSAS",
+          "slug": "diversas",
+          "path": "/material-de-construcao/ferragens/diversas",
+          "count": 17
+        },
+        {
+          "name": "METALONS",
+          "slug": "metalons",
+          "path": "/material-de-construcao/ferragens/metalons",
+          "count": 4
+        },
+        {
+          "name": "TUBOS",
+          "slug": "tubos",
+          "path": "/material-de-construcao/ferragens/tubos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Hidraulico",
+      "slug": "hidraulico",
+      "path": "/material-de-construcao/hidraulico",
+      "count": 47,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/material-de-construcao/hidraulico/diversos",
+          "count": 9
+        },
+        {
+          "name": "IRRIGAÇÃI",
+          "slug": "irrigacai",
+          "path": "/material-de-construcao/hidraulico/irrigacai",
+          "count": 3
+        },
+        {
+          "name": "PIAS E TORNEIRAS",
+          "slug": "pias-e-torneiras",
+          "path": "/material-de-construcao/hidraulico/pias-e-torneiras",
+          "count": 2
+        },
+        {
+          "name": "TANQUES E CAIXAS D'ÁGUA",
+          "slug": "tanques-e-caixas-d-agua",
+          "path": "/material-de-construcao/hidraulico/tanques-e-caixas-d-agua",
+          "count": 2
+        },
+        {
+          "name": "TUBOS E CONEXÕES",
+          "slug": "tubos-e-conexoes",
+          "path": "/material-de-construcao/hidraulico/tubos-e-conexoes",
+          "count": 25
+        },
+        {
+          "name": "VALVULAS E REGISTROS",
+          "slug": "valvulas-e-registros",
+          "path": "/material-de-construcao/hidraulico/valvulas-e-registros",
+          "count": 5
+        },
+        {
+          "name": "VASOS SANITARIOS",
+          "slug": "vasos-sanitarios",
+          "path": "/material-de-construcao/hidraulico/vasos-sanitarios",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Madeira",
+      "slug": "madeira",
+      "path": "/material-de-construcao/madeira",
+      "count": 12,
+      "categories": [
+        {
+          "name": "BARROTES E CAIBROS",
+          "slug": "barrotes-e-caibros",
+          "path": "/material-de-construcao/madeira/barrotes-e-caibros",
+          "count": 1
+        },
+        {
+          "name": "COMPENSADOS E MADEIRITES",
+          "slug": "compensados-e-madeirites",
+          "path": "/material-de-construcao/madeira/compensados-e-madeirites",
+          "count": 4
+        },
+        {
+          "name": "DIVERSAS",
+          "slug": "diversas",
+          "path": "/material-de-construcao/madeira/diversas",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1330",
+    "name": "COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA"
+  },
+  "products": [
+    {
+      "code": "6768",
+      "title": "COMPENSADO PARICA 15MM 2.20X1,60",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "1330",
+      "manufacturerCode": "32823",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/compensado-parica-15mm-220x160-6768",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "6769",
+      "title": "MDF FLORA 09MM 1F ACAI WOOD",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL PARAIBA DE MATERIAIS DE CONSTRUCAO LTDA",
+      "supplierCode": "1330",
+      "manufacturerCode": "32674",
+      "category": "COMPENSADOS E MADEIRITES",
+      "categorySlug": "compensados-e-madeirites",
+      "path": "/mdf-flora-09mm-1f-acai-wood-6769",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "material-de-construcao--fornecedor-1330"
+  }
+}

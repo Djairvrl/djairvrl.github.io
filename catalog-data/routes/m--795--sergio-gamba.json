@@ -1,0 +1,36 @@
+{
+  "title": "SERGIO GAMBA",
+  "parentLabel": "Marca",
+  "description": "Produtos SERGIO GAMBA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SERGIO GAMBA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10658",
+      "title": "PERNEIRA  CORVIM C/ ALMAS  POLIPROPILENO",
+      "brand": "SERGIO GAMBA",
+      "brandCode": "795",
+      "supplier": "ZEUS DO BRASIL LTDA",
+      "supplierCode": "3269",
+      "manufacturerCode": "20098",
+      "category": "PERNEIRAS",
+      "categorySlug": "perneiras",
+      "path": "/perneira-corvim-c-almas-polipropileno-10658",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--795--sergio-gamba"
+  }
+}

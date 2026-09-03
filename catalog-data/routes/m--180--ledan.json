@@ -1,0 +1,53 @@
+{
+  "title": "LEDAN",
+  "parentLabel": "Marca",
+  "description": "Produtos LEDAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LEDAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3244",
+      "title": "RESPIRADOR DESCARTÁVEL PFF2 COM VÁLVULA AZUL CA13121 - LEDAN 2177",
+      "brand": "LEDAN",
+      "brandCode": "180",
+      "supplier": "LEDAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "789",
+      "manufacturerCode": "002177",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/respirador-descartavel-pff2-com-valvula-azul-ca13121--ledan-2177-3244",
+      "image": "/products/images/0032/3244.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "3245",
+      "title": "RESPIRADOR DESCARTÁVEL PFF2 SEM VÁLVULA AZUL CA11993 - LEDAN 2174",
+      "brand": "LEDAN",
+      "brandCode": "180",
+      "supplier": "LEDAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "789",
+      "manufacturerCode": "002174",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/respirador-descartavel-pff2-sem-valvula-azul-ca11993--ledan-2174-3245",
+      "image": "/products/images/0032/3245.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--180--ledan"
+  }
+}

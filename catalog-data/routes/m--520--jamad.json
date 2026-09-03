@@ -1,0 +1,53 @@
+{
+  "title": "JAMAD",
+  "parentLabel": "Marca",
+  "description": "Produtos JAMAD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JAMAD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13196",
+      "title": "JM CANTONEIRA PROF CORTE MDF",
+      "brand": "JAMAD",
+      "brandCode": "520",
+      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "supplierCode": "563",
+      "manufacturerCode": "3812",
+      "category": "CANTONEIRAS",
+      "categorySlug": "cantoneiras",
+      "path": "/jm-cantoneira-prof-corte-mdf-13196",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "13195",
+      "title": "PINUS MDF BRANCO 15MM 2FC 275X185",
+      "brand": "JAMAD",
+      "brandCode": "520",
+      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "supplierCode": "563",
+      "manufacturerCode": "18858",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/pinus-mdf-branco-15mm-2fc-275x185-13195",
+      "image": "/products/images/0131/13195.png",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--520--jamad"
+  }
+}

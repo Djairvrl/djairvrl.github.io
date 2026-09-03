@@ -1,0 +1,163 @@
+{
+  "title": "DETECTORES DE TENSÃO",
+  "parentLabel": "NR-10",
+  "description": "Produtos da categoria detectores de tensão em nr-10.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "NR-10",
+      "to": "/epis-e-epcs/nr-10"
+    },
+    {
+      "label": "DETECTORES DE TENSÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1016",
+      "title": "DETECTOR  DE TENSÃO AC 90-1000V CAT IV - FLUKE 1AC-A2-II",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4226437",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-de-tensao-ac-901000v-cat-iv--fluke-1aca2ii-1016",
+      "image": "/products/images/0010/1016.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "3569",
+      "title": "DETECTOR DE ALTA TENSÃO SEM CONTATO 500KV IP66 - MINIPA EZHV",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "EZ-HV",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-de-alta-tensao-sem-contato-500kv-ip66--minipa-ezhv-3569",
+      "image": "/products/images/0035/3569.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "1017",
+      "title": "DETECTOR DE TENSÃO MULTI-USO TESTER 220V-36KV - RITZ REF DMU-36/SB",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "0666050244",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-de-tensao-multiuso-tester-220v36kv--ritz-ref-dmu36sb-1017",
+      "image": "/products/images/0010/1017.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "4596",
+      "title": "DETECTOR DE TENSÃO POR CONTADO 3,8KV - 36KV  - RITZ",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "0666021813",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-de-tensao-por-contado-38kv--36kv--ritz-4596",
+      "image": "/products/images/0045/4596.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "7442",
+      "title": "DETECTOR DE TENSÃO POR CONTADO 60KV A 240KV - RITZ CT60-240/SB",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "0666050235",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-de-tensao-por-contado-60kv-a-240kv--ritz-ct60240sb-7442",
+      "image": "/products/images/0074/7442.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "6509",
+      "title": "DETECTOR TENSAO MULTI-USO TEST DMU-15/SB",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "06600001882",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-tensao-multiuso-test-dmu15sb-6509",
+      "image": "/products/images/0065/6509.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "1019",
+      "title": "DETECTOR UNIPOLAR DE ALTA TENSÃO POR APROXIMAÇÃO 1-138KV - RITZ REF H1990/ST-138",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "06600001459",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-unipolar-de-alta-tensao-por-aproximacao-1138kv--ritz-ref-h1990st138-1019",
+      "image": "/products/images/0010/1019.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "1018",
+      "title": "DETECTOR UNIPOLAR DE ALTA TENSÃO POR APROXIMAÇÃO 1-800KV -RITZ H1990/ST-800",
+      "brand": "RITZ",
+      "brandCode": "279",
+      "supplier": "RITZ FERRAMENTAS LTDA",
+      "supplierCode": "168",
+      "manufacturerCode": "06600001360",
+      "category": "DETECTORES DE TENSÃO",
+      "categorySlug": "detectores-de-tensao",
+      "path": "/detector-unipolar-de-alta-tensao-por-aproximacao-1800kv-ritz-h1990st800-1018",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "epis-e-epcs--nr-10--detectores-de-tensao"
+  }
+}

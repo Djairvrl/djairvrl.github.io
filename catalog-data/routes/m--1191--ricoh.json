@@ -1,0 +1,70 @@
+{
+  "title": "RICOH",
+  "parentLabel": "Marca",
+  "description": "Produtos RICOH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RICOH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13163",
+      "title": "CARTUCHO P502/IM430 PRETO 17,5K",
+      "brand": "RICOH",
+      "brandCode": "1191",
+      "supplier": "RICOH BRASIL LTDA",
+      "supplierCode": "6138",
+      "manufacturerCode": "419078",
+      "category": "INSUMOS",
+      "categorySlug": "insumos",
+      "path": "/cartucho-p502im430-preto-175k-13163",
+      "image": "/products/images/0131/13163.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13162",
+      "title": "IMPRESSORA MULTIFUNCIONAL ML 430F 220V",
+      "brand": "RICOH",
+      "brandCode": "1191",
+      "supplier": "RICOH BRASIL LTDA",
+      "supplierCode": "6138",
+      "manufacturerCode": "418491",
+      "category": "IMPRESSORAS",
+      "categorySlug": "impressoras",
+      "path": "/impressora-multifuncional-ml-430f-220v-13162",
+      "image": "/products/images/0131/13162.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13164",
+      "title": "UNIDADE ALIMENTAÇÃO PAPEL PB1120",
+      "brand": "RICOH",
+      "brandCode": "1191",
+      "supplier": "RICOH BRASIL LTDA",
+      "supplierCode": "6138",
+      "manufacturerCode": "418081",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/unidade-alimentacao-papel-pb1120-13164",
+      "image": "/products/images/0131/13164.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1191--ricoh"
+  }
+}

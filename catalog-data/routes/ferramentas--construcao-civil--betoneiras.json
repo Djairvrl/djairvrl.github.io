@@ -1,0 +1,61 @@
+{
+  "title": "BETONEIRAS",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria betoneiras em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "BETONEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10344",
+      "title": "BET 400L RENTAL FORCE MONO 220V",
+      "brand": "CSM",
+      "brandCode": "769",
+      "supplier": "CSM - COMPONENTES, SISTEMAS E MAQUINAS PARA CONSTRUCAO LTDA",
+      "supplierCode": "3401",
+      "manufacturerCode": "71000248",
+      "category": "BETONEIRAS",
+      "categorySlug": "betoneiras",
+      "path": "/bet-400l-rental-force-mono-220v-10344",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "10356",
+      "title": "BETONEIRA 400L RENTAL 2CV MONO 220V",
+      "brand": "CSM",
+      "brandCode": "769",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "000000000092252482",
+      "category": "BETONEIRAS",
+      "categorySlug": "betoneiras",
+      "path": "/betoneira-400l-rental-2cv-mono-220v-10356",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--construcao-civil--betoneiras"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "SMARTCHARGER",
+  "parentLabel": "Marca",
+  "description": "Produtos SMARTCHARGER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SMARTCHARGER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11623",
+      "title": "CARREGADOR BATERIA FLUTUAN 10A AH 12/24V",
+      "brand": "SMARTCHARGER",
+      "brandCode": "964",
+      "supplier": "PERFIL IMPORTS",
+      "supplierCode": "5155",
+      "manufacturerCode": "SMART10A",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-bateria-flutuan-10a-ah-1224v-11623",
+      "image": "/products/images/0116/11623.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--964--smartcharger"
+  }
+}

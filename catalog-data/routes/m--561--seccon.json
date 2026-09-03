@@ -1,0 +1,53 @@
+{
+  "title": "SECCON",
+  "parentLabel": "Marca",
+  "description": "Produtos SECCON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SECCON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8114",
+      "title": "CONECTOR RJ45 MACHO BLIND CAT5 SECC C/20",
+      "brand": "SECCON",
+      "brandCode": "561",
+      "supplier": "TEK ATACADO DISTRIBUIDOR DE SEGURANCA ELETRONICA LTDA",
+      "supplierCode": "1945",
+      "manufacturerCode": "20210",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/conector-rj45-macho-blind-cat5-secc-c20-8114",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8116",
+      "title": "CONECTOR RJ45 MACHO CAT6 BLIND SECC C/20",
+      "brand": "SECCON",
+      "brandCode": "561",
+      "supplier": "TEK ATACADO DISTRIBUIDOR DE SEGURANCA ELETRONICA LTDA",
+      "supplierCode": "1945",
+      "manufacturerCode": "20213",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/conector-rj45-macho-cat6-blind-secc-c20-8116",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--561--seccon"
+  }
+}

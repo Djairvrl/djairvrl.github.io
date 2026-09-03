@@ -1,0 +1,36 @@
+{
+  "title": "IMATRON",
+  "parentLabel": "Marca",
+  "description": "Produtos IMATRON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IMATRON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1279",
+      "title": "PAINEL LED SLIM EMBUTI 220V 120W 425X385",
+      "brand": "IMATRON",
+      "brandCode": "91",
+      "supplier": "IMATRON IND METAL ELETRONICA LTDA",
+      "supplierCode": "422",
+      "manufacturerCode": "10075194",
+      "category": "ILUMINAÇÃO DE ALTA PERFORMANCE",
+      "categorySlug": "iluminacao-de-alta-performance",
+      "path": "/painel-led-slim-embuti-220v-120w-425x385-1279",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--91--imatron"
+  }
+}

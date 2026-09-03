@@ -1,0 +1,36 @@
+{
+  "title": "TRÓIA HAIR",
+  "parentLabel": "Marca",
+  "description": "Produtos TRÓIA HAIR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TRÓIA HAIR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12639",
+      "title": "ALCOOL ANTISSEPTICO 70 EM GEL 60ML",
+      "brand": "TRÓIA HAIR",
+      "brandCode": "1102",
+      "supplier": "RAIZ LINE COMERCIO DE COSMETICOS LTDA.",
+      "supplierCode": "5816",
+      "manufacturerCode": "MLB3709523905",
+      "category": "ANTISSÉPTICO",
+      "categorySlug": "antisseptico",
+      "path": "/alcool-antisseptico-70-em-gel-60ml-12639",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1102--troia-hair"
+  }
+}

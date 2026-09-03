@@ -1,0 +1,36 @@
+{
+  "title": "FALCOMEX",
+  "parentLabel": "Marca",
+  "description": "Produtos FALCOMEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FALCOMEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12947",
+      "title": "CABO REDE 50MT LAN INTERNET CRIMPADORJ45",
+      "brand": "FALCOMEX",
+      "brandCode": "1157",
+      "supplier": "FALCOM COMERCIAL LTDA",
+      "supplierCode": "6007",
+      "manufacturerCode": "6CR50M",
+      "category": "CABOS",
+      "categorySlug": "cabos",
+      "path": "/cabo-rede-50mt-lan-internet-crimpadorj45-12947",
+      "image": "/products/images/0129/12947.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1157--falcomex"
+  }
+}

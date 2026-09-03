@@ -1,0 +1,70 @@
+{
+  "title": "MANN-FILTER",
+  "parentLabel": "Marca",
+  "description": "Produtos MANN-FILTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MANN-FILTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13244",
+      "title": "FILTRO COMBUSTIVEL MANN WK950/30 FCD2099",
+      "brand": "MANN-FILTER",
+      "brandCode": "1200",
+      "supplier": "JIP COMERCIO E SERVICOS LTDA",
+      "supplierCode": "3770",
+      "manufacturerCode": "142274",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-combustivel-mann-wk95030-fcd2099-13244",
+      "image": "/products/images/0132/13244.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "13256",
+      "title": "FILTRO COMBUSTIVEL WK 1060/4 MANN-FILTER",
+      "brand": "MANN-FILTER",
+      "brandCode": "1200",
+      "supplier": "PECA AI.COM S.A",
+      "supplierCode": "6190",
+      "manufacturerCode": "1221BAB8-2433F0633FA-35B",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-combustivel-wk-10604-mannfilter-13256",
+      "image": "/products/images/0132/13256.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "13214",
+      "title": "FILTRO DIESEL WK950-21 VOLKS/IVECO TECTO",
+      "brand": "MANN-FILTER",
+      "brandCode": "1200",
+      "supplier": "RAFAEL FELIPE PERSIO LTDA",
+      "supplierCode": "6171",
+      "manufacturerCode": "WK950-21",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-diesel-wk95021-volksiveco-tecto-13214",
+      "image": "/products/images/0132/13214.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1200--mann-filter"
+  }
+}

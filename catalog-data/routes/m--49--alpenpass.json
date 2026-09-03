@@ -1,0 +1,53 @@
+{
+  "title": "ALPENPASS",
+  "parentLabel": "Marca",
+  "description": "Produtos ALPENPASS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALPENPASS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1385",
+      "title": "MOSQUETÃO D EM AÇO KIMBO T PRETO 45KN / 8KN / 15KN - ALPEN PASS  REF APKIMBOT",
+      "brand": "ALPENPASS",
+      "brandCode": "49",
+      "supplier": "SISTER MAQUINAS E ACESSORIOS LTDA.",
+      "supplierCode": "82",
+      "manufacturerCode": "APKIMBOT",
+      "category": "MOSQUETÕES",
+      "categorySlug": "mosquetoes",
+      "path": "/mosquetao-d-em-aco-kimbo-t-preto-45kn-8kn-15kn--alpen-pass-ref-apkimbot-1385",
+      "image": "/products/images/0013/1385.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "1387",
+      "title": "MOSQUETÃO EM AÇO D DOURADO TRIPLA TRAVA AUTO 45KN - ALPEN PASS REF APDACAU",
+      "brand": "ALPENPASS",
+      "brandCode": "49",
+      "supplier": "SISTER MAQUINAS E ACESSORIOS LTDA.",
+      "supplierCode": "82",
+      "manufacturerCode": "APDACAU",
+      "category": "MOSQUETÕES",
+      "categorySlug": "mosquetoes",
+      "path": "/mosquetao-em-aco-d-dourado-tripla-trava-auto-45kn--alpen-pass-ref-apdacau-1387",
+      "image": "/products/images/0013/1387.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--49--alpenpass"
+  }
+}

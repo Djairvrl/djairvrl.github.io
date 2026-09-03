@@ -1,0 +1,70 @@
+{
+  "title": "PREMISSE",
+  "parentLabel": "Marca",
+  "description": "Produtos PREMISSE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PREMISSE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7785",
+      "title": "DISPENSER PAPEL HIGIENICO INVOQ BRANCO",
+      "brand": "PREMISSE",
+      "brandCode": "536",
+      "supplier": "NATAL LIMP DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "1678",
+      "manufacturerCode": "1820",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/dispenser-papel-higienico-invoq-branco-7785",
+      "image": "/products/images/0077/7785.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7781",
+      "title": "DISPENSER PAPEL TOALHA INTERFOLHADO INVO",
+      "brand": "PREMISSE",
+      "brandCode": "536",
+      "supplier": "NATAL LIMP DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "1678",
+      "manufacturerCode": "1822",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/dispenser-papel-toalha-interfolhado-invo-7781",
+      "image": "/products/images/0077/7781.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7782",
+      "title": "DISPENSER SABONETEIRA 800ML INVOQ",
+      "brand": "PREMISSE",
+      "brandCode": "536",
+      "supplier": "NATAL LIMP DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "1678",
+      "manufacturerCode": "1821",
+      "category": "DOSADORES",
+      "categorySlug": "dosadores",
+      "path": "/dispenser-saboneteira-800ml-invoq-7782",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--536--premisse"
+  }
+}

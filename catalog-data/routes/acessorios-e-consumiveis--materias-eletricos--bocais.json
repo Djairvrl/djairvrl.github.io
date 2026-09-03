@@ -1,0 +1,44 @@
+{
+  "title": "BOCAIS",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria bocais em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "BOCAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8923",
+      "title": "BOCAL DECORATIVO BRANCO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "892",
+      "category": "BOCAIS",
+      "categorySlug": "bocais",
+      "path": "/bocal-decorativo-branco-8923",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--bocais"
+  }
+}

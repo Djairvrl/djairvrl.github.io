@@ -1,0 +1,36 @@
+{
+  "title": "FIBERTEX",
+  "parentLabel": "Marca",
+  "description": "Produtos FIBERTEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FIBERTEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9631",
+      "title": "FITA FIB VIDRO C/LINHA L25MM C50M AF1825",
+      "brand": "FIBERTEX",
+      "brandCode": "701",
+      "supplier": "FIBERTEX LOUVEIRA PROD. TEXTEIS LTDA",
+      "supplierCode": "2648",
+      "manufacturerCode": "VO-810",
+      "category": "FITAS E ISOLAMENTOS",
+      "categorySlug": "fitas-e-isolamentos",
+      "path": "/fita-fib-vidro-clinha-l25mm-c50m-af1825-9631",
+      "image": "/products/images/0096/9631.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--701--fibertex"
+  }
+}

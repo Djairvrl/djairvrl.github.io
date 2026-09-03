@@ -1,0 +1,61 @@
+{
+  "title": "MILIOHMÍMETRO",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria miliohmímetro em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "MILIOHMÍMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11083",
+      "title": "MILIOHMIMETRO DIGITAL 1E",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MCR-1E EZ",
+      "category": "MILIOHMÍMETRO",
+      "categorySlug": "miliohmimetro",
+      "path": "/miliohmimetro-digital-1e-11083",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11230",
+      "title": "MILIOHMIMETRO DIGITAL MO2KE C/ IMP.",
+      "brand": "MEGABRAS",
+      "brandCode": "135",
+      "supplier": "MEGABRAS IND ELETRONICA LTDA.",
+      "supplierCode": "384",
+      "manufacturerCode": "04803",
+      "category": "MILIOHMÍMETRO",
+      "categorySlug": "miliohmimetro",
+      "path": "/miliohmimetro-digital-mo2ke-c-imp-11230",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--miliohmimetro"
+  }
+}

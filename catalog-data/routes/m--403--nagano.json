@@ -1,0 +1,104 @@
+{
+  "title": "NAGANO",
+  "parentLabel": "Marca",
+  "description": "Produtos NAGANO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NAGANO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13153",
+      "title": "BOMBA ABASTECIMENTO OLEO DIESEL 12V 50L",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1488",
+      "manufacturerCode": "102057610",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/bomba-abastecimento-oleo-diesel-12v-50l-13153",
+      "image": "/products/images/0131/13153.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "7067",
+      "title": "GERADOR DE ENERGIA A GASOLINA 8 KVA PARTIDA ELÉTRICA TRIFÁSICO - NAGANO NG8100E3",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1488",
+      "manufacturerCode": "NG8100E3",
+      "category": "GERADORES A GASOLINA",
+      "categorySlug": "geradores-a-gasolina",
+      "path": "/gerador-de-energia-a-gasolina-8-kva-partida-eletrica-trifasico--nagano-ng8100e3-7067",
+      "image": "/products/images/0070/7067.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "7008",
+      "title": "GERADOR TRIFAS 8KRA 220/380V NAGANO",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "NG8100E3D",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-trifas-8kra-220380v-nagano-7008",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "11821",
+      "title": "MATA MOSQUITO ELETRICO 220V 16W",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1488",
+      "manufacturerCode": "102066273",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mata-mosquito-eletrico-220v-16w-11821",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12388",
+      "title": "TALHA ELETRICA 6 A 12METROS 1200KG 1900W",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1488",
+      "manufacturerCode": "102067964",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-eletrica-6-a-12metros-1200kg-1900w-12388",
+      "image": "/products/images/0123/12388.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--403--nagano"
+  }
+}

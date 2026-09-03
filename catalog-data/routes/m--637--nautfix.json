@@ -1,0 +1,36 @@
+{
+  "title": "NAUTFIX",
+  "parentLabel": "Marca",
+  "description": "Produtos NAUTFIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NAUTFIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8977",
+      "title": "TENDA GAZEBO ARTICULADO 3X3 AZUL",
+      "brand": "NAUTFIX",
+      "brandCode": "637",
+      "supplier": "SHOPPFIX LTDA",
+      "supplierCode": "2336",
+      "manufacturerCode": "18881",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/tenda-gazebo-articulado-3x3-azul-8977",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--637--nautfix"
+  }
+}

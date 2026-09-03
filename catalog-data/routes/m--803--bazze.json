@@ -1,0 +1,70 @@
+{
+  "title": "BAZZE",
+  "parentLabel": "Marca",
+  "description": "Produtos BAZZE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BAZZE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12496",
+      "title": "GRAMPO GALVAN BAZZE 26/6 1000P 615059",
+      "brand": "BAZZE",
+      "brandCode": "803",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7897476615059",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/grampo-galvan-bazze-266-1000p-615059-12496",
+      "image": "/products/images/0124/12496.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12578",
+      "title": "MARCA TEXTO BAZZE 12P VD 617961",
+      "brand": "BAZZE",
+      "brandCode": "803",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "3704",
+      "manufacturerCode": "7897476617961",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/marca-texto-bazze-12p-vd-617961-12578",
+      "image": "/products/images/0125/12578.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "10706",
+      "title": "TESOURA BAZZE B7206",
+      "brand": "BAZZE",
+      "brandCode": "803",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "78997476617350",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-bazze-b7206-10706",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--803--bazze"
+  }
+}

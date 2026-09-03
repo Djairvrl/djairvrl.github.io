@@ -1,0 +1,104 @@
+{
+  "title": "MOR",
+  "parentLabel": "Marca",
+  "description": "Produtos MOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4593",
+      "title": "ESCADA DE ALUMÍNIO 7 GRAUS 120KG - MOR",
+      "brand": "MOR",
+      "brandCode": "109",
+      "supplier": "METALURGICA MOR S.A- FILIAL PERNAMBUCO",
+      "supplierCode": "255",
+      "manufacturerCode": "7896020651055",
+      "category": "ESCADAS",
+      "categorySlug": "escadas",
+      "path": "/escada-de-aluminio-7-graus-120kg--mor-4593",
+      "image": "/products/images/0045/4593.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "4594",
+      "title": "ESCADA MULTIFUNCIONAL 4X3 12 DEGRAUS  150KG CAPACIDADE - MOR",
+      "brand": "MOR",
+      "brandCode": "109",
+      "supplier": "METALURGICA MOR S.A- FILIAL PERNAMBUCO",
+      "supplierCode": "255",
+      "manufacturerCode": "7896020651314",
+      "category": "ESCADAS",
+      "categorySlug": "escadas",
+      "path": "/escada-multifuncional-4x3-12-degraus-150kg-capacidade--mor-4594",
+      "image": "/products/images/0045/4594.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "7006",
+      "title": "ESCADA TESOURA ALUMINIO/FIBRA DUPLA - 4M",
+      "brand": "MOR",
+      "brandCode": "109",
+      "supplier": "W ELAN INDUSTRIA E COMERCIO DE ESCADAS LTDA",
+      "supplierCode": "1217",
+      "manufacturerCode": "TAFD14",
+      "category": "ESCADAS",
+      "categorySlug": "escadas",
+      "path": "/escada-tesoura-aluminiofibra-dupla--4m-7006",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "12403",
+      "title": "GARRAFAO TERM 5,0L AZUL",
+      "brand": "MOR",
+      "brandCode": "109",
+      "supplier": "METALURGICA MOR S.A- FILIAL PERNAMBUCO",
+      "supplierCode": "255",
+      "manufacturerCode": "25120151",
+      "category": "GARRAFAS E CAIXAS  TÉRMICAS",
+      "categorySlug": "garrafas-e-caixas-termicas",
+      "path": "/garrafao-term-50l-azul-12403",
+      "image": "/products/images/0124/12403.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    },
+    {
+      "code": "6765",
+      "title": "TENDA PRAIA GAZEBO BASE 3X3 BARRACA",
+      "brand": "MOR",
+      "brandCode": "109",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "TENDA MOR",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/tenda-praia-gazebo-base-3x3-barraca-6765",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--109--mor"
+  }
+}

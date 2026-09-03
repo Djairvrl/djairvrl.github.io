@@ -1,0 +1,36 @@
+{
+  "title": "TECHNOFAN",
+  "parentLabel": "Marca",
+  "description": "Produtos TECHNOFAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECHNOFAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9292",
+      "title": "KIT EXAUSTOR AR TRIFASICO MOTOR 1,5 CV",
+      "brand": "TECHNOFAN",
+      "brandCode": "663",
+      "supplier": "TECHNOFAN EQUIPAMENTOS E SERVICOS LTDA",
+      "supplierCode": "2483",
+      "manufacturerCode": "TECH-200T",
+      "category": "SISTEMAS DE EXAUSTÃO E VENTILAÇÃO",
+      "categorySlug": "sistemas-de-exaustao-e-ventilacao",
+      "path": "/kit-exaustor-ar-trifasico-motor-15-cv-9292",
+      "image": "/products/images/0092/9292.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--663--technofan"
+  }
+}

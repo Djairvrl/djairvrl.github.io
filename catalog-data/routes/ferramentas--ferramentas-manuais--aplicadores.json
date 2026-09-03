@@ -1,0 +1,163 @@
+{
+  "title": "APLICADORES",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria aplicadores em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "APLICADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5692",
+      "title": "APLICADOR FITA",
+      "brand": "MOSKA",
+      "brandCode": "671",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "248",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/aplicador-fita-5692",
+      "image": "/products/images/0056/5692.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10661",
+      "title": "APLICADOR MANUAL SCOTCH-WELD EPX",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004583157",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/aplicador-manual-scotchweld-epx-10661",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10527",
+      "title": "APLICADOR P/FITA 50MM METALICO",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "1155050000",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/aplicador-pfita-50mm-metalico-10527",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12792",
+      "title": "APLICADOR PARA SILICONE AS 550 VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3599550000",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/aplicador-para-silicone-as-550-vonder-12792",
+      "image": "/products/images/0127/12792.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "11419",
+      "title": "APLICADOR S WELD EPX PLUS 2",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "MARINGA FITAS DISTR DE FITAS E ABRASIVOS INDUSTR LTDA",
+      "supplierCode": "4957",
+      "manufacturerCode": "HB004561187",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/aplicador-s-weld-epx-plus-2-11419",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12427",
+      "title": "BICO APLICADOR PU POLIURETANO E SILICONE",
+      "brand": "ANKER",
+      "brandCode": "1078",
+      "supplier": "ANKER DO BRASIL PECAS E MATERIAIS PARA CONSTRUCAO LTDA",
+      "supplierCode": "5710",
+      "manufacturerCode": "MELI159",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/bico-aplicador-pu-poliuretano-e-silicone-12427",
+      "image": "/products/images/0124/12427.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "382",
+      "title": "PISTOLA APLICADORA DE SILICONE 310ML SEMI ABERTA SPARTA REF 8863655",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8863655",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/pistola-aplicadora-de-silicone-310ml-semi-aberta-sparta-ref-8863655-382",
+      "image": "/products/images/0003/382.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "1810",
+      "title": "PISTOLA PARA TUBO DE SILICONE 280ML COM CHAPAS EM AÇO - TRAMONTINA MASTER  REF.  43199002",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "43199002",
+      "category": "APLICADORES",
+      "categorySlug": "aplicadores",
+      "path": "/pistola-para-tubo-de-silicone-280ml-com-chapas-em-aco--tramontina-master-ref-43199002-1810",
+      "image": "/products/images/0018/1810.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "ferramentas--ferramentas-manuais--aplicadores"
+  }
+}

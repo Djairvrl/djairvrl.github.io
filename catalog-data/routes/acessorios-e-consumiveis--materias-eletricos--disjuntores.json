@@ -1,0 +1,129 @@
+{
+  "title": "DISJUNTORES",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria disjuntores em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "DISJUNTORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9785",
+      "title": "DISJUNT MINI MONOP 16A 127/230VCA C 3KA",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "EZ9F33116",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjunt-mini-monop-16a-127230vca-c-3ka-9785",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11006",
+      "title": "DISJUNTOR MINI DIN 1P 2A 220/400V C 5KA",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1471",
+      "manufacturerCode": "1388943",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-mini-din-1p-2a-220400v-c-5ka-11006",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7798",
+      "title": "DISJUNTOR MONO 10A CURVA C S C10 MINI",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "5SJ11107MB",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-mono-10a-curva-c-s-c10-mini-7798",
+      "image": "/products/images/0077/7798.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7799",
+      "title": "DISJUNTOR MONO 16A CURVA C S C16 MINI",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "5SJ11167MB",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-mono-16a-curva-c-s-c16-mini-7799",
+      "image": "/products/images/0077/7799.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9784",
+      "title": "DISJUNTOR TRIP 25A MINI 3KA 230/400VCA C",
+      "brand": "STECK",
+      "brandCode": "444",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "SDD63C25",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-trip-25a-mini-3ka-230400vca-c-9784",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9783",
+      "title": "DISJUNTOR TRIP 32A MINI 3KA 230/400VCA C",
+      "brand": "STECK",
+      "brandCode": "444",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "SDD63C32",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/disjuntor-trip-32a-mini-3ka-230400vca-c-9783",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--disjuntores"
+  }
+}

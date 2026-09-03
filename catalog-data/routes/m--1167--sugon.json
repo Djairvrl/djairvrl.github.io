@@ -1,0 +1,36 @@
+{
+  "title": "SUGON",
+  "parentLabel": "Marca",
+  "description": "Produtos SUGON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SUGON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12993",
+      "title": "SUGON 8650 PRO ESTACAO DE RETRABALHO",
+      "brand": "SUGON",
+      "brandCode": "1167",
+      "supplier": "BFCH COMERCIAL LTDA",
+      "supplierCode": "6028",
+      "manufacturerCode": "8650",
+      "category": "ESTAÇÕES DE RETRABALHO BGA",
+      "categorySlug": "estacoes-de-retrabalho-bga",
+      "path": "/sugon-8650-pro-estacao-de-retrabalho-12993",
+      "image": "/products/images/0129/12993.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1167--sugon"
+  }
+}

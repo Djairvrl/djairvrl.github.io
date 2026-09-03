@@ -1,0 +1,36 @@
+{
+  "title": "SCHNEIDER ELECTRIC",
+  "parentLabel": "Marca",
+  "description": "Produtos SCHNEIDER ELECTRIC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SCHNEIDER ELECTRIC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11336",
+      "title": "BOT.PEND.BPR-61E 2 BOT.+EMERG CA2813",
+      "brand": "SCHNEIDER ELECTRIC",
+      "brandCode": "923",
+      "supplier": "MEGA LUX COMERCIO E SERVICOS DE MATERIAIS ELETRICOS",
+      "supplierCode": "4452",
+      "manufacturerCode": "3781",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botpendbpr61e-2-botemerg-ca2813-11336",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--923--schneider-electric"
+  }
+}

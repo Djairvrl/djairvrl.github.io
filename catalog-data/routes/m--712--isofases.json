@@ -1,0 +1,36 @@
+{
+  "title": "ISOFASES",
+  "parentLabel": "Marca",
+  "description": "Produtos ISOFASES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ISOFASES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9691",
+      "title": "TERMO RET PTO Ø 40MM 600V - 1KV C/ 10MT",
+      "brand": "ISOFASES",
+      "brandCode": "712",
+      "supplier": "ISOFASES ACESSORIOS ELETRICOS LTDA",
+      "supplierCode": "2693",
+      "manufacturerCode": "TR-PT-40MMX10MTS",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/termo-ret-pto-40mm-600v--1kv-c-10mt-9691",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--712--isofases"
+  }
+}

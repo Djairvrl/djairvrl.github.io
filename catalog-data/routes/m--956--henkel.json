@@ -1,0 +1,36 @@
+{
+  "title": "HENKEL",
+  "parentLabel": "Marca",
+  "description": "Produtos HENKEL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HENKEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11540",
+      "title": "ADESIVO -LOCTITE SI 598 BLACK - 390G",
+      "brand": "HENKEL",
+      "brandCode": "956",
+      "supplier": "DAY BRASIL S/A",
+      "supplierCode": "5071",
+      "manufacturerCode": "230SI59800002.8",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/adesivo-loctite-si-598-black--390g-11540",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--956--henkel"
+  }
+}

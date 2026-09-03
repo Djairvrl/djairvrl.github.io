@@ -1,0 +1,22 @@
+{
+  "title": "Navegação e Geolocalização",
+  "parentLabel": "Medição e Teste",
+  "description": "Soluções de navegação e geolocalização disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Navegação e Geolocalização"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "medicao-e-teste--navegacao-e-geolocalizacao"
+  }
+}

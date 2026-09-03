@@ -1,0 +1,44 @@
+{
+  "title": "TRATAMENTO DE EFLUENTES",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria tratamento de efluentes em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "TRATAMENTO DE EFLUENTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11934",
+      "title": "BIODIGESTOR MAX FORTLEV 1.500L/DIA",
+      "brand": "FORTLEV",
+      "brandCode": "228",
+      "supplier": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "966",
+      "manufacturerCode": "2090032",
+      "category": "TRATAMENTO DE EFLUENTES",
+      "categorySlug": "tratamento-de-efluentes",
+      "path": "/biodigestor-max-fortlev-1500ldia-11934",
+      "image": "/products/images/0119/11934.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ambiental--contencao-ambiental--tratamento-de-efluentes"
+  }
+}

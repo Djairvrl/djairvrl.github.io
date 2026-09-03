@@ -1,0 +1,70 @@
+{
+  "title": "REAL BORRACHAS",
+  "parentLabel": "Marca",
+  "description": "Produtos REAL BORRACHAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "REAL BORRACHAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11332",
+      "title": "ANEL TIPO QUADRADO EXT 2\" POLEGADAS",
+      "brand": "REAL BORRACHAS",
+      "brandCode": "922",
+      "supplier": "BRONZI ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "4682",
+      "manufacturerCode": "000847",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-tipo-quadrado-ext-2-polegadas-11332",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11333",
+      "title": "ANEL TIPO QUADRADO EXT 3\" POLEGADAS",
+      "brand": "REAL BORRACHAS",
+      "brandCode": "922",
+      "supplier": "BRONZI ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "4682",
+      "manufacturerCode": "000848",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-tipo-quadrado-ext-3-polegadas-11333",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11334",
+      "title": "ANEL TIPO QUADRADO EXT 4\" POLEGADAS",
+      "brand": "REAL BORRACHAS",
+      "brandCode": "922",
+      "supplier": "BRONZI ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "4682",
+      "manufacturerCode": "000849",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-tipo-quadrado-ext-4-polegadas-11334",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--922--real-borrachas"
+  }
+}

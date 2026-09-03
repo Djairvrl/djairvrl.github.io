@@ -1,0 +1,70 @@
+{
+  "title": "PETZL",
+  "parentLabel": "Marca",
+  "description": "Produtos PETZL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PETZL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12297",
+      "title": "LANTERNA DE CABECA PIXA IP68 450LUM",
+      "brand": "PETZL",
+      "brandCode": "56",
+      "supplier": "SPELAION - ARTIGOS ESPORTIVOS LTDA ME",
+      "supplierCode": "1097",
+      "manufacturerCode": "E120AA00",
+      "category": "USO EM CAPACETE",
+      "categorySlug": "uso-em-capacete",
+      "path": "/lanterna-de-cabeca-pixa-ip68-450lum-12297",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "8064",
+      "title": "POLIA COM TRAVA DE PROGRESSÃO MICRO TRAXION P53 - PETZL",
+      "brand": "PETZL",
+      "brandCode": "56",
+      "supplier": "SPELAION - ARTIGOS ESPORTIVOS LTDA ME",
+      "supplierCode": "1097",
+      "manufacturerCode": "P53",
+      "category": "ANCORAGEM",
+      "categorySlug": "ancoragem",
+      "path": "/polia-com-trava-de-progressao-micro-traxion-p53--petzl-8064",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "13354",
+      "title": "TRAVA QUEDAS ASAP PETEZL",
+      "brand": "PETZL",
+      "brandCode": "56",
+      "supplier": "BASE NEREA COMERCIO, IMPORTACAO, SERVICOS E CONFECCAO LTDA",
+      "supplierCode": "6252",
+      "manufacturerCode": "1234",
+      "category": "TRAVA QUEDAS",
+      "categorySlug": "trava-quedas",
+      "path": "/trava-quedas-asap-petezl-13354",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--56--petzl"
+  }
+}

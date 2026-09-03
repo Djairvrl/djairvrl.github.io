@@ -1,0 +1,129 @@
+{
+  "title": "BLOQUEIO DE VÁLVULA MULTIUSO",
+  "parentLabel": "Bloqueios De Válvulas",
+  "description": "Produtos da categoria bloqueio de válvula multiuso em bloqueios de válvulas.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Bloqueios De Válvulas",
+      "to": "/bloqueio-e-etiquetagem/bloqueios-de-valvulas"
+    },
+    {
+      "label": "BLOQUEIO DE VÁLVULA MULTIUSO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10017",
+      "title": "BLOQUEIO A CABO AÇO INOX 1,6M ABERTO 4SAFE REF LTBCA003",
+      "brand": "4SAFE",
+      "brandCode": "740",
+      "supplier": "BUNZL EQUIPAMENTOS P PROTECAO INDIVIDUAL",
+      "supplierCode": "28",
+      "manufacturerCode": "LTBCA003",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-a-cabo-aco-inox-16m-aberto-4safe-ref-ltbca003-10017",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "732",
+      "title": "BLOQUEIO A CABO MULTIUSO 1,8M TAGOUT - REF BC1,8",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "BC1,8",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-a-cabo-multiuso-18m-tagout--ref-bc18-732",
+      "image": "/products/images/0007/732.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "8368",
+      "title": "BLOQUEIO A CABO/ CABO DE NYLON 1,8M",
+      "brand": "BRADY",
+      "brandCode": "45",
+      "supplier": "RICARDO M DOS SANTOS TREINAMENTO",
+      "supplierCode": "1827",
+      "manufacturerCode": "BRADY 50943",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-a-cabo-cabo-de-nylon-18m-8368",
+      "image": "/products/images/0083/8368.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "11501",
+      "title": "BLOQUEIO DE CABO A NYLON 2,5M X 3,2MM",
+      "brand": "4SAFE",
+      "brandCode": "740",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "LTBCN001",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-de-cabo-a-nylon-25m-x-32mm-11501",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "7801",
+      "title": "BLOQUEIO DE CABO AJUST UNIVER  NR10 NR12",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SQA INSTALACAO E MONTAGEM INDUSTRIAL LTDA",
+      "supplierCode": "1842",
+      "manufacturerCode": "0075",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/bloqueio-de-cabo-ajust-univer-nr10-nr12-7801",
+      "image": "/products/images/0078/7801.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "9387",
+      "title": "MINI BLOQUEIO A CABO DE ACO  3,2X2,4MT",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "SQA INSTALACAO E MONTAGEM INDUSTRIAL LTDA",
+      "supplierCode": "1842",
+      "manufacturerCode": "DE001805",
+      "category": "BLOQUEIO DE VÁLVULA MULTIUSO",
+      "categorySlug": "bloqueio-de-valvula-multiuso",
+      "path": "/mini-bloqueio-a-cabo-de-aco-32x24mt-9387",
+      "image": "/products/images/0093/9387.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "bloqueio-e-etiquetagem--bloqueios-de-valvulas--bloqueio-de-valvula-multiuso"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ORDENE S.A",
+  "parentLabel": "Marca",
+  "description": "Produtos ORDENE S.A disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ORDENE S.A"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7169",
+      "title": "LIXEIRA METAL 8,5L PRETA 98010",
+      "brand": "ORDENE S.A",
+      "brandCode": "425",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "208331",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-metal-85l-preta-98010-7169",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--425--ordene-s-a"
+  }
+}

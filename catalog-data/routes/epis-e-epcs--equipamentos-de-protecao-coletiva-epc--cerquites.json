@@ -1,0 +1,163 @@
+{
+  "title": "CERQUITES",
+  "parentLabel": "Equipamentos de Proteção Coletiva — EPC",
+  "description": "Produtos da categoria cerquites em equipamentos de proteção coletiva — epc.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Equipamentos de Proteção Coletiva — EPC",
+      "to": "/epis-e-epcs/equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "label": "CERQUITES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8546",
+      "title": "KIT TELA FORTINET C/ 25MT",
+      "brand": "DIVERSOS",
+      "brandCode": "540",
+      "supplier": "BELGO CERCAS JOAO PESSOA COMERCIO DE ACOS LTDA",
+      "supplierCode": "1343",
+      "manufacturerCode": "32",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/kit-tela-fortinet-c-25mt-8546",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "1773",
+      "title": "TELA ALAMBRADO PRACTICA 5X15CM - 1,52MT",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "1497",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-alambrado-practica-5x15cm--152mt-1773",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "6121",
+      "title": "TELA DE PROTECAO  GUARDA - CORPO",
+      "brand": "TEGAPE",
+      "brandCode": "23",
+      "supplier": "TEGAPE IMP E COM DE TEC TECNICOS LTDA",
+      "supplierCode": "267",
+      "manufacturerCode": "005088",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-de-protecao-guarda--corpo-6121",
+      "image": "/products/images/0061/6121.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "8413",
+      "title": "TELA FORTINET FAMILY 5X10 F 2.50 H 2.03",
+      "brand": "DIVERSOS",
+      "brandCode": "540",
+      "supplier": "BELGO CERCAS JOAO PESSOA COMERCIO DE ACOS LTDA",
+      "supplierCode": "1343",
+      "manufacturerCode": "31",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-fortinet-family-5x10-f-250-h-203-8413",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "8792",
+      "title": "TELA METALICA DE SEGURANCA MORLON",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PLASTWAY INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "supplierCode": "2232",
+      "manufacturerCode": "TELA METALICA DE SEGURANCA",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-metalica-de-seguranca-morlon-8792",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "9806",
+      "title": "TELA ONDULADA GALV MALHA 2 FIO12 ALT 2MT",
+      "brand": "CATUMBI TELAS",
+      "brandCode": "725",
+      "supplier": "BARALDI MARQUES TELAS LTDA",
+      "supplierCode": "2720",
+      "manufacturerCode": "OND2122000",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-ondulada-galv-malha-2-fio12-alt-2mt-9806",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "1164",
+      "title": "TELA TAPUME LARANJA 1,20X50M EM PEAD - TEGAPE TELAS",
+      "brand": "TEGAPE",
+      "brandCode": "23",
+      "supplier": "TEGAPE IMP E COM DE TEC TECNICOS LTDA",
+      "supplierCode": "267",
+      "manufacturerCode": "006443",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-tapume-laranja-120x50m-em-pead--tegape-telas-1164",
+      "image": "/products/images/0011/1164.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
+      "code": "4396",
+      "title": "TELA TAPUME PLÁSTICA LARANJA 1,20 × 50M - SINALIZAÇÃO E DELIMITAÇÃO - PLASTCOR",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - SP",
+      "supplierCode": "30",
+      "manufacturerCode": "700.00999",
+      "category": "CERQUITES",
+      "categorySlug": "cerquites",
+      "path": "/tela-tapume-plastica-laranja-120-50m--sinalizacao-e-delimitacao--plastcor-4396",
+      "image": "/products/images/0043/4396.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "epis-e-epcs--equipamentos-de-protecao-coletiva-epc--cerquites"
+  }
+}

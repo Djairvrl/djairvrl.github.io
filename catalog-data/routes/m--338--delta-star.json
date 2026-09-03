@@ -1,0 +1,36 @@
+{
+  "title": "DELTA STAR",
+  "parentLabel": "Marca",
+  "description": "Produtos DELTA STAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DELTA STAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6773",
+      "title": "CONETOR DE CORDOALHAS FLEX 1200A 4N",
+      "brand": "DELTA STAR",
+      "brandCode": "338",
+      "supplier": "DELTA STAR CONETORES ELETRICOS LTDA",
+      "supplierCode": "1334",
+      "manufacturerCode": "BXB-860",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/conetor-de-cordoalhas-flex-1200a-4n-6773",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--338--delta-star"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO",
+  "parentLabel": "Bloqueios De Válvulas",
+  "description": "Produtos da categoria bloqueio válvula registro gaveta/globo em bloqueios de válvulas.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Bloqueios De Válvulas",
+      "to": "/bloqueio-e-etiquetagem/bloqueios-de-valvulas"
+    },
+    {
+      "label": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2097",
+      "title": "BLOQ VALVUL REGI 3-5\" 70-130MM BVR130",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "BVR130",
+      "category": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO",
+      "categorySlug": "bloqueio-valvula-registro-gaveta-globo",
+      "path": "/bloq-valvul-regi-35-70130mm-bvr130-2097",
+      "image": "/products/images/0020/2097.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "9389",
+      "title": "BLOQUEIO DE VALVULA REGISTRO AJUSTAVEL",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "BVRA",
+      "category": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO",
+      "categorySlug": "bloqueio-valvula-registro-gaveta-globo",
+      "path": "/bloqueio-de-valvula-registro-ajustavel-9389",
+      "image": "/products/images/0093/9389.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "728",
+      "title": "O BLOQUEIO DE VÁLVULA REGISTRO 1,5-2,5\"(35-65MM) TAGOUT REF BVR65",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "DB000000",
+      "category": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO",
+      "categorySlug": "bloqueio-valvula-registro-gaveta-globo",
+      "path": "/o-bloqueio-de-valvula-registro-15253565mm-tagout-ref-bvr65-728",
+      "image": "/products/images/0007/728.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "727",
+      "title": "O BLOQUEIO DE VÁLVULA REGISTRO 10,5-13,5\"(270-340MM) TAGOUT REF BVR340",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "BVR340",
+      "category": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO",
+      "categorySlug": "bloqueio-valvula-registro-gaveta-globo",
+      "path": "/o-bloqueio-de-valvula-registro-105135270340mm-tagout-ref-bvr340-727",
+      "image": "/products/images/0007/727.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    },
+    {
+      "code": "726",
+      "title": "O BLOQUEIO DE VÁLVULA REGISTRO 5-6,5\"(135-170MM) TAGOUT REF BVR170",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "DB000204",
+      "category": "BLOQUEIO VÁLVULA REGISTRO GAVETA/GLOBO",
+      "categorySlug": "bloqueio-valvula-registro-gaveta-globo",
+      "path": "/o-bloqueio-de-valvula-registro-565135170mm-tagout-ref-bvr170-726",
+      "image": "/products/images/0007/726.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios De Válvulas",
+      "sectionSlug": "bloqueios-de-valvulas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "bloqueio-e-etiquetagem--bloqueios-de-valvulas--bloqueio-valvula-registro-gaveta-globo"
+  }
+}

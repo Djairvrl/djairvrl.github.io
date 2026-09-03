@@ -1,0 +1,95 @@
+{
+  "title": "TORQUEADEIRAS",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria torqueadeiras em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "TORQUEADEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6822",
+      "title": "TORQUEADEIRA A BATERIA 500-4000NM LDA-40",
+      "brand": "GEDORE SOLUTIONS",
+      "brandCode": "267",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "053476",
+      "category": "TORQUEADEIRAS",
+      "categorySlug": "torqueadeiras",
+      "path": "/torqueadeira-a-bateria-5004000nm-lda40-6822",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6821",
+      "title": "TORQUEADEIRA A BATERIA 900-8000NM LDA-80",
+      "brand": "GEDORE SOLUTIONS",
+      "brandCode": "267",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "053484",
+      "category": "TORQUEADEIRAS",
+      "categorySlug": "torqueadeiras",
+      "path": "/torqueadeira-a-bateria-9008000nm-lda80-6821",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6794",
+      "title": "TORQUEADEIRA BAT 1200NM LDA-12",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "053503",
+      "category": "TORQUEADEIRAS",
+      "categorySlug": "torqueadeiras",
+      "path": "/torqueadeira-bat-1200nm-lda12-6794",
+      "image": "/products/images/0067/6794.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6795",
+      "title": "TORQUEADEIRA BAT. 3200 NM LDA-32",
+      "brand": "GEDORE SOLUTIONS",
+      "brandCode": "267",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "053882",
+      "category": "TORQUEADEIRAS",
+      "categorySlug": "torqueadeiras",
+      "path": "/torqueadeira-bat-3200-nm-lda32-6795",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--ferramentas-eletricas--torqueadeiras"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "SILFORCE",
+  "parentLabel": "Marca",
+  "description": "Produtos SILFORCE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SILFORCE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12275",
+      "title": "MICROSCÓPIO DIGITAL 1200X LCD 7 FULL HD",
+      "brand": "SILFORCE",
+      "brandCode": "1057",
+      "supplier": "GABRIEL DA SILVA ALMEIDA GARCIA",
+      "supplierCode": "5607",
+      "manufacturerCode": "MICROSCOPICO1200X",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/microscopio-digital-1200x-lcd-7-full-hd-12275",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1057--silforce"
+  }
+}

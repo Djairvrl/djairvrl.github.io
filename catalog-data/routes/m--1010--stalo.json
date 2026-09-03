@@ -1,0 +1,36 @@
+{
+  "title": "STALO",
+  "parentLabel": "Marca",
+  "description": "Produtos STALO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STALO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11955",
+      "title": "QUADRO BRANCO UV ALUMINIO A 150 X 120 CM",
+      "brand": "STALO",
+      "brandCode": "1010",
+      "supplier": "E-MOVE COMERCIAL LTDA",
+      "supplierCode": "5386",
+      "manufacturerCode": "EMV0000001032",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/quadro-branco-uv-aluminio-a-150-x-120-cm-11955",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1010--stalo"
+  }
+}

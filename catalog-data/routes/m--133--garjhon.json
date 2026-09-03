@@ -1,0 +1,36 @@
+{
+  "title": "GARJHON",
+  "parentLabel": "Marca",
+  "description": "Produtos GARJHON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GARJHON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1576",
+      "title": "LUVA VAQUETA TOTAL T-9  PETR CA41810",
+      "brand": "GARJHON",
+      "brandCode": "133",
+      "supplier": "VALCAN EPI LTDA",
+      "supplierCode": "325",
+      "manufacturerCode": "4VTC270",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-vaqueta-total-t9-petr-ca41810-1576",
+      "image": "/products/images/0015/1576.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--133--garjhon"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "TERRAMAR",
+  "parentLabel": "Marca",
+  "description": "Produtos TERRAMAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TERRAMAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11153",
+      "title": "TACOMETRO DIGITAL 85MM 12/24V 3500RPM",
+      "brand": "TERRAMAR",
+      "brandCode": "897",
+      "supplier": "TERRA MAR INSTRUMENTOS LTDA",
+      "supplierCode": "4621",
+      "manufacturerCode": "100112/100",
+      "category": "MEDIDORES DE VELOCIDADES",
+      "categorySlug": "medidores-de-velocidades",
+      "path": "/tacometro-digital-85mm-1224v-3500rpm-11153",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--897--terramar"
+  }
+}

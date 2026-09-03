@@ -1,0 +1,163 @@
+{
+  "title": "VIRA MACHO",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria vira macho em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "VIRA MACHO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1911",
+      "title": "DESANDADOR VIRA MACHO MANUAL 200MM CAP. M1 A M8 - TRAMONTINA PRO REF.  44087100",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44087100",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/desandador-vira-macho-manual-200mm-cap-m1-a-m8--tramontina-pro-ref-44087100-1911",
+      "image": "/products/images/0019/1911.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6517",
+      "title": "VIRA MACHO C/CATRACA T N1 M3-M10",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "27,0011",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/vira-macho-ccatraca-t-n1-m3m10-6517",
+      "image": "/products/images/0065/6517.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3841",
+      "title": "VIRA MACHO DESANDADOR UNIVERSAL PARA MACHO 1/16\"- 5/16\" Nº0 - ROCAST 27,0001",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "27,0001",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/vira-macho-desandador-universal-para-macho-116-516-no0--rocast-270001-3841",
+      "image": "/products/images/0038/3841.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3843",
+      "title": "VIRA MACHO DESANDADOR UNIVERSAL PARA MACHO 1/8\"- 7/16\" Nº1.1/2 - ROCAST 27,0003",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "27,0003",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/vira-macho-desandador-universal-para-macho-18-716-no112--rocast-270003-3843",
+      "image": "/products/images/0038/3843.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "3842",
+      "title": "VIRA MACHO DESANDADOR UNIVERSAL PARA MACHO 3/8\"- 1.1/16\" Nº4 - ROCAST 27,0006",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "27,0006",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/vira-macho-desandador-universal-para-macho-38-1116-no4--rocast-270006-3842",
+      "image": "/products/images/0038/3842.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5788",
+      "title": "VIRA MACHO DESANDADOR UNIVERSAL PARA MACHO 5/32\"- 1/2\" Nº2 - ROCAST 27,0004",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "27,0004",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/vira-macho-desandador-universal-para-macho-532-12-no2--rocast-270004-5788",
+      "image": "/products/images/0057/5788.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "5932",
+      "title": "VIRA MACHO DESANDADOR UNIVERSAL PARA MACHO 7/32\"- 3/4\" Nº3 - ROCAST 27,0005",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "27,0005",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/vira-macho-desandador-universal-para-macho-732-34-no3--rocast-270005-5932",
+      "image": "/products/images/0059/5932.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6100",
+      "title": "VIRA MACHO TIPO T  Nº3 M6-M12  (1/4\" - 1/2\") -  ROCAST 27,0010",
+      "brand": "ROCAST",
+      "brandCode": "177",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "27,0010",
+      "category": "VIRA MACHO",
+      "categorySlug": "vira-macho",
+      "path": "/vira-macho-tipo-t-no3-m6m12-14--12--rocast-270010-6100",
+      "image": "/products/images/0061/6100.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--vira-macho"
+  }
+}

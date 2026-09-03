@@ -1,0 +1,78 @@
+{
+  "title": "TRAVESSEIROS ABSORVENTES",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria travesseiros absorventes em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "TRAVESSEIROS ABSORVENTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11234",
+      "title": "TRAVESSEIRO 23X23 PP VIRGEM",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B011400040002323",
+      "category": "TRAVESSEIROS ABSORVENTES",
+      "categorySlug": "travesseiros-absorventes",
+      "path": "/travesseiro-23x23-pp-virgem-11234",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "988",
+      "title": "TRAVESSEIRO ABSORVENTE DE ÓLEO - DERIVADOS DE PETRÓLEO MANTAS BRASIL REF 342",
+      "brand": "MANTAS BRASIL",
+      "brandCode": "39",
+      "supplier": "MANTAS BRASIL IND E COMERCIO LTDA - EPP",
+      "supplierCode": "60",
+      "manufacturerCode": "342",
+      "category": "TRAVESSEIROS ABSORVENTES",
+      "categorySlug": "travesseiros-absorventes",
+      "path": "/travesseiro-absorvente-de-oleo--derivados-de-petroleo-mantas-brasil-ref-342-988",
+      "image": "/products/images/0009/988.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "9479",
+      "title": "TRAVESSEIRO DE ABSORÇÃO SINTÉTICO 23X23  BIOBLUE REF TRASI23SD",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B011400030002323",
+      "category": "TRAVESSEIROS ABSORVENTES",
+      "categorySlug": "travesseiros-absorventes",
+      "path": "/travesseiro-de-absorcao-sintetico-23x23-bioblue-ref-trasi23sd-9479",
+      "image": "/products/images/0094/9479.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ambiental--contencao-ambiental--travesseiros-absorventes"
+  }
+}

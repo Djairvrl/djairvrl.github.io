@@ -1,0 +1,70 @@
+{
+  "title": "POLIBRAS",
+  "parentLabel": "Marca",
+  "description": "Produtos POLIBRAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "POLIBRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7716",
+      "title": "ARQUIVO FÁCIL POLIONDA ECONÔMICO AZUL - POLIBRAS 42109",
+      "brand": "POLIBRAS",
+      "brandCode": "618",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7898504391730",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/arquivo-facil-polionda-economico-azul--polibras-42109-7716",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12494",
+      "title": "PASTA C/ABA SOFT* FU 1602 OF PACOTE C/10",
+      "brand": "POLIBRAS",
+      "brandCode": "618",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896644715768",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/pasta-caba-soft-fu-1602-of-pacote-c10-12494",
+      "image": "/products/images/0124/12494.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11739",
+      "title": "PASTA CAT POLIB 50S PVC PTA 60304",
+      "brand": "POLIBRAS",
+      "brandCode": "618",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7898504392928",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/pasta-cat-polib-50s-pvc-pta-60304-11739",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--618--polibras"
+  }
+}

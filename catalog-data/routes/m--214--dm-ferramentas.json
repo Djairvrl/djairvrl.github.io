@@ -1,0 +1,36 @@
+{
+  "title": "DM FERRAMENTAS",
+  "parentLabel": "Marca",
+  "description": "Produtos DM FERRAMENTAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DM FERRAMENTAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4148",
+      "title": "BOMBA MANUAL P/ RETIRAR OLEO MOTO DM-110",
+      "brand": "DM FERRAMENTAS",
+      "brandCode": "214",
+      "supplier": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "supplierCode": "727",
+      "manufacturerCode": "7895097917095",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/bomba-manual-p-retirar-oleo-moto-dm110-4148",
+      "image": "/products/images/0041/4148.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--214--dm-ferramentas"
+  }
+}

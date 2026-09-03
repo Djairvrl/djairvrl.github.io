@@ -1,0 +1,36 @@
+{
+  "title": "ZANIN MANGUEIRAS",
+  "parentLabel": "Marca",
+  "description": "Produtos ZANIN MANGUEIRAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZANIN MANGUEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13191",
+      "title": "MANGUEIRA HIDRAULICA SAE 100 R6 3/8",
+      "brand": "ZANIN MANGUEIRAS",
+      "brandCode": "1196",
+      "supplier": "ZANIN MANGUEIRAS E CONEXOES HIDRAULICAS LTDA",
+      "supplierCode": "6158",
+      "manufacturerCode": "1555",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-hidraulica-sae-100-r6-38-13191",
+      "image": "/products/images/0131/13191.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1196--zanin-mangueiras"
+  }
+}

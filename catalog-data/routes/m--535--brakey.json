@@ -1,0 +1,36 @@
+{
+  "title": "BRAKEY",
+  "parentLabel": "Marca",
+  "description": "Produtos BRAKEY disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRAKEY"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7778",
+      "title": "SECADOR DE MAOS BRAKEY PLAST. ABS - 220V",
+      "brand": "BRAKEY",
+      "brandCode": "535",
+      "supplier": "BRAKEY COMERCIO DE PRODUTOS DE HIGIENE LTDA",
+      "supplierCode": "1836",
+      "manufacturerCode": "CR-100",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/secador-de-maos-brakey-plast-abs--220v-7778",
+      "image": "/products/images/0077/7778.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--535--brakey"
+  }
+}

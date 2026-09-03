@@ -1,0 +1,53 @@
+{
+  "title": "CANON",
+  "parentLabel": "Marca",
+  "description": "Produtos CANON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CANON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11956",
+      "title": "CAMERA DIGITAL EOS R100 CANON",
+      "brand": "CANON",
+      "brandCode": "509",
+      "supplier": "KABUM S.A.",
+      "supplierCode": "1602",
+      "manufacturerCode": "483400",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/camera-digital-eos-r100-canon-11956",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "11984",
+      "title": "MULTIFUNCIONAL J. TINTA MEGA TANK G4180",
+      "brand": "CANON",
+      "brandCode": "509",
+      "supplier": "EASYTECH TECNOLOGIA COMERCIO E SERVICOS LTDA",
+      "supplierCode": "5410",
+      "manufacturerCode": "040200050",
+      "category": "IMPRESSORAS",
+      "categorySlug": "impressoras",
+      "path": "/multifuncional-j-tinta-mega-tank-g4180-11984",
+      "image": "/products/images/0119/11984.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--509--canon"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "PHOSPODONT",
+  "parentLabel": "Marca",
+  "description": "Produtos PHOSPODONT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PHOSPODONT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13105",
+      "title": "ESPATULA P/GESSO PLASTICA AZUL",
+      "brand": "PHOSPODONT",
+      "brandCode": "686",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "93888",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-pgesso-plastica-azul-13105",
+      "image": "/products/images/0131/13105.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--686--phospodont"
+  }
+}

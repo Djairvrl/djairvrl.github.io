@@ -1,0 +1,36 @@
+{
+  "title": "HELIODERM",
+  "parentLabel": "Marca",
+  "description": "Produtos HELIODERM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HELIODERM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9090",
+      "title": "PROTETOR LABIAL F30 4,5G",
+      "brand": "HELIODERM",
+      "brandCode": "647",
+      "supplier": "DROGARIA UNIÃO LTDA",
+      "supplierCode": "761",
+      "manufacturerCode": "73636",
+      "category": "PROTETOR LABIAL",
+      "categorySlug": "protetor-labial",
+      "path": "/protetor-labial-f30-45g-9090",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--647--helioderm"
+  }
+}

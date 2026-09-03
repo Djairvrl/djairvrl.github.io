@@ -1,0 +1,36 @@
+{
+  "title": "PARAFLU",
+  "parentLabel": "Marca",
+  "description": "Produtos PARAFLU disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PARAFLU"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10073",
+      "title": "ADITIVO RADIADOR ORG LONG LIFE ROSA 1L",
+      "brand": "PARAFLU",
+      "brandCode": "748",
+      "supplier": "LUBPONTO COMERCIO DE GRAXAS E LUBRIFICANTES LTDA.",
+      "supplierCode": "2989",
+      "manufacturerCode": "3004",
+      "category": "ADITIVOS PARA SISTEMAS DE ARREFECIMENTO",
+      "categorySlug": "aditivos-para-sistemas-de-arrefecimento",
+      "path": "/aditivo-radiador-org-long-life-rosa-1l-10073",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--748--paraflu"
+  }
+}

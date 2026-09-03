@@ -1,0 +1,36 @@
+{
+  "title": "CADENCE",
+  "parentLabel": "Marca",
+  "description": "Produtos CADENCE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CADENCE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12577",
+      "title": "CAFETEIRA ELET INOX 1,2L URBAN POP CAF81",
+      "brand": "CADENCE",
+      "brandCode": "1094",
+      "supplier": "BADAN ARTIGOS ESPORTIVOS LTDA",
+      "supplierCode": "3834",
+      "manufacturerCode": "52599",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-elet-inox-12l-urban-pop-caf81-12577",
+      "image": "/products/images/0125/12577.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1094--cadence"
+  }
+}

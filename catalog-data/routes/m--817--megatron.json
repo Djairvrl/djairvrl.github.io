@@ -1,0 +1,36 @@
+{
+  "title": "MEGATRON",
+  "parentLabel": "Marca",
+  "description": "Produtos MEGATRON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MEGATRON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10827",
+      "title": "CABO FLEXIVEL 10MM C/ 25M",
+      "brand": "MEGATRON",
+      "brandCode": "817",
+      "supplier": "PETINATI FIOS E CABOS LTDA",
+      "supplierCode": "4137",
+      "manufacturerCode": "MLB1736460326_175351578",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-10mm-c-25m-10827",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--817--megatron"
+  }
+}

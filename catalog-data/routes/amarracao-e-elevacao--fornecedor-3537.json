@@ -1,0 +1,270 @@
+{
+  "title": "Amarração e Elevação",
+  "parentLabel": "Departamento",
+  "description": "Produtos de KITO CROSBY BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação"
+    }
+  ],
+  "children": [
+    {
+      "name": "Elevação de Carga",
+      "slug": "elevacao-de-carga",
+      "path": "/amarracao-e-elevacao/elevacao-de-carga",
+      "count": 221,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/acessorios",
+          "count": 2
+        },
+        {
+          "name": "ANILHAS",
+          "slug": "anilhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/anilhas",
+          "count": 3
+        },
+        {
+          "name": "BOLSAS DE IÇAMENTO",
+          "slug": "bolsas-de-icamento",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/bolsas-de-icamento",
+          "count": 7
+        },
+        {
+          "name": "CABO",
+          "slug": "cabo",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cabo",
+          "count": 5
+        },
+        {
+          "name": "CINTA",
+          "slug": "cinta",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta",
+          "count": 81
+        },
+        {
+          "name": "CINTA PARA ANEL",
+          "slug": "cinta-para-anel",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta-para-anel",
+          "count": 1
+        },
+        {
+          "name": "CORDA",
+          "slug": "corda",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/corda",
+          "count": 1
+        },
+        {
+          "name": "FITA",
+          "slug": "fita",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/fita",
+          "count": 2
+        },
+        {
+          "name": "GANCHO",
+          "slug": "gancho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/gancho",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO E CUPILHA",
+          "slug": "grampo-e-cupilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/grampo-e-cupilha",
+          "count": 5
+        },
+        {
+          "name": "GUINCHO",
+          "slug": "guincho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guincho",
+          "count": 11
+        },
+        {
+          "name": "GUINDASTE",
+          "slug": "guindaste",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guindaste",
+          "count": 2
+        },
+        {
+          "name": "LINGAS",
+          "slug": "lingas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/lingas",
+          "count": 6
+        },
+        {
+          "name": "MANILHA",
+          "slug": "manilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/manilha",
+          "count": 27
+        },
+        {
+          "name": "MOITÃO",
+          "slug": "moitao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/moitao",
+          "count": 6
+        },
+        {
+          "name": "MOSQUETÃO",
+          "slug": "mosquetao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/mosquetao",
+          "count": 1
+        },
+        {
+          "name": "OLHAIS",
+          "slug": "olhais",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/olhais",
+          "count": 21
+        },
+        {
+          "name": "PEGA",
+          "slug": "pega",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/pega",
+          "count": 3
+        },
+        {
+          "name": "SELADOR",
+          "slug": "selador",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/selador",
+          "count": 3
+        },
+        {
+          "name": "TALHAS",
+          "slug": "talhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/talhas",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "name": "Amarração de Carga",
+      "slug": "amarracao-de-carga",
+      "path": "/amarracao-e-elevacao/amarracao-de-carga",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Amarração",
+      "slug": "amarracao",
+      "path": "/amarracao-e-elevacao/amarracao",
+      "count": 46,
+      "categories": [
+        {
+          "name": "CINTAS DE AMARRAÇÃO",
+          "slug": "cintas-de-amarracao",
+          "path": "/amarracao-e-elevacao/amarracao/cintas-de-amarracao",
+          "count": 14
+        },
+        {
+          "name": "CORDAS",
+          "slug": "cordas",
+          "path": "/amarracao-e-elevacao/amarracao/cordas",
+          "count": 27
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/amarracao-e-elevacao/amarracao/fitas",
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "3537",
+    "name": "KITO CROSBY BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "12144",
+      "title": "LINGA CORRENTE G10 8MM 4P 5M 5T",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "TG4/EGKN/8X5.000MM",
+      "category": "LINGAS",
+      "categorySlug": "lingas",
+      "path": "/linga-corrente-g10-8mm-4p-5m-5t-12144",
+      "image": "/products/images/0121/12144.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12969",
+      "title": "TALHA DE ALAV 1.6 TON ELEV 4,50M",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "KBLB5016XSTD450",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-de-alav-16-ton-elev-450m-12969",
+      "image": "/products/images/0129/12969.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12970",
+      "title": "TALHA MANUAL DE ALAV 0,5 T ELEV DE 5,00M",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "KBLX1005500",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-manual-de-alav-05-t-elev-de-500m-12970",
+      "image": "/products/images/0129/12970.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12360",
+      "title": "TALHA MANUAL DE ALAV 500KG - ELEV 1,50M",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "KBLX1005150",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-manual-de-alav-500kg--elev-150m-12360",
+      "image": "/products/images/0123/12360.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "11992",
+      "title": "TALHA MANUAL DE ALAVANCA LX003 ELEV 1,5M",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "LX1-000016",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-manual-de-alavanca-lx003-elev-15m-11992",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "amarracao-e-elevacao--fornecedor-3537"
+  }
+}

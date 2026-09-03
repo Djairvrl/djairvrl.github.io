@@ -1,0 +1,112 @@
+{
+  "title": "BOMBAS DE GRAXA PNEUMÁTICAS",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria bombas de graxa pneumáticas em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "BOMBAS DE GRAXA PNEUMÁTICAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "659",
+      "title": "BOMBA MANUAL PARA GRAXA 7029-AIR 500GR BOZZA REF 122000002",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "122000002",
+      "category": "BOMBAS DE GRAXA PNEUMÁTICAS",
+      "categorySlug": "bombas-de-graxa-pneumaticas",
+      "path": "/bomba-manual-para-graxa-7029air-500gr-bozza-ref-122000002-659",
+      "image": "/products/images/0006/659.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "1523",
+      "title": "PROPULSORA PNEUM P/GRAX C/CARR/MANG 14KG",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "01.200.0383",
+      "category": "BOMBAS DE GRAXA PNEUMÁTICAS",
+      "categorySlug": "bombas-de-graxa-pneumaticas",
+      "path": "/propulsora-pneum-pgrax-ccarrmang-14kg-1523",
+      "image": "/products/images/0015/1523.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "7953",
+      "title": "PROPULSORA PNEUM P/GRAX C/CARR/MANG 15KG",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "01.200.0716",
+      "category": "BOMBAS DE GRAXA PNEUMÁTICAS",
+      "categorySlug": "bombas-de-graxa-pneumaticas",
+      "path": "/propulsora-pneum-pgrax-ccarrmang-15kg-7953",
+      "image": "/products/images/0079/7953.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "5909",
+      "title": "PROPULSORA PNEUM. P/ GRAXA 20KG 11030-G4",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "01.200.0382",
+      "category": "BOMBAS DE GRAXA PNEUMÁTICAS",
+      "categorySlug": "bombas-de-graxa-pneumaticas",
+      "path": "/propulsora-pneum-p-graxa-20kg-11030g4-5909",
+      "image": "/products/images/0059/5909.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "1879",
+      "title": "PROPULSORA PNEUM. P/ GRAXA BALDE 20KG",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "01.200.0582",
+      "category": "BOMBAS DE GRAXA PNEUMÁTICAS",
+      "categorySlug": "bombas-de-graxa-pneumaticas",
+      "path": "/propulsora-pneum-p-graxa-balde-20kg-1879",
+      "image": "/products/images/0018/1879.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--bombas-de-graxa-pneumaticas"
+  }
+}

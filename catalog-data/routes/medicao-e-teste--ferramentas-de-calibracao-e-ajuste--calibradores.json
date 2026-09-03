@@ -1,0 +1,112 @@
+{
+  "title": "CALIBRADORES",
+  "parentLabel": "Calibração e Ajuste",
+  "description": "Produtos da categoria calibradores em calibração e ajuste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Calibração e Ajuste",
+      "to": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "label": "CALIBRADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6128",
+      "title": "CALIBRADOR DE FOLGA COMPRIMENTO 300MM COM 17 PEÇAS 0,02 A 1,00MM - KING TOOLS 600.020",
+      "brand": "KING TOOLS",
+      "brandCode": "269",
+      "supplier": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "supplierCode": "737",
+      "manufacturerCode": "058059",
+      "category": "CALIBRADORES",
+      "categorySlug": "calibradores",
+      "path": "/calibrador-de-folga-comprimento-300mm-com-17-pecas-002-a-100mm--king-tools-600020-6128",
+      "image": "/products/images/0061/6128.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "288",
+      "title": "CALIBRADOR DE FOLGAS (0,038-1MM) STANLEY 78212",
+      "brand": "STANLEY",
+      "brandCode": "137",
+      "supplier": "BLACK  DECKER DO BRASIL LTDA",
+      "supplierCode": "412",
+      "manufacturerCode": "78-212",
+      "category": "CALIBRADORES",
+      "categorySlug": "calibradores",
+      "path": "/calibrador-de-folgas-00381mm-stanley-78212-288",
+      "image": "/products/images/0002/288.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "3800",
+      "title": "CALIBRADOR DIGITAL CD-500",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "supplierCode": "631",
+      "manufacturerCode": "3599310500",
+      "category": "CALIBRADORES",
+      "categorySlug": "calibradores",
+      "path": "/calibrador-digital-cd500-3800",
+      "image": "/products/images/0038/3800.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "6201",
+      "title": "CALIBRADOR PORTATIL LOOP CORRENTE UPS II",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "1212",
+      "manufacturerCode": "UPS II",
+      "category": "CALIBRADORES",
+      "categorySlug": "calibradores",
+      "path": "/calibrador-portatil-loop-corrente-ups-ii-6201",
+      "image": "/products/images/0062/6201.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "13187",
+      "title": "GERADOR DE PRESSAO 800.D",
+      "brand": "ZURICH",
+      "brandCode": "1195",
+      "supplier": "ZURICH IND E COM LTDA",
+      "supplierCode": "6156",
+      "manufacturerCode": "0000170",
+      "category": "CALIBRADORES",
+      "categorySlug": "calibradores",
+      "path": "/gerador-de-pressao-800d-13187",
+      "image": "/products/images/0131/13187.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "medicao-e-teste--ferramentas-de-calibracao-e-ajuste--calibradores"
+  }
+}

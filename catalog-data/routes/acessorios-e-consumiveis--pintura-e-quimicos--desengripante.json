@@ -1,0 +1,146 @@
+{
+  "title": "DESENGRIPANTE",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria desengripante em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "DESENGRIPANTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6616",
+      "title": "DESINGRIPANTE AEROSSOL WHITE LUB SUPER  300ML - ORBI QUÍMICA",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "146",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/desingripante-aerossol-white-lub-super-300ml--orbi-quimica-6616",
+      "image": "/products/images/0066/6616.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3451",
+      "title": "LUBRIF SUPER IND QUIMATIC 20 300ML",
+      "brand": "QUIMATIC",
+      "brandCode": "186",
+      "supplier": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "822",
+      "manufacturerCode": "AM1",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/lubrif-super-ind-quimatic-20-300ml-3451",
+      "image": "/products/images/0034/3451.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8563",
+      "title": "LUBRIFICANTE DESENGRIP LIQ AMB 190G MULT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1578",
+      "manufacturerCode": "276219",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/lubrificante-desengrip-liq-amb-190g-mult-8563",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6043",
+      "title": "LUBRIFICANTE SPRAY MULTIUSO LUB 300ML",
+      "brand": "STARRETT",
+      "brandCode": "79",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "S-LUB300",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/lubrificante-spray-multiuso-lub-300ml-6043",
+      "image": "/products/images/0060/6043.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "795",
+      "title": "MICRO ÓLEO ANTICORROSIVO 300ML M1 STARRETT REF M1-215",
+      "brand": "STARRETT",
+      "brandCode": "79",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "M1-215",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/micro-oleo-anticorrosivo-300ml-m1-starrett-ref-m1215-795",
+      "image": "/products/images/0007/795.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7013",
+      "title": "SPRAY DESENGRIPANTE GRAFITE LUBRIFICANTE A SECO 250ML/130G - CHEMICOLOR",
+      "brand": "CHEMICOLOR",
+      "brandCode": "364",
+      "supplier": "LUXSON COMERCIO DE SPRAYS LTDA",
+      "supplierCode": "1405",
+      "manufacturerCode": "7899674035684",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/spray-desengripante-grafite-lubrificante-a-seco-250ml130g--chemicolor-7013",
+      "image": "/products/images/0070/7013.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4362",
+      "title": "SPRAY MULTIUSOS 300ML LUBRIFICANTE E ANTICORROSIVO - WD-40",
+      "brand": "WD40",
+      "brandCode": "220",
+      "supplier": "WD-40 COMPANY BRASIL LTDA.",
+      "supplierCode": "915",
+      "manufacturerCode": "912069",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/spray-multiusos-300ml-lubrificante-e-anticorrosivo--wd40-4362",
+      "image": "/products/images/0043/4362.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--desengripante"
+  }
+}

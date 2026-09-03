@@ -1,0 +1,146 @@
+{
+  "title": "COLHER DE PEDREIRO",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria colher de pedreiro em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "COLHER DE PEDREIRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1667",
+      "title": "COLHER DE PEDREIRO 10\" EM AÇO COM CABO EM MADEIRA - TRAMONTINA REF.  77358105",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77358105",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-10-em-aco-com-cabo-em-madeira--tramontina-ref-77358105-1667",
+      "image": "/products/images/0016/1667.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1458",
+      "title": "COLHER DE PEDREIRO 7\"",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "0155",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-7-1458",
+      "image": "/products/images/0014/1458.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "3695",
+      "title": "COLHER DE PEDREIRO 8\" EM AÇO COM CABO DE MADEIRA - TRAMONTINA REF. 77358085",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77358085",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-8-em-aco-com-cabo-de-madeira--tramontina-ref-77358085-3695",
+      "image": "/products/images/0036/3695.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1459",
+      "title": "COLHER DE PEDREIRO 9\" OVAL EM AÇO CARBONO TEMPERADO - TRAMONTINA REF 77358095",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "77358/095",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-9-oval-em-aco-carbono-temperado--tramontina-ref-77358095-1459",
+      "image": "/products/images/0014/1459.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "372",
+      "title": "COLHER DE PEDREIRO OVAL 8\"(200MM) MTX REF 8620255",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8620255",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-oval-8200mm-mtx-ref-8620255-372",
+      "image": "/products/images/0003/372.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "331",
+      "title": "COLHER DE PEDREIRO OVAL 9\"(225MM) MTX REF 8620355",
+      "brand": "MTX",
+      "brandCode": "102",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "8620355",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/colher-de-pedreiro-oval-9225mm-mtx-ref-8620355-331",
+      "image": "/products/images/0003/331.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "9804",
+      "title": "MANGUEIRA IRRIGACAO GOTEJAMENTO 17MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KENIA SABATTYNE DE O BORGES",
+      "supplierCode": "958",
+      "manufacturerCode": "13452",
+      "category": "COLHER DE PEDREIRO",
+      "categorySlug": "colher-de-pedreiro",
+      "path": "/mangueira-irrigacao-gotejamento-17mm-9804",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "ferramentas--construcao-civil--colher-de-pedreiro"
+  }
+}

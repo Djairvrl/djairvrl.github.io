@@ -1,0 +1,70 @@
+{
+  "title": "MIDEA",
+  "parentLabel": "Marca",
+  "description": "Produtos MIDEA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MIDEA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13242",
+      "title": "CONDENSADORA 12.000 BTU/H 220V",
+      "brand": "MIDEA",
+      "brandCode": "1034",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "467",
+      "manufacturerCode": "1039060",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/condensadora-12000-btuh-220v-13242",
+      "image": "/products/images/0132/13242.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12368",
+      "title": "FORNO MICR. 35L MXSA35P BRM220 MIDEA",
+      "brand": "MIDEA",
+      "brandCode": "1034",
+      "supplier": "FERREIRA COSTA CIA LTDA",
+      "supplierCode": "1089",
+      "manufacturerCode": "4952146",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/forno-micr-35l-mxsa35p-brm220-midea-12368",
+      "image": "/products/images/0123/12368.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12108",
+      "title": "FREEZER HORIZONTAL MIDEA 145L BRANC 220V",
+      "brand": "MIDEA",
+      "brandCode": "1034",
+      "supplier": "MAGAZINE LUIZA S/A",
+      "supplierCode": "532",
+      "manufacturerCode": "7776151",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/freezer-horizontal-midea-145l-branc-220v-12108",
+      "image": "/products/images/0121/12108.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1034--midea"
+  }
+}

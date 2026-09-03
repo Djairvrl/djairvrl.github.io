@@ -1,0 +1,53 @@
+{
+  "title": "HILTI",
+  "parentLabel": "Marca",
+  "description": "Produtos HILTI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HILTI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8690",
+      "title": "COROA BI 16/320 SP-L ABRASIVA",
+      "brand": "HILTI",
+      "brandCode": "611",
+      "supplier": "HILTI DO BRASIL COMERCIAL LTDA",
+      "supplierCode": "2175",
+      "manufacturerCode": "2261781",
+      "category": "COROAS E SERRAS COPO",
+      "categorySlug": "coroas-e-serras-copo",
+      "path": "/coroa-bi-16320-spl-abrasiva-8690",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8691",
+      "title": "COROA BI 18/320 SP-L ABRASIVA",
+      "brand": "HILTI",
+      "brandCode": "611",
+      "supplier": "HILTI DO BRASIL COMERCIAL LTDA",
+      "supplierCode": "2175",
+      "manufacturerCode": "2261782",
+      "category": "COROAS E SERRAS COPO",
+      "categorySlug": "coroas-e-serras-copo",
+      "path": "/coroa-bi-18320-spl-abrasiva-8691",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--611--hilti"
+  }
+}

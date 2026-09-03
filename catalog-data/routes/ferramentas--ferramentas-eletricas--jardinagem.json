@@ -1,0 +1,44 @@
+{
+  "title": "JARDINAGEM",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria jardinagem em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "JARDINAGEM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8992",
+      "title": "APARADOR DE GRAMA A BATERIA 18V MAKITA DUR193Z",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DUR193Z",
+      "category": "JARDINAGEM",
+      "categorySlug": "jardinagem",
+      "path": "/aparador-de-grama-a-bateria-18v-makita-dur193z-8992",
+      "image": "/products/images/0089/8992.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-eletricas--jardinagem"
+  }
+}

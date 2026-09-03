@@ -1,0 +1,386 @@
+{
+  "title": "Organização e Armazenamento",
+  "parentLabel": "Departamento",
+  "description": "Produtos de R M FERNANDES DA SILVA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento"
+    }
+  ],
+  "children": [
+    {
+      "name": "Organização de Oficina e Bancada",
+      "slug": "organizacao-de-oficina-e-bancada",
+      "path": "/organizacao-e-armazenamento/organizacao-de-oficina-e-bancada",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento e Estruturas de Estoque",
+      "slug": "armazenamento-e-estruturas-de-estoque",
+      "path": "/organizacao-e-armazenamento/armazenamento-e-estruturas-de-estoque",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Movimentação e Intralogística",
+      "slug": "movimentacao-e-intralogistica",
+      "path": "/organizacao-e-armazenamento/movimentacao-e-intralogistica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Armazenamento",
+      "slug": "armazenamento",
+      "path": "/organizacao-e-armazenamento/armazenamento",
+      "count": 183,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/organizacao-e-armazenamento/armazenamento/acessorios",
+          "count": 24
+        },
+        {
+          "name": "ARMÁRIOS",
+          "slug": "armarios",
+          "path": "/organizacao-e-armazenamento/armazenamento/armarios",
+          "count": 50
+        },
+        {
+          "name": "CAIXAS E CASES",
+          "slug": "caixas-e-cases",
+          "path": "/organizacao-e-armazenamento/armazenamento/caixas-e-cases",
+          "count": 20
+        },
+        {
+          "name": "CARRINHOS DE CARGA",
+          "slug": "carrinhos-de-carga",
+          "path": "/organizacao-e-armazenamento/armazenamento/carrinhos-de-carga",
+          "count": 5
+        },
+        {
+          "name": "EMPILHADEIRAS MANUAIS",
+          "slug": "empilhadeiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/empilhadeiras-manuais",
+          "count": 1
+        },
+        {
+          "name": "ESTANTES",
+          "slug": "estantes",
+          "path": "/organizacao-e-armazenamento/armazenamento/estantes",
+          "count": 24
+        },
+        {
+          "name": "FILME",
+          "slug": "filme",
+          "path": "/organizacao-e-armazenamento/armazenamento/filme",
+          "count": 5
+        },
+        {
+          "name": "MESAS HIDRÁULICAS PANTOGRÁFICAS",
+          "slug": "mesas-hidraulicas-pantograficas",
+          "path": "/organizacao-e-armazenamento/armazenamento/mesas-hidraulicas-pantograficas",
+          "count": 1
+        },
+        {
+          "name": "PALETEIRAS ELÉTRICAS",
+          "slug": "paleteiras-eletricas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-eletricas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS HIDRÁULICAS",
+          "slug": "paleteiras-hidraulicas",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-hidraulicas",
+          "count": 5
+        },
+        {
+          "name": "PALETEIRAS MANUAIS",
+          "slug": "paleteiras-manuais",
+          "path": "/organizacao-e-armazenamento/armazenamento/paleteiras-manuais",
+          "count": 10
+        },
+        {
+          "name": "PALETES PLÁSTICOS",
+          "slug": "paletes-plasticos",
+          "path": "/organizacao-e-armazenamento/armazenamento/paletes-plasticos",
+          "count": 1
+        },
+        {
+          "name": "PISOS MODULARES",
+          "slug": "pisos-modulares",
+          "path": "/organizacao-e-armazenamento/armazenamento/pisos-modulares",
+          "count": 2
+        },
+        {
+          "name": "PORTA PALETES",
+          "slug": "porta-paletes",
+          "path": "/organizacao-e-armazenamento/armazenamento/porta-paletes",
+          "count": 25
+        },
+        {
+          "name": "PRATELEIRA",
+          "slug": "prateleira",
+          "path": "/organizacao-e-armazenamento/armazenamento/prateleira",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Organização",
+      "slug": "organizacao",
+      "path": "/organizacao-e-armazenamento/organizacao",
+      "count": 150,
+      "categories": [
+        {
+          "name": "BANCADAS DE TRABALHO",
+          "slug": "bancadas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/bancadas-de-trabalho",
+          "count": 24
+        },
+        {
+          "name": "BOLSAS PARA FERRAMENTAS",
+          "slug": "bolsas-para-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/bolsas-para-ferramentas",
+          "count": 55
+        },
+        {
+          "name": "CARRINHOS DE FERRAMENTAS",
+          "slug": "carrinhos-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/carrinhos-de-ferramentas",
+          "count": 7
+        },
+        {
+          "name": "CLAVICULARIOS",
+          "slug": "clavicularios",
+          "path": "/organizacao-e-armazenamento/organizacao/clavicularios",
+          "count": 16
+        },
+        {
+          "name": "MALETAS DE TRABALHO",
+          "slug": "maletas-de-trabalho",
+          "path": "/organizacao-e-armazenamento/organizacao/maletas-de-trabalho",
+          "count": 18
+        },
+        {
+          "name": "ORGANIZADORES",
+          "slug": "organizadores",
+          "path": "/organizacao-e-armazenamento/organizacao/organizadores",
+          "count": 13
+        },
+        {
+          "name": "OUTROS",
+          "slug": "outros",
+          "path": "/organizacao-e-armazenamento/organizacao/outros",
+          "count": 8
+        },
+        {
+          "name": "PAINÉIS DE FERRAMENTAS",
+          "slug": "paineis-de-ferramentas",
+          "path": "/organizacao-e-armazenamento/organizacao/paineis-de-ferramentas",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "2405",
+    "name": "R M FERNANDES DA SILVA"
+  },
+  "products": [
+    {
+      "code": "10398",
+      "title": "ARMARIO 170X080X030",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "117",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-170x080x030-10398",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11297",
+      "title": "ARMARIO 190X120X40 C/5 PRATELEIRAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "138-",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-190x120x40-c5-prateleiras-11297",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10559",
+      "title": "ARMARIO ACO C/3 PRATELEIRAS 170X75X32CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "122",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-aco-c3-prateleiras-170x75x32cm-10559",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11502",
+      "title": "ARMARIO C/2 PORT TIPO G. VOL 198X033X040",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "148",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-c2-port-tipo-g-vol-198x033x040-11502",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10733",
+      "title": "ARMARIO DE ACO C/4 PRATELEIRA 198X120X40",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "127",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-de-aco-c4-prateleira-198x120x40-10733",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10667",
+      "title": "ESTANTE ACO 1800X920X400MM C/ 5 BANDELAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "125",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/estante-aco-1800x920x400mm-c-5-bandelas-10667",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10526",
+      "title": "ESTANTE ACO 5PRAT CINZA 2000X500MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "119",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/estante-aco-5prat-cinza-2000x500mm-10526",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10534",
+      "title": "ESTANTE ACO CINZA 5 PRAT 2200X500X1000MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "121",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/estante-aco-cinza-5-prat-2200x500x1000mm-10534",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10532",
+      "title": "ESTANTE ACO CINZA 5P 2200X500X900MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "120",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/estante-aco-cinza-5p-2200x500x900mm-10532",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12943",
+      "title": "ESTANTE COM 06 PRATELEIRAS 198X093X030",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "170",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/estante-com-06-prateleiras-198x093x030-12943",
+      "image": "/products/images/0129/12943.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12991",
+      "title": "ESTANTE COM 4 PRATELEIRAS 150X060X030",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "R M FERNANDES DA SILVA",
+      "supplierCode": "2405",
+      "manufacturerCode": "172",
+      "category": "ESTANTES",
+      "categorySlug": "estantes",
+      "path": "/estante-com-4-prateleiras-150x060x030-12991",
+      "image": "/products/images/0129/12991.webp",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 11,
+    "pageBase": "organizacao-e-armazenamento--fornecedor-2405"
+  }
+}

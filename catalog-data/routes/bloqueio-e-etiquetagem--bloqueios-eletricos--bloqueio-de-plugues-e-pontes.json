@@ -1,0 +1,112 @@
+{
+  "title": "BLOQUEIO DE PLUGUES E PONTES",
+  "parentLabel": "Bloqueios Elétricos",
+  "description": "Produtos da categoria bloqueio de plugues e pontes em bloqueios elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Bloqueios Elétricos",
+      "to": "/bloqueio-e-etiquetagem/bloqueios-eletricos"
+    },
+    {
+      "label": "BLOQUEIO DE PLUGUES E PONTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11170",
+      "title": "BLOQ P/PONTE ROLANTE-TAM GG 50X010",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "BPREXG",
+      "category": "BLOQUEIO DE PLUGUES E PONTES",
+      "categorySlug": "bloqueio-de-plugues-e-pontes",
+      "path": "/bloq-pponte-rolantetam-gg-50x010-11170",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "9131",
+      "title": "DISPOSITIVO DE BLOQ PLUG ELET P 110/220V",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "DBPEP",
+      "category": "BLOQUEIO DE PLUGUES E PONTES",
+      "categorySlug": "bloqueio-de-plugues-e-pontes",
+      "path": "/dispositivo-de-bloq-plug-elet-p-110220v-9131",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "1012",
+      "title": "DISPOSITIVO DE BLOQUEIO DE PLUGUES ELÉTRICOS MÉDIO 220-460V - TAGOUT REF DBPEM",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "DBPEM",
+      "category": "BLOQUEIO DE PLUGUES E PONTES",
+      "categorySlug": "bloqueio-de-plugues-e-pontes",
+      "path": "/dispositivo-de-bloqueio-de-plugues-eletricos-medio-220460v--tagout-ref-dbpem-1012",
+      "image": "/products/images/0010/1012.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "9269",
+      "title": "SACO DE BLOQUEIO DE PLUG - TAM MEDIO",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "SBPM",
+      "category": "BLOQUEIO DE PLUGUES E PONTES",
+      "categorySlug": "bloqueio-de-plugues-e-pontes",
+      "path": "/saco-de-bloqueio-de-plug--tam-medio-9269",
+      "image": "/products/images/0092/9269.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "6896",
+      "title": "SACO DE BLOQUEIO DE PLUGUE ELÉTRICO EXTRA GRANDE 55 X 45CM - TAGOUT SBPEXG",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "SBPEXG",
+      "category": "BLOQUEIO DE PLUGUES E PONTES",
+      "categorySlug": "bloqueio-de-plugues-e-pontes",
+      "path": "/saco-de-bloqueio-de-plugue-eletrico-extra-grande-55-x-45cm--tagout-sbpexg-6896",
+      "image": "/products/images/0068/6896.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "bloqueio-e-etiquetagem--bloqueios-eletricos--bloqueio-de-plugues-e-pontes"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "DEXTER",
+  "parentLabel": "Marca",
+  "description": "Produtos DEXTER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DEXTER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12456",
+      "title": "KIT DE FERRAMENTAS ACO C/MALETA 111PCS",
+      "brand": "DEXTER",
+      "brandCode": "1080",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "000000000089716060",
+      "category": "JOGO DE FERRAMENTAS",
+      "categorySlug": "jogo-de-ferramentas",
+      "path": "/kit-de-ferramentas-aco-cmaleta-111pcs-12456",
+      "image": "/products/images/0124/12456.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1080--dexter"
+  }
+}

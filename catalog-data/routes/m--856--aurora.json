@@ -1,0 +1,53 @@
+{
+  "title": "AURORA",
+  "parentLabel": "Marca",
+  "description": "Produtos AURORA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AURORA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11985",
+      "title": "LEITE PO AURORA 200G INTEG",
+      "brand": "AURORA",
+      "brandCode": "856",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "013390",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/leite-po-aurora-200g-integ-11985",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11023",
+      "title": "PLASTIFICADORA AURORA A4 220V",
+      "brand": "AURORA",
+      "brandCode": "856",
+      "supplier": "MOBPLUS DO BRASIL COMERCIO DE ACESSORIOS E PRODUTOS ELETRONI",
+      "supplierCode": "4342",
+      "manufacturerCode": "LM4205H-2",
+      "category": "PLASTIFICADORAS",
+      "categorySlug": "plastificadoras",
+      "path": "/plastificadora-aurora-a4-220v-11023",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--856--aurora"
+  }
+}

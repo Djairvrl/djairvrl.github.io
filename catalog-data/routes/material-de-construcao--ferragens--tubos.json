@@ -1,0 +1,112 @@
+{
+  "title": "TUBOS",
+  "parentLabel": "Ferragens",
+  "description": "Produtos da categoria tubos em ferragens.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Ferragens",
+      "to": "/material-de-construcao/ferragens"
+    },
+    {
+      "label": "TUBOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10812",
+      "title": "PERFIL U 3 X 1.1/2 CH 3/16 (30.4KG/UN)",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "CASA DOS FERROS LTDA",
+      "supplierCode": "4127",
+      "manufacturerCode": "237",
+      "category": "TUBOS",
+      "categorySlug": "tubos",
+      "path": "/perfil-u-3-x-112-ch-316-304kgun-10812",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "9498",
+      "title": "TUBO GALV. 2 1.90 CH.14 60.30 LS",
+      "brand": "ALUMIFER",
+      "brandCode": "690",
+      "supplier": "ALUMIFER ALUMINIO E FERRO LTDA",
+      "supplierCode": "1461",
+      "manufacturerCode": "930057",
+      "category": "TUBOS",
+      "categorySlug": "tubos",
+      "path": "/tubo-galv-2-190-ch14-6030-ls-9498",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "8951",
+      "title": "TUBO GALVANIZADO PESADO 20X0,50CM",
+      "brand": "MARE MANSA",
+      "brandCode": "634",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "A16005",
+      "category": "TUBOS",
+      "categorySlug": "tubos",
+      "path": "/tubo-galvanizado-pesado-20x050cm-8951",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "8952",
+      "title": "TUBO GALVANIZADO PESADO 40X1M",
+      "brand": "MARE MANSA",
+      "brandCode": "634",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "A3324",
+      "category": "TUBOS",
+      "categorySlug": "tubos",
+      "path": "/tubo-galvanizado-pesado-40x1m-8952",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "4558",
+      "title": "TUBO PAT. 1 1/2\" 1,55MM GA 6000MM",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO CEARENSE INDUSTRIAL LTDA.",
+      "supplierCode": "22",
+      "manufacturerCode": "204424",
+      "category": "TUBOS",
+      "categorySlug": "tubos",
+      "path": "/tubo-pat-1-12-155mm-ga-6000mm-4558",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "material-de-construcao--ferragens--tubos"
+  }
+}

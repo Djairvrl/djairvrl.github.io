@@ -1,0 +1,70 @@
+{
+  "title": "LIMPOL",
+  "parentLabel": "Marca",
+  "description": "Produtos LIMPOL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LIMPOL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13175",
+      "title": "DET LIQ LIMPOL 500ML NEUTRO",
+      "brand": "LIMPOL",
+      "brandCode": "452",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "167672",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/det-liq-limpol-500ml-neutro-13175",
+      "image": "/products/images/0131/13175.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7400",
+      "title": "DETERGENTE LIMPOL NEUTRO 500ML",
+      "brand": "LIMPOL",
+      "brandCode": "452",
+      "supplier": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "supplierCode": "502",
+      "manufacturerCode": "00519",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/detergente-limpol-neutro-500ml-7400",
+      "image": "/products/images/0074/7400.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "9278",
+      "title": "LAVA LOUCA 500ML NEUTRO",
+      "brand": "LIMPOL",
+      "brandCode": "452",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "11240",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/lava-louca-500ml-neutro-9278",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--452--limpol"
+  }
+}

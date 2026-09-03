@@ -1,0 +1,22 @@
+{
+  "title": "Materiais Elétricos",
+  "parentLabel": "Acessórios e Consumíveis",
+  "description": "Soluções de materiais elétricos disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materiais Elétricos"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "acessorios-e-consumiveis--materiais-eletricos"
+  }
+}

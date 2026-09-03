@@ -1,0 +1,44 @@
+{
+  "title": "MEDIDORES DE ESPESSURA",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria medidores de espessura em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "MEDIDORES DE ESPESSURA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11506",
+      "title": "MEDIDOR DE ESPESSURA CTS 59",
+      "brand": "SIUI",
+      "brandCode": "948",
+      "supplier": "INTER-METRO - SERVICOS ESPECIAIS LTDA",
+      "supplierCode": "5016",
+      "manufacturerCode": "CTS-59",
+      "category": "MEDIDORES DE ESPESSURA",
+      "categorySlug": "medidores-de-espessura",
+      "path": "/medidor-de-espessura-cts-59-11506",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--medidores-de-espessura"
+  }
+}

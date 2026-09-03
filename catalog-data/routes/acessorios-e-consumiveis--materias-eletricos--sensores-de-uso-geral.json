@@ -1,0 +1,61 @@
+{
+  "title": "SENSORES DE USO GERAL",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria sensores de uso geral em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "SENSORES DE USO GERAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9931",
+      "title": "SENSOR IVP 1000 PET",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KGMLAN DISTRIBUIDORA LTDA",
+      "supplierCode": "1641",
+      "manufacturerCode": "4541071",
+      "category": "SENSORES DE USO GERAL",
+      "categorySlug": "sensores-de-uso-geral",
+      "path": "/sensor-ivp-1000-pet-9931",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "8954",
+      "title": "SENSOR PRESENCA SOB 100-240V 10M ANGULO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "265871",
+      "category": "SENSORES DE USO GERAL",
+      "categorySlug": "sensores-de-uso-geral",
+      "path": "/sensor-presenca-sob-100240v-10m-angulo-8954",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--sensores-de-uso-geral"
+  }
+}

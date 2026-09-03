@@ -1,0 +1,95 @@
+{
+  "title": "BOLSA RESGATE",
+  "parentLabel": "Resgate e Salvamento",
+  "description": "Produtos da categoria bolsa resgate em resgate e salvamento.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Resgate e Salvamento",
+      "to": "/epis-e-epcs/resgate-e-salvamento"
+    },
+    {
+      "label": "BOLSA RESGATE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11513",
+      "title": "BOLSA DE MACA ENVELOPE",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USM000300000",
+      "category": "BOLSA RESGATE",
+      "categorySlug": "bolsa-resgate",
+      "path": "/bolsa-de-maca-envelope-11513",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "2633",
+      "title": "BOLSA DE RESGATE G C/ 10 ESTOJO COMPLETO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CONSTAMED EQUIPAMENTOS HOSPITALARES E PRODUTOS PARA SAUDE LT",
+      "supplierCode": "1011",
+      "manufacturerCode": "MRGE01",
+      "category": "BOLSA RESGATE",
+      "categorySlug": "bolsa-resgate",
+      "path": "/bolsa-de-resgate-g-c-10-estojo-completo-2633",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7300",
+      "title": "BOLSA P/KIT P.SOCORROS PEQUENA VESTAS",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "0036",
+      "category": "BOLSA RESGATE",
+      "categorySlug": "bolsa-resgate",
+      "path": "/bolsa-pkit-psocorros-pequena-vestas-7300",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "11017",
+      "title": "BOLSA PARA SAFE SCAPE VESTAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "BLS25072025",
+      "category": "BOLSA RESGATE",
+      "categorySlug": "bolsa-resgate",
+      "path": "/bolsa-para-safe-scape-vestas-11017",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "epis-e-epcs--resgate-e-salvamento--bolsa-resgate"
+  }
+}

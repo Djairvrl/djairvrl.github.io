@@ -1,0 +1,36 @@
+{
+  "title": "BIOSSSOLVIT",
+  "parentLabel": "Marca",
+  "description": "Produtos BIOSSSOLVIT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BIOSSSOLVIT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12010",
+      "title": "ABSORVEDOR ORGANICO 10 KG",
+      "brand": "BIOSSSOLVIT",
+      "brandCode": "1019",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B020300000100010",
+      "category": "ABSORVENTES ORGÂNICOS",
+      "categorySlug": "absorventes-organicos",
+      "path": "/absorvedor-organico-10-kg-12010",
+      "image": "/products/images/0120/12010.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1019--biosssolvit"
+  }
+}

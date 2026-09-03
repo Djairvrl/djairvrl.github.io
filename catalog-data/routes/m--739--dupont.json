@@ -1,0 +1,121 @@
+{
+  "title": "DUPONT",
+  "parentLabel": "Marca",
+  "description": "Produtos DUPONT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DUPONT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9989",
+      "title": "MACACAO PRO SHIELD 20FR BRANC XL CA41259",
+      "brand": "DUPONT",
+      "brandCode": "739",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "1",
+      "category": "MACACÕES",
+      "categorySlug": "macacoes",
+      "path": "/macacao-pro-shield-20fr-branc-xl-ca41259-9989",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "13399",
+      "title": "MACACAO PROSHIELD 50 DUPONT 2XG",
+      "brand": "DUPONT",
+      "brandCode": "739",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "D15527099 - 2XG",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/macacao-proshield-50-dupont-2xg-13399",
+      "image": "/products/images/0133/13399.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "13396",
+      "title": "MACACAO PROSHIELD 50 DUPONT 3XG",
+      "brand": "DUPONT",
+      "brandCode": "739",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "D15527111 - 3XG",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/macacao-proshield-50-dupont-3xg-13396",
+      "image": "/products/images/0133/13396.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "13400",
+      "title": "MACACAO PROSHIELD 50 DUPONT G",
+      "brand": "DUPONT",
+      "brandCode": "739",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "D15527097 - G",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/macacao-proshield-50-dupont-g-13400",
+      "image": "/products/images/0134/13400.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "13401",
+      "title": "MACACAO PROSHIELD 50 DUPONT M",
+      "brand": "DUPONT",
+      "brandCode": "739",
+      "supplier": "PROTMAX-ACV COMERCIO DE EQUIPAMENTOS PARA SEGURANCA LTDA",
+      "supplierCode": "1788",
+      "manufacturerCode": "D15527096 - M",
+      "category": "VESTIMENTAS OPERACIONAIS",
+      "categorySlug": "vestimentas-operacionais",
+      "path": "/macacao-proshield-50-dupont-m-13401",
+      "image": "/products/images/0134/13401.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "9988",
+      "title": "MACACAO TAM. G BRANCO C/CAPUZ F1CHF5",
+      "brand": "DUPONT",
+      "brandCode": "739",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "1176768",
+      "category": "MACACÕES",
+      "categorySlug": "macacoes",
+      "path": "/macacao-tam-g-branco-ccapuz-f1chf5-9988",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--739--dupont"
+  }
+}

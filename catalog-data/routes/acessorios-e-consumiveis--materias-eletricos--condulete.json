@@ -1,0 +1,112 @@
+{
+  "title": "CONDULETE",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria condulete em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "CONDULETE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12392",
+      "title": "CAIXA MULTIPLA X 1 S/TAMPA 56200/023",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "16661",
+      "category": "CONDULETE",
+      "categorySlug": "condulete",
+      "path": "/caixa-multipla-x-1-stampa-56200023-12392",
+      "image": "/products/images/0123/12392.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12080",
+      "title": "PLACA P/CONDULETE CEGA 1\" 56114/007",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "5363",
+      "category": "CONDULETE",
+      "categorySlug": "condulete",
+      "path": "/placa-pcondulete-cega-1-56114007-12080",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "10184",
+      "title": "TAMPA CONDUL ALUM 3/4 P/2 POSTOS JUNTOS",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "SANTIL COMERCIAL ELETRICA LTDA",
+      "supplierCode": "1877",
+      "manufacturerCode": "0039569",
+      "category": "CONDULETE",
+      "categorySlug": "condulete",
+      "path": "/tampa-condul-alum-34-p2-postos-juntos-10184",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12391",
+      "title": "TAMPA P/CONDULETE S/ACES.CEGA 1\" ESCOV",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "6740",
+      "category": "CONDULETE",
+      "categorySlug": "condulete",
+      "path": "/tampa-pcondulete-sacescega-1-escov-12391",
+      "image": "/products/images/0123/12391.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12395",
+      "title": "TAMPAO P/CONDULETE MULTIPLO 1",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "32516",
+      "category": "CONDULETE",
+      "categorySlug": "condulete",
+      "path": "/tampao-pcondulete-multiplo-1-12395",
+      "image": "/products/images/0123/12395.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--condulete"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "UNICASERV",
+  "parentLabel": "Marca",
+  "description": "Produtos UNICASERV disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "UNICASERV"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11292",
+      "title": "ALCA PRE-FORMADA P/ CABO CCE 6,8 - 7,4MM",
+      "brand": "UNICASERV",
+      "brandCode": "918",
+      "supplier": "UNICASERV- COMERCIO, DISTRIBUICAO, IMPORTACAO E EXPORTACAO",
+      "supplierCode": "4744",
+      "manufacturerCode": "AAF6874",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/alca-preformada-p-cabo-cce-68--74mm-11292",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--918--unicaserv"
+  }
+}

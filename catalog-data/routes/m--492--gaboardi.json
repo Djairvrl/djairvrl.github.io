@@ -1,0 +1,36 @@
+{
+  "title": "GABOARDI",
+  "parentLabel": "Marca",
+  "description": "Produtos GABOARDI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GABOARDI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7518",
+      "title": "PALITOS P/DENTES GABOARDI",
+      "brand": "GABOARDI",
+      "brandCode": "492",
+      "supplier": "DISTRIBUIDORA DE ALIMENTOS E BEBIDAS MATOS LTDA.",
+      "supplierCode": "1231",
+      "manufacturerCode": "0000000776",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/palitos-pdentes-gaboardi-7518",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--492--gaboardi"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "BOMBAS DE TRANSFERÊNCIA",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria bombas de transferência em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "BOMBAS DE TRANSFERÊNCIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13153",
+      "title": "BOMBA ABASTECIMENTO OLEO DIESEL 12V 50L",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1488",
+      "manufacturerCode": "102057610",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/bomba-abastecimento-oleo-diesel-12v-50l-13153",
+      "image": "/products/images/0131/13153.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "6966",
+      "title": "BOMBA MANUAL C/ TUBO TELESCOP P ATE 200L",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "7022TG2",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/bomba-manual-c-tubo-telescop-p-ate-200l-6966",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "4148",
+      "title": "BOMBA MANUAL P/ RETIRAR OLEO MOTO DM-110",
+      "brand": "DM FERRAMENTAS",
+      "brandCode": "214",
+      "supplier": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "supplierCode": "727",
+      "manufacturerCode": "7895097917095",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/bomba-manual-p-retirar-oleo-moto-dm110-4148",
+      "image": "/products/images/0041/4148.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "1791",
+      "title": "BOMBA RÁPIDA PARA LÍQUIDOS 1/2\" X 1,60M - NOLL 268,0001",
+      "brand": "NOLL",
+      "brandCode": "178",
+      "supplier": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "790",
+      "manufacturerCode": "268,0001",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/bomba-rapida-para-liquidos-12-x-160m--noll-2680001-1791",
+      "image": "/products/images/0017/1791.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "2334",
+      "title": "BOMBA SUBMERSA PARA DIESEL E ÁGUA 12V 68W 20/MIN - BREMEN 7680",
+      "brand": "BREMEN",
+      "brandCode": "176",
+      "supplier": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "supplierCode": "521",
+      "manufacturerCode": "7680",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/bomba-submersa-para-diesel-e-agua-12v-68w-20min--bremen-7680-2334",
+      "image": "/products/images/0023/2334.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "12884",
+      "title": "CJ BOMBA ELET 12V 40LPM MAC 13 C/FILTRO",
+      "brand": "MACLUB",
+      "brandCode": "1150",
+      "supplier": "MAC LUB INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "2524",
+      "manufacturerCode": "ML00133000",
+      "category": "BOMBAS DE TRANSFERÊNCIA",
+      "categorySlug": "bombas-de-transferencia",
+      "path": "/cj-bomba-elet-12v-40lpm-mac-13-cfiltro-12884",
+      "image": "/products/images/0128/12884.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--bombas-de-transferencia"
+  }
+}

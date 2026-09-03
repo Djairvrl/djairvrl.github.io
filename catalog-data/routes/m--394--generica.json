@@ -1,0 +1,53 @@
+{
+  "title": "GENERICA",
+  "parentLabel": "Marca",
+  "description": "Produtos GENERICA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GENERICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6531",
+      "title": "CORTADORES DE EXXTREMIDADE DE 6\" E 8\"",
+      "brand": "GENERICA",
+      "brandCode": "394",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "54",
+      "category": "CORTADOR",
+      "categorySlug": "cortador",
+      "path": "/cortadores-de-exxtremidade-de-6-e-8-6531",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "8487",
+      "title": "TRIPE UNIVERSAL ALUMINIO 1,10M",
+      "brand": "GENERICA",
+      "brandCode": "394",
+      "supplier": "MARTA BABICHAK RODRIGUES CORREIA COMERCIO ELETRONICO",
+      "supplierCode": "2115",
+      "manufacturerCode": "MLB1787215062",
+      "category": "TRIPÉ PARA RESGATE",
+      "categorySlug": "tripe-para-resgate",
+      "path": "/tripe-universal-aluminio-110m-8487",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Espaço Confinado",
+      "sectionSlug": "espaco-confinado"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--394--generica"
+  }
+}

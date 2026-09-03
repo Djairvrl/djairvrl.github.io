@@ -1,0 +1,70 @@
+{
+  "title": "GP RACKS",
+  "parentLabel": "Marca",
+  "description": "Produtos GP RACKS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GP RACKS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13288",
+      "title": "LATERAL LISA P/ RACK 42USX1100MM PROF",
+      "brand": "GP RACKS",
+      "brandCode": "1220",
+      "supplier": "TELCABOS TELECOMUNICACOES E INFORMATICA LTDA",
+      "supplierCode": "6211",
+      "manufacturerCode": "12281",
+      "category": "ACESSÓRIO",
+      "categorySlug": "acessorio",
+      "path": "/lateral-lisa-p-rack-42usx1100mm-prof-13288",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13278",
+      "title": "MINI RACK 12UX600X600 PROF. COM 1 BANDEJ",
+      "brand": "GP RACKS",
+      "brandCode": "1220",
+      "supplier": "TELCABOS TELECOMUNICACOES E INFORMATICA LTDA",
+      "supplierCode": "6211",
+      "manufacturerCode": "11002",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/mini-rack-12ux600x600-prof-com-1-bandej-13278",
+      "image": "/products/images/0132/13278.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "13280",
+      "title": "RACK SERVER 42X800X1100 PORTAS PERF",
+      "brand": "GP RACKS",
+      "brandCode": "1220",
+      "supplier": "TELCABOS TELECOMUNICACOES E INFORMATICA LTDA",
+      "supplierCode": "6211",
+      "manufacturerCode": "11804",
+      "category": "DATACENTERS",
+      "categorySlug": "datacenters",
+      "path": "/rack-server-42x800x1100-portas-perf-13280",
+      "image": "/products/images/0132/13280.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1220--gp-racks"
+  }
+}

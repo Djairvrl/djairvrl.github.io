@@ -1,0 +1,53 @@
+{
+  "title": "GROUPTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos GROUPTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GROUPTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13050",
+      "title": "ETIQ ADESIVA REDONDA VERM REPROV 1000UN",
+      "brand": "GROUPTEC",
+      "brandCode": "1174",
+      "supplier": "GROUPTEC INFORMATICA LTDA",
+      "supplierCode": "6059",
+      "manufacturerCode": "REPROVRED1000",
+      "category": "ETIQUETAS PERSONALIZADAS",
+      "categorySlug": "etiquetas-personalizadas",
+      "path": "/etiq-adesiva-redonda-verm-reprov-1000un-13050",
+      "image": "/products/images/0130/13050.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "13049",
+      "title": "ETIQ ADESIVAS REDONDA VERDE APROV 1000UN",
+      "brand": "GROUPTEC",
+      "brandCode": "1174",
+      "supplier": "GROUPTEC INFORMATICA LTDA",
+      "supplierCode": "6059",
+      "manufacturerCode": "APROVGRE1000",
+      "category": "ETIQUETAS PERSONALIZADAS",
+      "categorySlug": "etiquetas-personalizadas",
+      "path": "/etiq-adesivas-redonda-verde-aprov-1000un-13049",
+      "image": "/products/images/0130/13049.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1174--grouptec"
+  }
+}

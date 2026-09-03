@@ -1,0 +1,36 @@
+{
+  "title": "CANMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos CANMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CANMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9191",
+      "title": "PULSEIRA ANTI-ESTATICA AZUL CANMAX-1902",
+      "brand": "CANMAX",
+      "brandCode": "654",
+      "supplier": "COMERCIAL ELETRONICA WILANG LTDA",
+      "supplierCode": "2432",
+      "manufacturerCode": "0000000009161",
+      "category": "MANUTENÇÃO TÉCNICA DE INFORMÁTICA",
+      "categorySlug": "manutencao-tecnica-de-informatica",
+      "path": "/pulseira-antiestatica-azul-canmax1902-9191",
+      "image": "/products/images/0091/9191.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--654--canmax"
+  }
+}

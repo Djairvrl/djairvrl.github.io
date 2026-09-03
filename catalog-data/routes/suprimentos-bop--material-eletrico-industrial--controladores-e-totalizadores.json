@@ -1,0 +1,78 @@
+{
+  "title": "CONTROLADORES E TOTALIZADORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria controladores e totalizadores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CONTROLADORES E TOTALIZADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8133",
+      "title": "CONTROLADOR CARGA MPPT 20A 12/24V",
+      "brand": "EPEVER",
+      "brandCode": "567",
+      "supplier": "NEOSOLAR ENERGIA LTDA",
+      "supplierCode": "1954",
+      "manufacturerCode": "20139",
+      "category": "CONTROLADORES E TOTALIZADORES",
+      "categorySlug": "controladores-e-totalizadores",
+      "path": "/controlador-carga-mppt-20a-1224v-8133",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9640",
+      "title": "CONTROLADOR TEMPERAT PT100 LFS 937115000",
+      "brand": "EUROTHERM",
+      "brandCode": "705",
+      "supplier": "EUROTHERM LTDA",
+      "supplierCode": "2654",
+      "manufacturerCode": "P11 600.000.000",
+      "category": "CONTROLADORES E TOTALIZADORES",
+      "categorySlug": "controladores-e-totalizadores",
+      "path": "/controlador-temperat-pt100-lfs-937115000-9640",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11082",
+      "title": "HORIMETRO DIG CP48-301 N-U 24-240VCA/VCC",
+      "brand": "VISUS",
+      "brandCode": "873",
+      "supplier": "MEGA LUX COMERCIO E SERVICOS DE MATERIAIS ELETRICOS",
+      "supplierCode": "4452",
+      "manufacturerCode": "35400",
+      "category": "CONTROLADORES E TOTALIZADORES",
+      "categorySlug": "controladores-e-totalizadores",
+      "path": "/horimetro-dig-cp48301-nu-24240vcavcc-11082",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--controladores-e-totalizadores"
+  }
+}

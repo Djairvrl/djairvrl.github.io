@@ -1,0 +1,36 @@
+{
+  "title": "TRIFLEX",
+  "parentLabel": "Marca",
+  "description": "Produtos TRIFLEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TRIFLEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10943",
+      "title": "CENTRAL COMANDO TRIF FACILITY BIV. 60HZ",
+      "brand": "TRIFLEX",
+      "brandCode": "835",
+      "supplier": "MEG ATACADO & VAREJO LTDA",
+      "supplierCode": "3097",
+      "manufacturerCode": "A22102",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/central-comando-trif-facility-biv-60hz-10943",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informatica E Eletronicos",
+      "sectionSlug": "informatica-e-eletronicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--835--triflex"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "MANGUEIRAS",
+  "parentLabel": "Ferramentas de Jardinagem",
+  "description": "Produtos da categoria mangueiras em ferramentas de jardinagem.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas de Jardinagem",
+      "to": "/ferramentas/ferramentas-de-jardinagem"
+    },
+    {
+      "label": "MANGUEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11438",
+      "title": "MANGUEIRA CRISTAL(S) 1\" X 1,5MM",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "80.12.011.500",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-cristals-1-x-15mm-11438",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "6605",
+      "title": "MANGUEIRA DE JARDIM TRANCADA 50M",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "31.21.050.000",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-de-jardim-trancada-50m-6605",
+      "image": "/products/images/0066/6605.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "9221",
+      "title": "MANGUEIRA PRETA 3/4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "1518",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-preta-34-9221",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "5547",
+      "title": "MANGUEIRA PVC 300PSI 1/4\"",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "50120005",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-pvc-300psi-14-5547",
+      "image": "/products/images/0055/5547.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "5548",
+      "title": "MANGUEIRA PVC 300PSI 3/8\"  AR COMPRIMIDO REFORÇADA - ARPREX 50120007",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "supplierCode": "1060",
+      "manufacturerCode": "50120007",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/mangueira-pvc-300psi-38-ar-comprimido-reforcada--arprex-50120007-5548",
+      "image": "/products/images/0055/5548.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--ferramentas-de-jardinagem--mangueiras"
+  }
+}

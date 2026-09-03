@@ -1,0 +1,112 @@
+{
+  "title": "MEDIDORES DE VELOCIDADES",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria medidores de velocidades em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "MEDIDORES DE VELOCIDADES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11406",
+      "title": "BUSHNELL VELOCITY GUN MOD 101911 - HPP",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "H. P. P. DOS SANTOS",
+      "supplierCode": "1299",
+      "manufacturerCode": "2000000000014",
+      "category": "MEDIDORES DE VELOCIDADES",
+      "categorySlug": "medidores-de-velocidades",
+      "path": "/bushnell-velocity-gun-mod-101911--hpp-11406",
+      "image": "/products/images/0114/11406.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "6711",
+      "title": "RADAR BUSHNELL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "H. P. P. DOS SANTOS",
+      "supplierCode": "1299",
+      "manufacturerCode": "10-1911",
+      "category": "MEDIDORES DE VELOCIDADES",
+      "categorySlug": "medidores-de-velocidades",
+      "path": "/radar-bushnell-6711",
+      "image": "/products/images/0067/6711.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9967",
+      "title": "RADAR DE VELOCIDADE BUSHNELL MOD 10-1911",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ENEQUIPA EQUIPAMENTOS DE PROTECAO",
+      "supplierCode": "2820",
+      "manufacturerCode": "02868",
+      "category": "MEDIDORES DE VELOCIDADES",
+      "categorySlug": "medidores-de-velocidades",
+      "path": "/radar-de-velocidade-bushnell-mod-101911-9967",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11153",
+      "title": "TACOMETRO DIGITAL 85MM 12/24V 3500RPM",
+      "brand": "TERRAMAR",
+      "brandCode": "897",
+      "supplier": "TERRA MAR INSTRUMENTOS LTDA",
+      "supplierCode": "4621",
+      "manufacturerCode": "100112/100",
+      "category": "MEDIDORES DE VELOCIDADES",
+      "categorySlug": "medidores-de-velocidades",
+      "path": "/tacometro-digital-85mm-1224v-3500rpm-11153",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11070",
+      "title": "TACOMETRO FLUKE-931",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4971751",
+      "category": "MEDIDORES DE VELOCIDADES",
+      "categorySlug": "medidores-de-velocidades",
+      "path": "/tacometro-fluke931-11070",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--medidores-de-velocidades"
+  }
+}

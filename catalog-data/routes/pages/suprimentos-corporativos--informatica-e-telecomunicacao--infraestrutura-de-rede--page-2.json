@@ -1,0 +1,22 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "8181",
+      "title": "VIDEO WALL 2X2 4K 4 TELAS HDMI",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JW MONTE BAZAR LTDA",
+      "supplierCode": "1968",
+      "manufacturerCode": "HDMI 2X2",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/video-wall-2x2-4k-4-telas-hdmi-8181",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ]
+}

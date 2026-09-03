@@ -1,0 +1,44 @@
+{
+  "title": "OCULOS DE PROTEÇÃO",
+  "parentLabel": "Proteção Da Face",
+  "description": "Produtos da categoria oculos de proteção em proteção da face.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Proteção Da Face",
+      "to": "/epis-e-epcs/protecao-da-face"
+    },
+    {
+      "label": "OCULOS DE PROTEÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10669",
+      "title": "OCULOS KRONOS LENTE CINZA CA 49319",
+      "brand": "KALIPSO",
+      "brandCode": "11",
+      "supplier": "KALIPSO EQUIPAMENTOS INDIVIDUAIS DE PROTECAO LTDA",
+      "supplierCode": "1728",
+      "manufacturerCode": "01.26.2.2",
+      "category": "OCULOS DE PROTEÇÃO",
+      "categorySlug": "oculos-de-protecao",
+      "path": "/oculos-kronos-lente-cinza-ca-49319-10669",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Face",
+      "sectionSlug": "protecao-da-face"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--protecao-da-face--oculos-de-protecao"
+  }
+}

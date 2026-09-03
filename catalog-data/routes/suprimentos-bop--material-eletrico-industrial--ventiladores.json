@@ -1,0 +1,44 @@
+{
+  "title": "VENTILADORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria ventiladores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "VENTILADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10192",
+      "title": "COOLER FAN MOTOR (50HZ ST)",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "INTERLAGOS MOTORES LTDA",
+      "supplierCode": "3277",
+      "manufacturerCode": "103097090",
+      "category": "VENTILADORES",
+      "categorySlug": "ventiladores",
+      "path": "/cooler-fan-motor-50hz-st-10192",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--ventiladores"
+  }
+}

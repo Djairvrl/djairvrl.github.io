@@ -1,0 +1,61 @@
+{
+  "title": "FITA",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria fita em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "FITA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9869",
+      "title": "FITA ANEL COM OLHAL 120CM VERMELHA ULTRA SAFE REF USA0120000VM",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USA0120000VM",
+      "category": "FITA",
+      "categorySlug": "fita",
+      "path": "/fita-anel-com-olhal-120cm-vermelha-ultra-safe-ref-usa0120000vm-9869",
+      "image": "/products/images/0098/9869.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "9868",
+      "title": "FITA ANEL COM OLHAL 80CM AZUL ULTRA SAFE REF USA0080000AZ",
+      "brand": "ULTRA SAFE",
+      "brandCode": "128",
+      "supplier": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "supplierCode": "895",
+      "manufacturerCode": "USA0080000AZ",
+      "category": "FITA",
+      "categorySlug": "fita",
+      "path": "/fita-anel-com-olhal-80cm-azul-ultra-safe-ref-usa0080000az-9868",
+      "image": "/products/images/0098/9868.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--fita"
+  }
+}

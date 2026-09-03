@@ -1,0 +1,70 @@
+{
+  "title": "JATICLEAN",
+  "parentLabel": "Marca",
+  "description": "Produtos JATICLEAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JATICLEAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7699",
+      "title": "LIXEIRA ACO INOX 430 C PEDAL 45X90 150LT",
+      "brand": "JATICLEAN",
+      "brandCode": "526",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-018",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-aco-inox-430-c-pedal-45x90-150lt-7699",
+      "image": "/products/images/0076/7699.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7701",
+      "title": "LIXEIRA C TAMPA PED 30X60 ACO INOX 50LT",
+      "brand": "JATICLEAN",
+      "brandCode": "526",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-008",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-c-tampa-ped-30x60-aco-inox-50lt-7701",
+      "image": "/products/images/0077/7701.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7700",
+      "title": "LIXEIRA C TAMPA PED 40X80 ACO-INOX 100LT",
+      "brand": "JATICLEAN",
+      "brandCode": "526",
+      "supplier": "JATICLEAN INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1601",
+      "manufacturerCode": "LP-014",
+      "category": "LIXEIRAS",
+      "categorySlug": "lixeiras",
+      "path": "/lixeira-c-tampa-ped-40x80-acoinox-100lt-7700",
+      "image": "/products/images/0077/7700.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--526--jaticlean"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "ALLPROT",
+  "parentLabel": "Marca",
+  "description": "Produtos ALLPROT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALLPROT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11018",
+      "title": "MASCARA PFF2 COM VAVULA COR AZUL",
+      "brand": "ALLPROT",
+      "brandCode": "853",
+      "supplier": "ALLPROT MATERIAIS DE SEGURANCA LTDA",
+      "supplierCode": "4336",
+      "manufacturerCode": "PRD00087",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/mascara-pff2-com-vavula-cor-azul-11018",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "11022",
+      "title": "MASCARA PFF2 SEM VALVULA COR AZUL",
+      "brand": "ALLPROT",
+      "brandCode": "853",
+      "supplier": "ALLPROT MATERIAIS DE SEGURANCA LTDA",
+      "supplierCode": "4336",
+      "manufacturerCode": "PRD00053",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/mascara-pff2-sem-valvula-cor-azul-11022",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--853--allprot"
+  }
+}

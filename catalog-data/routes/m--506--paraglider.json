@@ -1,0 +1,36 @@
+{
+  "title": "PARAGLIDER",
+  "parentLabel": "Marca",
+  "description": "Produtos PARAGLIDER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PARAGLIDER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7574",
+      "title": "ANEMOMETRO DIGITAL PORTATIL KITE DRONE",
+      "brand": "PARAGLIDER",
+      "brandCode": "506",
+      "supplier": "RPC - COMMERCE MANUTENCAO DE COMPUTADORES LTDA",
+      "supplierCode": "1701",
+      "manufacturerCode": "2904",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-digital-portatil-kite-drone-7574",
+      "image": "/products/images/0075/7574.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--506--paraglider"
+  }
+}

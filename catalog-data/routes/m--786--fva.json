@@ -1,0 +1,36 @@
+{
+  "title": "FVA",
+  "parentLabel": "Marca",
+  "description": "Produtos FVA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FVA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10608",
+      "title": "ADAPTADOR IMPACTO 1/2X1 SOQUETE FV",
+      "brand": "FVA",
+      "brandCode": "786",
+      "supplier": "FVA MATERIAL DE BORRACHARIA LTDA",
+      "supplierCode": "3852",
+      "manufacturerCode": "AF121",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-impacto-12x1-soquete-fv-10608",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--786--fva"
+  }
+}

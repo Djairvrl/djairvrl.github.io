@@ -1,0 +1,53 @@
+{
+  "title": "OEX",
+  "parentLabel": "Marca",
+  "description": "Produtos OEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6578",
+      "title": "ADAPTADOR DE TOMADA UNIVERSAL CP100 1500W BIVOLT - OEX 43515",
+      "brand": "OEX",
+      "brandCode": "299",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "43515",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/adaptador-de-tomada-universal-cp100-1500w-bivolt--oex-43515-6578",
+      "image": "/products/images/0065/6578.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12929",
+      "title": "CAIXA DE SOM 8W RMS USB SK100",
+      "brand": "OEX",
+      "brandCode": "299",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "43952",
+      "category": "CAIXAS DE SOM",
+      "categorySlug": "caixas-de-som",
+      "path": "/caixa-de-som-8w-rms-usb-sk100-12929",
+      "image": "/products/images/0129/12929.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--299--oex"
+  }
+}

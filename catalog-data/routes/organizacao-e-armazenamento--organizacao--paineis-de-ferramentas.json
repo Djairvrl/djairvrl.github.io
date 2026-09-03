@@ -1,0 +1,163 @@
+{
+  "title": "PAINÉIS DE FERRAMENTAS",
+  "parentLabel": "Organização",
+  "description": "Produtos da categoria painéis de ferramentas em organização.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Organização",
+      "to": "/organizacao-e-armazenamento/organizacao"
+    },
+    {
+      "label": "PAINÉIS DE FERRAMENTAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9617",
+      "title": "GANCHO CURVO/DUPLO P PAINEL PORTA FERRAM",
+      "brand": "NOVE54",
+      "brandCode": "222",
+      "supplier": "FERRAMENTAS GERAIS COMERCIO IMP DE FERRAM E MAQUINAS  LTDA",
+      "supplierCode": "806",
+      "manufacturerCode": "1089034",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/gancho-curvoduplo-p-painel-porta-ferram-9617",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "10256",
+      "title": "PAINEL P/FERRAMENTAS SUPERIOR C/2 PORTAS",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953205",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-pferramentas-superior-c2-portas-10256",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6496",
+      "title": "PAINEL PARA FERRAMENTAS 1 PORTA",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953016",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-para-ferramentas-1-porta-6496",
+      "image": "/products/images/0064/6496.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "9610",
+      "title": "PAINEL PARA FERRAMENTAS 970 X 640MM PRESTO REF 40402",
+      "brand": "PRESTO",
+      "brandCode": "46",
+      "supplier": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "supplierCode": "83",
+      "manufacturerCode": "40402",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-para-ferramentas-970-x-640mm-presto-ref-40402-9610",
+      "image": "/products/images/0096/9610.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "5942",
+      "title": "PAINEL PARA FERRAMENTAS COM CORTINA PVC - GEDORE REF R1501",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "001126",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-para-ferramentas-com-cortina-pvc--gedore-ref-r1501-5942",
+      "image": "/products/images/0059/5942.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "6280",
+      "title": "PAINEL PERFURADO PARA FERRAMENTAS",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953009",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-perfurado-para-ferramentas-6280",
+      "image": "/products/images/0062/6280.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "7684",
+      "title": "PAINEL PERFURADO PARA FERRAMENTAS",
+      "brand": "TRAMONTINA PRO",
+      "brandCode": "246",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "44953/009",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/painel-perfurado-para-ferramentas-7684",
+      "image": "/products/images/0076/7684.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    },
+    {
+      "code": "11820",
+      "title": "SUPORTE GRANDE PARA FERRAMENTAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AM FERRAMENTAS INDUSTRIA E COMERCIO DE FERRAMENTAS ESPECIAIS",
+      "supplierCode": "5318",
+      "manufacturerCode": "AM144",
+      "category": "PAINÉIS DE FERRAMENTAS",
+      "categorySlug": "paineis-de-ferramentas",
+      "path": "/suporte-grande-para-ferramentas-11820",
+      "image": "/products/images/0118/11820.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "organizacao-e-armazenamento--organizacao--paineis-de-ferramentas"
+  }
+}

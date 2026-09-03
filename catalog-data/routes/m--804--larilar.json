@@ -1,0 +1,36 @@
+{
+  "title": "LARILAR",
+  "parentLabel": "Marca",
+  "description": "Produtos LARILAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LARILAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10718",
+      "title": "KIT C/6 BICOS PLASTICO PARA GALOES 20L",
+      "brand": "LARILAR",
+      "brandCode": "804",
+      "supplier": "JANAINA R. BELLO",
+      "supplierCode": "4024",
+      "manufacturerCode": "BICO",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/kit-c6-bicos-plastico-para-galoes-20l-10718",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--804--larilar"
+  }
+}

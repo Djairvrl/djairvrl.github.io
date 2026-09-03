@@ -1,0 +1,22 @@
+{
+  "title": "Motores, Motobombas e Compressores",
+  "parentLabel": "Máquinas e Acessórios",
+  "description": "Soluções de motores, motobombas e compressores disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Motores, Motobombas e Compressores"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "maquinas-e-acessorios--motores-motobombas-e-compressores"
+  }
+}

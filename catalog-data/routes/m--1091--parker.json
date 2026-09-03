@@ -1,0 +1,36 @@
+{
+  "title": "PARKER",
+  "parentLabel": "Marca",
+  "description": "Produtos PARKER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PARKER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12546",
+      "title": "VALVULA C1600S 1'NPTF ACO",
+      "brand": "PARKER",
+      "brandCode": "1091",
+      "supplier": "HMC HYDRAULICS LTDA",
+      "supplierCode": "5769",
+      "manufacturerCode": "00050010203",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/valvula-c1600s-1nptf-aco-12546",
+      "image": "/products/images/0125/12546.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1091--parker"
+  }
+}

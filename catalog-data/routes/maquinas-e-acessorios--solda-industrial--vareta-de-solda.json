@@ -1,0 +1,163 @@
+{
+  "title": "VARETA DE SOLDA",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria vareta de solda em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "VARETA DE SOLDA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13284",
+      "title": "VARETA ACO CARBONO 70S3 - 5KG",
+      "brand": "H SOLDAS",
+      "brandCode": "1221",
+      "supplier": "METALURGICA METAL QUALITY LTDA",
+      "supplierCode": "6217",
+      "manufacturerCode": "2068374410700",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-aco-carbono-70s3--5kg-13284",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11978",
+      "title": "VARETA DE FERRO COBREADO 1,59MM PARA SOL",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "7472159000",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-de-ferro-cobreado-159mm-para-sol-11978",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11271",
+      "title": "VARETA DE LATAO PARA SOLDA 1,6MM",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "7454116000",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-de-latao-para-solda-16mm-11271",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "9193",
+      "title": "VARETA SALVA CHIP SOLDA BX FUSAO TUBETE",
+      "brand": "PCI",
+      "brandCode": "655",
+      "supplier": "TAPCAMP COMERCIO VAREJISTA DE LUBRIFICANTES LTDA",
+      "supplierCode": "1655",
+      "manufacturerCode": "SOF001",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-salva-chip-solda-bx-fusao-tubete-9193",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "13346",
+      "title": "VARETA SOL TIG ER70S3 3,2MM ACO CARB 5KG",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "13346",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-sol-tig-er70s3-32mm-aco-carb-5kg-13346",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11266",
+      "title": "VARETA SOLDA 3,2MM SAE1045 C/REV",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "7419126032",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-solda-32mm-sae1045-crev-11266",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "12644",
+      "title": "VARETA SOLDA SILFOSCOPER GRAVAD 2.50X500",
+      "brand": "WELDQUALITY",
+      "brandCode": "1105",
+      "supplier": "WELD QUALITY SOLDAS E SUPRIMENTOS INDUSTRIAIS LTDA",
+      "supplierCode": "5821",
+      "manufacturerCode": "10.03.0011",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-solda-silfoscoper-gravad-250x500-12644",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "13254",
+      "title": "VARETA SOLDA TIG ER70S3 3,2MM ACO CARB",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "7419032703",
+      "category": "VARETA DE SOLDA",
+      "categorySlug": "vareta-de-solda",
+      "path": "/vareta-solda-tig-er70s3-32mm-aco-carb-13254",
+      "image": "/products/images/0132/13254.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--vareta-de-solda"
+  }
+}

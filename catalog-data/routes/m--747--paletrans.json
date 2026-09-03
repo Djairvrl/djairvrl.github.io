@@ -1,0 +1,70 @@
+{
+  "title": "PALETRANS",
+  "parentLabel": "Marca",
+  "description": "Produtos PALETRANS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PALETRANS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10060",
+      "title": "BATERIA TRACIONARIA 24V X 324AH PT16",
+      "brand": "PALETRANS",
+      "brandCode": "747",
+      "supplier": "PALETRANS EQUIPAMENTOS LTDA",
+      "supplierCode": "2978",
+      "manufacturerCode": "0426418",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/bateria-tracionaria-24v-x-324ah-pt16-10060",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10061",
+      "title": "CARREGADOR BAT TRACIONARIA 24V 60AH 220V",
+      "brand": "PALETRANS",
+      "brandCode": "747",
+      "supplier": "PALETRANS EQUIPAMENTOS LTDA",
+      "supplierCode": "2978",
+      "manufacturerCode": "0426402",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-bat-tracionaria-24v-60ah-220v-10061",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10059",
+      "title": "EMPILHADEIRA ELÉTRICA PATOLADA PT1635  PALETRANS  REF 0203404",
+      "brand": "PALETRANS",
+      "brandCode": "747",
+      "supplier": "PALETRANS EQUIPAMENTOS LTDA",
+      "supplierCode": "2978",
+      "manufacturerCode": "0203404",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/empilhadeira-eletrica-patolada-pt1635-paletrans-ref-0203404-10059",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--747--paletrans"
+  }
+}

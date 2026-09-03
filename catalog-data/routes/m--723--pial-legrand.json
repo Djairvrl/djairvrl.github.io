@@ -1,0 +1,36 @@
+{
+  "title": "PIAL LEGRAND",
+  "parentLabel": "Marca",
+  "description": "Produtos PIAL LEGRAND disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PIAL LEGRAND"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9790",
+      "title": "INTERRUPTOR PRED 4X2\" 2 TECLAS 250V 10A",
+      "brand": "PIAL LEGRAND",
+      "brandCode": "723",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "2100",
+      "category": "INTERRUPTORES RESIDENCIAIS",
+      "categorySlug": "interruptores-residenciais",
+      "path": "/interruptor-pred-4x2-2-teclas-250v-10a-9790",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--723--pial-legrand"
+  }
+}

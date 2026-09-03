@@ -1,0 +1,61 @@
+{
+  "title": "BLOQUEIO DE BOTÕES E FUSÍVEIS",
+  "parentLabel": "Bloqueios Elétricos",
+  "description": "Produtos da categoria bloqueio de botões e fusíveis em bloqueios elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Bloqueios Elétricos",
+      "to": "/bloqueio-e-etiquetagem/bloqueios-eletricos"
+    },
+    {
+      "label": "BLOQUEIO DE BOTÕES E FUSÍVEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9388",
+      "title": "BLOQUEIO BOTAO COGUMELO EMERG FURO 33MM",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "BBE",
+      "category": "BLOQUEIO DE BOTÕES E FUSÍVEIS",
+      "categorySlug": "bloqueio-de-botoes-e-fusiveis",
+      "path": "/bloqueio-botao-cogumelo-emerg-furo-33mm-9388",
+      "image": "/products/images/0093/9388.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "6689",
+      "title": "CAIXA PROT ACRILICA BOTOEIRA PRETO 2MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ACRILART LTDA",
+      "supplierCode": "1294",
+      "manufacturerCode": "394487",
+      "category": "BLOQUEIO DE BOTÕES E FUSÍVEIS",
+      "categorySlug": "bloqueio-de-botoes-e-fusiveis",
+      "path": "/caixa-prot-acrilica-botoeira-preto-2mm-6689",
+      "image": "/products/images/0066/6689.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "bloqueio-e-etiquetagem--bloqueios-eletricos--bloqueio-de-botoes-e-fusiveis"
+  }
+}

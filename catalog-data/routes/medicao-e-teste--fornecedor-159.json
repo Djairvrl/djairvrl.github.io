@@ -1,0 +1,632 @@
+{
+  "title": "Medição e Teste",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FLUKE DO BRASIL LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste"
+    }
+  ],
+  "children": [
+    {
+      "name": "Medição Manual e Precisão",
+      "slug": "ferramentas-de-medicao-manual-e-precisao",
+      "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao",
+      "count": 149,
+      "categories": [
+        {
+          "name": "CALIBRE",
+          "slug": "calibre",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/calibre",
+          "count": 2
+        },
+        {
+          "name": "COMPARADOR DE DIÂMETRO INTERNO",
+          "slug": "comparador-de-diametro-interno",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/comparador-de-diametro-interno",
+          "count": 1
+        },
+        {
+          "name": "COMPASSO",
+          "slug": "compasso",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/compasso",
+          "count": 2
+        },
+        {
+          "name": "ESCALA",
+          "slug": "escala",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/escala",
+          "count": 2
+        },
+        {
+          "name": "ESQUADRO",
+          "slug": "esquadro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/esquadro",
+          "count": 7
+        },
+        {
+          "name": "FASÍMETRO",
+          "slug": "fasimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/fasimetro",
+          "count": 2
+        },
+        {
+          "name": "GONIÔMETRO",
+          "slug": "goniometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/goniometro",
+          "count": 1
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/medidor",
+          "count": 18
+        },
+        {
+          "name": "MICRÔMETRO",
+          "slug": "micrometro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/micrometro",
+          "count": 4
+        },
+        {
+          "name": "NÍVEL",
+          "slug": "nivel",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel",
+          "count": 9
+        },
+        {
+          "name": "NÍVEL LASER",
+          "slug": "nivel-laser",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/nivel-laser",
+          "count": 13
+        },
+        {
+          "name": "PAQUÍMETRO",
+          "slug": "paquimetro",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/paquimetro",
+          "count": 25
+        },
+        {
+          "name": "RELÓGIO COMPARADOR",
+          "slug": "relogio-comparador",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/relogio-comparador",
+          "count": 15
+        },
+        {
+          "name": "RÉGUA",
+          "slug": "regua",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/regua",
+          "count": 3
+        },
+        {
+          "name": "SUPORTE DE MEDIÇÃO",
+          "slug": "suporte-de-medicao",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/suporte-de-medicao",
+          "count": 5
+        },
+        {
+          "name": "TRENAS",
+          "slug": "trenas",
+          "path": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao/trenas",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "name": "Medição Elétrica e Diagnóstico",
+      "slug": "ferramentas-de-m-eletrica-e-diagnostico",
+      "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico",
+      "count": 111,
+      "categories": [
+        {
+          "name": "ALICATE AMPERÍMETRO",
+          "slug": "alicate-amperimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/alicate-amperimetro",
+          "count": 12
+        },
+        {
+          "name": "ANALISADORES",
+          "slug": "analisadores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/analisadores",
+          "count": 14
+        },
+        {
+          "name": "CERTIFICADORES DE CABOS DE REDE",
+          "slug": "certificadores-de-cabos-de-rede",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/certificadores-de-cabos-de-rede",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR",
+          "slug": "detector",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/detector",
+          "count": 2
+        },
+        {
+          "name": "FONTES REGULÁVEIS",
+          "slug": "fontes-regulaveis",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/fontes-regulaveis",
+          "count": 4
+        },
+        {
+          "name": "MEDIDORES DE TTR",
+          "slug": "medidores-de-ttr",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-ttr",
+          "count": 1
+        },
+        {
+          "name": "MEDIDORES DE VELOCIDADES",
+          "slug": "medidores-de-velocidades",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/medidores-de-velocidades",
+          "count": 5
+        },
+        {
+          "name": "MEGÔMETRO",
+          "slug": "megometro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/megometro",
+          "count": 7
+        },
+        {
+          "name": "MILIOHMÍMETRO",
+          "slug": "miliohmimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/miliohmimetro",
+          "count": 2
+        },
+        {
+          "name": "MULTÍMETRO",
+          "slug": "multimetro",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/multimetro",
+          "count": 20
+        },
+        {
+          "name": "OSCILOSCÓPIO",
+          "slug": "osciloscopio",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/osciloscopio",
+          "count": 1
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/sensores",
+          "count": 4
+        },
+        {
+          "name": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+          "slug": "termo-higrometros-e-acessorios",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termo-higrometros-e-acessorios",
+          "count": 11
+        },
+        {
+          "name": "TERMÔMETROS",
+          "slug": "termometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/termometros",
+          "count": 8
+        },
+        {
+          "name": "TERRÔMETROS",
+          "slug": "terrometros",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/terrometros",
+          "count": 2
+        },
+        {
+          "name": "TESTADORES DE BATERIA",
+          "slug": "testadores-de-bateria",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-bateria",
+          "count": 6
+        },
+        {
+          "name": "TESTADORES DE FASE",
+          "slug": "testadores-de-fase",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-fase",
+          "count": 7
+        },
+        {
+          "name": "TESTADORES DE ISOLAÇÃO",
+          "slug": "testadores-de-isolacao",
+          "path": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico/testadores-de-isolacao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Calibração e Ajuste",
+      "slug": "ferramentas-de-calibracao-e-ajuste",
+      "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste",
+      "count": 58,
+      "categories": [
+        {
+          "name": "BALANÇA",
+          "slug": "balanca",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/balanca",
+          "count": 7
+        },
+        {
+          "name": "BANCOS DE TESTE",
+          "slug": "bancos-de-teste",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/bancos-de-teste",
+          "count": 1
+        },
+        {
+          "name": "CALIBRADORES",
+          "slug": "calibradores",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/calibradores",
+          "count": 5
+        },
+        {
+          "name": "KIT ACUMULADORES DE PRE CARGA",
+          "slug": "kit-acumuladores-de-pre-carga",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/kit-acumuladores-de-pre-carga",
+          "count": 2
+        },
+        {
+          "name": "MANÔMETRO",
+          "slug": "manometro",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/manometro",
+          "count": 32
+        },
+        {
+          "name": "MEDIDOR",
+          "slug": "medidor",
+          "path": "/medicao-e-teste/ferramentas-de-calibracao-e-ajuste/medidor",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Detecção e Teste",
+      "slug": "ferrametas-de-deteccao-e-teste",
+      "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste",
+      "count": 52,
+      "categories": [
+        {
+          "name": "ANEMÔMETRO",
+          "slug": "anemometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/anemometro",
+          "count": 4
+        },
+        {
+          "name": "BOROSCÓPIO",
+          "slug": "boroscopio",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/boroscopio",
+          "count": 3
+        },
+        {
+          "name": "CÂMERAS",
+          "slug": "cameras",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/cameras",
+          "count": 8
+        },
+        {
+          "name": "DECIBELÍMETRO",
+          "slug": "decibelimetro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/decibelimetro",
+          "count": 2
+        },
+        {
+          "name": "DETECTOR DE GÁS",
+          "slug": "detector-de-gas",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/detector-de-gas",
+          "count": 10
+        },
+        {
+          "name": "ETILÔMETROS DIGITAIS",
+          "slug": "etilometros-digitais",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/etilometros-digitais",
+          "count": 3
+        },
+        {
+          "name": "INSTRUMENTOS ÓPTICOS",
+          "slug": "instrumentos-opticos",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/instrumentos-opticos",
+          "count": 19
+        },
+        {
+          "name": "MEDIDORES DE ESPESSURA",
+          "slug": "medidores-de-espessura",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/medidores-de-espessura",
+          "count": 1
+        },
+        {
+          "name": "PLUVIÔMETRO",
+          "slug": "pluviometro",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/pluviometro",
+          "count": 1
+        },
+        {
+          "name": "TESTADORES DE ISOLAMENTO HIDROSTÁTICO",
+          "slug": "testadores-de-isolamento-hidrostatico",
+          "path": "/medicao-e-teste/ferrametas-de-deteccao-e-teste/testadores-de-isolamento-hidrostatico",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Navegação e Geolocalização",
+      "slug": "navegacao-e-geolocalizacao",
+      "path": "/medicao-e-teste/navegacao-e-geolocalizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Ferramentas De Navegação/Geolocalização",
+      "slug": "ferramentas-de-navegacao-geolocalizacao",
+      "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao",
+      "count": 3,
+      "categories": [
+        {
+          "name": "GPS PORTÁTEIS",
+          "slug": "gps-portateis",
+          "path": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao/gps-portateis",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "159",
+    "name": "FLUKE DO BRASIL LTDA"
+  },
+  "products": [
+    {
+      "code": "3864",
+      "title": "ALICATE AMPERIM 1000A AC/DC FLUKE-378 FC",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5111812",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperim-1000a-acdc-fluke378-fc-3864",
+      "image": "/products/images/0038/3864.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7484",
+      "title": "ALICATE AMPERIMETRO 1000A TRMS 381",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "3950806",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-1000a-trms-381-7484",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3863",
+      "title": "ALICATE AMPERÍMETRO AC/DC 1000V 1000A TRUE RMS 377 FC COM IFLEX E FIELDSENSE - FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5111781",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-acdc-1000v-1000a-true-rms-377-fc-com-iflex-e-fieldsense--fluke-3863",
+      "image": "/products/images/0038/3863.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "5794",
+      "title": "ALICATE AMPERÍMETRO DIGITAL  CA 1000A CAT III 600V 305 -  FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4156278",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-ca-1000a-cat-iii-600v-305--fluke-5794",
+      "image": "/products/images/0057/5794.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3406",
+      "title": "ALICATE AMPERÍMETRO DIGITAL TRUE RMS CAT III 600V 400A 325 - FLUKE 5065866",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5065866",
+      "category": "ALICATE AMPERÍMETRO",
+      "categorySlug": "alicate-amperimetro",
+      "path": "/alicate-amperimetro-digital-true-rms-cat-iii-600v-400a-325--fluke-5065866-3406",
+      "image": "/products/images/0034/3406.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "2482",
+      "title": "CONJUNTO TL75 DE PONTAS DE PROVA PARA MULTÍMETRO 1000V CAT II 10A - FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "855705",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/conjunto-tl75-de-pontas-de-prova-para-multimetro-1000v-cat-ii-10a--fluke-2482",
+      "image": "/products/images/0024/2482.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3402",
+      "title": "FASÍMETRO INDICADOR DE ROTAÇÃO DE FASES  40-700V 15-400HZ CAT IV - FLUKE 9040",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4226419",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/fasimetro-indicador-de-rotacao-de-fases-40700v-15400hz-cat-iv--fluke-9040-3402",
+      "image": "/products/images/0034/3402.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "1115",
+      "title": "MEGÔMETRO DIGITAL PARA TESTE DE ISOLAMENTO CAT IV(600V) 50-1000V 1507 -  FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5066006",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megometro-digital-para-teste-de-isolamento-cat-iv600v-501000v-1507--fluke-1115",
+      "image": "/products/images/0011/1115.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "1114",
+      "title": "MEGÔMETRO DIGITAL PARA TESTE DE ISOLAMENTO CAT IV(600V) 500-1000V 1503 -  FLUKE",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "5065990",
+      "category": "MEGÔMETRO",
+      "categorySlug": "megometro",
+      "path": "/megometro-digital-para-teste-de-isolamento-cat-iv600v-5001000v-1503--fluke-1114",
+      "image": "/products/images/0011/1114.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3404",
+      "title": "MULTÍMETRO COM TESTE DE ISOLAÇÃO 1587 FC - FLUKE 4691232",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4691232",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/multimetro-com-teste-de-isolacao-1587-fc--fluke-4691232-3404",
+      "image": "/products/images/0034/3404.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3407",
+      "title": "MULTÍMETRO DIGITAL TRUE RMS 117 COM DETECÇÃO DE TENSÃO SEM CONTATO - PARA ELETRICISTA - FLUKE 4228705",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4228705",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/multimetro-digital-true-rms-117-com-deteccao-de-tensao-sem-contato--para-eletricista--fluke-4228705-3407",
+      "image": "/products/images/0034/3407.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10135",
+      "title": "PONTAS DE PROVA ISOLADAS FLUKE TL1500DC",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "2696277",
+      "category": "MULTÍMETRO",
+      "categorySlug": "multimetro",
+      "path": "/pontas-de-prova-isoladas-fluke-tl1500dc-10135",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3546",
+      "title": "TESTADOR DE ISOLACAO 1550C",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "3665021",
+      "category": "TESTADORES DE ISOLAÇÃO",
+      "categorySlug": "testadores-de-isolacao",
+      "path": "/testador-de-isolacao-1550c-3546",
+      "image": "/products/images/0035/3546.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7565",
+      "title": "TESTADOR ELETRICO ACHATADO T5-600USA",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "648227",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/testador-eletrico-achatado-t5600usa-7565",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9048",
+      "title": "TESTADOR ELETRICO FLUKE T6-600 C/ FIELDS",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4910331",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/testador-eletrico-fluke-t6600-c-fields-9048",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 15,
+    "pageBase": "medicao-e-teste--fornecedor-159"
+  }
+}

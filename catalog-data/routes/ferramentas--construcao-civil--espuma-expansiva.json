@@ -1,0 +1,95 @@
+{
+  "title": "ESPUMA EXPANSIVA",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria espuma expansiva em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "ESPUMA EXPANSIVA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7539",
+      "title": "ESPUMA EXPANSIVA DE POLIURETANO (PU) 320G / 500ML - TEKBOND 21101005900",
+      "brand": "TEK BOND",
+      "brandCode": "318",
+      "supplier": "SAINT-GOBAIN DO BRASIL PRODUTOS INDUSTRIAIS E PARA CONSTRUCA",
+      "supplierCode": "1292",
+      "manufacturerCode": "21101005900",
+      "category": "ESPUMA EXPANSIVA",
+      "categorySlug": "espuma-expansiva",
+      "path": "/espuma-expansiva-de-poliuretano-pu-320g-500ml--tekbond-21101005900-7539",
+      "image": "/products/images/0075/7539.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "7540",
+      "title": "ESPUMA EXPANSIVA DE POLIURETANO (PU) 360G / 500ML - TEKBOND 21101006000",
+      "brand": "TEK BOND",
+      "brandCode": "318",
+      "supplier": "SAINT-GOBAIN DO BRASIL PRODUTOS INDUSTRIAIS E PARA CONSTRUCA",
+      "supplierCode": "1292",
+      "manufacturerCode": "21101006000",
+      "category": "ESPUMA EXPANSIVA",
+      "categorySlug": "espuma-expansiva",
+      "path": "/espuma-expansiva-de-poliuretano-pu-360g-500ml--tekbond-21101006000-7540",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "907",
+      "title": "ESPUMA EXPANSIVA DE POLIURETANO 500ML/340G - NOVE54 - 16 90 340 500",
+      "brand": "954",
+      "brandCode": "108",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "1690340500",
+      "category": "ESPUMA EXPANSIVA",
+      "categorySlug": "espuma-expansiva",
+      "path": "/espuma-expansiva-de-poliuretano-500ml340g--nove54--16-90-340-500-907",
+      "image": "/products/images/0009/907.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "8451",
+      "title": "ESPUMA POLIURETANO 500ML/340G",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "1690340500",
+      "category": "ESPUMA EXPANSIVA",
+      "categorySlug": "espuma-expansiva",
+      "path": "/espuma-poliuretano-500ml340g-8451",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--construcao-civil--espuma-expansiva"
+  }
+}

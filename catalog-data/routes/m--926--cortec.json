@@ -1,0 +1,36 @@
+{
+  "title": "CORTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos CORTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CORTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11366",
+      "title": "CORTEC ELECTRICORR VPCI 239 (270G/400ML)",
+      "brand": "CORTEC",
+      "brandCode": "926",
+      "supplier": "CORR SOLUTIONS BRASIL COMERCIO LTDA",
+      "supplierCode": "4844",
+      "manufacturerCode": "PRD00164",
+      "category": "LIMPA CONTATO",
+      "categorySlug": "limpa-contato",
+      "path": "/cortec-electricorr-vpci-239-270g400ml-11366",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--926--cortec"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "ANILHAS",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria anilhas em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "ANILHAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8338",
+      "title": "ANILHA PINTADA 20KG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SALOME E PRADO INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "2040",
+      "manufacturerCode": "0.009",
+      "category": "ANILHAS",
+      "categorySlug": "anilhas",
+      "path": "/anilha-pintada-20kg-8338",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "4884",
+      "title": "ANILHA PINTADA 25 KG",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "LR FUNDIDOS INDUSTRIAIS E COMERCIO EIRELI",
+      "supplierCode": "1006",
+      "manufacturerCode": "0010",
+      "category": "ANILHAS",
+      "categorySlug": "anilhas",
+      "path": "/anilha-pintada-25-kg-4884",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12550",
+      "title": "SAPATILHO PARA CABO DE AÇO, 9,53 MM 3/8\"",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3572100380",
+      "category": "ANILHAS",
+      "categorySlug": "anilhas",
+      "path": "/sapatilho-para-cabo-de-aco-953-mm-38-12550",
+      "image": "/products/images/0125/12550.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--anilhas"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "LINGAS",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria lingas em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "LINGAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12144",
+      "title": "LINGA CORRENTE G10 8MM 4P 5M 5T",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "TG4/EGKN/8X5.000MM",
+      "category": "LINGAS",
+      "categorySlug": "lingas",
+      "path": "/linga-corrente-g10-8mm-4p-5m-5t-12144",
+      "image": "/products/images/0121/12144.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "4893",
+      "title": "LINGA DE CORRENTE G8 2 PERNAS 8MM 1,50M CMT 2,8T - TECNOTEXTIL 1408EC",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "1408EC",
+      "category": "LINGAS",
+      "categorySlug": "lingas",
+      "path": "/linga-de-corrente-g8-2-pernas-8mm-150m-cmt-28t--tecnotextil-1408ec-4893",
+      "image": "/products/images/0048/4893.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "3723",
+      "title": "LINGA DE CORRENTE G8 4 PERNAS 6MM 1,50M CMT 2,35T - TECNOTEXTIL 1406LE",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "1406LE",
+      "category": "LINGAS",
+      "categorySlug": "lingas",
+      "path": "/linga-de-corrente-g8-4-pernas-6mm-150m-cmt-235t--tecnotextil-1406le-3723",
+      "image": "/products/images/0037/3723.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "13044",
+      "title": "LINGA G10 4P 8MM ENCURT CMTE 5,25T 5,00M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "1008PD",
+      "category": "LINGAS",
+      "categorySlug": "lingas",
+      "path": "/linga-g10-4p-8mm-encurt-cmte-525t-500m-13044",
+      "image": "/products/images/0130/13044.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "5859",
+      "title": "LINGA G8 2P 16MM CMT 11,2T GO 6,00M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "1416EC",
+      "category": "LINGAS",
+      "categorySlug": "lingas",
+      "path": "/linga-g8-2p-16mm-cmt-112t-go-600m-5859",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "7566",
+      "title": "LINGA G8 4P 6MM CMT 2,35T GO 1,00M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "1406LC",
+      "category": "LINGAS",
+      "categorySlug": "lingas",
+      "path": "/linga-g8-4p-6mm-cmt-235t-go-100m-7566",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--lingas"
+  }
+}

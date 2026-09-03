@@ -1,0 +1,36 @@
+{
+  "title": "GUARDIAN",
+  "parentLabel": "Marca",
+  "description": "Produtos GUARDIAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GUARDIAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12351",
+      "title": "TOUCA SOLDADOR AZUL FIRE CA 42290",
+      "brand": "GUARDIAN",
+      "brandCode": "1067",
+      "supplier": "ARMAZEM DO EPI EQUIPAMENTOS DE PROTECAO LTDA",
+      "supplierCode": "5675",
+      "manufacturerCode": "TOUCASOLDADORFIR",
+      "category": "CAPUZ E BALACLAVA",
+      "categorySlug": "capuz-e-balaclava",
+      "path": "/touca-soldador-azul-fire-ca-42290-12351",
+      "image": "/products/images/0123/12351.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1067--guardian"
+  }
+}

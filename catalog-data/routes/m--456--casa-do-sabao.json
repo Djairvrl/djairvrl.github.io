@@ -1,0 +1,36 @@
+{
+  "title": "CASA DO SABAO",
+  "parentLabel": "Marca",
+  "description": "Produtos CASA DO SABAO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CASA DO SABAO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7414",
+      "title": "LIMPA ALUMINIO 5 LT-DDA-4 A GRANEL TUR",
+      "brand": "CASA DO SABAO",
+      "brandCode": "456",
+      "supplier": "W C DE MELO COMERCIO VAREJISTA",
+      "supplierCode": "1459",
+      "manufacturerCode": "5124396",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/limpa-aluminio-5-ltdda4-a-granel-tur-7414",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--456--casa-do-sabao"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "title": "DIVERSAS",
+  "parentLabel": "Madeira",
+  "description": "Produtos da categoria diversas em madeira.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Madeira",
+      "to": "/material-de-construcao/madeira"
+    },
+    {
+      "label": "DIVERSAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7696",
+      "title": "ANGELIN VERMELHO DIVERSAS BITOLAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ARRUDA & FERREIRA - LTDA",
+      "supplierCode": "1776",
+      "manufacturerCode": "000225",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/angelin-vermelho-diversas-bitolas-7696",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "6856",
+      "title": "JM CANTONEIRA CORTE COMPENSADO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "supplierCode": "563",
+      "manufacturerCode": "14023",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/jm-cantoneira-corte-compensado-6856",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "12580",
+      "title": "MADEIRA SERRADA ABIURANA VERMELHA 3/3",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "A CASA MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1196",
+      "manufacturerCode": "12452",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/madeira-serrada-abiurana-vermelha-33-12580",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "12180",
+      "title": "MADEIRA SERRADA EM ANGELIM VERMELHO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "7950",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/madeira-serrada-em-angelim-vermelho-12180",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "12524",
+      "title": "MADEIRA SERRADA EM COPAIBARANA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "A CASA MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1196",
+      "manufacturerCode": "12453",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/madeira-serrada-em-copaibarana-12524",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "13195",
+      "title": "PINUS MDF BRANCO 15MM 2FC 275X185",
+      "brand": "JAMAD",
+      "brandCode": "520",
+      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "supplierCode": "563",
+      "manufacturerCode": "18858",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/pinus-mdf-branco-15mm-2fc-275x185-13195",
+      "image": "/products/images/0131/13195.png",
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    },
+    {
+      "code": "10981",
+      "title": "PORTA DURATEX 2,10 X 0,90 MOGNO",
+      "brand": "DURATEX",
+      "brandCode": "845",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "9576",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/porta-duratex-210-x-090-mogno-10981",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Madeira",
+      "sectionSlug": "madeira"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "material-de-construcao--madeira--diversas"
+  }
+}

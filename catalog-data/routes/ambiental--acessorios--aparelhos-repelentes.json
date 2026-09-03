@@ -1,0 +1,44 @@
+{
+  "title": "APARELHOS REPELENTES",
+  "parentLabel": "Acessórios",
+  "description": "Produtos da categoria aparelhos repelentes em acessórios.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Acessórios",
+      "to": "/ambiental/acessorios"
+    },
+    {
+      "label": "APARELHOS REPELENTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11960",
+      "title": "REPELENTE SISMICO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "P R GONCALVES - ELETRONICOS",
+      "supplierCode": "5384",
+      "manufacturerCode": "002",
+      "category": "APARELHOS REPELENTES",
+      "categorySlug": "aparelhos-repelentes",
+      "path": "/repelente-sismico-11960",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Acessórios",
+      "sectionSlug": "acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ambiental--acessorios--aparelhos-repelentes"
+  }
+}

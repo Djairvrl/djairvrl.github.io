@@ -1,0 +1,146 @@
+{
+  "title": "MIG/MAG",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria mig/mag em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "MIG/MAG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "3916",
+      "title": "ANTIRRESPINGO PASTA S/SILIC 350G",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "7430000350",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/antirrespingo-pasta-ssilic-350g-3916",
+      "image": "/products/images/0039/3916.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "8214",
+      "title": "ARAME MIG 0,8MM CARRETEL VONDER IMP",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "7436008015",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/arame-mig-08mm-carretel-vonder-imp-8214",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5349",
+      "title": "BICO CONT MIG/MAGM 08X30 0,8MM ECU",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008337",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-cont-migmagm-08x30-08mm-ecu-5349",
+      "image": "/products/images/0053/5349.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5350",
+      "title": "BICO CONT MIG/MAGM M08X30 1,0MM ECU",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008327",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-cont-migmagm-m08x30-10mm-ecu-5350",
+      "image": "/products/images/0053/5350.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "582",
+      "title": "BICO DE CONTATO MIG/MAG 1,0 MM M8X43MM EM COBRE  V8 BRASIL",
+      "brand": "V8 BRASIL",
+      "brandCode": "12",
+      "supplier": "V8 BRASIL IND COM DE MAQUINAS E FERRAM",
+      "supplierCode": "416",
+      "manufacturerCode": "86993",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-de-contato-migmag-10-mm-m8x43mm-em-cobre-v8-brasil-582",
+      "image": "/products/images/0005/582.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5341",
+      "title": "MÁQUINA DE SOLDA MIG/MAG VULCANO 360A 220/380V TRIFÁSICA - BALMER 30082003",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30082003",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/maquina-de-solda-migmag-vulcano-360a-220380v-trifasica--balmer-30082003-5341",
+      "image": "/products/images/0053/5341.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "1774",
+      "title": "SOLDA BELGO MIG/MAG 0.80MM - RL 15 KG",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "1466",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/solda-belgo-migmag-080mm--rl-15-kg-1774",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--mig-mag"
+  }
+}

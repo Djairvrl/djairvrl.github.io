@@ -1,0 +1,1870 @@
+{
+  "title": "Suprimentos BOP",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP"
+    }
+  ],
+  "children": [
+    {
+      "name": "Material Elétrico Industrial",
+      "slug": "material-eletrico-industrial",
+      "path": "/suprimentos-bop/material-eletrico-industrial",
+      "count": 283,
+      "categories": [
+        {
+          "name": "ACIONAMENTO",
+          "slug": "acionamento",
+          "path": "/suprimentos-bop/material-eletrico-industrial/acionamento",
+          "count": 3
+        },
+        {
+          "name": "ANÉIS DESLIZANTES E ESCOVAS",
+          "slug": "aneis-deslizantes-e-escovas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/aneis-deslizantes-e-escovas",
+          "count": 1
+        },
+        {
+          "name": "AUTOMAÇÃO E ACIONAMENTOS",
+          "slug": "automacao-e-acionamentos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/automacao-e-acionamentos",
+          "count": 8
+        },
+        {
+          "name": "AUTOTRANSFORMADORES",
+          "slug": "autotransformadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/autotransformadores",
+          "count": 2
+        },
+        {
+          "name": "BARRAMENTO",
+          "slug": "barramento",
+          "path": "/suprimentos-bop/material-eletrico-industrial/barramento",
+          "count": 2
+        },
+        {
+          "name": "BATERIAS ESTACIONÁRIAS",
+          "slug": "baterias-estacionarias",
+          "path": "/suprimentos-bop/material-eletrico-industrial/baterias-estacionarias",
+          "count": 18
+        },
+        {
+          "name": "BOTÕES E SINALEIROS",
+          "slug": "botoes-e-sinaleiros",
+          "path": "/suprimentos-bop/material-eletrico-industrial/botoes-e-sinaleiros",
+          "count": 7
+        },
+        {
+          "name": "CABOS ESPECIAIS",
+          "slug": "cabos-especiais",
+          "path": "/suprimentos-bop/material-eletrico-industrial/cabos-especiais",
+          "count": 3
+        },
+        {
+          "name": "CAIXA DE PASSAGEM INDUSTRIAL",
+          "slug": "caixa-de-passagem-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/caixa-de-passagem-industrial",
+          "count": 1
+        },
+        {
+          "name": "CAIXAS E BOTOEIRAS",
+          "slug": "caixas-e-botoeiras",
+          "path": "/suprimentos-bop/material-eletrico-industrial/caixas-e-botoeiras",
+          "count": 5
+        },
+        {
+          "name": "CAMPAINHAS E SIRENES",
+          "slug": "campainhas-e-sirenes",
+          "path": "/suprimentos-bop/material-eletrico-industrial/campainhas-e-sirenes",
+          "count": 4
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/canaletas",
+          "count": 1
+        },
+        {
+          "name": "CHAVES ELÉTRICAS",
+          "slug": "chaves-eletricas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/chaves-eletricas",
+          "count": 8
+        },
+        {
+          "name": "CONECTORES",
+          "slug": "conectores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/conectores",
+          "count": 5
+        },
+        {
+          "name": "CONTATORES E CONTATOS",
+          "slug": "contatores-e-contatos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/contatores-e-contatos",
+          "count": 14
+        },
+        {
+          "name": "CONTROLADORES E TOTALIZADORES",
+          "slug": "controladores-e-totalizadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/controladores-e-totalizadores",
+          "count": 3
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/disjuntores",
+          "count": 17
+        },
+        {
+          "name": "ELETROCALHAS, ELETRODUTOS E PERFILADOS",
+          "slug": "eletrocalhas-eletrodutos-e-perfilados",
+          "path": "/suprimentos-bop/material-eletrico-industrial/eletrocalhas-eletrodutos-e-perfilados",
+          "count": 1
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fios-e-cabos",
+          "count": 29
+        },
+        {
+          "name": "FONTES CHAVEADAS",
+          "slug": "fontes-chaveadas",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fontes-chaveadas",
+          "count": 4
+        },
+        {
+          "name": "FUSÍVEiS E RESISTORES",
+          "slug": "fusiveis-e-resistores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/fusiveis-e-resistores",
+          "count": 4
+        },
+        {
+          "name": "GASES ISOLANTES",
+          "slug": "gases-isolantes",
+          "path": "/suprimentos-bop/material-eletrico-industrial/gases-isolantes",
+          "count": 2
+        },
+        {
+          "name": "IDENTIFICAÇÃO",
+          "slug": "identificacao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/identificacao",
+          "count": 1
+        },
+        {
+          "name": "ILUMINAÇÃO DE ALTA PERFORMANCE",
+          "slug": "iluminacao-de-alta-performance",
+          "path": "/suprimentos-bop/material-eletrico-industrial/iluminacao-de-alta-performance",
+          "count": 15
+        },
+        {
+          "name": "INVERSORES DE TENSÃO",
+          "slug": "inversores-de-tensao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/inversores-de-tensao",
+          "count": 3
+        },
+        {
+          "name": "ISOLADORES",
+          "slug": "isoladores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/isoladores",
+          "count": 42
+        },
+        {
+          "name": "PAINÉIS SOLARES",
+          "slug": "paineis-solares",
+          "path": "/suprimentos-bop/material-eletrico-industrial/paineis-solares",
+          "count": 2
+        },
+        {
+          "name": "PARA-RAIOS E ATERRAMENTOS",
+          "slug": "para-raios-e-aterramentos",
+          "path": "/suprimentos-bop/material-eletrico-industrial/para-raios-e-aterramentos",
+          "count": 3
+        },
+        {
+          "name": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+          "slug": "plugue-tomada-e-acoplamento-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/plugue-tomada-e-acoplamento-industrial",
+          "count": 16
+        },
+        {
+          "name": "QUADROS DE DISTRIBUIÇÃO",
+          "slug": "quadros-de-distribuicao",
+          "path": "/suprimentos-bop/material-eletrico-industrial/quadros-de-distribuicao",
+          "count": 3
+        },
+        {
+          "name": "QUADROS DE MONTAGEM",
+          "slug": "quadros-de-montagem",
+          "path": "/suprimentos-bop/material-eletrico-industrial/quadros-de-montagem",
+          "count": 1
+        },
+        {
+          "name": "RELÉS",
+          "slug": "reles",
+          "path": "/suprimentos-bop/material-eletrico-industrial/reles",
+          "count": 12
+        },
+        {
+          "name": "SEGURANÇA INDUSTRIAL",
+          "slug": "seguranca-industrial",
+          "path": "/suprimentos-bop/material-eletrico-industrial/seguranca-industrial",
+          "count": 3
+        },
+        {
+          "name": "SENSORES",
+          "slug": "sensores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/sensores",
+          "count": 8
+        },
+        {
+          "name": "SINALIZADORES",
+          "slug": "sinalizadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/sinalizadores",
+          "count": 3
+        },
+        {
+          "name": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+          "slug": "terminais-e-conexoes-industriais",
+          "path": "/suprimentos-bop/material-eletrico-industrial/terminais-e-conexoes-industriais",
+          "count": 25
+        },
+        {
+          "name": "TRANSFORMADORES",
+          "slug": "transformadores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/transformadores",
+          "count": 3
+        },
+        {
+          "name": "VENTILADORES",
+          "slug": "ventiladores",
+          "path": "/suprimentos-bop/material-eletrico-industrial/ventiladores",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "4081",
+      "name": "AEA DISTRIBUIDORA DE MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4081.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 30,
+      "file": "suprimentos-bop--fornecedor-798.json"
+    },
+    {
+      "code": "2288",
+      "name": "ALPHA SOLUCOES EM TRANSFORMACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2288.json"
+    },
+    {
+      "code": "2668",
+      "name": "ANDRA S A ELECTRIC SOLUTIONS",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-2668.json"
+    },
+    {
+      "code": "1300",
+      "name": "APS COMPONENTES ELETRICOS SA",
+      "count": 9,
+      "file": "suprimentos-bop--fornecedor-1300.json"
+    },
+    {
+      "code": "1679",
+      "name": "ATEC PONTO COMERCIO ASSISTENCIA TECNICA E EQUIPAMENTOS INFOR",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1679.json"
+    },
+    {
+      "code": "827",
+      "name": "AXT INDUSTRIAL LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-827.json"
+    },
+    {
+      "code": "2307",
+      "name": "CABO ELETRICO COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2307.json"
+    },
+    {
+      "code": "2666",
+      "name": "CASA SIMOES - BORRACHAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2666.json"
+    },
+    {
+      "code": "4491",
+      "name": "CITEX - MATERIAL ELETRICO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4491.json"
+    },
+    {
+      "code": "679",
+      "name": "CJ METAIS E CONSTRUCOES LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-679.json"
+    },
+    {
+      "code": "2594",
+      "name": "CLICK & CELL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2594.json"
+    },
+    {
+      "code": "980",
+      "name": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "count": 11,
+      "file": "suprimentos-bop--fornecedor-980.json"
+    },
+    {
+      "code": "317",
+      "name": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "count": 5,
+      "file": "suprimentos-bop--fornecedor-317.json"
+    },
+    {
+      "code": "4103",
+      "name": "CONDUMAX - ELETRO METALURGICA CIAFUNDI LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4103.json"
+    },
+    {
+      "code": "1407",
+      "name": "D. LAMP COMERCIO DE AUTO PECAS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1407.json"
+    },
+    {
+      "code": "4225",
+      "name": "D. N. OLIVEIRA COMERCIO DE COMPONENTES ELETROELETRONICOS",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4225.json"
+    },
+    {
+      "code": "1634",
+      "name": "DALVANA SOARES DOS REIS 05227308926",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1634.json"
+    },
+    {
+      "code": "1334",
+      "name": "DELTA STAR CONETORES ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1334.json"
+    },
+    {
+      "code": "3092",
+      "name": "DEMELETRICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3092.json"
+    },
+    {
+      "code": "2311",
+      "name": "DEP TELECOM INFORMATICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2311.json"
+    },
+    {
+      "code": "2575",
+      "name": "DEUBLIN BRASIL JUNTAS ROTATIVAS DE PRECISAO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2575.json"
+    },
+    {
+      "code": "5495",
+      "name": "DIGEL ELETRICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5495.json"
+    },
+    {
+      "code": "737",
+      "name": "DIGIMESS INSTRUMENTOS DE PRECISÃO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-737.json"
+    },
+    {
+      "code": "2002",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 9,
+      "file": "suprimentos-bop--fornecedor-2002.json"
+    },
+    {
+      "code": "1495",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 15,
+      "file": "suprimentos-bop--fornecedor-1495.json"
+    },
+    {
+      "code": "1578",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-1578.json"
+    },
+    {
+      "code": "1815",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 4,
+      "file": "suprimentos-bop--fornecedor-1815.json"
+    },
+    {
+      "code": "1471",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-1471.json"
+    },
+    {
+      "code": "4310",
+      "name": "DIMERI AUTOMACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4310.json"
+    },
+    {
+      "code": "2616",
+      "name": "EFICIENTE COMERCIO E SERVICO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2616.json"
+    },
+    {
+      "code": "2565",
+      "name": "ELETRODEX ELETRONICA LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-2565.json"
+    },
+    {
+      "code": "5008",
+      "name": "ELETROPECAS COMERCIAL ELETRONICA LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-5008.json"
+    },
+    {
+      "code": "3363",
+      "name": "ELETROSUL DISTRIB LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3363.json"
+    },
+    {
+      "code": "231",
+      "name": "ELGIN DISTRIBUIDORA LTDA",
+      "count": 4,
+      "file": "suprimentos-bop--fornecedor-231.json"
+    },
+    {
+      "code": "209",
+      "name": "ELGIN S/A",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-209.json"
+    },
+    {
+      "code": "5989",
+      "name": "EMBRASTEC INDUSTRIA E COMERCIO DE EQUIPAMENTOS ELETRONICOS L",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5989.json"
+    },
+    {
+      "code": "5208",
+      "name": "ENGEMAX SERVICOS MECANICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5208.json"
+    },
+    {
+      "code": "4527",
+      "name": "EUREKA IMPORTACOES LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4527.json"
+    },
+    {
+      "code": "2654",
+      "name": "EUROTHERM LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2654.json"
+    },
+    {
+      "code": "6220",
+      "name": "EX MATERIAIS ELETRICOS LTDA.",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-6220.json"
+    },
+    {
+      "code": "795",
+      "name": "F FERNANDES DE SOUZA & CIA LTDA",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-795.json"
+    },
+    {
+      "code": "4531",
+      "name": "FENIX MATERIAIS ELETRICOS E ACESSORIOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4531.json"
+    },
+    {
+      "code": "1089",
+      "name": "FERREIRA COSTA CIA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1089.json"
+    },
+    {
+      "code": "1093",
+      "name": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1093.json"
+    },
+    {
+      "code": "3342",
+      "name": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3342.json"
+    },
+    {
+      "code": "5212",
+      "name": "GNS GASES E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5212.json"
+    },
+    {
+      "code": "2511",
+      "name": "GOLDPOWER INDUSTRIA E COMERCIO DE ELETROELETRONICOS LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-2511.json"
+    },
+    {
+      "code": "6177",
+      "name": "IC BRAZIL STORE COMERCIAL ELETRONICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-6177.json"
+    },
+    {
+      "code": "422",
+      "name": "IMATRON IND METAL ELETRONICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-422.json"
+    },
+    {
+      "code": "2608",
+      "name": "INTELLI INDUSTRIA DE TERMINAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2608.json"
+    },
+    {
+      "code": "3277",
+      "name": "INTERLAGOS MOTORES LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3277.json"
+    },
+    {
+      "code": "2693",
+      "name": "ISOFASES ACESSORIOS ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2693.json"
+    },
+    {
+      "code": "1415",
+      "name": "ITEST - MEDICAO E AUTOMACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1415.json"
+    },
+    {
+      "code": "3679",
+      "name": "J C DA SILVA & CIA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3679.json"
+    },
+    {
+      "code": "2690",
+      "name": "J S SOARES COMERCIO DE MATERIAIS ELETRICOS",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2690.json"
+    },
+    {
+      "code": "403",
+      "name": "JAILSON SEVERO DOS SANTOS",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-403.json"
+    },
+    {
+      "code": "2298",
+      "name": "JER - COMANDO E AUTOMACAO LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-2298.json"
+    },
+    {
+      "code": "6094",
+      "name": "JH SHOPPING LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-6094.json"
+    },
+    {
+      "code": "2097",
+      "name": "JL COMERCIO DE BATERIAS, LUBRIFICANTES, PECAS E ACESSORIOS A",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2097.json"
+    },
+    {
+      "code": "958",
+      "name": "KENIA SABATTYNE DE O BORGES",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-958.json"
+    },
+    {
+      "code": "1641",
+      "name": "KGMLAN DISTRIBUIDORA LTDA",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-1641.json"
+    },
+    {
+      "code": "1012",
+      "name": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-1012.json"
+    },
+    {
+      "code": "3537",
+      "name": "KITO CROSBY BRASIL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3537.json"
+    },
+    {
+      "code": "5177",
+      "name": "L DE MOURA SANTOS ELETRICA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5177.json"
+    },
+    {
+      "code": "894",
+      "name": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-894.json"
+    },
+    {
+      "code": "6194",
+      "name": "LEANDRO RODRIGUES PEREIRA CABOS",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-6194.json"
+    },
+    {
+      "code": "4083",
+      "name": "LOJA ELETRICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4083.json"
+    },
+    {
+      "code": "3894",
+      "name": "LUMIX COMERCIAL LTDA",
+      "count": 5,
+      "file": "suprimentos-bop--fornecedor-3894.json"
+    },
+    {
+      "code": "1840",
+      "name": "LUZ AUTOMACAO INDUSTRIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1840.json"
+    },
+    {
+      "code": "4189",
+      "name": "M3 COMERCIO DE ELETRONICOS E VARIEDADES LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4189.json"
+    },
+    {
+      "code": "6246",
+      "name": "MACHINE TOOLS AUTOMATION IMPORTACAO E EXPORTACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-6246.json"
+    },
+    {
+      "code": "2589",
+      "name": "MARIA IZABELLE SILVA LIMA ME",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2589.json"
+    },
+    {
+      "code": "6268",
+      "name": "MAURIZIO & CIA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-6268.json"
+    },
+    {
+      "code": "2172",
+      "name": "MAURIZIO & CIA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2172.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4.json"
+    },
+    {
+      "code": "3097",
+      "name": "MEG ATACADO & VAREJO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3097.json"
+    },
+    {
+      "code": "2309",
+      "name": "MEGA ELETRICA & AUTOMACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2309.json"
+    },
+    {
+      "code": "4452",
+      "name": "MEGA LUX COMERCIO E SERVICOS DE MATERIAIS ELETRICOS",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-4452.json"
+    },
+    {
+      "code": "328",
+      "name": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-328.json"
+    },
+    {
+      "code": "4472",
+      "name": "MOUSER ELECTRONICS, INC.",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4472.json"
+    },
+    {
+      "code": "3962",
+      "name": "MT COMERCIAL ELETRICA LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-3962.json"
+    },
+    {
+      "code": "2695",
+      "name": "MUNDO NOVO COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2695.json"
+    },
+    {
+      "code": "2411",
+      "name": "N G MATERIAL DE CONSTRUCOES LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2411.json"
+    },
+    {
+      "code": "4075",
+      "name": "NEOEX MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4075.json"
+    },
+    {
+      "code": "1954",
+      "name": "NEOSOLAR ENERGIA LTDA",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-1954.json"
+    },
+    {
+      "code": "5921",
+      "name": "NEOSOLAR ENERGIA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5921.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-122.json"
+    },
+    {
+      "code": "5986",
+      "name": "OPT - ELETRONICOS E BATERIAS LIMITADA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5986.json"
+    },
+    {
+      "code": "2071",
+      "name": "ORECON INDUSTRIA DE COMPONENTES ELETRICOS LTDA.",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-2071.json"
+    },
+    {
+      "code": "4137",
+      "name": "PETINATI FIOS E CABOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4137.json"
+    },
+    {
+      "code": "2657",
+      "name": "PETRARC REP E COM LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2657.json"
+    },
+    {
+      "code": "3649",
+      "name": "POWERSAFE IMPORTACAO, EXPORTACAO LTDA.",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3649.json"
+    },
+    {
+      "code": "4790",
+      "name": "PROD ELETRONICOS METALTEX LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4790.json"
+    },
+    {
+      "code": "6206",
+      "name": "PROIND ELETRONICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-6206.json"
+    },
+    {
+      "code": "2577",
+      "name": "PRUFTECHNIK MGS COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2577.json"
+    },
+    {
+      "code": "2068",
+      "name": "PWL BRASIL INDUSTRIA E COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-2068.json"
+    },
+    {
+      "code": "2261",
+      "name": "R. C. DESIDERATO - ILUMINACAO",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-2261.json"
+    },
+    {
+      "code": "2464",
+      "name": "R. Q. DAMASCHI COMERCIO E DISTRIBUIÇÃO DE",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2464.json"
+    },
+    {
+      "code": "2403",
+      "name": "R4 IND E COM DE EQUIP SEGURANÇA EIRELI",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2403.json"
+    },
+    {
+      "code": "2508",
+      "name": "RECICLATEC COMERCIO E SERVICOS DE TECNOLOGIA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2508.json"
+    },
+    {
+      "code": "6072",
+      "name": "REIS OFFICE PRODUCTS COMERCIAL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-6072.json"
+    },
+    {
+      "code": "2970",
+      "name": "RENOAIR ENERGIAS RENOVAVEIS DO BRASIL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2970.json"
+    },
+    {
+      "code": "3668",
+      "name": "ROLIMEC ROLAMENTOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-3668.json"
+    },
+    {
+      "code": "1264",
+      "name": "RTF IMPORTACAO E COMERCIO DE COMPONENTES ELETRONICOS LTDA",
+      "count": 7,
+      "file": "suprimentos-bop--fornecedor-1264.json"
+    },
+    {
+      "code": "857",
+      "name": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-857.json"
+    },
+    {
+      "code": "2671",
+      "name": "SANTIL COMERCIAL ELETRICA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2671.json"
+    },
+    {
+      "code": "1877",
+      "name": "SANTIL COMERCIAL ELETRICA LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-1877.json"
+    },
+    {
+      "code": "870",
+      "name": "SGUARIO INDUSTRIA ELETROMECANICA LTDA",
+      "count": 6,
+      "file": "suprimentos-bop--fornecedor-870.json"
+    },
+    {
+      "code": "2059",
+      "name": "SIMONE DE OLIVEIRA SILVA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2059.json"
+    },
+    {
+      "code": "4660",
+      "name": "SMARTFLOW TECNOLOGIA LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-4660.json"
+    },
+    {
+      "code": "5851",
+      "name": "SNAP COMERCIO E DISTRIBUIDORA DE PRODUTOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5851.json"
+    },
+    {
+      "code": "2646",
+      "name": "SNETEC LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2646.json"
+    },
+    {
+      "code": "2933",
+      "name": "SNJ IMPORTS & EXPORTS COMERCIO E INDUSTRIA LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-2933.json"
+    },
+    {
+      "code": "1997",
+      "name": "STINORLAND BRASIL LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1997.json"
+    },
+    {
+      "code": "1245",
+      "name": "SX LED LIGHTING COMERCIO E SERVIÇOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1245.json"
+    },
+    {
+      "code": "1700",
+      "name": "TAKROSH PRESENTES LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1700.json"
+    },
+    {
+      "code": "5797",
+      "name": "TE CONNECTIVITY BRASIL INDUSTRIA DE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-5797.json"
+    },
+    {
+      "code": "1630",
+      "name": "TERMOTUBOS IMPORTACAO E EXPORTACAO LTDA",
+      "count": 21,
+      "file": "suprimentos-bop--fornecedor-1630.json"
+    },
+    {
+      "code": "1909",
+      "name": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1909.json"
+    },
+    {
+      "code": "509",
+      "name": "TRAMONTINA NORDESTE S/A",
+      "count": 4,
+      "file": "suprimentos-bop--fornecedor-509.json"
+    },
+    {
+      "code": "6182",
+      "name": "TRITEC EQUIPAMENTOS LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-6182.json"
+    },
+    {
+      "code": "4543",
+      "name": "TRON CONTROLES ELETRICOS LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-4543.json"
+    },
+    {
+      "code": "1841",
+      "name": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "count": 6,
+      "file": "suprimentos-bop--fornecedor-1841.json"
+    },
+    {
+      "code": "1845",
+      "name": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "count": 1,
+      "file": "suprimentos-bop--fornecedor-1845.json"
+    },
+    {
+      "code": "4699",
+      "name": "WEG DRIVES & CONTROLS - AUTOMACAO LTDA",
+      "count": 2,
+      "file": "suprimentos-bop--fornecedor-4699.json"
+    },
+    {
+      "code": "5580",
+      "name": "YAN JINGJUN",
+      "count": 3,
+      "file": "suprimentos-bop--fornecedor-5580.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "11112",
+      "title": "1FSN2538 FSN - MODELO-25 MM 380VCA 0S 0S",
+      "brand": "ALTRONIC",
+      "brandCode": "883",
+      "supplier": "TRON CONTROLES ELETRICOS LTDA",
+      "supplierCode": "4543",
+      "manufacturerCode": "1FSN2538",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/1fsn2538-fsn--modelo25-mm-380vca-0s-0s-11112",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11676",
+      "title": "A1N 125 TMF 25-400 3P F F - 1SDA066723R1",
+      "brand": "ABB",
+      "brandCode": "86",
+      "supplier": "APS COMPONENTES ELETRICOS SA",
+      "supplierCode": "1300",
+      "manufacturerCode": "5081",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/a1n-125-tmf-25400-3p-f-f--1sda066723r1-11676",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11674",
+      "title": "A1N125 TMF16-400 3P FF 1SDA068749R1",
+      "brand": "ABB",
+      "brandCode": "86",
+      "supplier": "APS COMPONENTES ELETRICOS SA",
+      "supplierCode": "1300",
+      "manufacturerCode": "5324",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/a1n125-tmf16400-3p-ff-1sda068749r1-11674",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11678",
+      "title": "A3N400 TMF320-3200 3P FF 1SDA066560R1",
+      "brand": "ABB",
+      "brandCode": "86",
+      "supplier": "APS COMPONENTES ELETRICOS SA",
+      "supplierCode": "1300",
+      "manufacturerCode": "5148",
+      "category": "DISJUNTORES",
+      "categorySlug": "disjuntores",
+      "path": "/a3n400-tmf3203200-3p-ff-1sda066560r1-11678",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9472",
+      "title": "ACELEROMETRO 100MVG CONX MILITAR 2 PINOS",
+      "brand": "CTC",
+      "brandCode": "688",
+      "supplier": "PRUFTECHNIK MGS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2577",
+      "manufacturerCode": "AC1021A",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/acelerometro-100mvg-conx-militar-2-pinos-9472",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9162",
+      "title": "ACOPLAMENTO INDUSTRIAL 3P+N+T 16A STATUS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2286",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/acoplamento-industrial-3pnt-16a-status-9162",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8376",
+      "title": "ALCA PREFORMADA DE DESTRIBUICAO 1/0AWG",
+      "brand": "DIVERSOS",
+      "brandCode": "540",
+      "supplier": "PWL BRASIL INDUSTRIA E COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "2068",
+      "manufacturerCode": "AD10",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/alca-preformada-de-destribuicao-10awg-8376",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11167",
+      "title": "AMPHENOL D-SUB STANDARD",
+      "brand": "AMPHENOL",
+      "brandCode": "899",
+      "supplier": "MOUSER ELECTRONICS, INC.",
+      "supplierCode": "4472",
+      "manufacturerCode": "D15P13A4GL00LF",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/amphenol-dsub-standard-11167",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10303",
+      "title": "ANEMOMETER THIES FIRST CLAS ADVANCED II",
+      "brand": "RENOAIR",
+      "brandCode": "766",
+      "supplier": "RENOAIR ENERGIAS RENOVAVEIS DO BRASIL LTDA",
+      "supplierCode": "2970",
+      "manufacturerCode": "PRD00001",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/anemometer-thies-first-clas-advanced-ii-10303",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8906",
+      "title": "AUTO TRANSFORMADOR TRIFASICO A SECO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ALPHA SOLUCOES EM TRANSFORMACAO LTDA",
+      "supplierCode": "2288",
+      "manufacturerCode": "12348",
+      "category": "AUTOTRANSFORMADORES",
+      "categorySlug": "autotransformadores",
+      "path": "/auto-transformador-trifasico-a-seco-8906",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "5555",
+      "title": "AUTOTRANSFORMADOR TRIFASICO 7,5 KVA IP21",
+      "brand": "KIMARKI",
+      "brandCode": "239",
+      "supplier": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1012",
+      "manufacturerCode": "7/5KVA",
+      "category": "AUTOTRANSFORMADORES",
+      "categorySlug": "autotransformadores",
+      "path": "/autotransformador-trifasico-75-kva-ip21-5555",
+      "image": "/products/images/0055/5555.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8350",
+      "title": "BARRA CHATA COBRE PURO 3/4 X 1/8 19X3MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SIMONE DE OLIVEIRA SILVA",
+      "supplierCode": "2059",
+      "manufacturerCode": "MLB2696283479",
+      "category": "BARRAMENTO",
+      "categorySlug": "barramento",
+      "path": "/barra-chata-cobre-puro-34-x-18-19x3mm-8350",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7057",
+      "title": "BARRAMENTO TRIFASICO TIPO PENTE 1MT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "3087",
+      "category": "BARRAMENTO",
+      "categorySlug": "barramento",
+      "path": "/barramento-trifasico-tipo-pente-1mt-7057",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10771",
+      "title": "BASE FUSIVEL 5SF1024 SIEMENS",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "NEOEX MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "4075",
+      "manufacturerCode": "MLB3710105207_180581582810",
+      "category": "FUSÍVEiS E RESISTORES",
+      "categorySlug": "fusiveis-e-resistores",
+      "path": "/base-fusivel-5sf1024-siemens-10771",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11497",
+      "title": "BASE P/RELE SERIE 55=PT78740 9474SMA",
+      "brand": "FINDER",
+      "brandCode": "947",
+      "supplier": "ELETROPECAS COMERCIAL ELETRONICA LTDA",
+      "supplierCode": "5008",
+      "manufacturerCode": "27465",
+      "category": "RELÉS",
+      "categorySlug": "reles",
+      "path": "/base-prele-serie-55pt78740-9474sma-11497",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12912",
+      "title": "BATERIA 12MVA-18",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "14000029",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-12mva18-12912",
+      "image": "/products/images/0129/12912.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11093",
+      "title": "BATERIA 12MVA-26",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "14000016",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-12mva26-11093",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9917",
+      "title": "BATERIA CHUMBO ACIDO SELADA EP12V-5AH",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "GOLDPOWER INDUSTRIA E COMERCIO DE ELETROELETRONICOS LTDA",
+      "supplierCode": "2511",
+      "manufacturerCode": "1EP015",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-chumbo-acido-selada-ep12v5ah-9917",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9357",
+      "title": "BATERIA CHUMBO ACIDO SELADA EP12V-7AH",
+      "brand": "ENERGY POWER",
+      "brandCode": "674",
+      "supplier": "GOLDPOWER INDUSTRIA E COMERCIO DE ELETROELETRONICOS LTDA",
+      "supplierCode": "2511",
+      "manufacturerCode": "1EP018",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-chumbo-acido-selada-ep12v7ah-9357",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8419",
+      "title": "BATERIA EST 054 A 70 AH DF1000 ECO",
+      "brand": "FREEDOM",
+      "brandCode": "593",
+      "supplier": "JL COMERCIO DE BATERIAS, LUBRIFICANTES, PECAS E ACESSORIOS A",
+      "supplierCode": "2097",
+      "manufacturerCode": "3783",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-est-054-a-70-ah-df1000-eco-8419",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11069",
+      "title": "BATERIA ESTACIONARIA 12MN700",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "12007809",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-estacionaria-12mn700-11069",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12420",
+      "title": "BATERIA ESTACIONARIA 12V",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "12007814",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-estacionaria-12v-12420",
+      "image": "/products/images/0124/12420.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12981",
+      "title": "BATERIA ESTACIONARIA 12V 88AH",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "12MN1500",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-estacionaria-12v-88ah-12981",
+      "image": "/products/images/0129/12981.webp",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12604",
+      "title": "BATERIA ESTACIONARIA 12V150AH",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "12007813",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-estacionaria-12v150ah-12604",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11794",
+      "title": "BATERIA ESTACIONÁRIAS MOURA 12MVA-9",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "12MVA-9",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-estacionarias-moura-12mva9-11794",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10514",
+      "title": "BATERIA GETPOWER 12V 40AH (GP 12-40)",
+      "brand": "UNIPOWER",
+      "brandCode": "777",
+      "supplier": "POWERSAFE IMPORTACAO, EXPORTACAO LTDA.",
+      "supplierCode": "3649",
+      "manufacturerCode": "P1200400A1A78S",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-getpower-12v-40ah-gp-1240-10514",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4781",
+      "title": "BATERIA M100HE MGE2 SLI",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "12003771",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-m100he-mge2-sli-4781",
+      "image": "/products/images/0047/4781.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7588",
+      "title": "BATERIA MOURA 12MN150",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "050178",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-moura-12mn150-7588",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "6933",
+      "title": "BATERIA MOURA NOBREAK 12MN30",
+      "brand": "MOURA",
+      "brandCode": "385",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "12MN30",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-moura-nobreak-12mn30-6933",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "6707",
+      "title": "BATERIA MOURA NOBREAK 12MN63",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CODIBA COMERCIAL DISTRIBUIDORA DE BATERIAS LTDA",
+      "supplierCode": "980",
+      "manufacturerCode": "050169",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-moura-nobreak-12mn63-6707",
+      "image": "/products/images/0067/6707.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11391",
+      "title": "BATERIA SELADA P NOBREAKS VRLA 12V7AH",
+      "brand": "INTELBRAS",
+      "brandCode": "300",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "41305",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-selada-p-nobreaks-vrla-12v7ah-11391",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9935",
+      "title": "BATERIA VRLA 12V - XB 12SEG",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KGMLAN DISTRIBUIDORA LTDA",
+      "supplierCode": "1641",
+      "manufacturerCode": "4860010",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-vrla-12v--xb-12seg-9935",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12876",
+      "title": "BATERIA VRLA SELADA ESTACIONARIA",
+      "brand": "NEWMAX",
+      "brandCode": "1147",
+      "supplier": "OPT - ELETRONICOS E BATERIAS LIMITADA",
+      "supplierCode": "5986",
+      "manufacturerCode": "FNC122000-C",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-vrla-selada-estacionaria-12876",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10576",
+      "title": "BLOCO AUX 2NA+2NF 3RH2911-2HA22",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "3RH29112HA22",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/bloco-aux-2na2nf-3rh29112ha22-10576",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13101",
+      "title": "BLOCO CONTATO 2NA+2NF XESP3021 TELEMECAN",
+      "brand": "TELEMECANIQUE",
+      "brandCode": "1184",
+      "supplier": "JH SHOPPING LTDA",
+      "supplierCode": "6094",
+      "manufacturerCode": "MLB2799831549",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/bloco-contato-2na2nf-xesp3021-telemecan-13101",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7793",
+      "title": "BORNE DE PASSAGEM WEG 2,5MM CINZA BTWP",
+      "brand": "WEG",
+      "brandCode": "537",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "10261734",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/borne-de-passagem-weg-25mm-cinza-btwp-7793",
+      "image": "/products/images/0077/7793.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4193",
+      "title": "BORRACHA BT DIN 2000A 104X70X4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SGUARIO INDUSTRIA ELETROMECANICA LTDA",
+      "supplierCode": "870",
+      "manufacturerCode": "07010055",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/borracha-bt-din-2000a-104x70x4-4193",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4194",
+      "title": "BORRACHA BT DIN 2000A 80X45X2",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SGUARIO INDUSTRIA ELETROMECANICA LTDA",
+      "supplierCode": "870",
+      "manufacturerCode": "07010056",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/borracha-bt-din-2000a-80x45x2-4194",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4190",
+      "title": "BORRACHA BT DIN 2000A M LUA 59X43X18",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SGUARIO INDUSTRIA ELETROMECANICA LTDA",
+      "supplierCode": "870",
+      "manufacturerCode": "07010027",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/borracha-bt-din-2000a-m-lua-59x43x18-4190",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4192",
+      "title": "BORRACHA BT DIN 630A 45X22X2",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SGUARIO INDUSTRIA ELETROMECANICA LTDA",
+      "supplierCode": "870",
+      "manufacturerCode": "07010052",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/borracha-bt-din-630a-45x22x2-4192",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4191",
+      "title": "BORRACHA BT DIN 630A 70X45X4",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SGUARIO INDUSTRIA ELETROMECANICA LTDA",
+      "supplierCode": "870",
+      "manufacturerCode": "07010051",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/borracha-bt-din-630a-70x45x4-4191",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "4195",
+      "title": "BORRACHA BT DIN 630A M LUA 32X20X12",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SGUARIO INDUSTRIA ELETROMECANICA LTDA",
+      "supplierCode": "870",
+      "manufacturerCode": "07010107",
+      "category": "ISOLADORES",
+      "categorySlug": "isoladores",
+      "path": "/borracha-bt-din-630a-m-lua-32x20x12-4195",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11336",
+      "title": "BOT.PEND.BPR-61E 2 BOT.+EMERG CA2813",
+      "brand": "SCHNEIDER ELECTRIC",
+      "brandCode": "923",
+      "supplier": "MEGA LUX COMERCIO E SERVICOS DE MATERIAIS ELETRICOS",
+      "supplierCode": "4452",
+      "manufacturerCode": "3781",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botpendbpr61e-2-botemerg-ca2813-11336",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11005",
+      "title": "BOTAO COMD RED/VD 22MM 100-240V 1NA",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "36759",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botao-comd-redvd-22mm-100240v-1na-11005",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7894",
+      "title": "BOTAO DE PULSO ILUMI 22MM VERDE 220V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1841",
+      "manufacturerCode": "VTM5756",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botao-de-pulso-ilumi-22mm-verde-220v-7894",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7805",
+      "title": "BOTAO DE PULSO ILUMI 22MM VERMELHO 220V",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "supplierCode": "1845",
+      "manufacturerCode": "VTM5757",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botao-de-pulso-ilumi-22mm-vermelho-220v-7805",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10535",
+      "title": "BOTOEIRA 5 BOTOES UN-UN 6,0 ER2001",
+      "brand": "KITO",
+      "brandCode": "154",
+      "supplier": "KITO CROSBY BRASIL LTDA",
+      "supplierCode": "3537",
+      "manufacturerCode": "ZB1102AZ10631",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botoeira-5-botoes-unun-60-er2001-10535",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10125",
+      "title": "BOTOEIRA MET MURAL 1FURO 22MM CZ 80X80MM",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DEMELETRICA LTDA",
+      "supplierCode": "3092",
+      "manufacturerCode": "XAPD1501",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botoeira-met-mural-1furo-22mm-cz-80x80mm-10125",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12077",
+      "title": "BOTOEIRA PLAS AM BOT.EMERG 40MM CP1-E",
+      "brand": "METALTEX",
+      "brandCode": "538",
+      "supplier": "DIGEL ELETRICA LTDA",
+      "supplierCode": "5495",
+      "manufacturerCode": "2249",
+      "category": "BOTÕES E SINALEIROS",
+      "categorySlug": "botoes-e-sinaleiros",
+      "path": "/botoeira-plas-am-botemerg-40mm-cp1e-12077",
+      "image": "/products/images/0120/12077.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11331",
+      "title": "BOTOEIRA PONTE  ROLANTE 1 EIXOUNIDADE",
+      "brand": "METALTEX",
+      "brandCode": "538",
+      "supplier": "PROD ELETRONICOS METALTEX LTDA",
+      "supplierCode": "4790",
+      "manufacturerCode": "BPR-61E",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/botoeira-ponte-rolante-1-eixounidade-11331",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 6,
+    "total": 283,
+    "pageBase": "suprimentos-bop"
+  }
+}

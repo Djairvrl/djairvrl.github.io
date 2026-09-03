@@ -1,0 +1,78 @@
+{
+  "title": "PONTA",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria ponta em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "PONTA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10885",
+      "title": "PONTA 932 PARALE OXIDOALUM 3/8",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "2615.000.932-000",
+      "category": "PONTA",
+      "categorySlug": "ponta",
+      "path": "/ponta-932-parale-oxidoalum-38-10885",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "10630",
+      "title": "PONTA 941 CONIC OXIDOALUM 5/8\"",
+      "brand": "DREMEL",
+      "brandCode": "169",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2615000941000",
+      "category": "PONTA",
+      "categorySlug": "ponta",
+      "path": "/ponta-941-conic-oxidoalum-58-10630",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "9049",
+      "title": "PONTA DE PROVA PARA MULTIMETROS",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "A.N.T. FERRAMENTAS - COMERCIAL E IMPORTADORA LTDA",
+      "supplierCode": "2370",
+      "manufacturerCode": "227757",
+      "category": "PONTA",
+      "categorySlug": "ponta",
+      "path": "/ponta-de-prova-para-multimetros-9049",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--ponta"
+  }
+}

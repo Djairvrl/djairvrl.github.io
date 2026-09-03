@@ -1,0 +1,36 @@
+{
+  "title": "SAFETLINE",
+  "parentLabel": "Marca",
+  "description": "Produtos SAFETLINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SAFETLINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6885",
+      "title": "BOTA DE AMARRAR ACOLC C/BIQUEIR PLASTICA",
+      "brand": "SAFETLINE",
+      "brandCode": "373",
+      "supplier": "SAFETLINE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "1414",
+      "manufacturerCode": "4855AC/EL",
+      "category": "COURO",
+      "categorySlug": "couro",
+      "path": "/bota-de-amarrar-acolc-cbiqueir-plastica-6885",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--373--safetline"
+  }
+}

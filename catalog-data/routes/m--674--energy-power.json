@@ -1,0 +1,36 @@
+{
+  "title": "ENERGY POWER",
+  "parentLabel": "Marca",
+  "description": "Produtos ENERGY POWER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ENERGY POWER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9357",
+      "title": "BATERIA CHUMBO ACIDO SELADA EP12V-7AH",
+      "brand": "ENERGY POWER",
+      "brandCode": "674",
+      "supplier": "GOLDPOWER INDUSTRIA E COMERCIO DE ELETROELETRONICOS LTDA",
+      "supplierCode": "2511",
+      "manufacturerCode": "1EP018",
+      "category": "BATERIAS ESTACIONÁRIAS",
+      "categorySlug": "baterias-estacionarias",
+      "path": "/bateria-chumbo-acido-selada-ep12v7ah-9357",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--674--energy-power"
+  }
+}

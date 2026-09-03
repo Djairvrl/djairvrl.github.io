@@ -1,0 +1,44 @@
+{
+  "title": "CORDA",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria corda em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "CORDA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10802",
+      "title": "CORDA TRANC 6MM BRANCA 4KG 220M",
+      "brand": "PAMPA",
+      "brandCode": "243",
+      "supplier": "SANDAPLAST INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA",
+      "supplierCode": "1031",
+      "manufacturerCode": "40.007",
+      "category": "CORDA",
+      "categorySlug": "corda",
+      "path": "/corda-tranc-6mm-branca-4kg-220m-10802",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--corda"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "SERRA MANUAL",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria serra manual em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "SERRA MANUAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10467",
+      "title": "LAMINA SERRA STARRET 12 X18 GREY FLEX",
+      "brand": "STARRETT",
+      "brandCode": "79",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "55375",
+      "category": "SERRA MANUAL",
+      "categorySlug": "serra-manual",
+      "path": "/lamina-serra-starret-12-x18-grey-flex-10467",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3235",
+      "title": "LÂMINA DE SERRA MANUAL BIM 18 DENTES 12\"(300MM) - BOSCH 2608003024",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608003024000",
+      "category": "SERRA MANUAL",
+      "categorySlug": "serra-manual",
+      "path": "/lamina-de-serra-manual-bim-18-dentes-12300mm--bosch-2608003024-3235",
+      "image": "/products/images/0032/3235.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3236",
+      "title": "LÂMINA DE SERRA MANUAL BIM 24 DENTES 12\"(300MM) - BOSCH 2608003025",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "2608003025000",
+      "category": "SERRA MANUAL",
+      "categorySlug": "serra-manual",
+      "path": "/lamina-de-serra-manual-bim-24-dentes-12300mm--bosch-2608003025-3236",
+      "image": "/products/images/0032/3236.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "8139",
+      "title": "SERRA P PODA C ENCAIXE UNIVERSAL MAT1010",
+      "brand": "SERVEQ",
+      "brandCode": "35",
+      "supplier": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "supplierCode": "97",
+      "manufacturerCode": "110 213 0000",
+      "category": "SERRA MANUAL",
+      "categorySlug": "serra-manual",
+      "path": "/serra-p-poda-c-encaixe-universal-mat1010-8139",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ferramentas--ferramentas-manuais--serra-manual"
+  }
+}

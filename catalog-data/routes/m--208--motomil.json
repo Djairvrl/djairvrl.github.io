@@ -1,0 +1,121 @@
+{
+  "title": "MOTOMIL",
+  "parentLabel": "Marca",
+  "description": "Produtos MOTOMIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MOTOMIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11188",
+      "title": "FURAD BANC1/2HP CHAV220/380V FBM-160TA",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "878",
+      "manufacturerCode": "00039025.2",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furad-banc12hp-chav220380v-fbm160ta-11188",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "10945",
+      "title": "GUINCHO 500/1000KG 12/6M S/S MONO H107",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "ANHANGUERA COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "2295",
+      "manufacturerCode": "86111",
+      "category": "GUINCHO",
+      "categorySlug": "guincho",
+      "path": "/guincho-5001000kg-126m-ss-mono-h107-10945",
+      "image": "/products/images/0109/10945.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "11189",
+      "title": "MOTOESMERIL 1,0HP 220/380V 60HZ MT-100I",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "878",
+      "manufacturerCode": "00017197.4",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/motoesmeril-10hp-220380v-60hz-mt100i-11189",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4022",
+      "title": "MOTOESMERIL MON.POT 360W220V60HZ MMI-50",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "878",
+      "manufacturerCode": "00007589.2",
+      "category": "ESMERIL DE BANCADA",
+      "categorySlug": "esmeril-de-bancada",
+      "path": "/motoesmeril-monpot-360w220v60hz-mmi50-4022",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9736",
+      "title": "PROTECAO PARA  FURADEIRA DE BANCADA",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "KEL-MAQ MAQUINAS E FERRAMENTAS",
+      "supplierCode": "2704",
+      "manufacturerCode": "FBH-130I",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/protecao-para-furadeira-de-bancada-9736",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "11200",
+      "title": "TB-500P V2 - TORNO DE BANCADA N. 05 PROF",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "878",
+      "manufacturerCode": "00043823.0",
+      "category": "TORNO",
+      "categorySlug": "torno",
+      "path": "/tb500p-v2--torno-de-bancada-n-05-prof-11200",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--208--motomil"
+  }
+}

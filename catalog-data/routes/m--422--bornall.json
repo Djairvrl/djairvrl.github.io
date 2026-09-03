@@ -1,0 +1,36 @@
+{
+  "title": "BORNALL",
+  "parentLabel": "Marca",
+  "description": "Produtos BORNALL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BORNALL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7153",
+      "title": "BOLSA BALDE COM TAMPA PARA IÇAR FERRAMENTAS SARGENTO - BORNALL",
+      "brand": "BORNALL",
+      "brandCode": "422",
+      "supplier": "BORNALL LTDA",
+      "supplierCode": "1763",
+      "manufacturerCode": "120 152 0002",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/bolsa-balde-com-tampa-para-icar-ferramentas-sargento--bornall-7153",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--422--bornall"
+  }
+}

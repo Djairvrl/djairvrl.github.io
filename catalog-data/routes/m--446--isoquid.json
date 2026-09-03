@@ -1,0 +1,36 @@
+{
+  "title": "ISOQUID",
+  "parentLabel": "Marca",
+  "description": "Produtos ISOQUID disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ISOQUID"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7326",
+      "title": "TINTA ISOLASIL ISOQUID-4571-VERMELHO-OXI",
+      "brand": "ISOQUID",
+      "brandCode": "446",
+      "supplier": "ISOLASIL - COMERCIO DE TINTAS VERN. E MAT. ISOLANTES LTDA",
+      "supplierCode": "1621",
+      "manufacturerCode": "4571",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-isolasil-isoquid4571vermelhooxi-7326",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--446--isoquid"
+  }
+}

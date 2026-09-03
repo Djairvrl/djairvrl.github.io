@@ -1,0 +1,87 @@
+{
+  "title": "SOPRANO",
+  "parentLabel": "Marca",
+  "description": "Produtos SOPRANO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOPRANO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7056",
+      "title": "CABO FLEXIVEL 4,00 MM",
+      "brand": "SOPRANO",
+      "brandCode": "408",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "65",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flexivel-400-mm-7056",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "8831",
+      "title": "PLUGUE MACHO INDUSTRIAL 3P+T VERMELHO",
+      "brand": "SOPRANO",
+      "brandCode": "408",
+      "supplier": "R. C. DESIDERATO - ILUMINACAO",
+      "supplierCode": "2261",
+      "manufacturerCode": "PLP4576",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/plugue-macho-industrial-3pt-vermelho-8831",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10793",
+      "title": "TERMINAL ILHOS DUPLO 2X1,0MM VM 12A",
+      "brand": "SOPRANO",
+      "brandCode": "408",
+      "supplier": "I A V COMERCIO E SERVICOS LTDA",
+      "supplierCode": "890",
+      "manufacturerCode": "21781",
+      "category": "TERMINAIS E CONECTORES",
+      "categorySlug": "terminais-e-conectores",
+      "path": "/terminal-ilhos-duplo-2x10mm-vm-12a-10793",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "8832",
+      "title": "TOMADA ACOPLAMENTO INDUSTRIAL 3P+T",
+      "brand": "SOPRANO",
+      "brandCode": "408",
+      "supplier": "R. C. DESIDERATO - ILUMINACAO",
+      "supplierCode": "2261",
+      "manufacturerCode": "ACP4556",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/tomada-acoplamento-industrial-3pt-8832",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--408--soprano"
+  }
+}

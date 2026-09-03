@@ -1,0 +1,53 @@
+{
+  "title": "LACREFIX",
+  "parentLabel": "Marca",
+  "description": "Produtos LACREFIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LACREFIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8142",
+      "title": "FIX 27 - AMARELO",
+      "brand": "LACREFIX",
+      "brandCode": "280",
+      "supplier": "SEAL DO BRASIL LACRES DE SEGURANCA LTDA.",
+      "supplierCode": "1958",
+      "manufacturerCode": "0004.004.00001",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/fix-27--amarelo-8142",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "6397",
+      "title": "LACRE COM ARAME VERMELH GALVONIZADO-30CM",
+      "brand": "LACREFIX",
+      "brandCode": "280",
+      "supplier": "MINASLACRES - LACRES DE SEGURANCA LTDA.",
+      "supplierCode": "1210",
+      "manufacturerCode": "00400300016",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-com-arame-vermelh-galvonizado30cm-6397",
+      "image": "/products/images/0063/6397.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--280--lacrefix"
+  }
+}

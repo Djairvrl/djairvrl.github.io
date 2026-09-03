@@ -1,0 +1,95 @@
+{
+  "title": "ADAPTADORES",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria adaptadores em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "ADAPTADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12029",
+      "title": "ADAP USB P/RS485 CONVERSOR CABO COMP C/R",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MICROFACIL INFORMATICA LTDA",
+      "supplierCode": "165",
+      "manufacturerCode": "10625",
+      "category": "ADAPTADORES",
+      "categorySlug": "adaptadores",
+      "path": "/adap-usb-prs485-conversor-cabo-comp-cr-12029",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12672",
+      "title": "ADAPTADOR CONVERSOR USB 3.0 HDMI 4K",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "F F ASSARITO E-COMMERCE LTDA",
+      "supplierCode": "5859",
+      "manufacturerCode": "ADAPTADOR CONVERSOR TIPO",
+      "category": "ADAPTADORES",
+      "categorySlug": "adaptadores",
+      "path": "/adaptador-conversor-usb-30-hdmi-4k-12672",
+      "image": "/products/images/0126/12672.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12915",
+      "title": "ADAPTADOR EPSON WIRELESS LAN ELPAP11",
+      "brand": "EPSON",
+      "brandCode": "544",
+      "supplier": "CM COMERCIO E SERVICOS LTDA",
+      "supplierCode": "6001",
+      "manufacturerCode": "V12H005A02",
+      "category": "ADAPTADORES",
+      "categorySlug": "adaptadores",
+      "path": "/adaptador-epson-wireless-lan-elpap11-12915",
+      "image": "/products/images/0129/12915.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12112",
+      "title": "CONVERSOR DVI-D M X HDMI R 7239 MOD9",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "48656",
+      "category": "ADAPTADORES",
+      "categorySlug": "adaptadores",
+      "path": "/conversor-dvid-m-x-hdmi-r-7239-mod9-12112",
+      "image": "/products/images/0121/12112.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--adaptadores"
+  }
+}

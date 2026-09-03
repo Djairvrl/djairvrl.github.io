@@ -1,0 +1,36 @@
+{
+  "title": "TESTO",
+  "parentLabel": "Marca",
+  "description": "Produtos TESTO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TESTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7463",
+      "title": "MANOMETRO PRESSAO DIFERENCIAL 0/2000HPA",
+      "brand": "TESTO",
+      "brandCode": "474",
+      "supplier": "INSTRUM BRASIL INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1661",
+      "manufacturerCode": "TESTO 512",
+      "category": "MANÔMETRO",
+      "categorySlug": "manometro",
+      "path": "/manometro-pressao-diferencial-02000hpa-7463",
+      "image": "/products/images/0074/7463.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--474--testo"
+  }
+}

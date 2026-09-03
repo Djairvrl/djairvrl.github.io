@@ -1,0 +1,61 @@
+{
+  "title": "CALIBRE",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria calibre em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "CALIBRE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9",
+      "title": "CALIBRE DE FOLGA CANIVETE GEDORE 20 LÂMINAS 0,05 A 1,00MM REF 702-20M",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "050028",
+      "category": "CALIBRE",
+      "categorySlug": "calibre",
+      "path": "/calibre-de-folga-canivete-gedore-20-laminas-005-a-100mm-ref-70220m-9",
+      "image": "/products/images/0000/9.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "135",
+      "title": "CALIBRE DE ROSCA 52 LÂMINAS GEDORE REF 706",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "050479",
+      "category": "CALIBRE",
+      "categorySlug": "calibre",
+      "path": "/calibre-de-rosca-52-laminas-gedore-ref-706-135",
+      "image": "/products/images/0001/135.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--calibre"
+  }
+}

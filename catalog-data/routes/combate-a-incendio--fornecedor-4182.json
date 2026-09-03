@@ -1,0 +1,136 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de 20.782.631 RODRIGO FARIAS DE CARVALHO neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "4182",
+    "name": "20.782.631 RODRIGO FARIAS DE CARVALHO"
+  },
+  "products": [
+    {
+      "code": "11320",
+      "title": "EXTINTOR 6 KG ABC",
+      "brand": "MOCELIN",
+      "brandCode": "443",
+      "supplier": "20.782.631 RODRIGO FARIAS DE CARVALHO",
+      "supplierCode": "4182",
+      "manufacturerCode": "352578",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-6-kg-abc-11320",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11126",
+      "title": "EXTINTOR BC CO2",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "20.782.631 RODRIGO FARIAS DE CARVALHO",
+      "supplierCode": "4182",
+      "manufacturerCode": "587125",
+      "category": "EXTINTORES",
+      "categorySlug": "extintores",
+      "path": "/extintor-bc-co2-11126",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11078",
+      "title": "PROTECAO PARA EXTINTOR BC DE CARRETA 20K",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "20.782.631 RODRIGO FARIAS DE CARVALHO",
+      "supplierCode": "4182",
+      "manufacturerCode": "8896-4",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/protecao-para-extintor-bc-de-carreta-20k-11078",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11079",
+      "title": "PROTECAO PARA EXTINTOR DE INCENDIO ABC 8",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "20.782.631 RODRIGO FARIAS DE CARVALHO",
+      "supplierCode": "4182",
+      "manufacturerCode": "8896-4-1",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/protecao-para-extintor-de-incendio-abc-8-11079",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "combate-a-incendio--fornecedor-4182"
+  }
+}

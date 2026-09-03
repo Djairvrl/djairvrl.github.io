@@ -1,0 +1,104 @@
+{
+  "title": "LUBRAX",
+  "parentLabel": "Marca",
+  "description": "Produtos LUBRAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LUBRAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12760",
+      "title": "LUBRAX AV 70 IN - TB 200 L N",
+      "brand": "LUBRAX",
+      "brandCode": "1131",
+      "supplier": "NOVUM DISTRIBUIDORA DE PECAS INDUSTRIAIS E AUTOMOTIVAS LTDA",
+      "supplierCode": "5916",
+      "manufacturerCode": "22957",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/lubrax-av-70-in--tb-200-l-n-12760",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "13034",
+      "title": "LUBRAX LITH EP 2 - BL 20 K",
+      "brand": "LUBRAX",
+      "brandCode": "1131",
+      "supplier": "PARELHAS GAS LTDA",
+      "supplierCode": "5996",
+      "manufacturerCode": "258",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/lubrax-lith-ep-2--bl-20-k-13034",
+      "image": "/products/images/0130/13034.png",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    },
+    {
+      "code": "13364",
+      "title": "LUBRAX TOP TURBO 15W40 CH-4 - BB20L",
+      "brand": "LUBRAX",
+      "brandCode": "1131",
+      "supplier": "PARELHAS GAS LTDA",
+      "supplierCode": "5996",
+      "manufacturerCode": "3002",
+      "category": "ÓLEOS PARA ENGRENAGENS",
+      "categorySlug": "oleos-para-engrenagens",
+      "path": "/lubrax-top-turbo-15w40-ch4--bb20l-13364",
+      "image": "/products/images/0133/13364.webp",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
+      "code": "12897",
+      "title": "LUBRAX TOP TURBO 15W40 CI-4 - 24X1L",
+      "brand": "LUBRAX",
+      "brandCode": "1131",
+      "supplier": "PARELHAS GAS LTDA",
+      "supplierCode": "5996",
+      "manufacturerCode": "3025",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/lubrax-top-turbo-15w40-ci4--24x1l-12897",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12858",
+      "title": "OLEO MT SINTETICO 5W40 1L DIESEL/GASOLIN",
+      "brand": "LUBRAX",
+      "brandCode": "1131",
+      "supplier": "BRITO AUTO PECAS LTDA",
+      "supplierCode": "574",
+      "manufacturerCode": "25906",
+      "category": "AUTOMOTIVOS",
+      "categorySlug": "automotivos",
+      "path": "/oleo-mt-sintetico-5w40-1l-dieselgasolin-12858",
+      "image": "/products/images/0128/12858.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--1131--lubrax"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "PLUVIÔMETRO",
+  "parentLabel": "Detecção e Teste",
+  "description": "Produtos da categoria pluviômetro em detecção e teste.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Detecção e Teste",
+      "to": "/medicao-e-teste/ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "label": "PLUVIÔMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12136",
+      "title": "PLUVIOMETRO DIGITAL 4760",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
+      "supplierCode": "5560",
+      "manufacturerCode": "4760",
+      "category": "PLUVIÔMETRO",
+      "categorySlug": "pluviometro",
+      "path": "/pluviometro-digital-4760-12136",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "medicao-e-teste--ferrametas-de-deteccao-e-teste--pluviometro"
+  }
+}

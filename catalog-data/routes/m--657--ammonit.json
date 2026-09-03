@@ -1,0 +1,104 @@
+{
+  "title": "AMMONIT",
+  "parentLabel": "Marca",
+  "description": "Produtos AMMONIT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AMMONIT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9409",
+      "title": "COMBO PARA TERMO-HIGROMETRO",
+      "brand": "AMMONIT",
+      "brandCode": "657",
+      "supplier": "INTERCAMBIO LTDA",
+      "supplierCode": "2439",
+      "manufacturerCode": "9409",
+      "category": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+      "categorySlug": "termo-higrometros-e-acessorios",
+      "path": "/combo-para-termohigrometro-9409",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9207",
+      "title": "CONECTOR P/ TERMO-HIG FEMALE PLUG S01040",
+      "brand": "AMMONIT",
+      "brandCode": "657",
+      "supplier": "INTERCAMBIO LTDA",
+      "supplierCode": "2439",
+      "manufacturerCode": "17663",
+      "category": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+      "categorySlug": "termo-higrometros-e-acessorios",
+      "path": "/conector-p-termohig-female-plug-s01040-9207",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9218",
+      "title": "PROTECAO P/ TERMO-HIG S50050",
+      "brand": "AMMONIT",
+      "brandCode": "657",
+      "supplier": "INTERCAMBIO LTDA",
+      "supplierCode": "2439",
+      "manufacturerCode": "1238558",
+      "category": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+      "categorySlug": "termo-higrometros-e-acessorios",
+      "path": "/protecao-p-termohig-s50050-9218",
+      "image": "/products/images/0092/9218.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9205",
+      "title": "SENSOR BAROMETRICO P PRESSAO ATMOSFERICA",
+      "brand": "AMMONIT",
+      "brandCode": "657",
+      "supplier": "INTERCAMBIO LTDA",
+      "supplierCode": "2439",
+      "manufacturerCode": "1246628",
+      "category": "DETECTOR",
+      "categorySlug": "detector",
+      "path": "/sensor-barometrico-p-pressao-atmosferica-9205",
+      "image": "/products/images/0092/9205.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9206",
+      "title": "SENSOR TERMO-HIGROM GALLTEC KPC 1.S/6 ME",
+      "brand": "AMMONIT",
+      "brandCode": "657",
+      "supplier": "INTERCAMBIO LTDA",
+      "supplierCode": "2439",
+      "manufacturerCode": "1246627",
+      "category": "TERMO-HIGRÔMETROS E ACESSÓRIOS",
+      "categorySlug": "termo-higrometros-e-acessorios",
+      "path": "/sensor-termohigrom-galltec-kpc-1s6-me-9206",
+      "image": "/products/images/0092/9206.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--657--ammonit"
+  }
+}

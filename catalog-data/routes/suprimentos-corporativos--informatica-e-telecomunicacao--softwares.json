@@ -1,0 +1,44 @@
+{
+  "title": "SOFTWARES",
+  "parentLabel": "Informática e Telecomunicação",
+  "description": "Produtos da categoria softwares em informática e telecomunicação.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Informática e Telecomunicação",
+      "to": "/suprimentos-corporativos/informatica-e-telecomunicacao"
+    },
+    {
+      "label": "SOFTWARES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12361",
+      "title": "SOFTWARE MOD.SW-200",
+      "brand": "INSTRUTHERM",
+      "brandCode": "519",
+      "supplier": "INSTRUTHERM INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "1748",
+      "manufacturerCode": "04440",
+      "category": "SOFTWARES",
+      "categorySlug": "softwares",
+      "path": "/software-modsw200-12361",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "suprimentos-corporativos--informatica-e-telecomunicacao--softwares"
+  }
+}

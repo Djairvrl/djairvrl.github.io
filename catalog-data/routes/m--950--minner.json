@@ -1,0 +1,36 @@
+{
+  "title": "MINNER",
+  "parentLabel": "Marca",
+  "description": "Produtos MINNER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MINNER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11508",
+      "title": "GRAXA SINT ULTRAGREASE SLC 1KG -30/+200C",
+      "brand": "MINNER",
+      "brandCode": "950",
+      "supplier": "MINNER COMERCIAL LTDA",
+      "supplierCode": "5024",
+      "manufacturerCode": "0616 452",
+      "category": "GRAXAS PARA USO EM CONDIÇÕES SEVERAS",
+      "categorySlug": "graxas-para-uso-em-condicoes-severas",
+      "path": "/graxa-sint-ultragrease-slc-1kg-30200c-11508",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--950--minner"
+  }
+}

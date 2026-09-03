@@ -1,0 +1,36 @@
+{
+  "title": "FLPERFORMANCE",
+  "parentLabel": "Marca",
+  "description": "Produtos FLPERFORMANCE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FLPERFORMANCE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10721",
+      "title": "MANTA ANTICHAMA KEVLAR 7000X1200X1,7",
+      "brand": "FLPERFORMANCE",
+      "brandCode": "805",
+      "supplier": "FL PERFORMANCE",
+      "supplierCode": "4037",
+      "manufacturerCode": "ARAMIDA 7 METROS",
+      "category": "MANTAS",
+      "categorySlug": "mantas",
+      "path": "/manta-antichama-kevlar-7000x1200x17-10721",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Ambiental",
+      "sectionSlug": "protecao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--805--flperformance"
+  }
+}

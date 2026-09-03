@@ -1,0 +1,36 @@
+{
+  "title": "COGUMELO",
+  "parentLabel": "Marca",
+  "description": "Produtos COGUMELO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COGUMELO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10373",
+      "title": "ESCADA FIB VIDRO PLATEPT-0285 LARANJA",
+      "brand": "COGUMELO",
+      "brandCode": "772",
+      "supplier": "ESCADA SUDESTE INDUSTRIA LTDA",
+      "supplierCode": "3455",
+      "manufacturerCode": "ES000012",
+      "category": "ESCADAS",
+      "categorySlug": "escadas",
+      "path": "/escada-fib-vidro-platept0285-laranja-10373",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--772--cogumelo"
+  }
+}

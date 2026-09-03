@@ -1,0 +1,95 @@
+{
+  "title": "OXI-COMBUSTÍVEL",
+  "parentLabel": "Solda Industrial",
+  "description": "Produtos da categoria oxi-combustível em solda industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Solda Industrial",
+      "to": "/maquinas-e-acessorios/solda-industrial"
+    },
+    {
+      "label": "OXI-COMBUSTÍVEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13054",
+      "title": "ACENDEDOR MACARICO TIPO CONCHA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SMF - IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "6064",
+      "manufacturerCode": "00888",
+      "category": "OXI-COMBUSTÍVEL",
+      "categorySlug": "oxi-combustivel",
+      "path": "/acendedor-macarico-tipo-concha-13054",
+      "image": "/products/images/0130/13054.webp",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "13083",
+      "title": "ACENDEDOR MAÇARICO CONCHA C/10 PEDRAS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SMF - IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "6064",
+      "manufacturerCode": "13083",
+      "category": "OXI-COMBUSTÍVEL",
+      "categorySlug": "oxi-combustivel",
+      "path": "/acendedor-macarico-concha-c10-pedras-13083",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11667",
+      "title": "GAS PARA MACARICOS MAP DE 400G AMARELO",
+      "brand": "EOS",
+      "brandCode": "363",
+      "supplier": "FRIGELAR COMERCIO E INDUSTRIA LTDA",
+      "supplierCode": "5175",
+      "manufacturerCode": "C154411",
+      "category": "OXI-COMBUSTÍVEL",
+      "categorySlug": "oxi-combustivel",
+      "path": "/gas-para-macaricos-map-de-400g-amarelo-11667",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "13055",
+      "title": "PEDRA P/ ACENDEDOR MACARICO TIPO CONCHA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SMF - IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "6064",
+      "manufacturerCode": "00889",
+      "category": "OXI-COMBUSTÍVEL",
+      "categorySlug": "oxi-combustivel",
+      "path": "/pedra-p-acendedor-macarico-tipo-concha-13055",
+      "image": "/products/images/0130/13055.webp",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "maquinas-e-acessorios--solda-industrial--oxi-combustivel"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ALBATROZ",
+  "parentLabel": "Marca",
+  "description": "Produtos ALBATROZ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALBATROZ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6535",
+      "title": "LANTERNA HOLOFT LED 50W HI005 ALCAN 500M",
+      "brand": "ALBATROZ",
+      "brandCode": "348",
+      "supplier": "INCORTEC COMERCIO LTDA",
+      "supplierCode": "1338",
+      "manufacturerCode": "34610-01",
+      "category": "PORTE GRANDE",
+      "categorySlug": "porte-grande",
+      "path": "/lanterna-holoft-led-50w-hi005-alcan-500m-6535",
+      "image": "/products/images/0065/6535.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--348--albatroz"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "LIGENAI",
+  "parentLabel": "Marca",
+  "description": "Produtos LIGENAI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LIGENAI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13076",
+      "title": "ASPIRADOR PO PORTATIL 5 EM 1 C/2 BATERIA",
+      "brand": "LIGENAI",
+      "brandCode": "1179",
+      "supplier": "NANDYR COMERCIO DE VARIEDADES E ACESSORIOS ELETRONICOS LTDA",
+      "supplierCode": "6074",
+      "manufacturerCode": "GN-568B",
+      "category": "ASPIRADORES PORTÁTEIS",
+      "categorySlug": "aspiradores-portateis",
+      "path": "/aspirador-po-portatil-5-em-1-c2-bateria-13076",
+      "image": "/products/images/0130/13076.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Aspiradores Industriais",
+      "sectionSlug": "aspiradores-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1179--ligenai"
+  }
+}

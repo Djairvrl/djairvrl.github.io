@@ -1,0 +1,36 @@
+{
+  "title": "ACTIOIL",
+  "parentLabel": "Marca",
+  "description": "Produtos ACTIOIL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ACTIOIL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6747",
+      "title": "ADITIVO COMB ACTIO A550 ACT5500000 500ML",
+      "brand": "ACTIOIL",
+      "brandCode": "331",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "112053",
+      "category": "ADITIVO",
+      "categorySlug": "aditivo",
+      "path": "/aditivo-comb-actio-a550-act5500000-500ml-6747",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--331--actioil"
+  }
+}

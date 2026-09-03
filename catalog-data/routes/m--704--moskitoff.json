@@ -1,0 +1,36 @@
+{
+  "title": "MOSKITOFF",
+  "parentLabel": "Marca",
+  "description": "Produtos MOSKITOFF disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MOSKITOFF"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9634",
+      "title": "REPELENTE ICARIDINA SPRAY 100ML MOSKITOFF",
+      "brand": "MOSKITOFF",
+      "brandCode": "704",
+      "supplier": "ZANUP MARKETPLACE E COMERCIO ONLINE LTDA",
+      "supplierCode": "2661",
+      "manufacturerCode": "10764",
+      "category": "REPELENTES",
+      "categorySlug": "repelentes",
+      "path": "/repelente-icaridina-spray-100ml-moskitoff-9634",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--704--moskitoff"
+  }
+}

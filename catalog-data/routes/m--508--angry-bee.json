@@ -1,0 +1,36 @@
+{
+  "title": "ANGRY BEE",
+  "parentLabel": "Marca",
+  "description": "Produtos ANGRY BEE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ANGRY BEE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7581",
+      "title": "BOMBA DE FURADEIRA / PARAFUSADEIRA PARA TRANSFERÊNCIA DE LÍQUIDOS - ANGRY BEE",
+      "brand": "ANGRY BEE",
+      "brandCode": "508",
+      "supplier": "ROMULO ODILON VAZ ASEVEDO",
+      "supplierCode": "1711",
+      "manufacturerCode": "MLB2115002364",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/bomba-de-furadeira-parafusadeira-para-transferencia-de-liquidos--angry-bee-7581",
+      "image": "/products/images/0075/7581.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--508--angry-bee"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "TACK TAPE",
+  "parentLabel": "Marca",
+  "description": "Produtos TACK TAPE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TACK TAPE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7455",
+      "title": "FITA P/ EMPACOTAMENTO PP 48X100M TRANSP",
+      "brand": "TACK TAPE",
+      "brandCode": "472",
+      "supplier": "RAFAEL MONTILHA MATHIAS 32742362843",
+      "supplierCode": "1659",
+      "manufacturerCode": "MLB2611252826",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/fita-p-empacotamento-pp-48x100m-transp-7455",
+      "image": "/products/images/0074/7455.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--472--tack-tape"
+  }
+}

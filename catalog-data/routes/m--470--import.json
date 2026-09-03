@@ -1,0 +1,36 @@
+{
+  "title": "IMPORT",
+  "parentLabel": "Marca",
+  "description": "Produtos IMPORT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "IMPORT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7451",
+      "title": "PISTOLA D'AGUA LAVADORA ALTA PRESSAO REC",
+      "brand": "IMPORT",
+      "brandCode": "470",
+      "supplier": "M E GOMES DA SILVA",
+      "supplierCode": "1658",
+      "manufacturerCode": "MLB3112523333_176311403018",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/pistola-dagua-lavadora-alta-pressao-rec-7451",
+      "image": "/products/images/0074/7451.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--470--import"
+  }
+}

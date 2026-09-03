@@ -1,0 +1,36 @@
+{
+  "title": "FORTCOM",
+  "parentLabel": "Marca",
+  "description": "Produtos FORTCOM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FORTCOM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9692",
+      "title": "DISPENSER PAPEL HIGIENICO EM ROLO",
+      "brand": "FORTCOM",
+      "brandCode": "713",
+      "supplier": "NATAL LIMP DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "1678",
+      "manufacturerCode": "1104",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/dispenser-papel-higienico-em-rolo-9692",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--713--fortcom"
+  }
+}

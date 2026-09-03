@@ -1,0 +1,87 @@
+{
+  "title": "COBIX",
+  "parentLabel": "Marca",
+  "description": "Produtos COBIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COBIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9181",
+      "title": "PASTA DE SOLDA 110G FLUXO PASTOSA",
+      "brand": "COBIX",
+      "brandCode": "352",
+      "supplier": "MASSON COMERCIO ELETRONICO LTDA",
+      "supplierCode": "2423",
+      "manufacturerCode": "6858",
+      "category": "LIMPEZA DE SOLDA",
+      "categorySlug": "limpeza-de-solda",
+      "path": "/pasta-de-solda-110g-fluxo-pastosa-9181",
+      "image": "/products/images/0091/9181.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6812",
+      "title": "SOLDA ESTANHO 0.5MM C/ FLUXO 60X40 CARRE",
+      "brand": "COBIX",
+      "brandCode": "352",
+      "supplier": "REDEMEKE COMERCIO ELETRONICO LTDA",
+      "supplierCode": "1369",
+      "manufacturerCode": "COBIX-AZL500G05-138",
+      "category": "FERRO DE SOLDA",
+      "categorySlug": "ferro-de-solda",
+      "path": "/solda-estanho-05mm-c-fluxo-60x40-carre-6812",
+      "image": "/products/images/0068/6812.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "10928",
+      "title": "SOLDA ESTANHO 1,5MM 40X60 COBIX 500",
+      "brand": "COBIX",
+      "brandCode": "352",
+      "supplier": "LUAN FERRAGENS FERRAMENTAS E REFRIGERACAO LTDA",
+      "supplierCode": "4212",
+      "manufacturerCode": "1848",
+      "category": null,
+      "categorySlug": null,
+      "path": "/solda-estanho-15mm-40x60-cobix-500-10928",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "10936",
+      "title": "SOLDA PASTA 110G",
+      "brand": "COBIX",
+      "brandCode": "352",
+      "supplier": "TATIANA MORGADO PERSICHETTO LTDA",
+      "supplierCode": "4236",
+      "manufacturerCode": "329",
+      "category": "LIMPEZA DE SOLDA",
+      "categorySlug": "limpeza-de-solda",
+      "path": "/solda-pasta-110g-10936",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--352--cobix"
+  }
+}

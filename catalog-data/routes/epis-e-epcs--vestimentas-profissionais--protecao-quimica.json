@@ -1,0 +1,61 @@
+{
+  "title": "PROTEÇÃO QUÍMICA",
+  "parentLabel": "Vestimentas Profissionais",
+  "description": "Produtos da categoria proteção química em vestimentas profissionais.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Vestimentas Profissionais",
+      "to": "/epis-e-epcs/vestimentas-profissionais"
+    },
+    {
+      "label": "PROTEÇÃO QUÍMICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2183",
+      "title": "CAMISA EM BRIM OPER AZUL MARIN. G",
+      "brand": "FARDADEZ",
+      "brandCode": "34",
+      "supplier": "FARDADEZ FARDAMENTOS PROFISSIONAIS LTDA",
+      "supplierCode": "201",
+      "manufacturerCode": "34",
+      "category": "PROTEÇÃO QUÍMICA",
+      "categorySlug": "protecao-quimica",
+      "path": "/camisa-em-brim-oper-azul-marin-g-2183",
+      "image": "/products/images/0021/2183.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "12866",
+      "title": "MACACAO TYCHEM QC AM C/CAPUZ TAM XXG",
+      "brand": "TYCHEM",
+      "brandCode": "1145",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "2002",
+      "manufacturerCode": "119310",
+      "category": "PROTEÇÃO QUÍMICA",
+      "categorySlug": "protecao-quimica",
+      "path": "/macacao-tychem-qc-am-ccapuz-tam-xxg-12866",
+      "image": "/products/images/0128/12866.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--vestimentas-profissionais--protecao-quimica"
+  }
+}

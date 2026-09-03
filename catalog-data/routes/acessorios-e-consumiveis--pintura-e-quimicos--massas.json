@@ -1,0 +1,146 @@
+{
+  "title": "MASSAS",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria massas em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "MASSAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7234",
+      "title": "CERA ORBI-MAX AUTOMATIVA 200G PASTOSA",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "8910",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/cera-orbimax-automativa-200g-pastosa-7234",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3561",
+      "title": "DUREPOXI MASSA 100G",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2087064",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/durepoxi-massa-100g-3561",
+      "image": "/products/images/0035/3561.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "3562",
+      "title": "DUREPOXI MASSA 50G",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2087061",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/durepoxi-massa-50g-3562",
+      "image": "/products/images/0035/3562.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11394",
+      "title": "MASSA  ACRILICA 5,4KG IQUINE",
+      "brand": "IQUINE",
+      "brandCode": "931",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1469",
+      "manufacturerCode": "666",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/massa-acrilica-54kg-iquine-11394",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10181",
+      "title": "MASSA CALAF 1000G CZA BRASCOVED",
+      "brand": "BRASCOLA",
+      "brandCode": "757",
+      "supplier": "APIGUANA MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "3254",
+      "manufacturerCode": "52943",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/massa-calaf-1000g-cza-brascoved-10181",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8444",
+      "title": "MASSA P/ CALAFETAR 350G CINZA",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "1625350001",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/massa-p-calafetar-350g-cinza-8444",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10056",
+      "title": "REPARO MAGNA-CRETE PC 9410  LOCTITE REF 235573",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "235573",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/reparo-magnacrete-pc-9410-loctite-ref-235573-10056",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--massas"
+  }
+}

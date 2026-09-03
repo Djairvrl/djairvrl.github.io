@@ -1,0 +1,163 @@
+{
+  "title": "LACRES DE SEGURANÇA",
+  "parentLabel": "Etiquetas e Sinalização de Segurança",
+  "description": "Produtos da categoria lacres de segurança em etiquetas e sinalização de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Etiquetas e Sinalização de Segurança",
+      "to": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "label": "LACRES DE SEGURANÇA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8142",
+      "title": "FIX 27 - AMARELO",
+      "brand": "LACREFIX",
+      "brandCode": "280",
+      "supplier": "SEAL DO BRASIL LACRES DE SEGURANCA LTDA.",
+      "supplierCode": "1958",
+      "manufacturerCode": "0004.004.00001",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/fix-27--amarelo-8142",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "9632",
+      "title": "LACRE COM ARAME 30 CM(3X26) -VERDE",
+      "brand": "BLESSED SEALS LACRES",
+      "brandCode": "703",
+      "supplier": "BLESSED SEALS LACRES DE SEGURANÇA LTDA",
+      "supplierCode": "2649",
+      "manufacturerCode": "1005VM",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-com-arame-30-cm3x26-verde-9632",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "6398",
+      "title": "LACRE COM ARAME VERDE GALVANIZADO-30CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JORDAN PRODUTOS DE SEGURANCA LTDA",
+      "supplierCode": "1561",
+      "manufacturerCode": "1134042030",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-com-arame-verde-galvanizado30cm-6398",
+      "image": "/products/images/0063/6398.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "13078",
+      "title": "LACRE COM ARAME VERM GALVANIZADO-30CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AFP LACRES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4632",
+      "manufacturerCode": "SL6PPVM",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-com-arame-verm-galvanizado30cm-13078",
+      "image": "/products/images/0130/13078.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "6397",
+      "title": "LACRE COM ARAME VERMELH GALVONIZADO-30CM",
+      "brand": "LACREFIX",
+      "brandCode": "280",
+      "supplier": "MINASLACRES - LACRES DE SEGURANCA LTDA.",
+      "supplierCode": "1210",
+      "manufacturerCode": "00400300016",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-com-arame-vermelh-galvonizado30cm-6397",
+      "image": "/products/images/0063/6397.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "11666",
+      "title": "LACRE GRAVADO 50 VERDE C/100",
+      "brand": "AFP LACRES",
+      "brandCode": "898",
+      "supplier": "AFP LACRES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4632",
+      "manufacturerCode": "SL 6 PE MASTER C/AR 3X26",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-gravado-50-verde-c100-11666",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "10217",
+      "title": "LACRE METALICO TIPO CADEADO CABO 60CM AZ",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "BLESSED SEALS LACRES DE SEGURANÇA LTDA",
+      "supplierCode": "2649",
+      "manufacturerCode": "LM 05 CB 30",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-metalico-tipo-cadeado-cabo-60cm-az-10217",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "11158",
+      "title": "SL64 PP LACRE BAIXO RELEVO",
+      "brand": "AFP LACRES",
+      "brandCode": "898",
+      "supplier": "AFP LACRES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4632",
+      "manufacturerCode": "SL 64 PP",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/sl64-pp-lacre-baixo-relevo-11158",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "bloqueio-e-etiquetagem--etiquetas-e-sinalizacao-de-seguranca--lacres-de-seguranca"
+  }
+}

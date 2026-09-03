@@ -1,0 +1,95 @@
+{
+  "title": "ABRAÇADEIRAS",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria abraçadeiras em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "ABRAÇADEIRAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13194",
+      "title": "ABRAC UV PRETA 202 MM X 3,7 MM - 100 PCS",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7020UVPR100",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abrac-uv-preta-202-mm-x-37-mm--100-pcs-13194",
+      "image": "/products/images/0131/13194.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9219",
+      "title": "ABRACADEIRA ACO 12MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "977",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abracadeira-aco-12mm-9219",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11987",
+      "title": "ABRACADEIRA RSF 9MM 5/16\" A 1/2\" 8-13",
+      "brand": "WORKER",
+      "brandCode": "421",
+      "supplier": "BAZZO MAQUINAS",
+      "supplierCode": "3792",
+      "manufacturerCode": "1109",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abracadeira-rsf-9mm-516-a-12-813-11987",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12389",
+      "title": "ABRACADEIRA TIPO D 1\"",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "2034",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abracadeira-tipo-d-1-12389",
+      "image": "/products/images/0123/12389.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--abracadeiras"
+  }
+}

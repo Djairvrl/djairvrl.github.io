@@ -1,0 +1,73 @@
+{
+  "page": 3,
+  "products": [
+    {
+      "code": "9269",
+      "title": "SACO DE BLOQUEIO DE PLUG - TAM MEDIO",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "SBPM",
+      "category": "BLOQUEIO DE PLUGUES E PONTES",
+      "categorySlug": "bloqueio-de-plugues-e-pontes",
+      "path": "/saco-de-bloqueio-de-plug--tam-medio-9269",
+      "image": "/products/images/0092/9269.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "6896",
+      "title": "SACO DE BLOQUEIO DE PLUGUE ELÉTRICO EXTRA GRANDE 55 X 45CM - TAGOUT SBPEXG",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "SBPEXG",
+      "category": "BLOQUEIO DE PLUGUES E PONTES",
+      "categorySlug": "bloqueio-de-plugues-e-pontes",
+      "path": "/saco-de-bloqueio-de-plugue-eletrico-extra-grande-55-x-45cm--tagout-sbpexg-6896",
+      "image": "/products/images/0068/6896.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
+      "code": "11158",
+      "title": "SL64 PP LACRE BAIXO RELEVO",
+      "brand": "AFP LACRES",
+      "brandCode": "898",
+      "supplier": "AFP LACRES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "4632",
+      "manufacturerCode": "SL 64 PP",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/sl64-pp-lacre-baixo-relevo-11158",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "10958",
+      "title": "TAG DE BLOQUEIO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "57298",
+      "category": "ETIQUETAS DE BLOQUEIO",
+      "categorySlug": "etiquetas-de-bloqueio",
+      "path": "/tag-de-bloqueio-10958",
+      "image": "/products/images/0109/10958.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "title": "PALISAD",
+  "parentLabel": "Marca",
+  "description": "Produtos PALISAD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PALISAD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1510",
+      "title": "PULVERIZADOR MANUAL 1,25L",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "647358",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulverizador-manual-125l-1510",
+      "image": "/products/images/0015/1510.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "1511",
+      "title": "PULVERIZADOR MANUAL 2L C/BOMBA",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "647388",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulverizador-manual-2l-cbomba-1511",
+      "image": "/products/images/0015/1511.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "3460",
+      "title": "PULVERIZADOR MANUAL C/ BOMBA 7LT",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "647508",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/pulverizador-manual-c-bomba-7lt-3460",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "520",
+      "title": "TESOURA CORTA GALHOS 710MM CABO EM ACO",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "605208",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-corta-galhos-710mm-cabo-em-aco-520",
+      "image": "/products/images/0005/520.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "521",
+      "title": "TESOURA P/PODA 200MM C/MOLA CABO METAL",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "605328",
+      "category": "TESOURAS",
+      "categorySlug": "tesouras",
+      "path": "/tesoura-ppoda-200mm-cmola-cabo-metal-521",
+      "image": "/products/images/0005/521.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "522",
+      "title": "VASSOURA P/GRAMA/JARDIM 22 DENTES METAL",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "617708",
+      "category": "ACESSORIOS",
+      "categorySlug": "acessorios",
+      "path": "/vassoura-pgramajardim-22-dentes-metal-522",
+      "image": "/products/images/0005/522.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--103--palisad"
+  }
+}

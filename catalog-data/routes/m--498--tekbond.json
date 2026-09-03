@@ -1,0 +1,104 @@
+{
+  "title": "TEKBOND",
+  "parentLabel": "Marca",
+  "description": "Produtos TEKBOND disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TEKBOND"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12629",
+      "title": "ADESIVO INSTANTANEO EM GEL 3G",
+      "brand": "TEKBOND",
+      "brandCode": "498",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "1699000003",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/adesivo-instantaneo-em-gel-3g-12629",
+      "image": "/products/images/0126/12629.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11259",
+      "title": "COLA INSTANTANEA 793 20G",
+      "brand": "TEKBOND",
+      "brandCode": "498",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "16.41.793.020",
+      "category": "COLA",
+      "categorySlug": "cola",
+      "path": "/cola-instantanea-793-20g-11259",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "2132",
+      "title": "SILICONE ACETICO 280G TRANP TEK BOND",
+      "brand": "TEKBOND",
+      "brandCode": "498",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "16.41.001.280",
+      "category": "SILICONE",
+      "categorySlug": "silicone",
+      "path": "/silicone-acetico-280g-tranp-tek-bond-2132",
+      "image": "/products/images/0021/2132.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12863",
+      "title": "TINTA SPRAY BRANCO BRILHANTE 350 ML",
+      "brand": "TEKBOND",
+      "brandCode": "498",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6278350300",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-spray-branco-brilhante-350-ml-12863",
+      "image": "/products/images/0128/12863.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10636",
+      "title": "VASELINA EM SPRAY 200G/300ML",
+      "brand": "TEKBOND",
+      "brandCode": "498",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "5199001300",
+      "category": "VASELINAS",
+      "categorySlug": "vaselinas",
+      "path": "/vaselina-em-spray-200g300ml-10636",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Compostos e Lubrificantes Técnicos",
+      "sectionSlug": "compostos-e-lubrificantes-tecnicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--498--tekbond"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "TRANSFORMADORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria transformadores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "TRANSFORMADORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4899",
+      "title": "TRANSFORMADOR ISOLADOR 10KVA 380V",
+      "brand": "KIMARKI",
+      "brandCode": "239",
+      "supplier": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1012",
+      "manufacturerCode": "10KVA",
+      "category": "TRANSFORMADORES",
+      "categorySlug": "transformadores",
+      "path": "/transformador-isolador-10kva-380v-4899",
+      "image": "/products/images/0048/4899.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7022",
+      "title": "TRANSFORMADOR ISOLADOR 15KVA 380V",
+      "brand": "KIMARKI",
+      "brandCode": "239",
+      "supplier": "KIMARKI TRANSFORMADORES INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1012",
+      "manufacturerCode": "15KVA",
+      "category": "TRANSFORMADORES",
+      "categorySlug": "transformadores",
+      "path": "/transformador-isolador-15kva-380v-7022",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11013",
+      "title": "TRANSFORMADOR MONO KRAPER1 200VA 60HZ",
+      "brand": "KRAPER",
+      "brandCode": "852",
+      "supplier": "DIMERI AUTOMACAO LTDA",
+      "supplierCode": "4310",
+      "manufacturerCode": "4051-01355-0004",
+      "category": "TRANSFORMADORES",
+      "categorySlug": "transformadores",
+      "path": "/transformador-mono-kraper1-200va-60hz-11013",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--transformadores"
+  }
+}

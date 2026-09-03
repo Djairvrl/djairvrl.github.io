@@ -1,0 +1,371 @@
+{
+  "title": "Spare Parts Energy",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy"
+    }
+  ],
+  "children": [
+    {
+      "name": "Componentes Hidráulicos e Refrigeração",
+      "slug": "componentes-hidraulicos-e-refrigeracao",
+      "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao",
+      "count": 72,
+      "categories": [
+        {
+          "name": "ACUMULADORES",
+          "slug": "acumuladores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/acumuladores",
+          "count": 1
+        },
+        {
+          "name": "CILINDROS",
+          "slug": "cilindros",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/cilindros",
+          "count": 6
+        },
+        {
+          "name": "CONECTORES E ADAPTADORES",
+          "slug": "conectores-e-adaptadores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/conectores-e-adaptadores",
+          "count": 14
+        },
+        {
+          "name": "INDICADORES DE NÍVEL / TEMPERATURA",
+          "slug": "indicadores-de-nivel-temperatura",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/indicadores-de-nivel-temperatura",
+          "count": 3
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/mangueiras",
+          "count": 6
+        },
+        {
+          "name": "SISTEMAS FILTRANTES",
+          "slug": "sistemas-filtrantes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/sistemas-filtrantes",
+          "count": 22
+        },
+        {
+          "name": "VEDAÇÕES",
+          "slug": "vedacoes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/vedacoes",
+          "count": 16
+        },
+        {
+          "name": "VÁLVULAS",
+          "slug": "valvulas",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/valvulas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Componentes Mecânicos",
+      "slug": "componentes-mecanicos",
+      "path": "/spare-parts-energy/componentes-mecanicos",
+      "count": 13,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE ENGRENAGEM",
+          "slug": "acessorios-de-engrenagem",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-de-engrenagem",
+          "count": 1
+        },
+        {
+          "name": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+          "slug": "acessorios-para-equipamentos-pesados",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-para-equipamentos-pesados",
+          "count": 4
+        },
+        {
+          "name": "ACOPLAMENTOS",
+          "slug": "acoplamentos",
+          "path": "/spare-parts-energy/componentes-mecanicos/acoplamentos",
+          "count": 3
+        },
+        {
+          "name": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+          "slug": "rolamentos-e-caixas-de-rolamento",
+          "path": "/spare-parts-energy/componentes-mecanicos/rolamentos-e-caixas-de-rolamento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis e Elementos de Fixação",
+      "slug": "consumiveis-e-elementos-de-fixacao",
+      "path": "/spare-parts-energy/consumiveis-e-elementos-de-fixacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Grandes Componentes e Transmissão",
+      "slug": "grandes-componentes-e-transmissao",
+      "path": "/spare-parts-energy/grandes-componentes-e-transmissao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Componentes Elétricos",
+      "slug": "componentes-eletricos",
+      "path": "/spare-parts-energy/componentes-eletricos",
+      "count": 1,
+      "categories": [
+        {
+          "name": "PRESSOSTATO",
+          "slug": "pressostato",
+          "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis",
+      "slug": "consumiveis",
+      "path": "/spare-parts-energy/consumiveis",
+      "count": 66,
+      "categories": [
+        {
+          "name": "FILTROS AMBIENTAIS",
+          "slug": "filtros-ambientais",
+          "path": "/spare-parts-energy/consumiveis/filtros-ambientais",
+          "count": 1
+        },
+        {
+          "name": "FILTROS DE MOTOR",
+          "slug": "filtros-de-motor",
+          "path": "/spare-parts-energy/consumiveis/filtros-de-motor",
+          "count": 13
+        },
+        {
+          "name": "FILTROS HIDRÁULICOS",
+          "slug": "filtros-hidraulicos",
+          "path": "/spare-parts-energy/consumiveis/filtros-hidraulicos",
+          "count": 18
+        },
+        {
+          "name": "PARAFUSOS, PROCAS E FIXADORES",
+          "slug": "parafusos-procas-e-fixadores",
+          "path": "/spare-parts-energy/consumiveis/parafusos-procas-e-fixadores",
+          "count": 19
+        },
+        {
+          "name": "TINTAS E QUÍMICOS",
+          "slug": "tintas-e-quimicos",
+          "path": "/spare-parts-energy/consumiveis/tintas-e-quimicos",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Grandes Componentes",
+      "slug": "grandes-componentes",
+      "path": "/spare-parts-energy/grandes-componentes",
+      "count": 2,
+      "categories": [
+        {
+          "name": "GEARBOX",
+          "slug": "gearbox",
+          "path": "/spare-parts-energy/grandes-componentes/gearbox",
+          "count": 1
+        },
+        {
+          "name": "TRANSFORMADOR",
+          "slug": "transformador",
+          "path": "/spare-parts-energy/grandes-componentes/transformador",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Peças Para Linha De Transmissão",
+      "slug": "pecas-para-linha-de-transmissao",
+      "path": "/spare-parts-energy/pecas-para-linha-de-transmissao",
+      "count": 24,
+      "categories": [
+        {
+          "name": "ESTRUTURAIS",
+          "slug": "estruturais",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/estruturais",
+          "count": 5
+        },
+        {
+          "name": "METÁLICAS",
+          "slug": "metalicas",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/metalicas",
+          "count": 19
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "5995",
+    "name": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L"
+  },
+  "products": [
+    {
+      "code": "12894",
+      "title": "FILTRO AR MOTOR DIESEL 1104A-44T62",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "26510342",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-ar-motor-diesel-1104a44t62-12894",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12895",
+      "title": "FILTRO COMB DIESEL CAT 1103/1104",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "4816636",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-comb-diesel-cat-11031104-12895",
+      "image": "/products/images/0128/12895.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12896",
+      "title": "FILTRO COMBUSTIVEL MOTOR A DIESEL",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "4415122",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-combustivel-motor-a-diesel-12896",
+      "image": "/products/images/0128/12896.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12889",
+      "title": "FILTRO COMBUSTIVEL SEPARADOR DE AGUA",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "21746575",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-combustivel-separador-de-agua-12889",
+      "image": "/products/images/0128/12889.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12888",
+      "title": "FILTRO DE AR VOLVO PENTA",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "21377909",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-ar-volvo-penta-12888",
+      "image": "/products/images/0128/12888.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12892",
+      "title": "FILTRO DE OLEO GENUINO/ORIGINAL",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "23958454",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-oleo-genuinooriginal-12892",
+      "image": "/products/images/0128/12892.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12893",
+      "title": "FILTRO DE OLEO GENUINO/ORIGINAL",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "23958454",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-oleo-genuinooriginal-12893",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12898",
+      "title": "FILTRO DE OLEO LUBRIFICANTE MOTOR A DIES",
+      "brand": "PERKINS",
+      "brandCode": "1152",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "2654407",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-de-oleo-lubrificante-motor-a-dies-12898",
+      "image": "/products/images/0128/12898.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12891",
+      "title": "FILTRO SEPARADOR DE AGUA DE COMBUSTIVEL",
+      "brand": "VOLVO",
+      "brandCode": "1151",
+      "supplier": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "supplierCode": "5995",
+      "manufacturerCode": "21538975",
+      "category": "FILTROS DE MOTOR",
+      "categorySlug": "filtros-de-motor",
+      "path": "/filtro-separador-de-agua-de-combustivel-12891",
+      "image": "/products/images/0128/12891.webp",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 9,
+    "pageBase": "spare-parts-energy--fornecedor-5995"
+  }
+}

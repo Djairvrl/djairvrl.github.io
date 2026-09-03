@@ -1,0 +1,104 @@
+{
+  "title": "INCOTERM",
+  "parentLabel": "Marca",
+  "description": "Produtos INCOTERM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "INCOTERM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11027",
+      "title": "APARELHO DE PRESSAO DIGITAL PULSO",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "96231",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/aparelho-de-pressao-digital-pulso-11027",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "11706",
+      "title": "GARROTE REUTILIZAVEL",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "95522",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/garrote-reutilizavel-11706",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "11735",
+      "title": "KIT ECHOENERGIA",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11735",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/kit-echoenergia-11735",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "12136",
+      "title": "PLUVIOMETRO DIGITAL 4760",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
+      "supplierCode": "5560",
+      "manufacturerCode": "4760",
+      "category": "PLUVIÔMETRO",
+      "categorySlug": "pluviometro",
+      "path": "/pluviometro-digital-4760-12136",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "12973",
+      "title": "TERMOMETRO PETR/BIO -10+50°C 0,5°C LIQ",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
+      "supplierCode": "5560",
+      "manufacturerCode": "518215",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-petrbio-1050c-05c-liq-12973",
+      "image": "/products/images/0129/12973.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--858--incoterm"
+  }
+}

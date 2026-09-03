@@ -1,0 +1,112 @@
+{
+  "title": "PESTICIDAS",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria pesticidas em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "PESTICIDAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13252",
+      "title": "INS AER BAYGON MATA EM SEGUNDOS",
+      "brand": "BAYGON",
+      "brandCode": "1208",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "232",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/ins-aer-baygon-mata-em-segundos-13252",
+      "image": "/products/images/0132/13252.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "13270",
+      "title": "INSETICIDA AEROSSOL SBP/BAYGON",
+      "brand": "SBP",
+      "brandCode": "484",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "00000000000",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/inseticida-aerossol-sbpbaygon-13270",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7510",
+      "title": "INSETICIDA SBP 380 ML EUCALIPTO",
+      "brand": "SBP",
+      "brandCode": "484",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "206558",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/inseticida-sbp-380-ml-eucalipto-7510",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7236",
+      "title": "KIT 2 ALCANCE ANTI VESPAS 400ML LABGARD",
+      "brand": "LABGARD",
+      "brandCode": "434",
+      "supplier": "PAULA REGINA CALDEIRA DE ALMEIDA 21326811800",
+      "supplierCode": "1548",
+      "manufacturerCode": "MLB2611207710",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/kit-2-alcance-anti-vespas-400ml-labgard-7236",
+      "image": "/products/images/0072/7236.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "3460",
+      "title": "PULVERIZADOR MANUAL C/ BOMBA 7LT",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "647508",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/pulverizador-manual-c-bomba-7lt-3460",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ambiental--contencao-ambiental--pesticidas"
+  }
+}

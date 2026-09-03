@@ -1,0 +1,104 @@
+{
+  "title": "MPS LUVAS",
+  "parentLabel": "Marca",
+  "description": "Produtos MPS LUVAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MPS LUVAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "741",
+      "title": "AVENTAL DE RASPA SEM EMENDA CA19224",
+      "brand": "MPS LUVAS",
+      "brandCode": "10",
+      "supplier": "ZANEL INDUSTRIAL EIRELI",
+      "supplierCode": "124",
+      "manufacturerCode": "67",
+      "category": "AVENTAIS",
+      "categorySlug": "aventais",
+      "path": "/avental-de-raspa-sem-emenda-ca19224-741",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1536",
+      "title": "LUVA DE COBERT VAQ P.15CM CA39779 11",
+      "brand": "MPS LUVAS",
+      "brandCode": "10",
+      "supplier": "MPS INDUSTRIA E COMERCIO DE LUVAS E EPIS",
+      "supplierCode": "65",
+      "manufacturerCode": "PR00502",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-de-cobert-vaq-p15cm-ca39779-11-1536",
+      "image": "/products/images/0015/1536.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1195",
+      "title": "LUVA VAQUETA MISTA 10 CA 39775",
+      "brand": "MPS LUVAS",
+      "brandCode": "10",
+      "supplier": "MPS INDUSTRIA E COMERCIO DE LUVAS E EPIS",
+      "supplierCode": "65",
+      "manufacturerCode": "60M10",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-vaqueta-mista-10-ca-39775-1195",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1201",
+      "title": "LUVA VAQUETA PETROL 9 CA 39779",
+      "brand": "MPS LUVAS",
+      "brandCode": "10",
+      "supplier": "MPS INDUSTRIA E COMERCIO DE LUVAS E EPIS",
+      "supplierCode": "65",
+      "manufacturerCode": "62M9",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-vaqueta-petrol-9-ca-39779-1201",
+      "image": "/products/images/0012/1201.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1051",
+      "title": "MANGOTE DE SEGURANÇA EM RASPA COM VELCRO - MPS LUVAS",
+      "brand": "MPS LUVAS",
+      "brandCode": "10",
+      "supplier": "MPS INDUSTRIA E COMERCIO DE LUVAS E EPIS",
+      "supplierCode": "65",
+      "manufacturerCode": "65",
+      "category": "MANGOTE",
+      "categorySlug": "mangote",
+      "path": "/mangote-de-seguranca-em-raspa-com-velcro--mps-luvas-1051",
+      "image": "/products/images/0010/1051.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--10--mps-luvas"
+  }
+}

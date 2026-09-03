@@ -1,0 +1,36 @@
+{
+  "title": "RESGATE APH",
+  "parentLabel": "Marca",
+  "description": "Produtos RESGATE APH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RESGATE APH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6967",
+      "title": "COLETE IMOBILIZADOR DORSAL KED ADULTO MARINHO - APH",
+      "brand": "RESGATE APH",
+      "brandCode": "395",
+      "supplier": "PRIMO MANHANI NETO",
+      "supplierCode": "1470",
+      "manufacturerCode": "SS058",
+      "category": "ACESSÓRIOS DE SALVAMENTO",
+      "categorySlug": "acessorios-de-salvamento",
+      "path": "/colete-imobilizador-dorsal-ked-adulto-marinho--aph-6967",
+      "image": "/products/images/0069/6967.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--395--resgate-aph"
+  }
+}

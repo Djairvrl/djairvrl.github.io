@@ -1,0 +1,61 @@
+{
+  "title": "FASÍMETRO",
+  "parentLabel": "Medição Manual e Precisão",
+  "description": "Produtos da categoria fasímetro em medição manual e precisão.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Manual e Precisão",
+      "to": "/medicao-e-teste/ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "label": "FASÍMETRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12986",
+      "title": "FASIMETRO CAT IV 600V S/ CONTATO METALIC",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MFA-845",
+      "category": "FASÍMETRO",
+      "categorySlug": "fasimetro",
+      "path": "/fasimetro-cat-iv-600v-s-contato-metalic-12986",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "3545",
+      "title": "FASÍMETRO/SEQUENCÍMETRO CAT III/600V -  MINIPA MFA-862",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MFA-862",
+      "category": "FASÍMETRO",
+      "categorySlug": "fasimetro",
+      "path": "/fasimetrosequencimetro-cat-iii600v--minipa-mfa862-3545",
+      "image": "/products/images/0035/3545.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-medicao-manual-e-precisao--fasimetro"
+  }
+}

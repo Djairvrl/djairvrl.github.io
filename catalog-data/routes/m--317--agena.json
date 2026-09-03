@@ -1,0 +1,70 @@
+{
+  "title": "AGENA",
+  "parentLabel": "Marca",
+  "description": "Produtos AGENA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AGENA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6670",
+      "title": "PROTETOR AUDITIVO ABAFADOR DE RUÍDO TIPO CONCHA VERMELHO 24DB ARS CA7166 - AGENA",
+      "brand": "AGENA",
+      "brandCode": "317",
+      "supplier": "AGENA INDUSTRIA DE EQUIPAMENTOS DE PROTECAO LTDA",
+      "supplierCode": "1289",
+      "manufacturerCode": "2214",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/protetor-auditivo-abafador-de-ruido-tipo-concha-vermelho-24db-ars-ca7166--agena-6670",
+      "image": "/products/images/0066/6670.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "6675",
+      "title": "PROTETOR AUDITIVO VERMELHO 15DB CA 4398",
+      "brand": "AGENA",
+      "brandCode": "317",
+      "supplier": "AGENA INDUSTRIA DE EQUIPAMENTOS DE PROTECAO LTDA",
+      "supplierCode": "1289",
+      "manufacturerCode": "3081",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/protetor-auditivo-vermelho-15db-ca-4398-6675",
+      "image": "/products/images/0066/6675.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "6676",
+      "title": "PROTETOR AUDITIVO VERMELHO 19DB CA 34218",
+      "brand": "AGENA",
+      "brandCode": "317",
+      "supplier": "AGENA INDUSTRIA DE EQUIPAMENTOS DE PROTECAO LTDA",
+      "supplierCode": "1289",
+      "manufacturerCode": "4552",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/protetor-auditivo-vermelho-19db-ca-34218-6676",
+      "image": "/products/images/0066/6676.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--317--agena"
+  }
+}

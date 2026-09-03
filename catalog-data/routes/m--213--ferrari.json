@@ -1,0 +1,70 @@
+{
+  "title": "FERRARI",
+  "parentLabel": "Marca",
+  "description": "Produtos FERRARI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FERRARI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8402",
+      "title": "BOMBA P AGUA SUJA 370W BS16 PREMIUM 220V",
+      "brand": "FERRARI",
+      "brandCode": "213",
+      "supplier": "PALACIO DAS FERRAMENTAS E PARAFUSOS LTDA",
+      "supplierCode": "2078",
+      "manufacturerCode": "72952",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/bomba-p-agua-suja-370w-bs16-premium-220v-8402",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "4476",
+      "title": "COMPRESSOR DE AR DIRETO MEGA JET CMJ-210/3,2  110/220V - FERRARI",
+      "brand": "FERRARI",
+      "brandCode": "213",
+      "supplier": "CARACOL COM DE MAQ E FERRAMENTAS LTDA",
+      "supplierCode": "930",
+      "manufacturerCode": "AAC1020007",
+      "category": "COMPRESSORES DE AR ELÉTRICOS",
+      "categorySlug": "compressores-de-ar-eletricos",
+      "path": "/compressor-de-ar-direto-mega-jet-cmj21032-110220v--ferrari-4476",
+      "image": "/products/images/0044/4476.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    },
+    {
+      "code": "4478",
+      "title": "MINI COMPRESSOR AR TURBO AIR12V MCTA-12",
+      "brand": "FERRARI",
+      "brandCode": "213",
+      "supplier": "CARACOL COM DE MAQ E FERRAMENTAS LTDA",
+      "supplierCode": "930",
+      "manufacturerCode": "AEC2010002",
+      "category": "COMPRESSORES DE AR PORTÁTEIS",
+      "categorySlug": "compressores-de-ar-portateis",
+      "path": "/mini-compressor-ar-turbo-air12v-mcta12-4478",
+      "image": "/products/images/0044/4478.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Compressores",
+      "sectionSlug": "compressores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--213--ferrari"
+  }
+}

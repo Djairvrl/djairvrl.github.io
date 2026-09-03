@@ -1,0 +1,36 @@
+{
+  "title": "ASTRO",
+  "parentLabel": "Marca",
+  "description": "Produtos ASTRO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ASTRO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11835",
+      "title": "MESA REFEIT DOBR 10L 3000MMX800MMX30MMF",
+      "brand": "ASTRO",
+      "brandCode": "990",
+      "supplier": "ASTRO COMERCIO DE MOVEIS PARA ESCRITORIO LTDA",
+      "supplierCode": "5329",
+      "manufacturerCode": "5B-B927-463A-A0BC-16C011261959",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/mesa-refeit-dobr-10l-3000mmx800mmx30mmf-11835",
+      "image": "/products/images/0118/11835.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--990--astro"
+  }
+}

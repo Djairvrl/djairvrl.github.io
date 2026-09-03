@@ -1,0 +1,36 @@
+{
+  "title": "RAMUZA",
+  "parentLabel": "Marca",
+  "description": "Produtos RAMUZA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RAMUZA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8957",
+      "title": "BALANCA DIGITAL 50KG C MASTRO 110/220V",
+      "brand": "RAMUZA",
+      "brandCode": "635",
+      "supplier": "INTEMOBILE DO BRASIL LTDA.",
+      "supplierCode": "2319",
+      "manufacturerCode": "MLB2708036710",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-digital-50kg-c-mastro-110220v-8957",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--635--ramuza"
+  }
+}

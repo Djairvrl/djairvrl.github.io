@@ -1,0 +1,61 @@
+{
+  "title": "ETIQUETAS TERMOSENSÍVEIS",
+  "parentLabel": "Etiquetas e Sinalização de Segurança",
+  "description": "Produtos da categoria etiquetas termosensíveis em etiquetas e sinalização de segurança.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Etiquetas e Sinalização de Segurança",
+      "to": "/bloqueio-e-etiquetagem/etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "label": "ETIQUETAS TERMOSENSÍVEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7341",
+      "title": "ETIQUETA PARA REGISTRO DE TEMPERATURA A",
+      "brand": "THERMAX",
+      "brandCode": "447",
+      "supplier": "JD COMERCIO ELETRONICO LTDA",
+      "supplierCode": "1586",
+      "manufacturerCode": "M10STHERGBD 01P1",
+      "category": "ETIQUETAS TERMOSENSÍVEIS",
+      "categorySlug": "etiquetas-termosensiveis",
+      "path": "/etiqueta-para-registro-de-temperatura-a-7341",
+      "image": "/products/images/0073/7341.png",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    },
+    {
+      "code": "7342",
+      "title": "ETIQUETA PARA REGISTRO DE TEMPERATURA B",
+      "brand": "THERMAX",
+      "brandCode": "447",
+      "supplier": "JD COMERCIO ELETRONICO LTDA",
+      "supplierCode": "1586",
+      "manufacturerCode": "M10STHERGAD 01P1 - 1",
+      "category": "ETIQUETAS TERMOSENSÍVEIS",
+      "categorySlug": "etiquetas-termosensiveis",
+      "path": "/etiqueta-para-registro-de-temperatura-b-7342",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "bloqueio-e-etiquetagem--etiquetas-e-sinalizacao-de-seguranca--etiquetas-termosensiveis"
+  }
+}

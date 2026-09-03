@@ -1,0 +1,53 @@
+{
+  "title": "G-TECH",
+  "parentLabel": "Marca",
+  "description": "Produtos G-TECH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "G-TECH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12780",
+      "title": "KIT MEDIDOR GLICOSE 110 TIRAS 110 LANCET",
+      "brand": "G-TECH",
+      "brandCode": "155",
+      "supplier": "CIRURGICA STORE - COMERCIO VAREJISTA DE ARTIGOS MEDICOS E HO",
+      "supplierCode": "5935",
+      "manufacturerCode": "GTECH0027",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/kit-medidor-glicose-110-tiras-110-lancet-12780",
+      "image": "/products/images/0127/12780.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    },
+    {
+      "code": "7283",
+      "title": "OXIMETRO DE PULSO MODELO OLED GR",
+      "brand": "G-TECH",
+      "brandCode": "155",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "02722",
+      "category": "APARELHOS E EQUIPAMENTOS DE MEDICAO",
+      "categorySlug": "aparelhos-e-equipamentos-de-medicao",
+      "path": "/oximetro-de-pulso-modelo-oled-gr-7283",
+      "image": "/products/images/0072/7283.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--155--g-tech"
+  }
+}

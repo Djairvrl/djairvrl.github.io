@@ -1,0 +1,95 @@
+{
+  "title": "CORDÕES ABSORVENTES",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria cordões absorventes em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "CORDÕES ABSORVENTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11235",
+      "title": "CORDAO 75X1200CM PP VIRGEM",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B011300040000120",
+      "category": "CORDÕES ABSORVENTES",
+      "categorySlug": "cordoes-absorventes",
+      "path": "/cordao-75x1200cm-pp-virgem-11235",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "13082",
+      "title": "CORDAO 75X1200CM VERDE",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B011300020000120",
+      "category": "CORDÕES ABSORVENTES",
+      "categorySlug": "cordoes-absorventes",
+      "path": "/cordao-75x1200cm-verde-13082",
+      "image": "/products/images/0130/13082.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "9477",
+      "title": "CORDÃO DE ABSORÇÃO SINTÉTICO 1,2MT BIOBLUE REF CORSI12",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B011300030000120",
+      "category": "CORDÕES ABSORVENTES",
+      "categorySlug": "cordoes-absorventes",
+      "path": "/cordao-de-absorcao-sintetico-12mt-bioblue-ref-corsi12-9477",
+      "image": "/products/images/0094/9477.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "1247",
+      "title": "CORDÕES ABSORVENTES DE ÓLEO - DERIVADOS DE PETRÓLEO 7,6CM X 1,2M - MANTAS BRASIL 336",
+      "brand": "MANTAS BRASIL",
+      "brandCode": "39",
+      "supplier": "MANTAS BRASIL IND E COMERCIO LTDA - EPP",
+      "supplierCode": "60",
+      "manufacturerCode": "336",
+      "category": "CORDÕES ABSORVENTES",
+      "categorySlug": "cordoes-absorventes",
+      "path": "/cordoes-absorventes-de-oleo--derivados-de-petroleo-76cm-x-12m--mantas-brasil-336-1247",
+      "image": "/products/images/0012/1247.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "ambiental--contencao-ambiental--cordoes-absorventes"
+  }
+}

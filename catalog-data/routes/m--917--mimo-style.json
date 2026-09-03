@@ -1,0 +1,36 @@
+{
+  "title": "MIMO STYLE",
+  "parentLabel": "Marca",
+  "description": "Produtos MIMO STYLE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MIMO STYLE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11232",
+      "title": "FOGAO ELETRICO FE01 1 BOCA 1000W 200V",
+      "brand": "MIMO STYLE",
+      "brandCode": "917",
+      "supplier": "BADAN ARTIGOS ESPORTIVOS LTDA",
+      "supplierCode": "3834",
+      "manufacturerCode": "47993",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/fogao-eletrico-fe01-1-boca-1000w-200v-11232",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--917--mimo-style"
+  }
+}

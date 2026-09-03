@@ -1,0 +1,36 @@
+{
+  "title": "FORMIS",
+  "parentLabel": "Marca",
+  "description": "Produtos FORMIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FORMIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10160",
+      "title": "KIT ESPACO CONFI DETECTOR 4GASE-PLATINUM",
+      "brand": "FORMIS",
+      "brandCode": "754",
+      "supplier": "FORMIS INSTRUMENTOS DE MEDICAO LTDA",
+      "supplierCode": "3203",
+      "manufacturerCode": "460",
+      "category": "DETECTOR DE GÁS",
+      "categorySlug": "detector-de-gas",
+      "path": "/kit-espaco-confi-detector-4gaseplatinum-10160",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--754--formis"
+  }
+}

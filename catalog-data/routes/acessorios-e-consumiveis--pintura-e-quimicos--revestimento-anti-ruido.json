@@ -1,0 +1,44 @@
+{
+  "title": "REVESTIMENTO ANTI-RUÍDO",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria revestimento anti-ruído em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "REVESTIMENTO ANTI-RUÍDO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9861",
+      "title": "ANTI CHIOS FREIOS A DISCO 200ML/140G ORB",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "OFICINA DOS BITS LTDA",
+      "supplierCode": "1454",
+      "manufacturerCode": "5930",
+      "category": "REVESTIMENTO ANTI-RUÍDO",
+      "categorySlug": "revestimento-anti-ruido",
+      "path": "/anti-chios-freios-a-disco-200ml140g-orb-9861",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--revestimento-anti-ruido"
+  }
+}

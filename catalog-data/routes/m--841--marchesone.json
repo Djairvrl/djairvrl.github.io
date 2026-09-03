@@ -1,0 +1,36 @@
+{
+  "title": "MARCHESONE",
+  "parentLabel": "Marca",
+  "description": "Produtos MARCHESONE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MARCHESONE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10971",
+      "title": "CAFETEIRA AUTOMATICA 2L MARCHESONI",
+      "brand": "MARCHESONE",
+      "brandCode": "841",
+      "supplier": "LUFIARA ECOM LTDA",
+      "supplierCode": "4272",
+      "manufacturerCode": "CF2L220V",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/cafeteira-automatica-2l-marchesoni-10971",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--841--marchesone"
+  }
+}

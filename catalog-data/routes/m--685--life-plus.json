@@ -1,0 +1,36 @@
+{
+  "title": "LIFE PLUS",
+  "parentLabel": "Marca",
+  "description": "Produtos LIFE PLUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LIFE PLUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7329",
+      "title": "LUVA CIRURGICA ESTERIL N. 7,5",
+      "brand": "LIFE PLUS",
+      "brandCode": "685",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "82742",
+      "category": "INSUMOS DE SALVAMENTO",
+      "categorySlug": "insumos-de-salvamento",
+      "path": "/luva-cirurgica-esteril-n-75-7329",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--685--life-plus"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "ITAQUA",
+  "parentLabel": "Marca",
+  "description": "Produtos ITAQUA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ITAQUA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13421",
+      "title": "CINTA AQUECIMENTO SILICONE TAMBOR 200L",
+      "brand": "ITAQUA",
+      "brandCode": "260",
+      "supplier": "ITAQUA INDUSTRIA E COMERCIO DE RESISTENCIAS ELETRICAS LTDA",
+      "supplierCode": "6280",
+      "manufacturerCode": "MLB3783586587",
+      "category": "SECADOR E AQUECEDOR INDUSTRIAL",
+      "categorySlug": "secador-e-aquecedor-industrial",
+      "path": "/cinta-aquecimento-silicone-tambor-200l-13421",
+      "image": "/products/images/0134/13421.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Climatização Industrial",
+      "sectionSlug": "climatizacao-industrial"
+    },
+    {
+      "code": "6060",
+      "title": "THINNER 5 LT",
+      "brand": "ITAQUA",
+      "brandCode": "260",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "8199",
+      "category": "DILUENTE",
+      "categorySlug": "diluente",
+      "path": "/thinner-5-lt-6060",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--260--itaqua"
+  }
+}

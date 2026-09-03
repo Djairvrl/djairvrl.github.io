@@ -1,0 +1,170 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos de MARCELO CESARIO SOARES neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "580",
+    "name": "MARCELO CESARIO SOARES"
+  },
+  "products": [
+    {
+      "code": "8862",
+      "title": "ABRIGO DE PLASTICO PARA EXTINTOR DE 4KG",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "1505",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-de-plastico-para-extintor-de-4kg-8862",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "8618",
+      "title": "CAPA EM LONA PVC PARA CO2 4KG",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "8618",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-em-lona-pvc-para-co2-4kg-8618",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "8629",
+      "title": "CAPA EM LONA PVC PARA CO2 73X40 PQS 12KG",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "8629",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-em-lona-pvc-para-co2-73x40-pqs-12kg-8629",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "8197",
+      "title": "CAPA PARA EXTINTOR CO2 10KG EM LONA PVC COM VISOR - VOGAN",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "PVCP10",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-para-extintor-co2-10kg-em-lona-pvc-com-visor--vogan-8197",
+      "image": "/products/images/0081/8197.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "8198",
+      "title": "CAPA PARA EXTINTOR PQS 50KG EM LONA PVC COM VISOR - VOGAN",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "PVCP50",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-para-extintor-pqs-50kg-em-lona-pvc-com-visor--vogan-8198",
+      "image": "/products/images/0081/8198.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "8199",
+      "title": "CAPA PARA EXTINTOR PQS 6KG EM LONA PVC COM VISOR - VOGAN",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "PVCP20",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/capa-para-extintor-pqs-6kg-em-lona-pvc-com-visor--vogan-8199",
+      "image": "/products/images/0081/8199.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "combate-a-incendio--fornecedor-580"
+  }
+}

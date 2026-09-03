@@ -1,0 +1,70 @@
+{
+  "title": "NADIR",
+  "parentLabel": "Marca",
+  "description": "Produtos NADIR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NADIR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12032",
+      "title": "CAIXA C/12 COPOS NAD ATOL LD 330ML",
+      "brand": "NADIR",
+      "brandCode": "1024",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891155012269",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/caixa-c12-copos-nad-atol-ld-330ml-12032",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12030",
+      "title": "PRATO NAD DIAMANTE RASO",
+      "brand": "NADIR",
+      "brandCode": "1024",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "3704",
+      "manufacturerCode": "7891155013228",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/prato-nad-diamante-raso-12030",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12031",
+      "title": "XICARA NAD CHA C/P 240ML ASTRAL",
+      "brand": "NADIR",
+      "brandCode": "1024",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "3704",
+      "manufacturerCode": "7894993010435",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/xicara-nad-cha-cp-240ml-astral-12031",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--1024--nadir"
+  }
+}

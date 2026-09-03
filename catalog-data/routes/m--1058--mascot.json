@@ -1,0 +1,36 @@
+{
+  "title": "MASCOT",
+  "parentLabel": "Marca",
+  "description": "Produtos MASCOT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MASCOT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12284",
+      "title": "CARREGADOR DE BATERIAS MASCOT 2541",
+      "brand": "MASCOT",
+      "brandCode": "1058",
+      "supplier": "POLAR COMPONENTES BRASIL LTDA",
+      "supplierCode": "5610",
+      "manufacturerCode": "086551",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/carregador-de-baterias-mascot-2541-12284",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1058--mascot"
+  }
+}

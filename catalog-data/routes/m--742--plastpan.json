@@ -1,0 +1,36 @@
+{
+  "title": "PLASTPAN",
+  "parentLabel": "Marca",
+  "description": "Produtos PLASTPAN disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLASTPAN"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10026",
+      "title": "FRASCO DE 120ML PEAD",
+      "brand": "PLASTPAN",
+      "brandCode": "742",
+      "supplier": "PLASTPAN COMERCIO DE EMBALAGENS LTDA",
+      "supplierCode": "2900",
+      "manufacturerCode": "MLB1773158415 _173903245",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/frasco-de-120ml-pead-10026",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--742--plastpan"
+  }
+}

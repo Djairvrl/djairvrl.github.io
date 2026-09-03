@@ -1,0 +1,36 @@
+{
+  "title": "GMC METAIS",
+  "parentLabel": "Marca",
+  "description": "Produtos GMC METAIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GMC METAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12965",
+      "title": "TORNEIRA P/BEBEDOURO FILTRO INDUSTRIAL",
+      "brand": "GMC METAIS",
+      "brandCode": "1164",
+      "supplier": "BLESS ACABAMENTOS LTDA",
+      "supplierCode": "2154",
+      "manufacturerCode": "MLB3715653180_181535211831",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/torneira-pbebedouro-filtro-industrial-12965",
+      "image": "/products/images/0129/12965.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1164--gmc-metais"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "CONECTORES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria conectores em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "CONECTORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11167",
+      "title": "AMPHENOL D-SUB STANDARD",
+      "brand": "AMPHENOL",
+      "brandCode": "899",
+      "supplier": "MOUSER ELECTRONICS, INC.",
+      "supplierCode": "4472",
+      "manufacturerCode": "D15P13A4GL00LF",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/amphenol-dsub-standard-11167",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11649",
+      "title": "CONECTOR BARRA TIPO SINDAL 1 A 1,5MM",
+      "brand": "STECK",
+      "brandCode": "444",
+      "supplier": "L DE MOURA SANTOS ELETRICA",
+      "supplierCode": "5177",
+      "manufacturerCode": "CE0001",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/conector-barra-tipo-sindal-1-a-15mm-11649",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8382",
+      "title": "CONECTOR CUNHA OC31 AMARELO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ORECON INDUSTRIA DE COMPONENTES ELETRICOS LTDA.",
+      "supplierCode": "2071",
+      "manufacturerCode": "A1402",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/conector-cunha-oc31-amarelo-8382",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7058",
+      "title": "CONECTOR GENERICO 4MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "524",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/conector-generico-4mm-7058",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10183",
+      "title": "UNILET/CONECTOR ALUM CURVO 1 S/ROSCA",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "SANTIL COMERCIAL ELETRICA LTDA",
+      "supplierCode": "1877",
+      "manufacturerCode": "0075690",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/uniletconector-alum-curvo-1-srosca-10183",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--conectores"
+  }
+}

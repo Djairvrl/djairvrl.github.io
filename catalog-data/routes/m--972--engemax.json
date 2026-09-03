@@ -1,0 +1,36 @@
+{
+  "title": "ENGEMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos ENGEMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ENGEMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11683",
+      "title": "CX BATERIA PICH ECO",
+      "brand": "ENGEMAX",
+      "brandCode": "972",
+      "supplier": "ENGEMAX SERVICOS MECANICOS LTDA",
+      "supplierCode": "5208",
+      "manufacturerCode": "1",
+      "category": "CAIXAS E BOTOEIRAS",
+      "categorySlug": "caixas-e-botoeiras",
+      "path": "/cx-bateria-pich-eco-11683",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--972--engemax"
+  }
+}

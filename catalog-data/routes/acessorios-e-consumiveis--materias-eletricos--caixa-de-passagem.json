@@ -1,0 +1,78 @@
+{
+  "title": "CAIXA DE PASSAGEM",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria caixa de passagem em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "CAIXA DE PASSAGEM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4725",
+      "title": "CAIXA DE LUZ RETANGULAR PVC 4\" X 2\" - FORTLEV",
+      "brand": "FORTLEV",
+      "brandCode": "228",
+      "supplier": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "966",
+      "manufacturerCode": "13050423",
+      "category": "CAIXA DE PASSAGEM",
+      "categorySlug": "caixa-de-passagem",
+      "path": "/caixa-de-luz-retangular-pvc-4-x-2--fortlev-4725",
+      "image": "/products/images/0047/4725.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "11037",
+      "title": "CAIXA DE PASSAGEM EMB.300X300X90",
+      "brand": "CEMAR",
+      "brandCode": "861",
+      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "supplierCode": "631",
+      "manufacturerCode": "7579",
+      "category": "CAIXA DE PASSAGEM",
+      "categorySlug": "caixa-de-passagem",
+      "path": "/caixa-de-passagem-emb300x300x90-11037",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12937",
+      "title": "CAIXA PASS EMB PVC 4X2 S/TP IP40",
+      "brand": "TIGRE",
+      "brandCode": "476",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "427089",
+      "category": "CAIXA DE PASSAGEM",
+      "categorySlug": "caixa-de-passagem",
+      "path": "/caixa-pass-emb-pvc-4x2-stp-ip40-12937",
+      "image": "/products/images/0129/12937.webp",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--caixa-de-passagem"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "CONTAINERS",
+  "parentLabel": "Máquinas E Implementos",
+  "description": "Produtos da categoria containers em máquinas e implementos.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos Corporativos",
+      "to": "/suprimentos-corporativos"
+    },
+    {
+      "label": "Máquinas E Implementos",
+      "to": "/suprimentos-corporativos/maquinas-e-implementos"
+    },
+    {
+      "label": "CONTAINERS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11810",
+      "title": "CONTAINER ALMOXARIFADO HC DE 40 PES INOV",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "INOVAR LOCACOES MOSSORO",
+      "supplierCode": "5314",
+      "manufacturerCode": "V-003",
+      "category": "CONTAINERS",
+      "categorySlug": "containers",
+      "path": "/container-almoxarifado-hc-de-40-pes-inov-11810",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    },
+    {
+      "code": "11408",
+      "title": "CONTAINER JR7-20L REV.B P/TRANS. VEICULO",
+      "brand": "REDENTOR",
+      "brandCode": "934",
+      "supplier": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1134",
+      "manufacturerCode": "699721009C",
+      "category": "CONTAINERS",
+      "categorySlug": "containers",
+      "path": "/container-jr720l-revb-ptrans-veiculo-11408",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Máquinas E Implementos",
+      "sectionSlug": "maquinas-e-implementos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "suprimentos-corporativos--maquinas-e-implementos--containers"
+  }
+}

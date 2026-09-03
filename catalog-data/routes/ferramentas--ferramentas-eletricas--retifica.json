@@ -1,0 +1,78 @@
+{
+  "title": "RETIFICA",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria retifica em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "RETIFICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12985",
+      "title": "RETIFICA RETA GGS 30 LS 750W 220V",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06012B50E0000",
+      "category": "RETIFICA",
+      "categorySlug": "retifica",
+      "path": "/retifica-reta-ggs-30-ls-750w-220v-12985",
+      "image": "/products/images/0129/12985.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "9068",
+      "title": "RETIFICADEIRA 500W 1/4 220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "GD0800-220V",
+      "category": "RETIFICA",
+      "categorySlug": "retifica",
+      "path": "/retificadeira-500w-14-220v-9068",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "1142",
+      "title": "RETÍFICA RETA 1/4\" 500W 220V GGS 28 L - BOSCH 06012240E0",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06012240E0000",
+      "category": "RETIFICA",
+      "categorySlug": "retifica",
+      "path": "/retifica-reta-14-500w-220v-ggs-28-l--bosch-06012240e0-1142",
+      "image": "/products/images/0011/1142.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-eletricas--retifica"
+  }
+}

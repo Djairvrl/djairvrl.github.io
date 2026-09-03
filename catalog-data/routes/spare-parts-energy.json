@@ -1,0 +1,1378 @@
+{
+  "title": "Spare Parts Energy",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy"
+    }
+  ],
+  "children": [
+    {
+      "name": "Componentes Hidráulicos e Refrigeração",
+      "slug": "componentes-hidraulicos-e-refrigeracao",
+      "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao",
+      "count": 72,
+      "categories": [
+        {
+          "name": "ACUMULADORES",
+          "slug": "acumuladores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/acumuladores",
+          "count": 1
+        },
+        {
+          "name": "CILINDROS",
+          "slug": "cilindros",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/cilindros",
+          "count": 6
+        },
+        {
+          "name": "CONECTORES E ADAPTADORES",
+          "slug": "conectores-e-adaptadores",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/conectores-e-adaptadores",
+          "count": 14
+        },
+        {
+          "name": "INDICADORES DE NÍVEL / TEMPERATURA",
+          "slug": "indicadores-de-nivel-temperatura",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/indicadores-de-nivel-temperatura",
+          "count": 3
+        },
+        {
+          "name": "MANGUEIRAS",
+          "slug": "mangueiras",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/mangueiras",
+          "count": 6
+        },
+        {
+          "name": "SISTEMAS FILTRANTES",
+          "slug": "sistemas-filtrantes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/sistemas-filtrantes",
+          "count": 22
+        },
+        {
+          "name": "VEDAÇÕES",
+          "slug": "vedacoes",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/vedacoes",
+          "count": 16
+        },
+        {
+          "name": "VÁLVULAS",
+          "slug": "valvulas",
+          "path": "/spare-parts-energy/componentes-hidraulicos-e-refrigeracao/valvulas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Componentes Mecânicos",
+      "slug": "componentes-mecanicos",
+      "path": "/spare-parts-energy/componentes-mecanicos",
+      "count": 13,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS DE ENGRENAGEM",
+          "slug": "acessorios-de-engrenagem",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-de-engrenagem",
+          "count": 1
+        },
+        {
+          "name": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+          "slug": "acessorios-para-equipamentos-pesados",
+          "path": "/spare-parts-energy/componentes-mecanicos/acessorios-para-equipamentos-pesados",
+          "count": 4
+        },
+        {
+          "name": "ACOPLAMENTOS",
+          "slug": "acoplamentos",
+          "path": "/spare-parts-energy/componentes-mecanicos/acoplamentos",
+          "count": 3
+        },
+        {
+          "name": "ROLAMENTOS E CAIXAS DE ROLAMENTO",
+          "slug": "rolamentos-e-caixas-de-rolamento",
+          "path": "/spare-parts-energy/componentes-mecanicos/rolamentos-e-caixas-de-rolamento",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis e Elementos de Fixação",
+      "slug": "consumiveis-e-elementos-de-fixacao",
+      "path": "/spare-parts-energy/consumiveis-e-elementos-de-fixacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Grandes Componentes e Transmissão",
+      "slug": "grandes-componentes-e-transmissao",
+      "path": "/spare-parts-energy/grandes-componentes-e-transmissao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Componentes Elétricos",
+      "slug": "componentes-eletricos",
+      "path": "/spare-parts-energy/componentes-eletricos",
+      "count": 1,
+      "categories": [
+        {
+          "name": "PRESSOSTATO",
+          "slug": "pressostato",
+          "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Consumíveis",
+      "slug": "consumiveis",
+      "path": "/spare-parts-energy/consumiveis",
+      "count": 66,
+      "categories": [
+        {
+          "name": "FILTROS AMBIENTAIS",
+          "slug": "filtros-ambientais",
+          "path": "/spare-parts-energy/consumiveis/filtros-ambientais",
+          "count": 1
+        },
+        {
+          "name": "FILTROS DE MOTOR",
+          "slug": "filtros-de-motor",
+          "path": "/spare-parts-energy/consumiveis/filtros-de-motor",
+          "count": 13
+        },
+        {
+          "name": "FILTROS HIDRÁULICOS",
+          "slug": "filtros-hidraulicos",
+          "path": "/spare-parts-energy/consumiveis/filtros-hidraulicos",
+          "count": 18
+        },
+        {
+          "name": "PARAFUSOS, PROCAS E FIXADORES",
+          "slug": "parafusos-procas-e-fixadores",
+          "path": "/spare-parts-energy/consumiveis/parafusos-procas-e-fixadores",
+          "count": 19
+        },
+        {
+          "name": "TINTAS E QUÍMICOS",
+          "slug": "tintas-e-quimicos",
+          "path": "/spare-parts-energy/consumiveis/tintas-e-quimicos",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Grandes Componentes",
+      "slug": "grandes-componentes",
+      "path": "/spare-parts-energy/grandes-componentes",
+      "count": 2,
+      "categories": [
+        {
+          "name": "GEARBOX",
+          "slug": "gearbox",
+          "path": "/spare-parts-energy/grandes-componentes/gearbox",
+          "count": 1
+        },
+        {
+          "name": "TRANSFORMADOR",
+          "slug": "transformador",
+          "path": "/spare-parts-energy/grandes-componentes/transformador",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Peças Para Linha De Transmissão",
+      "slug": "pecas-para-linha-de-transmissao",
+      "path": "/spare-parts-energy/pecas-para-linha-de-transmissao",
+      "count": 24,
+      "categories": [
+        {
+          "name": "ESTRUTURAIS",
+          "slug": "estruturais",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/estruturais",
+          "count": 5
+        },
+        {
+          "name": "METÁLICAS",
+          "slug": "metalicas",
+          "path": "/spare-parts-energy/pecas-para-linha-de-transmissao/metalicas",
+          "count": 19
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "6200",
+      "name": "93.978.013/0002-00GPL DISTRIBUIDORA E LOGISTICA LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-6200.json"
+    },
+    {
+      "code": "1492",
+      "name": "ABC COMPONENTES HIDRAULICOS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-1492.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-798.json"
+    },
+    {
+      "code": "790",
+      "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-790.json"
+    },
+    {
+      "code": "2991",
+      "name": "APIGUANA MAQUINAS E FERRAMENTAS LTDA",
+      "count": 2,
+      "file": "spare-parts-energy--fornecedor-2991.json"
+    },
+    {
+      "code": "5598",
+      "name": "AUXITEL ENERGIA SLU",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-5598.json"
+    },
+    {
+      "code": "521",
+      "name": "BREMEN IMPORTADORA DE EQUIPAMENTOS PARA LUBRIFICACAO LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-521.json"
+    },
+    {
+      "code": "4682",
+      "name": "BRONZI ARTEFATOS DE BORRACHA LTDA",
+      "count": 4,
+      "file": "spare-parts-energy--fornecedor-4682.json"
+    },
+    {
+      "code": "5971",
+      "name": "CCP CENTRO COMERCIAL DE PARAFUSOS LIMITADA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-5971.json"
+    },
+    {
+      "code": "2535",
+      "name": "COMERCIAL DRAGAO LTDA",
+      "count": 18,
+      "file": "spare-parts-energy--fornecedor-2535.json"
+    },
+    {
+      "code": "2696",
+      "name": "DAVILAIMPORTS COMERCIO DE ELETRONICOS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-2696.json"
+    },
+    {
+      "code": "6224",
+      "name": "DONIZETE APARECIDO MIRANDA 27593500888",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-6224.json"
+    },
+    {
+      "code": "2670",
+      "name": "DUALE SHP COMERCIAL LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-2670.json"
+    },
+    {
+      "code": "5912",
+      "name": "ELETROTRAFO PRODUTOS ELETRICOS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-5912.json"
+    },
+    {
+      "code": "927",
+      "name": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "count": 2,
+      "file": "spare-parts-energy--fornecedor-927.json"
+    },
+    {
+      "code": "3342",
+      "name": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "count": 18,
+      "file": "spare-parts-energy--fornecedor-3342.json"
+    },
+    {
+      "code": "3852",
+      "name": "FVA MATERIAL DE BORRACHARIA LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-3852.json"
+    },
+    {
+      "code": "2702",
+      "name": "GERALFIX COMERCIO DE FIXADORES LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-2702.json"
+    },
+    {
+      "code": "1915",
+      "name": "GIFEL ENGENHARIA DE INCENDIO E COMERCIO LTDA",
+      "count": 2,
+      "file": "spare-parts-energy--fornecedor-1915.json"
+    },
+    {
+      "code": "1803",
+      "name": "GMF FABRICACAO E MANUTENCAO DE BEBEDOUROS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-1803.json"
+    },
+    {
+      "code": "5212",
+      "name": "GNS GASES E EQUIPAMENTOS LTDA",
+      "count": 3,
+      "file": "spare-parts-energy--fornecedor-5212.json"
+    },
+    {
+      "code": "797",
+      "name": "HBR COMERCIO DE PNEUMÁTICO E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-797.json"
+    },
+    {
+      "code": "1575",
+      "name": "HD PLASTIC INDUSTRIA E COMERCIO DE PLASTICOS E METAIS LTDA",
+      "count": 2,
+      "file": "spare-parts-energy--fornecedor-1575.json"
+    },
+    {
+      "code": "2274",
+      "name": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "count": 5,
+      "file": "spare-parts-energy--fornecedor-2274.json"
+    },
+    {
+      "code": "5324",
+      "name": "HINE DO BRASIL INDUSTRIA E COMERCIO DE HIDRAULICOS E PNEUMAT",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-5324.json"
+    },
+    {
+      "code": "5769",
+      "name": "HMC HYDRAULICS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-5769.json"
+    },
+    {
+      "code": "604",
+      "name": "HYDAC TECNOLOGIA LTDA",
+      "count": 11,
+      "file": "spare-parts-energy--fornecedor-604.json"
+    },
+    {
+      "code": "2537",
+      "name": "HYDAC TECNOLOGIA LTDA.",
+      "count": 26,
+      "file": "spare-parts-energy--fornecedor-2537.json"
+    },
+    {
+      "code": "1775",
+      "name": "INCESA INDUSTRIA DE COMPONENTES ELETRICOS LTDA",
+      "count": 3,
+      "file": "spare-parts-energy--fornecedor-1775.json"
+    },
+    {
+      "code": "3770",
+      "name": "JIP COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-3770.json"
+    },
+    {
+      "code": "105",
+      "name": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-105.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 5,
+      "file": "spare-parts-energy--fornecedor-4.json"
+    },
+    {
+      "code": "3306",
+      "name": "MM DISTRIBUIDORA DE PRODUTOS E EQUIPAMENTOS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-3306.json"
+    },
+    {
+      "code": "5995",
+      "name": "MULTIDIESEL INDUSTRIA, COMÉRCIO, REPRESENTAÇÕES E SERVIÇOS L",
+      "count": 9,
+      "file": "spare-parts-energy--fornecedor-5995.json"
+    },
+    {
+      "code": "846",
+      "name": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-846.json"
+    },
+    {
+      "code": "6190",
+      "name": "PECA AI.COM S.A",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-6190.json"
+    },
+    {
+      "code": "1751",
+      "name": "PESA AGRO COMERCIO DE MAQUINAS S/A",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-1751.json"
+    },
+    {
+      "code": "4476",
+      "name": "PESA AGRO COMERCIO DE MAQUINAS S/A",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-4476.json"
+    },
+    {
+      "code": "3293",
+      "name": "PLENOBRAS DISTRIBUIDORA ELETRICA E HIDRAULICA LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-3293.json"
+    },
+    {
+      "code": "5188",
+      "name": "QUIMISUL SC BRASIL LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-5188.json"
+    },
+    {
+      "code": "6171",
+      "name": "RAFAEL FELIPE PERSIO LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-6171.json"
+    },
+    {
+      "code": "5092",
+      "name": "RES ENERGY SERVICES LTDA",
+      "count": 2,
+      "file": "spare-parts-energy--fornecedor-5092.json"
+    },
+    {
+      "code": "1079",
+      "name": "ROLIMEC ROLAMENTOS LTDA",
+      "count": 5,
+      "file": "spare-parts-energy--fornecedor-1079.json"
+    },
+    {
+      "code": "2053",
+      "name": "ROSANGELA COMERCIO BR LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-2053.json"
+    },
+    {
+      "code": "2701",
+      "name": "SO VEDACOES COMERCIAL LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-2701.json"
+    },
+    {
+      "code": "3588",
+      "name": "SOLUWAN COMERCIAL LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-3588.json"
+    },
+    {
+      "code": "976",
+      "name": "SPLACK S.A.",
+      "count": 3,
+      "file": "spare-parts-energy--fornecedor-976.json"
+    },
+    {
+      "code": "434",
+      "name": "STAUFF BRASIL LTDA",
+      "count": 21,
+      "file": "spare-parts-energy--fornecedor-434.json"
+    },
+    {
+      "code": "4557",
+      "name": "STEEL LOOP INDUSTRIAL DO BRASIL LTDA",
+      "count": 2,
+      "file": "spare-parts-energy--fornecedor-4557.json"
+    },
+    {
+      "code": "4744",
+      "name": "UNICASERV- COMERCIO, DISTRIBUICAO, IMPORTACAO E EXPORTACAO",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-4744.json"
+    },
+    {
+      "code": "5982",
+      "name": "WEG TINTAS LTDA",
+      "count": 3,
+      "file": "spare-parts-energy--fornecedor-5982.json"
+    },
+    {
+      "code": "6158",
+      "name": "ZANIN MANGUEIRAS E CONEXOES HIDRAULICAS LTDA",
+      "count": 1,
+      "file": "spare-parts-energy--fornecedor-6158.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "10241",
+      "title": "ACO CARBONO GALVANIZADO FOGO 120KN 16MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33234504",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/aco-carbono-galvanizado-fogo-120kn-16mm-10241",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "6567",
+      "title": "ACOPLADOR STANDARD (2030-G)",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.420.0024",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/acoplador-standard-2030g-6567",
+      "image": "/products/images/0065/6567.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "3631",
+      "title": "ACUMUL DE MEMBRANA STDA-100-NBR-P3-B-M-N",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426001016",
+      "category": "ACUMULADORES",
+      "categorySlug": "acumuladores",
+      "path": "/acumul-de-membrana-stda100nbrp3bmn-3631",
+      "image": "/products/images/0036/3631.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10608",
+      "title": "ADAPTADOR IMPACTO 1/2X1 SOQUETE FV",
+      "brand": "FVA",
+      "brandCode": "786",
+      "supplier": "FVA MATERIAL DE BORRACHARIA LTDA",
+      "supplierCode": "3852",
+      "manufacturerCode": "AF121",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-impacto-12x1-soquete-fv-10608",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "5756",
+      "title": "ADAPTADOR M28-5/8 STA-CK-ADP",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426010220",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-m2858-stackadp-5756",
+      "image": "/products/images/0057/5756.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "5757",
+      "title": "ADAPTADOR M28-7/8L STA-CK-ADP",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426010852",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-m2878l-stackadp-5757",
+      "image": "/products/images/0057/5757.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "7290",
+      "title": "ADAPTADOR STA-CK-ADP-M28-7/8S",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3426010215",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/adaptador-stackadpm2878s-7290",
+      "image": "/products/images/0072/7290.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10487",
+      "title": "ADESIVO PLASTICO CINZA 400 G  CA100",
+      "brand": "MAXIRUBBER",
+      "brandCode": "775",
+      "supplier": "SOLUWAN COMERCIAL LTDA",
+      "supplierCode": "3588",
+      "manufacturerCode": "51258",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/adesivo-plastico-cinza-400-g-ca100-10487",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "11292",
+      "title": "ALCA PRE-FORMADA P/ CABO CCE 6,8 - 7,4MM",
+      "brand": "UNICASERV",
+      "brandCode": "918",
+      "supplier": "UNICASERV- COMERCIO, DISTRIBUICAO, IMPORTACAO E EXPORTACAO",
+      "supplierCode": "4744",
+      "manufacturerCode": "AAF6874",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/alca-preformada-p-cabo-cce-68--74mm-11292",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "11830",
+      "title": "ANEL  ORING",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008719",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-11830",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12125",
+      "title": "ANEL ORING 8553",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008553",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-8553-12125",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12123",
+      "title": "ANEL ORING 8555",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008555",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-8555-12123",
+      "image": "/products/images/0121/12123.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12124",
+      "title": "ANEL ORING 8556",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008556",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-8556-12124",
+      "image": "/products/images/0121/12124.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10249",
+      "title": "ANEL P/LINHA TRANSMISSAO GALV FOGO 500KV",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33224008",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/anel-plinha-transmissao-galv-fogo-500kv-10249",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "11332",
+      "title": "ANEL TIPO QUADRADO EXT 2\" POLEGADAS",
+      "brand": "REAL BORRACHAS",
+      "brandCode": "922",
+      "supplier": "BRONZI ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "4682",
+      "manufacturerCode": "000847",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-tipo-quadrado-ext-2-polegadas-11332",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11333",
+      "title": "ANEL TIPO QUADRADO EXT 3\" POLEGADAS",
+      "brand": "REAL BORRACHAS",
+      "brandCode": "922",
+      "supplier": "BRONZI ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "4682",
+      "manufacturerCode": "000848",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-tipo-quadrado-ext-3-polegadas-11333",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11334",
+      "title": "ANEL TIPO QUADRADO EXT 4\" POLEGADAS",
+      "brand": "REAL BORRACHAS",
+      "brandCode": "922",
+      "supplier": "BRONZI ARTEFATOS DE BORRACHA LTDA",
+      "supplierCode": "4682",
+      "manufacturerCode": "000849",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-tipo-quadrado-ext-4-polegadas-11334",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12249",
+      "title": "ARANDELA FILTRO 3 MICRAS 27X18",
+      "brand": "AUXITEL",
+      "brandCode": "1053",
+      "supplier": "AUXITEL ENERGIA SLU",
+      "supplierCode": "5598",
+      "manufacturerCode": "12249",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/arandela-filtro-3-micras-27x18-12249",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9368",
+      "title": "ARRUELA LISA GALV ACO G2 NC 1/4\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "83049980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-galv-aco-g2-nc-14-9368",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10171",
+      "title": "ARRUELA LISA INOX A304 MA 6MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "48309980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-inox-a304-ma-6mm-10171",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9746",
+      "title": "ARRUELA LISA INOX A304 MA 8MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "48339980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-inox-a304-ma-8mm-9746",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9741",
+      "title": "ARRUELA LISA INOX A304 NC 1/4\"",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "47049980",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-lisa-inox-a304-nc-14-9741",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "12816",
+      "title": "ARRUELA PRESSÃO ME M10 FE ZB",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CCP CENTRO COMERCIAL DE PARAFUSOS LIMITADA",
+      "supplierCode": "5971",
+      "manufacturerCode": "11380",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/arruela-pressao-me-m10-fe-zb-12816",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "9787",
+      "title": "BARRA ROSC INOX A304 MA 1MT 8MM",
+      "brand": "DRAGAO DOS PARAFUSOS",
+      "brandCode": "722",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "80339000",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/barra-rosc-inox-a304-ma-1mt-8mm-9787",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "13032",
+      "title": "BLOCO 2X WSE ACU ALU BLRFM HBC15981",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "PROD30",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/bloco-2x-wse-acu-alu-blrfm-hbc15981-13032",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "13031",
+      "title": "BLOCO HYFM02-20 HYBOX FLEX MINI 20L",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "3361736BR",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/bloco-hyfm0220-hybox-flex-mini-20l-13031",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9793",
+      "title": "BUCHA FIX DURA D10",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003550",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d10-9793",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10445",
+      "title": "BUCHA FIX DURA D12",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003560",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d12-10445",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10447",
+      "title": "BUCHA FIX DURA D5",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003510",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d5-10447",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10449",
+      "title": "BUCHA FIX DURA D6",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003520",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d6-10449",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10455",
+      "title": "BUCHA FIX DURA D8",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL DRAGAO LTDA",
+      "supplierCode": "2535",
+      "manufacturerCode": "VH003540",
+      "category": "PARAFUSOS, PROCAS E FIXADORES",
+      "categorySlug": "parafusos-procas-e-fixadores",
+      "path": "/bucha-fix-dura-d8-10455",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "10209",
+      "title": "CALCO ESTABILIZADOR 16TON 40 X 28 X 8CM",
+      "brand": "PERFECTBORR",
+      "brandCode": "763",
+      "supplier": "MM DISTRIBUIDORA DE PRODUTOS E EQUIPAMENTOS LTDA",
+      "supplierCode": "3306",
+      "manufacturerCode": "7898996089405",
+      "category": "ACESSÓRIOS PARA EQUIPAMENTOS PESADOS",
+      "categorySlug": "acessorios-para-equipamentos-pesados",
+      "path": "/calco-estabilizador-16ton-40-x-28-x-8cm-10209",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    },
+    {
+      "code": "4260",
+      "title": "CARRINHO FILTRAGEM SCFC-10-G-2S-X-B-V-A",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "STB0012624",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/carrinho-filtragem-scfc10g2sxbva-4260",
+      "image": "/products/images/0042/4260.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11689",
+      "title": "CILINDRO DE HEXAFLUORETO DE ENXOFRE 10 L",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GNS GASES E EQUIPAMENTOS LTDA",
+      "supplierCode": "5212",
+      "manufacturerCode": "CHEX10",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-de-hexafluoreto-de-enxofre-10-l-11689",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "11959",
+      "title": "CILINDRO DE HEXAFLUORETO ENXOFRE 7 LITR",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GNS GASES E EQUIPAMENTOS LTDA",
+      "supplierCode": "5212",
+      "manufacturerCode": "CHEX7",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-de-hexafluoreto-enxofre-7-litr-11959",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9032",
+      "title": "CILINDRO EM ACO P NITROGENIO VAZIO 20L",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GIFEL ENGENHARIA DE INCENDIO E COMERCIO LTDA",
+      "supplierCode": "1915",
+      "manufacturerCode": "03.PA.GP020E",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-em-aco-p-nitrogenio-vazio-20l-9032",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "8036",
+      "title": "CILINDRO NITROGENIO",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GIFEL ENGENHARIA DE INCENDIO E COMERCIO LTDA",
+      "supplierCode": "1915",
+      "manufacturerCode": "03.PA.GP0040",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/cilindro-nitrogenio-8036",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9794",
+      "title": "COLA PLASTICA CINZA 400 GR",
+      "brand": "MASSAFIX",
+      "brandCode": "724",
+      "supplier": "DUALE SHP COMERCIAL LTDA",
+      "supplierCode": "2670",
+      "manufacturerCode": "SKU 6230",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/cola-plastica-cinza-400-gr-9794",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "11824",
+      "title": "COMBO GÁS SF6 CILINDRO 10 KG",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11824",
+      "category": "CILINDROS",
+      "categorySlug": "cilindros",
+      "path": "/combo-gas-sf6-cilindro-10-kg-11824",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "12366",
+      "title": "COMBO ORING'S  P/ KIT PRE CARGA",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "11111111111111",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/combo-orings-p-kit-pre-carga-12366",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10240",
+      "title": "CONCHA GARFO P/LINHA TRANSMISSAO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33234200",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/concha-garfo-plinha-transmissao-10240",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "8742",
+      "title": "CONEX MACHO/FEMEA  ESFERA C604 3/8",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "1140743",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/conex-machofemea-esfera-c604-38-8742",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10147",
+      "title": "CONEXAO MINIMESS 2146-01-00.00",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "687889",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/conexao-minimess-2146010000-10147",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "8430",
+      "title": "COTOVELO MACHO/FEMEA FZ1616",
+      "brand": "ENERPAC",
+      "brandCode": "118",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "7836171",
+      "category": "CONECTORES E ADAPTADORES",
+      "categorySlug": "conectores-e-adaptadores",
+      "path": "/cotovelo-machofemea-fz1616-8430",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "10246",
+      "title": "DUPLICADOR P/LINHA TRANS SIMET GALV240KN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33155707",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/duplicador-plinha-trans-simet-galv240kn-10246",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10243",
+      "title": "DUPLICADOR P/LINHA TRANSMISSAO 120 KN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33153600",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/duplicador-plinha-transmissao-120-kn-10243",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "10245",
+      "title": "DUPLICADOR P/LINHA TRANSMISSAO GALV240KN",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FORJASUL CANOAS SA INDUSTRIA METALURGICA",
+      "supplierCode": "3342",
+      "manufacturerCode": "33150326",
+      "category": "METÁLICAS",
+      "categorySlug": "metalicas",
+      "path": "/duplicador-plinha-transmissao-galv240kn-10245",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "9399",
+      "title": "ELEMEN FILTRANTE 03483108 R 010 BN4 /-GE",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA.",
+      "supplierCode": "2537",
+      "manufacturerCode": "1297688BR",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/elemen-filtrante-03483108-r-010-bn4-ge-9399",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "13077",
+      "title": "ELEMENTO DE AR BDE 400 X 2 W 0.0",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA",
+      "supplierCode": "604",
+      "manufacturerCode": "1299654BR",
+      "category": "SISTEMAS FILTRANTES",
+      "categorySlug": "sistemas-filtrantes",
+      "path": "/elemento-de-ar-bde-400-x-2-w-00-13077",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "9724",
+      "title": "ELEMENTO ELASTICO SP-14/GR-14",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SO VEDACOES COMERCIAL LTDA",
+      "supplierCode": "2701",
+      "manufacturerCode": "10483",
+      "category": "ACOPLAMENTOS",
+      "categorySlug": "acoplamentos",
+      "path": "/elemento-elastico-sp14gr14-9724",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Mecânicos",
+      "sectionSlug": "componentes-mecanicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 4,
+    "total": 178,
+    "pageBase": "spare-parts-energy"
+  }
+}

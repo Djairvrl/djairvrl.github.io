@@ -1,0 +1,36 @@
+{
+  "title": "TBVIEIRA",
+  "parentLabel": "Marca",
+  "description": "Produtos TBVIEIRA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TBVIEIRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6606",
+      "title": "BOMBONA 1000L",
+      "brand": "TBVIEIRA",
+      "brandCode": "306",
+      "supplier": "ELYAB SANTOS FERNANDES",
+      "supplierCode": "1266",
+      "manufacturerCode": "B1000",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/bombona-1000l-6606",
+      "image": "/products/images/0066/6606.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--306--tbvieira"
+  }
+}

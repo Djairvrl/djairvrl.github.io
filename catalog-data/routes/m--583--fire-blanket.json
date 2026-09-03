@@ -1,0 +1,53 @@
+{
+  "title": "FIRE BLANKET",
+  "parentLabel": "Marca",
+  "description": "Produtos FIRE BLANKET disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FIRE BLANKET"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8297",
+      "title": "MANTA ANTI CHAMA FIRE BLANKET",
+      "brand": "FIRE BLANKET",
+      "brandCode": "583",
+      "supplier": "NAUTICA CATARINA ACESSORIOS NAUTICOS LTDA",
+      "supplierCode": "2039",
+      "manufacturerCode": "400461",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/manta-anti-chama-fire-blanket-8297",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "9362",
+      "title": "MANTA ANTI CHAMA FIRE BLANKET 1,80X1,80",
+      "brand": "FIRE BLANKET",
+      "brandCode": "583",
+      "supplier": "NAUTICA CATARINA ACESSORIOS NAUTICOS LTDA",
+      "supplierCode": "2039",
+      "manufacturerCode": "400864",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/manta-anti-chama-fire-blanket-180x180-9362",
+      "image": "/products/images/0093/9362.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--583--fire-blanket"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "MAURIZIO & CIA",
+  "parentLabel": "Marca",
+  "description": "Produtos MAURIZIO & CIA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAURIZIO & CIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8679",
+      "title": "CHAVE SECCIONADORA",
+      "brand": "MAURIZIO & CIA",
+      "brandCode": "607",
+      "supplier": "MAURIZIO & CIA LTDA",
+      "supplierCode": "2172",
+      "manufacturerCode": "MSDD362807A",
+      "category": "CHAVES ELÉTRICAS",
+      "categorySlug": "chaves-eletricas",
+      "path": "/chave-seccionadora-8679",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9002",
+      "title": "CONJ SUPORTE INCLIN 45 5271 ZF",
+      "brand": "MAURIZIO & CIA",
+      "brandCode": "607",
+      "supplier": "MAURIZIO & CIA LTDA",
+      "supplierCode": "2172",
+      "manufacturerCode": "1235002044",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/conj-suporte-inclin-45-5271-zf-9002",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--607--maurizio-cia"
+  }
+}

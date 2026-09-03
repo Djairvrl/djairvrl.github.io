@@ -1,0 +1,61 @@
+{
+  "title": "BARRAMENTO",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria barramento em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "BARRAMENTO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8350",
+      "title": "BARRA CHATA COBRE PURO 3/4 X 1/8 19X3MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SIMONE DE OLIVEIRA SILVA",
+      "supplierCode": "2059",
+      "manufacturerCode": "MLB2696283479",
+      "category": "BARRAMENTO",
+      "categorySlug": "barramento",
+      "path": "/barra-chata-cobre-puro-34-x-18-19x3mm-8350",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7057",
+      "title": "BARRAMENTO TRIFASICO TIPO PENTE 1MT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "3087",
+      "category": "BARRAMENTO",
+      "categorySlug": "barramento",
+      "path": "/barramento-trifasico-tipo-pente-1mt-7057",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--barramento"
+  }
+}

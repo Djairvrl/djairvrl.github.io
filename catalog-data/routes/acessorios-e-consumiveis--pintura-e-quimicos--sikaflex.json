@@ -1,0 +1,129 @@
+{
+  "title": "SIKAFLEX",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria sikaflex em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "SIKAFLEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8627",
+      "title": "ADESIVO SELANTE 221 CINZA CT 300ML",
+      "brand": "SIKAFLEX",
+      "brandCode": "428",
+      "supplier": "DIPROTEC DISTRIBUIDORA DE PRODUTOS TECNICOS PARA CONSTRUCAO",
+      "supplierCode": "1520",
+      "manufacturerCode": "153",
+      "category": "SIKAFLEX",
+      "categorySlug": "sikaflex",
+      "path": "/adesivo-selante-221-cinza-ct-300ml-8627",
+      "image": "/products/images/0086/8627.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8098",
+      "title": "ADESIVO SELANTE SIKAFLEX-521 UV CINZA RAL 7038 400ML - SIKA",
+      "brand": "SIKAFLEX",
+      "brandCode": "428",
+      "supplier": "DIPROTEC DISTRIBUIDORA DE PRODUTOS TECNICOS PARA CONSTRUCAO",
+      "supplierCode": "1520",
+      "manufacturerCode": "184026",
+      "category": "SIKAFLEX",
+      "categorySlug": "sikaflex",
+      "path": "/adesivo-selante-sikaflex521-uv-cinza-ral-7038-400ml--sika-8098",
+      "image": "/products/images/0080/8098.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11177",
+      "title": "SELANT MULT. 591 UV BC 300 ML 531706",
+      "brand": "SIKAFLEX",
+      "brandCode": "428",
+      "supplier": "CATARINA NAUTICA COMERCIO E REPRESENTACOES LTDA",
+      "supplierCode": "4662",
+      "manufacturerCode": "2970",
+      "category": "SIKAFLEX",
+      "categorySlug": "sikaflex",
+      "path": "/selant-mult-591-uv-bc-300-ml-531706-11177",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "12397",
+      "title": "SELANTE 501 LA CINZA 600ML / 930G",
+      "brand": "SIKAFLEX",
+      "brandCode": "428",
+      "supplier": "CIEMA COMERCIO DE BORRACHA LTDA",
+      "supplierCode": "3478",
+      "manufacturerCode": "1159434K6",
+      "category": "SIKAFLEX",
+      "categorySlug": "sikaflex",
+      "path": "/selante-501-la-cinza-600ml-930g-12397",
+      "image": "/products/images/0123/12397.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10387",
+      "title": "SIKAFLEX-101 SELA PLUS CINZA BR CTR40",
+      "brand": "SIKAFLEX",
+      "brandCode": "428",
+      "supplier": "SIKA S A",
+      "supplierCode": "3376",
+      "manufacturerCode": "000000000000504857",
+      "category": "SIKAFLEX",
+      "categorySlug": "sikaflex",
+      "path": "/sikaflex101-sela-plus-cinza-br-ctr40-10387",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7192",
+      "title": "VEDA CALHA SIKAFLEX 101 SELA PLUS 250ML BRANCO - SIKA",
+      "brand": "SIKAFLEX",
+      "brandCode": "428",
+      "supplier": "DIPROTEC DISTRIBUIDORA DE PRODUTOS TECNICOS PARA CONSTRUCAO",
+      "supplierCode": "1520",
+      "manufacturerCode": "18055",
+      "category": "SIKAFLEX",
+      "categorySlug": "sikaflex",
+      "path": "/veda-calha-sikaflex-101-sela-plus-250ml-branco--sika-7192",
+      "image": "/products/images/0071/7192.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--sikaflex"
+  }
+}

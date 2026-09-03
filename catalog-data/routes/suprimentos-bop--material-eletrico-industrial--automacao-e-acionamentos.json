@@ -1,0 +1,163 @@
+{
+  "title": "AUTOMAÇÃO E ACIONAMENTOS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria automação e acionamentos em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "AUTOMAÇÃO E ACIONAMENTOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13412",
+      "title": "CLP LOGO 6ED1052-1MD08-0BA2 24RCE C/DISP",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "TRITEC EQUIPAMENTOS LTDA",
+      "supplierCode": "6182",
+      "manufacturerCode": "86153",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/clp-logo-6ed10521md080ba2-24rce-cdisp-13412",
+      "image": "/products/images/0134/13412.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13241",
+      "title": "CLP SIEMENS LOGO 24V 8DI 4DO C/DISP V8",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "TRITEC EQUIPAMENTOS LTDA",
+      "supplierCode": "6182",
+      "manufacturerCode": "87209",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/clp-siemens-logo-24v-8di-4do-cdisp-v8-13241",
+      "image": "/products/images/0132/13241.webp",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13342",
+      "title": "CLP SIEMENS LOGO 8 24RCE 6ED1052-1HB08",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "MACHINE TOOLS AUTOMATION IMPORTACAO E EXPORTACAO LTDA",
+      "supplierCode": "6246",
+      "manufacturerCode": "1000000328170",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/clp-siemens-logo-8-24rce-6ed10521hb08-13342",
+      "image": "/products/images/0133/13342.webp",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10215",
+      "title": "COMP DZ BRUTALLE 2.0T SP JET FLEX FULL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MEG ATACADO & VAREJO LTDA",
+      "supplierCode": "3097",
+      "manufacturerCode": "C-F06794001/SC-A16811-6",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/comp-dz-brutalle-20t-sp-jet-flex-full-10215",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13276",
+      "title": "CONFIGURADOR LENZE EMZ2221IB",
+      "brand": "LENZE",
+      "brandCode": "1219",
+      "supplier": "PROIND ELETRONICA LTDA",
+      "supplierCode": "6206",
+      "manufacturerCode": "13479870",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/configurador-lenze-emz2221ib-13276",
+      "image": "/products/images/0132/13276.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "9641",
+      "title": "MODULO ELETRONICO CLP 24VCCEASY719-DC-RC",
+      "brand": "MOELLER",
+      "brandCode": "706",
+      "supplier": "PETRARC REP E COM LTDA",
+      "supplierCode": "2657",
+      "manufacturerCode": "274119",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/modulo-eletronico-clp-24vcceasy719dcrc-9641",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "7946",
+      "title": "PROGRAMADOR HORARIO COEL BWT40",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2454",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/programador-horario-coel-bwt40-7946",
+      "image": "/products/images/0079/7946.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13311",
+      "title": "WALLBOX BYD 7KWH P/ VEICULO ELETRICO",
+      "brand": "BYD",
+      "brandCode": "1223",
+      "supplier": "RECICLATEC COMERCIO E SERVICOS DE TECNOLOGIA LTDA",
+      "supplierCode": "2508",
+      "manufacturerCode": "19795",
+      "category": "AUTOMAÇÃO E ACIONAMENTOS",
+      "categorySlug": "automacao-e-acionamentos",
+      "path": "/wallbox-byd-7kwh-p-veiculo-eletrico-13311",
+      "image": "/products/images/0133/13311.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--automacao-e-acionamentos"
+  }
+}

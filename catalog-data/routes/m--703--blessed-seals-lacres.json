@@ -1,0 +1,36 @@
+{
+  "title": "BLESSED SEALS LACRES",
+  "parentLabel": "Marca",
+  "description": "Produtos BLESSED SEALS LACRES disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BLESSED SEALS LACRES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9632",
+      "title": "LACRE COM ARAME 30 CM(3X26) -VERDE",
+      "brand": "BLESSED SEALS LACRES",
+      "brandCode": "703",
+      "supplier": "BLESSED SEALS LACRES DE SEGURANÇA LTDA",
+      "supplierCode": "2649",
+      "manufacturerCode": "1005VM",
+      "category": "LACRES DE SEGURANÇA",
+      "categorySlug": "lacres-de-seguranca",
+      "path": "/lacre-com-arame-30-cm3x26-verde-9632",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Etiquetas e Sinalização de Segurança",
+      "sectionSlug": "etiquetas-e-sinalizacao-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--703--blessed-seals-lacres"
+  }
+}

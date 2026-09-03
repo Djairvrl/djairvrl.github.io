@@ -1,0 +1,53 @@
+{
+  "title": "CHEMICOLOR",
+  "parentLabel": "Marca",
+  "description": "Produtos CHEMICOLOR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CHEMICOLOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7013",
+      "title": "SPRAY DESENGRIPANTE GRAFITE LUBRIFICANTE A SECO 250ML/130G - CHEMICOLOR",
+      "brand": "CHEMICOLOR",
+      "brandCode": "364",
+      "supplier": "LUXSON COMERCIO DE SPRAYS LTDA",
+      "supplierCode": "1405",
+      "manufacturerCode": "7899674035684",
+      "category": "DESENGRIPANTE",
+      "categorySlug": "desengripante",
+      "path": "/spray-desengripante-grafite-lubrificante-a-seco-250ml130g--chemicolor-7013",
+      "image": "/products/images/0070/7013.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6863",
+      "title": "TINTA SPRAY METALICA PRATA 400ML",
+      "brand": "CHEMICOLOR",
+      "brandCode": "364",
+      "supplier": "LUXSON COMERCIO DE SPRAYS LTDA",
+      "supplierCode": "1405",
+      "manufacturerCode": "680185",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-spray-metalica-prata-400ml-6863",
+      "image": "/products/images/0068/6863.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--364--chemicolor"
+  }
+}

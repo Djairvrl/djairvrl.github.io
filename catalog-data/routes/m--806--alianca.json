@@ -1,0 +1,36 @@
+{
+  "title": "ALIANÇA",
+  "parentLabel": "Marca",
+  "description": "Produtos ALIANÇA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALIANÇA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10734",
+      "title": "PORTA CADEADO 2\" - 81114 - ZI",
+      "brand": "ALIANÇA",
+      "brandCode": "806",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "3248200000",
+      "category": "CADEADO",
+      "categorySlug": "cadeado",
+      "path": "/porta-cadeado-2--81114--zi-10734",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--806--alianca"
+  }
+}

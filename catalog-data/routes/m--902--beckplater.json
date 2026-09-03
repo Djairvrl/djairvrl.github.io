@@ -1,0 +1,36 @@
+{
+  "title": "BECKPLATER",
+  "parentLabel": "Marca",
+  "description": "Produtos BECKPLATER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BECKPLATER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11202",
+      "title": "DETERGENTE VERSATIL BECKPLATER 5LT",
+      "brand": "BECKPLATER",
+      "brandCode": "902",
+      "supplier": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
+      "supplierCode": "772",
+      "manufacturerCode": "PA0001933",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/detergente-versatil-beckplater-5lt-11202",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--902--beckplater"
+  }
+}

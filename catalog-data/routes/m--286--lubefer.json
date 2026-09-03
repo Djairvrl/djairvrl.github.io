@@ -1,0 +1,121 @@
+{
+  "title": "LUBEFER",
+  "parentLabel": "Marca",
+  "description": "Produtos LUBEFER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LUBEFER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11836",
+      "title": "AFERIDORA PARA COMBUSTIVEL",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "LUBEFER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5325",
+      "manufacturerCode": "LUB-MED01",
+      "category": "MEDIDOR",
+      "categorySlug": "medidor",
+      "path": "/aferidora-para-combustivel-11836",
+      "image": "/products/images/0118/11836.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Manual e Precisão",
+      "sectionSlug": "ferramentas-de-medicao-manual-e-precisao"
+    },
+    {
+      "code": "11831",
+      "title": "CONECTOR GIRATORIA Z AL 3/4 58MM 35Z LUB",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "LUBEFER INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "5325",
+      "manufacturerCode": "LUB-35Z",
+      "category": "ACESSÓRIOS DE LUBRIFICAÇÃO/ABASTECIMENTO",
+      "categorySlug": "acessorios-de-lubrificacao-abastecimento",
+      "path": "/conector-giratoria-z-al-34-58mm-35z-lub-11831",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "10934",
+      "title": "FUNIL 2 CURVAS EM ACO ZINCADO LUB-58",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "ROMATA FERRAMENTAS E MAQUINAS LTDA",
+      "supplierCode": "4231",
+      "manufacturerCode": "01211",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-2-curvas-em-aco-zincado-lub58-10934",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6480",
+      "title": "FUNIL DE ALUMINIO 1 CURVA",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "G D S LIMA COMERCIAL & EQUIPAMENTOS LTDA",
+      "supplierCode": "1236",
+      "manufacturerCode": "237",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-de-aluminio-1-curva-6480",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "2124",
+      "title": "FUNIL DE USO GERAL EM AÇO GALVANIZADO BICO RETO LUB-55 -  LUBEFER",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "G D S LIMA COMERCIAL & EQUIPAMENTOS LTDA",
+      "supplierCode": "1236",
+      "manufacturerCode": "239",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-de-uso-geral-em-aco-galvanizado-bico-reto-lub55--lubefer-2124",
+      "image": "/products/images/0021/2124.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10965",
+      "title": "FUNIL DE USO GERAL MERCEDES LUB 59",
+      "brand": "LUBEFER",
+      "brandCode": "286",
+      "supplier": "C F DA SILVA COSTA",
+      "supplierCode": "4266",
+      "manufacturerCode": "0000000000706",
+      "category": "FUNIL",
+      "categorySlug": "funil",
+      "path": "/funil-de-uso-geral-mercedes-lub-59-10965",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--286--lubefer"
+  }
+}

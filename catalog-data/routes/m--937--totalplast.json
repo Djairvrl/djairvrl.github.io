@@ -1,0 +1,36 @@
+{
+  "title": "TOTALPLAST",
+  "parentLabel": "Marca",
+  "description": "Produtos TOTALPLAST disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TOTALPLAST"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11413",
+      "title": "PRATO DESC PR150 C/10 TOTALPLAST 1X1",
+      "brand": "TOTALPLAST",
+      "brandCode": "937",
+      "supplier": "CASA NORTE LTDA",
+      "supplierCode": "4511",
+      "manufacturerCode": "77978",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/prato-desc-pr150-c10-totalplast-1x1-11413",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--937--totalplast"
+  }
+}

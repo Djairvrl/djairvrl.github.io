@@ -1,0 +1,146 @@
+{
+  "title": "MOTOSSERRISTA",
+  "parentLabel": "Vestimentas Profissionais",
+  "description": "Produtos da categoria motosserrista em vestimentas profissionais.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Vestimentas Profissionais",
+      "to": "/epis-e-epcs/vestimentas-profissionais"
+    },
+    {
+      "label": "MOTOSSERRISTA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5346",
+      "title": "BLUSAO OP MOTOSS AZUL 10 CAMAD CA46231-G",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "152432",
+      "category": "MOTOSSERRISTA",
+      "categorySlug": "motosserrista",
+      "path": "/blusao-op-motoss-azul-10-camad-ca46231g-5346",
+      "image": "/products/images/0053/5346.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "633",
+      "title": "BLUSÃO OPERADOR DE MOTOSSERRA AZUL TAM G CA38921 SAYRO REF BOP 008",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "633",
+      "category": "MOTOSSERRISTA",
+      "categorySlug": "motosserrista",
+      "path": "/blusao-operador-de-motosserra-azul-tam-g-ca38921-sayro-ref-bop-008-633",
+      "image": "/products/images/0006/633.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1623",
+      "title": "BLUSÃO OPERADOR DE MOTOSSERRA AZUL TAM GG CA38921 SAYRO REF BOP 008",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "152422",
+      "category": "MOTOSSERRISTA",
+      "categorySlug": "motosserrista",
+      "path": "/blusao-operador-de-motosserra-azul-tam-gg-ca38921-sayro-ref-bop-008-1623",
+      "image": "/products/images/0016/1623.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "588",
+      "title": "BLUSÃO OPERADOR DE MOTOSSERRA AZUL TAM M CA38921 SAYRO REF BOP 008",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "152420",
+      "category": "MOTOSSERRISTA",
+      "categorySlug": "motosserrista",
+      "path": "/blusao-operador-de-motosserra-azul-tam-m-ca38921-sayro-ref-bop-008-588",
+      "image": "/products/images/0005/588.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1206",
+      "title": "CALÇA ANTICORTE OPERADOR DE MOTOSSERRA AZUL TAM G TIPO A 230º - SAYRO REF CPM3000",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "300412",
+      "category": "MOTOSSERRISTA",
+      "categorySlug": "motosserrista",
+      "path": "/calca-anticorte-operador-de-motosserra-azul-tam-g-tipo-a-230o--sayro-ref-cpm3000-1206",
+      "image": "/products/images/0012/1206.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1277",
+      "title": "CALÇA ANTICORTE OPERADOR DE MOTOSSERRA AZUL TAM GG TIPO A 230º - SAYRO REF CPM3000",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "300413",
+      "category": "MOTOSSERRISTA",
+      "categorySlug": "motosserrista",
+      "path": "/calca-anticorte-operador-de-motosserra-azul-tam-gg-tipo-a-230o--sayro-ref-cpm3000-1277",
+      "image": "/products/images/0012/1277.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "1280",
+      "title": "CALÇA ANTICORTE OPERADOR DE MOTOSSERRA AZUL TAM M TIPO A 230º - SAYRO REF CPM3000",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "300411",
+      "category": "MOTOSSERRISTA",
+      "categorySlug": "motosserrista",
+      "path": "/calca-anticorte-operador-de-motosserra-azul-tam-m-tipo-a-230o--sayro-ref-cpm3000-1280",
+      "image": "/products/images/0012/1280.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--vestimentas-profissionais--motosserrista"
+  }
+}

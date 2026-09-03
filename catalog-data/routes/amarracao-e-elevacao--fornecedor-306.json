@@ -1,0 +1,406 @@
+{
+  "title": "Amarração e Elevação",
+  "parentLabel": "Departamento",
+  "description": "Produtos de STARRETT INDUSTRIA E COMERCIO LTDA. neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação"
+    }
+  ],
+  "children": [
+    {
+      "name": "Elevação de Carga",
+      "slug": "elevacao-de-carga",
+      "path": "/amarracao-e-elevacao/elevacao-de-carga",
+      "count": 221,
+      "categories": [
+        {
+          "name": "ACESSORIOS",
+          "slug": "acessorios",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/acessorios",
+          "count": 2
+        },
+        {
+          "name": "ANILHAS",
+          "slug": "anilhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/anilhas",
+          "count": 3
+        },
+        {
+          "name": "BOLSAS DE IÇAMENTO",
+          "slug": "bolsas-de-icamento",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/bolsas-de-icamento",
+          "count": 7
+        },
+        {
+          "name": "CABO",
+          "slug": "cabo",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cabo",
+          "count": 5
+        },
+        {
+          "name": "CINTA",
+          "slug": "cinta",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta",
+          "count": 81
+        },
+        {
+          "name": "CINTA PARA ANEL",
+          "slug": "cinta-para-anel",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/cinta-para-anel",
+          "count": 1
+        },
+        {
+          "name": "CORDA",
+          "slug": "corda",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/corda",
+          "count": 1
+        },
+        {
+          "name": "FITA",
+          "slug": "fita",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/fita",
+          "count": 2
+        },
+        {
+          "name": "GANCHO",
+          "slug": "gancho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/gancho",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO E CUPILHA",
+          "slug": "grampo-e-cupilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/grampo-e-cupilha",
+          "count": 5
+        },
+        {
+          "name": "GUINCHO",
+          "slug": "guincho",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guincho",
+          "count": 11
+        },
+        {
+          "name": "GUINDASTE",
+          "slug": "guindaste",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/guindaste",
+          "count": 2
+        },
+        {
+          "name": "LINGAS",
+          "slug": "lingas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/lingas",
+          "count": 6
+        },
+        {
+          "name": "MANILHA",
+          "slug": "manilha",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/manilha",
+          "count": 27
+        },
+        {
+          "name": "MOITÃO",
+          "slug": "moitao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/moitao",
+          "count": 6
+        },
+        {
+          "name": "MOSQUETÃO",
+          "slug": "mosquetao",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/mosquetao",
+          "count": 1
+        },
+        {
+          "name": "OLHAIS",
+          "slug": "olhais",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/olhais",
+          "count": 21
+        },
+        {
+          "name": "PEGA",
+          "slug": "pega",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/pega",
+          "count": 3
+        },
+        {
+          "name": "SELADOR",
+          "slug": "selador",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/selador",
+          "count": 3
+        },
+        {
+          "name": "TALHAS",
+          "slug": "talhas",
+          "path": "/amarracao-e-elevacao/elevacao-de-carga/talhas",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "name": "Amarração de Carga",
+      "slug": "amarracao-de-carga",
+      "path": "/amarracao-e-elevacao/amarracao-de-carga",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Amarração",
+      "slug": "amarracao",
+      "path": "/amarracao-e-elevacao/amarracao",
+      "count": 46,
+      "categories": [
+        {
+          "name": "CINTAS DE AMARRAÇÃO",
+          "slug": "cintas-de-amarracao",
+          "path": "/amarracao-e-elevacao/amarracao/cintas-de-amarracao",
+          "count": 14
+        },
+        {
+          "name": "CORDAS",
+          "slug": "cordas",
+          "path": "/amarracao-e-elevacao/amarracao/cordas",
+          "count": 27
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/amarracao-e-elevacao/amarracao/fitas",
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "306",
+    "name": "STARRETT INDUSTRIA E COMERCIO LTDA."
+  },
+  "products": [
+    {
+      "code": "12057",
+      "title": "CINTA PES CMT 10T VERT FS 7:1 NBR 12M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "22300Z",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/cinta-pes-cmt-10t-vert-fs-71-nbr-12m-12057",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12058",
+      "title": "CINTA PES CMTE 12T CEST FS4:1  BAG X1,5M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "A10715",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/cinta-pes-cmte-12t-cest-fs41-bag-x15m-12058",
+      "image": "/products/images/0120/12058.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12054",
+      "title": "CINTA PES TUB CMT 40T VERT FS-7:1TECNO-4",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "20040T",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/cinta-pes-tub-cmt-40t-vert-fs71tecno4-12054",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12053",
+      "title": "CINTA PES/TUB CMT 20T VERT FS 7:1 1,00M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "20020T",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/cinta-pestub-cmt-20t-vert-fs-71-100m-12053",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12050",
+      "title": "CINTA PES/TUB CMT 8T VERT FS 7:1 1,50M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "20008T",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/cinta-pestub-cmt-8t-vert-fs-71-150m-12050",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12055",
+      "title": "CINTA/PES TUB CMT 15T VERT FS-7:1-15X 3,",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "20015T",
+      "category": "CINTA",
+      "categorySlug": "cinta",
+      "path": "/cintapes-tub-cmt-15t-vert-fs7115x-3-12055",
+      "image": "/products/images/0120/12055.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12061",
+      "title": "CORDA PP TRANÇADA 19MM BRANCA 200,00M",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "104L19",
+      "category": "CORDAS",
+      "categorySlug": "cordas",
+      "path": "/corda-pp-trancada-19mm-branca-20000m-12061",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
+    },
+    {
+      "code": "12056",
+      "title": "MANILH CURV/PORCA 1.1/8-9,5T G6 S-BX9,5",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "236110",
+      "category": "MANILHA",
+      "categorySlug": "manilha",
+      "path": "/manilh-curvporca-11895t-g6-sbx95-12056",
+      "image": "/products/images/0120/12056.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12052",
+      "title": "MANILHA CURVA PORC/CUPILHA 1.1/2 17T G6",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "236113",
+      "category": "MANILHA",
+      "categorySlug": "manilha",
+      "path": "/manilha-curva-porccupilha-112-17t-g6-12052",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12063",
+      "title": "MANILHA CURVA PORCA 1.3/4-25,0T G6 S-BX2",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "236114",
+      "category": "MANILHA",
+      "categorySlug": "manilha",
+      "path": "/manilha-curva-porca-134250t-g6-sbx2-12063",
+      "image": "/products/images/0120/12063.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12060",
+      "title": "MANILHA CURVA PORCA 2.1/2-55,0T G6 S-BX5",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "236116",
+      "category": "MANILHA",
+      "categorySlug": "manilha",
+      "path": "/manilha-curva-porca-212550t-g6-sbx5-12060",
+      "image": "/products/images/0120/12060.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12051",
+      "title": "MANILHA CURVA PORCA E CUPILHA 5/8-3,25T",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "236106",
+      "category": "MANILHA",
+      "categorySlug": "manilha",
+      "path": "/manilha-curva-porca-e-cupilha-58325t-12051",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "12066",
+      "title": "OLHAL GIRAT ARTIC 13T (DSS M42 UP) L63MM",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "208701",
+      "category": "OLHAIS",
+      "categorySlug": "olhais",
+      "path": "/olhal-girat-artic-13t-dss-m42-up-l63mm-12066",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 13,
+    "pageBase": "amarracao-e-elevacao--fornecedor-306"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "PRATELEIRA",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria prateleira em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "PRATELEIRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9611",
+      "title": "GANCHO DUPLO PARA PRATILHEIRA PRESTO REF 90412",
+      "brand": "PRESTO",
+      "brandCode": "46",
+      "supplier": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "supplierCode": "83",
+      "manufacturerCode": "90412",
+      "category": "PRATELEIRA",
+      "categorySlug": "prateleira",
+      "path": "/gancho-duplo-para-pratilheira-presto-ref-90412-9611",
+      "image": "/products/images/0096/9611.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "9608",
+      "title": "GANCHO SIMPLES PARA PRATILHEIRA PRESTO REF 90411",
+      "brand": "PRESTO",
+      "brandCode": "46",
+      "supplier": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "supplierCode": "83",
+      "manufacturerCode": "90411",
+      "category": "PRATELEIRA",
+      "categorySlug": "prateleira",
+      "path": "/gancho-simples-para-pratilheira-presto-ref-90411-9608",
+      "image": "/products/images/0096/9608.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12605",
+      "title": "PALETEIRA 3T PDP305",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6889323550",
+      "category": "PRATELEIRA",
+      "categorySlug": "prateleira",
+      "path": "/paleteira-3t-pdp305-12605",
+      "image": "/products/images/0126/12605.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "10358",
+      "title": "PRATELEIRA MINI PORT PALETE 1800X800",
+      "brand": "PRESTO",
+      "brandCode": "46",
+      "supplier": "WTEC MOVEIS E EQUIPAMENTOS TECNICOS LTDA",
+      "supplierCode": "83",
+      "manufacturerCode": "40336",
+      "category": "PRATELEIRA",
+      "categorySlug": "prateleira",
+      "path": "/prateleira-mini-port-palete-1800x800-10358",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--prateleira"
+  }
+}

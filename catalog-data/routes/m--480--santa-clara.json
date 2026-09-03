@@ -1,0 +1,36 @@
+{
+  "title": "SANTA CLARA",
+  "parentLabel": "Marca",
+  "description": "Produtos SANTA CLARA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SANTA CLARA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12742",
+      "title": "FILTRO PAPEL SANTA CLARA 30UN N 103",
+      "brand": "SANTA CLARA",
+      "brandCode": "480",
+      "supplier": "J L DE MEDEIROS & ARAUJO LTDA",
+      "supplierCode": "1932",
+      "manufacturerCode": "13132",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/filtro-papel-santa-clara-30un-n-103-12742",
+      "image": "/products/images/0127/12742.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--480--santa-clara"
+  }
+}

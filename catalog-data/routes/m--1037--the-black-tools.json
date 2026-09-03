@@ -1,0 +1,36 @@
+{
+  "title": "THE BLACK TOOLS",
+  "parentLabel": "Marca",
+  "description": "Produtos THE BLACK TOOLS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "THE BLACK TOOLS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12116",
+      "title": "TENDA GAZEBO SANFONADO ARTICULADA 2X2M",
+      "brand": "THE BLACK TOOLS",
+      "brandCode": "1037",
+      "supplier": "RA MARTINS BORGES & NEGOCIOS LTDA",
+      "supplierCode": "5518",
+      "manufacturerCode": "24130",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/tenda-gazebo-sanfonado-articulada-2x2m-12116",
+      "image": "/products/images/0121/12116.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1037--the-black-tools"
+  }
+}

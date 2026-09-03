@@ -1,0 +1,39 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "13136",
+      "title": "TEODOLITO ELETRONICO",
+      "brand": "SOUTH",
+      "brandCode": "1189",
+      "supplier": "CPE COMERCIO DE EQUIPAMENTOS TOPOGRAFICOS LTDA",
+      "supplierCode": "6126",
+      "manufacturerCode": "ET02",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/teodolito-eletronico-13136",
+      "image": "/products/images/0131/13136.webp",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    },
+    {
+      "code": "8593",
+      "title": "TERMOVISOR SERIE PROF MODEL TI401 9HZ",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "5085052",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/termovisor-serie-prof-model-ti401-9hz-8593",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ]
+}

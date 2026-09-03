@@ -1,0 +1,129 @@
+{
+  "title": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+  "parentLabel": "Lavadoras De Alta Pressão",
+  "description": "Produtos da categoria lavadoras de alta pressão industriais em lavadoras de alta pressão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Lavadoras De Alta Pressão",
+      "to": "/maquinas-e-acessorios/lavadoras-de-alta-pressao"
+    },
+    {
+      "label": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8029",
+      "title": "HIDROLAVADORA GASOL TPW3400T-XP 3400 PSI",
+      "brand": "TOYAMA",
+      "brandCode": "549",
+      "supplier": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "supplierCode": "1909",
+      "manufacturerCode": "529-002",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/hidrolavadora-gasol-tpw3400txp-3400-psi-8029",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "10280",
+      "title": "LAVADORA ALTA PRESSAO GAS LGV 3600",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "6864360000",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-alta-pressao-gas-lgv-3600-10280",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "10963",
+      "title": "LAVADORA C/CARRINHO 3CV TRIFASICA",
+      "brand": "ZM BOMBAS",
+      "brandCode": "244",
+      "supplier": "HIDRO METALURGICA ZM LTDA",
+      "supplierCode": "1046",
+      "manufacturerCode": "5020240",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-ccarrinho-3cv-trifasica-10963",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "7818",
+      "title": "LAVADORA DE ALTA PRESSÃO 1.450 PSI 1,3KW 220V - MAKITA HW101",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "HW101-220V",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-de-alta-pressao-1450-psi-13kw-220v--makita-hw101-7818",
+      "image": "/products/images/0078/7818.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "5621",
+      "title": "LAVADORA LR28  2,0CV MON 220V C/CARRINHO",
+      "brand": "ZM BOMBAS",
+      "brandCode": "244",
+      "supplier": "HIDRO METALURGICA ZM LTDA",
+      "supplierCode": "1046",
+      "manufacturerCode": "5020234",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-lr28-20cv-mon-220v-ccarrinho-5621",
+      "image": "/products/images/0056/5621.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "12165",
+      "title": "LAVADORA LUS500 500PSI 19L/MIN MTB 2CV 2",
+      "brand": "SOMAR",
+      "brandCode": "354",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "170.0500-3",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-lus500-500psi-19lmin-mtb-2cv-2-12165",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "maquinas-e-acessorios--lavadoras-de-alta-pressao--lavadoras-de-alta-pressao-industriais"
+  }
+}

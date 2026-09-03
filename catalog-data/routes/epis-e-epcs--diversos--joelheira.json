@@ -1,0 +1,61 @@
+{
+  "title": "JOELHEIRA",
+  "parentLabel": "Diversos",
+  "description": "Produtos da categoria joelheira em diversos.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Diversos",
+      "to": "/epis-e-epcs/diversos"
+    },
+    {
+      "label": "JOELHEIRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1133",
+      "title": "JOELHEIRA DE PROTEÇÃO CG01 - CARBOGRAFITE 012214712",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "CARBOGRAFITE EQUIPAMENTOS INDUSTRIAIS",
+      "supplierCode": "66",
+      "manufacturerCode": "012214712",
+      "category": "JOELHEIRA",
+      "categorySlug": "joelheira",
+      "path": "/joelheira-de-protecao-cg01--carbografite-012214712-1133",
+      "image": "/products/images/0011/1133.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "10946",
+      "title": "JOELHEIRA E COTOVELEIRA PARA MOTOCICLIST",
+      "brand": "RED DRAGON",
+      "brandCode": "836",
+      "supplier": "GOBOR STORE E-COMMERCE LTDA",
+      "supplierCode": "4245",
+      "manufacturerCode": "REDYD7AK",
+      "category": "JOELHEIRA",
+      "categorySlug": "joelheira",
+      "path": "/joelheira-e-cotoveleira-para-motociclist-10946",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "epis-e-epcs--diversos--joelheira"
+  }
+}

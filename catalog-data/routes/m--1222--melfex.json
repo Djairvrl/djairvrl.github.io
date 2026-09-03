@@ -1,0 +1,36 @@
+{
+  "title": "MELFEX",
+  "parentLabel": "Marca",
+  "description": "Produtos MELFEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MELFEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13304",
+      "title": "LUMINARIA LINEAR TUBOLED 18W IP66",
+      "brand": "MELFEX",
+      "brandCode": "1222",
+      "supplier": "EX MATERIAIS ELETRICOS LTDA.",
+      "supplierCode": "6220",
+      "manufacturerCode": "LUMTUB2X18",
+      "category": "ILUMINAÇÃO DE ALTA PERFORMANCE",
+      "categorySlug": "iluminacao-de-alta-performance",
+      "path": "/luminaria-linear-tuboled-18w-ip66-13304",
+      "image": "/products/images/0133/13304.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1222--melfex"
+  }
+}

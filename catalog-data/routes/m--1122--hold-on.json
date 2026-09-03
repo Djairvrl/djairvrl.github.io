@@ -1,0 +1,36 @@
+{
+  "title": "HOLD ON",
+  "parentLabel": "Marca",
+  "description": "Produtos HOLD ON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HOLD ON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12703",
+      "title": "KIT 2 RADIOS COMUNICADOR BAOFENG",
+      "brand": "HOLD ON",
+      "brandCode": "1122",
+      "supplier": "48.688.060 DANIEL OCCULATE JUNIOR",
+      "supplierCode": "5884",
+      "manufacturerCode": "MLB4482815261",
+      "category": "RADIOCOMUNICADORES",
+      "categorySlug": "radiocomunicadores",
+      "path": "/kit-2-radios-comunicador-baofeng-12703",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1122--hold-on"
+  }
+}

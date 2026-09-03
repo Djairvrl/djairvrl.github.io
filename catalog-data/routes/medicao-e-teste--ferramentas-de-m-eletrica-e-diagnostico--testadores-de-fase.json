@@ -1,0 +1,146 @@
+{
+  "title": "TESTADORES DE FASE",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria testadores de fase em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "TESTADORES DE FASE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8675",
+      "title": "DETECTOR DISJUNTOR CIRCUITO 220V",
+      "brand": "ALLSUM",
+      "brandCode": "606",
+      "supplier": "A. I. LASTA LTDA",
+      "supplierCode": "2168",
+      "manufacturerCode": "MLB3490774923",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/detector-disjuntor-circuito-220v-8675",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "3402",
+      "title": "FASÍMETRO INDICADOR DE ROTAÇÃO DE FASES  40-700V 15-400HZ CAT IV - FLUKE 9040",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4226419",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/fasimetro-indicador-de-rotacao-de-fases-40700v-15400hz-cat-iv--fluke-9040-3402",
+      "image": "/products/images/0034/3402.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7134",
+      "title": "TESTADOR DE INSTAL ELET C/RCD FLUKE 1663",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4546980",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/testador-de-instal-elet-crcd-fluke-1663-7134",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12096",
+      "title": "TESTADOR DE TENSAO LED - BUS",
+      "brand": "BESTFER",
+      "brandCode": "1031",
+      "supplier": "V. Y. SAKAUE RAMOS CONSULTORIA EMPRESARIAL LTDA",
+      "supplierCode": "5510",
+      "manufacturerCode": "166271",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/testador-de-tensao-led--bus-12096",
+      "image": "/products/images/0120/12096.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "7565",
+      "title": "TESTADOR ELETRICO ACHATADO T5-600USA",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "648227",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/testador-eletrico-achatado-t5600usa-7565",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9048",
+      "title": "TESTADOR ELETRICO FLUKE T6-600 C/ FIELDS",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "159",
+      "manufacturerCode": "4910331",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/testador-eletrico-fluke-t6600-c-fields-9048",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10887",
+      "title": "UNIDADE DE TESTADOR ELETRICO PRV240",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "4566209",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/unidade-de-testador-eletrico-prv240-10887",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--testadores-de-fase"
+  }
+}

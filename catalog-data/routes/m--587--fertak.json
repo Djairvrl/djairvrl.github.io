@@ -1,0 +1,53 @@
+{
+  "title": "FERTAK",
+  "parentLabel": "Marca",
+  "description": "Produtos FERTAK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FERTAK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12602",
+      "title": "BROCA ESCALONADA 9MM A 36MM",
+      "brand": "FERTAK",
+      "brandCode": "587",
+      "supplier": "IMPORTT IMPORTACAO, DISTRIBUICAO E VAREJO LTDA",
+      "supplierCode": "5794",
+      "manufacturerCode": "0099838875881",
+      "category": "BROCA",
+      "categorySlug": "broca",
+      "path": "/broca-escalonada-9mm-a-36mm-12602",
+      "image": "/products/images/0126/12602.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "8379",
+      "title": "GRAMPO TP C 6 POLEGADAS",
+      "brand": "FERTAK",
+      "brandCode": "587",
+      "supplier": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "supplierCode": "857",
+      "manufacturerCode": "789905457621",
+      "category": "GRAMPOS",
+      "categorySlug": "grampos",
+      "path": "/grampo-tp-c-6-polegadas-8379",
+      "image": "/products/images/0083/8379.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--587--fertak"
+  }
+}

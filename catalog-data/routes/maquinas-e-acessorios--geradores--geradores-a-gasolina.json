@@ -1,0 +1,78 @@
+{
+  "title": "GERADORES A GASOLINA",
+  "parentLabel": "Geradores",
+  "description": "Produtos da categoria geradores a gasolina em geradores.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Geradores",
+      "to": "/maquinas-e-acessorios/geradores"
+    },
+    {
+      "label": "GERADORES A GASOLINA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11828",
+      "title": "GERADOR A GASOL TG10000CXE3-XP TRIF380V",
+      "brand": "TOYAMA",
+      "brandCode": "549",
+      "supplier": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "supplierCode": "1956",
+      "manufacturerCode": "201-036",
+      "category": "GERADORES A GASOLINA",
+      "categorySlug": "geradores-a-gasolina",
+      "path": "/gerador-a-gasol-tg10000cxe3xp-trif380v-11828",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "7067",
+      "title": "GERADOR DE ENERGIA A GASOLINA 8 KVA PARTIDA ELÉTRICA TRIFÁSICO - NAGANO NG8100E3",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1488",
+      "manufacturerCode": "NG8100E3",
+      "category": "GERADORES A GASOLINA",
+      "categorySlug": "geradores-a-gasolina",
+      "path": "/gerador-de-energia-a-gasolina-8-kva-partida-eletrica-trifasico--nagano-ng8100e3-7067",
+      "image": "/products/images/0070/7067.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "12705",
+      "title": "GERADOR PORTATIL A GASOLINA MONOF",
+      "brand": "CSM",
+      "brandCode": "769",
+      "supplier": "CSM - COMPONENTES, SISTEMAS E MAQUINAS PARA CONSTRUCAO LTDA",
+      "supplierCode": "5890",
+      "manufacturerCode": "71000992",
+      "category": "GERADORES A GASOLINA",
+      "categorySlug": "geradores-a-gasolina",
+      "path": "/gerador-portatil-a-gasolina-monof-12705",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "maquinas-e-acessorios--geradores--geradores-a-gasolina"
+  }
+}

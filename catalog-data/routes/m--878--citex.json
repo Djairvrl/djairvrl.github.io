@@ -1,0 +1,36 @@
+{
+  "title": "CITEX",
+  "parentLabel": "Marca",
+  "description": "Produtos CITEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CITEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11092",
+      "title": "INTERRUPTOR TIPO PEDAL CI-14AY MD-14H",
+      "brand": "CITEX",
+      "brandCode": "878",
+      "supplier": "CITEX - MATERIAL ELETRICO LTDA",
+      "supplierCode": "4491",
+      "manufacturerCode": "998",
+      "category": "ACIONAMENTO",
+      "categorySlug": "acionamento",
+      "path": "/interruptor-tipo-pedal-ci14ay-md14h-11092",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--878--citex"
+  }
+}

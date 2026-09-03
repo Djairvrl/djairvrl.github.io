@@ -1,0 +1,44 @@
+{
+  "title": "ÓLEOS PARA TURBINAS",
+  "parentLabel": "Óleos Industriais",
+  "description": "Produtos da categoria óleos para turbinas em óleos industriais.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos",
+      "to": "/lubrificantes-e-fluidos"
+    },
+    {
+      "label": "Óleos Industriais",
+      "to": "/lubrificantes-e-fluidos/oleos-industriais"
+    },
+    {
+      "label": "ÓLEOS PARA TURBINAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11138",
+      "title": "OLEO OPTIGEAR SYNTHETIC CT 320 BD 19L",
+      "brand": "CASTROL",
+      "brandCode": "890",
+      "supplier": "UNIBRASIL LUBRIFICANTES LTDA",
+      "supplierCode": "4596",
+      "manufacturerCode": "1",
+      "category": "ÓLEOS PARA TURBINAS",
+      "categorySlug": "oleos-para-turbinas",
+      "path": "/oleo-optigear-synthetic-ct-320-bd-19l-11138",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "lubrificantes-e-fluidos--oleos-industriais--oleos-para-turbinas"
+  }
+}

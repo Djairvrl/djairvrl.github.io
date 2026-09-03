@@ -1,0 +1,121 @@
+{
+  "title": "PHILIPS",
+  "parentLabel": "Marca",
+  "description": "Produtos PHILIPS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PHILIPS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8502",
+      "title": "572 LAMPADA LED T8 G13 4000K BIV 18W 210",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1070572",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/572-lampada-led-t8-g13-4000k-biv-18w-210-8502",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "8747",
+      "title": "LAMP LED FLUOR 18W 120CM",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "GIMAWA COMERCIAL LTDA",
+      "supplierCode": "2205",
+      "manufacturerCode": "013026",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/lamp-led-fluor-18w-120cm-8747",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12920",
+      "title": "LAMPADA LED T8 G13 6500K BIV 18W 1850LM",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1065439",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/lampada-led-t8-g13-6500k-biv-18w-1850lm-12920",
+      "image": "/products/images/0129/12920.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "13403",
+      "title": "PROCESSADOR POWERCHOP 750 220V PRETO",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "EBAZAR.COM.BR. LTDA",
+      "supplierCode": "2049",
+      "manufacturerCode": "715815",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/processador-powerchop-750-220v-preto-13403",
+      "image": "/products/images/0134/13403.webp",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7706",
+      "title": "REATOR LAMP  2X18/20W EB220A16/26P PHILI",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "445734",
+      "category": "REATORES E DRIVERS DE ILUMINAÇÃO",
+      "categorySlug": "reatores-e-drivers-de-iluminacao",
+      "path": "/reator-lamp-2x1820w-eb220a1626p-phili-7706",
+      "image": "/products/images/0077/7706.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9685",
+      "title": "SINALIZADOR LED PARA GARAGEM",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "J S SOARES COMERCIO DE MATERIAIS ELETRICOS",
+      "supplierCode": "2690",
+      "manufacturerCode": "49002",
+      "category": "SINALIZADORES",
+      "categorySlug": "sinalizadores",
+      "path": "/sinalizador-led-para-garagem-9685",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--527--philips"
+  }
+}

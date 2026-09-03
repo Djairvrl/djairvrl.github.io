@@ -1,0 +1,61 @@
+{
+  "title": "GERADORES A DIESEL",
+  "parentLabel": "Geradores",
+  "description": "Produtos da categoria geradores a diesel em geradores.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Geradores",
+      "to": "/maquinas-e-acessorios/geradores"
+    },
+    {
+      "label": "GERADORES A DIESEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8063",
+      "title": "GERADOR DIESEL 7.0KW MONOFASICO 220V",
+      "brand": "TOYAMA",
+      "brandCode": "549",
+      "supplier": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "supplierCode": "1909",
+      "manufacturerCode": "251-054",
+      "category": "GERADORES A DIESEL",
+      "categorySlug": "geradores-a-diesel",
+      "path": "/gerador-diesel-70kw-monofasico-220v-8063",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "12979",
+      "title": "GERADOR DIESEL TDG8500E3XP TRIFASIC 380V",
+      "brand": "TOYAMA",
+      "brandCode": "549",
+      "supplier": "TOYAMA DO BRASIL MAQUINAS LTDA.",
+      "supplierCode": "1956",
+      "manufacturerCode": "251-055",
+      "category": "GERADORES A DIESEL",
+      "categorySlug": "geradores-a-diesel",
+      "path": "/gerador-diesel-tdg8500e3xp-trifasic-380v-12979",
+      "image": "/products/images/0129/12979.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "maquinas-e-acessorios--geradores--geradores-a-diesel"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "FLOC",
+  "parentLabel": "Marca",
+  "description": "Produtos FLOC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FLOC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10665",
+      "title": "ALGODAO SPARTEX HIDROFILO 25G",
+      "brand": "FLOC",
+      "brandCode": "798",
+      "supplier": "LOJAS SANTA LUCIA HIGIENE E BELEZA LTDA",
+      "supplierCode": "3927",
+      "manufacturerCode": "13417",
+      "category": "KIT PRIMEIROS SOCORROS",
+      "categorySlug": "kit-primeiros-socorros",
+      "path": "/algodao-spartex-hidrofilo-25g-10665",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--798--floc"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "COCA COLA",
+  "parentLabel": "Marca",
+  "description": "Produtos COCA COLA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "COCA COLA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12221",
+      "title": "REFRIG. PET COCA COLA SEM ACUCAR 06X2L",
+      "brand": "COCA COLA",
+      "brandCode": "759",
+      "supplier": "GNC COMERCIAL DE ALIMENTOS LTDA",
+      "supplierCode": "5553",
+      "manufacturerCode": "68759",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/refrig-pet-coca-cola-sem-acucar-06x2l-12221",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8354",
+      "title": "REFRIGERANTE COCA COLA PET 2LT CX C/6 UN",
+      "brand": "COCA COLA",
+      "brandCode": "759",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "36",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/refrigerante-coca-cola-pet-2lt-cx-c6-un-8354",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--759--coca-cola"
+  }
+}

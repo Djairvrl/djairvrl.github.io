@@ -1,0 +1,61 @@
+{
+  "title": "RASTELO",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria rastelo em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "RASTELO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8118",
+      "title": "ANCINHO 16D ESTAMP C/CABO 120CM",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "supplierCode": "519",
+      "manufacturerCode": "77110664",
+      "category": "RASTELO",
+      "categorySlug": "rastelo",
+      "path": "/ancinho-16d-estamp-ccabo-120cm-8118",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1662",
+      "title": "ANCINHO CURVO METÁLICO LEVE 14 DENTES COM CABO DE MADEIRA 145CM - TRAMONTINA REF.  77101644",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA NORDESTE S/A",
+      "supplierCode": "509",
+      "manufacturerCode": "77101644",
+      "category": "RASTELO",
+      "categorySlug": "rastelo",
+      "path": "/ancinho-curvo-metalico-leve-14-dentes-com-cabo-de-madeira-145cm--tramontina-ref-77101644-1662",
+      "image": "/products/images/0016/1662.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "ferramentas--construcao-civil--rastelo"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ROLIX",
+  "parentLabel": "Marca",
+  "description": "Produtos ROLIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROLIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10052",
+      "title": "GARRAFA COLETORA DE GORDURA ROLIX PVC 50",
+      "brand": "ROLIX",
+      "brandCode": "744",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "WS03600037",
+      "category": "TUBOS E CONEXÕES",
+      "categorySlug": "tubos-e-conexoes",
+      "path": "/garrafa-coletora-de-gordura-rolix-pvc-50-10052",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Hidraulico",
+      "sectionSlug": "hidraulico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--744--rolix"
+  }
+}

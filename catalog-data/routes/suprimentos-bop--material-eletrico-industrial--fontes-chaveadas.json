@@ -1,0 +1,95 @@
+{
+  "title": "FONTES CHAVEADAS",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria fontes chaveadas em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "FONTES CHAVEADAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10612",
+      "title": "FONTE 27VDC 37A 999W PFC PARAL 1U",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "3668",
+      "manufacturerCode": "RSP-1000-27",
+      "category": "FONTES CHAVEADAS",
+      "categorySlug": "fontes-chaveadas",
+      "path": "/fonte-27vdc-37a-999w-pfc-paral-1u-10612",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "13259",
+      "title": "FONTE 54V 1,574A UP0851A-54PB DGS1210",
+      "brand": "TOLEDO",
+      "brandCode": "1210",
+      "supplier": "LEANDRO RODRIGUES PEREIRA CABOS",
+      "supplierCode": "6194",
+      "manufacturerCode": "MLB2868510897",
+      "category": "FONTES CHAVEADAS",
+      "categorySlug": "fontes-chaveadas",
+      "path": "/fonte-54v-1574a-up0851a54pb-dgs1210-13259",
+      "image": "/products/images/0132/13259.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8132",
+      "title": "FONTE ALIMENT ELETRONICA 1F 100-240V 5A",
+      "brand": "ABB",
+      "brandCode": "86",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1578",
+      "manufacturerCode": "1397121",
+      "category": "FONTES CHAVEADAS",
+      "categorySlug": "fontes-chaveadas",
+      "path": "/fonte-aliment-eletronica-1f-100240v-5a-8132",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "12766",
+      "title": "FONTE CHAVEADA 24V 1,3A",
+      "brand": "SIEMENS",
+      "brandCode": "245",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1471",
+      "manufacturerCode": "930341",
+      "category": "FONTES CHAVEADAS",
+      "categorySlug": "fontes-chaveadas",
+      "path": "/fonte-chaveada-24v-13a-12766",
+      "image": "/products/images/0127/12766.png",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--fontes-chaveadas"
+  }
+}

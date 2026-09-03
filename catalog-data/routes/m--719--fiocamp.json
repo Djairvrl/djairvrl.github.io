@@ -1,0 +1,36 @@
+{
+  "title": "FIOCAMP",
+  "parentLabel": "Marca",
+  "description": "Produtos FIOCAMP disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FIOCAMP"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9735",
+      "title": "ESGUICHO REGULAVEL LATAO 1.1/2",
+      "brand": "FIOCAMP",
+      "brandCode": "719",
+      "supplier": "DAVILAIMPORTS COMERCIO DE ELETRONICOS LTDA",
+      "supplierCode": "2696",
+      "manufacturerCode": "1627",
+      "category": "MANGUEIRAS",
+      "categorySlug": "mangueiras",
+      "path": "/esguicho-regulavel-latao-112-9735",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--719--fiocamp"
+  }
+}

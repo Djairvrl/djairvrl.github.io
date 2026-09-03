@@ -1,0 +1,112 @@
+{
+  "title": "ESTRUTURAIS",
+  "parentLabel": "Peças Para Linha De Transmissão",
+  "description": "Produtos da categoria estruturais em peças para linha de transmissão.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Peças Para Linha De Transmissão",
+      "to": "/spare-parts-energy/pecas-para-linha-de-transmissao"
+    },
+    {
+      "label": "ESTRUTURAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11117",
+      "title": "EMENDA PREF NU 954MCM Ø27,73 A 28,86MM",
+      "brand": "S T E E L L O O P I N D U S T R I A L",
+      "brandCode": "884",
+      "supplier": "STEEL LOOP INDUSTRIAL DO BRASIL LTDA",
+      "supplierCode": "4557",
+      "manufacturerCode": "ECA-1954",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/emenda-pref-nu-954mcm-2773-a-2886mm-11117",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "11116",
+      "title": "EMENDA PREF P/CONDUTOR CAA 24,61 A 25,61",
+      "brand": "S T E E L L O O P I N D U S T R I A L",
+      "brandCode": "884",
+      "supplier": "STEEL LOOP INDUSTRIAL DO BRASIL LTDA",
+      "supplierCode": "4557",
+      "manufacturerCode": "ECA1636A",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/emenda-pref-pcondutor-caa-2461-a-2561-11116",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "7661",
+      "title": "ESPAÇADOR DE FASES PARA REDE PRIMÁRIA 1000MM - INCESA",
+      "brand": "INCESA",
+      "brandCode": "525",
+      "supplier": "INCESA INDUSTRIA DE COMPONENTES ELETRICOS LTDA",
+      "supplierCode": "1775",
+      "manufacturerCode": "3032930006",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/espacador-de-fases-para-rede-primaria-1000mm--incesa-7661",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "7660",
+      "title": "ESPAÇADOR DE FASES PARA REDE PRIMÁRIA 1200MM - INCESA",
+      "brand": "INCESA",
+      "brandCode": "525",
+      "supplier": "INCESA INDUSTRIA DE COMPONENTES ELETRICOS LTDA",
+      "supplierCode": "1775",
+      "manufacturerCode": "44955010-1",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/espacador-de-fases-para-rede-primaria-1200mm--incesa-7660",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    },
+    {
+      "code": "7662",
+      "title": "ESPAÇADOR DE FASES PARA REDE PRIMÁRIA 750MM - INCESA",
+      "brand": "INCESA",
+      "brandCode": "525",
+      "supplier": "INCESA INDUSTRIA DE COMPONENTES ELETRICOS LTDA",
+      "supplierCode": "1775",
+      "manufacturerCode": "3032930003",
+      "category": "ESTRUTURAIS",
+      "categorySlug": "estruturais",
+      "path": "/espacador-de-fases-para-rede-primaria-750mm--incesa-7662",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Peças Para Linha De Transmissão",
+      "sectionSlug": "pecas-para-linha-de-transmissao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "spare-parts-energy--pecas-para-linha-de-transmissao--estruturais"
+  }
+}

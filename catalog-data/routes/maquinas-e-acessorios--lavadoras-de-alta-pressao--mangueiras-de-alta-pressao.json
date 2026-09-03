@@ -1,0 +1,61 @@
+{
+  "title": "MANGUEIRAS DE ALTA PRESSÃO",
+  "parentLabel": "Lavadoras De Alta Pressão",
+  "description": "Produtos da categoria mangueiras de alta pressão em lavadoras de alta pressão.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Lavadoras De Alta Pressão",
+      "to": "/maquinas-e-acessorios/lavadoras-de-alta-pressao"
+    },
+    {
+      "label": "MANGUEIRAS DE ALTA PRESSÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11681",
+      "title": "MANG SAÍDA P/LAV 2200I/2220I",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6898222303",
+      "category": "MANGUEIRAS DE ALTA PRESSÃO",
+      "categorySlug": "mangueiras-de-alta-pressao",
+      "path": "/mang-saida-plav-2200i2220i-11681",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    },
+    {
+      "code": "3539",
+      "title": "MANGUEIRA TRANÇADA 1/2\" VERDE 300M 100 PSI PVC - FORCELINE 0190400133",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0190400133",
+      "category": "MANGUEIRAS DE ALTA PRESSÃO",
+      "categorySlug": "mangueiras-de-alta-pressao",
+      "path": "/mangueira-trancada-12-verde-300m-100-psi-pvc--forceline-0190400133-3539",
+      "image": "/products/images/0035/3539.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "maquinas-e-acessorios--lavadoras-de-alta-pressao--mangueiras-de-alta-pressao"
+  }
+}

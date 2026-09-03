@@ -1,0 +1,44 @@
+{
+  "title": "SACA PINO",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria saca pino em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "SACA PINO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12996",
+      "title": "JOGO SACA PINO PARALELO",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL LTDA",
+      "supplierCode": "2077",
+      "manufacturerCode": "038305",
+      "category": "SACA PINO",
+      "categorySlug": "saca-pino",
+      "path": "/jogo-saca-pino-paralelo-12996",
+      "image": "/products/images/0129/12996.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-manuais--saca-pino"
+  }
+}

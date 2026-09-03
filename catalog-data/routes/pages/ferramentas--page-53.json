@@ -1,0 +1,22 @@
+{
+  "page": 53,
+  "products": [
+    {
+      "code": "12045",
+      "title": "VIBRADOR DE CONCRETO 220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "VR1000",
+      "category": "VIBRADORES DE CONCRETO",
+      "categorySlug": "vibradores-de-concreto",
+      "path": "/vibrador-de-concreto-220v-12045",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ]
+}

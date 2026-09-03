@@ -1,0 +1,61 @@
+{
+  "title": "DETECTOR",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria detector em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "DETECTOR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12591",
+      "title": "DETECTOR DE TENSÃO 90-1000V",
+      "brand": "FLUKE",
+      "brandCode": "74",
+      "supplier": "FLUKE DO BRASIL LTDA",
+      "supplierCode": "1116",
+      "manufacturerCode": "FLK2AC/90-1000V",
+      "category": "DETECTOR",
+      "categorySlug": "detector",
+      "path": "/detector-de-tensao-901000v-12591",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "9205",
+      "title": "SENSOR BAROMETRICO P PRESSAO ATMOSFERICA",
+      "brand": "AMMONIT",
+      "brandCode": "657",
+      "supplier": "INTERCAMBIO LTDA",
+      "supplierCode": "2439",
+      "manufacturerCode": "1246628",
+      "category": "DETECTOR",
+      "categorySlug": "detector",
+      "path": "/sensor-barometrico-p-pressao-atmosferica-9205",
+      "image": "/products/images/0092/9205.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--detector"
+  }
+}

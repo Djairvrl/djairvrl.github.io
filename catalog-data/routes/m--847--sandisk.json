@@ -1,0 +1,53 @@
+{
+  "title": "SANDISK",
+  "parentLabel": "Marca",
+  "description": "Produtos SANDISK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SANDISK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13002",
+      "title": "CARTAO MEMORIA SANDISK ULTRA 32GB",
+      "brand": "SANDISK",
+      "brandCode": "847",
+      "supplier": "54.749.287 DOUGLAS DIAS DEBRITO",
+      "supplierCode": "6037",
+      "manufacturerCode": "CARTÃO DE MEMÓRIA 32 GB ORIGIN",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/cartao-memoria-sandisk-ultra-32gb-13002",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "10986",
+      "title": "CARTAO MICRO SD SDSQUNR-256G-GN6TA",
+      "brand": "SANDISK",
+      "brandCode": "847",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "47289",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/cartao-micro-sd-sdsqunr256ggn6ta-10986",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--847--sandisk"
+  }
+}

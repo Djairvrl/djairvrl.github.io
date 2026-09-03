@@ -1,0 +1,53 @@
+{
+  "title": "SUMARÉ",
+  "parentLabel": "Marca",
+  "description": "Produtos SUMARÉ disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SUMARÉ"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11035",
+      "title": "SUM ACROLON 355 BRANCO 100M N 9,5 COMPA",
+      "brand": "SUMARÉ",
+      "brandCode": "860",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "67510",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/sum-acrolon-355-branco-100m-n-95-compa-11035",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11036",
+      "title": "SUM ACROLON 355 CP.B",
+      "brand": "SUMARÉ",
+      "brandCode": "860",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69153",
+      "category": null,
+      "categorySlug": null,
+      "path": "/sum-acrolon-355-cpb-11036",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--860--sumare"
+  }
+}

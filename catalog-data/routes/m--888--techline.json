@@ -1,0 +1,36 @@
+{
+  "title": "TECHLINE",
+  "parentLabel": "Marca",
+  "description": "Produtos TECHLINE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECHLINE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11132",
+      "title": "TERMOMETRO DIGITAL INFRAVERMELHO",
+      "brand": "TECHLINE",
+      "brandCode": "888",
+      "supplier": "PHOSPODONT LTDA",
+      "supplierCode": "179",
+      "manufacturerCode": "103998",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-digital-infravermelho-11132",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--888--techline"
+  }
+}

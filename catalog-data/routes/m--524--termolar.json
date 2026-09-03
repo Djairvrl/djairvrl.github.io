@@ -1,0 +1,104 @@
+{
+  "title": "TERMOLAR",
+  "parentLabel": "Marca",
+  "description": "Produtos TERMOLAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TERMOLAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7651",
+      "title": "GARRAFA TERM INOX LUMIN 1,8L",
+      "brand": "TERMOLAR",
+      "brandCode": "524",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891023569727",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/garrafa-term-inox-lumin-18l-7651",
+      "image": "/products/images/0076/7651.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7650",
+      "title": "GARRAFA TERM INOX LUMIN 1L",
+      "brand": "TERMOLAR",
+      "brandCode": "524",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "42",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/garrafa-term-inox-lumin-1l-7650",
+      "image": "/products/images/0076/7650.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12845",
+      "title": "GARRAFA TERM M PUMP 1,8L LISA",
+      "brand": "TERMOLAR",
+      "brandCode": "524",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891023547329",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/garrafa-term-m-pump-18l-lisa-12845",
+      "image": "/products/images/0128/12845.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11298",
+      "title": "GARRAFA TERMICA 12L TERMOLA",
+      "brand": "TERMOLAR",
+      "brandCode": "524",
+      "supplier": "LZ COMERCIO DE UTENSILIOS PARA COZINHA LTDA",
+      "supplierCode": "4749",
+      "manufacturerCode": "LZ-12LITS",
+      "category": "GARRAFAS E CAIXAS  TÉRMICAS",
+      "categorySlug": "garrafas-e-caixas-termicas",
+      "path": "/garrafa-termica-12l-termola-11298",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    },
+    {
+      "code": "10411",
+      "title": "JARRA TERMICA FLIPTOP AZUL 2,5L TERMOLAR",
+      "brand": "TERMOLAR",
+      "brandCode": "524",
+      "supplier": "PAULO C GALANTE & CIA LTDA",
+      "supplierCode": "3501",
+      "manufacturerCode": "MLB4166100520 _179103701",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/jarra-termica-fliptop-azul-25l-termolar-10411",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--524--termolar"
+  }
+}

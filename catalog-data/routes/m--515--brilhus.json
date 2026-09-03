@@ -1,0 +1,104 @@
+{
+  "title": "BRILHUS",
+  "parentLabel": "Marca",
+  "description": "Produtos BRILHUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRILHUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10833",
+      "title": "ESPONJA BRILHUS MULTIUSO L4P3",
+      "brand": "BRILHUS",
+      "brandCode": "515",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "10923",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/esponja-brilhus-multiuso-l4p3-10833",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7613",
+      "title": "SACO DE LIXO PRETO 100 LITROS ROLO COM 15 UNIDADES - BRILHUS BT2058",
+      "brand": "BRILHUS",
+      "brandCode": "515",
+      "supplier": "CENTRAL DE DISTRIBUIÇÃO AZEVEDO LTDA",
+      "supplierCode": "819",
+      "manufacturerCode": "54670",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-de-lixo-preto-100-litros-rolo-com-15-unidades--brilhus-bt2058-7613",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "7614",
+      "title": "SACO DE LIXO PRETO 15 LITROS ROLO COM 40 UNIDADES - BRILHUS BT2055",
+      "brand": "BRILHUS",
+      "brandCode": "515",
+      "supplier": "CENTRAL DE DISTRIBUIÇÃO AZEVEDO LTDA",
+      "supplierCode": "819",
+      "manufacturerCode": "54666",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-de-lixo-preto-15-litros-rolo-com-40-unidades--brilhus-bt2055-7614",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "7615",
+      "title": "SACO DE LIXO PRETO 30 LITROS ROLO COM 30 UNIDADES - BRILHUS  BT2056",
+      "brand": "BRILHUS",
+      "brandCode": "515",
+      "supplier": "CENTRAL DE DISTRIBUIÇÃO AZEVEDO LTDA",
+      "supplierCode": "819",
+      "manufacturerCode": "54668",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-de-lixo-preto-30-litros-rolo-com-30-unidades--brilhus-bt2056-7615",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "7616",
+      "title": "SACO DE LIXO PRETO 50 LITROS ROLO COM 30 UNIDADES - BRILHUS  BT2057",
+      "brand": "BRILHUS",
+      "brandCode": "515",
+      "supplier": "CENTRAL DE DISTRIBUIÇÃO AZEVEDO LTDA",
+      "supplierCode": "819",
+      "manufacturerCode": "54669",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-de-lixo-preto-50-litros-rolo-com-30-unidades--brilhus-bt2057-7616",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--515--brilhus"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "MXITA",
+  "parentLabel": "Marca",
+  "description": "Produtos MXITA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MXITA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7434",
+      "title": "ALICATE REBITADOR PORCA REBITE C/ ROSCA",
+      "brand": "MXITA",
+      "brandCode": "462",
+      "supplier": "J K R COMERCIO VAREJISTA DE PRODUTOS ELETRONICOS LTDA",
+      "supplierCode": "1638",
+      "manufacturerCode": "MLB1070770068",
+      "category": "REBITADOR",
+      "categorySlug": "rebitador",
+      "path": "/alicate-rebitador-porca-rebite-c-rosca-7434",
+      "image": "/products/images/0074/7434.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--462--mxita"
+  }
+}

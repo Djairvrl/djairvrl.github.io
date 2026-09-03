@@ -1,0 +1,47 @@
+{
+  "title": "Componentes Elétricos",
+  "parentLabel": "Spare Parts Energy",
+  "description": "Soluções de componentes elétricos disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Spare Parts Energy",
+      "to": "/spare-parts-energy"
+    },
+    {
+      "label": "Componentes Elétricos"
+    }
+  ],
+  "children": [
+    {
+      "name": "PRESSOSTATO",
+      "slug": "pressostato",
+      "path": "/spare-parts-energy/componentes-eletricos/pressostato",
+      "count": 1
+    }
+  ],
+  "products": [
+    {
+      "code": "11594",
+      "title": "PRESSOSTATO ELET EDS 3346-3-0010-000-F1",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA",
+      "supplierCode": "604",
+      "manufacturerCode": "908561",
+      "category": "PRESSOSTATO",
+      "categorySlug": "pressostato",
+      "path": "/pressostato-elet-eds-334630010000f1-11594",
+      "image": "/products/images/0115/11594.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Elétricos",
+      "sectionSlug": "componentes-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "spare-parts-energy--componentes-eletricos"
+  }
+}

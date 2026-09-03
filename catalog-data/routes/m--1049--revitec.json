@@ -1,0 +1,36 @@
+{
+  "title": "REVITEC",
+  "parentLabel": "Marca",
+  "description": "Produtos REVITEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "REVITEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12204",
+      "title": "BANCADA DE TRABALHO PARA ELETRONICA",
+      "brand": "REVITEC",
+      "brandCode": "1049",
+      "supplier": "VICENTE XISTO CUPERTINO LTDA",
+      "supplierCode": "5584",
+      "manufacturerCode": "RVMP0221",
+      "category": "BANCADAS DE TRABALHO",
+      "categorySlug": "bancadas-de-trabalho",
+      "path": "/bancada-de-trabalho-para-eletronica-12204",
+      "image": "/products/images/0122/12204.png",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Organização",
+      "sectionSlug": "organizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1049--revitec"
+  }
+}

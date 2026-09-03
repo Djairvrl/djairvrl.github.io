@@ -1,0 +1,53 @@
+{
+  "title": "AKZO",
+  "parentLabel": "Marca",
+  "description": "Produtos AKZO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AKZO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8371",
+      "title": "RAL 7032 SINTETICO GALAO 3,6 WANDA",
+      "brand": "AKZO",
+      "brandCode": "586",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69588",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/ral-7032-sintetico-galao-36-wanda-8371",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8372",
+      "title": "RAL 7035 SINTETICO GALAO 3,6 WANDA",
+      "brand": "AKZO",
+      "brandCode": "586",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69590",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/ral-7035-sintetico-galao-36-wanda-8372",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--586--akzo"
+  }
+}

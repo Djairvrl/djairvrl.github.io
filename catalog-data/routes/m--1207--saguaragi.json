@@ -1,0 +1,36 @@
+{
+  "title": "SAGUARAGI",
+  "parentLabel": "Marca",
+  "description": "Produtos SAGUARAGI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SAGUARAGI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13247",
+      "title": "SILICA GEL AZUL 4.0 - 8.0 MM 40KG",
+      "brand": "SAGUARAGI",
+      "brandCode": "1207",
+      "supplier": "SAGUARAGI INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "6188",
+      "manufacturerCode": "137",
+      "category": "QUIMICOS INDUSTRIAS",
+      "categorySlug": "quimicos-industrias",
+      "path": "/silica-gel-azul-40--80-mm-40kg-13247",
+      "image": "/products/images/0132/13247.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1207--saguaragi"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "CADEADO HASTE METÁLICA",
+  "parentLabel": "Cadeados de Bloqueio",
+  "description": "Produtos da categoria cadeado haste metálica em cadeados de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Cadeados de Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio"
+    },
+    {
+      "label": "CADEADO HASTE METÁLICA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "5264",
+      "title": "CADEADO DE BLOQUEIO PLÁSTICO HASTE ALUMÍNIO Ø6,3MM ALTURA 38MM AMARELO - TAGOUT CALAM140CD",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CALAM140CD",
+      "category": "CADEADO HASTE METÁLICA",
+      "categorySlug": "cadeado-haste-metalica",
+      "path": "/cadeado-de-bloqueio-plastico-haste-aluminio-63mm-altura-38mm-amarelo--tagout-calam140cd-5264",
+      "image": "/products/images/0052/5264.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Cadeados de Bloqueio",
+      "sectionSlug": "cadeados-de-bloqueio"
+    },
+    {
+      "code": "8795",
+      "title": "CADEADO PLAST AZUL HAST MET 38X6",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CMCAZ140CD",
+      "category": "CADEADO HASTE METÁLICA",
+      "categorySlug": "cadeado-haste-metalica",
+      "path": "/cadeado-plast-azul-hast-met-38x6-8795",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Cadeados de Bloqueio",
+      "sectionSlug": "cadeados-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "bloqueio-e-etiquetagem--cadeados-de-bloqueio--cadeado-haste-metalica"
+  }
+}

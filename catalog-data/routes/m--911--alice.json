@@ -1,0 +1,53 @@
+{
+  "title": "ALICE",
+  "parentLabel": "Marca",
+  "description": "Produtos ALICE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALICE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11214",
+      "title": "DETERGENTE LAVA LOUCAS NEUTRO 500ML",
+      "brand": "ALICE",
+      "brandCode": "911",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "107",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/detergente-lava-loucas-neutro-500ml-11214",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13228",
+      "title": "MULTIUSO ALICE ORIGINAL 500ML",
+      "brand": "ALICE",
+      "brandCode": "911",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "194",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/multiuso-alice-original-500ml-13228",
+      "image": "/products/images/0132/13228.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--911--alice"
+  }
+}

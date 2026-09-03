@@ -1,0 +1,53 @@
+{
+  "title": "HARVIK",
+  "parentLabel": "Marca",
+  "description": "Produtos HARVIK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "HARVIK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12363",
+      "title": "BOTA DE INC BORRA LONG B ACO TAM 40 PRET",
+      "brand": "HARVIK",
+      "brandCode": "1070",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "9687 JB 40 PT",
+      "category": "BORRACHA BOMBEIRO",
+      "categorySlug": "borracha-bombeiro",
+      "path": "/bota-de-inc-borra-long-b-aco-tam-40-pret-12363",
+      "image": "/products/images/0123/12363.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    },
+    {
+      "code": "12364",
+      "title": "BOTA DE INC BORRA LONG B ACO TAM 42 PRET",
+      "brand": "HARVIK",
+      "brandCode": "1070",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "9687 JB 42 PT",
+      "category": "BORRACHA BOMBEIRO",
+      "categorySlug": "borracha-bombeiro",
+      "path": "/bota-de-inc-borra-long-b-aco-tam-42-pret-12364",
+      "image": "/products/images/0123/12364.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Calçados de Segurança",
+      "sectionSlug": "calcados-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1070--harvik"
+  }
+}

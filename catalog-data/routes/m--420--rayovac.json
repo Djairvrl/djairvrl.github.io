@@ -1,0 +1,36 @@
+{
+  "title": "RAYOVAC",
+  "parentLabel": "Marca",
+  "description": "Produtos RAYOVAC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RAYOVAC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7142",
+      "title": "LANTERNA HIBRIDA 19 LEDS- PILHA E BATERI",
+      "brand": "RAYOVAC",
+      "brandCode": "420",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "R19LED110V220V",
+      "category": "PORTE PEQUENO",
+      "categorySlug": "porte-pequeno",
+      "path": "/lanterna-hibrida-19-leds-pilha-e-bateri-7142",
+      "image": "/products/images/0071/7142.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--420--rayovac"
+  }
+}

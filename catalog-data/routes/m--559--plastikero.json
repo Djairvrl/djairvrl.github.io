@@ -1,0 +1,36 @@
+{
+  "title": "PLASTIKERO",
+  "parentLabel": "Marca",
+  "description": "Produtos PLASTIKERO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLASTIKERO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8102",
+      "title": "GALAO VIRGEM 20L BCO",
+      "brand": "PLASTIKERO",
+      "brandCode": "559",
+      "supplier": "BARTOFIL VAREJO SA",
+      "supplierCode": "1935",
+      "manufacturerCode": "6523",
+      "category": "GALÕES E BOMBONAS",
+      "categorySlug": "galoes-e-bombonas",
+      "path": "/galao-virgem-20l-bco-8102",
+      "image": "/products/images/0081/8102.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--559--plastikero"
+  }
+}

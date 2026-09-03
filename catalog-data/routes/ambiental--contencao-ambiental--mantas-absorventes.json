@@ -1,0 +1,146 @@
+{
+  "title": "MANTAS ABSORVENTES",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria mantas absorventes em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "MANTAS ABSORVENTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10918",
+      "title": "MANTA 2,00 X 20CM - 10MM AD",
+      "brand": "SIMPLEFIX",
+      "brandCode": "828",
+      "supplier": "SIMPLEFIX COMERCIO DE ARTEFATOS PLASTICOS E BORRACHAS LTDA",
+      "supplierCode": "4195",
+      "manufacturerCode": "M2002010_001_FULL",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-200-x-20cm--10mm-ad-10918",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "11233",
+      "title": "MANTA 4MM- 40X50 PP VIRGEM",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B011100104005004",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-4mm-40x50-pp-virgem-11233",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "9478",
+      "title": "MANTA ABSOR SINTETICA 0,40 X 0,50 X 0,04",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "MABSI40504BN",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-absor-sintetica-040-x-050-x-004-9478",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "1058",
+      "title": "MANTA ABSORVENTE DE ÓLEO DERIVADOS DO PETRÓLEO, HIDROCARBONETO 40X50CM X 4MM - MANTAS BRASIL REF 304",
+      "brand": "MANTAS BRASIL",
+      "brandCode": "39",
+      "supplier": "MANTAS BRASIL IND E COMERCIO LTDA - EPP",
+      "supplierCode": "60",
+      "manufacturerCode": "304",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-absorvente-de-oleo-derivados-do-petroleo-hidrocarboneto-40x50cm-x-4mm--mantas-brasil-ref-304-1058",
+      "image": "/products/images/0010/1058.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "6681",
+      "title": "MANTA DE BORRACHA P/BANCADA 2200X800 2MM",
+      "brand": "MARCON",
+      "brandCode": "93",
+      "supplier": "MARCON INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "223",
+      "manufacturerCode": "LB-3",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-de-borracha-pbancada-2200x800-2mm-6681",
+      "image": "/products/images/0066/6681.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "10655",
+      "title": "MANTA FILTRANTE P-210 RL 10M",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "LMOS COMERCIO DE PECAS E ACESSORIOS NOVOS PARA VEICULOS AUTO",
+      "supplierCode": "3921",
+      "manufacturerCode": "3464 C/10",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-filtrante-p210-rl-10m-10655",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "10989",
+      "title": "MANTA FILTRANTE POLIESTER",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "DISTRIBUIDORA SUPRIMENTOS FULL LTDA",
+      "supplierCode": "4300",
+      "manufacturerCode": "00082",
+      "category": "MANTAS ABSORVENTES",
+      "categorySlug": "mantas-absorventes",
+      "path": "/manta-filtrante-poliester-10989",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "ambiental--contencao-ambiental--mantas-absorventes"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "NATUTEX",
+  "parentLabel": "Marca",
+  "description": "Produtos NATUTEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NATUTEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10225",
+      "title": "LUVA DE PROCEDIMENTO LATEX TAM G C/100UN",
+      "brand": "NATUTEX",
+      "brandCode": "764",
+      "supplier": "NACIONAL COMERCIO E REPRESENTACAO EIRELI",
+      "supplierCode": "557",
+      "manufacturerCode": "51145",
+      "category": "LÁTEX",
+      "categorySlug": "latex",
+      "path": "/luva-de-procedimento-latex-tam-g-c100un-10225",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--764--natutex"
+  }
+}

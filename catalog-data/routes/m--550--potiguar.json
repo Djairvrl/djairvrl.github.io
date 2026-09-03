@@ -1,0 +1,53 @@
+{
+  "title": "POTIGUAR",
+  "parentLabel": "Marca",
+  "description": "Produtos POTIGUAR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "POTIGUAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10975",
+      "title": "AGUA M. GF 20L POTIGUAR",
+      "brand": "POTIGUAR",
+      "brandCode": "550",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "71",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/agua-m-gf-20l-potiguar-10975",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "8033",
+      "title": "GARRAFÃO DE ÁGUA MINERAL NATURAL 20L - POTIGUAR",
+      "brand": "POTIGUAR",
+      "brandCode": "550",
+      "supplier": "J. F. DE LIRA ME",
+      "supplierCode": "1157",
+      "manufacturerCode": "711",
+      "category": "ALIMENTOS E BEBIDAS",
+      "categorySlug": "alimentos-e-bebidas",
+      "path": "/garrafao-de-agua-mineral-natural-20l--potiguar-8033",
+      "image": "/products/images/0080/8033.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--550--potiguar"
+  }
+}

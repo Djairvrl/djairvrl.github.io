@@ -1,0 +1,73 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "8865",
+      "title": "TUBO CAPILAR SGS-20-5000-B-W3",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1210040100",
+      "category": "MANÔMETRO",
+      "categorySlug": "manometro",
+      "path": "/tubo-capilar-sgs205000bw3-8865",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    },
+    {
+      "code": "4279",
+      "title": "VALVULA REGULADORA DE VAZAO - DV-08-V-N",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "1910001173",
+      "category": "VÁLVULAS",
+      "categorySlug": "valvulas",
+      "path": "/valvula-reguladora-de-vazao--dv08vn-4279",
+      "image": "/products/images/0042/4279.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
+    },
+    {
+      "code": "5759",
+      "title": "VÁLVULA DE ESFERA HIDRÁULICA BBV-2-G04-8001-M G 1/4\" DN6 500 BAR - STAUFF",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "6100075929",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/valvula-de-esfera-hidraulica-bbv2g048001m-g-14-dn6-500-bar--stauff-5759",
+      "image": "/products/images/0057/5759.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "10120",
+      "title": "VÁUVULA BBV-2-G04-8001-M  STAUFF REF 6100075929",
+      "brand": "STAUFF",
+      "brandCode": "131",
+      "supplier": "STAUFF BRASIL LTDA",
+      "supplierCode": "434",
+      "manufacturerCode": "3404002069",
+      "category": "VÁLVULAS HIDRÁULICAS",
+      "categorySlug": "valvulas-hidraulicas",
+      "path": "/vauvula-bbv2g048001m-stauff-ref-6100075929-10120",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ]
+}

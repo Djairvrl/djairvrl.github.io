@@ -1,0 +1,36 @@
+{
+  "title": "ARB",
+  "parentLabel": "Marca",
+  "description": "Produtos ARB disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ARB"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9908",
+      "title": "ARB 72X10 KIT X-JACK BUSHRANGER LARANJA",
+      "brand": "ARB",
+      "brandCode": "735",
+      "supplier": "DEMERGE BRASIL FACILITADORA DE PAGAMENTOS LTDA",
+      "supplierCode": "2772",
+      "manufacturerCode": "227993",
+      "category": "MACACOS HIDRÁULICOS",
+      "categorySlug": "macacos-hidraulicos",
+      "path": "/arb-72x10-kit-xjack-bushranger-laranja-9908",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--735--arb"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "SPRINGER",
+  "parentLabel": "Marca",
+  "description": "Produtos SPRINGER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SPRINGER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8296",
+      "title": "EVAP SPRINGER TETO 57K F SIL",
+      "brand": "SPRINGER",
+      "brandCode": "582",
+      "supplier": "FRIOVIX COMERCIO DE REFRIGERACAO LTDA",
+      "supplierCode": "1384",
+      "manufacturerCode": "000000000001015210",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/evap-springer-teto-57k-f-sil-8296",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--582--springer"
+  }
+}

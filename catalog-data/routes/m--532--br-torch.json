@@ -1,0 +1,53 @@
+{
+  "title": "BR TORCH",
+  "parentLabel": "Marca",
+  "description": "Produtos BR TORCH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BR TORCH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1048",
+      "title": "MAÇARICO PORTÁTIL - BR TORCH REF BR-5IT",
+      "brand": "BR TORCH",
+      "brandCode": "532",
+      "supplier": "BR TORCH IMPORTACAO E COMERCIO DE FERRAGENS LTDA",
+      "supplierCode": "1143",
+      "manufacturerCode": "0004",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/macarico-portatil--br-torch-ref-br5it-1048",
+      "image": "/products/images/0010/1048.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "6348",
+      "title": "MAÇARICO PORTÁTIL BR-T6 AUTOMÁTICO - BR TORCH",
+      "brand": "BR TORCH",
+      "brandCode": "532",
+      "supplier": "BR TORCH IMPORTACAO E COMERCIO DE FERRAGENS LTDA",
+      "supplierCode": "1143",
+      "manufacturerCode": "0019",
+      "category": "MINI-MAÇARICOS",
+      "categorySlug": "mini-macaricos",
+      "path": "/macarico-portatil-brt6-automatico--br-torch-6348",
+      "image": "/products/images/0063/6348.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--532--br-torch"
+  }
+}

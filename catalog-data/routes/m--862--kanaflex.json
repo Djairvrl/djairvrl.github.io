@@ -1,0 +1,36 @@
+{
+  "title": "KANAFLEX",
+  "parentLabel": "Marca",
+  "description": "Produtos KANAFLEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KANAFLEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11041",
+      "title": "DUTO CORRUGADO FLEX 2\" CINZA",
+      "brand": "KANAFLEX",
+      "brandCode": "862",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "1510",
+      "category": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+      "categorySlug": "eletrodutos-conduites-e-acessorios",
+      "path": "/duto-corrugado-flex-2-cinza-11041",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--862--kanaflex"
+  }
+}

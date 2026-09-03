@@ -1,0 +1,36 @@
+{
+  "title": "FAG",
+  "parentLabel": "Marca",
+  "description": "Produtos FAG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FAG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10161",
+      "title": "GRAXA ROLAMENTO ARCANOL LOAD400 25KG",
+      "brand": "FAG",
+      "brandCode": "755",
+      "supplier": "ENCOPEL COMERCIO DE ROLAMENTOS E PECAS LTDA",
+      "supplierCode": "3204",
+      "manufacturerCode": "32345",
+      "category": "GRAXAS PARA ROLAMENTOS",
+      "categorySlug": "graxas-para-rolamentos",
+      "path": "/graxa-rolamento-arcanol-load400-25kg-10161",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Graxas Industriais",
+      "sectionSlug": "graxas-industriais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--755--fag"
+  }
+}

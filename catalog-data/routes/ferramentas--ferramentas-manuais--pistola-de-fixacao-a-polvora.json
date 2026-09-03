@@ -1,0 +1,78 @@
+{
+  "title": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria pistola de fixação á pólvora em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "PISTOLA DE FIXAÇÃO Á PÓLVORA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12727",
+      "title": "FERRAMENTA DE FIXAÇAO A POLVORA",
+      "brand": "PRA 10",
+      "brandCode": "1125",
+      "supplier": "WALSYWA INDUSTRIA E COMERCIO DE PRODUTOS METALURGICOS LTDA",
+      "supplierCode": "2568",
+      "manufacturerCode": "250490",
+      "category": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+      "categorySlug": "pistola-de-fixacao-a-polvora",
+      "path": "/ferramenta-de-fixacao-a-polvora-12727",
+      "image": "/products/images/0127/12727.webp",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12729",
+      "title": "FINCAPINOCAL .27 MAG. VM RED",
+      "brand": "WALSYWA",
+      "brandCode": "683",
+      "supplier": "WALSYWA INDUSTRIA E COMERCIO DE PRODUTOS METALURGICOS LTDA",
+      "supplierCode": "2568",
+      "manufacturerCode": "250521",
+      "category": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+      "categorySlug": "pistola-de-fixacao-a-polvora",
+      "path": "/fincapinocal-27-mag-vm-red-12729",
+      "image": "/products/images/0127/12729.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12733",
+      "title": "PINOLISO1/4X28 P HP ARCON23",
+      "brand": "WALSYWA",
+      "brandCode": "683",
+      "supplier": "WALSYWA INDUSTRIA E COMERCIO DE PRODUTOS METALURGICOS LTDA",
+      "supplierCode": "2568",
+      "manufacturerCode": "460179",
+      "category": "PISTOLA DE FIXAÇÃO Á PÓLVORA",
+      "categorySlug": "pistola-de-fixacao-a-polvora",
+      "path": "/pinoliso14x28-p-hp-arcon23-12733",
+      "image": "/products/images/0127/12733.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-manuais--pistola-de-fixacao-a-polvora"
+  }
+}

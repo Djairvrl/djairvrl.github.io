@@ -1,0 +1,53 @@
+{
+  "title": "KINGSTON",
+  "parentLabel": "Marca",
+  "description": "Produtos KINGSTON disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KINGSTON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8466",
+      "title": "CARTAO SD 64GB CANVAS GO PLUS SDG3/64GB",
+      "brand": "KINGSTON",
+      "brandCode": "599",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "47550",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/cartao-sd-64gb-canvas-go-plus-sdg364gb-8466",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12668",
+      "title": "PENDRIVE 64GB USB 3.2 EXODIA DTXM/64GB",
+      "brand": "KINGSTON",
+      "brandCode": "599",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "47587",
+      "category": "DISPOSITIVOS  DE ARMAZENAMENTO",
+      "categorySlug": "dispositivos-de-armazenamento",
+      "path": "/pendrive-64gb-usb-32-exodia-dtxm64gb-12668",
+      "image": "/products/images/0126/12668.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--599--kingston"
+  }
+}

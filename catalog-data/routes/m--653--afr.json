@@ -1,0 +1,53 @@
+{
+  "title": "AFR",
+  "parentLabel": "Marca",
+  "description": "Produtos AFR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AFR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9187",
+      "title": "BICO PROTETOR P/ SUGADOR DE SOLDA PROF",
+      "brand": "AFR",
+      "brandCode": "653",
+      "supplier": "TEFSI GROUP LTDA",
+      "supplierCode": "2425",
+      "manufacturerCode": "PACOTE COM 3 UN",
+      "category": "FERRAMENTAS",
+      "categorySlug": "ferramentas",
+      "path": "/bico-protetor-p-sugador-de-solda-prof-9187",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "11378",
+      "title": "FONTE DE ALIM AFR FA3005-P 30V 5A",
+      "brand": "AFR",
+      "brandCode": "653",
+      "supplier": "SIMITRON COMERCIAL LTDA",
+      "supplierCode": "4875",
+      "manufacturerCode": "1794",
+      "category": "FONTES REGULÁVEIS",
+      "categorySlug": "fontes-regulaveis",
+      "path": "/fonte-de-alim-afr-fa3005p-30v-5a-11378",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--653--afr"
+  }
+}

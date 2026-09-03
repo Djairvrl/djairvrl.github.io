@@ -1,0 +1,112 @@
+{
+  "title": "BOMBAS DE GRAXA MANUAL",
+  "parentLabel": "Lubrificação e Abastecimento",
+  "description": "Produtos da categoria bombas de graxa manual em lubrificação e abastecimento.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Lubrificação e Abastecimento",
+      "to": "/ferramentas/ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "label": "BOMBAS DE GRAXA MANUAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13352",
+      "title": "BOMBA GRAXA MAN C/CARRINHO 14KG HL14",
+      "brand": "HYDROFILM",
+      "brandCode": "381",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "755",
+      "manufacturerCode": "1101962",
+      "category": "BOMBAS DE GRAXA MANUAL",
+      "categorySlug": "bombas-de-graxa-manual",
+      "path": "/bomba-graxa-man-ccarrinho-14kg-hl14-13352",
+      "image": "/products/images/0133/13352.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "10149",
+      "title": "BOMBA MANUAL GRAXA REC 15KG G4 8020-G4",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "01.210.0301",
+      "category": "BOMBAS DE GRAXA MANUAL",
+      "categorySlug": "bombas-de-graxa-manual",
+      "path": "/bomba-manual-graxa-rec-15kg-g4-8020g4-10149",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "10129",
+      "title": "BOMBA MANUAL P/GRAXA C/RECIP 7KG G4",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "01.210.0300",
+      "category": "BOMBAS DE GRAXA MANUAL",
+      "categorySlug": "bombas-de-graxa-manual",
+      "path": "/bomba-manual-pgraxa-crecip-7kg-g4-10129",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "663",
+      "title": "BOMBA MANUAL PARA GRAXA 7029-G2 500GR BOZZA REF 122100020",
+      "brand": "BOZZA",
+      "brandCode": "52",
+      "supplier": "JOSE MURILIA BOZZA COM E IND LTDA",
+      "supplierCode": "105",
+      "manufacturerCode": "12.210.0020",
+      "category": "BOMBAS DE GRAXA MANUAL",
+      "categorySlug": "bombas-de-graxa-manual",
+      "path": "/bomba-manual-para-graxa-7029g2-500gr-bozza-ref-122100020-663",
+      "image": "/products/images/0006/663.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "9364",
+      "title": "ENGRAXADEIRA MAN MAC35 EXP MANG 1,3M VM",
+      "brand": "MAC LUB",
+      "brandCode": "672",
+      "supplier": "MAC LUB INDUSTRIA METALURGICA LTDA",
+      "supplierCode": "2524",
+      "manufacturerCode": "ML0035.1013",
+      "category": "BOMBAS DE GRAXA MANUAL",
+      "categorySlug": "bombas-de-graxa-manual",
+      "path": "/engraxadeira-man-mac35-exp-mang-13m-vm-9364",
+      "image": "/products/images/0093/9364.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Lubrificação e Abastecimento",
+      "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--ferramentas-lubrificacao-e-abastecimento--bombas-de-graxa-manual"
+  }
+}

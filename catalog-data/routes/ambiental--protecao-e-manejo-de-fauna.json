@@ -1,0 +1,22 @@
+{
+  "title": "Proteção e Manejo de Fauna",
+  "parentLabel": "Ambiental",
+  "description": "Soluções de proteção e manejo de fauna disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Proteção e Manejo de Fauna"
+    }
+  ],
+  "children": [],
+  "products": [],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 0,
+    "total": 0,
+    "pageBase": "ambiental--protecao-e-manejo-de-fauna"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ALPSWOLF",
+  "parentLabel": "Marca",
+  "description": "Produtos ALPSWOLF disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALPSWOLF"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9694",
+      "title": "LANTERNA LED RECARREGAVEL 800 LUMENS",
+      "brand": "ALPSWOLF",
+      "brandCode": "714",
+      "supplier": "ALESSANDRA DOS SANTOS ROCHA NAKAMURA 02932361430",
+      "supplierCode": "2600",
+      "manufacturerCode": "ECTQP7YV4FY80B",
+      "category": "TÁTICA - MILITAR",
+      "categorySlug": "tatica-militar",
+      "path": "/lanterna-led-recarregavel-800-lumens-9694",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Lanternas de Segurança",
+      "sectionSlug": "lanternas-de-seguranca"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--714--alpswolf"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "BOMBAS DE TESTE HIDROSTÁTICO",
+  "parentLabel": "Equipamentos Hidráulicos",
+  "description": "Produtos da categoria bombas de teste hidrostático em equipamentos hidráulicos.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Equipamentos Hidráulicos",
+      "to": "/maquinas-e-acessorios/equipamentos-hidraulicos"
+    },
+    {
+      "label": "BOMBAS DE TESTE HIDROSTÁTICO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2781",
+      "title": "BOMBA DE TESTE HIDROSTÁTICA ELÉTRICA RP PRO III - 40 BAR - 230V - ROTHENBERGER",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "ROTHENBERGER DO BRASIL LTDA",
+      "supplierCode": "908",
+      "manufacturerCode": "61185",
+      "category": "BOMBAS DE TESTE HIDROSTÁTICO",
+      "categorySlug": "bombas-de-teste-hidrostatico",
+      "path": "/bomba-de-teste-hidrostatica-eletrica-rp-pro-iii--40-bar--230v--rothenberger-2781",
+      "image": "/products/images/0027/2781.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "9737",
+      "title": "BOMBA DE TESTE HIDROSTÁTICO RP 50  ROTHENBERGER REF A61130S",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "FERRAMENTAS GERAIS COM E IMPORT DE FERRAM E MAQUINAS LTDA",
+      "supplierCode": "927",
+      "manufacturerCode": "A61130S",
+      "category": "BOMBAS DE TESTE HIDROSTÁTICO",
+      "categorySlug": "bombas-de-teste-hidrostatico",
+      "path": "/bomba-de-teste-hidrostatico-rp-50-rothenberger-ref-a61130s-9737",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    },
+    {
+      "code": "4147",
+      "title": "BOMBA DE TESTE HIDROSTÁTICO TP 25 MANUAL 7 LITROS - ROTHENBERGER 60250",
+      "brand": "ROTHENBERGER",
+      "brandCode": "174",
+      "supplier": "ROTHENBERGER DO BRASIL LTDA",
+      "supplierCode": "908",
+      "manufacturerCode": "60250",
+      "category": "BOMBAS DE TESTE HIDROSTÁTICO",
+      "categorySlug": "bombas-de-teste-hidrostatico",
+      "path": "/bomba-de-teste-hidrostatico-tp-25-manual-7-litros--rothenberger-60250-4147",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Equipamentos Hidráulicos",
+      "sectionSlug": "equipamentos-hidraulicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "maquinas-e-acessorios--equipamentos-hidraulicos--bombas-de-teste-hidrostatico"
+  }
+}

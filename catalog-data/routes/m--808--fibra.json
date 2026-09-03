@@ -1,0 +1,36 @@
+{
+  "title": "FIBRA",
+  "parentLabel": "Marca",
+  "description": "Produtos FIBRA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FIBRA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10746",
+      "title": "SACO 100L 90X90 PRETO C/100 IPG1009",
+      "brand": "FIBRA",
+      "brandCode": "808",
+      "supplier": "ECOLIX COMERCIO E SERVICOS LTDA",
+      "supplierCode": "358",
+      "manufacturerCode": "02207",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-100l-90x90-preto-c100-ipg1009-10746",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--808--fibra"
+  }
+}

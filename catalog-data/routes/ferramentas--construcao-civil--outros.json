@@ -1,0 +1,112 @@
+{
+  "title": "OUTROS",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria outros em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "OUTROS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9268",
+      "title": "MOLDE CILINDRO PROCTOR DIAM 4\" C/COLAR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TESTEPETRO COM DE EQUIPAMENTOS",
+      "supplierCode": "2426",
+      "manufacturerCode": "DG28575",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/molde-cilindro-proctor-diam-4-ccolar-9268",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1271",
+      "title": "PASSADOR DE FIOS 15 METROS  COM ALMA DE AÇO - VONDER REF 78.61.035.015",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "7861035015",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/passador-de-fios-15-metros-com-alma-de-aco--vonder-ref-7861035015-1271",
+      "image": "/products/images/0012/1271.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "1622",
+      "title": "PENEIRA P/AREIA PLAS.50CM PPV0850",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "8016008500",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/peneira-pareia-plas50cm-ppv0850-1622",
+      "image": "/products/images/0016/1622.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "12596",
+      "title": "ROLDANA PORTÃO 4\" TIPO V AÇO ZINCADO",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3212400400",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/roldana-portao-4-tipo-v-aco-zincado-12596",
+      "image": "/products/images/0125/12596.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "11470",
+      "title": "TANQUE VERTICAL POLIETILENO 250 L",
+      "brand": "MAXI TRUST",
+      "brandCode": "944",
+      "supplier": "MAXI TRUST POWER LTDA",
+      "supplierCode": "4995",
+      "manufacturerCode": "3080-00008-00000",
+      "category": "OUTROS",
+      "categorySlug": "outros",
+      "path": "/tanque-vertical-polietileno-250-l-11470",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ferramentas--construcao-civil--outros"
+  }
+}

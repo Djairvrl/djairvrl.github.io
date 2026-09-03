@@ -1,0 +1,61 @@
+{
+  "title": "PAINÉIS SOLARES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria painéis solares em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "PAINÉIS SOLARES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12763",
+      "title": "PAINEL SOLAR FOTOVOLTAICO 30WP",
+      "brand": "ZTROON",
+      "brandCode": "1133",
+      "supplier": "NEOSOLAR ENERGIA LTDA",
+      "supplierCode": "5921",
+      "manufacturerCode": "24461",
+      "category": "PAINÉIS SOLARES",
+      "categorySlug": "paineis-solares",
+      "path": "/painel-solar-fotovoltaico-30wp-12763",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "8137",
+      "title": "PAINEL SOLAR FOTOVOLTAICO RESUN RS6E-155",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "NEOSOLAR ENERGIA LTDA",
+      "supplierCode": "1954",
+      "manufacturerCode": "20310",
+      "category": "PAINÉIS SOLARES",
+      "categorySlug": "paineis-solares",
+      "path": "/painel-solar-fotovoltaico-resun-rs6e155-8137",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--paineis-solares"
+  }
+}

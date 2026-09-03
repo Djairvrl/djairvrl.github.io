@@ -1,0 +1,2751 @@
+{
+  "title": "Acessórios e Consumíveis",
+  "parentLabel": "Departamento",
+  "description": "Navegue pelas seções e categorias para encontrar os produtos adequados para sua operação.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis"
+    }
+  ],
+  "children": [
+    {
+      "name": "Parafusos e Fixadores",
+      "slug": "parafusos-e-fixadores",
+      "path": "/acessorios-e-consumiveis/parafusos-e-fixadores",
+      "count": 173,
+      "categories": [
+        {
+          "name": "ARRUELAS",
+          "slug": "arruelas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/arruelas",
+          "count": 18
+        },
+        {
+          "name": "BARRA",
+          "slug": "barra",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/barra",
+          "count": 9
+        },
+        {
+          "name": "BUCHA",
+          "slug": "bucha",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/bucha",
+          "count": 13
+        },
+        {
+          "name": "FIXADORES",
+          "slug": "fixadores",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/fixadores",
+          "count": 49
+        },
+        {
+          "name": "PARAFUSOS",
+          "slug": "parafusos",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/parafusos",
+          "count": 22
+        },
+        {
+          "name": "PINO",
+          "slug": "pino",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/pino",
+          "count": 8
+        },
+        {
+          "name": "PORCAS",
+          "slug": "porcas",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/porcas",
+          "count": 20
+        },
+        {
+          "name": "PRISIONEIROS",
+          "slug": "prisioneiros",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/prisioneiros",
+          "count": 4
+        },
+        {
+          "name": "REBITADOR",
+          "slug": "rebitador",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebitador",
+          "count": 10
+        },
+        {
+          "name": "REBITE",
+          "slug": "rebite",
+          "path": "/acessorios-e-consumiveis/parafusos-e-fixadores/rebite",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "name": "Pintura e Químicos",
+      "slug": "pintura-e-quimicos",
+      "path": "/acessorios-e-consumiveis/pintura-e-quimicos",
+      "count": 371,
+      "categories": [
+        {
+          "name": "ADESIVO",
+          "slug": "adesivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/adesivo",
+          "count": 40
+        },
+        {
+          "name": "ADITIVO",
+          "slug": "aditivo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/aditivo",
+          "count": 5
+        },
+        {
+          "name": "ALCOOL",
+          "slug": "alcool",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/alcool",
+          "count": 8
+        },
+        {
+          "name": "BANDEJA",
+          "slug": "bandeja",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bandeja",
+          "count": 6
+        },
+        {
+          "name": "BICO DE AR",
+          "slug": "bico-de-ar",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/bico-de-ar",
+          "count": 3
+        },
+        {
+          "name": "BROXA E TRICHA",
+          "slug": "broxa-e-tricha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/broxa-e-tricha",
+          "count": 18
+        },
+        {
+          "name": "COLA",
+          "slug": "cola",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/cola",
+          "count": 9
+        },
+        {
+          "name": "DESENGRAXANTE",
+          "slug": "desengraxante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengraxante",
+          "count": 5
+        },
+        {
+          "name": "DESENGRIPANTE",
+          "slug": "desengripante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/desengripante",
+          "count": 7
+        },
+        {
+          "name": "DILUENTE",
+          "slug": "diluente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/diluente",
+          "count": 6
+        },
+        {
+          "name": "ENDURECEDORES",
+          "slug": "endurecedores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/endurecedores",
+          "count": 2
+        },
+        {
+          "name": "EQUIPAMENTO DE PINTURA",
+          "slug": "equipamento-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/equipamento-de-pintura",
+          "count": 9
+        },
+        {
+          "name": "ESPÁTULA",
+          "slug": "espatula",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/espatula",
+          "count": 30
+        },
+        {
+          "name": "FITAS DE ALTA TEMPERATURA",
+          "slug": "fitas-de-alta-temperatura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fitas-de-alta-temperatura",
+          "count": 1
+        },
+        {
+          "name": "FLUIDO",
+          "slug": "fluido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/fluido",
+          "count": 1
+        },
+        {
+          "name": "GALVANIZADOR",
+          "slug": "galvanizador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/galvanizador",
+          "count": 5
+        },
+        {
+          "name": "GRAXA",
+          "slug": "graxa",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/graxa",
+          "count": 1
+        },
+        {
+          "name": "INIBIDOR DE FERRUGEM",
+          "slug": "inibidor-de-ferrugem",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/inibidor-de-ferrugem",
+          "count": 9
+        },
+        {
+          "name": "KIT PINTURA",
+          "slug": "kit-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/kit-pintura",
+          "count": 1
+        },
+        {
+          "name": "LIMPA CONTATO",
+          "slug": "limpa-contato",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpa-contato",
+          "count": 5
+        },
+        {
+          "name": "LIMPADOR",
+          "slug": "limpador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/limpador",
+          "count": 3
+        },
+        {
+          "name": "LÍQUIDO",
+          "slug": "liquido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/liquido",
+          "count": 1
+        },
+        {
+          "name": "MARCADORES",
+          "slug": "marcadores",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/marcadores",
+          "count": 27
+        },
+        {
+          "name": "MASSAS",
+          "slug": "massas",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/massas",
+          "count": 7
+        },
+        {
+          "name": "MISTURADOR",
+          "slug": "misturador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/misturador",
+          "count": 3
+        },
+        {
+          "name": "PINCEL",
+          "slug": "pincel",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pincel",
+          "count": 23
+        },
+        {
+          "name": "PISTOLA DE PINTURA",
+          "slug": "pistola-de-pintura",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/pistola-de-pintura",
+          "count": 8
+        },
+        {
+          "name": "PLASTI FILM",
+          "slug": "plasti-film",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/plasti-film",
+          "count": 4
+        },
+        {
+          "name": "PRIMERS / PROMOTORES DE ADESÃO",
+          "slug": "primers-promotores-de-adesao",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/primers-promotores-de-adesao",
+          "count": 3
+        },
+        {
+          "name": "QUIMICOS INDUSTRIAS",
+          "slug": "quimicos-industrias",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/quimicos-industrias",
+          "count": 5
+        },
+        {
+          "name": "REMOVEDOR",
+          "slug": "removedor",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/removedor",
+          "count": 4
+        },
+        {
+          "name": "REVESTIMENTO ANTI-RUÍDO",
+          "slug": "revestimento-anti-ruido",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/revestimento-anti-ruido",
+          "count": 1
+        },
+        {
+          "name": "ROLO",
+          "slug": "rolo",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/rolo",
+          "count": 19
+        },
+        {
+          "name": "SELANTE",
+          "slug": "selante",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/selante",
+          "count": 6
+        },
+        {
+          "name": "SIKAFLEX",
+          "slug": "sikaflex",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/sikaflex",
+          "count": 6
+        },
+        {
+          "name": "SILICONE",
+          "slug": "silicone",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/silicone",
+          "count": 16
+        },
+        {
+          "name": "SOLVENTE",
+          "slug": "solvente",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/solvente",
+          "count": 2
+        },
+        {
+          "name": "TINTA",
+          "slug": "tinta",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/tinta",
+          "count": 51
+        },
+        {
+          "name": "VEDA CALHA",
+          "slug": "veda-calha",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/veda-calha",
+          "count": 1
+        },
+        {
+          "name": "VEDADOR",
+          "slug": "vedador",
+          "path": "/acessorios-e-consumiveis/pintura-e-quimicos/vedador",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Compósitos e Laminação Técnica",
+      "slug": "compositos-e-laminacao-tecnica",
+      "path": "/acessorios-e-consumiveis/compositos-e-laminacao-tecnica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Abrasivos e Acessórios",
+      "slug": "abrasivos-e-acessorios",
+      "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios",
+      "count": 293,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS DE NYLON",
+          "slug": "abracadeiras-de-nylon",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/abracadeiras-de-nylon",
+          "count": 38
+        },
+        {
+          "name": "DISCOS",
+          "slug": "discos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/discos",
+          "count": 104
+        },
+        {
+          "name": "ESCOVAS",
+          "slug": "escovas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/escovas",
+          "count": 23
+        },
+        {
+          "name": "ESPONJAS",
+          "slug": "esponjas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/esponjas",
+          "count": 13
+        },
+        {
+          "name": "FITAS",
+          "slug": "fitas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/fitas",
+          "count": 10
+        },
+        {
+          "name": "LIXAS",
+          "slug": "lixas",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/lixas",
+          "count": 100
+        },
+        {
+          "name": "REBOLOS",
+          "slug": "rebolos",
+          "path": "/acessorios-e-consumiveis/abrasivos-e-acessorios/rebolos",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Materiais Elétricos",
+      "slug": "materiais-eletricos",
+      "path": "/acessorios-e-consumiveis/materiais-eletricos",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/acessorios-e-consumiveis/diversos",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Materias Elétricos",
+      "slug": "materias-eletricos",
+      "path": "/acessorios-e-consumiveis/materias-eletricos",
+      "count": 317,
+      "categories": [
+        {
+          "name": "ABRAÇADEIRAS",
+          "slug": "abracadeiras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/abracadeiras",
+          "count": 4
+        },
+        {
+          "name": "ACESSÓRIOS PARA CABOS",
+          "slug": "acessorios-para-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/acessorios-para-cabos",
+          "count": 8
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/bocais",
+          "count": 1
+        },
+        {
+          "name": "CAIXA DE PASSAGEM",
+          "slug": "caixa-de-passagem",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/caixa-de-passagem",
+          "count": 3
+        },
+        {
+          "name": "CANALETAS",
+          "slug": "canaletas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/canaletas",
+          "count": 5
+        },
+        {
+          "name": "CONDULETE",
+          "slug": "condulete",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/condulete",
+          "count": 5
+        },
+        {
+          "name": "DISJUNTORES",
+          "slug": "disjuntores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/disjuntores",
+          "count": 6
+        },
+        {
+          "name": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+          "slug": "eletrodutos-conduites-e-acessorios",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/eletrodutos-conduites-e-acessorios",
+          "count": 15
+        },
+        {
+          "name": "EXTENSÕES E RÉGUAS PROTETORAS",
+          "slug": "extensoes-e-reguas-protetoras",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/extensoes-e-reguas-protetoras",
+          "count": 15
+        },
+        {
+          "name": "FIOS E CABOS",
+          "slug": "fios-e-cabos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fios-e-cabos",
+          "count": 35
+        },
+        {
+          "name": "FITAS E ISOLAMENTOS",
+          "slug": "fitas-e-isolamentos",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fitas-e-isolamentos",
+          "count": 37
+        },
+        {
+          "name": "FUSÍVEIS",
+          "slug": "fusiveis",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/fusiveis",
+          "count": 1
+        },
+        {
+          "name": "INTERRUPTORES RESIDENCIAIS",
+          "slug": "interruptores-residenciais",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/interruptores-residenciais",
+          "count": 4
+        },
+        {
+          "name": "LÂMPADAS E LUMINÁRIAS",
+          "slug": "lampadas-e-luminarias",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/lampadas-e-luminarias",
+          "count": 45
+        },
+        {
+          "name": "PLUGUES E TOMADAS",
+          "slug": "plugues-e-tomadas",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/plugues-e-tomadas",
+          "count": 17
+        },
+        {
+          "name": "REATORES E DRIVERS DE ILUMINAÇÃO",
+          "slug": "reatores-e-drivers-de-iluminacao",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/reatores-e-drivers-de-iluminacao",
+          "count": 2
+        },
+        {
+          "name": "SENSORES DE USO GERAL",
+          "slug": "sensores-de-uso-geral",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/sensores-de-uso-geral",
+          "count": 2
+        },
+        {
+          "name": "TERMINAIS E CONECTORES",
+          "slug": "terminais-e-conectores",
+          "path": "/acessorios-e-consumiveis/materias-eletricos/terminais-e-conectores",
+          "count": 112
+        }
+      ]
+    },
+    {
+      "name": "Usinagem E Corte",
+      "slug": "usinagem-e-corte",
+      "path": "/acessorios-e-consumiveis/usinagem-e-corte",
+      "count": 439,
+      "categories": [
+        {
+          "name": "BITS E ACESSÓRIOS",
+          "slug": "bits-e-acessorios",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/bits-e-acessorios",
+          "count": 39
+        },
+        {
+          "name": "BROCA",
+          "slug": "broca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/broca",
+          "count": 203
+        },
+        {
+          "name": "COROAS E SERRAS COPO",
+          "slug": "coroas-e-serras-copo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/coroas-e-serras-copo",
+          "count": 71
+        },
+        {
+          "name": "COSSINETE",
+          "slug": "cossinete",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/cossinete",
+          "count": 2
+        },
+        {
+          "name": "ESCARIADOR",
+          "slug": "escariador",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/escariador",
+          "count": 4
+        },
+        {
+          "name": "FRESA",
+          "slug": "fresa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/fresa",
+          "count": 1
+        },
+        {
+          "name": "GRAMPO",
+          "slug": "grampo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/grampo",
+          "count": 1
+        },
+        {
+          "name": "IMÃ",
+          "slug": "ima",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ima",
+          "count": 4
+        },
+        {
+          "name": "JOGO",
+          "slug": "jogo",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/jogo",
+          "count": 10
+        },
+        {
+          "name": "KIT ELEMENTO",
+          "slug": "kit-elemento",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/kit-elemento",
+          "count": 3
+        },
+        {
+          "name": "LIMA ROTATIVA",
+          "slug": "lima-rotativa",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lima-rotativa",
+          "count": 24
+        },
+        {
+          "name": "LÂMINA",
+          "slug": "lamina",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/lamina",
+          "count": 12
+        },
+        {
+          "name": "MACHO",
+          "slug": "macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/macho",
+          "count": 37
+        },
+        {
+          "name": "MANDRIL",
+          "slug": "mandril",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/mandril",
+          "count": 13
+        },
+        {
+          "name": "PINÇA",
+          "slug": "pinca",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/pinca",
+          "count": 2
+        },
+        {
+          "name": "PONTA",
+          "slug": "ponta",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/ponta",
+          "count": 3
+        },
+        {
+          "name": "ROSCA POSTIÇA",
+          "slug": "rosca-postica",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/rosca-postica",
+          "count": 1
+        },
+        {
+          "name": "VIRA MACHO",
+          "slug": "vira-macho",
+          "path": "/acessorios-e-consumiveis/usinagem-e-corte/vira-macho",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "suppliers": [
+    {
+      "code": "34",
+      "name": "3M DO BRASIL LTDA",
+      "count": 82,
+      "file": "acessorios-e-consumiveis--fornecedor-34.json"
+    },
+    {
+      "code": "420",
+      "name": "3M DO BRASIL LTDA",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--fornecedor-420.json"
+    },
+    {
+      "code": "2370",
+      "name": "A.N.T. FERRAMENTAS - COMERCIAL E IMPORTADORA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2370.json"
+    },
+    {
+      "code": "4314",
+      "name": "ABECOM ROLAMENTOS E PRODUTOS DE BORRACHA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4314.json"
+    },
+    {
+      "code": "896",
+      "name": "ADERE PRODUTOS AUTO ADESIVOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-896.json"
+    },
+    {
+      "code": "798",
+      "name": "AJS E SILVA LTDA",
+      "count": 23,
+      "file": "acessorios-e-consumiveis--fornecedor-798.json"
+    },
+    {
+      "code": "790",
+      "name": "AMATOOLS COMERCIAL E IMPORTADORA LTDA",
+      "count": 72,
+      "file": "acessorios-e-consumiveis--fornecedor-790.json"
+    },
+    {
+      "code": "5342",
+      "name": "ANAY FITAS COMERCIAL E DISTRIBUIDORA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5342.json"
+    },
+    {
+      "code": "2295",
+      "name": "ANHANGUERA COMERCIO DE FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2295.json"
+    },
+    {
+      "code": "628",
+      "name": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--fornecedor-628.json"
+    },
+    {
+      "code": "3254",
+      "name": "APIGUANA MAQUINAS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3254.json"
+    },
+    {
+      "code": "2622",
+      "name": "ARDUT COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2622.json"
+    },
+    {
+      "code": "5377",
+      "name": "ARMAZEM H.A.S. LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5377.json"
+    },
+    {
+      "code": "924",
+      "name": "ATRIOM PRODUTOS QUIMICOS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-924.json"
+    },
+    {
+      "code": "827",
+      "name": "AXT INDUSTRIAL LTDA",
+      "count": 39,
+      "file": "acessorios-e-consumiveis--fornecedor-827.json"
+    },
+    {
+      "code": "3792",
+      "name": "BAZZO MAQUINAS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3792.json"
+    },
+    {
+      "code": "1020",
+      "name": "BELENUS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1020.json"
+    },
+    {
+      "code": "6005",
+      "name": "BELT SUPRIMENTOS INDUSTRIAIS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6005.json"
+    },
+    {
+      "code": "1671",
+      "name": "BIMEXPAR - COMERCIO DE PARAFUSOS E FIXADORES LTDA",
+      "count": 12,
+      "file": "acessorios-e-consumiveis--fornecedor-1671.json"
+    },
+    {
+      "code": "412",
+      "name": "BLACK  DECKER DO BRASIL LTDA",
+      "count": 11,
+      "file": "acessorios-e-consumiveis--fornecedor-412.json"
+    },
+    {
+      "code": "6180",
+      "name": "BLACK AMETHYST LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6180.json"
+    },
+    {
+      "code": "293",
+      "name": "BM3 IMPORTACAO E EXPORTACAO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-293.json"
+    },
+    {
+      "code": "773",
+      "name": "BRALIMPIA IND COM DE EQ P LIMP LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-773.json"
+    },
+    {
+      "code": "401",
+      "name": "BRANCO MOTORES LTDA",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--fornecedor-401.json"
+    },
+    {
+      "code": "1244",
+      "name": "BRASIL MAGNETS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1244.json"
+    },
+    {
+      "code": "5088",
+      "name": "BRASIMPAR INDUSTRIA METALURGICA LTDA EM RECUPERACAO JUDICIAL",
+      "count": 27,
+      "file": "acessorios-e-consumiveis--fornecedor-5088.json"
+    },
+    {
+      "code": "2244",
+      "name": "C.OTTONI - ELETRODOMESTICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2244.json"
+    },
+    {
+      "code": "1309",
+      "name": "CAJIB COMERCIO E DISTRIBUICAO DE PECAS E ACESSORIOS PARA VEI",
+      "count": 13,
+      "file": "acessorios-e-consumiveis--fornecedor-1309.json"
+    },
+    {
+      "code": "66",
+      "name": "CARBOGRAFITE EQUIPAMENTOS INDUSTRIAIS",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-66.json"
+    },
+    {
+      "code": "4662",
+      "name": "CATARINA NAUTICA COMERCIO E REPRESENTACOES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4662.json"
+    },
+    {
+      "code": "537",
+      "name": "CENTPAR - CENTRAL DE PARAFUSOS LTDA",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--fornecedor-537.json"
+    },
+    {
+      "code": "3478",
+      "name": "CIEMA COMERCIO DE BORRACHA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3478.json"
+    },
+    {
+      "code": "162",
+      "name": "CIRNE IRMAOS & CIA LTDA",
+      "count": 12,
+      "file": "acessorios-e-consumiveis--fornecedor-162.json"
+    },
+    {
+      "code": "5331",
+      "name": "CISEL EXPRESS CONDUTORES E ISOLANTES ELETRICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5331.json"
+    },
+    {
+      "code": "679",
+      "name": "CJ METAIS E CONSTRUCOES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-679.json"
+    },
+    {
+      "code": "1799",
+      "name": "CLARUS TECHNOLOGY DO BRASIL LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1799.json"
+    },
+    {
+      "code": "636",
+      "name": "COLORART NOU COLORS DIST DE TINTAS EIRELI EPP",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-636.json"
+    },
+    {
+      "code": "4818",
+      "name": "COM METAIS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4818.json"
+    },
+    {
+      "code": "632",
+      "name": "COMCEL COMERCIAL DE MATERIAIS ELETRICOS LTDA",
+      "count": 9,
+      "file": "acessorios-e-consumiveis--fornecedor-632.json"
+    },
+    {
+      "code": "2535",
+      "name": "COMERCIAL DRAGAO LTDA",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--fornecedor-2535.json"
+    },
+    {
+      "code": "3818",
+      "name": "COMERCIAL JOSE LUCENA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3818.json"
+    },
+    {
+      "code": "125",
+      "name": "COMERCIAL MARANGUAPE LTDA",
+      "count": 12,
+      "file": "acessorios-e-consumiveis--fornecedor-125.json"
+    },
+    {
+      "code": "4976",
+      "name": "COMERCIAL MARANGUAPE LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4976.json"
+    },
+    {
+      "code": "317",
+      "name": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--fornecedor-317.json"
+    },
+    {
+      "code": "6091",
+      "name": "COMERCIO DE TINTAS MATERIAL ELETRICO E HIDRAULICO VERGINIA L",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6091.json"
+    },
+    {
+      "code": "880",
+      "name": "CONDOR PINCEIS LTDA",
+      "count": 39,
+      "file": "acessorios-e-consumiveis--fornecedor-880.json"
+    },
+    {
+      "code": "895",
+      "name": "CORAX INDUSTRIA, COM. E SERV. MATERIAIS DE SEGURANÇA EIRELI",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-895.json"
+    },
+    {
+      "code": "4844",
+      "name": "CORR SOLUTIONS BRASIL COMERCIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4844.json"
+    },
+    {
+      "code": "5590",
+      "name": "CRIMPER",
+      "count": 28,
+      "file": "acessorios-e-consumiveis--fornecedor-5590.json"
+    },
+    {
+      "code": "3565",
+      "name": "DANIELA CRISTINA DA SILVA AZEVEDO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3565.json"
+    },
+    {
+      "code": "31",
+      "name": "DAOMING BRASIL TECIDOS E FILMES REFLET",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-31.json"
+    },
+    {
+      "code": "5071",
+      "name": "DAY BRASIL S/A",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5071.json"
+    },
+    {
+      "code": "3826",
+      "name": "DECORARMAIS COMERCIO ELETRONICO, IMPORTACOES E EXPORTACOES",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3826.json"
+    },
+    {
+      "code": "5122",
+      "name": "DIDATICA EQUIPAMENTOS PARA LABORATORIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5122.json"
+    },
+    {
+      "code": "1495",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 33,
+      "file": "acessorios-e-consumiveis--fornecedor-1495.json"
+    },
+    {
+      "code": "1815",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--fornecedor-1815.json"
+    },
+    {
+      "code": "1471",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-1471.json"
+    },
+    {
+      "code": "1578",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-1578.json"
+    },
+    {
+      "code": "2002",
+      "name": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--fornecedor-2002.json"
+    },
+    {
+      "code": "1520",
+      "name": "DIPROTEC DISTRIBUIDORA DE PRODUTOS TECNICOS PARA CONSTRUCAO",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-1520.json"
+    },
+    {
+      "code": "208",
+      "name": "DORMER PRAMET SOLUCOES PARA USINAGEM",
+      "count": 44,
+      "file": "acessorios-e-consumiveis--fornecedor-208.json"
+    },
+    {
+      "code": "1741",
+      "name": "DROGARIA SIGAFARMA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1741.json"
+    },
+    {
+      "code": "1103",
+      "name": "DUDA BROKER LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-1103.json"
+    },
+    {
+      "code": "4378",
+      "name": "EAGLEBURGMANN DO BRASIL VEDACOES INDUSTRIAIS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4378.json"
+    },
+    {
+      "code": "2121",
+      "name": "ECOHOME COMERCIO DE MATERIAIS ELETRICOS E ILUMINACAO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2121.json"
+    },
+    {
+      "code": "5976",
+      "name": "ECONOMINET COMERCIO E ASSESSORIA EM VENDAS LTDA",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--fornecedor-5976.json"
+    },
+    {
+      "code": "5628",
+      "name": "EFEBRAS COMERCIO E INDUSTRIA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5628.json"
+    },
+    {
+      "code": "2084",
+      "name": "ELETRICA DANUBIO INDUSTRIA E COMERCIO LTDA",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--fornecedor-2084.json"
+    },
+    {
+      "code": "2052",
+      "name": "ELETRO MORAIS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2052.json"
+    },
+    {
+      "code": "231",
+      "name": "ELGIN DISTRIBUIDORA LTDA",
+      "count": 15,
+      "file": "acessorios-e-consumiveis--fornecedor-231.json"
+    },
+    {
+      "code": "209",
+      "name": "ELGIN S/A",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-209.json"
+    },
+    {
+      "code": "1668",
+      "name": "EQUIBOMBAS LAZER COMERCIO DE EQUIPAMENTOS E ACESSORIOS PARA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1668.json"
+    },
+    {
+      "code": "2331",
+      "name": "EQUIP INDUSTRIAL COMERCIO DE EQUIPAMENTOS LTDA.",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--fornecedor-2331.json"
+    },
+    {
+      "code": "1060",
+      "name": "EQUIPAMENTOS PARA PINTURA MAJAM LTDA",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--fornecedor-1060.json"
+    },
+    {
+      "code": "1190",
+      "name": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1190.json"
+    },
+    {
+      "code": "4673",
+      "name": "ESPIRITO SANTO COMERCIO EMBALAGENS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4673.json"
+    },
+    {
+      "code": "6174",
+      "name": "EVECOM E-COMMERCE LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6174.json"
+    },
+    {
+      "code": "4285",
+      "name": "EX BLINDADOS - COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-4285.json"
+    },
+    {
+      "code": "1425",
+      "name": "FABIO LUIZ BARBOSA DE SOUZA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1425.json"
+    },
+    {
+      "code": "4704",
+      "name": "FABRIFIX INDUSTRIA E COMERCIO DE FIXADORES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4704.json"
+    },
+    {
+      "code": "1657",
+      "name": "FCA COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1657.json"
+    },
+    {
+      "code": "174",
+      "name": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "count": 18,
+      "file": "acessorios-e-consumiveis--fornecedor-174.json"
+    },
+    {
+      "code": "4983",
+      "name": "FF BIANCHI LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4983.json"
+    },
+    {
+      "code": "2648",
+      "name": "FIBERTEX LOUVEIRA PROD. TEXTEIS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2648.json"
+    },
+    {
+      "code": "4735",
+      "name": "FIXAR INDUSTRIAL DE FIXADORES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4735.json"
+    },
+    {
+      "code": "1093",
+      "name": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1093.json"
+    },
+    {
+      "code": "271",
+      "name": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "count": 18,
+      "file": "acessorios-e-consumiveis--fornecedor-271.json"
+    },
+    {
+      "code": "966",
+      "name": "FORTLEV INDUSTRIA E COMERCIO DE PLASTICOS LTDA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-966.json"
+    },
+    {
+      "code": "1186",
+      "name": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "count": 14,
+      "file": "acessorios-e-consumiveis--fornecedor-1186.json"
+    },
+    {
+      "code": "1296",
+      "name": "GEOVANE NAZARO UDALAS ALVES TATUI",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1296.json"
+    },
+    {
+      "code": "2205",
+      "name": "GIMAWA COMERCIAL LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-2205.json"
+    },
+    {
+      "code": "1740",
+      "name": "GKE ELETRO LTDA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-1740.json"
+    },
+    {
+      "code": "2126",
+      "name": "GRACA MARIA DE MEDEIROS FERNANDES LTDA",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--fornecedor-2126.json"
+    },
+    {
+      "code": "1171",
+      "name": "GRUPO MULTI S.A",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1171.json"
+    },
+    {
+      "code": "727",
+      "name": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-727.json"
+    },
+    {
+      "code": "1118",
+      "name": "HANSATECNICA COMERCIO E REPRESENTACOES S.A",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--fornecedor-1118.json"
+    },
+    {
+      "code": "828",
+      "name": "HENKEL LTDA",
+      "count": 49,
+      "file": "acessorios-e-consumiveis--fornecedor-828.json"
+    },
+    {
+      "code": "2274",
+      "name": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2274.json"
+    },
+    {
+      "code": "2175",
+      "name": "HILTI DO BRASIL COMERCIAL LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-2175.json"
+    },
+    {
+      "code": "970",
+      "name": "HITA COMERCIO E SERVIÇOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-970.json"
+    },
+    {
+      "code": "890",
+      "name": "I A V COMERCIO E SERVICOS LTDA",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--fornecedor-890.json"
+    },
+    {
+      "code": "2225",
+      "name": "I.F.C. INDUSTRIA E COMERCIO DE CONDUTORES ELETRICOS LTDA",
+      "count": 19,
+      "file": "acessorios-e-consumiveis--fornecedor-2225.json"
+    },
+    {
+      "code": "5794",
+      "name": "IMPORTT IMPORTACAO, DISTRIBUICAO E VAREJO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5794.json"
+    },
+    {
+      "code": "5569",
+      "name": "INCORZUL COMERCIO DE FERRAGENS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5569.json"
+    },
+    {
+      "code": "1621",
+      "name": "ISOLASIL - COMERCIO DE TINTAS VERN. E MAT. ISOLANTES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1621.json"
+    },
+    {
+      "code": "2051",
+      "name": "ISOTEK BRASIL IND. E COM. LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2051.json"
+    },
+    {
+      "code": "1638",
+      "name": "J K R COMERCIO VAREJISTA DE PRODUTOS ELETRONICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1638.json"
+    },
+    {
+      "code": "502",
+      "name": "J V CUNHA DISTRIBUIDORA DE ALIMENTOS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-502.json"
+    },
+    {
+      "code": "1295",
+      "name": "JEAN CARLOS OENNING",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1295.json"
+    },
+    {
+      "code": "6067",
+      "name": "JR COMERCIO DE MATERIAIS PARA CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6067.json"
+    },
+    {
+      "code": "958",
+      "name": "KENIA SABATTYNE DE O BORGES",
+      "count": 9,
+      "file": "acessorios-e-consumiveis--fornecedor-958.json"
+    },
+    {
+      "code": "1641",
+      "name": "KGMLAN DISTRIBUIDORA LTDA",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--fornecedor-1641.json"
+    },
+    {
+      "code": "1654",
+      "name": "L L CASSIOLATTO MATERIAIS ELETRICOS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1654.json"
+    },
+    {
+      "code": "1377",
+      "name": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "count": 18,
+      "file": "acessorios-e-consumiveis--fornecedor-1377.json"
+    },
+    {
+      "code": "894",
+      "name": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "count": 12,
+      "file": "acessorios-e-consumiveis--fornecedor-894.json"
+    },
+    {
+      "code": "631",
+      "name": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--fornecedor-631.json"
+    },
+    {
+      "code": "493",
+      "name": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--fornecedor-493.json"
+    },
+    {
+      "code": "5862",
+      "name": "LF CONNECT CAIXA TOMADA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5862.json"
+    },
+    {
+      "code": "684",
+      "name": "LOUSATEC FABRICA DE QUADROS ESCOLARES EIRELI",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-684.json"
+    },
+    {
+      "code": "1349",
+      "name": "LUBRIFIL COMERCIO DE LUBRIFICANTES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1349.json"
+    },
+    {
+      "code": "1476",
+      "name": "LUCAS PIRES PRODUTOS DE LIMPEZA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1476.json"
+    },
+    {
+      "code": "5970",
+      "name": "LUMA PARAFUSOS E FERRAMENTAS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5970.json"
+    },
+    {
+      "code": "2659",
+      "name": "LUMINOLANDIA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2659.json"
+    },
+    {
+      "code": "58",
+      "name": "LUMITEC COMERCIO DE TINTAS TECNICAS LUMINOSAS LTDA",
+      "count": 10,
+      "file": "acessorios-e-consumiveis--fornecedor-58.json"
+    },
+    {
+      "code": "3894",
+      "name": "LUMIX COMERCIAL LTDA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-3894.json"
+    },
+    {
+      "code": "1405",
+      "name": "LUXSON COMERCIO DE SPRAYS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-1405.json"
+    },
+    {
+      "code": "6154",
+      "name": "MADEART COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6154.json"
+    },
+    {
+      "code": "3546",
+      "name": "MAETO.COM LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3546.json"
+    },
+    {
+      "code": "1095",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 17,
+      "file": "acessorios-e-consumiveis--fornecedor-1095.json"
+    },
+    {
+      "code": "1115",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--fornecedor-1115.json"
+    },
+    {
+      "code": "1168",
+      "name": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--fornecedor-1168.json"
+    },
+    {
+      "code": "1547",
+      "name": "MANUKS FERRAMENTAS E MATERIAIS ELETRICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1547.json"
+    },
+    {
+      "code": "959",
+      "name": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-959.json"
+    },
+    {
+      "code": "5357",
+      "name": "MARTINS COMERCIO E SERVICOS DE DISTRIBUICAO S/A",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5357.json"
+    },
+    {
+      "code": "2172",
+      "name": "MAURIZIO & CIA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2172.json"
+    },
+    {
+      "code": "5150",
+      "name": "MCORDEIRO COMERCIO DE VARIEDADES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5150.json"
+    },
+    {
+      "code": "6112",
+      "name": "MED FUSION COMERCIO DE PRODUTOS MEDICOS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-6112.json"
+    },
+    {
+      "code": "4",
+      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4.json"
+    },
+    {
+      "code": "1801",
+      "name": "METAL CHEK DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1801.json"
+    },
+    {
+      "code": "5179",
+      "name": "METHAFIX INDUSTRIA E COMERCIO LTDA",
+      "count": 36,
+      "file": "acessorios-e-consumiveis--fornecedor-5179.json"
+    },
+    {
+      "code": "2429",
+      "name": "MFL ACESSORIOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2429.json"
+    },
+    {
+      "code": "1381",
+      "name": "MH MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-1381.json"
+    },
+    {
+      "code": "165",
+      "name": "MICROFACIL INFORMATICA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-165.json"
+    },
+    {
+      "code": "2349",
+      "name": "MINAS FERRAMENTAS LTDA.",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2349.json"
+    },
+    {
+      "code": "328",
+      "name": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-328.json"
+    },
+    {
+      "code": "244",
+      "name": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "count": 67,
+      "file": "acessorios-e-consumiveis--fornecedor-244.json"
+    },
+    {
+      "code": "1276",
+      "name": "N C OLIVEIRA TINTAS LTDA",
+      "count": 24,
+      "file": "acessorios-e-consumiveis--fornecedor-1276.json"
+    },
+    {
+      "code": "1469",
+      "name": "N C OLIVEIRA TINTAS LTDA",
+      "count": 12,
+      "file": "acessorios-e-consumiveis--fornecedor-1469.json"
+    },
+    {
+      "code": "5306",
+      "name": "N E F MELGACO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5306.json"
+    },
+    {
+      "code": "4523",
+      "name": "NATALTEM MAQUINAS E FERRAMENTAS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-4523.json"
+    },
+    {
+      "code": "1553",
+      "name": "NAUTIKA COMERCIAL DE ARTIGOS PARA LAZER LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1553.json"
+    },
+    {
+      "code": "2482",
+      "name": "NET ELETRICA COMERCIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2482.json"
+    },
+    {
+      "code": "3090",
+      "name": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 55,
+      "file": "acessorios-e-consumiveis--fornecedor-3090.json"
+    },
+    {
+      "code": "846",
+      "name": "O.V.D IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--fornecedor-846.json"
+    },
+    {
+      "code": "122",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 36,
+      "file": "acessorios-e-consumiveis--fornecedor-122.json"
+    },
+    {
+      "code": "88",
+      "name": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "count": 25,
+      "file": "acessorios-e-consumiveis--fornecedor-88.json"
+    },
+    {
+      "code": "1454",
+      "name": "OFICINA DOS BITS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-1454.json"
+    },
+    {
+      "code": "450",
+      "name": "ORBI QUIMICA LTDA",
+      "count": 14,
+      "file": "acessorios-e-consumiveis--fornecedor-450.json"
+    },
+    {
+      "code": "2267",
+      "name": "PALMA MAQUINAS E FERRAMENTAS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-2267.json"
+    },
+    {
+      "code": "4612",
+      "name": "PETRO CABOS E COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-4612.json"
+    },
+    {
+      "code": "179",
+      "name": "PHOSPODONT LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-179.json"
+    },
+    {
+      "code": "2489",
+      "name": "PROLUB COMERCIO E REPRESENTACOES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2489.json"
+    },
+    {
+      "code": "4248",
+      "name": "PVCTEC INDUSTRIA E COMERCIO POLIMEROS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4248.json"
+    },
+    {
+      "code": "2068",
+      "name": "PWL BRASIL INDUSTRIA E COMERCIO DE MATERIAIS ELETRICOS LTDA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-2068.json"
+    },
+    {
+      "code": "6043",
+      "name": "RIOLUX COMERCIO ELETRONICO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6043.json"
+    },
+    {
+      "code": "6196",
+      "name": "RISC TECH BRASIL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6196.json"
+    },
+    {
+      "code": "432",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--fornecedor-432.json"
+    },
+    {
+      "code": "158",
+      "name": "ROBERT BOSCH LIMITADA",
+      "count": 299,
+      "file": "acessorios-e-consumiveis--fornecedor-158.json"
+    },
+    {
+      "code": "5754",
+      "name": "ROCHA DECOR COMERCIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5754.json"
+    },
+    {
+      "code": "1412",
+      "name": "RODRIGO APARECIDO DE SOUSA 16252210889",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1412.json"
+    },
+    {
+      "code": "908",
+      "name": "ROTHENBERGER DO BRASIL LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-908.json"
+    },
+    {
+      "code": "6095",
+      "name": "RS3 COMERCIO DE TINTAS LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-6095.json"
+    },
+    {
+      "code": "1264",
+      "name": "RTF IMPORTACAO E COMERCIO DE COMPONENTES ELETRONICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1264.json"
+    },
+    {
+      "code": "6092",
+      "name": "S&B COMERCIO DISTRIBUICAO IMPORTACAO E EXPORTACAO DE PRODUTO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6092.json"
+    },
+    {
+      "code": "857",
+      "name": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "count": 11,
+      "file": "acessorios-e-consumiveis--fornecedor-857.json"
+    },
+    {
+      "code": "6188",
+      "name": "SAGUARAGI INDUSTRIA E COMERCIO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6188.json"
+    },
+    {
+      "code": "5572",
+      "name": "SAINT-GOBAIN DO BRASIL PRODUTOS INDUSTRIAIS E PARA CONSTRUCA",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--fornecedor-5572.json"
+    },
+    {
+      "code": "1292",
+      "name": "SAINT-GOBAIN DO BRASIL PRODUTOS INDUSTRIAIS E PARA CONSTRUCA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-1292.json"
+    },
+    {
+      "code": "2671",
+      "name": "SANTIL COMERCIAL ELETRICA LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-2671.json"
+    },
+    {
+      "code": "1877",
+      "name": "SANTIL COMERCIAL ELETRICA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1877.json"
+    },
+    {
+      "code": "2703",
+      "name": "SAO FRANCISCO MARKET LTDA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-2703.json"
+    },
+    {
+      "code": "276",
+      "name": "SCHULZ COMPRESSORES LTDA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-276.json"
+    },
+    {
+      "code": "2107",
+      "name": "SELENA SULAMERICANA INDUSTRIA E COMERCIO DE PRODUTOS QUIMICO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-2107.json"
+    },
+    {
+      "code": "97",
+      "name": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-97.json"
+    },
+    {
+      "code": "2614",
+      "name": "SIKA S A",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--fornecedor-2614.json"
+    },
+    {
+      "code": "3376",
+      "name": "SIKA S A",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3376.json"
+    },
+    {
+      "code": "6271",
+      "name": "SKZECOM LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6271.json"
+    },
+    {
+      "code": "6093",
+      "name": "SMART COMPONENTES ELETRONICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6093.json"
+    },
+    {
+      "code": "1280",
+      "name": "SOLUT QUIMICA INDUSTRIAL LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1280.json"
+    },
+    {
+      "code": "306",
+      "name": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "count": 11,
+      "file": "acessorios-e-consumiveis--fornecedor-306.json"
+    },
+    {
+      "code": "1655",
+      "name": "TAPCAMP COMERCIO VAREJISTA DE LUBRIFICANTES LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1655.json"
+    },
+    {
+      "code": "822",
+      "name": "TAPMATIC DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--fornecedor-822.json"
+    },
+    {
+      "code": "6234",
+      "name": "TECHNODATA DIGITAL RETAIL LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6234.json"
+    },
+    {
+      "code": "461",
+      "name": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-461.json"
+    },
+    {
+      "code": "1626",
+      "name": "TECNOVOS IMPORTADOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-1626.json"
+    },
+    {
+      "code": "5714",
+      "name": "TELARIO IMPORTACAO E EXPORTACAO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5714.json"
+    },
+    {
+      "code": "3547",
+      "name": "TEX INC DISTRIBUICAO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-3547.json"
+    },
+    {
+      "code": "519",
+      "name": "TRAMONTINA GARIBALDI SA INDUSTRIA METALURGICA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-519.json"
+    },
+    {
+      "code": "533",
+      "name": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-533.json"
+    },
+    {
+      "code": "2192",
+      "name": "TRES MARIAS ALIMENTOS DO VALLE LTDA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--fornecedor-2192.json"
+    },
+    {
+      "code": "5867",
+      "name": "TRISOFT TEXTIL LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5867.json"
+    },
+    {
+      "code": "5704",
+      "name": "V.G. PEREIRA & CIA LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5704.json"
+    },
+    {
+      "code": "6164",
+      "name": "VANDO COMERCIO E SERVICOS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6164.json"
+    },
+    {
+      "code": "4292",
+      "name": "VIA CLEAN COMERCIO DE SINALIZACAO VIARIA, CONTAINER, PALLETS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-4292.json"
+    },
+    {
+      "code": "1841",
+      "name": "VIEW TECH ENGENHARIA DE AUTOMACAO LTDA",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--fornecedor-1841.json"
+    },
+    {
+      "code": "915",
+      "name": "WD-40 COMPANY BRASIL LTDA.",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-915.json"
+    },
+    {
+      "code": "5982",
+      "name": "WEG TINTAS LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-5982.json"
+    },
+    {
+      "code": "6130",
+      "name": "WILIANS ANDRADE SALES COMPUTADORES",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-6130.json"
+    },
+    {
+      "code": "982",
+      "name": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "count": 16,
+      "file": "acessorios-e-consumiveis--fornecedor-982.json"
+    },
+    {
+      "code": "136",
+      "name": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--fornecedor-136.json"
+    }
+  ],
+  "products": [
+    {
+      "code": "9797",
+      "title": "1 INTERRUPTOR PARALELO COM 1 TOMADA",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "S3B69040",
+      "category": "INTERRUPTORES RESIDENCIAIS",
+      "categorySlug": "interruptores-residenciais",
+      "path": "/1-interruptor-paralelo-com-1-tomada-9797",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "13319",
+      "title": "3M AUTO PAPEL DE POLIM. 10 FLS",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "34",
+      "manufacturerCode": "HB004009146",
+      "category": "LIXAS",
+      "categorySlug": "lixas",
+      "path": "/3m-auto-papel-de-polim-10-fls-13319",
+      "image": "/products/images/0133/13319.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "8502",
+      "title": "572 LAMPADA LED T8 G13 4000K BIV 18W 210",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1070572",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/572-lampada-led-t8-g13-4000k-biv-18w-210-8502",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "10800",
+      "title": "713 1 1/2 TRINCHA 12X1",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971462",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/713-1-12-trincha-12x1-10800",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10801",
+      "title": "713 2 TRINCHA 12X1",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "971463",
+      "category": "BROXA E TRICHA",
+      "categorySlug": "broxa-e-tricha",
+      "path": "/713-2-trincha-12x1-10801",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11605",
+      "title": "ABRAC C/CLIP UV PRETO 135MMX4,8MM 100 PC",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "FC7013UVPR100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-cclip-uv-preto-135mmx48mm-100-pc-11605",
+      "image": "/products/images/0116/11605.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "13026",
+      "title": "ABRAC INCOLOR 300X7,6MM- 100 PCS",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "supplierCode": "631",
+      "manufacturerCode": "F7030NYNA100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-incolor-300x76mm-100-pcs-13026",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3585",
+      "title": "ABRAC NYLON SIGMA BR 4,8 X 300MM PCT-100",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "12470",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-nylon-sigma-br-48-x-300mm-pct100-3585",
+      "image": "/products/images/0035/3585.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "10944",
+      "title": "ABRAC NYLON SIGMA PT 4,8X300MM  PCT-100",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13013",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-nylon-sigma-pt-48x300mm-pct100-10944",
+      "image": "/products/images/0109/10944.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "13200",
+      "title": "ABRAC ROSCA S/FIM INOX 13-19MM 3/4",
+      "brand": "CASA VANDO",
+      "brandCode": "1198",
+      "supplier": "VANDO COMERCIO E SERVICOS LTDA",
+      "supplierCode": "6164",
+      "manufacturerCode": "111458",
+      "category": "FIXADORES",
+      "categorySlug": "fixadores",
+      "path": "/abrac-rosca-sfim-inox-1319mm-34-13200",
+      "image": "/products/images/0132/13200.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "11604",
+      "title": "ABRAC UV PRETA 180 MM X 4,8 MM - 100 PEÇ",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7018UVPR100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-uv-preta-180-mm-x-48-mm--100-pec-11604",
+      "image": "/products/images/0116/11604.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "10016",
+      "title": "ABRAC UV PRETA 200X4,8 MM-100 PCS",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7023UVPR100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-uv-preta-200x48-mm100-pcs-10016",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "13194",
+      "title": "ABRAC UV PRETA 202 MM X 3,7 MM - 100 PCS",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7020UVPR100",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abrac-uv-preta-202-mm-x-37-mm--100-pcs-13194",
+      "image": "/products/images/0131/13194.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "10020",
+      "title": "ABRAC UV PRETA 283X4,8MM - 100 PCS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7028UVPR100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-uv-preta-283x48mm--100-pcs-10020",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "10019",
+      "title": "ABRAC UV PRETA 500X7,6MM - 50 PCS",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7052UVPR50",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-uv-preta-500x76mm--50-pcs-10019",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "10018",
+      "title": "ABRAC UV PRETA 535X8,8MM-50 PCS",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7053UVPR50",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-uv-preta-535x88mm50-pcs-10018",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "6261",
+      "title": "ABRAC UV PRETA 765X8,8 - 50 PCS",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7076UVPR50",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abrac-uv-preta-765x88--50-pcs-6261",
+      "image": "/products/images/0062/6261.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "9219",
+      "title": "ABRACADEIRA ACO 12MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "977",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abracadeira-aco-12mm-9219",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "986",
+      "title": "ABRACADEIRA DE PLAST 100X2,5MM PT C/100",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "4554055",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-plast-100x25mm-pt-c100-986",
+      "image": "/products/images/0009/986.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3104",
+      "title": "ABRACADEIRA DE PLAST 300X3,6MM PT C/100",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "4556055",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-plast-300x36mm-pt-c100-3104",
+      "image": "/products/images/0031/3104.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "12902",
+      "title": "ABRACADEIRA NYLON 4,8X200MM PT 100PCS",
+      "brand": "FORCE LINE",
+      "brandCode": "503",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "7899018418661",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-nylon-48x200mm-pt-100pcs-12902",
+      "image": "/products/images/0129/12902.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "7063",
+      "title": "ABRACADEIRA NYLON 4,8X400MM PTA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "supplierCode": "857",
+      "manufacturerCode": "7898668700546",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-nylon-48x400mm-pta-7063",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "8280",
+      "title": "ABRACADEIRA NYLON 550X7.6MM PRT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SACCI JOAO CAMARA COM DA CONST CIVIL E REPRESENTACOES LTDA",
+      "supplierCode": "857",
+      "manufacturerCode": "7899524300405",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-nylon-550x76mm-prt-8280",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "542",
+      "title": "ABRACADEIRA NYLON 7,6X500MM 100PCS",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13017",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-nylon-76x500mm-100pcs-542",
+      "image": "/products/images/0005/542.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "10787",
+      "title": "ABRACADEIRA PRETA  300MM X 4,8 MM  C/100",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7029UVPR100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-preta-300mm-x-48-mm-c100-10787",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "11987",
+      "title": "ABRACADEIRA RSF 9MM 5/16\" A 1/2\" 8-13",
+      "brand": "WORKER",
+      "brandCode": "421",
+      "supplier": "BAZZO MAQUINAS",
+      "supplierCode": "3792",
+      "manufacturerCode": "1109",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abracadeira-rsf-9mm-516-a-12-813-11987",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9945",
+      "title": "ABRACADEIRA T50 BR 200 X 4,8MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "KGMLAN DISTRIBUIDORA LTDA",
+      "supplierCode": "1641",
+      "manufacturerCode": "18.07",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-t50-br-200-x-48mm-9945",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "12389",
+      "title": "ABRACADEIRA TIPO D 1\"",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "2034",
+      "category": "ABRAÇADEIRAS",
+      "categorySlug": "abracadeiras",
+      "path": "/abracadeira-tipo-d-1-12389",
+      "image": "/products/images/0123/12389.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "10158",
+      "title": "ABRACADEIRA UV PRETA 760 X 7.6 MM 50 PCS",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7075UVPR50",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-uv-preta-760-x-76-mm-50-pcs-10158",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "9684",
+      "title": "ABRACEIRA NYLON 6.6 PTA W-MAX 7,8X540",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0502540178",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abraceira-nylon-66-pta-wmax-78x540-9684",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "11347",
+      "title": "ABRAÇADEIRA 6200 X 13.4 X 1 INOX",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COM METAIS",
+      "supplierCode": "4818",
+      "manufacturerCode": "7860",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-6200-x-134-x-1-inox-11347",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "535",
+      "title": "ABRAÇADEIRA DE NYLON (2,5X100MM) 100 PCS  SIGMA 13005",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13005",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-25x100mm-100-pcs-sigma-13005-535",
+      "image": "/products/images/0005/535.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "536",
+      "title": "ABRAÇADEIRA DE NYLON (2,5X200MM) 100 PCS  SIGMA 13007",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13007",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-25x200mm-100-pcs-sigma-13007-536",
+      "image": "/products/images/0005/536.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "538",
+      "title": "ABRAÇADEIRA DE NYLON (3,6X300MM) 100 PCS  SIGMA 13011",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13011",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-36x300mm-100-pcs-sigma-13011-538",
+      "image": "/products/images/0005/538.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "539",
+      "title": "ABRAÇADEIRA DE NYLON (4,8X200MM) 100 PCS  SIGMA 13012",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13012",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-48x200mm-100-pcs-sigma-13012-539",
+      "image": "/products/images/0005/539.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "540",
+      "title": "ABRAÇADEIRA DE NYLON (4,8X400MM) 100 PCS  SIGMA 13014",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13014",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-48x400mm-100-pcs-sigma-13014-540",
+      "image": "/products/images/0005/540.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "541",
+      "title": "ABRAÇADEIRA DE NYLON (7,6X300MM) 100 PCS  SIGMA 13016",
+      "brand": "SIGMA",
+      "brandCode": "55",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "13016",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-76x300mm-100-pcs-sigma-13016-541",
+      "image": "/products/images/0005/541.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "7569",
+      "title": "ABRAÇADEIRA DE NYLON 2,5 X 200MM PRETO 100 UND - FORCELINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500005",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-25-x-200mm-preto-100-und--forceline-7569",
+      "image": "/products/images/0075/7569.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "7558",
+      "title": "ABRAÇADEIRA DE NYLON 3,6 X 300MM PRETO 100 UND - FORCELINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500011",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-36-x-300mm-preto-100-und--forceline-7558",
+      "image": "/products/images/0075/7558.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "6920",
+      "title": "ABRAÇADEIRA DE NYLON 4,8MM X 280MM PRETA 100 PC - FORCELINE 0600500015",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500015",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-48mm-x-280mm-preta-100-pc--forceline-0600500015-6920",
+      "image": "/products/images/0069/6920.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "9905",
+      "title": "ABRAÇADEIRA DE NYLON 6.6 PRETA 540 X 7,8MM  WURTH REF 5986100128",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "5986100128",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-de-nylon-66-preta-540-x-78mm-wurth-ref-5986100128-9905",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "6262",
+      "title": "ABRAÇADEIRA UV DE NYLON 100 X 2,5MM PRETA 100 PEÇAS - FRONTEC F7010UVPR100",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7010UVPR100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-uv-de-nylon-100-x-25mm-preta-100-pecas--frontec-f7010uvpr100-6262",
+      "image": "/products/images/0062/6262.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "6256",
+      "title": "ABRAÇADEIRA UV DE NYLON 400 X 4,8MM PRETA 100 PEÇAS - FRONTEC F7039UVPR100",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7039UVPR100",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-uv-de-nylon-400-x-48mm-preta-100-pecas--frontec-f7039uvpr100-6256",
+      "image": "/products/images/0062/6256.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "6258",
+      "title": "ABRAÇADEIRA UV DE NYLON 536 X 13,7MM PRETA 50 PEÇAS - FRONTEC F7054UVPR50",
+      "brand": "FRONTEC",
+      "brandCode": "272",
+      "supplier": "FRONTEC INDUSTRIA DE COMPONENTES DE FIXACAO LTDA",
+      "supplierCode": "1186",
+      "manufacturerCode": "F7054UVPR50",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeira-uv-de-nylon-536-x-137mm-preta-50-pecas--frontec-f7054uvpr50-6258",
+      "image": "/products/images/0062/6258.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3837",
+      "title": "ABRAÇADEIRAS DE NYLON 2,5X100MM PRETA 100PCS - FORCE LINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "0600500001",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeiras-de-nylon-25x100mm-preta-100pcs--force-line-3837",
+      "image": "/products/images/0038/3837.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3838",
+      "title": "ABRAÇADEIRAS DE NYLON 4,8X200MM PRETA 100PCS - FORCE LINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "COMERCIAL MARANGUAPE LTDA",
+      "supplierCode": "125",
+      "manufacturerCode": "0600500013",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeiras-de-nylon-48x200mm-preta-100pcs--force-line-3838",
+      "image": "/products/images/0038/3838.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "3839",
+      "title": "ABRAÇADEIRAS DE NYLON 4,8X400MM PRETA 100PCS - FORCE LINE",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "0600500017",
+      "category": "ABRAÇADEIRAS DE NYLON",
+      "categorySlug": "abracadeiras-de-nylon",
+      "path": "/abracadeiras-de-nylon-48x400mm-preta-100pcs--force-line-3839",
+      "image": "/products/images/0038/3839.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Abrasivos e Acessórios",
+      "sectionSlug": "abrasivos-e-acessorios"
+    },
+    {
+      "code": "5398",
+      "title": "ADAPTADOR DE SERRA COPO PROGRESSOR",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "432",
+      "manufacturerCode": "2608584682000",
+      "category": "COROAS E SERRAS COPO",
+      "categorySlug": "coroas-e-serras-copo",
+      "path": "/adaptador-de-serra-copo-progressor-5398",
+      "image": "/products/images/0053/5398.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6578",
+      "title": "ADAPTADOR DE TOMADA UNIVERSAL CP100 1500W BIVOLT - OEX 43515",
+      "brand": "OEX",
+      "brandCode": "299",
+      "supplier": "MIRANDA COMPUTACAO E COMERCIO LTDA",
+      "supplierCode": "328",
+      "manufacturerCode": "43515",
+      "category": "PLUGUES E TOMADAS",
+      "categorySlug": "plugues-e-tomadas",
+      "path": "/adaptador-de-tomada-universal-cp100-1500w-bivolt--oex-43515-6578",
+      "image": "/products/images/0065/6578.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "2304",
+      "title": "ADAPTADOR PARA BITS 1/4 SATA 50MM 5PC",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST59272ST",
+      "category": "BITS E ACESSÓRIOS",
+      "categorySlug": "bits-e-acessorios",
+      "path": "/adaptador-para-bits-14-sata-50mm-5pc-2304",
+      "image": "/products/images/0023/2304.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 32,
+    "total": 1594,
+    "pageBase": "acessorios-e-consumiveis"
+  }
+}

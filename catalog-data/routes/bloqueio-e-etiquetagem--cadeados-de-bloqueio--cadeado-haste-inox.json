@@ -1,0 +1,61 @@
+{
+  "title": "CADEADO HASTE INOX",
+  "parentLabel": "Cadeados de Bloqueio",
+  "description": "Produtos da categoria cadeado haste inox em cadeados de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Cadeados de Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio"
+    },
+    {
+      "label": "CADEADO HASTE INOX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9439",
+      "title": "CADEADO PLAST HAST INOX 38MM VERMELHO",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CAVM140CD",
+      "category": "CADEADO HASTE INOX",
+      "categorySlug": "cadeado-haste-inox",
+      "path": "/cadeado-plast-hast-inox-38mm-vermelho-9439",
+      "image": "/products/images/0094/9439.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Cadeados de Bloqueio",
+      "sectionSlug": "cadeados-de-bloqueio"
+    },
+    {
+      "code": "9440",
+      "title": "CADEADO PLAST HAST INOX 50,8MM VERMELHO",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CAVM150CD",
+      "category": "CADEADO HASTE INOX",
+      "categorySlug": "cadeado-haste-inox",
+      "path": "/cadeado-plast-hast-inox-508mm-vermelho-9440",
+      "image": "/products/images/0094/9440.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Cadeados de Bloqueio",
+      "sectionSlug": "cadeados-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "bloqueio-e-etiquetagem--cadeados-de-bloqueio--cadeado-haste-inox"
+  }
+}

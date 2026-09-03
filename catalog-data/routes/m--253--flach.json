@@ -1,0 +1,121 @@
+{
+  "title": "FLACH",
+  "parentLabel": "Marca",
+  "description": "Produtos FLACH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FLACH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6761",
+      "title": "AUXILIAR DE PARTIDA PORT 12 VOLTS- 800A",
+      "brand": "FLACH",
+      "brandCode": "253",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "APF-800A",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/auxiliar-de-partida-port-12-volts-800a-6761",
+      "image": "/products/images/0067/6761.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6763",
+      "title": "CABO DE TRANSF 500A - CABO FLEX 16MM-3MT",
+      "brand": "FLACH",
+      "brandCode": "253",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "CTF-5",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-de-transf-500a--cabo-flex-16mm3mt-6763",
+      "image": "/products/images/0067/6763.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "6757",
+      "title": "GARRA JACARE PAR - 200A",
+      "brand": "FLACH",
+      "brandCode": "253",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "26-F",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/garra-jacare-par--200a-6757",
+      "image": "/products/images/0067/6757.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6756",
+      "title": "GARRA JACARE PAR - 500A",
+      "brand": "FLACH",
+      "brandCode": "253",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "26-G",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/garra-jacare-par--500a-6756",
+      "image": "/products/images/0067/6756.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6758",
+      "title": "GARRA JACARE PAR - 50A",
+      "brand": "FLACH",
+      "brandCode": "253",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "26-E",
+      "category": "AUTOMOTIVAS",
+      "categorySlug": "automotivas",
+      "path": "/garra-jacare-par--50a-6758",
+      "image": "/products/images/0067/6758.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "6762",
+      "title": "TESTADOR DE BATERIA 12V DIGITAL 2000A",
+      "brand": "FLACH",
+      "brandCode": "253",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "TBF-2000",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-de-bateria-12v-digital-2000a-6762",
+      "image": "/products/images/0067/6762.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--253--flach"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "title": "GERADORES PORTÁTEIS",
+  "parentLabel": "Geradores",
+  "description": "Produtos da categoria geradores portáteis em geradores.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios",
+      "to": "/maquinas-e-acessorios"
+    },
+    {
+      "label": "Geradores",
+      "to": "/maquinas-e-acessorios/geradores"
+    },
+    {
+      "label": "GERADORES PORTÁTEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1082",
+      "title": "GERADOR  PORTÁTIL TRIFÁSICO B4T-8000 E 380V - BRANCO 90315055",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315055",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-portatil-trifasico-b4t8000-e-380v--branco-90315055-1082",
+      "image": "/products/images/0010/1082.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "1083",
+      "title": "GERADOR  PORTÁTIL TRIFÁSICO BD 15000 E3 G2 380V - BRANCO 90314005",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314005",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-portatil-trifasico-bd-15000-e3-g2-380v--branco-90314005-1083",
+      "image": "/products/images/0010/1083.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "1936",
+      "title": "GERADOR A DIESEL TRIFÁSICO 8,0KVA 220V BD-8000 E3 PARTIDA ELÉTRICA - BRANCO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314243",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-a-diesel-trifasico-80kva-220v-bd8000-e3-partida-eletrica--branco-1936",
+      "image": "/products/images/0019/1936.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "5823",
+      "title": "GERADOR A GASOLINA 3,5 KVA 110/220V MONOFÁSICO PARTIDA MANUAL B4T-3500 - BRANCO",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315540",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-a-gasolina-35-kva-110220v-monofasico-partida-manual-b4t3500--branco-5823",
+      "image": "/products/images/0058/5823.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "11241",
+      "title": "GERADOR B4T9000E  220/127V - 60HZ (9,0KW",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90317270",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-b4t9000e-220127v--60hz-90kw-11241",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "6809",
+      "title": "GERADOR INVERTER B4T2000I 220V P.M",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90314860",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-inverter-b4t2000i-220v-pm-6809",
+      "image": "/products/images/0068/6809.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "1081",
+      "title": "GERADOR PORTÁTIL B4T-12000 E3 220V TRIFÁSICO - BRANCO 90315500",
+      "brand": "BRANCO",
+      "brandCode": "136",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "90315490",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-portatil-b4t12000-e3-220v-trifasico--branco-90315500-1081",
+      "image": "/products/images/0010/1081.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    },
+    {
+      "code": "7008",
+      "title": "GERADOR TRIFAS 8KRA 220/380V NAGANO",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "BRANCO MOTORES LTDA",
+      "supplierCode": "401",
+      "manufacturerCode": "NG8100E3D",
+      "category": "GERADORES PORTÁTEIS",
+      "categorySlug": "geradores-portateis",
+      "path": "/gerador-trifas-8kra-220380v-nagano-7008",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Geradores",
+      "sectionSlug": "geradores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "maquinas-e-acessorios--geradores--geradores-portateis"
+  }
+}

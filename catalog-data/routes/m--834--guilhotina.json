@@ -1,0 +1,36 @@
+{
+  "title": "GUILHOTINA",
+  "parentLabel": "Marca",
+  "description": "Produtos GUILHOTINA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GUILHOTINA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10939",
+      "title": "GUILHOTINA CORTADOR A4 ATE 10 FOLHAS",
+      "brand": "GUILHOTINA",
+      "brandCode": "834",
+      "supplier": "C.C IMPORTACAO DE ELETRO ELETRONICOS E LUMINARIA LTDA",
+      "supplierCode": "4242",
+      "manufacturerCode": "555",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/guilhotina-cortador-a4-ate-10-folhas-10939",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--834--guilhotina"
+  }
+}

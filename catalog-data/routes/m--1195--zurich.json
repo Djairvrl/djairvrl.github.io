@@ -1,0 +1,36 @@
+{
+  "title": "ZURICH",
+  "parentLabel": "Marca",
+  "description": "Produtos ZURICH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ZURICH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13187",
+      "title": "GERADOR DE PRESSAO 800.D",
+      "brand": "ZURICH",
+      "brandCode": "1195",
+      "supplier": "ZURICH IND E COM LTDA",
+      "supplierCode": "6156",
+      "manufacturerCode": "0000170",
+      "category": "CALIBRADORES",
+      "categorySlug": "calibradores",
+      "path": "/gerador-de-pressao-800d-13187",
+      "image": "/products/images/0131/13187.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1195--zurich"
+  }
+}

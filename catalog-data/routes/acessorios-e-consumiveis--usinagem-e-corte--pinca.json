@@ -1,0 +1,61 @@
+{
+  "title": "PINÇA",
+  "parentLabel": "Usinagem E Corte",
+  "description": "Produtos da categoria pinça em usinagem e corte.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Usinagem E Corte",
+      "to": "/acessorios-e-consumiveis/usinagem-e-corte"
+    },
+    {
+      "label": "PINÇA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12367",
+      "title": "PINCA 3,2MM X 50,0MM, PARA TOCHA TIG",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6849222025",
+      "category": "PINÇA",
+      "categorySlug": "pinca",
+      "path": "/pinca-32mm-x-500mm-para-tocha-tig-12367",
+      "image": "/products/images/0123/12367.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "11253",
+      "title": "PINCA TOCHA TIG TUNGSTENIO PT170",
+      "brand": "ESAB",
+      "brandCode": "274",
+      "supplier": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1190",
+      "manufacturerCode": "170",
+      "category": "PINÇA",
+      "categorySlug": "pinca",
+      "path": "/pinca-tocha-tig-tungstenio-pt170-11253",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "acessorios-e-consumiveis--usinagem-e-corte--pinca"
+  }
+}

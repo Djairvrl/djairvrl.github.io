@@ -1,0 +1,44 @@
+{
+  "title": "BOLAS EXTINTORAS",
+  "parentLabel": "Dispositivos e Acessórios",
+  "description": "Produtos da categoria bolas extintoras em dispositivos e acessórios.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio",
+      "to": "/combate-a-incendio"
+    },
+    {
+      "label": "Dispositivos e Acessórios",
+      "to": "/combate-a-incendio/dispositivos-e-acessorios"
+    },
+    {
+      "label": "BOLAS EXTINTORAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12350",
+      "title": "BOLA EXTINTORA DE INCENDIO 1 KG",
+      "brand": "MOCELIN",
+      "brandCode": "443",
+      "supplier": "MOCELIN INDUSTRIA DE EXTINTORES LTDA",
+      "supplierCode": "1577",
+      "manufacturerCode": "8561",
+      "category": "BOLAS EXTINTORAS",
+      "categorySlug": "bolas-extintoras",
+      "path": "/bola-extintora-de-incendio-1-kg-12350",
+      "image": "/products/images/0123/12350.png",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "combate-a-incendio--dispositivos-e-acessorios--bolas-extintoras"
+  }
+}

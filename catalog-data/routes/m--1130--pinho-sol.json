@@ -1,0 +1,36 @@
+{
+  "title": "PINHO SOL",
+  "parentLabel": "Marca",
+  "description": "Produtos PINHO SOL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PINHO SOL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12759",
+      "title": "DESINFETANTE PINHO SOL 500ML ORIGINAL",
+      "brand": "PINHO SOL",
+      "brandCode": "1130",
+      "supplier": "COMERCIAL GALVAO LTDA",
+      "supplierCode": "1913",
+      "manufacturerCode": "011474",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/desinfetante-pinho-sol-500ml-original-12759",
+      "image": "/products/images/0127/12759.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1130--pinho-sol"
+  }
+}

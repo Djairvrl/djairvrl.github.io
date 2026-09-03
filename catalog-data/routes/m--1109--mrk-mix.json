@@ -1,0 +1,36 @@
+{
+  "title": "MRK MIX",
+  "parentLabel": "Marca",
+  "description": "Produtos MRK MIX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MRK MIX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12659",
+      "title": "CORDA TORCIDA PP12MM SINALIZACAO 100M",
+      "brand": "MRK MIX",
+      "brandCode": "1109",
+      "supplier": "MRK MIX LTDA",
+      "supplierCode": "5841",
+      "manufacturerCode": "1223CORROLO100PP12Z",
+      "category": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
+      "categorySlug": "fitas-e-cordas-de-demarcacao-sinalizacao",
+      "path": "/corda-torcida-pp12mm-sinalizacao-100m-12659",
+      "image": "/products/images/0126/12659.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1109--mrk-mix"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "LIBUS",
+  "parentLabel": "Marca",
+  "description": "Produtos LIBUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LIBUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8166",
+      "title": "PROTETOR AUDITIVO DE ACOPLAMENTO TIPO CONCHA L-320 17DB - LIBUS",
+      "brand": "LIBUS",
+      "brandCode": "570",
+      "supplier": "LIBUS DO BRASIL EQUIPAMENTOS LTDA",
+      "supplierCode": "1962",
+      "manufacturerCode": "900481",
+      "category": "TIPO CONCHA",
+      "categorySlug": "tipo-concha",
+      "path": "/protetor-auditivo-de-acoplamento-tipo-concha-l320-17db--libus-8166",
+      "image": "/products/images/0081/8166.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    },
+    {
+      "code": "8168",
+      "title": "ÓCULOS NEON LENTE CINZA HC - LIBUS 902024",
+      "brand": "LIBUS",
+      "brandCode": "570",
+      "supplier": "LIBUS DO BRASIL EQUIPAMENTOS LTDA",
+      "supplierCode": "1962",
+      "manufacturerCode": "902024",
+      "category": "CONTRA IMPACTO",
+      "categorySlug": "contra-impacto",
+      "path": "/oculos-neon-lente-cinza-hc--libus-902024-8168",
+      "image": "/products/images/0081/8168.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "8167",
+      "title": "ÓCULOS NEON LENTE INCOLOR HC - LIBUS 902023",
+      "brand": "LIBUS",
+      "brandCode": "570",
+      "supplier": "LIBUS DO BRASIL EQUIPAMENTOS LTDA",
+      "supplierCode": "1962",
+      "manufacturerCode": "902023",
+      "category": "CONTRA IMPACTO",
+      "categorySlug": "contra-impacto",
+      "path": "/oculos-neon-lente-incolor-hc--libus-902023-8167",
+      "image": "/products/images/0081/8167.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "8170",
+      "title": "ÓCULOS NEON PLUS  LENTE CINZA HC - LIBUS 903910",
+      "brand": "LIBUS",
+      "brandCode": "570",
+      "supplier": "LIBUS DO BRASIL EQUIPAMENTOS LTDA",
+      "supplierCode": "1962",
+      "manufacturerCode": "903910",
+      "category": "CONTRA IMPACTO",
+      "categorySlug": "contra-impacto",
+      "path": "/oculos-neon-plus-lente-cinza-hc--libus-903910-8170",
+      "image": "/products/images/0081/8170.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "8169",
+      "title": "ÓCULOS NEON PLUS LENTE INCOLOR - LIBUS 903909",
+      "brand": "LIBUS",
+      "brandCode": "570",
+      "supplier": "LIBUS DO BRASIL EQUIPAMENTOS LTDA",
+      "supplierCode": "1962",
+      "manufacturerCode": "903909",
+      "category": "CONTRA IMPACTO",
+      "categorySlug": "contra-impacto",
+      "path": "/oculos-neon-plus-lente-incolor--libus-903909-8169",
+      "image": "/products/images/0081/8169.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Óculos de Proteção",
+      "sectionSlug": "oculos-de-protecao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--570--libus"
+  }
+}

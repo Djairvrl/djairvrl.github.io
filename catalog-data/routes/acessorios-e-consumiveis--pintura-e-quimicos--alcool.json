@@ -1,0 +1,163 @@
+{
+  "title": "ALCOOL",
+  "parentLabel": "Pintura e Químicos",
+  "description": "Produtos da categoria alcool em pintura e químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Pintura e Químicos",
+      "to": "/acessorios-e-consumiveis/pintura-e-quimicos"
+    },
+    {
+      "label": "ALCOOL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8989",
+      "title": "ALCOOL ETILICO 70 1LT ITAJA",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DROGARIA SIGAFARMA LTDA",
+      "supplierCode": "1741",
+      "manufacturerCode": "1071031",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-etilico-70-1lt-itaja-8989",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "2964",
+      "title": "ALCOOL ETILICO A 70% DE 1000ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DUDA BROKER LTDA",
+      "supplierCode": "1103",
+      "manufacturerCode": "PA00184",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-etilico-a-70-de-1000ml-2964",
+      "image": "/products/images/0029/2964.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7043",
+      "title": "ALCOOL ISOPROPILICO 1000 ML",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "LUCAS PIRES PRODUTOS DE LIMPEZA LTDA",
+      "supplierCode": "1476",
+      "manufacturerCode": "804",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-isopropilico-1000-ml-7043",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "7410",
+      "title": "ALCOOL ISOPROPILICO 500 ML",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TECNOVOS IMPORTADOS LTDA",
+      "supplierCode": "1626",
+      "manufacturerCode": "13074",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-isopropilico-500-ml-7410",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "6810",
+      "title": "ALCOOL ISOPROPILICO PA ACS BB 20LT",
+      "brand": "ATRIOM",
+      "brandCode": "351",
+      "supplier": "ATRIOM PRODUTOS QUIMICOS LTDA",
+      "supplierCode": "924",
+      "manufacturerCode": "AT0800",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-isopropilico-pa-acs-bb-20lt-6810",
+      "image": "/products/images/0068/6810.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5728",
+      "title": "ALCOOL LIQUIDO ETILICO 70% 5L",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "DUDA BROKER LTDA",
+      "supplierCode": "1103",
+      "manufacturerCode": "PA00183",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-liquido-etilico-70-5l-5728",
+      "image": "/products/images/0057/5728.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "2232",
+      "title": "ÁLCOOL ISOPROPÍLICO EM SPRAY 300ML ALL LUB - COLORANT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COLORART NOU COLORS DIST DE TINTAS EIRELI EPP",
+      "supplierCode": "636",
+      "manufacturerCode": "00002305",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-isopropilico-em-spray-300ml-all-lub--colorant-2232",
+      "image": "/products/images/0022/2232.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "4481",
+      "title": "ÁLCOOL ISOPROPÍLICO PA ACS 1L 99.9% - ATRIOM  REF.  AT0500",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ATRIOM PRODUTOS QUIMICOS LTDA",
+      "supplierCode": "924",
+      "manufacturerCode": "AT0006",
+      "category": "ALCOOL",
+      "categorySlug": "alcool",
+      "path": "/alcool-isopropilico-pa-acs-1l-999--atriom-ref-at0500-4481",
+      "image": "/products/images/0044/4481.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "acessorios-e-consumiveis--pintura-e-quimicos--alcool"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "MAVARO",
+  "parentLabel": "Marca",
+  "description": "Produtos MAVARO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAVARO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13035",
+      "title": "CREME MAVARO PM1000 S AROMA 200G CA10931",
+      "brand": "MAVARO",
+      "brandCode": "796",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "PM100B",
+      "category": "CREMES DE PROTEÇÃO",
+      "categorySlug": "cremes-de-protecao",
+      "path": "/creme-mavaro-pm1000-s-aroma-200g-ca10931-13035",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "10660",
+      "title": "CREME PROTETOR PELE PM100 DE 120G CA4233",
+      "brand": "MAVARO",
+      "brandCode": "796",
+      "supplier": "MAVARO INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA",
+      "supplierCode": "3929",
+      "manufacturerCode": "A009",
+      "category": "LUVA QUIMICA",
+      "categorySlug": "luva-quimica",
+      "path": "/creme-protetor-pele-pm100-de-120g-ca4233-10660",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Da Pele",
+      "sectionSlug": "protecao-da-pele"
+    },
+    {
+      "code": "13033",
+      "title": "DUCHA OFTALMICA 500ML PROTCAP SF-005",
+      "brand": "MAVARO",
+      "brandCode": "796",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "SF005",
+      "category": "ESTAÇÃO LAVA OLHOS",
+      "categorySlug": "estacao-lava-olhos",
+      "path": "/ducha-oftalmica-500ml-protcap-sf005-13033",
+      "image": "/products/images/0130/13033.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--796--mavaro"
+  }
+}

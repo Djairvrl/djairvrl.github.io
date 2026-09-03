@@ -1,0 +1,53 @@
+{
+  "title": "FIX ALL",
+  "parentLabel": "Marca",
+  "description": "Produtos FIX ALL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FIX ALL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8416",
+      "title": "BUCHA FIX 8 NYLON",
+      "brand": "FIX ALL",
+      "brandCode": "590",
+      "supplier": "CENTPAR - CENTRAL DE PARAFUSOS LTDA",
+      "supplierCode": "537",
+      "manufacturerCode": "03330",
+      "category": "BUCHA",
+      "categorySlug": "bucha",
+      "path": "/bucha-fix-8-nylon-8416",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "8459",
+      "title": "BUCHA FIX 8 NYLON SC500",
+      "brand": "FIX ALL",
+      "brandCode": "590",
+      "supplier": "CENTPAR - CENTRAL DE PARAFUSOS LTDA",
+      "supplierCode": "537",
+      "manufacturerCode": "03342",
+      "category": "BUCHA",
+      "categorySlug": "bucha",
+      "path": "/bucha-fix-8-nylon-sc500-8459",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Parafusos e Fixadores",
+      "sectionSlug": "parafusos-e-fixadores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--590--fix-all"
+  }
+}

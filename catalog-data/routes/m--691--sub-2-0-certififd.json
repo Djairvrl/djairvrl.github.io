@@ -1,0 +1,36 @@
+{
+  "title": "SUB 2.0 CERTIFIFD",
+  "parentLabel": "Marca",
+  "description": "Produtos SUB 2.0 CERTIFIFD disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SUB 2.0 CERTIFIFD"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9513",
+      "title": "CABO CONVERSOR USB SERIAL P/ RS485",
+      "brand": "SUB 2.0 CERTIFIFD",
+      "brandCode": "691",
+      "supplier": "MARIA IZABELLE SILVA LIMA ME",
+      "supplierCode": "2589",
+      "manufacturerCode": "AB0011",
+      "category": "CABOS ESPECIAIS",
+      "categorySlug": "cabos-especiais",
+      "path": "/cabo-conversor-usb-serial-p-rs485-9513",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--691--sub-2-0-certififd"
+  }
+}

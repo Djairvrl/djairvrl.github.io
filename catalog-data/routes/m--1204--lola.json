@@ -1,0 +1,36 @@
+{
+  "title": "LOLA",
+  "parentLabel": "Marca",
+  "description": "Produtos LOLA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "LOLA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13236",
+      "title": "LAVA LOUCAS NEUTRO LOLA 5L",
+      "brand": "LOLA",
+      "brandCode": "1204",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "6172",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/lava-loucas-neutro-lola-5l-13236",
+      "image": "/products/images/0132/13236.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1204--lola"
+  }
+}

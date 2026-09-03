@@ -1,0 +1,36 @@
+{
+  "title": "EUROBOMBAS",
+  "parentLabel": "Marca",
+  "description": "Produtos EUROBOMBAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EUROBOMBAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10180",
+      "title": "BOMBA AUTOASPIRANTE JETNOX1300 220V 50MT",
+      "brand": "EUROBOMBAS",
+      "brandCode": "756",
+      "supplier": "MERITO COMERCIO DE EQUIPAMENTOS LIMITADA",
+      "supplierCode": "3251",
+      "manufacturerCode": "MLB3577525719_181559889631",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/bomba-autoaspirante-jetnox1300-220v-50mt-10180",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--756--eurobombas"
+  }
+}

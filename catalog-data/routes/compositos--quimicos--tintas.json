@@ -1,0 +1,44 @@
+{
+  "title": "TINTAS",
+  "parentLabel": "Químicos",
+  "description": "Produtos da categoria tintas em químicos.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos",
+      "to": "/compositos"
+    },
+    {
+      "label": "Químicos",
+      "to": "/compositos/quimicos"
+    },
+    {
+      "label": "TINTAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11400",
+      "title": "AZUL PORTO SEGURO PAREDES PRO ACET.  BAS",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69424",
+      "category": "TINTAS",
+      "categorySlug": "tintas",
+      "path": "/azul-porto-seguro-paredes-pro-acet-bas-11400",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "compositos--quimicos--tintas"
+  }
+}

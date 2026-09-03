@@ -1,0 +1,44 @@
+{
+  "title": "ASPIRADORES E EXTRATORES",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria aspiradores e extratores em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "ASPIRADORES E EXTRATORES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10204",
+      "title": "MANGUEIRA DE SUCCAO DN35 2,0M CPL",
+      "brand": "KARCHER",
+      "brandCode": "271",
+      "supplier": "INDALTEX COMERCIO E SERVICOS LTDA (KARCHER )",
+      "supplierCode": "3249",
+      "manufacturerCode": "93130720",
+      "category": "ASPIRADORES E EXTRATORES",
+      "categorySlug": "aspiradores-e-extratores",
+      "path": "/mangueira-de-succao-dn35-20m-cpl-10204",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--ferramentas-eletricas--aspiradores-e-extratores"
+  }
+}

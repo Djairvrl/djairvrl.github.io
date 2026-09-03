@@ -1,0 +1,44 @@
+{
+  "title": "PALETES PLÁSTICOS",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria paletes plásticos em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "PALETES PLÁSTICOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12340",
+      "title": "PALETE PLASTICO NOVO INJETADO",
+      "brand": "LOGISCAL",
+      "brandCode": "1016",
+      "supplier": "TAOPLAST COMERCIO DE PLASTICOS LTDA",
+      "supplierCode": "5420",
+      "manufacturerCode": "20",
+      "category": "PALETES PLÁSTICOS",
+      "categorySlug": "paletes-plasticos",
+      "path": "/palete-plastico-novo-injetado-12340",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--paletes-plasticos"
+  }
+}

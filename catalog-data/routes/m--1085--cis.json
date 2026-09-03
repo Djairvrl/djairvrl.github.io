@@ -1,0 +1,36 @@
+{
+  "title": "CIS",
+  "parentLabel": "Marca",
+  "description": "Produtos CIS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12492",
+      "title": "GRAMPO CIS GALVANIZADO 26/6 C/5000",
+      "brand": "CIS",
+      "brandCode": "1085",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896326999547",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/grampo-cis-galvanizado-266-c5000-12492",
+      "image": "/products/images/0124/12492.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1085--cis"
+  }
+}

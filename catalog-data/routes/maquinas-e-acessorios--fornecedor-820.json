@@ -1,0 +1,954 @@
+{
+  "title": "Máquinas e Acessórios",
+  "parentLabel": "Departamento",
+  "description": "Produtos de FRICK SOLDAS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Máquinas e Acessórios"
+    }
+  ],
+  "children": [
+    {
+      "name": "Geradores e Energia Auxiliar",
+      "slug": "geradores-e-energia-auxiliar",
+      "path": "/maquinas-e-acessorios/geradores-e-energia-auxiliar",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Motores, Motobombas e Compressores",
+      "slug": "motores-motobombas-e-compressores",
+      "path": "/maquinas-e-acessorios/motores-motobombas-e-compressores",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Equipamentos e Força Hidráulica",
+      "slug": "equipamentos-e-forca-hidraulica",
+      "path": "/maquinas-e-acessorios/equipamentos-e-forca-hidraulica",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Lavadoras e Aspiradores Industriais",
+      "slug": "lavadoras-e-aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/lavadoras-e-aspiradores-industriais",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Solda Industrial, Corte e Oxi-Combustível",
+      "slug": "solda-industrial-corte-e-oxi-combustivel",
+      "path": "/maquinas-e-acessorios/solda-industrial-corte-e-oxi-combustivel",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Usinagem CNC, Implementos e Climatização",
+      "slug": "usinagem-cnc-implementos-e-climatizacao",
+      "path": "/maquinas-e-acessorios/usinagem-cnc-implementos-e-climatizacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Aspiradores Industriais",
+      "slug": "aspiradores-industriais",
+      "path": "/maquinas-e-acessorios/aspiradores-industriais",
+      "count": 27,
+      "categories": [
+        {
+          "name": "ASPIRADORES DE PÓ INDUSTRIAL",
+          "slug": "aspiradores-de-po-industrial",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-de-po-industrial",
+          "count": 9
+        },
+        {
+          "name": "ASPIRADORES PORTÁTEIS",
+          "slug": "aspiradores-portateis",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/aspiradores-portateis",
+          "count": 17
+        },
+        {
+          "name": "EXTRATORAS",
+          "slug": "extratoras",
+          "path": "/maquinas-e-acessorios/aspiradores-industriais/extratoras",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Climatização Industrial",
+      "slug": "climatizacao-industrial",
+      "path": "/maquinas-e-acessorios/climatizacao-industrial",
+      "count": 2,
+      "categories": [
+        {
+          "name": "SECADOR E AQUECEDOR INDUSTRIAL",
+          "slug": "secador-e-aquecedor-industrial",
+          "path": "/maquinas-e-acessorios/climatizacao-industrial/secador-e-aquecedor-industrial",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Compressores",
+      "slug": "compressores",
+      "path": "/maquinas-e-acessorios/compressores",
+      "count": 30,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/compressores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "COMPRESSORES DE AR ELÉTRICOS",
+          "slug": "compressores-de-ar-eletricos",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-eletricos",
+          "count": 13
+        },
+        {
+          "name": "COMPRESSORES DE AR PORTÁTEIS",
+          "slug": "compressores-de-ar-portateis",
+          "path": "/maquinas-e-acessorios/compressores/compressores-de-ar-portateis",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Equipamentos Hidráulicos",
+      "slug": "equipamentos-hidraulicos",
+      "path": "/maquinas-e-acessorios/equipamentos-hidraulicos",
+      "count": 55,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS HIDRÁULICOS",
+          "slug": "acessorios-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/acessorios-hidraulicos",
+          "count": 14
+        },
+        {
+          "name": "ALICATES DE CRIMPAGEM HIDRÁULICOS",
+          "slug": "alicates-de-crimpagem-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/alicates-de-crimpagem-hidraulicos",
+          "count": 5
+        },
+        {
+          "name": "BOMBAS DE TESTE HIDROSTÁTICO",
+          "slug": "bombas-de-teste-hidrostatico",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-de-teste-hidrostatico",
+          "count": 3
+        },
+        {
+          "name": "BOMBAS HIDRÁULICAS",
+          "slug": "bombas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/bombas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "CILINDROS HIDRÁULICOS",
+          "slug": "cilindros-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/cilindros-hidraulicos",
+          "count": 12
+        },
+        {
+          "name": "MACACOS HIDRÁULICOS",
+          "slug": "macacos-hidraulicos",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/macacos-hidraulicos",
+          "count": 11
+        },
+        {
+          "name": "PRENSAS HIDRÁULICAS",
+          "slug": "prensas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/prensas-hidraulicas",
+          "count": 3
+        },
+        {
+          "name": "VÁLVULAS HIDRÁULICAS",
+          "slug": "valvulas-hidraulicas",
+          "path": "/maquinas-e-acessorios/equipamentos-hidraulicos/valvulas-hidraulicas",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "Geradores",
+      "slug": "geradores",
+      "path": "/maquinas-e-acessorios/geradores",
+      "count": 26,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/geradores/acessorios",
+          "count": 12
+        },
+        {
+          "name": "GERADORES A DIESEL",
+          "slug": "geradores-a-diesel",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-diesel",
+          "count": 2
+        },
+        {
+          "name": "GERADORES A GASOLINA",
+          "slug": "geradores-a-gasolina",
+          "path": "/maquinas-e-acessorios/geradores/geradores-a-gasolina",
+          "count": 3
+        },
+        {
+          "name": "GERADORES ESTACIONÁRIOS",
+          "slug": "geradores-estacionarios",
+          "path": "/maquinas-e-acessorios/geradores/geradores-estacionarios",
+          "count": 1
+        },
+        {
+          "name": "GERADORES PORTÁTEIS",
+          "slug": "geradores-portateis",
+          "path": "/maquinas-e-acessorios/geradores/geradores-portateis",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "name": "Lavadoras De Alta Pressão",
+      "slug": "lavadoras-de-alta-pressao",
+      "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao",
+      "count": 17,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/acessorios",
+          "count": 1
+        },
+        {
+          "name": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+          "slug": "lavadoras-de-alta-pressao-industriais",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadoras-de-alta-pressao-industriais",
+          "count": 6
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO ELÉTRICAS",
+          "slug": "lavadores-de-alta-pressao-eletricas",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-eletricas",
+          "count": 7
+        },
+        {
+          "name": "LAVADORES DE ALTA PRESSÃO PORTÁTEIS",
+          "slug": "lavadores-de-alta-pressao-portateis",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/lavadores-de-alta-pressao-portateis",
+          "count": 1
+        },
+        {
+          "name": "MANGUEIRAS DE ALTA PRESSÃO",
+          "slug": "mangueiras-de-alta-pressao",
+          "path": "/maquinas-e-acessorios/lavadoras-de-alta-pressao/mangueiras-de-alta-pressao",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Motores",
+      "slug": "motores",
+      "path": "/maquinas-e-acessorios/motores",
+      "count": 28,
+      "categories": [
+        {
+          "name": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+          "slug": "bombas-de-agua-e-motobombas",
+          "path": "/maquinas-e-acessorios/motores/bombas-de-agua-e-motobombas",
+          "count": 13
+        },
+        {
+          "name": "MOTORES DE COMBUSTÃO INTERNA",
+          "slug": "motores-de-combustao-interna",
+          "path": "/maquinas-e-acessorios/motores/motores-de-combustao-interna",
+          "count": 3
+        },
+        {
+          "name": "MOTORES ELÉTRICOS MONOFÁSICOS",
+          "slug": "motores-eletricos-monofasicos",
+          "path": "/maquinas-e-acessorios/motores/motores-eletricos-monofasicos",
+          "count": 1
+        },
+        {
+          "name": "MOTORES PARA PORTÃO",
+          "slug": "motores-para-portao",
+          "path": "/maquinas-e-acessorios/motores/motores-para-portao",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "Máquinas Cnc",
+      "slug": "maquinas-cnc",
+      "path": "/maquinas-e-acessorios/maquinas-cnc",
+      "count": 1,
+      "categories": [
+        {
+          "name": "ROUTER CNC",
+          "slug": "router-cnc",
+          "path": "/maquinas-e-acessorios/maquinas-cnc/router-cnc",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Solda Industrial",
+      "slug": "solda-industrial",
+      "path": "/maquinas-e-acessorios/solda-industrial",
+      "count": 142,
+      "categories": [
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/maquinas-e-acessorios/solda-industrial/acessorios",
+          "count": 5
+        },
+        {
+          "name": "BOCAIS",
+          "slug": "bocais",
+          "path": "/maquinas-e-acessorios/solda-industrial/bocais",
+          "count": 6
+        },
+        {
+          "name": "CORTE PLASMA",
+          "slug": "corte-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/corte-plasma",
+          "count": 4
+        },
+        {
+          "name": "DESSOLDADORES",
+          "slug": "dessoldadores",
+          "path": "/maquinas-e-acessorios/solda-industrial/dessoldadores",
+          "count": 1
+        },
+        {
+          "name": "ELETRODO REVESTIDO",
+          "slug": "eletrodo-revestido",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-revestido",
+          "count": 17
+        },
+        {
+          "name": "ELETRODO TIG",
+          "slug": "eletrodo-tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/eletrodo-tig",
+          "count": 6
+        },
+        {
+          "name": "EQUIPAMENTO A GÁS",
+          "slug": "equipamento-a-gas",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-a-gas",
+          "count": 8
+        },
+        {
+          "name": "EQUIPAMENTO DE PLASMA",
+          "slug": "equipamento-de-plasma",
+          "path": "/maquinas-e-acessorios/solda-industrial/equipamento-de-plasma",
+          "count": 1
+        },
+        {
+          "name": "FERRAMENTAS",
+          "slug": "ferramentas",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferramentas",
+          "count": 9
+        },
+        {
+          "name": "FERRO DE SOLDA",
+          "slug": "ferro-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/ferro-de-solda",
+          "count": 12
+        },
+        {
+          "name": "LIMPEZA DE SOLDA",
+          "slug": "limpeza-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/limpeza-de-solda",
+          "count": 12
+        },
+        {
+          "name": "MAQUINA DE SOLDA",
+          "slug": "maquina-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/maquina-de-solda",
+          "count": 10
+        },
+        {
+          "name": "MIG/MAG",
+          "slug": "mig-mag",
+          "path": "/maquinas-e-acessorios/solda-industrial/mig-mag",
+          "count": 7
+        },
+        {
+          "name": "MINI-MAÇARICOS",
+          "slug": "mini-macaricos",
+          "path": "/maquinas-e-acessorios/solda-industrial/mini-macaricos",
+          "count": 6
+        },
+        {
+          "name": "MULTIPROCESSO",
+          "slug": "multiprocesso",
+          "path": "/maquinas-e-acessorios/solda-industrial/multiprocesso",
+          "count": 1
+        },
+        {
+          "name": "OXI-COMBUSTÍVEL",
+          "slug": "oxi-combustivel",
+          "path": "/maquinas-e-acessorios/solda-industrial/oxi-combustivel",
+          "count": 4
+        },
+        {
+          "name": "REGULADOR",
+          "slug": "regulador",
+          "path": "/maquinas-e-acessorios/solda-industrial/regulador",
+          "count": 10
+        },
+        {
+          "name": "RETIFICADOR",
+          "slug": "retificador",
+          "path": "/maquinas-e-acessorios/solda-industrial/retificador",
+          "count": 1
+        },
+        {
+          "name": "TIG",
+          "slug": "tig",
+          "path": "/maquinas-e-acessorios/solda-industrial/tig",
+          "count": 1
+        },
+        {
+          "name": "TOCHAS",
+          "slug": "tochas",
+          "path": "/maquinas-e-acessorios/solda-industrial/tochas",
+          "count": 9
+        },
+        {
+          "name": "VARETA DE SOLDA",
+          "slug": "vareta-de-solda",
+          "path": "/maquinas-e-acessorios/solda-industrial/vareta-de-solda",
+          "count": 8
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "820",
+    "name": "FRICK SOLDAS LTDA"
+  },
+  "products": [
+    {
+      "code": "5349",
+      "title": "BICO CONT MIG/MAGM 08X30 0,8MM ECU",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008337",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-cont-migmagm-08x30-08mm-ecu-5349",
+      "image": "/products/images/0053/5349.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5350",
+      "title": "BICO CONT MIG/MAGM M08X30 1,0MM ECU",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008327",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/bico-cont-migmagm-m08x30-10mm-ecu-5350",
+      "image": "/products/images/0053/5350.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5365",
+      "title": "BICO CORTE PLASMA 1.0MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008325",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-10mm-pt80-5365",
+      "image": "/products/images/0053/5365.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5364",
+      "title": "BICO CORTE PLASMA 1.1MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30000823",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-11mm-pt80-5364",
+      "image": "/products/images/0053/5364.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5366",
+      "title": "BICO CORTE PLASMA 1.2MM (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30000828",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/bico-corte-plasma-12mm-pt80-5366",
+      "image": "/products/images/0053/5366.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5348",
+      "title": "BOCAL CONICO 16MM BALMER",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008941",
+      "category": "TOCHAS",
+      "categorySlug": "tochas",
+      "path": "/bocal-conico-16mm-balmer-5348",
+      "image": "/products/images/0053/5348.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5356",
+      "title": "DIFUSOR DE GAS BRANCO P/ TOCHA TMB 360A - BALMER 30026552",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30026552",
+      "category": "TOCHAS",
+      "categorySlug": "tochas",
+      "path": "/difusor-de-gas-branco-p-tocha-tmb-360a--balmer-30026552-5356",
+      "image": "/products/images/0053/5356.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5367",
+      "title": "DISTRIBUIDOR DE GAS PLASMA (PT-80)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30028915",
+      "category": "EQUIPAMENTO DE PLASMA",
+      "categorySlug": "equipamento-de-plasma",
+      "path": "/distribuidor-de-gas-plasma-pt80-5367",
+      "image": "/products/images/0053/5367.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5357",
+      "title": "ELETRODO DE TUNGSTÊNIO 1,60X150MM PONTA VERMELHA COM 2% DE TÓRIO - CARBOGRAFITE",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040224",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-de-tungstenio-160x150mm-ponta-vermelha-com-2-de-torio--carbografite-5357",
+      "image": "/products/images/0053/5357.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5360",
+      "title": "ELETRODO DE TUNGSTÊNIO 2,40X150MM PONTA VERMELHA COM 2% DE TÓRIO - CARBOGRAFITE",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040226",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-de-tungstenio-240x150mm-ponta-vermelha-com-2-de-torio--carbografite-5360",
+      "image": "/products/images/0053/5360.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5359",
+      "title": "ELETRODO TUNG 3,20X150MM PURO P VERDE DC",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040302",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-tung-320x150mm-puro-p-verde-dc-5359",
+      "image": "/products/images/0053/5359.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5358",
+      "title": "ELETRODO TUNGSTÊNIO 2,40X150MM PURO PONTA VERDE (EWP) - CARBOGRAFITE",
+      "brand": "CARBOGRAFITE",
+      "brandCode": "37",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30040225",
+      "category": "ELETRODO TIG",
+      "categorySlug": "eletrodo-tig",
+      "path": "/eletrodo-tungstenio-240x150mm-puro-ponta-verde-ewp--carbografite-5358",
+      "image": "/products/images/0053/5358.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5336",
+      "title": "GARRA NEGAT 300A CORDOALHA COBRE LQEC102",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30060203",
+      "category": null,
+      "categorySlug": null,
+      "path": "/garra-negat-300a-cordoalha-cobre-lqec102-5336",
+      "image": "/products/images/0053/5336.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5337",
+      "title": "GARRA NEGAT 500A CORDOALHA COBRE LQ-EC",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30060204",
+      "category": null,
+      "categorySlug": null,
+      "path": "/garra-negat-500a-cordoalha-cobre-lqec-5337",
+      "image": "/products/images/0053/5337.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5340",
+      "title": "KIT ACESSORIOS (BR325/400/425/450)",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30020421",
+      "category": "FERRAMENTAS",
+      "categorySlug": "ferramentas",
+      "path": "/kit-acessorios-br325400425450-5340",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "3410",
+      "title": "MAQ DE SOL TRANSF VULC PRO320 50-250A",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30298901",
+      "category": "MAQUINA DE SOLDA",
+      "categorySlug": "maquina-de-solda",
+      "path": "/maq-de-sol-transf-vulc-pro320-50250a-3410",
+      "image": "/products/images/0034/3410.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5363",
+      "title": "MAQ INV. PLASMA VULCANO CUT 62 - 220V TF",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30179542",
+      "category": "CORTE PLASMA",
+      "categorySlug": "corte-plasma",
+      "path": "/maq-inv-plasma-vulcano-cut-62--220v-tf-5363",
+      "image": "/products/images/0053/5363.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5355",
+      "title": "MAQ INV.TIG AC/DC MAXXITIG 200P 5-200A",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30079550",
+      "category": "TIG",
+      "categorySlug": "tig",
+      "path": "/maq-invtig-acdc-maxxitig-200p-5200a-5355",
+      "image": "/products/images/0053/5355.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5335",
+      "title": "MAQ TRANSF VULCANO IND 4000 45-270A 440V",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30008209",
+      "category": "MAQUINA DE SOLDA",
+      "categorySlug": "maquina-de-solda",
+      "path": "/maq-transf-vulcano-ind-4000-45270a-440v-5335",
+      "image": "/products/images/0053/5335.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "3411",
+      "title": "MÁQUINA DE SOLDA INVERSORA MMA EASY 140 220V PORTÁTIL - BALMER 30179552",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30179552",
+      "category": "MAQUINA DE SOLDA",
+      "categorySlug": "maquina-de-solda",
+      "path": "/maquina-de-solda-inversora-mma-easy-140-220v-portatil--balmer-30179552-3411",
+      "image": "/products/images/0034/3411.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "3412",
+      "title": "MÁQUINA DE SOLDA INVERSORA MMA/TIG JOY 223 DV 127/220V BIVOLT - BALMER 30179537",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30179537",
+      "category": "MULTIPROCESSO",
+      "categorySlug": "multiprocesso",
+      "path": "/maquina-de-solda-inversora-mmatig-joy-223-dv-127220v-bivolt--balmer-30179537-3412",
+      "image": "/products/images/0034/3412.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5341",
+      "title": "MÁQUINA DE SOLDA MIG/MAG VULCANO 360A 220/380V TRIFÁSICA - BALMER 30082003",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30082003",
+      "category": "MIG/MAG",
+      "categorySlug": "mig-mag",
+      "path": "/maquina-de-solda-migmag-vulcano-360a-220380v-trifasica--balmer-30082003-5341",
+      "image": "/products/images/0053/5341.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5338",
+      "title": "PORTA ELETRODO 300A - EH201/H-016-B",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30194002",
+      "category": "ELETRODO REVESTIDO",
+      "categorySlug": "eletrodo-revestido",
+      "path": "/porta-eletrodo-300a--eh201h016b-5338",
+      "image": "/products/images/0053/5338.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5362",
+      "title": "REGULADOR DE GAS R100 ARGONIO/C25",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30216103",
+      "category": "REGULADOR",
+      "categorySlug": "regulador",
+      "path": "/regulador-de-gas-r100-argonioc25-5362",
+      "image": "/products/images/0053/5362.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5342",
+      "title": "REGULADOR DE GÁS ARGÔNIO AR03A EM LATÃO FORJADO - BALMER 3021619",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30216190",
+      "category": "REGULADOR",
+      "categorySlug": "regulador",
+      "path": "/regulador-de-gas-argonio-ar03a-em-latao-forjado--balmer-3021619-5342",
+      "image": "/products/images/0053/5342.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5353",
+      "title": "ROLETE 0.8MM / 1.0 MM ACO DV-49S",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30234015",
+      "category": "TOCHAS",
+      "categorySlug": "tochas",
+      "path": "/rolete-08mm-10-mm-aco-dv49s-5353",
+      "image": "/products/images/0053/5353.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5354",
+      "title": "ROLETE 1.2MM / 1.6MM ACO DV-28",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30235905",
+      "category": "TOCHAS",
+      "categorySlug": "tochas",
+      "path": "/rolete-12mm-16mm-aco-dv28-5354",
+      "image": "/products/images/0053/5354.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5369",
+      "title": "SPRAY ANTI RESPINGO S/SILICONE 300ML",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30245002",
+      "category": "LIMPEZA DE SOLDA",
+      "categorySlug": "limpeza-de-solda",
+      "path": "/spray-anti-respingo-ssilicone-300ml-5369",
+      "image": "/products/images/0053/5369.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "10078",
+      "title": "TOCHA MIG/MAG TMB 360A 5 METROS  BALMER REF 30278417",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30278417",
+      "category": "TOCHAS",
+      "categorySlug": "tochas",
+      "path": "/tocha-migmag-tmb-360a-5-metros-balmer-ref-30278417-10078",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    },
+    {
+      "code": "5347",
+      "title": "TOCHA MIG/MAG TMB-360A SEC",
+      "brand": "BALMER",
+      "brandCode": "184",
+      "supplier": "FRICK SOLDAS LTDA",
+      "supplierCode": "820",
+      "manufacturerCode": "30278416",
+      "category": "TOCHAS",
+      "categorySlug": "tochas",
+      "path": "/tocha-migmag-tmb360a-sec-5347",
+      "image": "/products/images/0053/5347.jpg",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 30,
+    "pageBase": "maquinas-e-acessorios--fornecedor-820"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "RITTAL",
+  "parentLabel": "Marca",
+  "description": "Produtos RITTAL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "RITTAL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7295",
+      "title": "CHAVE MET NUM 5 PRAT P/ARMA DUPLA PALHET",
+      "brand": "RITTAL",
+      "brandCode": "441",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1578",
+      "manufacturerCode": "1204620",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/chave-met-num-5-prat-parma-dupla-palhet-7295",
+      "image": "/products/images/0072/7295.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--441--rittal"
+  }
+}

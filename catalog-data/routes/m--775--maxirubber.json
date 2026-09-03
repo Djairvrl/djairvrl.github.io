@@ -1,0 +1,70 @@
+{
+  "title": "MAXIRUBBER",
+  "parentLabel": "Marca",
+  "description": "Produtos MAXIRUBBER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAXIRUBBER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10487",
+      "title": "ADESIVO PLASTICO CINZA 400 G  CA100",
+      "brand": "MAXIRUBBER",
+      "brandCode": "775",
+      "supplier": "SOLUWAN COMERCIAL LTDA",
+      "supplierCode": "3588",
+      "manufacturerCode": "51258",
+      "category": "TINTAS E QUÍMICOS",
+      "categorySlug": "tintas-e-quimicos",
+      "path": "/adesivo-plastico-cinza-400-g-ca100-10487",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "13102",
+      "title": "ADESIVO PLASTICO CINZA 500GRS",
+      "brand": "MAXIRUBBER",
+      "brandCode": "775",
+      "supplier": "RS3 COMERCIO DE TINTAS LTDA",
+      "supplierCode": "6095",
+      "manufacturerCode": "30.07.004",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/adesivo-plastico-cinza-500grs-13102",
+      "image": "/products/images/0131/13102.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "13158",
+      "title": "ADESIVO PLASTICO CINZA 500GRS",
+      "brand": "MAXIRUBBER",
+      "brandCode": "775",
+      "supplier": "RS3 COMERCIO DE TINTAS LTDA",
+      "supplierCode": "6095",
+      "manufacturerCode": "3007004",
+      "category": "ADESIVO",
+      "categorySlug": "adesivo",
+      "path": "/adesivo-plastico-cinza-500grs-13158",
+      "image": "/products/images/0131/13158.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--775--maxirubber"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "VERDEPLAS",
+  "parentLabel": "Marca",
+  "description": "Produtos VERDEPLAS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "VERDEPLAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13262",
+      "title": "SACO LIXO 60L 57X70CM VERDEPLAS",
+      "brand": "VERDEPLAS",
+      "brandCode": "1211",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "4630",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-lixo-60l-57x70cm-verdeplas-13262",
+      "image": "/products/images/0132/13262.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13261",
+      "title": "SACO PARA LIXO 40L 47X55CM VERDEPLAS",
+      "brand": "VERDEPLAS",
+      "brandCode": "1211",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "4573",
+      "category": "SACOS DE LIXO",
+      "categorySlug": "sacos-de-lixo",
+      "path": "/saco-para-lixo-40l-47x55cm-verdeplas-13261",
+      "image": "/products/images/0132/13261.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1211--verdeplas"
+  }
+}

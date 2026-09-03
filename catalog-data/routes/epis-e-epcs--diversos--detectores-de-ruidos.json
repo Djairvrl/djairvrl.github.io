@@ -1,0 +1,44 @@
+{
+  "title": "DETECTORES DE RUÍDOS",
+  "parentLabel": "Diversos",
+  "description": "Produtos da categoria detectores de ruídos em diversos.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Diversos",
+      "to": "/epis-e-epcs/diversos"
+    },
+    {
+      "label": "DETECTORES DE RUÍDOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9041",
+      "title": "COLETE RESGATE SALVA VIDAS CLASSE IV",
+      "brand": "ATIVA",
+      "brandCode": "645",
+      "supplier": "BUNZL EQUIP PARA PROTECAO INDIVIDUAL",
+      "supplierCode": "106",
+      "manufacturerCode": "A4NF",
+      "category": "DETECTORES DE RUÍDOS",
+      "categorySlug": "detectores-de-ruidos",
+      "path": "/colete-resgate-salva-vidas-classe-iv-9041",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "epis-e-epcs--diversos--detectores-de-ruidos"
+  }
+}

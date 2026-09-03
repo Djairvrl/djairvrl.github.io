@@ -1,0 +1,36 @@
+{
+  "title": "KOTMAX",
+  "parentLabel": "Marca",
+  "description": "Produtos KOTMAX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KOTMAX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9199",
+      "title": "CAIXA BIN ORGANIZADORA PLAST MINI CESTO",
+      "brand": "KOTMAX",
+      "brandCode": "656",
+      "supplier": "ANDREZA MESSIAS CAMAROTO SOLUCOES COMERCIAIS",
+      "supplierCode": "2435",
+      "manufacturerCode": "1030PT",
+      "category": "CAIXAS E CASES",
+      "categorySlug": "caixas-e-cases",
+      "path": "/caixa-bin-organizadora-plast-mini-cesto-9199",
+      "image": "/products/images/0091/9199.jpg",
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--656--kotmax"
+  }
+}

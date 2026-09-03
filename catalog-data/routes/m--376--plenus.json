@@ -1,0 +1,36 @@
+{
+  "title": "PLENUS",
+  "parentLabel": "Marca",
+  "description": "Produtos PLENUS disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PLENUS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6897",
+      "title": "CONJ CHURRASCO TR PLENUS 3P",
+      "brand": "PLENUS",
+      "brandCode": "376",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7891112304567",
+      "category": "DESCARTAVEIS E UTENSILIOS",
+      "categorySlug": "descartaveis-e-utensilios",
+      "path": "/conj-churrasco-tr-plenus-3p-6897",
+      "image": "/products/images/0068/6897.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--376--plenus"
+  }
+}

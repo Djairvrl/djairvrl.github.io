@@ -1,0 +1,36 @@
+{
+  "title": "EDA",
+  "parentLabel": "Marca",
+  "description": "Produtos EDA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EDA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10883",
+      "title": "ROLDANA 18CM C/GANCHO",
+      "brand": "EDA",
+      "brandCode": "824",
+      "supplier": "NATALMAQ MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "3544",
+      "manufacturerCode": "8768",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/roldana-18cm-cgancho-10883",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--824--eda"
+  }
+}

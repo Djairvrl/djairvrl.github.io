@@ -1,0 +1,78 @@
+{
+  "title": "PLAINAS",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria plainas em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "PLAINAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "4968",
+      "title": "PLAINA 3.14 1555 550W 220V",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "F0121555JA000",
+      "category": "PLAINAS",
+      "categorySlug": "plainas",
+      "path": "/plaina-314-1555-550w-220v-4968",
+      "image": "/products/images/0049/4968.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "3398",
+      "title": "PLAINA GHO 700 220V",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06015A90E0000",
+      "category": "PLAINAS",
+      "categorySlug": "plainas",
+      "path": "/plaina-gho-700-220v-3398",
+      "image": "/products/images/0033/3398.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "4616",
+      "title": "PLAINA SEM FIO GHO 12V20",
+      "brand": "BOSCH",
+      "brandCode": "70",
+      "supplier": "ROBERT BOSCH LIMITADA",
+      "supplierCode": "158",
+      "manufacturerCode": "06015A7000000",
+      "category": "PLAINAS",
+      "categorySlug": "plainas",
+      "path": "/plaina-sem-fio-gho-12v20-4616",
+      "image": "/products/images/0046/4616.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-eletricas--plainas"
+  }
+}

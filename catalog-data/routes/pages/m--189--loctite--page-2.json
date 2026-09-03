@@ -1,0 +1,73 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "6061",
+      "title": "VEDA FLANGE ANAERÓBICO 515 50G MÉDIO TORQUE - LOCTITE",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "234336",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-flange-anaerobico-515-50g-medio-torque--loctite-6061",
+      "image": "/products/images/0060/6061.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "10988",
+      "title": "VEDA FLANGE LOCTITE 518 CR250G",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "AL518250",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-flange-loctite-518-cr250g-10988",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "8080",
+      "title": "VEDA FLANGES ANAERÓBICO 275G LOCTITE 574",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2487100",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-flanges-anaerobico-275g-loctite-574-8080",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "5802",
+      "title": "VEDA ROSCA ANAERÓBICO BAIXO TORQUE 50G 567 -  LOCTITE",
+      "brand": "LOCTITE",
+      "brandCode": "189",
+      "supplier": "HENKEL LTDA",
+      "supplierCode": "828",
+      "manufacturerCode": "2078730",
+      "category": "VEDADOR",
+      "categorySlug": "vedador",
+      "path": "/veda-rosca-anaerobico-baixo-torque-50g-567--loctite-5802",
+      "image": "/products/images/0058/5802.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ]
+}

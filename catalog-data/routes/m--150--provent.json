@@ -1,0 +1,36 @@
+{
+  "title": "PROVENT",
+  "parentLabel": "Marca",
+  "description": "Produtos PROVENT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "PROVENT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "2598",
+      "title": "PROT. AUR. TIPO PLUG CA 36817",
+      "brand": "PROVENT",
+      "brandCode": "150",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "2598",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/prot-aur-tipo-plug-ca-36817-2598",
+      "image": "/products/images/0025/2598.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--150--provent"
+  }
+}

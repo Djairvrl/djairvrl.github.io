@@ -1,0 +1,36 @@
+{
+  "title": "AUXITEL",
+  "parentLabel": "Marca",
+  "description": "Produtos AUXITEL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AUXITEL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12249",
+      "title": "ARANDELA FILTRO 3 MICRAS 27X18",
+      "brand": "AUXITEL",
+      "brandCode": "1053",
+      "supplier": "AUXITEL ENERGIA SLU",
+      "supplierCode": "5598",
+      "manufacturerCode": "12249",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/arandela-filtro-3-micras-27x18-12249",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1053--auxitel"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "EUROTHERM",
+  "parentLabel": "Marca",
+  "description": "Produtos EUROTHERM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EUROTHERM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9640",
+      "title": "CONTROLADOR TEMPERAT PT100 LFS 937115000",
+      "brand": "EUROTHERM",
+      "brandCode": "705",
+      "supplier": "EUROTHERM LTDA",
+      "supplierCode": "2654",
+      "manufacturerCode": "P11 600.000.000",
+      "category": "CONTROLADORES E TOTALIZADORES",
+      "categorySlug": "controladores-e-totalizadores",
+      "path": "/controlador-temperat-pt100-lfs-937115000-9640",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--705--eurotherm"
+  }
+}

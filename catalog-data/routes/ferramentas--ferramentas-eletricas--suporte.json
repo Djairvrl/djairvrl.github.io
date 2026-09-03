@@ -1,0 +1,78 @@
+{
+  "title": "SUPORTE",
+  "parentLabel": "Ferramentas Elétricas",
+  "description": "Produtos da categoria suporte em ferramentas elétricas.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Elétricas",
+      "to": "/ferramentas/ferramentas-eletricas"
+    },
+    {
+      "label": "SUPORTE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9019",
+      "title": "SUPORTE BRACO ARTICULADO 11 POL 28,5CM",
+      "brand": "MAGIC ARM",
+      "brandCode": "669",
+      "supplier": "GLOSS STORE COMERCIO DE ELETRONICOS LTDA",
+      "supplierCode": "2512",
+      "manufacturerCode": "MKP21000002XCAR01XCAR11",
+      "category": "SUPORTE",
+      "categorySlug": "suporte",
+      "path": "/suporte-braco-articulado-11-pol-285cm-9019",
+      "image": "/products/images/0090/9019.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "501",
+      "title": "SUPORTE PARA FURADEIRA COM MORSA",
+      "brand": "SPARTA",
+      "brandCode": "104",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "9340555",
+      "category": "SUPORTE",
+      "categorySlug": "suporte",
+      "path": "/suporte-para-furadeira-com-morsa-501",
+      "image": "/products/images/0005/501.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "2472",
+      "title": "SUPORTE SERRA COPO A10-E 3/8\" COM BROCA 32 A 210MM - STARRETT",
+      "brand": "STARRETT",
+      "brandCode": "79",
+      "supplier": "STARRETT INDUSTRIA E COMERCIO LTDA.",
+      "supplierCode": "306",
+      "manufacturerCode": "A10E",
+      "category": "SUPORTE",
+      "categorySlug": "suporte",
+      "path": "/suporte-serra-copo-a10e-38-com-broca-32-a-210mm--starrett-2472",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-eletricas--suporte"
+  }
+}

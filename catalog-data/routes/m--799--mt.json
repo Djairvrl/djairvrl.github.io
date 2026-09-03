@@ -1,0 +1,53 @@
+{
+  "title": "MT",
+  "parentLabel": "Marca",
+  "description": "Produtos MT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10675",
+      "title": "TERMINAL POLIM EXT TFTO 6151 PN1590050-6",
+      "brand": "MT",
+      "brandCode": "799",
+      "supplier": "MT COMERCIAL ELETRICA LTDA",
+      "supplierCode": "3962",
+      "manufacturerCode": "MT0051977",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-polim-ext-tfto-6151-pn15900506-10675",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "10676",
+      "title": "TERMINAL POLIM INT TFTI 6151 PN1590050-5",
+      "brand": "MT",
+      "brandCode": "799",
+      "supplier": "MT COMERCIAL ELETRICA LTDA",
+      "supplierCode": "3962",
+      "manufacturerCode": "MT0051927",
+      "category": "TERMINAIS E CONEXÕES INDUSTRIAIS",
+      "categorySlug": "terminais-e-conexoes-industriais",
+      "path": "/terminal-polim-int-tfti-6151-pn15900505-10676",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--799--mt"
+  }
+}

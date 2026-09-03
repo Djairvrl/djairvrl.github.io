@@ -1,0 +1,36 @@
+{
+  "title": "YOKOGAWA",
+  "parentLabel": "Marca",
+  "description": "Produtos YOKOGAWA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "YOKOGAWA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9647",
+      "title": "OTDR AQ1000-USC/VLS SM 32/30DB/1550NM",
+      "brand": "YOKOGAWA",
+      "brandCode": "709",
+      "supplier": "PROVITEL TECNOLOGIA LTDA",
+      "supplierCode": "2665",
+      "manufacturerCode": "AQ1000-USC",
+      "category": "INFRAESTRUTURA DE REDE",
+      "categorySlug": "infraestrutura-de-rede",
+      "path": "/otdr-aq1000uscvls-sm-3230db1550nm-9647",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--709--yokogawa"
+  }
+}

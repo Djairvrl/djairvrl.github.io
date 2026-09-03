@@ -1,0 +1,112 @@
+{
+  "title": "ESFREGÕES INDUSTRIAIS",
+  "parentLabel": "Limpeza Industrial",
+  "description": "Produtos da categoria esfregões industriais em limpeza industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Limpeza Industrial",
+      "to": "/ambiental/limpeza-industrial"
+    },
+    {
+      "label": "ESFREGÕES INDUSTRIAIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13230",
+      "title": "KIT LIMPEZA CRISTAL 3UN 30X30CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "827",
+      "category": "ESFREGÕES INDUSTRIAIS",
+      "categorySlug": "esfregoes-industriais",
+      "path": "/kit-limpeza-cristal-3un-30x30cm-13230",
+      "image": "/products/images/0132/13230.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "5520",
+      "title": "MOP ESFREGÃO EM PVA 2 EM 1 - CONDOR 1620",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "98143",
+      "category": "ESFREGÕES INDUSTRIAIS",
+      "categorySlug": "esfregoes-industriais",
+      "path": "/mop-esfregao-em-pva-2-em-1--condor-1620-5520",
+      "image": "/products/images/0055/5520.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "5514",
+      "title": "MOP GIRATÓRIO 360º  8L LIMPAKI - CONDOR 1662",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "972565",
+      "category": "ESFREGÕES INDUSTRIAIS",
+      "categorySlug": "esfregoes-industriais",
+      "path": "/mop-giratorio-360o-8l-limpaki--condor-1662-5514",
+      "image": "/products/images/0055/5514.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "13229",
+      "title": "PANO DE CHAO ALVEJADO A+ 48X68CM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "MANASES TEIXEIRA DA SILVA",
+      "supplierCode": "1149",
+      "manufacturerCode": "4160",
+      "category": "ESFREGÕES INDUSTRIAIS",
+      "categorySlug": "esfregoes-industriais",
+      "path": "/pano-de-chao-alvejado-a-48x68cm-13229",
+      "image": "/products/images/0132/13229.webp",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "5518",
+      "title": "VASSOURA ESFREGA E SECA 2 EM 1 COM CABO 1,26M - CONDOR",
+      "brand": "CONDOR",
+      "brandCode": "209",
+      "supplier": "CONDOR PINCEIS LTDA",
+      "supplierCode": "880",
+      "manufacturerCode": "970149",
+      "category": "ESFREGÕES INDUSTRIAIS",
+      "categorySlug": "esfregoes-industriais",
+      "path": "/vassoura-esfrega-e-seca-2-em-1-com-cabo-126m--condor-5518",
+      "image": "/products/images/0055/5518.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ambiental--limpeza-industrial--esfregoes-industriais"
+  }
+}

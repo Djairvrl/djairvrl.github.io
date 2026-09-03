@@ -1,0 +1,70 @@
+{
+  "title": "METAL CHECK",
+  "parentLabel": "Marca",
+  "description": "Produtos METAL CHECK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "METAL CHECK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7734",
+      "title": "PROPELENTE HIDROCARBONETO D 70",
+      "brand": "METAL CHECK",
+      "brandCode": "531",
+      "supplier": "METAL CHEK DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1801",
+      "manufacturerCode": "AAABADAAKFAFAAE",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/propelente-hidrocarboneto-d-70-7734",
+      "image": "/products/images/0077/7734.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7733",
+      "title": "PROPELENTE HIDROCARBONETO VP 31",
+      "brand": "METAL CHECK",
+      "brandCode": "531",
+      "supplier": "METAL CHEK DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1801",
+      "manufacturerCode": "AAAAAAAABFAFAAE",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/propelente-hidrocarboneto-vp-31-7733",
+      "image": "/products/images/0077/7733.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7732",
+      "title": "REMOVEDOR TMC 10 5L",
+      "brand": "METAL CHECK",
+      "brandCode": "531",
+      "supplier": "METAL CHEK DO BRASIL INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1801",
+      "manufacturerCode": "AAACZZAAVAAADAE",
+      "category": "REMOVEDOR",
+      "categorySlug": "removedor",
+      "path": "/removedor-tmc-10-5l-7732",
+      "image": "/products/images/0077/7732.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "m--531--metal-check"
+  }
+}

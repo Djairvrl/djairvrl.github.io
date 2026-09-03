@@ -1,0 +1,36 @@
+{
+  "title": "ALLSUM",
+  "parentLabel": "Marca",
+  "description": "Produtos ALLSUM disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALLSUM"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8675",
+      "title": "DETECTOR DISJUNTOR CIRCUITO 220V",
+      "brand": "ALLSUM",
+      "brandCode": "606",
+      "supplier": "A. I. LASTA LTDA",
+      "supplierCode": "2168",
+      "manufacturerCode": "MLB3490774923",
+      "category": "TESTADORES DE FASE",
+      "categorySlug": "testadores-de-fase",
+      "path": "/detector-disjuntor-circuito-220v-8675",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--606--allsum"
+  }
+}

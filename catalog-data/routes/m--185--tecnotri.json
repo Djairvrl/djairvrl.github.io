@@ -1,0 +1,87 @@
+{
+  "title": "TECNOTRI",
+  "parentLabel": "Marca",
+  "description": "Produtos TECNOTRI disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "TECNOTRI"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7631",
+      "title": "COFRE DE CARGA 560L 1200 X 1000 X 870MM AZUL - TECNOTRI",
+      "brand": "TECNOTRI",
+      "brandCode": "185",
+      "supplier": "TECNOTRI INDUSTRIA DE PLASTICOS LTDA",
+      "supplierCode": "879",
+      "manufacturerCode": "11531",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/cofre-de-carga-560l-1200-x-1000-x-870mm-azul--tecnotri-7631",
+      "image": "/products/images/0076/7631.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "7630",
+      "title": "COFRE DE CARGA 560L 1200 X 1000 X 870MM PRETO - TECNOTRI",
+      "brand": "TECNOTRI",
+      "brandCode": "185",
+      "supplier": "TECNOTRI INDUSTRIA DE PLASTICOS LTDA",
+      "supplierCode": "879",
+      "manufacturerCode": "11757",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/cofre-de-carga-560l-1200-x-1000-x-870mm-preto--tecnotri-7630",
+      "image": "/products/images/0076/7630.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "3440",
+      "title": "COFRE DE CARGA CC300 AZUL 300L PAREDE DUPLA 1030X900X680MM - TECNOTRI",
+      "brand": "TECNOTRI",
+      "brandCode": "185",
+      "supplier": "TECNOTRI INDUSTRIA DE PLASTICOS LTDA",
+      "supplierCode": "879",
+      "manufacturerCode": "10191",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/cofre-de-carga-cc300-azul-300l-parede-dupla-1030x900x680mm--tecnotri-3440",
+      "image": "/products/images/0034/3440.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "3942",
+      "title": "COFRE DE CARGA CC560 1200X1000X870",
+      "brand": "TECNOTRI",
+      "brandCode": "185",
+      "supplier": "TECNOTRI INDUSTRIA DE PLASTICOS LTDA",
+      "supplierCode": "879",
+      "manufacturerCode": "10676",
+      "category": "CONTENTORES",
+      "categorySlug": "contentores",
+      "path": "/cofre-de-carga-cc560-1200x1000x870-3942",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "m--185--tecnotri"
+  }
+}

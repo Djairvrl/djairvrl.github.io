@@ -1,0 +1,36 @@
+{
+  "title": "BRASILHOME NET",
+  "parentLabel": "Marca",
+  "description": "Produtos BRASILHOME NET disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRASILHOME NET"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12597",
+      "title": "SUGADOR DE SOLDA ELETRICO 220V 30W",
+      "brand": "BRASILHOME NET",
+      "brandCode": "1095",
+      "supplier": "BRASIL HOME EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "5789",
+      "manufacturerCode": "R978CQJ5L",
+      "category": "DESSOLDADORES",
+      "categorySlug": "dessoldadores",
+      "path": "/sugador-de-solda-eletrico-220v-30w-12597",
+      "image": "/products/images/0125/12597.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1095--brasilhome-net"
+  }
+}

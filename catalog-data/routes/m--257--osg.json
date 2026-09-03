@@ -1,0 +1,53 @@
+{
+  "title": "OSG",
+  "parentLabel": "Marca",
+  "description": "Produtos OSG disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "OSG"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7496",
+      "title": "MACHO MAN M 101 M 48 X 5 JG3",
+      "brand": "OSG",
+      "brandCode": "257",
+      "supplier": "HANSATECNICA COMERCIO E REPRESENTACOES S.A",
+      "supplierCode": "1118",
+      "manufacturerCode": "3872",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-man-m-101-m-48-x-5-jg3-7496",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "11076",
+      "title": "MACHO MN M 101 M 39 X 4 JG3",
+      "brand": "OSG",
+      "brandCode": "257",
+      "supplier": "HANSATECNICA COMERCIO E REPRESENTACOES S.A",
+      "supplierCode": "1118",
+      "manufacturerCode": "3869",
+      "category": "MACHO",
+      "categorySlug": "macho",
+      "path": "/macho-mn-m-101-m-39-x-4-jg3-11076",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Usinagem E Corte",
+      "sectionSlug": "usinagem-e-corte"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--257--osg"
+  }
+}

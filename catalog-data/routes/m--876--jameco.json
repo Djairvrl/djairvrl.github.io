@@ -1,0 +1,36 @@
+{
+  "title": "JAMECO",
+  "parentLabel": "Marca",
+  "description": "Produtos JAMECO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "JAMECO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11090",
+      "title": "MEDIDOR NIVEL CAIXA DAGUA P/1000 - 2000L",
+      "brand": "JAMECO",
+      "brandCode": "876",
+      "supplier": "JAMECO EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "4482",
+      "manufacturerCode": "MLB3612421797",
+      "category": "SENSORES",
+      "categorySlug": "sensores",
+      "path": "/medidor-nivel-caixa-dagua-p1000--2000l-11090",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--876--jameco"
+  }
+}

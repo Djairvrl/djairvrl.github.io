@@ -1,0 +1,44 @@
+{
+  "title": "MALAS",
+  "parentLabel": "Malas E Bolsas De Bloqueio",
+  "description": "Produtos da categoria malas em malas e bolsas de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Malas E Bolsas De Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/malas-e-bolsas-de-bloqueio"
+    },
+    {
+      "label": "MALAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9394",
+      "title": "MALAS DE BLOQUEIO P TRANSPORTE DE EQUIP",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "MAB",
+      "category": "MALAS",
+      "categorySlug": "malas",
+      "path": "/malas-de-bloqueio-p-transporte-de-equip-9394",
+      "image": "/products/images/0093/9394.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Malas E Bolsas De Bloqueio",
+      "sectionSlug": "malas-e-bolsas-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "bloqueio-e-etiquetagem--malas-e-bolsas-de-bloqueio--malas"
+  }
+}

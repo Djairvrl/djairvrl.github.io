@@ -1,0 +1,22 @@
+{
+  "page": 2,
+  "products": [
+    {
+      "code": "8333",
+      "title": "TINTA WEG LACK CRIPTAL VERMELHO OXIDO C",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ELETRO MORAIS LTDA",
+      "supplierCode": "2052",
+      "manufacturerCode": "PREMIER",
+      "category": "TINTA",
+      "categorySlug": "tinta",
+      "path": "/tinta-weg-lack-criptal-vermelho-oxido-c-8333",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ]
+}

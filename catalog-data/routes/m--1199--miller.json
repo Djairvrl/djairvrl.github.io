@@ -1,0 +1,36 @@
+{
+  "title": "MILLER",
+  "parentLabel": "Marca",
+  "description": "Produtos MILLER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MILLER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13202",
+      "title": "TALABARTE DUPLO MANYARD AMORT 45MM",
+      "brand": "MILLER",
+      "brandCode": "1199",
+      "supplier": "ESSEX HORNETS BRAZIL LTDA.",
+      "supplierCode": "3524",
+      "manufacturerCode": "1028522",
+      "category": "TALABARTES",
+      "categorySlug": "talabartes",
+      "path": "/talabarte-duplo-manyard-amort-45mm-13202",
+      "image": "/products/images/0132/13202.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1199--miller"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "REPTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos REPTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "REPTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10656",
+      "title": "LUVA COBERTURA EM VAQUETA TAM 9 CA 25007",
+      "brand": "REPTEC",
+      "brandCode": "794",
+      "supplier": "REPTEC EQUIPAMENTOS DE SEGURANCA E UNIFORMES LTDA",
+      "supplierCode": "3923",
+      "manufacturerCode": "001860",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-cobertura-em-vaqueta-tam-9-ca-25007-10656",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--794--reptec"
+  }
+}

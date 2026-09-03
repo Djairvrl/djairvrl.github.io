@@ -1,0 +1,44 @@
+{
+  "title": "MEDIDORES DE TTR",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria medidores de ttr em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "MEDIDORES DE TTR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12768",
+      "title": "MEDIDOR D RELACAO TRANSFORMACAO TRIFASIC",
+      "brand": "GAMA",
+      "brandCode": "258",
+      "supplier": "GAMA COM E SERV INSTRUMENTOS MEDICAO LTDA",
+      "supplierCode": "1122",
+      "manufacturerCode": "GMTTR-10K",
+      "category": "MEDIDORES DE TTR",
+      "categorySlug": "medidores-de-ttr",
+      "path": "/medidor-d-relacao-transformacao-trifasic-12768",
+      "image": "/products/images/0127/12768.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--medidores-de-ttr"
+  }
+}

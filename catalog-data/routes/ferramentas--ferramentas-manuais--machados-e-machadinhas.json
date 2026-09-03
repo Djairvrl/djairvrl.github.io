@@ -1,0 +1,78 @@
+{
+  "title": "MACHADOS E MACHADINHAS",
+  "parentLabel": "Ferramentas Manuais",
+  "description": "Produtos da categoria machados e machadinhas em ferramentas manuais.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Ferramentas Manuais",
+      "to": "/ferramentas/ferramentas-manuais"
+    },
+    {
+      "label": "MACHADOS E MACHADINHAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12709",
+      "title": "CABO DE MADEIRA PARA MACHADO 1 M",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "8023100006",
+      "category": "MACHADOS E MACHADINHAS",
+      "categorySlug": "machados-e-machadinhas",
+      "path": "/cabo-de-madeira-para-machado-1-m-12709",
+      "image": "/products/images/0127/12709.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9516",
+      "title": "MACHADINHA COM CABO DE FIBRA 600G VONDER REF 3589000600",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "3589000600",
+      "category": "MACHADOS E MACHADINHAS",
+      "categorySlug": "machados-e-machadinhas",
+      "path": "/machadinha-com-cabo-de-fibra-600g-vonder-ref-3589000600-9516",
+      "image": "/products/images/0095/9516.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "3697",
+      "title": "MACHADO SOLDADO 3.5 C/CABO 90 CM",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "77322/534",
+      "category": "MACHADOS E MACHADINHAS",
+      "categorySlug": "machados-e-machadinhas",
+      "path": "/machado-soldado-35-ccabo-90-cm-3697",
+      "image": "/products/images/0036/3697.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "ferramentas--ferramentas-manuais--machados-e-machadinhas"
+  }
+}

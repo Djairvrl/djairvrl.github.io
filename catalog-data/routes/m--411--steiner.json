@@ -1,0 +1,36 @@
+{
+  "title": "STEINER",
+  "parentLabel": "Marca",
+  "description": "Produtos STEINER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "STEINER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7075",
+      "title": "BINOCULO STEINER BLUHORIZONS 10X42",
+      "brand": "STEINER",
+      "brandCode": "411",
+      "supplier": "PARAQUEDAS IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "1394",
+      "manufacturerCode": "SN2345",
+      "category": "INSTRUMENTOS ÓPTICOS",
+      "categorySlug": "instrumentos-opticos",
+      "path": "/binoculo-steiner-bluhorizons-10x42-7075",
+      "image": "/products/images/0070/7075.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--411--steiner"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "title": "CINTA LOMBAR",
+  "parentLabel": "Vestimentas Profissionais",
+  "description": "Produtos da categoria cinta lombar em vestimentas profissionais.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Vestimentas Profissionais",
+      "to": "/epis-e-epcs/vestimentas-profissionais"
+    },
+    {
+      "label": "CINTA LOMBAR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9346",
+      "title": "CINTA ERGONOMICA ERGO BLACK PRO TAM G",
+      "brand": "VICSA",
+      "brandCode": "4",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "VIC41120 G PT",
+      "category": "CINTA LOMBAR",
+      "categorySlug": "cinta-lombar",
+      "path": "/cinta-ergonomica-ergo-black-pro-tam-g-9346",
+      "image": "/products/images/0093/9346.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "2467",
+      "title": "CINTO DE PROTECAO LOMBAR SLIM G",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "GNSYS SOLUCOES LTDA",
+      "supplierCode": "172",
+      "manufacturerCode": "PCI008",
+      "category": "CINTA LOMBAR",
+      "categorySlug": "cinta-lombar",
+      "path": "/cinto-de-protecao-lombar-slim-g-2467",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "2468",
+      "title": "CINTO DE PROTECAO LOMBAR SLIM GG",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "GNSYS SOLUCOES LTDA",
+      "supplierCode": "172",
+      "manufacturerCode": "CT03023",
+      "category": "CINTA LOMBAR",
+      "categorySlug": "cinta-lombar",
+      "path": "/cinto-de-protecao-lombar-slim-gg-2468",
+      "image": "/products/images/0024/2468.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "2469",
+      "title": "CINTO DE PROTECAO LOMBAR SLIM M",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "GNSYS SOLUCOES LTDA",
+      "supplierCode": "172",
+      "manufacturerCode": "PCI010",
+      "category": "CINTA LOMBAR",
+      "categorySlug": "cinta-lombar",
+      "path": "/cinto-de-protecao-lombar-slim-m-2469",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "7296",
+      "title": "CINTO ERGONÔMICO PRETO TAMANHO G (1050 X 200MM) - PLASTCOR",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - SP",
+      "supplierCode": "30",
+      "manufacturerCode": "700.30493",
+      "category": "CINTA LOMBAR",
+      "categorySlug": "cinta-lombar",
+      "path": "/cinto-ergonomico-preto-tamanho-g-1050-x-200mm--plastcor-7296",
+      "image": "/products/images/0072/7296.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "7297",
+      "title": "CINTO ERGONÔMICO PRETO TAMANHO GG (1170 X 200MM) - PLASTCOR",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - SP",
+      "supplierCode": "30",
+      "manufacturerCode": "700.31032",
+      "category": "CINTA LOMBAR",
+      "categorySlug": "cinta-lombar",
+      "path": "/cinto-ergonomico-preto-tamanho-gg-1170-x-200mm--plastcor-7297",
+      "image": "/products/images/0072/7297.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "7298",
+      "title": "CINTO ERGONÔMICO PRETO TAMANHO M (930 X 200MM) - PLASTCOR",
+      "brand": "PLASTCOR",
+      "brandCode": "6",
+      "supplier": "PLASTCOR DO BRASIL LTDA - SP",
+      "supplierCode": "30",
+      "manufacturerCode": "700.30492",
+      "category": "CINTA LOMBAR",
+      "categorySlug": "cinta-lombar",
+      "path": "/cinto-ergonomico-preto-tamanho-m-930-x-200mm--plastcor-7298",
+      "image": "/products/images/0072/7298.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 7,
+    "pageBase": "epis-e-epcs--vestimentas-profissionais--cinta-lombar"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "ADITIVOS PARA LIMPEZA E ESTABILIZAÇÃO",
+  "parentLabel": "Aditivos",
+  "description": "Produtos da categoria aditivos para limpeza e estabilização em aditivos.",
+  "breadcrumbs": [
+    {
+      "label": "Lubrificantes e Fluidos",
+      "to": "/lubrificantes-e-fluidos"
+    },
+    {
+      "label": "Aditivos",
+      "to": "/lubrificantes-e-fluidos/aditivos"
+    },
+    {
+      "label": "ADITIVOS PARA LIMPEZA E ESTABILIZAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7448",
+      "title": "ADITIVO ESTABILIZADOR OLEO DIESEL 1L",
+      "brand": "TEC-COM10",
+      "brandCode": "468",
+      "supplier": "TUDO A BORDO COMERCIO DE PRODUTOS NAUTICOS LTDA",
+      "supplierCode": "1656",
+      "manufacturerCode": "1010T",
+      "category": "ADITIVOS PARA LIMPEZA E ESTABILIZAÇÃO",
+      "categorySlug": "aditivos-para-limpeza-e-estabilizacao",
+      "path": "/aditivo-estabilizador-oleo-diesel-1l-7448",
+      "image": "/products/images/0074/7448.png",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    },
+    {
+      "code": "7232",
+      "title": "LIMPA CARTER FLUSHING 500ML",
+      "brand": "ORBI",
+      "brandCode": "144",
+      "supplier": "ORBI QUIMICA LTDA",
+      "supplierCode": "450",
+      "manufacturerCode": "1624",
+      "category": "ADITIVOS PARA LIMPEZA E ESTABILIZAÇÃO",
+      "categorySlug": "aditivos-para-limpeza-e-estabilizacao",
+      "path": "/limpa-carter-flushing-500ml-7232",
+      "image": null,
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Aditivos",
+      "sectionSlug": "aditivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "lubrificantes-e-fluidos--aditivos--aditivos-para-limpeza-e-estabilizacao"
+  }
+}

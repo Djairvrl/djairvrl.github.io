@@ -1,0 +1,53 @@
+{
+  "title": "CABOS NBR",
+  "parentLabel": "Marca",
+  "description": "Produtos CABOS NBR disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "CABOS NBR"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12923",
+      "title": "CABO FLEX 750V 70G PVC 2,5MM² PT PADR",
+      "brand": "CABOS NBR",
+      "brandCode": "1154",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1361192",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flex-750v-70g-pvc-25mm2-pt-padr-12923",
+      "image": "/products/images/0129/12923.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "12922",
+      "title": "CABO FLEX PVC 750V 2,5MM VM NBR 70G PADR",
+      "brand": "CABOS NBR",
+      "brandCode": "1154",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "1361198",
+      "category": "FIOS E CABOS",
+      "categorySlug": "fios-e-cabos",
+      "path": "/cabo-flex-pvc-750v-25mm-vm-nbr-70g-padr-12922",
+      "image": "/products/images/0129/12922.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--1154--cabos-nbr"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "SOLUÇAO",
+  "parentLabel": "Marca",
+  "description": "Produtos SOLUÇAO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOLUÇAO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1785",
+      "title": "AGULHÃO PARA FIXAÇÃO DE LINHA DE VIDA ISOLADO - SOLUÇÃO REF. SE3520",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "5738.00372.A.REV01",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/agulhao-para-fixacao-de-linha-de-vida-isolado--solucao-ref-se3520-1785",
+      "image": "/products/images/0017/1785.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "742",
+      "title": "ATERRAMENTO BAIX TENSAO 1000V SE11962/SO",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "04011962",
+      "category": "ATERRAMENTOS TEMPORÁRIOS",
+      "categorySlug": "aterramentos-temporarios",
+      "path": "/aterramento-baix-tensao-1000v-se11962so-742",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "1276",
+      "title": "CONJUNTO DE ATERRAMENTO PARA CUBÍCULOS E SUBSTAÇÕES ATÉ 36 KV - SOLUÇÃO",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "10959",
+      "category": "ATERRAMENTOS TEMPORÁRIOS",
+      "categorySlug": "aterramentos-temporarios",
+      "path": "/conjunto-de-aterramento-para-cubiculos-e-substacoes-ate-36-kv--solucao-1276",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "13121",
+      "title": "GRAMPO ATERR MULTIANG GDE SE5339-21",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "4870",
+      "category": "ATERRAMENTOS TEMPORÁRIOS",
+      "categorySlug": "aterramentos-temporarios",
+      "path": "/grampo-aterr-multiang-gde-se533921-13121",
+      "image": "/products/images/0131/13121.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    },
+    {
+      "code": "1062",
+      "title": "INFLADOR DE LUVAS  - SOLUÇÃO REF SE22515-2",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "3350",
+      "category": "ACESSÓRIOS PARA LUVAS",
+      "categorySlug": "acessorios-para-luvas",
+      "path": "/inflador-de-luvas--solucao-ref-se225152-1062",
+      "image": "/products/images/0010/1062.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "6577",
+      "title": "VARA DE MANOBRA TELESCÓPICA 1,8M ESTENTIDA 5 SEÇÕES  PERFIL TRIANGULAR  - SOLUÇÃO SEVTT5",
+      "brand": "SOLUÇAO",
+      "brandCode": "126",
+      "supplier": "SOLUCAO EQUIPAMENTOS ELETRICOS LTDA",
+      "supplierCode": "460",
+      "manufacturerCode": "3533",
+      "category": "VARA DE MANOBRA",
+      "categorySlug": "vara-de-manobra",
+      "path": "/vara-de-manobra-telescopica-18m-estentida-5-secoes-perfil-triangular--solucao-sevtt5-6577",
+      "image": "/products/images/0065/6577.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "m--126--solucao"
+  }
+}

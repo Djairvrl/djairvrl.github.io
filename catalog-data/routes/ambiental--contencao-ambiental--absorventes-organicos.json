@@ -1,0 +1,112 @@
+{
+  "title": "ABSORVENTES ORGÂNICOS",
+  "parentLabel": "Contenção Ambiental",
+  "description": "Produtos da categoria absorventes orgânicos em contenção ambiental.",
+  "breadcrumbs": [
+    {
+      "label": "Ambiental",
+      "to": "/ambiental"
+    },
+    {
+      "label": "Contenção Ambiental",
+      "to": "/ambiental/contencao-ambiental"
+    },
+    {
+      "label": "ABSORVENTES ORGÂNICOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12010",
+      "title": "ABSORVEDOR ORGANICO 10 KG",
+      "brand": "BIOSSSOLVIT",
+      "brandCode": "1019",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B020300000100010",
+      "category": "ABSORVENTES ORGÂNICOS",
+      "categorySlug": "absorventes-organicos",
+      "path": "/absorvedor-organico-10-kg-12010",
+      "image": "/products/images/0120/12010.png",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "9480",
+      "title": "ABSORVEDOR ORGANICO PO 1KG",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "B020300000100001",
+      "category": "ABSORVENTES ORGÂNICOS",
+      "categorySlug": "absorventes-organicos",
+      "path": "/absorvedor-organico-po-1kg-9480",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "10039",
+      "title": "ABSORVEDOR ORGANICO PO 3KG",
+      "brand": "BIOBLUE",
+      "brandCode": "689",
+      "supplier": "BIOSOLVIT SOLUCOES EM BIOTECNOLOGIA S/A",
+      "supplierCode": "2582",
+      "manufacturerCode": "ABSORP1-1",
+      "category": "ABSORVENTES ORGÂNICOS",
+      "categorySlug": "absorventes-organicos",
+      "path": "/absorvedor-organico-po-3kg-10039",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "11021",
+      "title": "TOALHA ABSORVENTE 29X29CM C/100 CINZA",
+      "brand": "OBER",
+      "brandCode": "855",
+      "supplier": "OBER SHOP COMERCIO LTDA",
+      "supplierCode": "4338",
+      "manufacturerCode": "OS920826000",
+      "category": "ABSORVENTES ORGÂNICOS",
+      "categorySlug": "absorventes-organicos",
+      "path": "/toalha-absorvente-29x29cm-c100-cinza-11021",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    },
+    {
+      "code": "546",
+      "title": "TURFA ABSORVENTE ORGÂNICO 3KG PARA ÓLEO E DERIVADOS MANTAS BRASIL REF 42",
+      "brand": "MANTAS BRASIL",
+      "brandCode": "39",
+      "supplier": "MANTAS BRASIL IND E COMERCIO LTDA - EPP",
+      "supplierCode": "60",
+      "manufacturerCode": "ABSORVENTE ORGANICO P/OLEO DER",
+      "category": "ABSORVENTES ORGÂNICOS",
+      "categorySlug": "absorventes-organicos",
+      "path": "/turfa-absorvente-organico-3kg-para-oleo-e-derivados-mantas-brasil-ref-42-546",
+      "image": "/products/images/0005/546.jpg",
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "ambiental--contencao-ambiental--absorventes-organicos"
+  }
+}

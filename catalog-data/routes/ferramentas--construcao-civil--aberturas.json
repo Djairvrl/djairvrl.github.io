@@ -1,0 +1,44 @@
+{
+  "title": "ABERTURAS",
+  "parentLabel": "Construção Civil",
+  "description": "Produtos da categoria aberturas em construção civil.",
+  "breadcrumbs": [
+    {
+      "label": "Ferramentas",
+      "to": "/ferramentas"
+    },
+    {
+      "label": "Construção Civil",
+      "to": "/ferramentas/construcao-civil"
+    },
+    {
+      "label": "ABERTURAS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11728",
+      "title": "MOLA AEREA PRETA PARA PORTA POTENCIA 2",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "DPALMA IMPORTADORA LTDA",
+      "supplierCode": "4223",
+      "manufacturerCode": "3292002001V",
+      "category": "ABERTURAS",
+      "categorySlug": "aberturas",
+      "path": "/mola-aerea-preta-para-porta-potencia-2-11728",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "ferramentas--construcao-civil--aberturas"
+  }
+}

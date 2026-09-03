@@ -1,0 +1,36 @@
+{
+  "title": "NEHC",
+  "parentLabel": "Marca",
+  "description": "Produtos NEHC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "NEHC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "8060",
+      "title": "BALANCA",
+      "brand": "NEHC",
+      "brandCode": "554",
+      "supplier": "VANDERSON GERALDO BARBOSA DA SILVA 33643815859",
+      "supplierCode": "1921",
+      "manufacturerCode": "MLB3774978624",
+      "category": "BALANÇA",
+      "categorySlug": "balanca",
+      "path": "/balanca-8060",
+      "image": "/products/images/0080/8060.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Calibração e Ajuste",
+      "sectionSlug": "ferramentas-de-calibracao-e-ajuste"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--554--nehc"
+  }
+}

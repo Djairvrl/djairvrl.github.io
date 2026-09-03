@@ -1,0 +1,78 @@
+{
+  "title": "GPS PORTÁTEIS",
+  "parentLabel": "Ferramentas De Navegação/Geolocalização",
+  "description": "Produtos da categoria gps portáteis em ferramentas de navegação/geolocalização.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Ferramentas De Navegação/Geolocalização",
+      "to": "/medicao-e-teste/ferramentas-de-navegacao-geolocalizacao"
+    },
+    {
+      "label": "GPS PORTÁTEIS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7393",
+      "title": "GARMIN GPSMAP 79S GPS MARITIMO PORTATIL",
+      "brand": "GARMIN",
+      "brandCode": "404",
+      "supplier": "RCOM DIGITAL TELECOMUNICACOES LTDA",
+      "supplierCode": "1649",
+      "manufacturerCode": "GPS MAP 79S",
+      "category": "GPS PORTÁTEIS",
+      "categorySlug": "gps-portateis",
+      "path": "/garmin-gpsmap-79s-gps-maritimo-portatil-7393",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Ferramentas De Navegação/Geolocalização",
+      "sectionSlug": "ferramentas-de-navegacao-geolocalizacao"
+    },
+    {
+      "code": "7009",
+      "title": "GPS PORTATIL GARMIN ETREX 32X SA",
+      "brand": "GARMIN",
+      "brandCode": "404",
+      "supplier": "B R DA SILVA INFORMATICA LTDA",
+      "supplierCode": "1456",
+      "manufacturerCode": "ETREX_32X",
+      "category": "GPS PORTÁTEIS",
+      "categorySlug": "gps-portateis",
+      "path": "/gps-portatil-garmin-etrex-32x-sa-7009",
+      "image": "/products/images/0070/7009.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Ferramentas De Navegação/Geolocalização",
+      "sectionSlug": "ferramentas-de-navegacao-geolocalizacao"
+    },
+    {
+      "code": "10015",
+      "title": "GPS PORTATIL MAP65 MAPA TOPOGRAFICO",
+      "brand": "GARMIN",
+      "brandCode": "404",
+      "supplier": "57.113.526 ALEXANDRO PESSOA",
+      "supplierCode": "2885",
+      "manufacturerCode": "1",
+      "category": "GPS PORTÁTEIS",
+      "categorySlug": "gps-portateis",
+      "path": "/gps-portatil-map65-mapa-topografico-10015",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Ferramentas De Navegação/Geolocalização",
+      "sectionSlug": "ferramentas-de-navegacao-geolocalizacao"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "medicao-e-teste--ferramentas-de-navegacao-geolocalizacao--gps-portateis"
+  }
+}

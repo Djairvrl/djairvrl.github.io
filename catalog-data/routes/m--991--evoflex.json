@@ -1,0 +1,36 @@
+{
+  "title": "EVOFLEX",
+  "parentLabel": "Marca",
+  "description": "Produtos EVOFLEX disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "EVOFLEX"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11839",
+      "title": "LUVA DE SEGURANCA NYLON CA 51829 TAM G",
+      "brand": "EVOFLEX",
+      "brandCode": "991",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA-11900E",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-de-seguranca-nylon-ca-51829-tam-g-11839",
+      "image": "/products/images/0118/11839.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--991--evoflex"
+  }
+}

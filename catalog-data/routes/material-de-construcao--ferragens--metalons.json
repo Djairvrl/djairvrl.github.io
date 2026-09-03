@@ -1,0 +1,95 @@
+{
+  "title": "METALONS",
+  "parentLabel": "Ferragens",
+  "description": "Produtos da categoria metalons em ferragens.",
+  "breadcrumbs": [
+    {
+      "label": "Material de Construção",
+      "to": "/material-de-construcao"
+    },
+    {
+      "label": "Ferragens",
+      "to": "/material-de-construcao/ferragens"
+    },
+    {
+      "label": "METALONS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7025",
+      "title": "METALON 30X30 C/6MT GALVANIZADO CHAPA 20",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "COMERCIAL SOLAR MATERIAL DE CONSTRUCAO",
+      "supplierCode": "317",
+      "manufacturerCode": "9285",
+      "category": "METALONS",
+      "categorySlug": "metalons",
+      "path": "/metalon-30x30-c6mt-galvanizado-chapa-20-7025",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "1772",
+      "title": "METALON GALV. 50X30 CHAPA 18",
+      "brand": "ACO CEARENÇE",
+      "brandCode": "25",
+      "supplier": "ACO POTIGUAR LTDA",
+      "supplierCode": "518",
+      "manufacturerCode": "1821",
+      "category": "METALONS",
+      "categorySlug": "metalons",
+      "path": "/metalon-galv-50x30-chapa-18-1772",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "10047",
+      "title": "METALON GALVANIZADO 30X40 NA 18",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ARTHUR VICTOR DA SILVA GOMES ME",
+      "supplierCode": "545",
+      "manufacturerCode": "3741",
+      "category": "METALONS",
+      "categorySlug": "metalons",
+      "path": "/metalon-galvanizado-30x40-na-18-10047",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    },
+    {
+      "code": "10046",
+      "title": "METALON GALVANIZADO 40X40 NA 18",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "ARTHUR VICTOR DA SILVA GOMES ME",
+      "supplierCode": "545",
+      "manufacturerCode": "3592",
+      "category": "METALONS",
+      "categorySlug": "metalons",
+      "path": "/metalon-galvanizado-40x40-na-18-10046",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 4,
+    "pageBase": "material-de-construcao--ferragens--metalons"
+  }
+}

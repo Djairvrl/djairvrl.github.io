@@ -1,0 +1,36 @@
+{
+  "title": "ROBUSTEC",
+  "parentLabel": "Marca",
+  "description": "Produtos ROBUSTEC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ROBUSTEC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11172",
+      "title": "CINTA ELEVA ROBUSTEC 1T 4M VIOLETA",
+      "brand": "ROBUSTEC",
+      "brandCode": "900",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "5769",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/cinta-eleva-robustec-1t-4m-violeta-11172",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--900--robustec"
+  }
+}

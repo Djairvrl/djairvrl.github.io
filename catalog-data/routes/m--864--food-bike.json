@@ -1,0 +1,36 @@
+{
+  "title": "FOOD BIKE",
+  "parentLabel": "Marca",
+  "description": "Produtos FOOD BIKE disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "FOOD BIKE"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11048",
+      "title": "BICICLETA  AZUL MULTIUSO TAMANHO M",
+      "brand": "FOOD BIKE",
+      "brandCode": "864",
+      "supplier": "POINT DAS BIKES LTDA",
+      "supplierCode": "4398",
+      "manufacturerCode": "702",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/bicicleta-azul-multiuso-tamanho-m-11048",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--864--food-bike"
+  }
+}

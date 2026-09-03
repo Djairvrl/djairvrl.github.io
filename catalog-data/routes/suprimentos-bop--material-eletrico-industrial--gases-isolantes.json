@@ -1,0 +1,61 @@
+{
+  "title": "GASES ISOLANTES",
+  "parentLabel": "Material Elétrico Industrial",
+  "description": "Produtos da categoria gases isolantes em material elétrico industrial.",
+  "breadcrumbs": [
+    {
+      "label": "Suprimentos BOP",
+      "to": "/suprimentos-bop"
+    },
+    {
+      "label": "Material Elétrico Industrial",
+      "to": "/suprimentos-bop/material-eletrico-industrial"
+    },
+    {
+      "label": "GASES ISOLANTES"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12003",
+      "title": "CILINDRO GÁS SF6 7,7KG",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12003",
+      "category": "GASES ISOLANTES",
+      "categorySlug": "gases-isolantes",
+      "path": "/cilindro-gas-sf6-77kg-12003",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
+      "code": "11973",
+      "title": "HEXAFLUORETO DE ENXOFRE SF6 P/KG 7,5KG",
+      "brand": "GIFEL",
+      "brandCode": "552",
+      "supplier": "GNS GASES E EQUIPAMENTOS LTDA",
+      "supplierCode": "5212",
+      "manufacturerCode": "601661",
+      "category": "GASES ISOLANTES",
+      "categorySlug": "gases-isolantes",
+      "path": "/hexafluoreto-de-enxofre-sf6-pkg-75kg-11973",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "suprimentos-bop--material-eletrico-industrial--gases-isolantes"
+  }
+}

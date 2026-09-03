@@ -1,0 +1,61 @@
+{
+  "title": "REATORES E DRIVERS DE ILUMINAÇÃO",
+  "parentLabel": "Materias Elétricos",
+  "description": "Produtos da categoria reatores e drivers de iluminação em materias elétricos.",
+  "breadcrumbs": [
+    {
+      "label": "Acessórios e Consumíveis",
+      "to": "/acessorios-e-consumiveis"
+    },
+    {
+      "label": "Materias Elétricos",
+      "to": "/acessorios-e-consumiveis/materias-eletricos"
+    },
+    {
+      "label": "REATORES E DRIVERS DE ILUMINAÇÃO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10438",
+      "title": "REATOR DRIVER LED 8W-25W BIVOLT EMBUTIR",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "TEX INC DISTRIBUICAO LTDA",
+      "supplierCode": "3547",
+      "manufacturerCode": "IL-DRIVER-001",
+      "category": "REATORES E DRIVERS DE ILUMINAÇÃO",
+      "categorySlug": "reatores-e-drivers-de-iluminacao",
+      "path": "/reator-driver-led-8w25w-bivolt-embutir-10438",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7706",
+      "title": "REATOR LAMP  2X18/20W EB220A16/26P PHILI",
+      "brand": "PHILIPS",
+      "brandCode": "527",
+      "supplier": "DIMENSIONAL BRASIL SOLUCOES LTDA",
+      "supplierCode": "1495",
+      "manufacturerCode": "445734",
+      "category": "REATORES E DRIVERS DE ILUMINAÇÃO",
+      "categorySlug": "reatores-e-drivers-de-iluminacao",
+      "path": "/reator-lamp-2x1820w-eb220a1626p-phili-7706",
+      "image": "/products/images/0077/7706.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "acessorios-e-consumiveis--materias-eletricos--reatores-e-drivers-de-iluminacao"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Compósitos",
+  "parentLabel": "Departamento",
+  "description": "Produtos de N C OLIVEIRA TINTAS LTDA neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Compósitos"
+    }
+  ],
+  "children": [
+    {
+      "name": "Químicos",
+      "slug": "quimicos",
+      "path": "/compositos/quimicos",
+      "count": 2,
+      "categories": [
+        {
+          "name": "TINTAS",
+          "slug": "tintas",
+          "path": "/compositos/quimicos/tintas",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Tecidos E Fibras",
+      "slug": "tecidos-e-fibras",
+      "path": "/compositos/tecidos-e-fibras",
+      "count": 1,
+      "categories": [
+        {
+          "name": "FITAS PARA LAMINAÇÃO TÉCNICA",
+          "slug": "fitas-para-laminacao-tecnica",
+          "path": "/compositos/tecidos-e-fibras/fitas-para-laminacao-tecnica",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "activeSupplier": {
+    "code": "1276",
+    "name": "N C OLIVEIRA TINTAS LTDA"
+  },
+  "products": [
+    {
+      "code": "11400",
+      "title": "AZUL PORTO SEGURO PAREDES PRO ACET.  BAS",
+      "brand": "SHERWIN- WILLIAMS",
+      "brandCode": "933",
+      "supplier": "N C OLIVEIRA TINTAS LTDA",
+      "supplierCode": "1276",
+      "manufacturerCode": "69424",
+      "category": "TINTAS",
+      "categorySlug": "tintas",
+      "path": "/azul-porto-seguro-paredes-pro-acet-bas-11400",
+      "image": null,
+      "department": "Compósitos",
+      "departmentSlug": "compositos",
+      "section": "Químicos",
+      "sectionSlug": "quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "compositos--fornecedor-1276"
+  }
+}

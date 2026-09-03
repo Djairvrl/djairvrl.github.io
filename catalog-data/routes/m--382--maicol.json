@@ -1,0 +1,104 @@
+{
+  "title": "MAICOL",
+  "parentLabel": "Marca",
+  "description": "Produtos MAICOL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAICOL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10203",
+      "title": "BATA ELET RF C/ REF AMAR CINZA CA44108 G",
+      "brand": "MAICOL",
+      "brandCode": "382",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "2542",
+      "category": "PROTEÇÃO TÉRMICA",
+      "categorySlug": "protecao-termica",
+      "path": "/bata-elet-rf-c-ref-amar-cinza-ca44108-g-10203",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "10202",
+      "title": "BATA ELET RF C/ REF AMAR CINZA CA44108 M",
+      "brand": "MAICOL",
+      "brandCode": "382",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "2541",
+      "category": "PROTEÇÃO TÉRMICA",
+      "categorySlug": "protecao-termica",
+      "path": "/bata-elet-rf-c-ref-amar-cinza-ca44108-m-10202",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "10200",
+      "title": "CALCA ELET RF  REF AMAR CINZA CA44109 G",
+      "brand": "MAICOL",
+      "brandCode": "382",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "2539",
+      "category": "PROTEÇÃO TÉRMICA",
+      "categorySlug": "protecao-termica",
+      "path": "/calca-elet-rf-ref-amar-cinza-ca44109-g-10200",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "10201",
+      "title": "CALCA ELET RF  REF AMAR CINZA CA44109 M",
+      "brand": "MAICOL",
+      "brandCode": "382",
+      "supplier": "L & E MATERIAL DE CONSTRUCAO LTDA",
+      "supplierCode": "1213",
+      "manufacturerCode": "2538",
+      "category": "PROTEÇÃO TÉRMICA",
+      "categorySlug": "protecao-termica",
+      "path": "/calca-elet-rf-ref-amar-cinza-ca44109-m-10201",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "6908",
+      "title": "CAPA DE CHUVA PVC CA27453",
+      "brand": "MAICOL",
+      "brandCode": "382",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "CA27453",
+      "category": "VESTIMENTAS IMPERMEAVEIS",
+      "categorySlug": "vestimentas-impermeaveis",
+      "path": "/capa-de-chuva-pvc-ca27453-6908",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "m--382--maicol"
+  }
+}

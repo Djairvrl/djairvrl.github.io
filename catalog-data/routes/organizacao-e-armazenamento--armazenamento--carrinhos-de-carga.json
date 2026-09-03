@@ -1,0 +1,112 @@
+{
+  "title": "CARRINHOS DE CARGA",
+  "parentLabel": "Armazenamento",
+  "description": "Produtos da categoria carrinhos de carga em armazenamento.",
+  "breadcrumbs": [
+    {
+      "label": "Organização e Armazenamento",
+      "to": "/organizacao-e-armazenamento"
+    },
+    {
+      "label": "Armazenamento",
+      "to": "/organizacao-e-armazenamento/armazenamento"
+    },
+    {
+      "label": "CARRINHOS DE CARGA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12593",
+      "title": "CARRINHO 130L DUPLO SUPRA - PRT ACAB PRT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "METALURGICA AMAPA S.A.",
+      "supplierCode": "1581",
+      "manufacturerCode": "PA010743-1054",
+      "category": "CARRINHOS DE CARGA",
+      "categorySlug": "carrinhos-de-carga",
+      "path": "/carrinho-130l-duplo-supra--prt-acab-prt-12593",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12200",
+      "title": "CARRINHO 130L SIMPLES - PRT ACAB PRT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "METALURGICA AMAPA S.A.",
+      "supplierCode": "1581",
+      "manufacturerCode": "PA010065-1054",
+      "category": "CARRINHOS DE CARGA",
+      "categorySlug": "carrinhos-de-carga",
+      "path": "/carrinho-130l-simples--prt-acab-prt-12200",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12199",
+      "title": "CARRINHO 160L SIMPLES - PRT ACAB PRT BEB",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "METALURGICA AMAPA S.A.",
+      "supplierCode": "1581",
+      "manufacturerCode": "PA010064-3305",
+      "category": "CARRINHOS DE CARGA",
+      "categorySlug": "carrinhos-de-carga",
+      "path": "/carrinho-160l-simples--prt-acab-prt-beb-12199",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "12278",
+      "title": "CARRINHO PARA TRANSPORTE DE TAMBOR 500KG",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6160000500",
+      "category": "CARRINHOS DE CARGA",
+      "categorySlug": "carrinhos-de-carga",
+      "path": "/carrinho-para-transporte-de-tambor-500kg-12278",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    },
+    {
+      "code": "11787",
+      "title": "CARRINHO PLAT TELADO ABAST WMAB9060",
+      "brand": "WM",
+      "brandCode": "984",
+      "supplier": "GURGELMIX MÁQUINAS E FERRAMENTAS S.A",
+      "supplierCode": "727",
+      "manufacturerCode": "2150499",
+      "category": "CARRINHOS DE CARGA",
+      "categorySlug": "carrinhos-de-carga",
+      "path": "/carrinho-plat-telado-abast-wmab9060-11787",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 5,
+    "pageBase": "organizacao-e-armazenamento--armazenamento--carrinhos-de-carga"
+  }
+}

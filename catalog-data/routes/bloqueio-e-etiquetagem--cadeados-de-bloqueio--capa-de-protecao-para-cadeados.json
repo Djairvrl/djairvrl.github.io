@@ -1,0 +1,44 @@
+{
+  "title": "CAPA DE PROTEÇÃO PARA CADEADOS",
+  "parentLabel": "Cadeados de Bloqueio",
+  "description": "Produtos da categoria capa de proteção para cadeados em cadeados de bloqueio.",
+  "breadcrumbs": [
+    {
+      "label": "Bloqueio e Etiquetagem",
+      "to": "/bloqueio-e-etiquetagem"
+    },
+    {
+      "label": "Cadeados de Bloqueio",
+      "to": "/bloqueio-e-etiquetagem/cadeados-de-bloqueio"
+    },
+    {
+      "label": "CAPA DE PROTEÇÃO PARA CADEADOS"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9128",
+      "title": "CAPA DE CADEADO TRANSPARENTE",
+      "brand": "TAGOUT",
+      "brandCode": "44",
+      "supplier": "TAGOUT TREIN. E COM.D EQUIP.PROT.SEG.IND",
+      "supplierCode": "118",
+      "manufacturerCode": "CPC",
+      "category": "CAPA DE PROTEÇÃO PARA CADEADOS",
+      "categorySlug": "capa-de-protecao-para-cadeados",
+      "path": "/capa-de-cadeado-transparente-9128",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Cadeados de Bloqueio",
+      "sectionSlug": "cadeados-de-bloqueio"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "bloqueio-e-etiquetagem--cadeados-de-bloqueio--capa-de-protecao-para-cadeados"
+  }
+}

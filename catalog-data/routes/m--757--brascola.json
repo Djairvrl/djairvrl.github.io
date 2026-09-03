@@ -1,0 +1,36 @@
+{
+  "title": "BRASCOLA",
+  "parentLabel": "Marca",
+  "description": "Produtos BRASCOLA disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BRASCOLA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "10181",
+      "title": "MASSA CALAF 1000G CZA BRASCOVED",
+      "brand": "BRASCOLA",
+      "brandCode": "757",
+      "supplier": "APIGUANA MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "3254",
+      "manufacturerCode": "52943",
+      "category": "MASSAS",
+      "categorySlug": "massas",
+      "path": "/massa-calaf-1000g-cza-brascoved-10181",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--757--brascola"
+  }
+}

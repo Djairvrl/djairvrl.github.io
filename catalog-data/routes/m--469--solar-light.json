@@ -1,0 +1,36 @@
+{
+  "title": "SOLAR LIGHT",
+  "parentLabel": "Marca",
+  "description": "Produtos SOLAR LIGHT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "SOLAR LIGHT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7449",
+      "title": "REFLETOR SOLAR LED 50W 6500K IP67 C/CONT",
+      "brand": "SOLAR LIGHT",
+      "brandCode": "469",
+      "supplier": "L L CASSIOLATTO MATERIAIS ELETRICOS",
+      "supplierCode": "1654",
+      "manufacturerCode": "44",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/refletor-solar-led-50w-6500k-ip67-ccont-7449",
+      "image": "/products/images/0074/7449.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--469--solar-light"
+  }
+}

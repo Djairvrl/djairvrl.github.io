@@ -1,0 +1,36 @@
+{
+  "title": "AMPHENOL",
+  "parentLabel": "Marca",
+  "description": "Produtos AMPHENOL disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "AMPHENOL"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11167",
+      "title": "AMPHENOL D-SUB STANDARD",
+      "brand": "AMPHENOL",
+      "brandCode": "899",
+      "supplier": "MOUSER ELECTRONICS, INC.",
+      "supplierCode": "4472",
+      "manufacturerCode": "D15P13A4GL00LF",
+      "category": "CONECTORES",
+      "categorySlug": "conectores",
+      "path": "/amphenol-dsub-standard-11167",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--899--amphenol"
+  }
+}

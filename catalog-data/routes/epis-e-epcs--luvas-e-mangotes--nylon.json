@@ -1,0 +1,129 @@
+{
+  "title": "NYLON",
+  "parentLabel": "Luvas e Mangotes",
+  "description": "Produtos da categoria nylon em luvas e mangotes.",
+  "breadcrumbs": [
+    {
+      "label": "EPIs e EPCs",
+      "to": "/epis-e-epcs"
+    },
+    {
+      "label": "Luvas e Mangotes",
+      "to": "/epis-e-epcs/luvas-e-mangotes"
+    },
+    {
+      "label": "NYLON"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9182",
+      "title": "LUVA ANTIESTATICA PALM FIT (PAR)",
+      "brand": "PALMFIT",
+      "brandCode": "652",
+      "supplier": "IPSYLON TECNOLOGIA LTDA",
+      "supplierCode": "2424",
+      "manufacturerCode": "1A4-MCINZA",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-antiestatica-palm-fit-par-9182",
+      "image": "/products/images/0091/9182.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "1531",
+      "title": "LUVA DE PROTEÇÃO PARA APICULTOR 100% POLIÉSTER BRANCA TAM 9 ½ - SAYRO REF. API 050",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "10045",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-de-protecao-para-apicultor-100-poliester-branca-tam-9-12--sayro-ref-api-050-1531",
+      "image": "/products/images/0015/1531.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "11839",
+      "title": "LUVA DE SEGURANCA NYLON CA 51829 TAM G",
+      "brand": "EVOFLEX",
+      "brandCode": "991",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA-11900E",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-de-seguranca-nylon-ca-51829-tam-g-11839",
+      "image": "/products/images/0118/11839.png",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "11943",
+      "title": "LUVA DE SEGURANÇA NYLON CA 51829 TAM M",
+      "brand": "DANNY",
+      "brandCode": "5",
+      "supplier": "DVT COMERCIO IMPORTACAO E EXPORTACAO LTD",
+      "supplierCode": "381",
+      "manufacturerCode": "DA-11900E",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-de-seguranca-nylon-ca-51829-tam-m-11943",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "7420",
+      "title": "LUVA NYLON NITRIL PRET GRIP TIGERFL EX 9",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0899411019",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-nylon-nitril-pret-grip-tigerfl-ex-9-7420",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "7421",
+      "title": "LUVA NYLON NITRIL PT GRIP TIGERFL EX 10",
+      "brand": "WURTH",
+      "brandCode": "61",
+      "supplier": "WURTH DO BRASIL PECAS DE FIXACAO LTDA",
+      "supplierCode": "982",
+      "manufacturerCode": "0899411020",
+      "category": "NYLON",
+      "categorySlug": "nylon",
+      "path": "/luva-nylon-nitril-pt-grip-tigerfl-ex-10-7421",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "epis-e-epcs--luvas-e-mangotes--nylon"
+  }
+}

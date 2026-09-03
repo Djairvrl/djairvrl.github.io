@@ -1,0 +1,36 @@
+{
+  "title": "KETER",
+  "parentLabel": "Marca",
+  "description": "Produtos KETER disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "KETER"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11426",
+      "title": "CAIXA BAU ORGANIZADOR KETER COMFY",
+      "brand": "KETER",
+      "brandCode": "941",
+      "supplier": "KETER IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUTOS EM GERAL LTDA",
+      "supplierCode": "4962",
+      "manufacturerCode": "17202436",
+      "category": "MOBILIÁRIO CORPORATIVO",
+      "categorySlug": "mobiliario-corporativo",
+      "path": "/caixa-bau-organizador-keter-comfy-11426",
+      "image": "/products/images/0114/11426.png",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--941--keter"
+  }
+}

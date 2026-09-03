@@ -1,0 +1,36 @@
+{
+  "title": "GLK",
+  "parentLabel": "Marca",
+  "description": "Produtos GLK disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "GLK"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "13225",
+      "title": "SIRENE BIVOLT 110/220V ALARME PRETA 1TOM",
+      "brand": "GLK",
+      "brandCode": "1203",
+      "supplier": "IC BRAZIL STORE COMERCIAL ELETRONICA LTDA",
+      "supplierCode": "6177",
+      "manufacturerCode": "GLK SIRENE BIVOLT",
+      "category": "CAMPAINHAS E SIRENES",
+      "categorySlug": "campainhas-e-sirenes",
+      "path": "/sirene-bivolt-110220v-alarme-preta-1tom-13225",
+      "image": "/products/images/0132/13225.webp",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1203--glk"
+  }
+}

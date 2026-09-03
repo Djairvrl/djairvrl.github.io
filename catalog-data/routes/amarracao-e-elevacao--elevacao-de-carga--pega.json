@@ -1,0 +1,78 @@
+{
+  "title": "PEGA",
+  "parentLabel": "Elevação de Carga",
+  "description": "Produtos da categoria pega em elevação de carga.",
+  "breadcrumbs": [
+    {
+      "label": "Amarração e Elevação",
+      "to": "/amarracao-e-elevacao"
+    },
+    {
+      "label": "Elevação de Carga",
+      "to": "/amarracao-e-elevacao/elevacao-de-carga"
+    },
+    {
+      "label": "PEGA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "7554",
+      "title": "PEGA CILINDROS E TUBOS ERGONÔMICO 9\" (229MM) - AGMOV 1333",
+      "brand": "AGMOV",
+      "brandCode": "501",
+      "supplier": "AGMOV SUPRIMENTOS INDUSTRIAIS LTDA",
+      "supplierCode": "1691",
+      "manufacturerCode": "1333",
+      "category": "PEGA",
+      "categorySlug": "pega",
+      "path": "/pega-cilindros-e-tubos-ergonomico-9-229mm--agmov-1333-7554",
+      "image": "/products/images/0075/7554.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "7553",
+      "title": "PEGA CILINDROS E TUBOS ERGONÔMICO 9.1/2\" (240MM) - AGMOV 1332",
+      "brand": "AGMOV",
+      "brandCode": "501",
+      "supplier": "AGMOV SUPRIMENTOS INDUSTRIAIS LTDA",
+      "supplierCode": "1691",
+      "manufacturerCode": "1332",
+      "category": "PEGA",
+      "categorySlug": "pega",
+      "path": "/pega-cilindros-e-tubos-ergonomico-912-240mm--agmov-1332-7553",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "7101",
+      "title": "PEGA TUBO HORIZONTAL ABERT.50 MM -6 TON",
+      "brand": "QUALITY FIX",
+      "brandCode": "417",
+      "supplier": "QUALITY FIX DO BRASIL, INDUSTRIA, COMERCIO, IMP E EXP LTDA",
+      "supplierCode": "1506",
+      "manufacturerCode": "PT-TPH-06,0T-50",
+      "category": "PEGA",
+      "categorySlug": "pega",
+      "path": "/pega-tubo-horizontal-abert50-mm-6-ton-7101",
+      "image": "/products/images/0071/7101.jpg",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 3,
+    "pageBase": "amarracao-e-elevacao--elevacao-de-carga--pega"
+  }
+}

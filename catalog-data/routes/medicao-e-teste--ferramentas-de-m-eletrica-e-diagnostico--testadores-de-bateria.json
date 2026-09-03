@@ -1,0 +1,129 @@
+{
+  "title": "TESTADORES DE BATERIA",
+  "parentLabel": "Medição Elétrica e Diagnóstico",
+  "description": "Produtos da categoria testadores de bateria em medição elétrica e diagnóstico.",
+  "breadcrumbs": [
+    {
+      "label": "Medição e Teste",
+      "to": "/medicao-e-teste"
+    },
+    {
+      "label": "Medição Elétrica e Diagnóstico",
+      "to": "/medicao-e-teste/ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "label": "TESTADORES DE BATERIA"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "6697",
+      "title": "CONTROLADOR DE CARGA 12/24V 30A PWM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "SOL & AR ENERGIAS RENOVAVEIS",
+      "supplierCode": "1297",
+      "manufacturerCode": "0001287898714410009",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/controlador-de-carga-1224v-30a-pwm-6697",
+      "image": "/products/images/0066/6697.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8281",
+      "title": "TESTADOR BATERIA CARRO BM550 6V 12V 24V",
+      "brand": "KINGBOLEN",
+      "brandCode": "580",
+      "supplier": "LUCAS RODRIGUES DA SILVA COMERCIO",
+      "supplierCode": "2034",
+      "manufacturerCode": "EWF",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-bateria-carro-bm550-6v-12v-24v-8281",
+      "image": "/products/images/0082/8281.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "6762",
+      "title": "TESTADOR DE BATERIA 12V DIGITAL 2000A",
+      "brand": "FLACH",
+      "brandCode": "253",
+      "supplier": "FLACH INDUSTRIA DE CARREGADORES E EQUIPAMENTOS ELETRICOS LTD",
+      "supplierCode": "1093",
+      "manufacturerCode": "TBF-2000",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-de-bateria-12v-digital-2000a-6762",
+      "image": "/products/images/0067/6762.jpg",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8607",
+      "title": "TESTADOR DE BATERIA AUTOMOTIVO MTB-1000",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA DO BRASIL LTDA",
+      "supplierCode": "404",
+      "manufacturerCode": "MTB-1000",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-de-bateria-automotivo-mtb1000-8607",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "11469",
+      "title": "TESTADOR DE BATERIA TBV1000 VONDER",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "68.45.100.000",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-de-bateria-tbv1000-vonder-11469",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "8352",
+      "title": "TESTADOR DE ISOLA FOTOVOLTAICO 1500V GFL",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AMPERI IMPORTACAO E COMERCIO LTDA",
+      "supplierCode": "1868",
+      "manufacturerCode": "PV-ISOTEST/606-IECN",
+      "category": "TESTADORES DE BATERIA",
+      "categorySlug": "testadores-de-bateria",
+      "path": "/testador-de-isola-fotovoltaico-1500v-gfl-8352",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 6,
+    "pageBase": "medicao-e-teste--ferramentas-de-m-eletrica-e-diagnostico--testadores-de-bateria"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "ALTRONIC",
+  "parentLabel": "Marca",
+  "description": "Produtos ALTRONIC disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "ALTRONIC"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "11112",
+      "title": "1FSN2538 FSN - MODELO-25 MM 380VCA 0S 0S",
+      "brand": "ALTRONIC",
+      "brandCode": "883",
+      "supplier": "TRON CONTROLES ELETRICOS LTDA",
+      "supplierCode": "4543",
+      "manufacturerCode": "1FSN2538",
+      "category": "CONTATORES E CONTATOS",
+      "categorySlug": "contatores-e-contatos",
+      "path": "/1fsn2538-fsn--modelo25-mm-380vca-0s-0s-11112",
+      "image": null,
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--883--altronic"
+  }
+}

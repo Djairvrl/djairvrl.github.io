@@ -1,0 +1,53 @@
+{
+  "title": "MAMUTH",
+  "parentLabel": "Marca",
+  "description": "Produtos MAMUTH disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "MAMUTH"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "1010",
+      "title": "ELASTICO FINO SUPER RESISTENTES AMARELO 100G 120UN - MAMUTH",
+      "brand": "MAMUTH",
+      "brandCode": "36",
+      "supplier": "COMERCIO DE ELASTICOS FONSECA EIRELI",
+      "supplierCode": "49",
+      "manufacturerCode": "7898094380039",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/elastico-fino-super-resistentes-amarelo-100g-120un--mamuth-1010",
+      "image": "/products/images/0010/1010.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "5609",
+      "title": "ELASTICO MERC S N18",
+      "brand": "MAMUTH",
+      "brandCode": "36",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "7896342910380",
+      "category": "PAPELARIA E MATÉRIAL DE ESCRITÓRIO",
+      "categorySlug": "papelaria-e-material-de-escritorio",
+      "path": "/elastico-merc-s-n18-5609",
+      "image": "/products/images/0056/5609.jpg",
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "m--36--mamuth"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "DWT",
+  "parentLabel": "Marca",
+  "description": "Produtos DWT disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "DWT"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "12615",
+      "title": "SOPRADOR TERMICO 200W 220V- STD 200N",
+      "brand": "DWT",
+      "brandCode": "1098",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "6005020230",
+      "category": "SOPRADORES",
+      "categorySlug": "sopradores",
+      "path": "/soprador-termico-200w-220v-std-200n-12615",
+      "image": "/products/images/0126/12615.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--1098--dwt"
+  }
+}

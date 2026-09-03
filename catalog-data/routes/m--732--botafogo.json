@@ -1,0 +1,36 @@
+{
+  "title": "BOTAFOGO",
+  "parentLabel": "Marca",
+  "description": "Produtos BOTAFOGO disponíveis no catálogo Medeiros Galvão.",
+  "breadcrumbs": [
+    {
+      "label": "BOTAFOGO"
+    }
+  ],
+  "children": [],
+  "products": [
+    {
+      "code": "9863",
+      "title": "ESCADA EXTENSIVA DE ALUMÍNIO 2 X 6 DEGRAUS 3 EM 1  BOTAFOGO REF ESC0615",
+      "brand": "BOTAFOGO",
+      "brandCode": "732",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "122",
+      "manufacturerCode": "8085000026",
+      "category": "ESCADAS",
+      "categorySlug": "escadas",
+      "path": "/escada-extensiva-de-aluminio-2-x-6-degraus-3-em-1-botafogo-ref-esc0615-9863",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 1,
+    "pageBase": "m--732--botafogo"
+  }
+}
