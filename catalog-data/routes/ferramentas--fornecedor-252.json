@@ -828,23 +828,6 @@
       "sectionSlug": "ferramentas-manuais"
     },
     {
-      "code": "3698",
-      "title": "CARRINHO DE MAO EXTRAFORT PNEU MACICO",
-      "brand": "TRAMONTINA",
-      "brandCode": "83",
-      "supplier": "TRAMONTINA MULTI S/A",
-      "supplierCode": "252",
-      "manufacturerCode": "77714/235",
-      "category": "CARRO DE MÃO, JERICA E PLATAFORMA",
-      "categorySlug": "carro-de-mao-jerica-e-plataforma",
-      "path": "/carrinho-de-mao-extrafort-pneu-macico-3698",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Construção Civil",
-      "sectionSlug": "construcao-civil"
-    },
-    {
       "code": "1459",
       "title": "COLHER DE PEDREIRO 9\" OVAL EM AÇO CARBONO TEMPERADO - TRAMONTINA REF 77358095",
       "brand": "TRAMONTINA",
@@ -1066,23 +1049,6 @@
       "sectionSlug": "ferramentas-manuais"
     },
     {
-      "code": "3659",
-      "title": "MARTELO DE UNHA 25MM MASTER BASIC COM CABO EM MADEIRA - TRAMONTINA REF.  40370025",
-      "brand": "TRAMONTINA",
-      "brandCode": "83",
-      "supplier": "TRAMONTINA MULTI S/A",
-      "supplierCode": "252",
-      "manufacturerCode": "40370/025",
-      "category": "MARTELO",
-      "categorySlug": "martelo",
-      "path": "/martelo-de-unha-25mm-master-basic-com-cabo-em-madeira--tramontina-ref-40370025-3659",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Ferramentas Manuais",
-      "sectionSlug": "ferramentas-manuais"
-    },
-    {
       "code": "3660",
       "title": "MARTELO DE UNHA 27MM MASTER BASIC COM CABO EM MADEIRA - TRAMONTINA REF.  40370027",
       "brand": "TRAMONTINA",
@@ -1200,6 +1166,40 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas de Jardinagem",
       "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "3698",
+      "title": "CARRINHO DE MAO EXTRAFORT PNEU MACICO",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "77714/235",
+      "category": "CARRO DE MÃO, JERICA E PLATAFORMA",
+      "categorySlug": "carro-de-mao-jerica-e-plataforma",
+      "path": "/carrinho-de-mao-extrafort-pneu-macico-3698",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "3659",
+      "title": "MARTELO DE UNHA 25MM MASTER BASIC COM CABO EM MADEIRA - TRAMONTINA REF.  40370025",
+      "brand": "TRAMONTINA",
+      "brandCode": "83",
+      "supplier": "TRAMONTINA MULTI S/A",
+      "supplierCode": "252",
+      "manufacturerCode": "40370/025",
+      "category": "MARTELO",
+      "categorySlug": "martelo",
+      "path": "/martelo-de-unha-25mm-master-basic-com-cabo-em-madeira--tramontina-ref-40370025-3659",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
     }
   ],
   "pagination": {

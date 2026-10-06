@@ -845,23 +845,6 @@
       "sectionSlug": "construcao-civil"
     },
     {
-      "code": "4445",
-      "title": "PE DE CABRA REDONDO - 3/4 - 1,00M",
-      "brand": "SAO ROMAO",
-      "brandCode": "24",
-      "supplier": "INDSUTRIA DE FORJADOS SAO ROMAO",
-      "supplierCode": "484",
-      "manufacturerCode": "1787",
-      "category": "PE-DE-CABRA",
-      "categorySlug": "pe-de-cabra",
-      "path": "/pe-de-cabra-redondo--34--100m-4445",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Construção Civil",
-      "sectionSlug": "construcao-civil"
-    },
-    {
       "code": "4452",
       "title": "TORQUÊS ARMADOR 12\" AÇO CARBONO - SÃO ROMÃO REF 1716",
       "brand": "SAO ROMAO",
@@ -877,6 +860,23 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas Manuais",
       "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "4445",
+      "title": "PE DE CABRA REDONDO - 3/4 - 1,00M",
+      "brand": "SAO ROMAO",
+      "brandCode": "24",
+      "supplier": "INDSUTRIA DE FORJADOS SAO ROMAO",
+      "supplierCode": "484",
+      "manufacturerCode": "1787",
+      "category": "PE-DE-CABRA",
+      "categorySlug": "pe-de-cabra",
+      "path": "/pe-de-cabra-redondo--34--100m-4445",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
     }
   ],
   "pagination": {

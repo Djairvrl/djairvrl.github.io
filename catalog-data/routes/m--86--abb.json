@@ -10,6 +10,23 @@
   "children": [],
   "products": [
     {
+      "code": "731",
+      "title": "BLOQUEIO PARA DISJUNTORES 21X9X16MM ABB - REF SA1",
+      "brand": "ABB",
+      "brandCode": "86",
+      "supplier": "APS COMPONENTES ELETRICOS SA",
+      "supplierCode": "1300",
+      "manufacturerCode": "050877",
+      "category": "BLOQUEIO DE DISJUNTORES",
+      "categorySlug": "bloqueio-de-disjuntores",
+      "path": "/bloqueio-para-disjuntores-21x9x16mm-abb--ref-sa1-731",
+      "image": "/products/images/0007/731.jpg",
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
+    },
+    {
       "code": "11676",
       "title": "A1N 125 TMF 25-400 3P F F - 1SDA066723R1",
       "brand": "ABB",
@@ -59,23 +76,6 @@
       "departmentSlug": "suprimentos-bop",
       "section": "Material Elétrico Industrial",
       "sectionSlug": "material-eletrico-industrial"
-    },
-    {
-      "code": "731",
-      "title": "BLOQUEIO PARA DISJUNTORES 21X9X16MM ABB - REF SA1",
-      "brand": "ABB",
-      "brandCode": "86",
-      "supplier": "APS COMPONENTES ELETRICOS SA",
-      "supplierCode": "1300",
-      "manufacturerCode": "050877",
-      "category": "BLOQUEIO DE DISJUNTORES",
-      "categorySlug": "bloqueio-de-disjuntores",
-      "path": "/bloqueio-para-disjuntores-21x9x16mm-abb--ref-sa1-731",
-      "image": "/products/images/0007/731.jpg",
-      "department": "Bloqueio e Etiquetagem",
-      "departmentSlug": "bloqueio-e-etiquetagem",
-      "section": "Bloqueios Elétricos",
-      "sectionSlug": "bloqueios-eletricos"
     },
     {
       "code": "9795",

@@ -27,6 +27,23 @@
       "sectionSlug": "vestimentas-profissionais"
     },
     {
+      "code": "1572",
+      "title": "LUVA DE RASPA PUNHO 7CM CA16074",
+      "brand": "ZANEL",
+      "brandCode": "62",
+      "supplier": "ZANEL INDUSTRIAL EIRELI",
+      "supplierCode": "124",
+      "manufacturerCode": "RR26SR",
+      "category": "RASPA",
+      "categorySlug": "raspa",
+      "path": "/luva-de-raspa-punho-7cm-ca16074-1572",
+      "image": "/products/images/0015/1572.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
+    },
+    {
       "code": "9044",
       "title": "BLUSAO RASPA NAT VELCRO TAM G CA13991",
       "brand": "ZANEL",
@@ -76,23 +93,6 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Vestimentas Profissionais",
       "sectionSlug": "vestimentas-profissionais"
-    },
-    {
-      "code": "1572",
-      "title": "LUVA DE RASPA PUNHO 7CM CA16074",
-      "brand": "ZANEL",
-      "brandCode": "62",
-      "supplier": "ZANEL INDUSTRIAL EIRELI",
-      "supplierCode": "124",
-      "manufacturerCode": "RR26SR",
-      "category": "RASPA",
-      "categorySlug": "raspa",
-      "path": "/luva-de-raspa-punho-7cm-ca16074-1572",
-      "image": "/products/images/0015/1572.jpg",
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Luvas e Mangotes",
-      "sectionSlug": "luvas-e-mangotes"
     },
     {
       "code": "1052",

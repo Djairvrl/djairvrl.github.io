@@ -44,6 +44,23 @@
       "sectionSlug": "geradores"
     },
     {
+      "code": "12388",
+      "title": "TALHA ELETRICA 6 A 12METROS 1200KG 1900W",
+      "brand": "NAGANO",
+      "brandCode": "403",
+      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
+      "supplierCode": "1488",
+      "manufacturerCode": "102067964",
+      "category": "TALHAS",
+      "categorySlug": "talhas",
+      "path": "/talha-eletrica-6-a-12metros-1200kg-1900w-12388",
+      "image": "/products/images/0123/12388.png",
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
       "code": "7008",
       "title": "GERADOR TRIFAS 8KRA 220/380V NAGANO",
       "brand": "NAGANO",
@@ -76,23 +93,6 @@
       "departmentSlug": "suprimentos-corporativos",
       "section": "Suprimentos Indiretos",
       "sectionSlug": "suprimentos-indiretos"
-    },
-    {
-      "code": "12388",
-      "title": "TALHA ELETRICA 6 A 12METROS 1200KG 1900W",
-      "brand": "NAGANO",
-      "brandCode": "403",
-      "supplier": "NTS DO BRASIL COMERCIO DE MAQUINAS E FERRAMENTAS LTDA",
-      "supplierCode": "1488",
-      "manufacturerCode": "102067964",
-      "category": "TALHAS",
-      "categorySlug": "talhas",
-      "path": "/talha-eletrica-6-a-12metros-1200kg-1900w-12388",
-      "image": "/products/images/0123/12388.png",
-      "department": "Amarração e Elevação",
-      "departmentSlug": "amarracao-e-elevacao",
-      "section": "Elevação de Carga",
-      "sectionSlug": "elevacao-de-carga"
     }
   ],
   "pagination": {

@@ -410,23 +410,6 @@
   },
   "products": [
     {
-      "code": "8749",
-      "title": "CHALEIRA ELETRICA BCH02PI 1,8L 220V BRIT",
-      "brand": "DIVERSOS",
-      "brandCode": "1",
-      "supplier": "PROSPERITY COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
-      "supplierCode": "2207",
-      "manufacturerCode": "CHABRI002",
-      "category": "ELETRODOMÉSTICOS",
-      "categorySlug": "eletrodomesticos",
-      "path": "/chaleira-eletrica-bch02pi-18l-220v-brit-8749",
-      "image": null,
-      "department": "Suprimentos Corporativos",
-      "departmentSlug": "suprimentos-corporativos",
-      "section": "Suprimentos Indiretos",
-      "sectionSlug": "suprimentos-indiretos"
-    },
-    {
       "code": "12963",
       "title": "SUPORTE DE PAREDE P/ MONITOR/ TV",
       "brand": "AQUARIO",
@@ -442,6 +425,23 @@
       "departmentSlug": "suprimentos-corporativos",
       "section": "Informática e Telecomunicação",
       "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "8749",
+      "title": "CHALEIRA ELETRICA BCH02PI 1,8L 220V BRIT",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "PROSPERITY COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
+      "supplierCode": "2207",
+      "manufacturerCode": "CHABRI002",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/chaleira-eletrica-bch02pi-18l-220v-brit-8749",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
     }
   ],
   "pagination": {

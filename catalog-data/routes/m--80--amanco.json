@@ -10,6 +10,40 @@
   "children": [],
   "products": [
     {
+      "code": "12370",
+      "title": "CURVA 90° P/ELETR. SOLDAVEL 20MM AMANCO",
+      "brand": "AMANCO",
+      "brandCode": "80",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "1377",
+      "manufacturerCode": "876",
+      "category": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
+      "categorySlug": "eletrodutos-conduites-e-acessorios",
+      "path": "/curva-90-peletr-soldavel-20mm-amanco-12370",
+      "image": "/products/images/0123/12370.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "13371",
+      "title": "FITA VEDA ROSCA 18MMX50 AMANCO",
+      "brand": "AMANCO",
+      "brandCode": "80",
+      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "supplierCode": "631",
+      "manufacturerCode": "21478",
+      "category": "VEDA CALHA",
+      "categorySlug": "veda-calha",
+      "path": "/fita-veda-rosca-18mmx50-amanco-13371",
+      "image": "/products/images/0133/13371.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
       "code": "736",
       "title": "ANEL BORRACHA 7MM INICIO 13/16MM AMANCO",
       "brand": "AMANCO",
@@ -44,23 +78,6 @@
       "sectionSlug": "materias-eletricos"
     },
     {
-      "code": "12370",
-      "title": "CURVA 90° P/ELETR. SOLDAVEL 20MM AMANCO",
-      "brand": "AMANCO",
-      "brandCode": "80",
-      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
-      "supplierCode": "1377",
-      "manufacturerCode": "876",
-      "category": "ELETRODUTOS, CONDUÍTES E ACESSÓRIOS",
-      "categorySlug": "eletrodutos-conduites-e-acessorios",
-      "path": "/curva-90-peletr-soldavel-20mm-amanco-12370",
-      "image": "/products/images/0123/12370.png",
-      "department": "Acessórios e Consumíveis",
-      "departmentSlug": "acessorios-e-consumiveis",
-      "section": "Materias Elétricos",
-      "sectionSlug": "materias-eletricos"
-    },
-    {
       "code": "11040",
       "title": "ELETRODUTO ROSCA PVC 1",
       "brand": "AMANCO",
@@ -76,23 +93,6 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Materias Elétricos",
       "sectionSlug": "materias-eletricos"
-    },
-    {
-      "code": "13371",
-      "title": "FITA VEDA ROSCA 18MMX50 AMANCO",
-      "brand": "AMANCO",
-      "brandCode": "80",
-      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
-      "supplierCode": "631",
-      "manufacturerCode": "21478",
-      "category": "VEDA CALHA",
-      "categorySlug": "veda-calha",
-      "path": "/fita-veda-rosca-18mmx50-amanco-13371",
-      "image": "/products/images/0133/13371.png",
-      "department": "Acessórios e Consumíveis",
-      "departmentSlug": "acessorios-e-consumiveis",
-      "section": "Pintura e Químicos",
-      "sectionSlug": "pintura-e-quimicos"
     },
     {
       "code": "1638",

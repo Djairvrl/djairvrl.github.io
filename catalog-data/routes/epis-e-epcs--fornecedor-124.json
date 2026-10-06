@@ -1081,23 +1081,6 @@
   },
   "products": [
     {
-      "code": "741",
-      "title": "AVENTAL DE RASPA SEM EMENDA CA19224",
-      "brand": "MPS LUVAS",
-      "brandCode": "10",
-      "supplier": "ZANEL INDUSTRIAL EIRELI",
-      "supplierCode": "124",
-      "manufacturerCode": "67",
-      "category": "AVENTAIS",
-      "categorySlug": "aventais",
-      "path": "/avental-de-raspa-sem-emenda-ca19224-741",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Vestimentas Profissionais",
-      "sectionSlug": "vestimentas-profissionais"
-    },
-    {
       "code": "13388",
       "title": "AVENTAL RASPA TIPO BARBEIRO ZANEL",
       "brand": "ZANEL",
@@ -1130,6 +1113,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Luvas e Mangotes",
       "sectionSlug": "luvas-e-mangotes"
+    },
+    {
+      "code": "741",
+      "title": "AVENTAL DE RASPA SEM EMENDA CA19224",
+      "brand": "MPS LUVAS",
+      "brandCode": "10",
+      "supplier": "ZANEL INDUSTRIAL EIRELI",
+      "supplierCode": "124",
+      "manufacturerCode": "67",
+      "category": "AVENTAIS",
+      "categorySlug": "aventais",
+      "path": "/avental-de-raspa-sem-emenda-ca19224-741",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
     },
     {
       "code": "1052",

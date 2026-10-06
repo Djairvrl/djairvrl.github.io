@@ -1081,23 +1081,6 @@
   },
   "products": [
     {
-      "code": "10657",
-      "title": "COLETE REF S/BOLSO LARANJA CV103",
-      "brand": "VONDER",
-      "brandCode": "47",
-      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
-      "supplierCode": "3090",
-      "manufacturerCode": "70.29.103.000",
-      "category": "COLETES DE SINALIZAÇÃO",
-      "categorySlug": "coletes-de-sinalizacao",
-      "path": "/colete-ref-sbolso-laranja-cv103-10657",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Vestimentas Profissionais",
-      "sectionSlug": "vestimentas-profissionais"
-    },
-    {
       "code": "12911",
       "title": "CONE PRETO E AMARELO - 75CM - PLT",
       "brand": "VONDER",
@@ -1200,23 +1183,6 @@
       "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
     },
     {
-      "code": "11273",
-      "title": "FITA REFLETIVA 50MM X 3M VERMELHA/BRANCA",
-      "brand": "VONDER",
-      "brandCode": "47",
-      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
-      "supplierCode": "3090",
-      "manufacturerCode": "1052500372",
-      "category": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
-      "categorySlug": "fitas-e-cordas-de-demarcacao-sinalizacao",
-      "path": "/fita-refletiva-50mm-x-3m-vermelhabranca-11273",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Equipamentos de Proteção Coletiva — EPC",
-      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
-    },
-    {
       "code": "12950",
       "title": "REFLETOR RECAR LED SMD 10W RRV010 VONDER",
       "brand": "VONDER",
@@ -1232,6 +1198,40 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Lanternas de Segurança",
       "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "10657",
+      "title": "COLETE REF S/BOLSO LARANJA CV103",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "70.29.103.000",
+      "category": "COLETES DE SINALIZAÇÃO",
+      "categorySlug": "coletes-de-sinalizacao",
+      "path": "/colete-ref-sbolso-laranja-cv103-10657",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "11273",
+      "title": "FITA REFLETIVA 50MM X 3M VERMELHA/BRANCA",
+      "brand": "VONDER",
+      "brandCode": "47",
+      "supplier": "O. V. D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "3090",
+      "manufacturerCode": "1052500372",
+      "category": "FITAS E CORDAS DE DEMARCAÇÃO/SINALIZAÇÃO",
+      "categorySlug": "fitas-e-cordas-de-demarcacao-sinalizacao",
+      "path": "/fita-refletiva-50mm-x-3m-vermelhabranca-11273",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
     }
   ],
   "pagination": {

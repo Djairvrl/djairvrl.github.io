@@ -1081,6 +1081,23 @@
   },
   "products": [
     {
+      "code": "5746",
+      "title": "CAVALETE EM MAD COM PLACA EM PVC",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
+      "supplierCode": "935",
+      "manufacturerCode": "0043",
+      "category": "BARREIRAS E CAVALETES",
+      "categorySlug": "barreiras-e-cavaletes",
+      "path": "/cavalete-em-mad-com-placa-em-pvc-5746",
+      "image": "/products/images/0057/5746.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Equipamentos de Proteção Coletiva — EPC",
+      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
+    },
+    {
       "code": "4896",
       "title": "CAMISA",
       "brand": "DIVERSOS",
@@ -1130,23 +1147,6 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Vestimentas Profissionais",
       "sectionSlug": "vestimentas-profissionais"
-    },
-    {
-      "code": "5746",
-      "title": "CAVALETE EM MAD COM PLACA EM PVC",
-      "brand": "DIVERSOS",
-      "brandCode": "1",
-      "supplier": "JACQUELINE DOMINGOS DE SOUSA 00925058483",
-      "supplierCode": "935",
-      "manufacturerCode": "0043",
-      "category": "BARREIRAS E CAVALETES",
-      "categorySlug": "barreiras-e-cavaletes",
-      "path": "/cavalete-em-mad-com-placa-em-pvc-5746",
-      "image": "/products/images/0057/5746.jpg",
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Equipamentos de Proteção Coletiva — EPC",
-      "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
     },
     {
       "code": "7671",

@@ -1098,23 +1098,6 @@
       "sectionSlug": "capacetes"
     },
     {
-      "code": "4902",
-      "title": "CINTA DE ANCORAGEM CONF. EM FITAS C/ DUA",
-      "brand": "STEELFLEX",
-      "brandCode": "114",
-      "supplier": "BSB PRODUTORA DE EQUIP DE PROT INDIVID",
-      "supplierCode": "436",
-      "manufacturerCode": "732727",
-      "category": "CINTAS E ACESSÓRIOS",
-      "categorySlug": "cintas-e-acessorios",
-      "path": "/cinta-de-ancoragem-conf-em-fitas-c-dua-4902",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Trabalho em Altura",
-      "sectionSlug": "trabalho-em-altura"
-    },
-    {
       "code": "1456",
       "title": "COLETE REFLETIVO TAM(G) 1 BOLSO AMARELO FLUORESCENTE - STEELFELX REF STF VACL91010",
       "brand": "STEELFLEX",
@@ -1166,23 +1149,6 @@
       "sectionSlug": "protecao-facial"
     },
     {
-      "code": "4903",
-      "title": "TALABARTE DE POSICIONAMETO STF-CQCA0148",
-      "brand": "STEELFLEX",
-      "brandCode": "114",
-      "supplier": "BSB PRODUTORA DE EQUIP DE PROT INDIVID",
-      "supplierCode": "436",
-      "manufacturerCode": "SCA0001",
-      "category": "TALABARTES",
-      "categorySlug": "talabartes",
-      "path": "/talabarte-de-posicionameto-stfcqca0148-4903",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Trabalho em Altura",
-      "sectionSlug": "trabalho-em-altura"
-    },
-    {
       "code": "2061",
       "title": "TRAVA-QUEDAS STF CQTQ0468 PARA CABO DE AÇO 8MM COM MOSQUETÃO -  STEELFLEX",
       "brand": "STEELFLEX",
@@ -1232,6 +1198,40 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Óculos de Proteção",
       "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "4902",
+      "title": "CINTA DE ANCORAGEM CONF. EM FITAS C/ DUA",
+      "brand": "STEELFLEX",
+      "brandCode": "114",
+      "supplier": "BSB PRODUTORA DE EQUIP DE PROT INDIVID",
+      "supplierCode": "436",
+      "manufacturerCode": "732727",
+      "category": "CINTAS E ACESSÓRIOS",
+      "categorySlug": "cintas-e-acessorios",
+      "path": "/cinta-de-ancoragem-conf-em-fitas-c-dua-4902",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "4903",
+      "title": "TALABARTE DE POSICIONAMETO STF-CQCA0148",
+      "brand": "STEELFLEX",
+      "brandCode": "114",
+      "supplier": "BSB PRODUTORA DE EQUIP DE PROT INDIVID",
+      "supplierCode": "436",
+      "manufacturerCode": "SCA0001",
+      "category": "TALABARTES",
+      "categorySlug": "talabartes",
+      "path": "/talabarte-de-posicionameto-stfcqca0148-4903",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Trabalho em Altura",
+      "sectionSlug": "trabalho-em-altura"
     }
   ],
   "pagination": {

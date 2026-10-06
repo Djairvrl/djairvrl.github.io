@@ -811,23 +811,6 @@
   },
   "products": [
     {
-      "code": "10356",
-      "title": "BETONEIRA 400L RENTAL 2CV MONO 220V",
-      "brand": "CSM",
-      "brandCode": "769",
-      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
-      "supplierCode": "493",
-      "manufacturerCode": "000000000092252482",
-      "category": "BETONEIRAS",
-      "categorySlug": "betoneiras",
-      "path": "/betoneira-400l-rental-2cv-mono-220v-10356",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Construção Civil",
-      "sectionSlug": "construcao-civil"
-    },
-    {
       "code": "12456",
       "title": "KIT DE FERRAMENTAS ACO C/MALETA 111PCS",
       "brand": "DEXTER",
@@ -843,6 +826,23 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas Manuais",
       "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "10356",
+      "title": "BETONEIRA 400L RENTAL 2CV MONO 220V",
+      "brand": "CSM",
+      "brandCode": "769",
+      "supplier": "LEROY MERLIN COMP. BRASIL. DE BRICOLAGEM",
+      "supplierCode": "493",
+      "manufacturerCode": "000000000092252482",
+      "category": "BETONEIRAS",
+      "categorySlug": "betoneiras",
+      "path": "/betoneira-400l-rental-2cv-mono-220v-10356",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
     }
   ],
   "pagination": {

@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "6817",
-      "title": "BATERIA RECARREGÁVEL NB-10L 7.4V 920MAH PARA CANON - MEMORYTEC",
-      "brand": "MEMORYTEC",
-      "brandCode": "616",
-      "supplier": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
-      "supplierCode": "1234",
-      "manufacturerCode": "1679",
-      "category": "CÂMERAS",
-      "categorySlug": "cameras",
-      "path": "/bateria-recarregavel-nb10l-74v-920mah-para-canon--memorytec-6817",
-      "image": null,
-      "department": "Suprimentos Corporativos",
-      "departmentSlug": "suprimentos-corporativos",
-      "section": "Informática e Telecomunicação",
-      "sectionSlug": "informatica-e-telecomunicacao"
-    },
-    {
       "code": "7144",
       "title": "CARREGADOR DE BATERIA NB-10L PARA CANON G1X, SX40, SX40HS - MEMORYTEC",
       "brand": "MEMORYTEC",
@@ -42,6 +25,23 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas Elétricas",
       "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "6817",
+      "title": "BATERIA RECARREGÁVEL NB-10L 7.4V 920MAH PARA CANON - MEMORYTEC",
+      "brand": "MEMORYTEC",
+      "brandCode": "616",
+      "supplier": "MEMORYTEC COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+      "supplierCode": "1234",
+      "manufacturerCode": "1679",
+      "category": "CÂMERAS",
+      "categorySlug": "cameras",
+      "path": "/bateria-recarregavel-nb10l-74v-920mah-para-canon--memorytec-6817",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
     }
   ],
   "pagination": {

@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "10697",
-      "title": "EMPILHADEIRA ELETRICA 1500KG 3M 12V/120A",
-      "brand": "BOVENAU",
-      "brandCode": "800",
-      "supplier": "METAL TECNICA BOVENAU LTDA",
-      "supplierCode": "1177",
-      "manufacturerCode": "EHM1530SE",
-      "category": "PALETEIRAS ELÉTRICAS",
-      "categorySlug": "paleteiras-eletricas",
-      "path": "/empilhadeira-eletrica-1500kg-3m-12v120a-10697",
-      "image": null,
-      "department": "Organização e Armazenamento",
-      "departmentSlug": "organizacao-e-armazenamento",
-      "section": "Armazenamento",
-      "sectionSlug": "armazenamento"
-    },
-    {
       "code": "11961",
       "title": "GUINCHO HIDRÁULICO, 0,5 TONELADA(0,5 TF)",
       "brand": "BOVENAU",
@@ -42,6 +25,23 @@
       "departmentSlug": "amarracao-e-elevacao",
       "section": "Elevação de Carga",
       "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "10697",
+      "title": "EMPILHADEIRA ELETRICA 1500KG 3M 12V/120A",
+      "brand": "BOVENAU",
+      "brandCode": "800",
+      "supplier": "METAL TECNICA BOVENAU LTDA",
+      "supplierCode": "1177",
+      "manufacturerCode": "EHM1530SE",
+      "category": "PALETEIRAS ELÉTRICAS",
+      "categorySlug": "paleteiras-eletricas",
+      "path": "/empilhadeira-eletrica-1500kg-3m-12v120a-10697",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
     }
   ],
   "pagination": {

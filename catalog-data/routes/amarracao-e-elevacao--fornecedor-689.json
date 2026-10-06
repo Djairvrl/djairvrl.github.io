@@ -193,23 +193,6 @@
       "sectionSlug": "amarracao"
     },
     {
-      "code": "9358",
-      "title": "FITA PET 13 MM - 10 KG - FT02",
-      "brand": "MOSKA",
-      "brandCode": "671",
-      "supplier": "MOSCKA SOLUÇÕES EM EMBALAGENS INDUSTRIAIS LTDA",
-      "supplierCode": "689",
-      "manufacturerCode": "059",
-      "category": "FITAS",
-      "categorySlug": "fitas",
-      "path": "/fita-pet-13-mm--10-kg--ft02-9358",
-      "image": null,
-      "department": "Amarração e Elevação",
-      "departmentSlug": "amarracao-e-elevacao",
-      "section": "Amarração",
-      "sectionSlug": "amarracao"
-    },
-    {
       "code": "5923",
       "title": "SELADOR PET 13MM",
       "brand": "MOSKA",
@@ -225,6 +208,23 @@
       "departmentSlug": "amarracao-e-elevacao",
       "section": "Elevação de Carga",
       "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "9358",
+      "title": "FITA PET 13 MM - 10 KG - FT02",
+      "brand": "MOSKA",
+      "brandCode": "671",
+      "supplier": "MOSCKA SOLUÇÕES EM EMBALAGENS INDUSTRIAIS LTDA",
+      "supplierCode": "689",
+      "manufacturerCode": "059",
+      "category": "FITAS",
+      "categorySlug": "fitas",
+      "path": "/fita-pet-13-mm--10-kg--ft02-9358",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Amarração",
+      "sectionSlug": "amarracao"
     }
   ],
   "pagination": {

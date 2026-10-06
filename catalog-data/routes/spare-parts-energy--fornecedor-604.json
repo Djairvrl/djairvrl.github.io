@@ -209,6 +209,40 @@
   },
   "products": [
     {
+      "code": "9585",
+      "title": "FILTRO HYDAC REF 2.300 D 03 BN4",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA",
+      "supplierCode": "604",
+      "manufacturerCode": "1269153BR",
+      "category": "FILTROS HIDRÁULICOS",
+      "categorySlug": "filtros-hidraulicos",
+      "path": "/filtro-hydac-ref-2300-d-03-bn4-9585",
+      "image": "/products/images/0095/9585.jpg",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Consumíveis",
+      "sectionSlug": "consumiveis"
+    },
+    {
+      "code": "11594",
+      "title": "PRESSOSTATO ELET EDS 3346-3-0010-000-F1",
+      "brand": "HYDAC",
+      "brandCode": "140",
+      "supplier": "HYDAC TECNOLOGIA LTDA",
+      "supplierCode": "604",
+      "manufacturerCode": "908561",
+      "category": "PRESSOSTATO",
+      "categorySlug": "pressostato",
+      "path": "/pressostato-elet-eds-334630010000f1-11594",
+      "image": "/products/images/0115/11594.png",
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Elétricos",
+      "sectionSlug": "componentes-eletricos"
+    },
+    {
       "code": "13077",
       "title": "ELEMENTO DE AR BDE 400 X 2 W 0.0",
       "brand": "HYDAC",
@@ -294,23 +328,6 @@
       "sectionSlug": "consumiveis"
     },
     {
-      "code": "9585",
-      "title": "FILTRO HYDAC REF 2.300 D 03 BN4",
-      "brand": "HYDAC",
-      "brandCode": "140",
-      "supplier": "HYDAC TECNOLOGIA LTDA",
-      "supplierCode": "604",
-      "manufacturerCode": "1269153BR",
-      "category": "FILTROS HIDRÁULICOS",
-      "categorySlug": "filtros-hidraulicos",
-      "path": "/filtro-hydac-ref-2300-d-03-bn4-9585",
-      "image": "/products/images/0095/9585.jpg",
-      "department": "Spare Parts Energy",
-      "departmentSlug": "spare-parts-energy",
-      "section": "Consumíveis",
-      "sectionSlug": "consumiveis"
-    },
-    {
       "code": "10068",
       "title": "GEARBOX LUBE FILTER 2600 R 010 BN4HC /-B",
       "brand": "HYDAC",
@@ -377,23 +394,6 @@
       "departmentSlug": "spare-parts-energy",
       "section": "Componentes Hidráulicos e Refrigeração",
       "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
-    },
-    {
-      "code": "11594",
-      "title": "PRESSOSTATO ELET EDS 3346-3-0010-000-F1",
-      "brand": "HYDAC",
-      "brandCode": "140",
-      "supplier": "HYDAC TECNOLOGIA LTDA",
-      "supplierCode": "604",
-      "manufacturerCode": "908561",
-      "category": "PRESSOSTATO",
-      "categorySlug": "pressostato",
-      "path": "/pressostato-elet-eds-334630010000f1-11594",
-      "image": "/products/images/0115/11594.png",
-      "department": "Spare Parts Energy",
-      "departmentSlug": "spare-parts-energy",
-      "section": "Componentes Elétricos",
-      "sectionSlug": "componentes-eletricos"
     }
   ],
   "pagination": {

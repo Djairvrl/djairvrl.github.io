@@ -61,23 +61,6 @@
       "sectionSlug": "suprimentos-indiretos"
     },
     {
-      "code": "11534",
-      "title": "ARMARIO PORTA CHAVES 20 CHAVES BEGE",
-      "brand": "NILKO",
-      "brandCode": "227",
-      "supplier": "NILKO TECNOLOGIA LTDA",
-      "supplierCode": "965",
-      "manufacturerCode": "083020000100",
-      "category": "ARMÁRIOS",
-      "categorySlug": "armarios",
-      "path": "/armario-porta-chaves-20-chaves-bege-11534",
-      "image": null,
-      "department": "Organização e Armazenamento",
-      "departmentSlug": "organizacao-e-armazenamento",
-      "section": "Armazenamento",
-      "sectionSlug": "armazenamento"
-    },
-    {
       "code": "13204",
       "title": "ARMARIO PROFESSOR",
       "brand": "NILKO",
@@ -93,6 +76,23 @@
       "departmentSlug": "suprimentos-corporativos",
       "section": "Suprimentos Indiretos",
       "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "11534",
+      "title": "ARMARIO PORTA CHAVES 20 CHAVES BEGE",
+      "brand": "NILKO",
+      "brandCode": "227",
+      "supplier": "NILKO TECNOLOGIA LTDA",
+      "supplierCode": "965",
+      "manufacturerCode": "083020000100",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-porta-chaves-20-chaves-bege-11534",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
     },
     {
       "code": "9985",

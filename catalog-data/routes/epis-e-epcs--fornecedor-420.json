@@ -1285,23 +1285,6 @@
       "sectionSlug": "equipamentos-de-protecao-coletiva-epc"
     },
     {
-      "code": "9037",
-      "title": "PROTETOR AUDITIVO COM CORDAO 1,3X1 CM",
-      "brand": "3M",
-      "brandCode": "2",
-      "supplier": "3M DO BRASIL LTDA",
-      "supplierCode": "420",
-      "manufacturerCode": "H0002053355",
-      "category": "TIPO PLUG",
-      "categorySlug": "tipo-plug",
-      "path": "/protetor-auditivo-com-cordao-13x1-cm-9037",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Proteção Auditiva",
-      "sectionSlug": "protecao-auditiva"
-    },
-    {
       "code": "800",
       "title": "PROTETOR AURICULAR POMP PLUS - CORDÃO DE POLIÉSTER CA5745 3M  REF HB004680573",
       "brand": "3M",
@@ -1436,6 +1419,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Capacetes",
       "sectionSlug": "capacetes"
+    },
+    {
+      "code": "9037",
+      "title": "PROTETOR AUDITIVO COM CORDAO 1,3X1 CM",
+      "brand": "3M",
+      "brandCode": "2",
+      "supplier": "3M DO BRASIL LTDA",
+      "supplierCode": "420",
+      "manufacturerCode": "H0002053355",
+      "category": "TIPO PLUG",
+      "categorySlug": "tipo-plug",
+      "path": "/protetor-auditivo-com-cordao-13x1-cm-9037",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Auditiva",
+      "sectionSlug": "protecao-auditiva"
     }
   ],
   "pagination": {

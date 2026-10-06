@@ -634,6 +634,23 @@
   },
   "products": [
     {
+      "code": "13371",
+      "title": "FITA VEDA ROSCA 18MMX50 AMANCO",
+      "brand": "AMANCO",
+      "brandCode": "80",
+      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
+      "supplierCode": "631",
+      "manufacturerCode": "21478",
+      "category": "VEDA CALHA",
+      "categorySlug": "veda-calha",
+      "path": "/fita-veda-rosca-18mmx50-amanco-13371",
+      "image": "/products/images/0133/13371.png",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
+    },
+    {
       "code": "13026",
       "title": "ABRAC INCOLOR 300X7,6MM- 100 PCS",
       "brand": "FRONTEC",
@@ -717,23 +734,6 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Materias Elétricos",
       "sectionSlug": "materias-eletricos"
-    },
-    {
-      "code": "13371",
-      "title": "FITA VEDA ROSCA 18MMX50 AMANCO",
-      "brand": "AMANCO",
-      "brandCode": "80",
-      "supplier": "LAMPADINHA MATERIAS ELETRICOS LTDA LJ",
-      "supplierCode": "631",
-      "manufacturerCode": "21478",
-      "category": "VEDA CALHA",
-      "categorySlug": "veda-calha",
-      "path": "/fita-veda-rosca-18mmx50-amanco-13371",
-      "image": "/products/images/0133/13371.png",
-      "department": "Acessórios e Consumíveis",
-      "departmentSlug": "acessorios-e-consumiveis",
-      "section": "Pintura e Químicos",
-      "sectionSlug": "pintura-e-quimicos"
     },
     {
       "code": "11039",

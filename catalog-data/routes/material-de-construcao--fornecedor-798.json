@@ -168,23 +168,6 @@
   },
   "products": [
     {
-      "code": "9500",
-      "title": "ABRACADEIRA U 2\" EM ALUMINIO 16MM",
-      "brand": "DIVERSOS",
-      "brandCode": "1",
-      "supplier": "AJS E SILVA LTDA",
-      "supplierCode": "798",
-      "manufacturerCode": "1319",
-      "category": "DIVERSAS",
-      "categorySlug": "diversas",
-      "path": "/abracadeira-u-2-em-aluminio-16mm-9500",
-      "image": null,
-      "department": "Material de Construção",
-      "departmentSlug": "material-de-construcao",
-      "section": "Ferragens",
-      "sectionSlug": "ferragens"
-    },
-    {
       "code": "7677",
       "title": "MANGUEIRA 3/8X2 0 CRISTAL",
       "brand": "DIVERSOS",
@@ -217,6 +200,23 @@
       "departmentSlug": "material-de-construcao",
       "section": "Hidraulico",
       "sectionSlug": "hidraulico"
+    },
+    {
+      "code": "9500",
+      "title": "ABRACADEIRA U 2\" EM ALUMINIO 16MM",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1319",
+      "category": "DIVERSAS",
+      "categorySlug": "diversas",
+      "path": "/abracadeira-u-2-em-aluminio-16mm-9500",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
     },
     {
       "code": "8040",

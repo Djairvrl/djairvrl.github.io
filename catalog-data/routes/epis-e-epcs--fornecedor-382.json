@@ -1591,23 +1591,6 @@
       "sectionSlug": "luvas-e-mangotes"
     },
     {
-      "code": "8074",
-      "title": "LUVA LATEX MUTIUSO SLIM CA 45628 T - 9",
-      "brand": "VOLK DO BRASIL",
-      "brandCode": "120",
-      "supplier": "VCH - IMPORT EXPORT E DISTRIB DE PRODUTO",
-      "supplierCode": "382",
-      "manufacturerCode": "105304401-G-1",
-      "category": "LÁTEX",
-      "categorySlug": "latex",
-      "path": "/luva-latex-mutiuso-slim-ca-45628-t--9-8074",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Luvas e Mangotes",
-      "sectionSlug": "luvas-e-mangotes"
-    },
-    {
       "code": "7257",
       "title": "LUVA NITRÍLICA DESCARTÁVEL SENSI SOFT AZUL TAM 8(M) - VOLK DO BRASIL 106004302",
       "brand": "VOLK DO BRASIL",
@@ -1776,6 +1759,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Óculos de Proteção",
       "sectionSlug": "oculos-de-protecao"
+    },
+    {
+      "code": "8074",
+      "title": "LUVA LATEX MUTIUSO SLIM CA 45628 T - 9",
+      "brand": "VOLK DO BRASIL",
+      "brandCode": "120",
+      "supplier": "VCH - IMPORT EXPORT E DISTRIB DE PRODUTO",
+      "supplierCode": "382",
+      "manufacturerCode": "105304401-G-1",
+      "category": "LÁTEX",
+      "categorySlug": "latex",
+      "path": "/luva-latex-mutiuso-slim-ca-45628-t--9-8074",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
     }
   ],
   "pagination": {

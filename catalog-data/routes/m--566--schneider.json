@@ -10,6 +10,23 @@
   "children": [],
   "products": [
     {
+      "code": "12695",
+      "title": "SCHNEIDER BC 98 1/3 MONO 220V",
+      "brand": "SCHNEIDER",
+      "brandCode": "566",
+      "supplier": "COMERCIAL DE BOMBAS E MOTORES LTDA",
+      "supplierCode": "5871",
+      "manufacturerCode": "3851",
+      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
+      "categorySlug": "bombas-de-agua-e-motobombas",
+      "path": "/schneider-bc-98-13-mono-220v-12695",
+      "image": "/products/images/0126/12695.png",
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Motores",
+      "sectionSlug": "motores"
+    },
+    {
       "code": "9797",
       "title": "1 INTERRUPTOR PARALELO COM 1 TOMADA",
       "brand": "SCHNEIDER",
@@ -195,23 +212,6 @@
       "departmentSlug": "suprimentos-bop",
       "section": "Material Elétrico Industrial",
       "sectionSlug": "material-eletrico-industrial"
-    },
-    {
-      "code": "12695",
-      "title": "SCHNEIDER BC 98 1/3 MONO 220V",
-      "brand": "SCHNEIDER",
-      "brandCode": "566",
-      "supplier": "COMERCIAL DE BOMBAS E MOTORES LTDA",
-      "supplierCode": "5871",
-      "manufacturerCode": "3851",
-      "category": "BOMBAS DE ÁGUA E MOTOBOMBAS",
-      "categorySlug": "bombas-de-agua-e-motobombas",
-      "path": "/schneider-bc-98-13-mono-220v-12695",
-      "image": "/products/images/0126/12695.png",
-      "department": "Máquinas e Acessórios",
-      "departmentSlug": "maquinas-e-acessorios",
-      "section": "Motores",
-      "sectionSlug": "motores"
     }
   ],
   "pagination": {

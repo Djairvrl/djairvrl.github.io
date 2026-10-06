@@ -10,6 +10,40 @@
   "children": [],
   "products": [
     {
+      "code": "6940",
+      "title": "LÂMPADA LED TUBULAR T8-18W  6500K BIVOLT -  AVANT",
+      "brand": "AVANTI",
+      "brandCode": "117",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "55674",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/lampada-led-tubular-t818w-6500k-bivolt--avant-6940",
+      "image": "/products/images/0069/6940.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "7526",
+      "title": "REFLETOR LED SLIM 50W 6500K PRETO BIVOLT - AVANT",
+      "brand": "AVANTI",
+      "brandCode": "117",
+      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
+      "supplierCode": "894",
+      "manufacturerCode": "56654",
+      "category": "LÂMPADAS E LUMINÁRIAS",
+      "categorySlug": "lampadas-e-luminarias",
+      "path": "/refletor-led-slim-50w-6500k-preto-bivolt--avant-7526",
+      "image": "/products/images/0075/7526.jpg",
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Materias Elétricos",
+      "sectionSlug": "materias-eletricos"
+    },
+    {
       "code": "10974",
       "title": "CINTURAO G/XG AVANTI TAMARIN HARNESS",
       "brand": "AVANTI",
@@ -44,23 +78,6 @@
       "sectionSlug": "materias-eletricos"
     },
     {
-      "code": "6940",
-      "title": "LÂMPADA LED TUBULAR T8-18W  6500K BIVOLT -  AVANT",
-      "brand": "AVANTI",
-      "brandCode": "117",
-      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
-      "supplierCode": "894",
-      "manufacturerCode": "55674",
-      "category": "LÂMPADAS E LUMINÁRIAS",
-      "categorySlug": "lampadas-e-luminarias",
-      "path": "/lampada-led-tubular-t818w-6500k-bivolt--avant-6940",
-      "image": "/products/images/0069/6940.jpg",
-      "department": "Acessórios e Consumíveis",
-      "departmentSlug": "acessorios-e-consumiveis",
-      "section": "Materias Elétricos",
-      "sectionSlug": "materias-eletricos"
-    },
-    {
       "code": "10973",
       "title": "POSICIONADOR (WORK POSITIONER)",
       "brand": "AVANTI",
@@ -76,23 +93,6 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Trabalho em Altura",
       "sectionSlug": "trabalho-em-altura"
-    },
-    {
-      "code": "7526",
-      "title": "REFLETOR LED SLIM 50W 6500K PRETO BIVOLT - AVANT",
-      "brand": "AVANTI",
-      "brandCode": "117",
-      "supplier": "LAMPADINHA MATERIAIS ELETRICOS LTDA",
-      "supplierCode": "894",
-      "manufacturerCode": "56654",
-      "category": "LÂMPADAS E LUMINÁRIAS",
-      "categorySlug": "lampadas-e-luminarias",
-      "path": "/refletor-led-slim-50w-6500k-preto-bivolt--avant-7526",
-      "image": "/products/images/0075/7526.jpg",
-      "department": "Acessórios e Consumíveis",
-      "departmentSlug": "acessorios-e-consumiveis",
-      "section": "Materias Elétricos",
-      "sectionSlug": "materias-eletricos"
     },
     {
       "code": "10972",

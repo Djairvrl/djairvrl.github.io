@@ -1081,23 +1081,6 @@
   },
   "products": [
     {
-      "code": "7171",
-      "title": "DISPENSER DE SABONETE COMPACTA C19533",
-      "brand": "DIVERSOS",
-      "brandCode": "1",
-      "supplier": "CIRNE IRMAOS & CIA LTDA",
-      "supplierCode": "162",
-      "manufacturerCode": "227983",
-      "category": "DOSADORES",
-      "categorySlug": "dosadores",
-      "path": "/dispenser-de-sabonete-compacta-c19533-7171",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Higienização e Proteção da Pele",
-      "sectionSlug": "higienizacao-e-protecao-da-pele"
-    },
-    {
       "code": "4273",
       "title": "MALETA PARAMOUNT P/ SOCORROS P 534",
       "brand": "DIVERSOS",
@@ -1130,6 +1113,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Proteção Respiratória",
       "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "7171",
+      "title": "DISPENSER DE SABONETE COMPACTA C19533",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "CIRNE IRMAOS & CIA LTDA",
+      "supplierCode": "162",
+      "manufacturerCode": "227983",
+      "category": "DOSADORES",
+      "categorySlug": "dosadores",
+      "path": "/dispenser-de-sabonete-compacta-c19533-7171",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Higienização e Proteção da Pele",
+      "sectionSlug": "higienizacao-e-protecao-da-pele"
     }
   ],
   "pagination": {

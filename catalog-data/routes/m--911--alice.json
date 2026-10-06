@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "11214",
-      "title": "DETERGENTE LAVA LOUCAS NEUTRO 500ML",
-      "brand": "ALICE",
-      "brandCode": "911",
-      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
-      "supplierCode": "2592",
-      "manufacturerCode": "107",
-      "category": "HIGIENE E LIMPEZA",
-      "categorySlug": "higiene-e-limpeza",
-      "path": "/detergente-lava-loucas-neutro-500ml-11214",
-      "image": null,
-      "department": "Suprimentos Corporativos",
-      "departmentSlug": "suprimentos-corporativos",
-      "section": "Suprimentos Indiretos",
-      "sectionSlug": "suprimentos-indiretos"
-    },
-    {
       "code": "13228",
       "title": "MULTIUSO ALICE ORIGINAL 500ML",
       "brand": "ALICE",
@@ -42,6 +25,23 @@
       "departmentSlug": "ambiental",
       "section": "Limpeza Industrial",
       "sectionSlug": "limpeza-industrial"
+    },
+    {
+      "code": "11214",
+      "title": "DETERGENTE LAVA LOUCAS NEUTRO 500ML",
+      "brand": "ALICE",
+      "brandCode": "911",
+      "supplier": "H M DE M COSTA COMERCIO DE MATERIAL DE LIMPEZA LTDA",
+      "supplierCode": "2592",
+      "manufacturerCode": "107",
+      "category": "HIGIENE E LIMPEZA",
+      "categorySlug": "higiene-e-limpeza",
+      "path": "/detergente-lava-loucas-neutro-500ml-11214",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
     }
   ],
   "pagination": {

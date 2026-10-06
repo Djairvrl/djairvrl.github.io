@@ -10,6 +10,23 @@
   "children": [],
   "products": [
     {
+      "code": "11616",
+      "title": "OLEO HIDRAULICO TELLUS S2 V 32 BD 20L",
+      "brand": "SHELL",
+      "brandCode": "930",
+      "supplier": "BLUEWAY TRADING IMPORTACAO E EXPORTACAO S.A.",
+      "supplierCode": "4921",
+      "manufacturerCode": "43705855",
+      "category": "ÓLEOS HIDRÁULICOS",
+      "categorySlug": "oleos-hidraulicos",
+      "path": "/oleo-hidraulico-tellus-s2-v-32-bd-20l-11616",
+      "image": "/products/images/0116/11616.png",
+      "department": "Lubrificantes e Fluidos",
+      "departmentSlug": "lubrificantes-e-fluidos",
+      "section": "Óleos Industriais",
+      "sectionSlug": "oleos-industriais"
+    },
+    {
       "code": "12230",
       "title": "CORENA S2 P 100 BALDE",
       "brand": "SHELL",
@@ -93,23 +110,6 @@
       "departmentSlug": "lubrificantes-e-fluidos",
       "section": "Graxas Industriais",
       "sectionSlug": "graxas-industriais"
-    },
-    {
-      "code": "11616",
-      "title": "OLEO HIDRAULICO TELLUS S2 V 32 BD 20L",
-      "brand": "SHELL",
-      "brandCode": "930",
-      "supplier": "BLUEWAY TRADING IMPORTACAO E EXPORTACAO S.A.",
-      "supplierCode": "4921",
-      "manufacturerCode": "43705855",
-      "category": "ÓLEOS HIDRÁULICOS",
-      "categorySlug": "oleos-hidraulicos",
-      "path": "/oleo-hidraulico-tellus-s2-v-32-bd-20l-11616",
-      "image": "/products/images/0116/11616.png",
-      "department": "Lubrificantes e Fluidos",
-      "departmentSlug": "lubrificantes-e-fluidos",
-      "section": "Óleos Industriais",
-      "sectionSlug": "oleos-industriais"
     },
     {
       "code": "11390",

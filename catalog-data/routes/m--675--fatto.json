@@ -27,23 +27,6 @@
       "sectionSlug": "armazenamento"
     },
     {
-      "code": "13253",
-      "title": "COMBO MINI P. PALLET 200X180X60CM -2T",
-      "brand": "FATTO",
-      "brandCode": "675",
-      "supplier": "INOVATTO SOLUCOES EM ARMAZENAGEM LTDA",
-      "supplierCode": "6137",
-      "manufacturerCode": "13253",
-      "category": "PORTA PALETES",
-      "categorySlug": "porta-paletes",
-      "path": "/combo-mini-p-pallet-200x180x60cm-2t-13253",
-      "image": null,
-      "department": "Organização e Armazenamento",
-      "departmentSlug": "organizacao-e-armazenamento",
-      "section": "Armazenamento",
-      "sectionSlug": "armazenamento"
-    },
-    {
       "code": "13426",
       "title": "MINI PORTA PALETE 2 X 0,6 X 2 M",
       "brand": "FATTO",
@@ -127,6 +110,23 @@
       "departmentSlug": "suprimentos-corporativos",
       "section": "Suprimentos Indiretos",
       "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "13253",
+      "title": "COMBO MINI P. PALLET 200X180X60CM -2T",
+      "brand": "FATTO",
+      "brandCode": "675",
+      "supplier": "INOVATTO SOLUCOES EM ARMAZENAGEM LTDA",
+      "supplierCode": "6137",
+      "manufacturerCode": "13253",
+      "category": "PORTA PALETES",
+      "categorySlug": "porta-paletes",
+      "path": "/combo-mini-p-pallet-200x180x60cm-2t-13253",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
     }
   ],
   "pagination": {

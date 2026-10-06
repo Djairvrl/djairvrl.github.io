@@ -736,23 +736,6 @@
       "sectionSlug": "pintura-e-quimicos"
     },
     {
-      "code": "6076",
-      "title": "ESPÁTULA REDONDA PARA DESMONTAR PNEUS 18\" (470MM) - GEDORE REF 38 A - 18\"",
-      "brand": "GEDORE",
-      "brandCode": "81",
-      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
-      "supplierCode": "174",
-      "manufacturerCode": "026340",
-      "category": "ESPÁTULA",
-      "categorySlug": "espatula",
-      "path": "/espatula-redonda-para-desmontar-pneus-18-470mm--gedore-ref-38-a--18-6076",
-      "image": null,
-      "department": "Acessórios e Consumíveis",
-      "departmentSlug": "acessorios-e-consumiveis",
-      "section": "Pintura e Químicos",
-      "sectionSlug": "pintura-e-quimicos"
-    },
-    {
       "code": "6511",
       "title": "JOGO DE FERRAMENTAS PARA ABIR ROSCA 33 PEÇAS - GEDORE 8553",
       "brand": "GEDORE",
@@ -938,6 +921,23 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Usinagem E Corte",
       "sectionSlug": "usinagem-e-corte"
+    },
+    {
+      "code": "6076",
+      "title": "ESPÁTULA REDONDA PARA DESMONTAR PNEUS 18\" (470MM) - GEDORE REF 38 A - 18\"",
+      "brand": "GEDORE",
+      "brandCode": "81",
+      "supplier": "FERRAMENTAS GEDORE DO BRASIL S.A.",
+      "supplierCode": "174",
+      "manufacturerCode": "026340",
+      "category": "ESPÁTULA",
+      "categorySlug": "espatula",
+      "path": "/espatula-redonda-para-desmontar-pneus-18-470mm--gedore-ref-38-a--18-6076",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
     }
   ],
   "pagination": {

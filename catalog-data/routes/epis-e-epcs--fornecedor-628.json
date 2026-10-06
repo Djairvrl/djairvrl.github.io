@@ -1081,23 +1081,6 @@
   },
   "products": [
     {
-      "code": "4159",
-      "title": "ESTILETE PROFISSIONAL 18MM",
-      "brand": "LUFKIN",
-      "brandCode": "168",
-      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
-      "supplierCode": "628",
-      "manufacturerCode": "EP18L",
-      "category": "ACESSÓRIOS",
-      "categorySlug": "acessorios",
-      "path": "/estilete-profissional-18mm-4159",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Estiletes De Segurança",
-      "sectionSlug": "estiletes-de-seguranca"
-    },
-    {
       "code": "2235",
       "title": "LANTERNA 3 EM 1  RECARREGAVEL 350LM SATA",
       "brand": "SATA",
@@ -1130,6 +1113,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Lanternas de Segurança",
       "sectionSlug": "lanternas-de-seguranca"
+    },
+    {
+      "code": "4159",
+      "title": "ESTILETE PROFISSIONAL 18MM",
+      "brand": "LUFKIN",
+      "brandCode": "168",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "EP18L",
+      "category": "ACESSÓRIOS",
+      "categorySlug": "acessorios",
+      "path": "/estilete-profissional-18mm-4159",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Estiletes De Segurança",
+      "sectionSlug": "estiletes-de-seguranca"
     }
   ],
   "pagination": {

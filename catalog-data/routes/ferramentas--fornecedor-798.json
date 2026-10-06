@@ -828,23 +828,6 @@
       "sectionSlug": "ferramentas-manuais"
     },
     {
-      "code": "9164",
-      "title": "CADEADO 60 MM PADO",
-      "brand": "DIVERSOS",
-      "brandCode": "1",
-      "supplier": "AJS E SILVA LTDA",
-      "supplierCode": "798",
-      "manufacturerCode": "222",
-      "category": "CADEADO",
-      "categorySlug": "cadeado",
-      "path": "/cadeado-60-mm-pado-9164",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Construção Civil",
-      "sectionSlug": "construcao-civil"
-    },
-    {
       "code": "7084",
       "title": "CIGARRA EXTERNA JACARE 300A CJ 2 PCA",
       "brand": "LOTUS",
@@ -877,6 +860,23 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas Manuais",
       "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "9164",
+      "title": "CADEADO 60 MM PADO",
+      "brand": "DIVERSOS",
+      "brandCode": "1",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "222",
+      "category": "CADEADO",
+      "categorySlug": "cadeado",
+      "path": "/cadeado-60-mm-pado-9164",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
     },
     {
       "code": "7102",

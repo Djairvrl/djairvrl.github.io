@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "10376",
-      "title": "ABRIGO EM ACO GALVANIZ VERDE 75X30 25CM",
-      "brand": "A R AQUINO",
-      "brandCode": "773",
-      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
-      "supplierCode": "1379",
-      "manufacturerCode": "ABG17032025",
-      "category": "ABRIGOS",
-      "categorySlug": "abrigos",
-      "path": "/abrigo-em-aco-galvaniz-verde-75x30-25cm-10376",
-      "image": null,
-      "department": "Combate a Incêndio",
-      "departmentSlug": "combate-a-incendio",
-      "section": "Dispositivos e Acessórios",
-      "sectionSlug": "dispositivos-e-acessorios"
-    },
-    {
       "code": "11935",
       "title": "ADESIVO 30X25CM",
       "brand": "A R AQUINO",
@@ -42,6 +25,40 @@
       "departmentSlug": "sinalizacao-de-seguranca",
       "section": "Placas E Dispositivos",
       "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "5618",
+      "title": "TOUCA NINJA BALACLAVA COM MALHA DE PROTEÇÃO UV+ - TAMANHO ÚNICO",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "2",
+      "category": "CAPUZ E BALACLAVA",
+      "categorySlug": "capuz-e-balaclava",
+      "path": "/touca-ninja-balaclava-com-malha-de-protecao-uv--tamanho-unico-5618",
+      "image": "/products/images/0056/5618.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Vestimentas Profissionais",
+      "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "10376",
+      "title": "ABRIGO EM ACO GALVANIZ VERDE 75X30 25CM",
+      "brand": "A R AQUINO",
+      "brandCode": "773",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "ABG17032025",
+      "category": "ABRIGOS",
+      "categorySlug": "abrigos",
+      "path": "/abrigo-em-aco-galvaniz-verde-75x30-25cm-10376",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
     },
     {
       "code": "10381",
@@ -280,23 +297,6 @@
       "departmentSlug": "suprimentos-corporativos",
       "section": "Suprimentos Indiretos",
       "sectionSlug": "suprimentos-indiretos"
-    },
-    {
-      "code": "5618",
-      "title": "TOUCA NINJA BALACLAVA COM MALHA DE PROTEÇÃO UV+ - TAMANHO ÚNICO",
-      "brand": "A R AQUINO",
-      "brandCode": "773",
-      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
-      "supplierCode": "1379",
-      "manufacturerCode": "2",
-      "category": "CAPUZ E BALACLAVA",
-      "categorySlug": "capuz-e-balaclava",
-      "path": "/touca-ninja-balaclava-com-malha-de-protecao-uv--tamanho-unico-5618",
-      "image": "/products/images/0056/5618.jpg",
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Vestimentas Profissionais",
-      "sectionSlug": "vestimentas-profissionais"
     }
   ],
   "pagination": {

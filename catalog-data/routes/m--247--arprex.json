@@ -44,23 +44,6 @@
       "sectionSlug": "pintura-e-quimicos"
     },
     {
-      "code": "8956",
-      "title": "BICO DE LIMPEZA DELTA 8",
-      "brand": "ARPREX",
-      "brandCode": "247",
-      "supplier": "MINAS FERRAMENTAS LTDA.",
-      "supplierCode": "2349",
-      "manufacturerCode": "376003501",
-      "category": "BICO DE AR",
-      "categorySlug": "bico-de-ar",
-      "path": "/bico-de-limpeza-delta-8-8956",
-      "image": null,
-      "department": "Acessórios e Consumíveis",
-      "departmentSlug": "acessorios-e-consumiveis",
-      "section": "Pintura e Químicos",
-      "sectionSlug": "pintura-e-quimicos"
-    },
-    {
       "code": "5550",
       "title": "ENGATE RAPIDO FEMEA ER-1 1/4\"",
       "brand": "ARPREX",
@@ -263,6 +246,23 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas de Jardinagem",
       "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "8956",
+      "title": "BICO DE LIMPEZA DELTA 8",
+      "brand": "ARPREX",
+      "brandCode": "247",
+      "supplier": "MINAS FERRAMENTAS LTDA.",
+      "supplierCode": "2349",
+      "manufacturerCode": "376003501",
+      "category": "BICO DE AR",
+      "categorySlug": "bico-de-ar",
+      "path": "/bico-de-limpeza-delta-8-8956",
+      "image": null,
+      "department": "Acessórios e Consumíveis",
+      "departmentSlug": "acessorios-e-consumiveis",
+      "section": "Pintura e Químicos",
+      "sectionSlug": "pintura-e-quimicos"
     }
   ],
   "pagination": {

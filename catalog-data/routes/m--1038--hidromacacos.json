@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "12125",
-      "title": "ANEL ORING 8553",
-      "brand": "HIDROMACACOS",
-      "brandCode": "1038",
-      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
-      "supplierCode": "2274",
-      "manufacturerCode": "0000000008553",
-      "category": "VEDAÇÕES",
-      "categorySlug": "vedacoes",
-      "path": "/anel-oring-8553-12125",
-      "image": null,
-      "department": "Spare Parts Energy",
-      "departmentSlug": "spare-parts-energy",
-      "section": "Componentes Hidráulicos e Refrigeração",
-      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
-    },
-    {
       "code": "12123",
       "title": "ANEL ORING 8555",
       "brand": "HIDROMACACOS",
@@ -76,6 +59,23 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Parafusos e Fixadores",
       "sectionSlug": "parafusos-e-fixadores"
+    },
+    {
+      "code": "12125",
+      "title": "ANEL ORING 8553",
+      "brand": "HIDROMACACOS",
+      "brandCode": "1038",
+      "supplier": "HIDROMACACOS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "2274",
+      "manufacturerCode": "0000000008553",
+      "category": "VEDAÇÕES",
+      "categorySlug": "vedacoes",
+      "path": "/anel-oring-8553-12125",
+      "image": null,
+      "department": "Spare Parts Energy",
+      "departmentSlug": "spare-parts-energy",
+      "section": "Componentes Hidráulicos e Refrigeração",
+      "sectionSlug": "componentes-hidraulicos-e-refrigeracao"
     },
     {
       "code": "12366",

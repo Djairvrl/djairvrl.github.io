@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "12270",
-      "title": "CHAVE DE FENDA ISOLA 1/8X3 1000V",
-      "brand": "LOTTUS",
-      "brandCode": "962",
-      "supplier": "OUTIX COMERCIO ONLINE LTDA",
-      "supplierCode": "5591",
-      "manufacturerCode": "CHA-FEN-ISO- 18-3",
-      "category": "FERRAMENTAS ISOLADAS",
-      "categorySlug": "ferramentas-isoladas",
-      "path": "/chave-de-fenda-isola-18x3-1000v-12270",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Ferramentas Manuais",
-      "sectionSlug": "ferramentas-manuais"
-    },
-    {
       "code": "11618",
       "title": "POLTRONA LOTTUS C/ENCOSTO RECLINAVEL",
       "brand": "LOTTUS",
@@ -42,6 +25,23 @@
       "departmentSlug": "suprimentos-corporativos",
       "section": "Suprimentos Indiretos",
       "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "12270",
+      "title": "CHAVE DE FENDA ISOLA 1/8X3 1000V",
+      "brand": "LOTTUS",
+      "brandCode": "962",
+      "supplier": "OUTIX COMERCIO ONLINE LTDA",
+      "supplierCode": "5591",
+      "manufacturerCode": "CHA-FEN-ISO- 18-3",
+      "category": "FERRAMENTAS ISOLADAS",
+      "categorySlug": "ferramentas-isoladas",
+      "path": "/chave-de-fenda-isola-18x3-1000v-12270",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
     }
   ],
   "pagination": {

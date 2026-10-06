@@ -410,23 +410,6 @@
   },
   "products": [
     {
-      "code": "12015",
-      "title": "AR CONDICIONADO PHILCO HW 18K 220 F PAC1",
-      "brand": "PHILCO",
-      "brandCode": "375",
-      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
-      "supplierCode": "4",
-      "manufacturerCode": "12015",
-      "category": "ELETRODOMÉSTICOS",
-      "categorySlug": "eletrodomesticos",
-      "path": "/ar-condicionado-philco-hw-18k-220-f-pac1-12015",
-      "image": null,
-      "department": "Suprimentos Corporativos",
-      "departmentSlug": "suprimentos-corporativos",
-      "section": "Suprimentos Indiretos",
-      "sectionSlug": "suprimentos-indiretos"
-    },
-    {
       "code": "7147",
       "title": "CABO MANGA 4 VIAS BRANCO 6 METROS",
       "brand": "ELGIN",
@@ -442,6 +425,23 @@
       "departmentSlug": "suprimentos-corporativos",
       "section": "Informática e Telecomunicação",
       "sectionSlug": "informatica-e-telecomunicacao"
+    },
+    {
+      "code": "12015",
+      "title": "AR CONDICIONADO PHILCO HW 18K 220 F PAC1",
+      "brand": "PHILCO",
+      "brandCode": "375",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "12015",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ar-condicionado-philco-hw-18k-220-f-pac1-12015",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
     },
     {
       "code": "7146",

@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "9322",
-      "title": "AR COND GREE 30000 BTUS",
-      "brand": "GREE",
-      "brandCode": "666",
-      "supplier": "DENTECK LTDA",
-      "supplierCode": "2440",
-      "manufacturerCode": "0010020838",
-      "category": "ELETRODOMÉSTICOS",
-      "categorySlug": "eletrodomesticos",
-      "path": "/ar-cond-gree-30000-btus-9322",
-      "image": null,
-      "department": "Suprimentos Corporativos",
-      "departmentSlug": "suprimentos-corporativos",
-      "section": "Suprimentos Indiretos",
-      "sectionSlug": "suprimentos-indiretos"
-    },
-    {
       "code": "13099",
       "title": "PLUG BANANA 4MM - PRETO PCT C/ 10 UN",
       "brand": "GREE",
@@ -42,6 +25,23 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Materias Elétricos",
       "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "9322",
+      "title": "AR COND GREE 30000 BTUS",
+      "brand": "GREE",
+      "brandCode": "666",
+      "supplier": "DENTECK LTDA",
+      "supplierCode": "2440",
+      "manufacturerCode": "0010020838",
+      "category": "ELETRODOMÉSTICOS",
+      "categorySlug": "eletrodomesticos",
+      "path": "/ar-cond-gree-30000-btus-9322",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
     }
   ],
   "pagination": {

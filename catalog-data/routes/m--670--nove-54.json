@@ -10,6 +10,23 @@
   "children": [],
   "products": [
     {
+      "code": "1352",
+      "title": "PRUMO DE PAREDE METAL 700G 954",
+      "brand": "NOVE 54",
+      "brandCode": "670",
+      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
+      "supplierCode": "88",
+      "manufacturerCode": "3321400700",
+      "category": "RÉGUA, PRUMO E LINHA",
+      "categorySlug": "regua-prumo-e-linha",
+      "path": "/prumo-de-parede-metal-700g-954-1352",
+      "image": "/products/images/0013/1352.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
       "code": "7850",
       "title": "FERRO PARA SOLDA 30W FSN0030 220V - NOVE54",
       "brand": "NOVE 54",
@@ -42,23 +59,6 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Abrasivos e Acessórios",
       "sectionSlug": "abrasivos-e-acessorios"
-    },
-    {
-      "code": "1352",
-      "title": "PRUMO DE PAREDE METAL 700G 954",
-      "brand": "NOVE 54",
-      "brandCode": "670",
-      "supplier": "O.V.D. IMPORTADORA E DISTRIBUIDORA LTDA",
-      "supplierCode": "88",
-      "manufacturerCode": "3321400700",
-      "category": "RÉGUA, PRUMO E LINHA",
-      "categorySlug": "regua-prumo-e-linha",
-      "path": "/prumo-de-parede-metal-700g-954-1352",
-      "image": "/products/images/0013/1352.jpg",
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Construção Civil",
-      "sectionSlug": "construcao-civil"
     }
   ],
   "pagination": {

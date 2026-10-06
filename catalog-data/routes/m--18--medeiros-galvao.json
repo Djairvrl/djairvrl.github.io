@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "10588",
-      "title": "COMBO PRIMEIRO SOCORROS AUREN",
-      "brand": "MEDEIROS GALVAO",
-      "brandCode": "18",
-      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
-      "supplierCode": "4",
-      "manufacturerCode": "10588",
-      "category": "KIT PRIMEIROS SOCORROS",
-      "categorySlug": "kit-primeiros-socorros",
-      "path": "/combo-primeiro-socorros-auren-10588",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Resgate e Salvamento",
-      "sectionSlug": "resgate-e-salvamento"
-    },
-    {
       "code": "1113",
       "title": "MÁSCARA TNT COM DUPLA CAMADA COM CLIPE NASAL 40GM/M²",
       "brand": "MEDEIROS GALVAO",
@@ -42,6 +25,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Proteção Respiratória",
       "sectionSlug": "protecao-respiratoria"
+    },
+    {
+      "code": "10588",
+      "title": "COMBO PRIMEIRO SOCORROS AUREN",
+      "brand": "MEDEIROS GALVAO",
+      "brandCode": "18",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10588",
+      "category": "KIT PRIMEIROS SOCORROS",
+      "categorySlug": "kit-primeiros-socorros",
+      "path": "/combo-primeiro-socorros-auren-10588",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Resgate e Salvamento",
+      "sectionSlug": "resgate-e-salvamento"
     }
   ],
   "pagination": {

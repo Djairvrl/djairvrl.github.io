@@ -10,6 +10,23 @@
   "children": [],
   "products": [
     {
+      "code": "12973",
+      "title": "TERMOMETRO PETR/BIO -10+50°C 0,5°C LIQ",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
+      "supplierCode": "5560",
+      "manufacturerCode": "518215",
+      "category": "TERMÔMETROS",
+      "categorySlug": "termometros",
+      "path": "/termometro-petrbio-1050c-05c-liq-12973",
+      "image": "/products/images/0129/12973.png",
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Medição Elétrica e Diagnóstico",
+      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
       "code": "11027",
       "title": "APARELHO DE PRESSAO DIGITAL PULSO",
       "brand": "INCOTERM",
@@ -76,23 +93,6 @@
       "departmentSlug": "medicao-e-teste",
       "section": "Detecção e Teste",
       "sectionSlug": "ferrametas-de-deteccao-e-teste"
-    },
-    {
-      "code": "12973",
-      "title": "TERMOMETRO PETR/BIO -10+50°C 0,5°C LIQ",
-      "brand": "INCOTERM",
-      "brandCode": "858",
-      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
-      "supplierCode": "5560",
-      "manufacturerCode": "518215",
-      "category": "TERMÔMETROS",
-      "categorySlug": "termometros",
-      "path": "/termometro-petrbio-1050c-05c-liq-12973",
-      "image": "/products/images/0129/12973.png",
-      "department": "Medição e Teste",
-      "departmentSlug": "medicao-e-teste",
-      "section": "Medição Elétrica e Diagnóstico",
-      "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
     }
   ],
   "pagination": {

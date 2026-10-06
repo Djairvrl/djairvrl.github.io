@@ -27,23 +27,6 @@
       "sectionSlug": "pintura-e-quimicos"
     },
     {
-      "code": "12165",
-      "title": "LAVADORA LUS500 500PSI 19L/MIN MTB 2CV 2",
-      "brand": "SOMAR",
-      "brandCode": "354",
-      "supplier": "SCHULZ COMPRESSORES LTDA",
-      "supplierCode": "276",
-      "manufacturerCode": "170.0500-3",
-      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
-      "categorySlug": "lavadoras-de-alta-pressao-industriais",
-      "path": "/lavadora-lus500-500psi-19lmin-mtb-2cv-2-12165",
-      "image": null,
-      "department": "Máquinas e Acessórios",
-      "departmentSlug": "maquinas-e-acessorios",
-      "section": "Lavadoras De Alta Pressão",
-      "sectionSlug": "lavadoras-de-alta-pressao"
-    },
-    {
       "code": "6818",
       "title": "MOTO COMPRESSOR SRI 805/25 220V",
       "brand": "SOMAR",
@@ -110,6 +93,23 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas Manuais",
       "sectionSlug": "ferramentas-manuais"
+    },
+    {
+      "code": "12165",
+      "title": "LAVADORA LUS500 500PSI 19L/MIN MTB 2CV 2",
+      "brand": "SOMAR",
+      "brandCode": "354",
+      "supplier": "SCHULZ COMPRESSORES LTDA",
+      "supplierCode": "276",
+      "manufacturerCode": "170.0500-3",
+      "category": "LAVADORAS DE ALTA PRESSÃO INDUSTRIAIS",
+      "categorySlug": "lavadoras-de-alta-pressao-industriais",
+      "path": "/lavadora-lus500-500psi-19lmin-mtb-2cv-2-12165",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Lavadoras De Alta Pressão",
+      "sectionSlug": "lavadoras-de-alta-pressao"
     }
   ],
   "pagination": {

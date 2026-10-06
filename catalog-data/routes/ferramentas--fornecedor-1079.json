@@ -811,23 +811,6 @@
   },
   "products": [
     {
-      "code": "8455",
-      "title": "EXTRATOR DE GARRA REVERSIVEL TMMR 350XL",
-      "brand": "SKF",
-      "brandCode": "251",
-      "supplier": "ROLIMEC ROLAMENTOS LTDA",
-      "supplierCode": "1079",
-      "manufacturerCode": "33322",
-      "category": "EXTRATORES",
-      "categorySlug": "extratores",
-      "path": "/extrator-de-garra-reversivel-tmmr-350xl-8455",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Ferramentas Manuais",
-      "sectionSlug": "ferramentas-manuais"
-    },
-    {
       "code": "5681",
       "title": "PISTOLA DE GRAXA 20V 2,5AH 230V COM BATERIA E CARREGADOR TLGB 21/230V - SKF",
       "brand": "SKF",
@@ -843,6 +826,23 @@
       "departmentSlug": "ferramentas",
       "section": "Lubrificação e Abastecimento",
       "sectionSlug": "ferramentas-lubrificacao-e-abastecimento"
+    },
+    {
+      "code": "8455",
+      "title": "EXTRATOR DE GARRA REVERSIVEL TMMR 350XL",
+      "brand": "SKF",
+      "brandCode": "251",
+      "supplier": "ROLIMEC ROLAMENTOS LTDA",
+      "supplierCode": "1079",
+      "manufacturerCode": "33322",
+      "category": "EXTRATORES",
+      "categorySlug": "extratores",
+      "path": "/extrator-de-garra-reversivel-tmmr-350xl-8455",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
     },
     {
       "code": "12026",

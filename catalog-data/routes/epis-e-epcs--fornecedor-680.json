@@ -1081,6 +1081,23 @@
   },
   "products": [
     {
+      "code": "1113",
+      "title": "MÁSCARA TNT COM DUPLA CAMADA COM CLIPE NASAL 40GM/M²",
+      "brand": "MEDEIROS GALVAO",
+      "brandCode": "18",
+      "supplier": "JOSEFA ALVES DOS SANTOS DANTAS",
+      "supplierCode": "680",
+      "manufacturerCode": "22",
+      "category": "DESCARTAVEIS",
+      "categorySlug": "descartaveis",
+      "path": "/mascara-tnt-com-dupla-camada-com-clipe-nasal-40gmm2-1113",
+      "image": "/products/images/0011/1113.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Respiratória",
+      "sectionSlug": "protecao-respiratoria"
+    },
+    {
       "code": "1615",
       "title": "CAMISA 100% ALGODAO MC G",
       "brand": "VOGAN",
@@ -1351,23 +1368,6 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Vestimentas Profissionais",
       "sectionSlug": "vestimentas-profissionais"
-    },
-    {
-      "code": "1113",
-      "title": "MÁSCARA TNT COM DUPLA CAMADA COM CLIPE NASAL 40GM/M²",
-      "brand": "MEDEIROS GALVAO",
-      "brandCode": "18",
-      "supplier": "JOSEFA ALVES DOS SANTOS DANTAS",
-      "supplierCode": "680",
-      "manufacturerCode": "22",
-      "category": "DESCARTAVEIS",
-      "categorySlug": "descartaveis",
-      "path": "/mascara-tnt-com-dupla-camada-com-clipe-nasal-40gmm2-1113",
-      "image": "/products/images/0011/1113.jpg",
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Proteção Respiratória",
-      "sectionSlug": "protecao-respiratoria"
     },
     {
       "code": "5620",

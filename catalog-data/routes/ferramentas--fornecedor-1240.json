@@ -811,6 +811,23 @@
   },
   "products": [
     {
+      "code": "12941",
+      "title": "KIT CARREGADOR DC18WC BIV +2 BAT 5AH",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1240",
+      "manufacturerCode": "PSKDWT2",
+      "category": "BATERIA E CARREGADORES",
+      "categorySlug": "bateria-e-carregadores",
+      "path": "/kit-carregador-dc18wc-biv-2-bat-5ah-12941",
+      "image": "/products/images/0129/12941.png",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
       "code": "10940",
       "title": "CARREGADOR DC40RC-220V DE 40V MAX",
       "brand": "MAKITA",
@@ -860,23 +877,6 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas de Jardinagem",
       "sectionSlug": "ferramentas-de-jardinagem"
-    },
-    {
-      "code": "12941",
-      "title": "KIT CARREGADOR DC18WC BIV +2 BAT 5AH",
-      "brand": "MAKITA",
-      "brandCode": "254",
-      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
-      "supplierCode": "1240",
-      "manufacturerCode": "PSKDWT2",
-      "category": "BATERIA E CARREGADORES",
-      "categorySlug": "bateria-e-carregadores",
-      "path": "/kit-carregador-dc18wc-biv-2-bat-5ah-12941",
-      "image": "/products/images/0129/12941.png",
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Ferramentas Elétricas",
-      "sectionSlug": "ferramentas-eletricas"
     }
   ],
   "pagination": {

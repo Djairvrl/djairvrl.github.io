@@ -146,23 +146,6 @@
       "sectionSlug": "materias-eletricos"
     },
     {
-      "code": "6960",
-      "title": "BICICLETA INFANTIL ARO 20",
-      "brand": "FORCELINE",
-      "brandCode": "111",
-      "supplier": "NEW ROUTE INDUSTRIA & COMERCIO DE PECAS E BICICLETAS LTDA",
-      "supplierCode": "1431",
-      "manufacturerCode": "241",
-      "category": "BRINDES CORPORATIVOS",
-      "categorySlug": "brindes-corporativos",
-      "path": "/bicicleta-infantil-aro-20-6960",
-      "image": null,
-      "department": "Suprimentos Corporativos",
-      "departmentSlug": "suprimentos-corporativos",
-      "section": "Suprimentos Indiretos",
-      "sectionSlug": "suprimentos-indiretos"
-    },
-    {
       "code": "2433",
       "title": "CABO BAT C/GARRA JACARE 4MM2 2,5M",
       "brand": "FORCELINE",
@@ -520,23 +503,6 @@
       "sectionSlug": "lavadoras-de-alta-pressao"
     },
     {
-      "code": "7645",
-      "title": "NOBREAK UPS OFFICE SECURITY 1000BIV/115",
-      "brand": "FORCELINE",
-      "brandCode": "111",
-      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
-      "supplierCode": "271",
-      "manufacturerCode": "636",
-      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
-      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
-      "path": "/nobreak-ups-office-security-1000biv115-7645",
-      "image": null,
-      "department": "Suprimentos Corporativos",
-      "departmentSlug": "suprimentos-corporativos",
-      "section": "Informática e Telecomunicação",
-      "sectionSlug": "informatica-e-telecomunicacao"
-    },
-    {
       "code": "3534",
       "title": "PINO MULTIPLICADOR TIPO BENJAMIN 3 TOMADAS 10A 250V BIVOLT BRANCO - FORCELINE 0180100004",
       "brand": "FORCELINE",
@@ -603,6 +569,40 @@
       "departmentSlug": "sinalizacao-de-seguranca",
       "section": "Placas E Dispositivos",
       "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "6960",
+      "title": "BICICLETA INFANTIL ARO 20",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "NEW ROUTE INDUSTRIA & COMERCIO DE PECAS E BICICLETAS LTDA",
+      "supplierCode": "1431",
+      "manufacturerCode": "241",
+      "category": "BRINDES CORPORATIVOS",
+      "categorySlug": "brindes-corporativos",
+      "path": "/bicicleta-infantil-aro-20-6960",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Suprimentos Indiretos",
+      "sectionSlug": "suprimentos-indiretos"
+    },
+    {
+      "code": "7645",
+      "title": "NOBREAK UPS OFFICE SECURITY 1000BIV/115",
+      "brand": "FORCELINE",
+      "brandCode": "111",
+      "supplier": "FORCE LINE IND. COM. COMP. ELETRON. LTDA",
+      "supplierCode": "271",
+      "manufacturerCode": "636",
+      "category": "ESTABILIZADORES, FILTROS DE L. E NOBREAK",
+      "categorySlug": "estabilizadores-filtros-de-l-e-nobreak",
+      "path": "/nobreak-ups-office-security-1000biv115-7645",
+      "image": null,
+      "department": "Suprimentos Corporativos",
+      "departmentSlug": "suprimentos-corporativos",
+      "section": "Informática e Telecomunicação",
+      "sectionSlug": "informatica-e-telecomunicacao"
     }
   ],
   "pagination": {

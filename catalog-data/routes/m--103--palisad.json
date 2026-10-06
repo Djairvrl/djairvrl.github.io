@@ -44,23 +44,6 @@
       "sectionSlug": "ferramentas-de-jardinagem"
     },
     {
-      "code": "3460",
-      "title": "PULVERIZADOR MANUAL C/ BOMBA 7LT",
-      "brand": "PALISAD",
-      "brandCode": "103",
-      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
-      "supplierCode": "244",
-      "manufacturerCode": "647508",
-      "category": "PESTICIDAS",
-      "categorySlug": "pesticidas",
-      "path": "/pulverizador-manual-c-bomba-7lt-3460",
-      "image": null,
-      "department": "Ambiental",
-      "departmentSlug": "ambiental",
-      "section": "Contenção Ambiental",
-      "sectionSlug": "contencao-ambiental"
-    },
-    {
       "code": "520",
       "title": "TESOURA CORTA GALHOS 710MM CABO EM ACO",
       "brand": "PALISAD",
@@ -110,6 +93,23 @@
       "departmentSlug": "ferramentas",
       "section": "Ferramentas de Jardinagem",
       "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
+      "code": "3460",
+      "title": "PULVERIZADOR MANUAL C/ BOMBA 7LT",
+      "brand": "PALISAD",
+      "brandCode": "103",
+      "supplier": "MUNDO DAS FERRAMENTAS DO BRASIL LTDA",
+      "supplierCode": "244",
+      "manufacturerCode": "647508",
+      "category": "PESTICIDAS",
+      "categorySlug": "pesticidas",
+      "path": "/pulverizador-manual-c-bomba-7lt-3460",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Contenção Ambiental",
+      "sectionSlug": "contencao-ambiental"
     }
   ],
   "pagination": {

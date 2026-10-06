@@ -368,23 +368,6 @@
   },
   "products": [
     {
-      "code": "12225",
-      "title": "ANEMOMETRO DIGITAL",
-      "brand": "MINIPA",
-      "brandCode": "76",
-      "supplier": "MINIPA INDUSTRIA E COMERCIO LTDA",
-      "supplierCode": "3015",
-      "manufacturerCode": "MDA-11A",
-      "category": "ANEMÔMETRO",
-      "categorySlug": "anemometro",
-      "path": "/anemometro-digital-12225",
-      "image": null,
-      "department": "Medição e Teste",
-      "departmentSlug": "medicao-e-teste",
-      "section": "Detecção e Teste",
-      "sectionSlug": "ferrametas-de-deteccao-e-teste"
-    },
-    {
       "code": "12881",
       "title": "TERMO HIGROMETRO",
       "brand": "MINIPA",
@@ -400,6 +383,23 @@
       "departmentSlug": "medicao-e-teste",
       "section": "Medição Elétrica e Diagnóstico",
       "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12225",
+      "title": "ANEMOMETRO DIGITAL",
+      "brand": "MINIPA",
+      "brandCode": "76",
+      "supplier": "MINIPA INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "3015",
+      "manufacturerCode": "MDA-11A",
+      "category": "ANEMÔMETRO",
+      "categorySlug": "anemometro",
+      "path": "/anemometro-digital-12225",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
     }
   ],
   "pagination": {

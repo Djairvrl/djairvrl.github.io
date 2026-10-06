@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "10937",
-      "title": "CANULA P PONTA DE FERRO ESTACAO DE SOLDA",
-      "brand": "ZIMPOR",
-      "brandCode": "833",
-      "supplier": "WS ELETRONICA LTDA",
-      "supplierCode": "4238",
-      "manufacturerCode": "W00110.001",
-      "category": "FERRO DE SOLDA",
-      "categorySlug": "ferro-de-solda",
-      "path": "/canula-p-ponta-de-ferro-estacao-de-solda-10937",
-      "image": null,
-      "department": "Máquinas e Acessórios",
-      "departmentSlug": "maquinas-e-acessorios",
-      "section": "Solda Industrial",
-      "sectionSlug": "solda-industrial"
-    },
-    {
       "code": "12696",
       "title": "KIT CABO TESTE MULTI 1000V 10A JAC/AGU",
       "brand": "ZIMPOR",
@@ -42,6 +25,23 @@
       "departmentSlug": "medicao-e-teste",
       "section": "Medição Elétrica e Diagnóstico",
       "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "10937",
+      "title": "CANULA P PONTA DE FERRO ESTACAO DE SOLDA",
+      "brand": "ZIMPOR",
+      "brandCode": "833",
+      "supplier": "WS ELETRONICA LTDA",
+      "supplierCode": "4238",
+      "manufacturerCode": "W00110.001",
+      "category": "FERRO DE SOLDA",
+      "categorySlug": "ferro-de-solda",
+      "path": "/canula-p-ponta-de-ferro-estacao-de-solda-10937",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
     }
   ],
   "pagination": {

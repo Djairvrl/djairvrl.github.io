@@ -368,23 +368,6 @@
   },
   "products": [
     {
-      "code": "12136",
-      "title": "PLUVIOMETRO DIGITAL 4760",
-      "brand": "INCOTERM",
-      "brandCode": "858",
-      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
-      "supplierCode": "5560",
-      "manufacturerCode": "4760",
-      "category": "PLUVIÔMETRO",
-      "categorySlug": "pluviometro",
-      "path": "/pluviometro-digital-4760-12136",
-      "image": null,
-      "department": "Medição e Teste",
-      "departmentSlug": "medicao-e-teste",
-      "section": "Detecção e Teste",
-      "sectionSlug": "ferrametas-de-deteccao-e-teste"
-    },
-    {
       "code": "12973",
       "title": "TERMOMETRO PETR/BIO -10+50°C 0,5°C LIQ",
       "brand": "INCOTERM",
@@ -400,6 +383,23 @@
       "departmentSlug": "medicao-e-teste",
       "section": "Medição Elétrica e Diagnóstico",
       "sectionSlug": "ferramentas-de-m-eletrica-e-diagnostico"
+    },
+    {
+      "code": "12136",
+      "title": "PLUVIOMETRO DIGITAL 4760",
+      "brand": "INCOTERM",
+      "brandCode": "858",
+      "supplier": "INCOTERM SOLUCOES EM MEDICAO LTDA",
+      "supplierCode": "5560",
+      "manufacturerCode": "4760",
+      "category": "PLUVIÔMETRO",
+      "categorySlug": "pluviometro",
+      "path": "/pluviometro-digital-4760-12136",
+      "image": null,
+      "department": "Medição e Teste",
+      "departmentSlug": "medicao-e-teste",
+      "section": "Detecção e Teste",
+      "sectionSlug": "ferrametas-de-deteccao-e-teste"
     }
   ],
   "pagination": {

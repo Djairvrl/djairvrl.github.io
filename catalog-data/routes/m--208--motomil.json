@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "11188",
-      "title": "FURAD BANC1/2HP CHAV220/380V FBM-160TA",
-      "brand": "MOTOMIL",
-      "brandCode": "208",
-      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
-      "supplierCode": "878",
-      "manufacturerCode": "00039025.2",
-      "category": "FURADEIRA",
-      "categorySlug": "furadeira",
-      "path": "/furad-banc12hp-chav220380v-fbm160ta-11188",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Ferramentas Elétricas",
-      "sectionSlug": "ferramentas-eletricas"
-    },
-    {
       "code": "10945",
       "title": "GUINCHO 500/1000KG 12/6M S/S MONO H107",
       "brand": "MOTOMIL",
@@ -42,6 +25,23 @@
       "departmentSlug": "amarracao-e-elevacao",
       "section": "Elevação de Carga",
       "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "11188",
+      "title": "FURAD BANC1/2HP CHAV220/380V FBM-160TA",
+      "brand": "MOTOMIL",
+      "brandCode": "208",
+      "supplier": "GARTHEN INDUSTRIA E COMERCIO DE MAQUINAS LTDA",
+      "supplierCode": "878",
+      "manufacturerCode": "00039025.2",
+      "category": "FURADEIRA",
+      "categorySlug": "furadeira",
+      "path": "/furad-banc12hp-chav220380v-fbm160ta-11188",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
     },
     {
       "code": "11189",

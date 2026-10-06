@@ -10,6 +10,23 @@
   "children": [],
   "products": [
     {
+      "code": "4790",
+      "title": "GAZEBO TENDA DOBRAVEL TRIXX 3,00X3,00 AZ",
+      "brand": "NAUTIKA",
+      "brandCode": "339",
+      "supplier": "AGNALDO MARTINS DE SOUZA FILHO",
+      "supplierCode": "1337",
+      "manufacturerCode": "19855",
+      "category": "BARRACAS E TENDAS",
+      "categorySlug": "barracas-e-tendas",
+      "path": "/gazebo-tenda-dobravel-trixx-300x300-az-4790",
+      "image": "/products/images/0047/4790.jpg",
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Camping",
+      "sectionSlug": "camping"
+    },
+    {
       "code": "11393",
       "title": "BINOCULO AGUIA 7X35MM",
       "brand": "NAUTIKA",
@@ -59,23 +76,6 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Vestimentas Profissionais",
       "sectionSlug": "vestimentas-profissionais"
-    },
-    {
-      "code": "4790",
-      "title": "GAZEBO TENDA DOBRAVEL TRIXX 3,00X3,00 AZ",
-      "brand": "NAUTIKA",
-      "brandCode": "339",
-      "supplier": "AGNALDO MARTINS DE SOUZA FILHO",
-      "supplierCode": "1337",
-      "manufacturerCode": "19855",
-      "category": "BARRACAS E TENDAS",
-      "categorySlug": "barracas-e-tendas",
-      "path": "/gazebo-tenda-dobravel-trixx-300x300-az-4790",
-      "image": "/products/images/0047/4790.jpg",
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Camping",
-      "sectionSlug": "camping"
     }
   ],
   "pagination": {

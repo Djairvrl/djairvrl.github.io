@@ -44,23 +44,6 @@
       "sectionSlug": "construcao-civil"
     },
     {
-      "code": "7006",
-      "title": "ESCADA TESOURA ALUMINIO/FIBRA DUPLA - 4M",
-      "brand": "MOR",
-      "brandCode": "109",
-      "supplier": "W ELAN INDUSTRIA E COMERCIO DE ESCADAS LTDA",
-      "supplierCode": "1217",
-      "manufacturerCode": "TAFD14",
-      "category": "ESCADAS",
-      "categorySlug": "escadas",
-      "path": "/escada-tesoura-aluminiofibra-dupla--4m-7006",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Construção Civil",
-      "sectionSlug": "construcao-civil"
-    },
-    {
       "code": "12403",
       "title": "GARRAFAO TERM 5,0L AZUL",
       "brand": "MOR",
@@ -76,6 +59,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Camping",
       "sectionSlug": "camping"
+    },
+    {
+      "code": "7006",
+      "title": "ESCADA TESOURA ALUMINIO/FIBRA DUPLA - 4M",
+      "brand": "MOR",
+      "brandCode": "109",
+      "supplier": "W ELAN INDUSTRIA E COMERCIO DE ESCADAS LTDA",
+      "supplierCode": "1217",
+      "manufacturerCode": "TAFD14",
+      "category": "ESCADAS",
+      "categorySlug": "escadas",
+      "path": "/escada-tesoura-aluminiofibra-dupla--4m-7006",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
     },
     {
       "code": "6765",

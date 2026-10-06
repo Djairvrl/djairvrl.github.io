@@ -97,7 +97,7 @@
   "departments": {
     "eyebrow": "Estrutura comercial",
     "title": "Departamentos",
-    "description": "Entre em uma área e navegue por lotes de 50 produtos, sem carregar o catálogo inteiro de uma vez.",
+    "description": "",
     "columns": 4,
     "cardRadius": 9
   },
@@ -167,7 +167,7 @@
     "imageHeight": 340
   },
   "footer": {
-    "institutionalLabel": "Catálogo institucional · sem preços",
+    "institutionalLabel": "",
     "copyrightLabel": "Medeiros Galvão"
   }
 }

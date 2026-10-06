@@ -1404,23 +1404,6 @@
       "sectionSlug": "luvas-e-mangotes"
     },
     {
-      "code": "10193",
-      "title": "LUVA OP MOTOS VAQ 5 DEDOS T9 1/2 CA46986",
-      "brand": "SAYRO",
-      "brandCode": "22",
-      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
-      "supplierCode": "130",
-      "manufacturerCode": "97278",
-      "category": "VAQUETA",
-      "categorySlug": "vaqueta",
-      "path": "/luva-op-motos-vaq-5-dedos-t9-12-ca46986-10193",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Luvas e Mangotes",
-      "sectionSlug": "luvas-e-mangotes"
-    },
-    {
       "code": "1197",
       "title": "LUVA PARA OPERADOR DE MOTOSSERA PALMA EM COURO VAQUETA 12 CAMADAS DE POLIÉSTER - SAYRO REF LOP 610",
       "brand": "SAYRO",
@@ -1640,6 +1623,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Vestimentas Profissionais",
       "sectionSlug": "vestimentas-profissionais"
+    },
+    {
+      "code": "10193",
+      "title": "LUVA OP MOTOS VAQ 5 DEDOS T9 1/2 CA46986",
+      "brand": "SAYRO",
+      "brandCode": "22",
+      "supplier": "SAYRO EQUIPAMENTOS DE SEGURANCA LTDA",
+      "supplierCode": "130",
+      "manufacturerCode": "97278",
+      "category": "VAQUETA",
+      "categorySlug": "vaqueta",
+      "path": "/luva-op-motos-vaq-5-dedos-t9-12-ca46986-10193",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Luvas e Mangotes",
+      "sectionSlug": "luvas-e-mangotes"
     }
   ],
   "pagination": {

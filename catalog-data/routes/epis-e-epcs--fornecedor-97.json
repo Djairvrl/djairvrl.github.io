@@ -1081,23 +1081,6 @@
   },
   "products": [
     {
-      "code": "10190",
-      "title": "BASTAO MANOBRA C/ 1970MM PT C/ BOLSA",
-      "brand": "SERVEQ",
-      "brandCode": "35",
-      "supplier": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
-      "supplierCode": "97",
-      "manufacturerCode": "140862B000",
-      "category": "VARA DE MANOBRA",
-      "categorySlug": "vara-de-manobra",
-      "path": "/bastao-manobra-c-1970mm-pt-c-bolsa-10190",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "NR-10",
-      "sectionSlug": "nr-10"
-    },
-    {
       "code": "6541",
       "title": "ESPORA PARA POSTE DUPLO T 80MM CORREIAS EM COURO CROMO - SERVEQ 120 042 C800",
       "brand": "SERVEQ",
@@ -1113,6 +1096,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Trabalho em Altura",
       "sectionSlug": "trabalho-em-altura"
+    },
+    {
+      "code": "10190",
+      "title": "BASTAO MANOBRA C/ 1970MM PT C/ BOLSA",
+      "brand": "SERVEQ",
+      "brandCode": "35",
+      "supplier": "SERVEQ IND.E COM.DE EQUIP DE PROT INDIV",
+      "supplierCode": "97",
+      "manufacturerCode": "140862B000",
+      "category": "VARA DE MANOBRA",
+      "categorySlug": "vara-de-manobra",
+      "path": "/bastao-manobra-c-1970mm-pt-c-bolsa-10190",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "NR-10",
+      "sectionSlug": "nr-10"
     }
   ],
   "pagination": {

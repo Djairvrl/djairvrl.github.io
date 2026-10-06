@@ -190,23 +190,6 @@
   },
   "products": [
     {
-      "code": "9138",
-      "title": "ARMARIO ARM-10 4 PRATELEIRAS",
-      "brand": "FERCAR",
-      "brandCode": "337",
-      "supplier": "METALURGICA FERCAR LTDA",
-      "supplierCode": "1332",
-      "manufacturerCode": "ARM-10",
-      "category": "ARMÁRIOS",
-      "categorySlug": "armarios",
-      "path": "/armario-arm10-4-prateleiras-9138",
-      "image": null,
-      "department": "Organização e Armazenamento",
-      "departmentSlug": "organizacao-e-armazenamento",
-      "section": "Armazenamento",
-      "sectionSlug": "armazenamento"
-    },
-    {
       "code": "6996",
       "title": "BANCADA FECH TAMPO DE COMPENSADO 200 CDF",
       "brand": "FERCAR",
@@ -256,6 +239,23 @@
       "departmentSlug": "organizacao-e-armazenamento",
       "section": "Organização",
       "sectionSlug": "organizacao"
+    },
+    {
+      "code": "9138",
+      "title": "ARMARIO ARM-10 4 PRATELEIRAS",
+      "brand": "FERCAR",
+      "brandCode": "337",
+      "supplier": "METALURGICA FERCAR LTDA",
+      "supplierCode": "1332",
+      "manufacturerCode": "ARM-10",
+      "category": "ARMÁRIOS",
+      "categorySlug": "armarios",
+      "path": "/armario-arm10-4-prateleiras-9138",
+      "image": null,
+      "department": "Organização e Armazenamento",
+      "departmentSlug": "organizacao-e-armazenamento",
+      "section": "Armazenamento",
+      "sectionSlug": "armazenamento"
     },
     {
       "code": "8827",

@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "13196",
-      "title": "JM CANTONEIRA PROF CORTE MDF",
-      "brand": "JAMAD",
-      "brandCode": "520",
-      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
-      "supplierCode": "563",
-      "manufacturerCode": "3812",
-      "category": "CANTONEIRAS",
-      "categorySlug": "cantoneiras",
-      "path": "/jm-cantoneira-prof-corte-mdf-13196",
-      "image": null,
-      "department": "Material de Construção",
-      "departmentSlug": "material-de-construcao",
-      "section": "Ferragens",
-      "sectionSlug": "ferragens"
-    },
-    {
       "code": "13195",
       "title": "PINUS MDF BRANCO 15MM 2FC 275X185",
       "brand": "JAMAD",
@@ -42,6 +25,23 @@
       "departmentSlug": "material-de-construcao",
       "section": "Madeira",
       "sectionSlug": "madeira"
+    },
+    {
+      "code": "13196",
+      "title": "JM CANTONEIRA PROF CORTE MDF",
+      "brand": "JAMAD",
+      "brandCode": "520",
+      "supplier": "JAMAD MADEIRAS E FERRAGENS EIRELI",
+      "supplierCode": "563",
+      "manufacturerCode": "3812",
+      "category": "CANTONEIRAS",
+      "categorySlug": "cantoneiras",
+      "path": "/jm-cantoneira-prof-corte-mdf-13196",
+      "image": null,
+      "department": "Material de Construção",
+      "departmentSlug": "material-de-construcao",
+      "section": "Ferragens",
+      "sectionSlug": "ferragens"
     }
   ],
   "pagination": {

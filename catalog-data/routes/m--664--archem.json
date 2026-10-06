@@ -10,23 +10,6 @@
   "children": [],
   "products": [
     {
-      "code": "11151",
-      "title": "ARCHEM SM 26 20L",
-      "brand": "ARCHEM",
-      "brandCode": "664",
-      "supplier": "JOTAPEDOIS COMERCIO E SERVICOS LTDA",
-      "supplierCode": "4617",
-      "manufacturerCode": "3042",
-      "category": "DESENGRAXANTES",
-      "categorySlug": "desengraxantes",
-      "path": "/archem-sm-26-20l-11151",
-      "image": null,
-      "department": "Ambiental",
-      "departmentSlug": "ambiental",
-      "section": "Limpeza Industrial",
-      "sectionSlug": "limpeza-industrial"
-    },
-    {
       "code": "9299",
       "title": "SOLVENTE DE SEG P/ LIMPEZA DE EQUIP ELET",
       "brand": "ARCHEM",
@@ -42,6 +25,23 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Pintura e Químicos",
       "sectionSlug": "pintura-e-quimicos"
+    },
+    {
+      "code": "11151",
+      "title": "ARCHEM SM 26 20L",
+      "brand": "ARCHEM",
+      "brandCode": "664",
+      "supplier": "JOTAPEDOIS COMERCIO E SERVICOS LTDA",
+      "supplierCode": "4617",
+      "manufacturerCode": "3042",
+      "category": "DESENGRAXANTES",
+      "categorySlug": "desengraxantes",
+      "path": "/archem-sm-26-20l-11151",
+      "image": null,
+      "department": "Ambiental",
+      "departmentSlug": "ambiental",
+      "section": "Limpeza Industrial",
+      "sectionSlug": "limpeza-industrial"
     }
   ],
   "pagination": {

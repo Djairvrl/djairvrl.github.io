@@ -214,23 +214,6 @@
       "sectionSlug": "solda-industrial"
     },
     {
-      "code": "6393",
-      "title": "FONTE INVERSORA DE SOLDA 200A LHN 242I 220V - ESAB 0742528",
-      "brand": "ESAB",
-      "brandCode": "274",
-      "supplier": "ESAB INDUSTRIA E COMERCIO LTDA",
-      "supplierCode": "1190",
-      "manufacturerCode": "000000000000742528",
-      "category": "MAQUINA DE SOLDA",
-      "categorySlug": "maquina-de-solda",
-      "path": "/fonte-inversora-de-solda-200a-lhn-242i-220v--esab-0742528-6393",
-      "image": null,
-      "department": "Máquinas e Acessórios",
-      "departmentSlug": "maquinas-e-acessorios",
-      "section": "Solda Industrial",
-      "sectionSlug": "solda-industrial"
-    },
-    {
       "code": "6392",
       "title": "FONTE INVERSORA DE SOLDA LHN 202I-220V",
       "brand": "ESAB",
@@ -314,6 +297,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Proteção Facial",
       "sectionSlug": "protecao-facial"
+    },
+    {
+      "code": "6393",
+      "title": "FONTE INVERSORA DE SOLDA 200A LHN 242I 220V - ESAB 0742528",
+      "brand": "ESAB",
+      "brandCode": "274",
+      "supplier": "ESAB INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1190",
+      "manufacturerCode": "000000000000742528",
+      "category": "MAQUINA DE SOLDA",
+      "categorySlug": "maquina-de-solda",
+      "path": "/fonte-inversora-de-solda-200a-lhn-242i-220v--esab-0742528-6393",
+      "image": null,
+      "department": "Máquinas e Acessórios",
+      "departmentSlug": "maquinas-e-acessorios",
+      "section": "Solda Industrial",
+      "sectionSlug": "solda-industrial"
     },
     {
       "code": "11253",

@@ -61,23 +61,6 @@
       "sectionSlug": "ferramentas-manuais"
     },
     {
-      "code": "6827",
-      "title": "MANDIBULA MATRIZ CRIMPAR TERM TUB10/35MM",
-      "brand": "MANUKS",
-      "brandCode": "358",
-      "supplier": "MH MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
-      "supplierCode": "1381",
-      "manufacturerCode": "A-35WFI",
-      "category": "ALICATES",
-      "categorySlug": "alicates",
-      "path": "/mandibula-matriz-crimpar-term-tub1035mm-6827",
-      "image": null,
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Ferramentas Manuais",
-      "sectionSlug": "ferramentas-manuais"
-    },
-    {
       "code": "3488",
       "title": "TERMINAL ANEL ISOL 0,5-1,5MM2 M5 VERM",
       "brand": "MANUKS",
@@ -110,6 +93,23 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Materias Elétricos",
       "sectionSlug": "materias-eletricos"
+    },
+    {
+      "code": "6827",
+      "title": "MANDIBULA MATRIZ CRIMPAR TERM TUB10/35MM",
+      "brand": "MANUKS",
+      "brandCode": "358",
+      "supplier": "MH MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
+      "supplierCode": "1381",
+      "manufacturerCode": "A-35WFI",
+      "category": "ALICATES",
+      "categorySlug": "alicates",
+      "path": "/mandibula-matriz-crimpar-term-tub1035mm-6827",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
     },
     {
       "code": "7076",

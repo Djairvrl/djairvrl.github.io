@@ -1081,23 +1081,6 @@
   },
   "products": [
     {
-      "code": "7152",
-      "title": "MASCARA DE SOLDA AUTOMATICA",
-      "brand": "WORKER",
-      "brandCode": "421",
-      "supplier": "AJS E SILVA LTDA",
-      "supplierCode": "798",
-      "manufacturerCode": "1595",
-      "category": "MÁSCARA DE SOLDA",
-      "categorySlug": "mascara-de-solda",
-      "path": "/mascara-de-solda-automatica-7152",
-      "image": null,
-      "department": "EPIs e EPCs",
-      "departmentSlug": "epis-e-epcs",
-      "section": "Proteção Facial",
-      "sectionSlug": "protecao-facial"
-    },
-    {
       "code": "7947",
       "title": "SABONETEIRA SOBREPOR INOX",
       "brand": "DIVERSOS",
@@ -1113,6 +1096,23 @@
       "departmentSlug": "epis-e-epcs",
       "section": "Higienização e Proteção da Pele",
       "sectionSlug": "higienizacao-e-protecao-da-pele"
+    },
+    {
+      "code": "7152",
+      "title": "MASCARA DE SOLDA AUTOMATICA",
+      "brand": "WORKER",
+      "brandCode": "421",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "1595",
+      "category": "MÁSCARA DE SOLDA",
+      "categorySlug": "mascara-de-solda",
+      "path": "/mascara-de-solda-automatica-7152",
+      "image": null,
+      "department": "EPIs e EPCs",
+      "departmentSlug": "epis-e-epcs",
+      "section": "Proteção Facial",
+      "sectionSlug": "protecao-facial"
     }
   ],
   "pagination": {

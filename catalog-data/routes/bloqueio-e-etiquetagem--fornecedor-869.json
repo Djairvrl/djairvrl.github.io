@@ -226,23 +226,6 @@
   },
   "products": [
     {
-      "code": "7978",
-      "title": "BLOQUEIO UNIVERSAL P/ DISJUNTOR I-D04",
-      "brand": "FARIA",
-      "brandCode": "216",
-      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
-      "supplierCode": "869",
-      "manufacturerCode": "I-D04",
-      "category": "BLOQUEIO DE DISJUNTORES",
-      "categorySlug": "bloqueio-de-disjuntores",
-      "path": "/bloqueio-universal-p-disjuntor-id04-7978",
-      "image": null,
-      "department": "Bloqueio e Etiquetagem",
-      "departmentSlug": "bloqueio-e-etiquetagem",
-      "section": "Bloqueios Elétricos",
-      "sectionSlug": "bloqueios-eletricos"
-    },
-    {
       "code": "5031",
       "title": "CADEADO AMARELO PLASTICO NR-10",
       "brand": "FARIA",
@@ -377,6 +360,23 @@
       "departmentSlug": "bloqueio-e-etiquetagem",
       "section": "Garras De Bloqueio",
       "sectionSlug": "garras-de-bloqueio"
+    },
+    {
+      "code": "7978",
+      "title": "BLOQUEIO UNIVERSAL P/ DISJUNTOR I-D04",
+      "brand": "FARIA",
+      "brandCode": "216",
+      "supplier": "FARIA INDUSTRIA E COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRE",
+      "supplierCode": "869",
+      "manufacturerCode": "I-D04",
+      "category": "BLOQUEIO DE DISJUNTORES",
+      "categorySlug": "bloqueio-de-disjuntores",
+      "path": "/bloqueio-universal-p-disjuntor-id04-7978",
+      "image": null,
+      "department": "Bloqueio e Etiquetagem",
+      "departmentSlug": "bloqueio-e-etiquetagem",
+      "section": "Bloqueios Elétricos",
+      "sectionSlug": "bloqueios-eletricos"
     }
   ],
   "pagination": {

@@ -10,6 +10,23 @@
   "children": [],
   "products": [
     {
+      "code": "9272",
+      "title": "TOMADA INDUSTRIAL 3P+T+N 63A 380/440V 6H",
+      "brand": "LUKMA",
+      "brandCode": "660",
+      "supplier": "AJS E SILVA LTDA",
+      "supplierCode": "798",
+      "manufacturerCode": "2537",
+      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
+      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
+      "path": "/tomada-industrial-3ptn-63a-380440v-6h-9272",
+      "image": "/products/images/0092/9272.jpg",
+      "department": "Suprimentos BOP",
+      "departmentSlug": "suprimentos-bop",
+      "section": "Material Elétrico Industrial",
+      "sectionSlug": "material-eletrico-industrial"
+    },
+    {
       "code": "11306",
       "title": "TERMINAL PRE ISOLADO TUBULAR 1,5MM PRETO",
       "brand": "LUKMA",
@@ -42,23 +59,6 @@
       "departmentSlug": "acessorios-e-consumiveis",
       "section": "Materias Elétricos",
       "sectionSlug": "materias-eletricos"
-    },
-    {
-      "code": "9272",
-      "title": "TOMADA INDUSTRIAL 3P+T+N 63A 380/440V 6H",
-      "brand": "LUKMA",
-      "brandCode": "660",
-      "supplier": "AJS E SILVA LTDA",
-      "supplierCode": "798",
-      "manufacturerCode": "2537",
-      "category": "PLUGUE, TOMADA E ACOPLAMENTO INDUSTRIAL",
-      "categorySlug": "plugue-tomada-e-acoplamento-industrial",
-      "path": "/tomada-industrial-3ptn-63a-380440v-6h-9272",
-      "image": "/products/images/0092/9272.jpg",
-      "department": "Suprimentos BOP",
-      "departmentSlug": "suprimentos-bop",
-      "section": "Material Elétrico Industrial",
-      "sectionSlug": "material-eletrico-industrial"
     }
   ],
   "pagination": {

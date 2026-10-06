@@ -27,6 +27,23 @@
       "sectionSlug": "motores"
     },
     {
+      "code": "4253",
+      "title": "PULVERIZADOR 20 LITROS COSTAL MANUAL 4 BICOS GP2000 - INTECH MACHINE",
+      "brand": "INTECH MACHINE",
+      "brandCode": "217",
+      "supplier": "SEMAR IMPORT ATACADISTA LTDA",
+      "supplierCode": "899",
+      "manufacturerCode": "GP2000",
+      "category": "PULVERIZADORES",
+      "categorySlug": "pulverizadores",
+      "path": "/pulverizador-20-litros-costal-manual-4-bicos-gp2000--intech-machine-4253",
+      "image": "/products/images/0042/4253.jpg",
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas de Jardinagem",
+      "sectionSlug": "ferramentas-de-jardinagem"
+    },
+    {
       "code": "11491",
       "title": "BOMBA PERIFERICA MONOFASICA BP500-127V",
       "brand": "INTECH MACHINE",
@@ -59,23 +76,6 @@
       "departmentSlug": "maquinas-e-acessorios",
       "section": "Motores",
       "sectionSlug": "motores"
-    },
-    {
-      "code": "4253",
-      "title": "PULVERIZADOR 20 LITROS COSTAL MANUAL 4 BICOS GP2000 - INTECH MACHINE",
-      "brand": "INTECH MACHINE",
-      "brandCode": "217",
-      "supplier": "SEMAR IMPORT ATACADISTA LTDA",
-      "supplierCode": "899",
-      "manufacturerCode": "GP2000",
-      "category": "PULVERIZADORES",
-      "categorySlug": "pulverizadores",
-      "path": "/pulverizador-20-litros-costal-manual-4-bicos-gp2000--intech-machine-4253",
-      "image": "/products/images/0042/4253.jpg",
-      "department": "Ferramentas",
-      "departmentSlug": "ferramentas",
-      "section": "Ferramentas de Jardinagem",
-      "sectionSlug": "ferramentas-de-jardinagem"
     }
   ],
   "pagination": {
