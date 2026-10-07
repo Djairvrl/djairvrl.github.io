@@ -123,6 +123,50 @@
       },
       "acessorios-e-consumiveis": {
         "image": "/shared-assets/79918e2c-3875-4208-95f6-e619300d846b.webp"
+      },
+      "ambiental": {
+        "image": "/shared-assets/4ea158db-64f6-4edc-a00d-e8f807696657.webp",
+        "position": "top"
+      },
+      "suprimentos-corporativos": {
+        "image": "/shared-assets/bd83f61c-483c-49e4-91ad-9199cb47a654.webp",
+        "position": "top"
+      },
+      "suprimentos-bop": {
+        "image": "/shared-assets/13098483-67ea-4613-9b0c-b876c8a3ef0d.webp",
+        "position": "top"
+      },
+      "medicao-e-teste": {
+        "image": "/shared-assets/fc000bff-1684-4750-aee6-0f98a27e955d.webp",
+        "position": "top"
+      },
+      "bloqueio-e-etiquetagem": {
+        "image": "/shared-assets/c835f262-8a01-4809-a85c-94b192331b23.webp",
+        "position": "top"
+      },
+      "amarracao-e-elevacao": {
+        "image": "/shared-assets/803e9774-aed4-4830-a011-6d4e30ccdbda.webp",
+        "position": "top"
+      },
+      "spare-parts-energy": {
+        "image": "/shared-assets/d5758022-7649-488c-bb0d-25266fd7e7b8.webp",
+        "position": "top"
+      },
+      "combate-a-incendio": {
+        "image": "/shared-assets/17bdae77-383b-4f21-a2f8-9f7336164ca5.webp",
+        "position": "top"
+      },
+      "organizacao-e-armazenamento": {
+        "image": "/shared-assets/7cd7badc-bfc2-4192-882f-ec3264caeb22.webp",
+        "position": "top"
+      },
+      "sinalizacao-de-seguranca": {
+        "image": "/shared-assets/321c16d2-c88e-4de8-b94e-d31024ea96f8.webp",
+        "position": "top"
+      },
+      "material-de-construcao": {
+        "image": "/shared-assets/2efb2069-a5c5-49b3-8510-b41843a45dfe.webp",
+        "position": "top"
       }
     }
   },
