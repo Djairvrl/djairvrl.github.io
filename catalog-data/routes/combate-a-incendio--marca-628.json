@@ -1,0 +1,102 @@
+{
+  "title": "Combate a Incêndio",
+  "parentLabel": "Departamento",
+  "description": "Produtos da marca JEDAL neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Combate a Incêndio"
+    }
+  ],
+  "children": [
+    {
+      "name": "Dispositivos e Acessórios",
+      "slug": "dispositivos-e-acessorios",
+      "path": "/combate-a-incendio/dispositivos-e-acessorios",
+      "count": 90,
+      "categories": [
+        {
+          "name": "ABRIGOS",
+          "slug": "abrigos",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/abrigos",
+          "count": 8
+        },
+        {
+          "name": "ACESSÓRIOS",
+          "slug": "acessorios",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/acessorios",
+          "count": 42
+        },
+        {
+          "name": "ARMÁRIOS CORTA-FOGO",
+          "slug": "armarios-corta-fogo",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/armarios-corta-fogo",
+          "count": 3
+        },
+        {
+          "name": "BOLAS EXTINTORAS",
+          "slug": "bolas-extintoras",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/bolas-extintoras",
+          "count": 1
+        },
+        {
+          "name": "EXTINTORES",
+          "slug": "extintores",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/extintores",
+          "count": 29
+        },
+        {
+          "name": "MANGUEIRAS DE INCÊNDIO",
+          "slug": "mangueiras-de-incendio",
+          "path": "/combate-a-incendio/dispositivos-e-acessorios/mangueiras-de-incendio",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "activeBrand": {
+    "code": "628",
+    "name": "JEDAL"
+  },
+  "products": [
+    {
+      "code": "5945",
+      "title": "ARMÁRIO CORTA-FOGO PRACTICAL VERMELHO 2,0 × 1,0 × 0,45M - REDENTOR 690504009",
+      "brand": "JEDAL",
+      "brandCode": "628",
+      "supplier": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1134",
+      "manufacturerCode": "690504009",
+      "category": "ARMÁRIOS CORTA-FOGO",
+      "categorySlug": "armarios-corta-fogo",
+      "path": "/armario-cortafogo-practical-vermelho-20-10-045m--redentor-690504009-5945",
+      "image": "/products/images/0059/5945.jpg",
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    },
+    {
+      "code": "11350",
+      "title": "ARMARIO CORTA FOGO STD PREM VERM2X1X0,45",
+      "brand": "JEDAL",
+      "brandCode": "628",
+      "supplier": "JEDAL REDENTOR INDUSTRIA E COMERCIO LTDA",
+      "supplierCode": "1134",
+      "manufacturerCode": "690204009B",
+      "category": "ARMÁRIOS CORTA-FOGO",
+      "categorySlug": "armarios-corta-fogo",
+      "path": "/armario-corta-fogo-std-prem-verm2x1x045-11350",
+      "image": null,
+      "department": "Combate a Incêndio",
+      "departmentSlug": "combate-a-incendio",
+      "section": "Dispositivos e Acessórios",
+      "sectionSlug": "dispositivos-e-acessorios"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 2,
+    "pageBase": "combate-a-incendio--marca-628"
+  }
+}

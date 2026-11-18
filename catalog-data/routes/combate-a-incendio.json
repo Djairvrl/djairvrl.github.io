@@ -53,6 +53,152 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "773",
+      "name": "A R AQUINO",
+      "count": 1,
+      "file": "combate-a-incendio--marca-773.json"
+    },
+    {
+      "code": "630",
+      "name": "AR ARQUINO",
+      "count": 3,
+      "file": "combate-a-incendio--marca-630.json"
+    },
+    {
+      "code": "1092",
+      "name": "ARGUS",
+      "count": 2,
+      "file": "combate-a-incendio--marca-1092.json"
+    },
+    {
+      "code": "574",
+      "name": "COMERCIAL FIRE",
+      "count": 1,
+      "file": "combate-a-incendio--marca-574.json"
+    },
+    {
+      "code": "1039",
+      "name": "COUTOFLEX",
+      "count": 6,
+      "file": "combate-a-incendio--marca-1039.json"
+    },
+    {
+      "code": "341",
+      "name": "DAKEN",
+      "count": 3,
+      "file": "combate-a-incendio--marca-341.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 15,
+      "file": "combate-a-incendio--marca-1.json"
+    },
+    {
+      "code": "1237",
+      "name": "DORMAKABA",
+      "count": 1,
+      "file": "combate-a-incendio--marca-1237.json"
+    },
+    {
+      "code": "1003",
+      "name": "EXTINPEL",
+      "count": 6,
+      "file": "combate-a-incendio--marca-1003.json"
+    },
+    {
+      "code": "1041",
+      "name": "FCV INDUSTRIA",
+      "count": 4,
+      "file": "combate-a-incendio--marca-1041.json"
+    },
+    {
+      "code": "583",
+      "name": "FIRE BLANKET",
+      "count": 2,
+      "file": "combate-a-incendio--marca-583.json"
+    },
+    {
+      "code": "238",
+      "name": "FIREX",
+      "count": 1,
+      "file": "combate-a-incendio--marca-238.json"
+    },
+    {
+      "code": "171",
+      "name": "GUARANY",
+      "count": 3,
+      "file": "combate-a-incendio--marca-171.json"
+    },
+    {
+      "code": "71",
+      "name": "HONEYWELL",
+      "count": 1,
+      "file": "combate-a-incendio--marca-71.json"
+    },
+    {
+      "code": "943",
+      "name": "ILUMAC",
+      "count": 1,
+      "file": "combate-a-incendio--marca-943.json"
+    },
+    {
+      "code": "300",
+      "name": "INTELBRAS",
+      "count": 2,
+      "file": "combate-a-incendio--marca-300.json"
+    },
+    {
+      "code": "628",
+      "name": "JEDAL",
+      "count": 2,
+      "file": "combate-a-incendio--marca-628.json"
+    },
+    {
+      "code": "443",
+      "name": "MOCELIN",
+      "count": 16,
+      "file": "combate-a-incendio--marca-443.json"
+    },
+    {
+      "code": "548",
+      "name": "PREDYFLEX",
+      "count": 1,
+      "file": "combate-a-incendio--marca-548.json"
+    },
+    {
+      "code": "84",
+      "name": "PROTEGE",
+      "count": 1,
+      "file": "combate-a-incendio--marca-84.json"
+    },
+    {
+      "code": "129",
+      "name": "RESIL",
+      "count": 7,
+      "file": "combate-a-incendio--marca-129.json"
+    },
+    {
+      "code": "437",
+      "name": "SEAFLO",
+      "count": 1,
+      "file": "combate-a-incendio--marca-437.json"
+    },
+    {
+      "code": "879",
+      "name": "SEGURIMAX",
+      "count": 2,
+      "file": "combate-a-incendio--marca-879.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 8,
+      "file": "combate-a-incendio--marca-73.json"
+    }
+  ],
   "products": [
     {
       "code": "4867",

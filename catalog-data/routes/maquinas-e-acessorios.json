@@ -429,6 +429,512 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "25",
+      "name": "ACO CEARENÇE",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-25.json"
+    },
+    {
+      "code": "653",
+      "name": "AFR",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-653.json"
+    },
+    {
+      "code": "735",
+      "name": "ARB",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-735.json"
+    },
+    {
+      "code": "247",
+      "name": "ARPREX",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-247.json"
+    },
+    {
+      "code": "184",
+      "name": "BALMER",
+      "count": 26,
+      "file": "maquinas-e-acessorios--marca-184.json"
+    },
+    {
+      "code": "329",
+      "name": "BAMBOZZI",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-329.json"
+    },
+    {
+      "code": "510",
+      "name": "BERMAD",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-510.json"
+    },
+    {
+      "code": "70",
+      "name": "BOSCH",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-70.json"
+    },
+    {
+      "code": "1014",
+      "name": "BOXER",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-1014.json"
+    },
+    {
+      "code": "52",
+      "name": "BOZZA",
+      "count": 4,
+      "file": "maquinas-e-acessorios--marca-52.json"
+    },
+    {
+      "code": "532",
+      "name": "BR TORCH",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-532.json"
+    },
+    {
+      "code": "136",
+      "name": "BRANCO",
+      "count": 13,
+      "file": "maquinas-e-acessorios--marca-136.json"
+    },
+    {
+      "code": "1095",
+      "name": "BRASILHOME NET",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1095.json"
+    },
+    {
+      "code": "316",
+      "name": "BW",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-316.json"
+    },
+    {
+      "code": "37",
+      "name": "CARBOGRAFITE",
+      "count": 9,
+      "file": "maquinas-e-acessorios--marca-37.json"
+    },
+    {
+      "code": "352",
+      "name": "COBIX",
+      "count": 4,
+      "file": "maquinas-e-acessorios--marca-352.json"
+    },
+    {
+      "code": "769",
+      "name": "CSM",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-769.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 26,
+      "file": "maquinas-e-acessorios--marca-1.json"
+    },
+    {
+      "code": "1128",
+      "name": "EBARA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1128.json"
+    },
+    {
+      "code": "118",
+      "name": "ENERPAC",
+      "count": 17,
+      "file": "maquinas-e-acessorios--marca-118.json"
+    },
+    {
+      "code": "363",
+      "name": "EOS",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-363.json"
+    },
+    {
+      "code": "274",
+      "name": "ESAB",
+      "count": 14,
+      "file": "maquinas-e-acessorios--marca-274.json"
+    },
+    {
+      "code": "756",
+      "name": "EUROBOMBAS",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-756.json"
+    },
+    {
+      "code": "250",
+      "name": "FAMABRAS",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-250.json"
+    },
+    {
+      "code": "213",
+      "name": "FERRARI",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-213.json"
+    },
+    {
+      "code": "111",
+      "name": "FORCELINE",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-111.json"
+    },
+    {
+      "code": "1116",
+      "name": "FURIO",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1116.json"
+    },
+    {
+      "code": "81",
+      "name": "GEDORE",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-81.json"
+    },
+    {
+      "code": "225",
+      "name": "GOLDEN BRIDGE",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-225.json"
+    },
+    {
+      "code": "1221",
+      "name": "H SOLDAS",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1221.json"
+    },
+    {
+      "code": "505",
+      "name": "HIKARI",
+      "count": 6,
+      "file": "maquinas-e-acessorios--marca-505.json"
+    },
+    {
+      "code": "71",
+      "name": "HONEYWELL",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-71.json"
+    },
+    {
+      "code": "405",
+      "name": "IMPLASTEC",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-405.json"
+    },
+    {
+      "code": "470",
+      "name": "IMPORT",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-470.json"
+    },
+    {
+      "code": "217",
+      "name": "INTECH MACHINE",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-217.json"
+    },
+    {
+      "code": "234",
+      "name": "IPC",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-234.json"
+    },
+    {
+      "code": "260",
+      "name": "ITAQUA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-260.json"
+    },
+    {
+      "code": "978",
+      "name": "JET FLEX",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-978.json"
+    },
+    {
+      "code": "768",
+      "name": "JETFLEX",
+      "count": 4,
+      "file": "maquinas-e-acessorios--marca-768.json"
+    },
+    {
+      "code": "271",
+      "name": "KARCHER",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-271.json"
+    },
+    {
+      "code": "221",
+      "name": "LAVOR",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-221.json"
+    },
+    {
+      "code": "1179",
+      "name": "LIGENAI",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1179.json"
+    },
+    {
+      "code": "254",
+      "name": "MAKITA",
+      "count": 15,
+      "file": "maquinas-e-acessorios--marca-254.json"
+    },
+    {
+      "code": "93",
+      "name": "MARCON",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-93.json"
+    },
+    {
+      "code": "1033",
+      "name": "MAT-NACIONAL",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1033.json"
+    },
+    {
+      "code": "343",
+      "name": "MOBIL",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-343.json"
+    },
+    {
+      "code": "9",
+      "name": "MSA",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-9.json"
+    },
+    {
+      "code": "102",
+      "name": "MTX",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-102.json"
+    },
+    {
+      "code": "403",
+      "name": "NAGANO",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-403.json"
+    },
+    {
+      "code": "178",
+      "name": "NOLL",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-178.json"
+    },
+    {
+      "code": "670",
+      "name": "NOVE 54",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-670.json"
+    },
+    {
+      "code": "655",
+      "name": "PCI",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-655.json"
+    },
+    {
+      "code": "1117",
+      "name": "ROSSI",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-1117.json"
+    },
+    {
+      "code": "174",
+      "name": "ROTHENBERGER",
+      "count": 5,
+      "file": "maquinas-e-acessorios--marca-174.json"
+    },
+    {
+      "code": "390",
+      "name": "ROUTER",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-390.json"
+    },
+    {
+      "code": "163",
+      "name": "SATA",
+      "count": 6,
+      "file": "maquinas-e-acessorios--marca-163.json"
+    },
+    {
+      "code": "566",
+      "name": "SCHNEIDER",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-566.json"
+    },
+    {
+      "code": "113",
+      "name": "SCHULZ",
+      "count": 13,
+      "file": "maquinas-e-acessorios--marca-113.json"
+    },
+    {
+      "code": "879",
+      "name": "SEGURIMAX",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-879.json"
+    },
+    {
+      "code": "55",
+      "name": "SIGMA",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-55.json"
+    },
+    {
+      "code": "354",
+      "name": "SOMAR",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-354.json"
+    },
+    {
+      "code": "1015",
+      "name": "SQR",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1015.json"
+    },
+    {
+      "code": "137",
+      "name": "STANLEY",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-137.json"
+    },
+    {
+      "code": "838",
+      "name": "STARTOOLS",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-838.json"
+    },
+    {
+      "code": "131",
+      "name": "STAUFF",
+      "count": 5,
+      "file": "maquinas-e-acessorios--marca-131.json"
+    },
+    {
+      "code": "105",
+      "name": "STELS",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-105.json"
+    },
+    {
+      "code": "558",
+      "name": "STROM",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-558.json"
+    },
+    {
+      "code": "651",
+      "name": "SUG-MAX",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-651.json"
+    },
+    {
+      "code": "345",
+      "name": "TECBRIL",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-345.json"
+    },
+    {
+      "code": "549",
+      "name": "TOYAMA",
+      "count": 7,
+      "file": "maquinas-e-acessorios--marca-549.json"
+    },
+    {
+      "code": "83",
+      "name": "TRAMONTINA",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-83.json"
+    },
+    {
+      "code": "12",
+      "name": "V8 BRASIL",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-12.json"
+    },
+    {
+      "code": "633",
+      "name": "VIPART",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-633.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 5,
+      "file": "maquinas-e-acessorios--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 44,
+      "file": "maquinas-e-acessorios--marca-47.json"
+    },
+    {
+      "code": "461",
+      "name": "WAP",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-461.json"
+    },
+    {
+      "code": "353",
+      "name": "WEBPLASTICO",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-353.json"
+    },
+    {
+      "code": "1105",
+      "name": "WELDQUALITY",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-1105.json"
+    },
+    {
+      "code": "1044",
+      "name": "WELDVISION",
+      "count": 5,
+      "file": "maquinas-e-acessorios--marca-1044.json"
+    },
+    {
+      "code": "292",
+      "name": "WESTERN",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-292.json"
+    },
+    {
+      "code": "421",
+      "name": "WORKER",
+      "count": 2,
+      "file": "maquinas-e-acessorios--marca-421.json"
+    },
+    {
+      "code": "261",
+      "name": "YAXUN",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-261.json"
+    },
+    {
+      "code": "833",
+      "name": "ZIMPOR",
+      "count": 1,
+      "file": "maquinas-e-acessorios--marca-833.json"
+    },
+    {
+      "code": "244",
+      "name": "ZM BOMBAS",
+      "count": 3,
+      "file": "maquinas-e-acessorios--marca-244.json"
+    }
+  ],
   "products": [
     {
       "code": "13054",

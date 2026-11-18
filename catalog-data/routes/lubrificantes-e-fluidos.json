@@ -127,6 +127,176 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "1217",
+      "name": "BARDAHL",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-1217.json"
+    },
+    {
+      "code": "890",
+      "name": "CASTROL",
+      "count": 3,
+      "file": "lubrificantes-e-fluidos--marca-890.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-1.json"
+    },
+    {
+      "code": "695",
+      "name": "ELOS",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-695.json"
+    },
+    {
+      "code": "755",
+      "name": "FAG",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-755.json"
+    },
+    {
+      "code": "753",
+      "name": "FUCHS",
+      "count": 3,
+      "file": "lubrificantes-e-fluidos--marca-753.json"
+    },
+    {
+      "code": "1188",
+      "name": "INGERSOLL",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-1188.json"
+    },
+    {
+      "code": "380",
+      "name": "KLUBER",
+      "count": 14,
+      "file": "lubrificantes-e-fluidos--marca-380.json"
+    },
+    {
+      "code": "1131",
+      "name": "LUBRAX",
+      "count": 3,
+      "file": "lubrificantes-e-fluidos--marca-1131.json"
+    },
+    {
+      "code": "950",
+      "name": "MINNER",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-950.json"
+    },
+    {
+      "code": "343",
+      "name": "MOBIL",
+      "count": 5,
+      "file": "lubrificantes-e-fluidos--marca-343.json"
+    },
+    {
+      "code": "379",
+      "name": "MOLYKOTE",
+      "count": 3,
+      "file": "lubrificantes-e-fluidos--marca-379.json"
+    },
+    {
+      "code": "144",
+      "name": "ORBI",
+      "count": 4,
+      "file": "lubrificantes-e-fluidos--marca-144.json"
+    },
+    {
+      "code": "748",
+      "name": "PARAFLU",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-748.json"
+    },
+    {
+      "code": "959",
+      "name": "SCHAEFFLER",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-959.json"
+    },
+    {
+      "code": "113",
+      "name": "SCHULZ",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-113.json"
+    },
+    {
+      "code": "930",
+      "name": "SHELL",
+      "count": 9,
+      "file": "lubrificantes-e-fluidos--marca-930.json"
+    },
+    {
+      "code": "251",
+      "name": "SKF",
+      "count": 2,
+      "file": "lubrificantes-e-fluidos--marca-251.json"
+    },
+    {
+      "code": "774",
+      "name": "STIHL",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-774.json"
+    },
+    {
+      "code": "468",
+      "name": "TEC-COM10",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-468.json"
+    },
+    {
+      "code": "498",
+      "name": "TEKBOND",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-498.json"
+    },
+    {
+      "code": "997",
+      "name": "TEXACO",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-997.json"
+    },
+    {
+      "code": "904",
+      "name": "TNLUB",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-904.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-47.json"
+    },
+    {
+      "code": "792",
+      "name": "W-MAX",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-792.json"
+    },
+    {
+      "code": "220",
+      "name": "WD40",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-220.json"
+    },
+    {
+      "code": "61",
+      "name": "WURTH",
+      "count": 2,
+      "file": "lubrificantes-e-fluidos--marca-61.json"
+    },
+    {
+      "code": "1072",
+      "name": "X5KRAYDEN",
+      "count": 1,
+      "file": "lubrificantes-e-fluidos--marca-1072.json"
+    }
+  ],
   "products": [
     {
       "code": "7448",

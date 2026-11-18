@@ -1,0 +1,22 @@
+{
+  "page": 7,
+  "products": [
+    {
+      "code": "3330",
+      "title": "TORQUIMETRO ESTALO 3/4 110-550NM",
+      "brand": "SATA",
+      "brandCode": "163",
+      "supplier": "APEX TOOL GROUP INDUSTRIA E COMERCIO DE FERRAMENTAS LTDA",
+      "supplierCode": "628",
+      "manufacturerCode": "ST96411SC",
+      "category": "TORQUÍMETROS E ACESSÓRIOS",
+      "categorySlug": "torquimetros-e-acessorios",
+      "path": "/torquimetro-estalo-34-110550nm-3330",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Manuais",
+      "sectionSlug": "ferramentas-manuais"
+    }
+  ]
+}

@@ -37,6 +37,26 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "831",
+      "name": "BECKER",
+      "count": 1,
+      "file": "compositos--marca-831.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 1,
+      "file": "compositos--marca-1.json"
+    },
+    {
+      "code": "933",
+      "name": "SHERWIN- WILLIAMS",
+      "count": 1,
+      "file": "compositos--marca-933.json"
+    }
+  ],
   "products": [
     {
       "code": "11400",

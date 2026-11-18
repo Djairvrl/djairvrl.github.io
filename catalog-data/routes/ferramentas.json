@@ -805,6 +805,974 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "2",
+      "name": "3M",
+      "count": 2,
+      "file": "ferramentas--marca-2.json"
+    },
+    {
+      "code": "1218",
+      "name": "4X4SC",
+      "count": 1,
+      "file": "ferramentas--marca-1218.json"
+    },
+    {
+      "code": "108",
+      "name": "954",
+      "count": 1,
+      "file": "ferramentas--marca-108.json"
+    },
+    {
+      "code": "806",
+      "name": "ALIANÇA",
+      "count": 1,
+      "file": "ferramentas--marca-806.json"
+    },
+    {
+      "code": "1162",
+      "name": "ALNAJA",
+      "count": 1,
+      "file": "ferramentas--marca-1162.json"
+    },
+    {
+      "code": "288",
+      "name": "ALROC",
+      "count": 1,
+      "file": "ferramentas--marca-288.json"
+    },
+    {
+      "code": "294",
+      "name": "ALROC",
+      "count": 1,
+      "file": "ferramentas--marca-294.json"
+    },
+    {
+      "code": "1118",
+      "name": "AMATOOLS",
+      "count": 1,
+      "file": "ferramentas--marca-1118.json"
+    },
+    {
+      "code": "508",
+      "name": "ANGRY BEE",
+      "count": 1,
+      "file": "ferramentas--marca-508.json"
+    },
+    {
+      "code": "1078",
+      "name": "ANKER",
+      "count": 1,
+      "file": "ferramentas--marca-1078.json"
+    },
+    {
+      "code": "247",
+      "name": "ARPREX",
+      "count": 6,
+      "file": "ferramentas--marca-247.json"
+    },
+    {
+      "code": "585",
+      "name": "AUTOCAR",
+      "count": 1,
+      "file": "ferramentas--marca-585.json"
+    },
+    {
+      "code": "803",
+      "name": "BAZZE",
+      "count": 1,
+      "file": "ferramentas--marca-803.json"
+    },
+    {
+      "code": "830",
+      "name": "BAZZEE",
+      "count": 1,
+      "file": "ferramentas--marca-830.json"
+    },
+    {
+      "code": "164",
+      "name": "BELZER",
+      "count": 56,
+      "file": "ferramentas--marca-164.json"
+    },
+    {
+      "code": "40",
+      "name": "BLACK&DECKER",
+      "count": 1,
+      "file": "ferramentas--marca-40.json"
+    },
+    {
+      "code": "728",
+      "name": "BLASTER",
+      "count": 1,
+      "file": "ferramentas--marca-728.json"
+    },
+    {
+      "code": "1028",
+      "name": "BLUE",
+      "count": 1,
+      "file": "ferramentas--marca-1028.json"
+    },
+    {
+      "code": "1073",
+      "name": "BMAX",
+      "count": 1,
+      "file": "ferramentas--marca-1073.json"
+    },
+    {
+      "code": "70",
+      "name": "BOSCH",
+      "count": 167,
+      "file": "ferramentas--marca-70.json"
+    },
+    {
+      "code": "732",
+      "name": "BOTAFOGO",
+      "count": 1,
+      "file": "ferramentas--marca-732.json"
+    },
+    {
+      "code": "52",
+      "name": "BOZZA",
+      "count": 20,
+      "file": "ferramentas--marca-52.json"
+    },
+    {
+      "code": "136",
+      "name": "BRANCO",
+      "count": 10,
+      "file": "ferramentas--marca-136.json"
+    },
+    {
+      "code": "176",
+      "name": "BREMEN",
+      "count": 9,
+      "file": "ferramentas--marca-176.json"
+    },
+    {
+      "code": "430",
+      "name": "BUMAFER",
+      "count": 2,
+      "file": "ferramentas--marca-430.json"
+    },
+    {
+      "code": "37",
+      "name": "CARBOGRAFITE",
+      "count": 2,
+      "file": "ferramentas--marca-37.json"
+    },
+    {
+      "code": "810",
+      "name": "CLIMA SOFT",
+      "count": 2,
+      "file": "ferramentas--marca-810.json"
+    },
+    {
+      "code": "1005",
+      "name": "COGUGMELO",
+      "count": 1,
+      "file": "ferramentas--marca-1005.json"
+    },
+    {
+      "code": "772",
+      "name": "COGUMELO",
+      "count": 1,
+      "file": "ferramentas--marca-772.json"
+    },
+    {
+      "code": "209",
+      "name": "CONDOR",
+      "count": 1,
+      "file": "ferramentas--marca-209.json"
+    },
+    {
+      "code": "782",
+      "name": "CONEXEL",
+      "count": 1,
+      "file": "ferramentas--marca-782.json"
+    },
+    {
+      "code": "413",
+      "name": "COPETEC",
+      "count": 1,
+      "file": "ferramentas--marca-413.json"
+    },
+    {
+      "code": "769",
+      "name": "CSM",
+      "count": 2,
+      "file": "ferramentas--marca-769.json"
+    },
+    {
+      "code": "138",
+      "name": "DEWALT",
+      "count": 33,
+      "file": "ferramentas--marca-138.json"
+    },
+    {
+      "code": "1080",
+      "name": "DEXTER",
+      "count": 1,
+      "file": "ferramentas--marca-1080.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 40,
+      "file": "ferramentas--marca-1.json"
+    },
+    {
+      "code": "696",
+      "name": "DJI",
+      "count": 1,
+      "file": "ferramentas--marca-696.json"
+    },
+    {
+      "code": "214",
+      "name": "DM FERRAMENTAS",
+      "count": 1,
+      "file": "ferramentas--marca-214.json"
+    },
+    {
+      "code": "92",
+      "name": "DORMER",
+      "count": 3,
+      "file": "ferramentas--marca-92.json"
+    },
+    {
+      "code": "169",
+      "name": "DREMEL",
+      "count": 6,
+      "file": "ferramentas--marca-169.json"
+    },
+    {
+      "code": "1098",
+      "name": "DWT",
+      "count": 1,
+      "file": "ferramentas--marca-1098.json"
+    },
+    {
+      "code": "28",
+      "name": "ELGIN",
+      "count": 1,
+      "file": "ferramentas--marca-28.json"
+    },
+    {
+      "code": "277",
+      "name": "ENERGY",
+      "count": 1,
+      "file": "ferramentas--marca-277.json"
+    },
+    {
+      "code": "115",
+      "name": "ESCAFORT",
+      "count": 1,
+      "file": "ferramentas--marca-115.json"
+    },
+    {
+      "code": "196",
+      "name": "ESCALEVE",
+      "count": 9,
+      "file": "ferramentas--marca-196.json"
+    },
+    {
+      "code": "337",
+      "name": "FERCAR",
+      "count": 2,
+      "file": "ferramentas--marca-337.json"
+    },
+    {
+      "code": "587",
+      "name": "FERTAK",
+      "count": 1,
+      "file": "ferramentas--marca-587.json"
+    },
+    {
+      "code": "416",
+      "name": "FIBRALU",
+      "count": 2,
+      "file": "ferramentas--marca-416.json"
+    },
+    {
+      "code": "253",
+      "name": "FLACH",
+      "count": 4,
+      "file": "ferramentas--marca-253.json"
+    },
+    {
+      "code": "563",
+      "name": "FLEX",
+      "count": 1,
+      "file": "ferramentas--marca-563.json"
+    },
+    {
+      "code": "111",
+      "name": "FORCELINE",
+      "count": 6,
+      "file": "ferramentas--marca-111.json"
+    },
+    {
+      "code": "895",
+      "name": "FORTE CARGA",
+      "count": 1,
+      "file": "ferramentas--marca-895.json"
+    },
+    {
+      "code": "1075",
+      "name": "FORTITUDO",
+      "count": 1,
+      "file": "ferramentas--marca-1075.json"
+    },
+    {
+      "code": "228",
+      "name": "FORTLEV",
+      "count": 3,
+      "file": "ferramentas--marca-228.json"
+    },
+    {
+      "code": "729",
+      "name": "FTM",
+      "count": 2,
+      "file": "ferramentas--marca-729.json"
+    },
+    {
+      "code": "81",
+      "name": "GEDORE",
+      "count": 909,
+      "file": "ferramentas--marca-81.json"
+    },
+    {
+      "code": "119",
+      "name": "GEDORE RED",
+      "count": 161,
+      "file": "ferramentas--marca-119.json"
+    },
+    {
+      "code": "267",
+      "name": "GEDORE SOLUTIONS",
+      "count": 3,
+      "file": "ferramentas--marca-267.json"
+    },
+    {
+      "code": "394",
+      "name": "GENERICA",
+      "count": 1,
+      "file": "ferramentas--marca-394.json"
+    },
+    {
+      "code": "815",
+      "name": "GERDAU",
+      "count": 1,
+      "file": "ferramentas--marca-815.json"
+    },
+    {
+      "code": "106",
+      "name": "GROSS",
+      "count": 6,
+      "file": "ferramentas--marca-106.json"
+    },
+    {
+      "code": "171",
+      "name": "GUARANY",
+      "count": 3,
+      "file": "ferramentas--marca-171.json"
+    },
+    {
+      "code": "13",
+      "name": "HENLAU",
+      "count": 1,
+      "file": "ferramentas--marca-13.json"
+    },
+    {
+      "code": "381",
+      "name": "HYDROFILM",
+      "count": 1,
+      "file": "ferramentas--marca-381.json"
+    },
+    {
+      "code": "1043",
+      "name": "IGLESIAS",
+      "count": 1,
+      "file": "ferramentas--marca-1043.json"
+    },
+    {
+      "code": "605",
+      "name": "IMPLAST",
+      "count": 1,
+      "file": "ferramentas--marca-605.json"
+    },
+    {
+      "code": "217",
+      "name": "INTECH MACHINE",
+      "count": 1,
+      "file": "ferramentas--marca-217.json"
+    },
+    {
+      "code": "325",
+      "name": "INTERALUM",
+      "count": 2,
+      "file": "ferramentas--marca-325.json"
+    },
+    {
+      "code": "256",
+      "name": "IRWIN",
+      "count": 1,
+      "file": "ferramentas--marca-256.json"
+    },
+    {
+      "code": "290",
+      "name": "IW8",
+      "count": 1,
+      "file": "ferramentas--marca-290.json"
+    },
+    {
+      "code": "648",
+      "name": "JACTO",
+      "count": 2,
+      "file": "ferramentas--marca-648.json"
+    },
+    {
+      "code": "194",
+      "name": "K&F",
+      "count": 3,
+      "file": "ferramentas--marca-194.json"
+    },
+    {
+      "code": "271",
+      "name": "KARCHER",
+      "count": 1,
+      "file": "ferramentas--marca-271.json"
+    },
+    {
+      "code": "418",
+      "name": "KING TONY",
+      "count": 4,
+      "file": "ferramentas--marca-418.json"
+    },
+    {
+      "code": "1146",
+      "name": "KITEC",
+      "count": 1,
+      "file": "ferramentas--marca-1146.json"
+    },
+    {
+      "code": "212",
+      "name": "LIFE CINTOS",
+      "count": 1,
+      "file": "ferramentas--marca-212.json"
+    },
+    {
+      "code": "962",
+      "name": "LOTTUS",
+      "count": 1,
+      "file": "ferramentas--marca-962.json"
+    },
+    {
+      "code": "415",
+      "name": "LOTUS",
+      "count": 13,
+      "file": "ferramentas--marca-415.json"
+    },
+    {
+      "code": "286",
+      "name": "LUBEFER",
+      "count": 5,
+      "file": "ferramentas--marca-286.json"
+    },
+    {
+      "code": "168",
+      "name": "LUFKIN",
+      "count": 2,
+      "file": "ferramentas--marca-168.json"
+    },
+    {
+      "code": "281",
+      "name": "LYNUS",
+      "count": 1,
+      "file": "ferramentas--marca-281.json"
+    },
+    {
+      "code": "672",
+      "name": "MAC LUB",
+      "count": 1,
+      "file": "ferramentas--marca-672.json"
+    },
+    {
+      "code": "1150",
+      "name": "MACLUB",
+      "count": 1,
+      "file": "ferramentas--marca-1150.json"
+    },
+    {
+      "code": "398",
+      "name": "MADE BASICS",
+      "count": 1,
+      "file": "ferramentas--marca-398.json"
+    },
+    {
+      "code": "669",
+      "name": "MAGIC ARM",
+      "count": 1,
+      "file": "ferramentas--marca-669.json"
+    },
+    {
+      "code": "254",
+      "name": "MAKITA",
+      "count": 154,
+      "file": "ferramentas--marca-254.json"
+    },
+    {
+      "code": "259",
+      "name": "MANROD",
+      "count": 1,
+      "file": "ferramentas--marca-259.json"
+    },
+    {
+      "code": "358",
+      "name": "MANUKS",
+      "count": 4,
+      "file": "ferramentas--marca-358.json"
+    },
+    {
+      "code": "1058",
+      "name": "MASCOT",
+      "count": 1,
+      "file": "ferramentas--marca-1058.json"
+    },
+    {
+      "code": "944",
+      "name": "MAXI TRUST",
+      "count": 1,
+      "file": "ferramentas--marca-944.json"
+    },
+    {
+      "code": "167",
+      "name": "MAYLE",
+      "count": 3,
+      "file": "ferramentas--marca-167.json"
+    },
+    {
+      "code": "616",
+      "name": "MEMORYTEC",
+      "count": 1,
+      "file": "ferramentas--marca-616.json"
+    },
+    {
+      "code": "1077",
+      "name": "MILWAUKEE",
+      "count": 2,
+      "file": "ferramentas--marca-1077.json"
+    },
+    {
+      "code": "76",
+      "name": "MINIPA",
+      "count": 1,
+      "file": "ferramentas--marca-76.json"
+    },
+    {
+      "code": "1229",
+      "name": "MOPPTA",
+      "count": 1,
+      "file": "ferramentas--marca-1229.json"
+    },
+    {
+      "code": "109",
+      "name": "MOR",
+      "count": 3,
+      "file": "ferramentas--marca-109.json"
+    },
+    {
+      "code": "147",
+      "name": "MORLAN",
+      "count": 1,
+      "file": "ferramentas--marca-147.json"
+    },
+    {
+      "code": "671",
+      "name": "MOSKA",
+      "count": 1,
+      "file": "ferramentas--marca-671.json"
+    },
+    {
+      "code": "208",
+      "name": "MOTOMIL",
+      "count": 5,
+      "file": "ferramentas--marca-208.json"
+    },
+    {
+      "code": "385",
+      "name": "MOURA",
+      "count": 4,
+      "file": "ferramentas--marca-385.json"
+    },
+    {
+      "code": "102",
+      "name": "MTX",
+      "count": 32,
+      "file": "ferramentas--marca-102.json"
+    },
+    {
+      "code": "569",
+      "name": "N/A",
+      "count": 1,
+      "file": "ferramentas--marca-569.json"
+    },
+    {
+      "code": "403",
+      "name": "NAGANO",
+      "count": 1,
+      "file": "ferramentas--marca-403.json"
+    },
+    {
+      "code": "825",
+      "name": "NEGREIRA",
+      "count": 2,
+      "file": "ferramentas--marca-825.json"
+    },
+    {
+      "code": "595",
+      "name": "NETAFIM",
+      "count": 1,
+      "file": "ferramentas--marca-595.json"
+    },
+    {
+      "code": "178",
+      "name": "NOLL",
+      "count": 7,
+      "file": "ferramentas--marca-178.json"
+    },
+    {
+      "code": "670",
+      "name": "NOVE 54",
+      "count": 1,
+      "file": "ferramentas--marca-670.json"
+    },
+    {
+      "code": "222",
+      "name": "NOVE54",
+      "count": 1,
+      "file": "ferramentas--marca-222.json"
+    },
+    {
+      "code": "1123",
+      "name": "PACETTA",
+      "count": 1,
+      "file": "ferramentas--marca-1123.json"
+    },
+    {
+      "code": "211",
+      "name": "PADO",
+      "count": 25,
+      "file": "ferramentas--marca-211.json"
+    },
+    {
+      "code": "747",
+      "name": "PALETRANS",
+      "count": 2,
+      "file": "ferramentas--marca-747.json"
+    },
+    {
+      "code": "103",
+      "name": "PALISAD",
+      "count": 5,
+      "file": "ferramentas--marca-103.json"
+    },
+    {
+      "code": "826",
+      "name": "PAPAIZ",
+      "count": 1,
+      "file": "ferramentas--marca-826.json"
+    },
+    {
+      "code": "857",
+      "name": "PETRO LIDER",
+      "count": 1,
+      "file": "ferramentas--marca-857.json"
+    },
+    {
+      "code": "375",
+      "name": "PHILCO",
+      "count": 1,
+      "file": "ferramentas--marca-375.json"
+    },
+    {
+      "code": "6",
+      "name": "PLASTCOR",
+      "count": 1,
+      "file": "ferramentas--marca-6.json"
+    },
+    {
+      "code": "787",
+      "name": "POWERSAFE",
+      "count": 2,
+      "file": "ferramentas--marca-787.json"
+    },
+    {
+      "code": "1125",
+      "name": "PRA 10",
+      "count": 1,
+      "file": "ferramentas--marca-1125.json"
+    },
+    {
+      "code": "46",
+      "name": "PRESTO",
+      "count": 2,
+      "file": "ferramentas--marca-46.json"
+    },
+    {
+      "code": "207",
+      "name": "RAVEN",
+      "count": 1,
+      "file": "ferramentas--marca-207.json"
+    },
+    {
+      "code": "431",
+      "name": "REISAM",
+      "count": 4,
+      "file": "ferramentas--marca-431.json"
+    },
+    {
+      "code": "279",
+      "name": "RITZ",
+      "count": 2,
+      "file": "ferramentas--marca-279.json"
+    },
+    {
+      "code": "82",
+      "name": "ROBUST",
+      "count": 5,
+      "file": "ferramentas--marca-82.json"
+    },
+    {
+      "code": "177",
+      "name": "ROCAST",
+      "count": 17,
+      "file": "ferramentas--marca-177.json"
+    },
+    {
+      "code": "174",
+      "name": "ROTHENBERGER",
+      "count": 7,
+      "file": "ferramentas--marca-174.json"
+    },
+    {
+      "code": "553",
+      "name": "ROTTA",
+      "count": 1,
+      "file": "ferramentas--marca-553.json"
+    },
+    {
+      "code": "24",
+      "name": "SAO ROMAO",
+      "count": 7,
+      "file": "ferramentas--marca-24.json"
+    },
+    {
+      "code": "163",
+      "name": "SATA",
+      "count": 301,
+      "file": "ferramentas--marca-163.json"
+    },
+    {
+      "code": "530",
+      "name": "SCANGRIP",
+      "count": 2,
+      "file": "ferramentas--marca-530.json"
+    },
+    {
+      "code": "113",
+      "name": "SCHULZ",
+      "count": 6,
+      "file": "ferramentas--marca-113.json"
+    },
+    {
+      "code": "35",
+      "name": "SERVEQ",
+      "count": 3,
+      "file": "ferramentas--marca-35.json"
+    },
+    {
+      "code": "1161",
+      "name": "SEVERAL",
+      "count": 1,
+      "file": "ferramentas--marca-1161.json"
+    },
+    {
+      "code": "694",
+      "name": "SIKA",
+      "count": 1,
+      "file": "ferramentas--marca-694.json"
+    },
+    {
+      "code": "251",
+      "name": "SKF",
+      "count": 5,
+      "file": "ferramentas--marca-251.json"
+    },
+    {
+      "code": "75",
+      "name": "SKIL",
+      "count": 7,
+      "file": "ferramentas--marca-75.json"
+    },
+    {
+      "code": "964",
+      "name": "SMARTCHARGER",
+      "count": 1,
+      "file": "ferramentas--marca-964.json"
+    },
+    {
+      "code": "354",
+      "name": "SOMAR",
+      "count": 3,
+      "file": "ferramentas--marca-354.json"
+    },
+    {
+      "code": "104",
+      "name": "SPARTA",
+      "count": 21,
+      "file": "ferramentas--marca-104.json"
+    },
+    {
+      "code": "137",
+      "name": "STANLEY",
+      "count": 23,
+      "file": "ferramentas--marca-137.json"
+    },
+    {
+      "code": "79",
+      "name": "STARRETT",
+      "count": 3,
+      "file": "ferramentas--marca-79.json"
+    },
+    {
+      "code": "1160",
+      "name": "STAUBLI",
+      "count": 1,
+      "file": "ferramentas--marca-1160.json"
+    },
+    {
+      "code": "105",
+      "name": "STELS",
+      "count": 4,
+      "file": "ferramentas--marca-105.json"
+    },
+    {
+      "code": "774",
+      "name": "STIHL",
+      "count": 5,
+      "file": "ferramentas--marca-774.json"
+    },
+    {
+      "code": "1190",
+      "name": "SUDESTE",
+      "count": 3,
+      "file": "ferramentas--marca-1190.json"
+    },
+    {
+      "code": "433",
+      "name": "SUPRI",
+      "count": 1,
+      "file": "ferramentas--marca-433.json"
+    },
+    {
+      "code": "318",
+      "name": "TEK BOND",
+      "count": 2,
+      "file": "ferramentas--marca-318.json"
+    },
+    {
+      "code": "982",
+      "name": "TETRALITE",
+      "count": 1,
+      "file": "ferramentas--marca-982.json"
+    },
+    {
+      "code": "1112",
+      "name": "TORNIK",
+      "count": 1,
+      "file": "ferramentas--marca-1112.json"
+    },
+    {
+      "code": "549",
+      "name": "TOYAMA",
+      "count": 1,
+      "file": "ferramentas--marca-549.json"
+    },
+    {
+      "code": "83",
+      "name": "TRAMONTINA",
+      "count": 79,
+      "file": "ferramentas--marca-83.json"
+    },
+    {
+      "code": "246",
+      "name": "TRAMONTINA PRO",
+      "count": 108,
+      "file": "ferramentas--marca-246.json"
+    },
+    {
+      "code": "128",
+      "name": "ULTRA SAFE",
+      "count": 2,
+      "file": "ferramentas--marca-128.json"
+    },
+    {
+      "code": "954",
+      "name": "VIX",
+      "count": 1,
+      "file": "ferramentas--marca-954.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 3,
+      "file": "ferramentas--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 120,
+      "file": "ferramentas--marca-47.json"
+    },
+    {
+      "code": "330",
+      "name": "VULCAN",
+      "count": 1,
+      "file": "ferramentas--marca-330.json"
+    },
+    {
+      "code": "683",
+      "name": "WALSYWA",
+      "count": 3,
+      "file": "ferramentas--marca-683.json"
+    },
+    {
+      "code": "68",
+      "name": "WBERTOLO",
+      "count": 17,
+      "file": "ferramentas--marca-68.json"
+    },
+    {
+      "code": "421",
+      "name": "WORKER",
+      "count": 2,
+      "file": "ferramentas--marca-421.json"
+    },
+    {
+      "code": "61",
+      "name": "WURTH",
+      "count": 1,
+      "file": "ferramentas--marca-61.json"
+    },
+    {
+      "code": "865",
+      "name": "ZETTA",
+      "count": 1,
+      "file": "ferramentas--marca-865.json"
+    }
+  ],
   "products": [
     {
       "code": "12206",

@@ -29,6 +29,14 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "993",
+      "name": "DANHYDRA",
+      "count": 11,
+      "file": "equipamentos-industriais--marca-993.json"
+    }
+  ],
   "products": [
     {
       "code": "11846",

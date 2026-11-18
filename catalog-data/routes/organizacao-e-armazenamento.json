@@ -184,6 +184,374 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "1056",
+      "name": "4F",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1056.json"
+    },
+    {
+      "code": "1159",
+      "name": "APS FITAS",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--marca-1159.json"
+    },
+    {
+      "code": "679",
+      "name": "BERTOLINI",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-679.json"
+    },
+    {
+      "code": "70",
+      "name": "BOSCH",
+      "count": 7,
+      "file": "organizacao-e-armazenamento--marca-70.json"
+    },
+    {
+      "code": "800",
+      "name": "BOVENAU",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-800.json"
+    },
+    {
+      "code": "839",
+      "name": "BRACLAY",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-839.json"
+    },
+    {
+      "code": "1001",
+      "name": "BRASIL EMBALAGENS",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--marca-1001.json"
+    },
+    {
+      "code": "176",
+      "name": "BREMEN",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--marca-176.json"
+    },
+    {
+      "code": "37",
+      "name": "CARBOGRAFITE",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--marca-37.json"
+    },
+    {
+      "code": "3",
+      "name": "DBI SALAS",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-3.json"
+    },
+    {
+      "code": "138",
+      "name": "DEWALT",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--marca-138.json"
+    },
+    {
+      "code": "1168",
+      "name": "DIADEBOX",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1168.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 45,
+      "file": "organizacao-e-armazenamento--marca-1.json"
+    },
+    {
+      "code": "736",
+      "name": "ELASTOBOR",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-736.json"
+    },
+    {
+      "code": "332",
+      "name": "ELETROMESA",
+      "count": 13,
+      "file": "organizacao-e-armazenamento--marca-332.json"
+    },
+    {
+      "code": "534",
+      "name": "ELYT",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--marca-534.json"
+    },
+    {
+      "code": "101",
+      "name": "FABRIMAX",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-101.json"
+    },
+    {
+      "code": "675",
+      "name": "FATTO",
+      "count": 6,
+      "file": "organizacao-e-armazenamento--marca-675.json"
+    },
+    {
+      "code": "337",
+      "name": "FERCAR",
+      "count": 7,
+      "file": "organizacao-e-armazenamento--marca-337.json"
+    },
+    {
+      "code": "142",
+      "name": "FORTGPRO",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-142.json"
+    },
+    {
+      "code": "81",
+      "name": "GEDORE",
+      "count": 16,
+      "file": "organizacao-e-armazenamento--marca-81.json"
+    },
+    {
+      "code": "119",
+      "name": "GEDORE RED",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-119.json"
+    },
+    {
+      "code": "1170",
+      "name": "HELSIM",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1170.json"
+    },
+    {
+      "code": "256",
+      "name": "IRWIN",
+      "count": 4,
+      "file": "organizacao-e-armazenamento--marca-256.json"
+    },
+    {
+      "code": "315",
+      "name": "ISMA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-315.json"
+    },
+    {
+      "code": "290",
+      "name": "IW8",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-290.json"
+    },
+    {
+      "code": "656",
+      "name": "KOTMAX",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-656.json"
+    },
+    {
+      "code": "392",
+      "name": "LAGES",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-392.json"
+    },
+    {
+      "code": "1016",
+      "name": "LOGISCAL",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1016.json"
+    },
+    {
+      "code": "1063",
+      "name": "MAF",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1063.json"
+    },
+    {
+      "code": "254",
+      "name": "MAKITA",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--marca-254.json"
+    },
+    {
+      "code": "93",
+      "name": "MARCON",
+      "count": 14,
+      "file": "organizacao-e-armazenamento--marca-93.json"
+    },
+    {
+      "code": "389",
+      "name": "MAURIZ",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-389.json"
+    },
+    {
+      "code": "780",
+      "name": "MAXCRIL",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-780.json"
+    },
+    {
+      "code": "671",
+      "name": "MOSKA",
+      "count": 4,
+      "file": "organizacao-e-armazenamento--marca-671.json"
+    },
+    {
+      "code": "102",
+      "name": "MTX",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--marca-102.json"
+    },
+    {
+      "code": "1059",
+      "name": "NILARTS",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1059.json"
+    },
+    {
+      "code": "227",
+      "name": "NILKO",
+      "count": 8,
+      "file": "organizacao-e-armazenamento--marca-227.json"
+    },
+    {
+      "code": "222",
+      "name": "NOVE54",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-222.json"
+    },
+    {
+      "code": "324",
+      "name": "ORK",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-324.json"
+    },
+    {
+      "code": "747",
+      "name": "PALETRANS",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-747.json"
+    },
+    {
+      "code": "591",
+      "name": "PERFORMANCE",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-591.json"
+    },
+    {
+      "code": "46",
+      "name": "PRESTO",
+      "count": 36,
+      "file": "organizacao-e-armazenamento--marca-46.json"
+    },
+    {
+      "code": "1049",
+      "name": "REVITEC",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1049.json"
+    },
+    {
+      "code": "441",
+      "name": "RITTAL",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-441.json"
+    },
+    {
+      "code": "82",
+      "name": "ROBUST",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-82.json"
+    },
+    {
+      "code": "692",
+      "name": "ROTTERMAN",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-692.json"
+    },
+    {
+      "code": "163",
+      "name": "SATA",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--marca-163.json"
+    },
+    {
+      "code": "448",
+      "name": "SCHIER",
+      "count": 3,
+      "file": "organizacao-e-armazenamento--marca-448.json"
+    },
+    {
+      "code": "1093",
+      "name": "SEEK ENGENHARIA",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1093.json"
+    },
+    {
+      "code": "1065",
+      "name": "SIPLAS",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--marca-1065.json"
+    },
+    {
+      "code": "137",
+      "name": "STANLEY",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--marca-137.json"
+    },
+    {
+      "code": "246",
+      "name": "TRAMONTINA PRO",
+      "count": 20,
+      "file": "organizacao-e-armazenamento--marca-246.json"
+    },
+    {
+      "code": "128",
+      "name": "ULTRA SAFE",
+      "count": 5,
+      "file": "organizacao-e-armazenamento--marca-128.json"
+    },
+    {
+      "code": "1012",
+      "name": "VERTICALIZE",
+      "count": 4,
+      "file": "organizacao-e-armazenamento--marca-1012.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 18,
+      "file": "organizacao-e-armazenamento--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 45,
+      "file": "organizacao-e-armazenamento--marca-47.json"
+    },
+    {
+      "code": "292",
+      "name": "WESTERN",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--marca-292.json"
+    },
+    {
+      "code": "984",
+      "name": "WM",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-984.json"
+    },
+    {
+      "code": "543",
+      "name": "WMF",
+      "count": 2,
+      "file": "organizacao-e-armazenamento--marca-543.json"
+    },
+    {
+      "code": "1121",
+      "name": "YASO",
+      "count": 1,
+      "file": "organizacao-e-armazenamento--marca-1121.json"
+    }
+  ],
   "products": [
     {
       "code": "3684",

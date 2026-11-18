@@ -362,6 +362,554 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "653",
+      "name": "AFR",
+      "count": 1,
+      "file": "medicao-e-teste--marca-653.json"
+    },
+    {
+      "code": "606",
+      "name": "ALLSUM",
+      "count": 1,
+      "file": "medicao-e-teste--marca-606.json"
+    },
+    {
+      "code": "657",
+      "name": "AMMONIT",
+      "count": 5,
+      "file": "medicao-e-teste--marca-657.json"
+    },
+    {
+      "code": "298",
+      "name": "BEST BATTERY",
+      "count": 1,
+      "file": "medicao-e-teste--marca-298.json"
+    },
+    {
+      "code": "1031",
+      "name": "BESTFER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-1031.json"
+    },
+    {
+      "code": "70",
+      "name": "BOSCH",
+      "count": 19,
+      "file": "medicao-e-teste--marca-70.json"
+    },
+    {
+      "code": "52",
+      "name": "BOZZA",
+      "count": 1,
+      "file": "medicao-e-teste--marca-52.json"
+    },
+    {
+      "code": "176",
+      "name": "BREMEN",
+      "count": 2,
+      "file": "medicao-e-teste--marca-176.json"
+    },
+    {
+      "code": "361",
+      "name": "CANON",
+      "count": 1,
+      "file": "medicao-e-teste--marca-361.json"
+    },
+    {
+      "code": "201",
+      "name": "DASQUA",
+      "count": 10,
+      "file": "medicao-e-teste--marca-201.json"
+    },
+    {
+      "code": "138",
+      "name": "DEWALT",
+      "count": 2,
+      "file": "medicao-e-teste--marca-138.json"
+    },
+    {
+      "code": "170",
+      "name": "DIGIMESS",
+      "count": 21,
+      "file": "medicao-e-teste--marca-170.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 21,
+      "file": "medicao-e-teste--marca-1.json"
+    },
+    {
+      "code": "642",
+      "name": "DOBLE",
+      "count": 1,
+      "file": "medicao-e-teste--marca-642.json"
+    },
+    {
+      "code": "322",
+      "name": "DPF SENSORS",
+      "count": 1,
+      "file": "medicao-e-teste--marca-322.json"
+    },
+    {
+      "code": "312",
+      "name": "ELETROTESTE",
+      "count": 1,
+      "file": "medicao-e-teste--marca-312.json"
+    },
+    {
+      "code": "28",
+      "name": "ELGIN",
+      "count": 1,
+      "file": "medicao-e-teste--marca-28.json"
+    },
+    {
+      "code": "118",
+      "name": "ENERPAC",
+      "count": 2,
+      "file": "medicao-e-teste--marca-118.json"
+    },
+    {
+      "code": "253",
+      "name": "FLACH",
+      "count": 1,
+      "file": "medicao-e-teste--marca-253.json"
+    },
+    {
+      "code": "276",
+      "name": "FLIR",
+      "count": 1,
+      "file": "medicao-e-teste--marca-276.json"
+    },
+    {
+      "code": "74",
+      "name": "FLUKE",
+      "count": 45,
+      "file": "medicao-e-teste--marca-74.json"
+    },
+    {
+      "code": "111",
+      "name": "FORCELINE",
+      "count": 1,
+      "file": "medicao-e-teste--marca-111.json"
+    },
+    {
+      "code": "754",
+      "name": "FORMIS",
+      "count": 1,
+      "file": "medicao-e-teste--marca-754.json"
+    },
+    {
+      "code": "228",
+      "name": "FORTLEV",
+      "count": 1,
+      "file": "medicao-e-teste--marca-228.json"
+    },
+    {
+      "code": "258",
+      "name": "GAMA",
+      "count": 4,
+      "file": "medicao-e-teste--marca-258.json"
+    },
+    {
+      "code": "404",
+      "name": "GARMIN",
+      "count": 3,
+      "file": "medicao-e-teste--marca-404.json"
+    },
+    {
+      "code": "81",
+      "name": "GEDORE",
+      "count": 3,
+      "file": "medicao-e-teste--marca-81.json"
+    },
+    {
+      "code": "119",
+      "name": "GEDORE RED",
+      "count": 3,
+      "file": "medicao-e-teste--marca-119.json"
+    },
+    {
+      "code": "505",
+      "name": "HIKARI",
+      "count": 3,
+      "file": "medicao-e-teste--marca-505.json"
+    },
+    {
+      "code": "584",
+      "name": "HMDQ",
+      "count": 1,
+      "file": "medicao-e-teste--marca-584.json"
+    },
+    {
+      "code": "71",
+      "name": "HONEYWELL",
+      "count": 2,
+      "file": "medicao-e-teste--marca-71.json"
+    },
+    {
+      "code": "140",
+      "name": "HYDAC",
+      "count": 1,
+      "file": "medicao-e-teste--marca-140.json"
+    },
+    {
+      "code": "1111",
+      "name": "IBOA",
+      "count": 1,
+      "file": "medicao-e-teste--marca-1111.json"
+    },
+    {
+      "code": "778",
+      "name": "IMPAC",
+      "count": 1,
+      "file": "medicao-e-teste--marca-778.json"
+    },
+    {
+      "code": "858",
+      "name": "INCOTERM",
+      "count": 2,
+      "file": "medicao-e-teste--marca-858.json"
+    },
+    {
+      "code": "334",
+      "name": "INSTRUTEMP",
+      "count": 1,
+      "file": "medicao-e-teste--marca-334.json"
+    },
+    {
+      "code": "519",
+      "name": "INSTRUTHERM",
+      "count": 7,
+      "file": "medicao-e-teste--marca-519.json"
+    },
+    {
+      "code": "256",
+      "name": "IRWIN",
+      "count": 1,
+      "file": "medicao-e-teste--marca-256.json"
+    },
+    {
+      "code": "876",
+      "name": "JAMECO",
+      "count": 1,
+      "file": "medicao-e-teste--marca-876.json"
+    },
+    {
+      "code": "202",
+      "name": "JIAXI",
+      "count": 2,
+      "file": "medicao-e-teste--marca-202.json"
+    },
+    {
+      "code": "269",
+      "name": "KING TOOLS",
+      "count": 2,
+      "file": "medicao-e-teste--marca-269.json"
+    },
+    {
+      "code": "580",
+      "name": "KINGBOLEN",
+      "count": 1,
+      "file": "medicao-e-teste--marca-580.json"
+    },
+    {
+      "code": "284",
+      "name": "LASER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-284.json"
+    },
+    {
+      "code": "667",
+      "name": "LELONG",
+      "count": 1,
+      "file": "medicao-e-teste--marca-667.json"
+    },
+    {
+      "code": "255",
+      "name": "LITH",
+      "count": 1,
+      "file": "medicao-e-teste--marca-255.json"
+    },
+    {
+      "code": "286",
+      "name": "LUBEFER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-286.json"
+    },
+    {
+      "code": "168",
+      "name": "LUFKIN",
+      "count": 13,
+      "file": "medicao-e-teste--marca-168.json"
+    },
+    {
+      "code": "406",
+      "name": "MAINFENG",
+      "count": 1,
+      "file": "medicao-e-teste--marca-406.json"
+    },
+    {
+      "code": "254",
+      "name": "MAKITA",
+      "count": 2,
+      "file": "medicao-e-teste--marca-254.json"
+    },
+    {
+      "code": "135",
+      "name": "MEGABRAS",
+      "count": 16,
+      "file": "medicao-e-teste--marca-135.json"
+    },
+    {
+      "code": "555",
+      "name": "MEGGER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-555.json"
+    },
+    {
+      "code": "285",
+      "name": "METREL",
+      "count": 1,
+      "file": "medicao-e-teste--marca-285.json"
+    },
+    {
+      "code": "76",
+      "name": "MINIPA",
+      "count": 31,
+      "file": "medicao-e-teste--marca-76.json"
+    },
+    {
+      "code": "110",
+      "name": "MITUTOYO",
+      "count": 17,
+      "file": "medicao-e-teste--marca-110.json"
+    },
+    {
+      "code": "9",
+      "name": "MSA",
+      "count": 4,
+      "file": "medicao-e-teste--marca-9.json"
+    },
+    {
+      "code": "102",
+      "name": "MTX",
+      "count": 5,
+      "file": "medicao-e-teste--marca-102.json"
+    },
+    {
+      "code": "266",
+      "name": "MULTILASER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-266.json"
+    },
+    {
+      "code": "339",
+      "name": "NAUTIKA",
+      "count": 2,
+      "file": "medicao-e-teste--marca-339.json"
+    },
+    {
+      "code": "554",
+      "name": "NEHC",
+      "count": 1,
+      "file": "medicao-e-teste--marca-554.json"
+    },
+    {
+      "code": "613",
+      "name": "NOVOTEST",
+      "count": 1,
+      "file": "medicao-e-teste--marca-613.json"
+    },
+    {
+      "code": "506",
+      "name": "PARAGLIDER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-506.json"
+    },
+    {
+      "code": "635",
+      "name": "RAMUZA",
+      "count": 1,
+      "file": "medicao-e-teste--marca-635.json"
+    },
+    {
+      "code": "541",
+      "name": "RIKEN KEIKI",
+      "count": 2,
+      "file": "medicao-e-teste--marca-541.json"
+    },
+    {
+      "code": "1180",
+      "name": "ROBOMIX",
+      "count": 1,
+      "file": "medicao-e-teste--marca-1180.json"
+    },
+    {
+      "code": "82",
+      "name": "ROBUST",
+      "count": 1,
+      "file": "medicao-e-teste--marca-82.json"
+    },
+    {
+      "code": "174",
+      "name": "ROTHENBERGER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-174.json"
+    },
+    {
+      "code": "438",
+      "name": "SAKURA",
+      "count": 1,
+      "file": "medicao-e-teste--marca-438.json"
+    },
+    {
+      "code": "55",
+      "name": "SIGMA",
+      "count": 3,
+      "file": "medicao-e-teste--marca-55.json"
+    },
+    {
+      "code": "1057",
+      "name": "SILFORCE",
+      "count": 1,
+      "file": "medicao-e-teste--marca-1057.json"
+    },
+    {
+      "code": "948",
+      "name": "SIUI",
+      "count": 1,
+      "file": "medicao-e-teste--marca-948.json"
+    },
+    {
+      "code": "730",
+      "name": "SOLVER",
+      "count": 2,
+      "file": "medicao-e-teste--marca-730.json"
+    },
+    {
+      "code": "1189",
+      "name": "SOUTH",
+      "count": 1,
+      "file": "medicao-e-teste--marca-1189.json"
+    },
+    {
+      "code": "104",
+      "name": "SPARTA",
+      "count": 1,
+      "file": "medicao-e-teste--marca-104.json"
+    },
+    {
+      "code": "137",
+      "name": "STANLEY",
+      "count": 1,
+      "file": "medicao-e-teste--marca-137.json"
+    },
+    {
+      "code": "79",
+      "name": "STARRETT",
+      "count": 10,
+      "file": "medicao-e-teste--marca-79.json"
+    },
+    {
+      "code": "131",
+      "name": "STAUFF",
+      "count": 27,
+      "file": "medicao-e-teste--marca-131.json"
+    },
+    {
+      "code": "411",
+      "name": "STEINER",
+      "count": 1,
+      "file": "medicao-e-teste--marca-411.json"
+    },
+    {
+      "code": "888",
+      "name": "TECHLINE",
+      "count": 1,
+      "file": "medicao-e-teste--marca-888.json"
+    },
+    {
+      "code": "897",
+      "name": "TERRAMAR",
+      "count": 1,
+      "file": "medicao-e-teste--marca-897.json"
+    },
+    {
+      "code": "474",
+      "name": "TESTO",
+      "count": 1,
+      "file": "medicao-e-teste--marca-474.json"
+    },
+    {
+      "code": "658",
+      "name": "THIES CLIMA",
+      "count": 1,
+      "file": "medicao-e-teste--marca-658.json"
+    },
+    {
+      "code": "83",
+      "name": "TRAMONTINA",
+      "count": 3,
+      "file": "medicao-e-teste--marca-83.json"
+    },
+    {
+      "code": "1108",
+      "name": "URANUM",
+      "count": 1,
+      "file": "medicao-e-teste--marca-1108.json"
+    },
+    {
+      "code": "51",
+      "name": "VECTRA",
+      "count": 1,
+      "file": "medicao-e-teste--marca-51.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 1,
+      "file": "medicao-e-teste--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 19,
+      "file": "medicao-e-teste--marca-47.json"
+    },
+    {
+      "code": "357",
+      "name": "WALEU",
+      "count": 1,
+      "file": "medicao-e-teste--marca-357.json"
+    },
+    {
+      "code": "807",
+      "name": "WIKA",
+      "count": 3,
+      "file": "medicao-e-teste--marca-807.json"
+    },
+    {
+      "code": "179",
+      "name": "ZAAS",
+      "count": 1,
+      "file": "medicao-e-teste--marca-179.json"
+    },
+    {
+      "code": "833",
+      "name": "ZIMPOR",
+      "count": 1,
+      "file": "medicao-e-teste--marca-833.json"
+    },
+    {
+      "code": "1195",
+      "name": "ZURICH",
+      "count": 1,
+      "file": "medicao-e-teste--marca-1195.json"
+    }
+  ],
   "products": [
     {
       "code": "3904",

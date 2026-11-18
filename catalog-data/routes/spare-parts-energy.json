@@ -203,6 +203,254 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "1053",
+      "name": "AUXITEL",
+      "count": 1,
+      "file": "spare-parts-energy--marca-1053.json"
+    },
+    {
+      "code": "52",
+      "name": "BOZZA",
+      "count": 1,
+      "file": "spare-parts-energy--marca-52.json"
+    },
+    {
+      "code": "176",
+      "name": "BREMEN",
+      "count": 1,
+      "file": "spare-parts-energy--marca-176.json"
+    },
+    {
+      "code": "762",
+      "name": "BURNDY",
+      "count": 1,
+      "file": "spare-parts-energy--marca-762.json"
+    },
+    {
+      "code": "745",
+      "name": "BUSHRANGER",
+      "count": 1,
+      "file": "spare-parts-energy--marca-745.json"
+    },
+    {
+      "code": "37",
+      "name": "CARBOGRAFITE",
+      "count": 3,
+      "file": "spare-parts-energy--marca-37.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 45,
+      "file": "spare-parts-energy--marca-1.json"
+    },
+    {
+      "code": "722",
+      "name": "DRAGAO DOS PARAFUSOS",
+      "count": 5,
+      "file": "spare-parts-energy--marca-722.json"
+    },
+    {
+      "code": "1129",
+      "name": "ELETROTRAFO",
+      "count": 1,
+      "file": "spare-parts-energy--marca-1129.json"
+    },
+    {
+      "code": "118",
+      "name": "ENERPAC",
+      "count": 2,
+      "file": "spare-parts-energy--marca-118.json"
+    },
+    {
+      "code": "719",
+      "name": "FIOCAMP",
+      "count": 1,
+      "file": "spare-parts-energy--marca-719.json"
+    },
+    {
+      "code": "889",
+      "name": "FITS FOR",
+      "count": 1,
+      "file": "spare-parts-energy--marca-889.json"
+    },
+    {
+      "code": "786",
+      "name": "FVA",
+      "count": 1,
+      "file": "spare-parts-energy--marca-786.json"
+    },
+    {
+      "code": "552",
+      "name": "GIFEL",
+      "count": 6,
+      "file": "spare-parts-energy--marca-552.json"
+    },
+    {
+      "code": "882",
+      "name": "GRLITRA",
+      "count": 1,
+      "file": "spare-parts-energy--marca-882.json"
+    },
+    {
+      "code": "1038",
+      "name": "HIDROMACACOS",
+      "count": 4,
+      "file": "spare-parts-energy--marca-1038.json"
+    },
+    {
+      "code": "140",
+      "name": "HYDAC",
+      "count": 38,
+      "file": "spare-parts-energy--marca-140.json"
+    },
+    {
+      "code": "525",
+      "name": "INCESA",
+      "count": 3,
+      "file": "spare-parts-energy--marca-525.json"
+    },
+    {
+      "code": "673",
+      "name": "KOSM",
+      "count": 1,
+      "file": "spare-parts-energy--marca-673.json"
+    },
+    {
+      "code": "1200",
+      "name": "MANN-FILTER",
+      "count": 3,
+      "file": "spare-parts-energy--marca-1200.json"
+    },
+    {
+      "code": "724",
+      "name": "MASSAFIX",
+      "count": 1,
+      "file": "spare-parts-energy--marca-724.json"
+    },
+    {
+      "code": "775",
+      "name": "MAXIRUBBER",
+      "count": 1,
+      "file": "spare-parts-energy--marca-775.json"
+    },
+    {
+      "code": "716",
+      "name": "MUNDIAL PRIME",
+      "count": 1,
+      "file": "spare-parts-energy--marca-716.json"
+    },
+    {
+      "code": "178",
+      "name": "NOLL",
+      "count": 1,
+      "file": "spare-parts-energy--marca-178.json"
+    },
+    {
+      "code": "1091",
+      "name": "PARKER",
+      "count": 1,
+      "file": "spare-parts-energy--marca-1091.json"
+    },
+    {
+      "code": "763",
+      "name": "PERFECTBORR",
+      "count": 1,
+      "file": "spare-parts-energy--marca-763.json"
+    },
+    {
+      "code": "1152",
+      "name": "PERKINS",
+      "count": 4,
+      "file": "spare-parts-energy--marca-1152.json"
+    },
+    {
+      "code": "971",
+      "name": "QUIMISUL",
+      "count": 1,
+      "file": "spare-parts-energy--marca-971.json"
+    },
+    {
+      "code": "922",
+      "name": "REAL BORRACHAS",
+      "count": 3,
+      "file": "spare-parts-energy--marca-922.json"
+    },
+    {
+      "code": "884",
+      "name": "S T E E L L O O P I N D U S T R I A L",
+      "count": 2,
+      "file": "spare-parts-energy--marca-884.json"
+    },
+    {
+      "code": "251",
+      "name": "SKF",
+      "count": 5,
+      "file": "spare-parts-energy--marca-251.json"
+    },
+    {
+      "code": "1215",
+      "name": "SPAAL",
+      "count": 1,
+      "file": "spare-parts-energy--marca-1215.json"
+    },
+    {
+      "code": "131",
+      "name": "STAUFF",
+      "count": 21,
+      "file": "spare-parts-energy--marca-131.json"
+    },
+    {
+      "code": "521",
+      "name": "SUPERTEK",
+      "count": 1,
+      "file": "spare-parts-energy--marca-521.json"
+    },
+    {
+      "code": "346",
+      "name": "TECFIL",
+      "count": 1,
+      "file": "spare-parts-energy--marca-346.json"
+    },
+    {
+      "code": "918",
+      "name": "UNICASERV",
+      "count": 1,
+      "file": "spare-parts-energy--marca-918.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 2,
+      "file": "spare-parts-energy--marca-73.json"
+    },
+    {
+      "code": "1151",
+      "name": "VOLVO",
+      "count": 5,
+      "file": "spare-parts-energy--marca-1151.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 1,
+      "file": "spare-parts-energy--marca-47.json"
+    },
+    {
+      "code": "537",
+      "name": "WEG",
+      "count": 3,
+      "file": "spare-parts-energy--marca-537.json"
+    },
+    {
+      "code": "1196",
+      "name": "ZANIN MANGUEIRAS",
+      "count": 1,
+      "file": "spare-parts-energy--marca-1196.json"
+    }
+  ],
   "products": [
     {
       "code": "6567",

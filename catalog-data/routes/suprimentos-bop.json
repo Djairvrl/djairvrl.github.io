@@ -245,6 +245,524 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "2",
+      "name": "3M",
+      "count": 2,
+      "file": "suprimentos-bop--marca-2.json"
+    },
+    {
+      "code": "86",
+      "name": "ABB",
+      "count": 10,
+      "file": "suprimentos-bop--marca-86.json"
+    },
+    {
+      "code": "307",
+      "name": "ALCOA",
+      "count": 1,
+      "file": "suprimentos-bop--marca-307.json"
+    },
+    {
+      "code": "883",
+      "name": "ALTRONIC",
+      "count": 1,
+      "file": "suprimentos-bop--marca-883.json"
+    },
+    {
+      "code": "899",
+      "name": "AMPHENOL",
+      "count": 1,
+      "file": "suprimentos-bop--marca-899.json"
+    },
+    {
+      "code": "588",
+      "name": "ASGARD",
+      "count": 1,
+      "file": "suprimentos-bop--marca-588.json"
+    },
+    {
+      "code": "198",
+      "name": "AXT",
+      "count": 2,
+      "file": "suprimentos-bop--marca-198.json"
+    },
+    {
+      "code": "721",
+      "name": "BRONZEARTE",
+      "count": 1,
+      "file": "suprimentos-bop--marca-721.json"
+    },
+    {
+      "code": "123",
+      "name": "BROTHER",
+      "count": 1,
+      "file": "suprimentos-bop--marca-123.json"
+    },
+    {
+      "code": "1223",
+      "name": "BYD",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1223.json"
+    },
+    {
+      "code": "919",
+      "name": "CEMAR LEGRAND",
+      "count": 1,
+      "file": "suprimentos-bop--marca-919.json"
+    },
+    {
+      "code": "878",
+      "name": "CITEX",
+      "count": 1,
+      "file": "suprimentos-bop--marca-878.json"
+    },
+    {
+      "code": "789",
+      "name": "COBRECOM",
+      "count": 1,
+      "file": "suprimentos-bop--marca-789.json"
+    },
+    {
+      "code": "871",
+      "name": "COEL",
+      "count": 1,
+      "file": "suprimentos-bop--marca-871.json"
+    },
+    {
+      "code": "813",
+      "name": "CONDUMAX",
+      "count": 1,
+      "file": "suprimentos-bop--marca-813.json"
+    },
+    {
+      "code": "688",
+      "name": "CTC",
+      "count": 1,
+      "file": "suprimentos-bop--marca-688.json"
+    },
+    {
+      "code": "338",
+      "name": "DELTA STAR",
+      "count": 1,
+      "file": "suprimentos-bop--marca-338.json"
+    },
+    {
+      "code": "687",
+      "name": "DEUBLIN",
+      "count": 1,
+      "file": "suprimentos-bop--marca-687.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 90,
+      "file": "suprimentos-bop--marca-1.json"
+    },
+    {
+      "code": "540",
+      "name": "DIVERSOS",
+      "count": 2,
+      "file": "suprimentos-bop--marca-540.json"
+    },
+    {
+      "code": "366",
+      "name": "DNI",
+      "count": 2,
+      "file": "suprimentos-bop--marca-366.json"
+    },
+    {
+      "code": "545",
+      "name": "EATON MOELLER",
+      "count": 1,
+      "file": "suprimentos-bop--marca-545.json"
+    },
+    {
+      "code": "28",
+      "name": "ELGIN",
+      "count": 5,
+      "file": "suprimentos-bop--marca-28.json"
+    },
+    {
+      "code": "1148",
+      "name": "EMBRASTEC",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1148.json"
+    },
+    {
+      "code": "674",
+      "name": "ENERGY POWER",
+      "count": 1,
+      "file": "suprimentos-bop--marca-674.json"
+    },
+    {
+      "code": "972",
+      "name": "ENGEMAX",
+      "count": 1,
+      "file": "suprimentos-bop--marca-972.json"
+    },
+    {
+      "code": "567",
+      "name": "EPEVER",
+      "count": 2,
+      "file": "suprimentos-bop--marca-567.json"
+    },
+    {
+      "code": "705",
+      "name": "EUROTHERM",
+      "count": 1,
+      "file": "suprimentos-bop--marca-705.json"
+    },
+    {
+      "code": "947",
+      "name": "FINDER",
+      "count": 2,
+      "file": "suprimentos-bop--marca-947.json"
+    },
+    {
+      "code": "593",
+      "name": "FREEDOM",
+      "count": 1,
+      "file": "suprimentos-bop--marca-593.json"
+    },
+    {
+      "code": "552",
+      "name": "GIFEL",
+      "count": 2,
+      "file": "suprimentos-bop--marca-552.json"
+    },
+    {
+      "code": "1203",
+      "name": "GLK",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1203.json"
+    },
+    {
+      "code": "291",
+      "name": "HELLERMANN",
+      "count": 3,
+      "file": "suprimentos-bop--marca-291.json"
+    },
+    {
+      "code": "91",
+      "name": "IMATRON",
+      "count": 1,
+      "file": "suprimentos-bop--marca-91.json"
+    },
+    {
+      "code": "967",
+      "name": "INDUSCABOS",
+      "count": 1,
+      "file": "suprimentos-bop--marca-967.json"
+    },
+    {
+      "code": "300",
+      "name": "INTELBRAS",
+      "count": 1,
+      "file": "suprimentos-bop--marca-300.json"
+    },
+    {
+      "code": "499",
+      "name": "INTELLI",
+      "count": 6,
+      "file": "suprimentos-bop--marca-499.json"
+    },
+    {
+      "code": "712",
+      "name": "ISOFASES",
+      "count": 1,
+      "file": "suprimentos-bop--marca-712.json"
+    },
+    {
+      "code": "262",
+      "name": "JNG",
+      "count": 1,
+      "file": "suprimentos-bop--marca-262.json"
+    },
+    {
+      "code": "239",
+      "name": "KIMARKI",
+      "count": 3,
+      "file": "suprimentos-bop--marca-239.json"
+    },
+    {
+      "code": "154",
+      "name": "KITO",
+      "count": 1,
+      "file": "suprimentos-bop--marca-154.json"
+    },
+    {
+      "code": "263",
+      "name": "KNUP",
+      "count": 1,
+      "file": "suprimentos-bop--marca-263.json"
+    },
+    {
+      "code": "852",
+      "name": "KRAPER",
+      "count": 1,
+      "file": "suprimentos-bop--marca-852.json"
+    },
+    {
+      "code": "1219",
+      "name": "LENZE",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1219.json"
+    },
+    {
+      "code": "660",
+      "name": "LUKMA",
+      "count": 1,
+      "file": "suprimentos-bop--marca-660.json"
+    },
+    {
+      "code": "880",
+      "name": "LUMANTI",
+      "count": 1,
+      "file": "suprimentos-bop--marca-880.json"
+    },
+    {
+      "code": "881",
+      "name": "MARGIRIUS",
+      "count": 1,
+      "file": "suprimentos-bop--marca-881.json"
+    },
+    {
+      "code": "1235",
+      "name": "MAURIZIO",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1235.json"
+    },
+    {
+      "code": "607",
+      "name": "MAURIZIO & CIA",
+      "count": 1,
+      "file": "suprimentos-bop--marca-607.json"
+    },
+    {
+      "code": "817",
+      "name": "MEGATRON",
+      "count": 1,
+      "file": "suprimentos-bop--marca-817.json"
+    },
+    {
+      "code": "1222",
+      "name": "MELFEX",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1222.json"
+    },
+    {
+      "code": "711",
+      "name": "MENCO",
+      "count": 1,
+      "file": "suprimentos-bop--marca-711.json"
+    },
+    {
+      "code": "538",
+      "name": "METALTEX",
+      "count": 3,
+      "file": "suprimentos-bop--marca-538.json"
+    },
+    {
+      "code": "706",
+      "name": "MOELLER",
+      "count": 1,
+      "file": "suprimentos-bop--marca-706.json"
+    },
+    {
+      "code": "385",
+      "name": "MOURA",
+      "count": 9,
+      "file": "suprimentos-bop--marca-385.json"
+    },
+    {
+      "code": "799",
+      "name": "MT",
+      "count": 2,
+      "file": "suprimentos-bop--marca-799.json"
+    },
+    {
+      "code": "717",
+      "name": "NELSTAR SOLAR",
+      "count": 1,
+      "file": "suprimentos-bop--marca-717.json"
+    },
+    {
+      "code": "1147",
+      "name": "NEWMAX",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1147.json"
+    },
+    {
+      "code": "781",
+      "name": "NEXANS",
+      "count": 1,
+      "file": "suprimentos-bop--marca-781.json"
+    },
+    {
+      "code": "527",
+      "name": "PHILIPS",
+      "count": 1,
+      "file": "suprimentos-bop--marca-527.json"
+    },
+    {
+      "code": "766",
+      "name": "RENOAIR",
+      "count": 1,
+      "file": "suprimentos-bop--marca-766.json"
+    },
+    {
+      "code": "720",
+      "name": "RTF",
+      "count": 3,
+      "file": "suprimentos-bop--marca-720.json"
+    },
+    {
+      "code": "566",
+      "name": "SCHNEIDER",
+      "count": 7,
+      "file": "suprimentos-bop--marca-566.json"
+    },
+    {
+      "code": "923",
+      "name": "SCHNEIDER ELECTRIC",
+      "count": 1,
+      "file": "suprimentos-bop--marca-923.json"
+    },
+    {
+      "code": "1224",
+      "name": "SEMITRANS",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1224.json"
+    },
+    {
+      "code": "1097",
+      "name": "SENSE SENSORES",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1097.json"
+    },
+    {
+      "code": "245",
+      "name": "SIEMENS",
+      "count": 13,
+      "file": "suprimentos-bop--marca-245.json"
+    },
+    {
+      "code": "55",
+      "name": "SIGMA",
+      "count": 1,
+      "file": "suprimentos-bop--marca-55.json"
+    },
+    {
+      "code": "589",
+      "name": "SIL",
+      "count": 1,
+      "file": "suprimentos-bop--marca-589.json"
+    },
+    {
+      "code": "408",
+      "name": "SOPRANO",
+      "count": 2,
+      "file": "suprimentos-bop--marca-408.json"
+    },
+    {
+      "code": "444",
+      "name": "STECK",
+      "count": 3,
+      "file": "suprimentos-bop--marca-444.json"
+    },
+    {
+      "code": "691",
+      "name": "SUB 2.0 CERTIFIFD",
+      "count": 1,
+      "file": "suprimentos-bop--marca-691.json"
+    },
+    {
+      "code": "639",
+      "name": "TASCHIBRA",
+      "count": 1,
+      "file": "suprimentos-bop--marca-639.json"
+    },
+    {
+      "code": "1184",
+      "name": "TELEMECANIQUE",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1184.json"
+    },
+    {
+      "code": "529",
+      "name": "TERMOTUBOS",
+      "count": 21,
+      "file": "suprimentos-bop--marca-529.json"
+    },
+    {
+      "code": "1210",
+      "name": "TOLEDO",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1210.json"
+    },
+    {
+      "code": "549",
+      "name": "TOYAMA",
+      "count": 1,
+      "file": "suprimentos-bop--marca-549.json"
+    },
+    {
+      "code": "83",
+      "name": "TRAMONTINA",
+      "count": 9,
+      "file": "suprimentos-bop--marca-83.json"
+    },
+    {
+      "code": "777",
+      "name": "UNIPOWER",
+      "count": 1,
+      "file": "suprimentos-bop--marca-777.json"
+    },
+    {
+      "code": "539",
+      "name": "VIEW TECH",
+      "count": 1,
+      "file": "suprimentos-bop--marca-539.json"
+    },
+    {
+      "code": "873",
+      "name": "VISUS",
+      "count": 1,
+      "file": "suprimentos-bop--marca-873.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 5,
+      "file": "suprimentos-bop--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 1,
+      "file": "suprimentos-bop--marca-47.json"
+    },
+    {
+      "code": "537",
+      "name": "WEG",
+      "count": 11,
+      "file": "suprimentos-bop--marca-537.json"
+    },
+    {
+      "code": "737",
+      "name": "WEIDMULLER CONEXEL",
+      "count": 3,
+      "file": "suprimentos-bop--marca-737.json"
+    },
+    {
+      "code": "1133",
+      "name": "ZTROON",
+      "count": 1,
+      "file": "suprimentos-bop--marca-1133.json"
+    }
+  ],
   "products": [
     {
       "code": "5555",

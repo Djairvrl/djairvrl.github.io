@@ -170,6 +170,200 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "501",
+      "name": "AGMOV",
+      "count": 2,
+      "file": "amarracao-e-elevacao--marca-501.json"
+    },
+    {
+      "code": "1079",
+      "name": "ALCABOS",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-1079.json"
+    },
+    {
+      "code": "432",
+      "name": "BERG STEEL",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-432.json"
+    },
+    {
+      "code": "728",
+      "name": "BLASTER",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-728.json"
+    },
+    {
+      "code": "800",
+      "name": "BOVENAU",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-800.json"
+    },
+    {
+      "code": "176",
+      "name": "BREMEN",
+      "count": 3,
+      "file": "amarracao-e-elevacao--marca-176.json"
+    },
+    {
+      "code": "309",
+      "name": "CETRO",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-309.json"
+    },
+    {
+      "code": "1194",
+      "name": "COFORJA",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-1194.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 8,
+      "file": "amarracao-e-elevacao--marca-1.json"
+    },
+    {
+      "code": "632",
+      "name": "J&L",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-632.json"
+    },
+    {
+      "code": "69",
+      "name": "JULI",
+      "count": 19,
+      "file": "amarracao-e-elevacao--marca-69.json"
+    },
+    {
+      "code": "154",
+      "name": "KITO",
+      "count": 20,
+      "file": "amarracao-e-elevacao--marca-154.json"
+    },
+    {
+      "code": "166",
+      "name": "LEVTEC",
+      "count": 33,
+      "file": "amarracao-e-elevacao--marca-166.json"
+    },
+    {
+      "code": "671",
+      "name": "MOSKA",
+      "count": 5,
+      "file": "amarracao-e-elevacao--marca-671.json"
+    },
+    {
+      "code": "208",
+      "name": "MOTOMIL",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-208.json"
+    },
+    {
+      "code": "403",
+      "name": "NAGANO",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-403.json"
+    },
+    {
+      "code": "222",
+      "name": "NOVE54",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-222.json"
+    },
+    {
+      "code": "680",
+      "name": "PAKKI",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-680.json"
+    },
+    {
+      "code": "243",
+      "name": "PAMPA",
+      "count": 11,
+      "file": "amarracao-e-elevacao--marca-243.json"
+    },
+    {
+      "code": "641",
+      "name": "PG",
+      "count": 4,
+      "file": "amarracao-e-elevacao--marca-641.json"
+    },
+    {
+      "code": "513",
+      "name": "POLO PETRO",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-513.json"
+    },
+    {
+      "code": "419",
+      "name": "POLTI",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-419.json"
+    },
+    {
+      "code": "417",
+      "name": "QUALITY FIX",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-417.json"
+    },
+    {
+      "code": "139",
+      "name": "RIOMAR",
+      "count": 13,
+      "file": "amarracao-e-elevacao--marca-139.json"
+    },
+    {
+      "code": "279",
+      "name": "RITZ",
+      "count": 5,
+      "file": "amarracao-e-elevacao--marca-279.json"
+    },
+    {
+      "code": "143",
+      "name": "TECNOTEXTIL",
+      "count": 102,
+      "file": "amarracao-e-elevacao--marca-143.json"
+    },
+    {
+      "code": "577",
+      "name": "TIFOR",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-577.json"
+    },
+    {
+      "code": "128",
+      "name": "ULTRA SAFE",
+      "count": 5,
+      "file": "amarracao-e-elevacao--marca-128.json"
+    },
+    {
+      "code": "1138",
+      "name": "UNIVERSO AVENTURA",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-1138.json"
+    },
+    {
+      "code": "4",
+      "name": "VICSA",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-4.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 1,
+      "file": "amarracao-e-elevacao--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 19,
+      "file": "amarracao-e-elevacao--marca-47.json"
+    }
+  ],
   "products": [
     {
       "code": "3432",

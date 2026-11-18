@@ -74,6 +74,116 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "2",
+      "name": "3M",
+      "count": 2,
+      "file": "sinalizacao-de-seguranca--marca-2.json"
+    },
+    {
+      "code": "773",
+      "name": "A R AQUINO",
+      "count": 13,
+      "file": "sinalizacao-de-seguranca--marca-773.json"
+    },
+    {
+      "code": "630",
+      "name": "AR ARQUINO",
+      "count": 8,
+      "file": "sinalizacao-de-seguranca--marca-630.json"
+    },
+    {
+      "code": "1074",
+      "name": "CARLED",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-1074.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 50,
+      "file": "sinalizacao-de-seguranca--marca-1.json"
+    },
+    {
+      "code": "29",
+      "name": "DM REFLETIVO",
+      "count": 14,
+      "file": "sinalizacao-de-seguranca--marca-29.json"
+    },
+    {
+      "code": "1086",
+      "name": "DUREX",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-1086.json"
+    },
+    {
+      "code": "1209",
+      "name": "ECELPLAST",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-1209.json"
+    },
+    {
+      "code": "1041",
+      "name": "FCV INDUSTRIA",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-1041.json"
+    },
+    {
+      "code": "111",
+      "name": "FORCELINE",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-111.json"
+    },
+    {
+      "code": "124",
+      "name": "KTELI",
+      "count": 3,
+      "file": "sinalizacao-de-seguranca--marca-124.json"
+    },
+    {
+      "code": "1046",
+      "name": "L&A",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-1046.json"
+    },
+    {
+      "code": "604",
+      "name": "L7 DISTRIBUIDORA",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-604.json"
+    },
+    {
+      "code": "846",
+      "name": "M2",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-846.json"
+    },
+    {
+      "code": "6",
+      "name": "PLASTCOR",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-6.json"
+    },
+    {
+      "code": "942",
+      "name": "SAFE PARK",
+      "count": 1,
+      "file": "sinalizacao-de-seguranca--marca-942.json"
+    },
+    {
+      "code": "153",
+      "name": "TAG",
+      "count": 30,
+      "file": "sinalizacao-de-seguranca--marca-153.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 50,
+      "file": "sinalizacao-de-seguranca--marca-73.json"
+    }
+  ],
   "products": [
     {
       "code": "11935",

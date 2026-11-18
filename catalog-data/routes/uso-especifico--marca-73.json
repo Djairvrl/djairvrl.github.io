@@ -1,0 +1,208 @@
+{
+  "title": "Uso Especifico",
+  "parentLabel": "Departamento",
+  "description": "Produtos da marca VOGAN neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Uso Especifico"
+    }
+  ],
+  "children": [
+    {
+      "name": "Diversos",
+      "slug": "diversos",
+      "path": "/uso-especifico/diversos",
+      "count": 58,
+      "categories": [
+        {
+          "name": "DIVERSOS",
+          "slug": "diversos",
+          "path": "/uso-especifico/diversos/diversos",
+          "count": 58
+        }
+      ]
+    }
+  ],
+  "activeBrand": {
+    "code": "73",
+    "name": "VOGAN"
+  },
+  "products": [
+    {
+      "code": "12804",
+      "title": "IMPRESSAO DE ADESIVO DIGITAL",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "IMP22052026",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/impressao-de-adesivo-digital-12804",
+      "image": "/products/images/0128/12804.jpg",
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "11108",
+      "title": "ADESIVO 20X25CM C/ RECORTE + VERNIZ",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "57482",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivo-20x25cm-c-recorte-verniz-11108",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "11107",
+      "title": "ADESIVO 30 CM C/ RECORT ESPECIAL+ VERNIZ",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "58741",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivo-30-cm-c-recort-especial-verniz-11107",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "1743",
+      "title": "ADESIVO VINIL",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "007",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivo-vinil-1743",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "7037",
+      "title": "ADESIVO VINIL 15 X 4 CM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "REINALDO ALMEIDA DO COUTO 00056732406",
+      "supplierCode": "1317",
+      "manufacturerCode": "0068",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/adesivo-vinil-15-x-4-cm-7037",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "6778",
+      "title": "ETIQUETAS ADESIVAS 14X21 MM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "05",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/etiquetas-adesivas-14x21-mm-6778",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "6777",
+      "title": "ETIQUETAS ADESIVAS 25X25 MM",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MARTA RAQUEL SOARES CESARIO 05179236452",
+      "supplierCode": "959",
+      "manufacturerCode": "06",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/etiquetas-adesivas-25x25-mm-6777",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "10102",
+      "title": "FUMODROMO - MARAL",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10102",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/fumodromo--maral-10102",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "10101",
+      "title": "FUMODROMO - TERRA SANTA",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
+      "supplierCode": "4",
+      "manufacturerCode": "10101",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/fumodromo--terra-santa-10101",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    },
+    {
+      "code": "7071",
+      "title": "TAMPA PARA RADIOADOR 7BLS F-1000",
+      "brand": "VOGAN",
+      "brandCode": "73",
+      "supplier": "TRANSSUPPLY OPERACOES LOGISTICA LTDA",
+      "supplierCode": "533",
+      "manufacturerCode": "55",
+      "category": "DIVERSOS",
+      "categorySlug": "diversos",
+      "path": "/tampa-para-radioador-7bls-f1000-7071",
+      "image": null,
+      "department": "Uso Especifico",
+      "departmentSlug": "uso-especifico",
+      "section": "Diversos",
+      "sectionSlug": "diversos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 10,
+    "pageBase": "uso-especifico--marca-73"
+  }
+}

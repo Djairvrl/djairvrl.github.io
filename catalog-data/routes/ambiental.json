@@ -202,6 +202,470 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "2",
+      "name": "3M",
+      "count": 1,
+      "file": "ambiental--marca-2.json"
+    },
+    {
+      "code": "108",
+      "name": "954",
+      "count": 1,
+      "file": "ambiental--marca-108.json"
+    },
+    {
+      "code": "90",
+      "name": "A&D",
+      "count": 11,
+      "file": "ambiental--marca-90.json"
+    },
+    {
+      "code": "313",
+      "name": "AKAUA",
+      "count": 1,
+      "file": "ambiental--marca-313.json"
+    },
+    {
+      "code": "911",
+      "name": "ALICE",
+      "count": 1,
+      "file": "ambiental--marca-911.json"
+    },
+    {
+      "code": "664",
+      "name": "ARCHEM",
+      "count": 1,
+      "file": "ambiental--marca-664.json"
+    },
+    {
+      "code": "610",
+      "name": "AVTEC",
+      "count": 1,
+      "file": "ambiental--marca-610.json"
+    },
+    {
+      "code": "1208",
+      "name": "BAYGON",
+      "count": 1,
+      "file": "ambiental--marca-1208.json"
+    },
+    {
+      "code": "874",
+      "name": "BETTANIN",
+      "count": 1,
+      "file": "ambiental--marca-874.json"
+    },
+    {
+      "code": "689",
+      "name": "BIOBLUE",
+      "count": 9,
+      "file": "ambiental--marca-689.json"
+    },
+    {
+      "code": "1019",
+      "name": "BIOSSSOLVIT",
+      "count": 1,
+      "file": "ambiental--marca-1019.json"
+    },
+    {
+      "code": "210",
+      "name": "BRALIMPIA",
+      "count": 6,
+      "file": "ambiental--marca-210.json"
+    },
+    {
+      "code": "1035",
+      "name": "BRASIL COLETORES",
+      "count": 1,
+      "file": "ambiental--marca-1035.json"
+    },
+    {
+      "code": "176",
+      "name": "BREMEN",
+      "count": 4,
+      "file": "ambiental--marca-176.json"
+    },
+    {
+      "code": "515",
+      "name": "BRILHUS",
+      "count": 4,
+      "file": "ambiental--marca-515.json"
+    },
+    {
+      "code": "218",
+      "name": "BRINOX",
+      "count": 1,
+      "file": "ambiental--marca-218.json"
+    },
+    {
+      "code": "988",
+      "name": "BUNKER",
+      "count": 1,
+      "file": "ambiental--marca-988.json"
+    },
+    {
+      "code": "456",
+      "name": "CASA DO SABAO",
+      "count": 1,
+      "file": "ambiental--marca-456.json"
+    },
+    {
+      "code": "209",
+      "name": "CONDOR",
+      "count": 7,
+      "file": "ambiental--marca-209.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 76,
+      "file": "ambiental--marca-1.json"
+    },
+    {
+      "code": "576",
+      "name": "ECOBIN",
+      "count": 5,
+      "file": "ambiental--marca-576.json"
+    },
+    {
+      "code": "994",
+      "name": "ECOLIX",
+      "count": 1,
+      "file": "ambiental--marca-994.json"
+    },
+    {
+      "code": "350",
+      "name": "ECOSINAL",
+      "count": 3,
+      "file": "ambiental--marca-350.json"
+    },
+    {
+      "code": "736",
+      "name": "ELASTOBOR",
+      "count": 1,
+      "file": "ambiental--marca-736.json"
+    },
+    {
+      "code": "823",
+      "name": "EMPLASUL",
+      "count": 2,
+      "file": "ambiental--marca-823.json"
+    },
+    {
+      "code": "808",
+      "name": "FIBRA",
+      "count": 1,
+      "file": "ambiental--marca-808.json"
+    },
+    {
+      "code": "228",
+      "name": "FORTLEV",
+      "count": 1,
+      "file": "ambiental--marca-228.json"
+    },
+    {
+      "code": "505",
+      "name": "HIKARI",
+      "count": 1,
+      "file": "ambiental--marca-505.json"
+    },
+    {
+      "code": "64",
+      "name": "IGAPÓ",
+      "count": 4,
+      "file": "ambiental--marca-64.json"
+    },
+    {
+      "code": "1076",
+      "name": "INPLARN",
+      "count": 1,
+      "file": "ambiental--marca-1076.json"
+    },
+    {
+      "code": "290",
+      "name": "IW8",
+      "count": 7,
+      "file": "ambiental--marca-290.json"
+    },
+    {
+      "code": "526",
+      "name": "JATICLEAN",
+      "count": 3,
+      "file": "ambiental--marca-526.json"
+    },
+    {
+      "code": "628",
+      "name": "JEDAL",
+      "count": 1,
+      "file": "ambiental--marca-628.json"
+    },
+    {
+      "code": "1139",
+      "name": "JSA",
+      "count": 4,
+      "file": "ambiental--marca-1139.json"
+    },
+    {
+      "code": "770",
+      "name": "JSN",
+      "count": 7,
+      "file": "ambiental--marca-770.json"
+    },
+    {
+      "code": "434",
+      "name": "LABGARD",
+      "count": 1,
+      "file": "ambiental--marca-434.json"
+    },
+    {
+      "code": "347",
+      "name": "LAR PLASTICOS",
+      "count": 11,
+      "file": "ambiental--marca-347.json"
+    },
+    {
+      "code": "481",
+      "name": "LIMPA FACIL",
+      "count": 1,
+      "file": "ambiental--marca-481.json"
+    },
+    {
+      "code": "189",
+      "name": "LOCTITE",
+      "count": 3,
+      "file": "ambiental--marca-189.json"
+    },
+    {
+      "code": "1016",
+      "name": "LOGISCAL",
+      "count": 1,
+      "file": "ambiental--marca-1016.json"
+    },
+    {
+      "code": "1204",
+      "name": "LOLA",
+      "count": 1,
+      "file": "ambiental--marca-1204.json"
+    },
+    {
+      "code": "1205",
+      "name": "LUAGLASS",
+      "count": 1,
+      "file": "ambiental--marca-1205.json"
+    },
+    {
+      "code": "39",
+      "name": "MANTAS BRASIL",
+      "count": 12,
+      "file": "ambiental--marca-39.json"
+    },
+    {
+      "code": "93",
+      "name": "MARCON",
+      "count": 1,
+      "file": "ambiental--marca-93.json"
+    },
+    {
+      "code": "1201",
+      "name": "MOOD",
+      "count": 1,
+      "file": "ambiental--marca-1201.json"
+    },
+    {
+      "code": "1229",
+      "name": "MOPPTA",
+      "count": 1,
+      "file": "ambiental--marca-1229.json"
+    },
+    {
+      "code": "542",
+      "name": "NATURAL LIMP",
+      "count": 2,
+      "file": "ambiental--marca-542.json"
+    },
+    {
+      "code": "855",
+      "name": "OBER",
+      "count": 1,
+      "file": "ambiental--marca-855.json"
+    },
+    {
+      "code": "425",
+      "name": "ORDENE S.A",
+      "count": 1,
+      "file": "ambiental--marca-425.json"
+    },
+    {
+      "code": "103",
+      "name": "PALISAD",
+      "count": 1,
+      "file": "ambiental--marca-103.json"
+    },
+    {
+      "code": "426",
+      "name": "PARAMOUNT",
+      "count": 1,
+      "file": "ambiental--marca-426.json"
+    },
+    {
+      "code": "6",
+      "name": "PLASTCOR",
+      "count": 2,
+      "file": "ambiental--marca-6.json"
+    },
+    {
+      "code": "603",
+      "name": "PLASTICO JUREMA",
+      "count": 2,
+      "file": "ambiental--marca-603.json"
+    },
+    {
+      "code": "559",
+      "name": "PLASTIKERO",
+      "count": 1,
+      "file": "ambiental--marca-559.json"
+    },
+    {
+      "code": "1132",
+      "name": "QUALINE",
+      "count": 1,
+      "file": "ambiental--marca-1132.json"
+    },
+    {
+      "code": "186",
+      "name": "QUIMATIC",
+      "count": 1,
+      "file": "ambiental--marca-186.json"
+    },
+    {
+      "code": "546",
+      "name": "RECICLES MAIS",
+      "count": 5,
+      "file": "ambiental--marca-546.json"
+    },
+    {
+      "code": "665",
+      "name": "RN EMBALAGENS",
+      "count": 1,
+      "file": "ambiental--marca-665.json"
+    },
+    {
+      "code": "927",
+      "name": "ROMHER",
+      "count": 1,
+      "file": "ambiental--marca-927.json"
+    },
+    {
+      "code": "305",
+      "name": "ROTOFORM",
+      "count": 4,
+      "file": "ambiental--marca-305.json"
+    },
+    {
+      "code": "788",
+      "name": "ROTTO BRASIL",
+      "count": 1,
+      "file": "ambiental--marca-788.json"
+    },
+    {
+      "code": "484",
+      "name": "SBP",
+      "count": 2,
+      "file": "ambiental--marca-484.json"
+    },
+    {
+      "code": "828",
+      "name": "SIMPLEFIX",
+      "count": 1,
+      "file": "ambiental--marca-828.json"
+    },
+    {
+      "code": "42",
+      "name": "SO LIXEIRAS",
+      "count": 1,
+      "file": "ambiental--marca-42.json"
+    },
+    {
+      "code": "676",
+      "name": "SPPLAST",
+      "count": 5,
+      "file": "ambiental--marca-676.json"
+    },
+    {
+      "code": "915",
+      "name": "TA LIMPO",
+      "count": 4,
+      "file": "ambiental--marca-915.json"
+    },
+    {
+      "code": "306",
+      "name": "TBVIEIRA",
+      "count": 1,
+      "file": "ambiental--marca-306.json"
+    },
+    {
+      "code": "185",
+      "name": "TECNOTRI",
+      "count": 4,
+      "file": "ambiental--marca-185.json"
+    },
+    {
+      "code": "424",
+      "name": "TOYPLAST",
+      "count": 1,
+      "file": "ambiental--marca-424.json"
+    },
+    {
+      "code": "83",
+      "name": "TRAMONTINA",
+      "count": 1,
+      "file": "ambiental--marca-83.json"
+    },
+    {
+      "code": "565",
+      "name": "UBL",
+      "count": 7,
+      "file": "ambiental--marca-565.json"
+    },
+    {
+      "code": "1211",
+      "name": "VERDEPLAS",
+      "count": 2,
+      "file": "ambiental--marca-1211.json"
+    },
+    {
+      "code": "409",
+      "name": "VINTEX",
+      "count": 1,
+      "file": "ambiental--marca-409.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 5,
+      "file": "ambiental--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 4,
+      "file": "ambiental--marca-47.json"
+    },
+    {
+      "code": "353",
+      "name": "WEBPLASTICO",
+      "count": 3,
+      "file": "ambiental--marca-353.json"
+    },
+    {
+      "code": "996",
+      "name": "WINNETMETAIS",
+      "count": 1,
+      "file": "ambiental--marca-996.json"
+    }
+  ],
   "products": [
     {
       "code": "12010",

@@ -1,0 +1,73 @@
+{
+  "page": 4,
+  "products": [
+    {
+      "code": "11439",
+      "title": "TALHADEIRA 28X520MM ENC SEXT 28MM",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "D-17681",
+      "category": "PONTEIRA E TALHADEIRA",
+      "categorySlug": "ponteira-e-talhadeira",
+      "path": "/talhadeira-28x520mm-enc-sext-28mm-11439",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    },
+    {
+      "code": "9607",
+      "title": "TUBEIRA CURTA 220MM MAKITA REF 123245-4",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1115",
+      "manufacturerCode": "123245-4",
+      "category": "ACESSÓRIOS PARA FERRAMENTAS ELÉTRICAS",
+      "categorySlug": "acessorios-para-ferramentas-eletricas",
+      "path": "/tubeira-curta-220mm-makita-ref-1232454-9607",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "8895",
+      "title": "VENTILADOR 330MM A BATERIA LXT DE LI-ION",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "DCF301Z",
+      "category": "VENTILADORES PORTÁTEIS",
+      "categorySlug": "ventiladores-portateis",
+      "path": "/ventilador-330mm-a-bateria-lxt-de-liion-8895",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Ferramentas Elétricas",
+      "sectionSlug": "ferramentas-eletricas"
+    },
+    {
+      "code": "12045",
+      "title": "VIBRADOR DE CONCRETO 220V",
+      "brand": "MAKITA",
+      "brandCode": "254",
+      "supplier": "MAKITA DO BRASIL FERRAMENTAS ELETRICAS LTDA",
+      "supplierCode": "1095",
+      "manufacturerCode": "VR1000",
+      "category": "VIBRADORES DE CONCRETO",
+      "categorySlug": "vibradores-de-concreto",
+      "path": "/vibrador-de-concreto-220v-12045",
+      "image": null,
+      "department": "Ferramentas",
+      "departmentSlug": "ferramentas",
+      "section": "Construção Civil",
+      "sectionSlug": "construcao-civil"
+    }
+  ]
+}

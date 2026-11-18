@@ -1,0 +1,225 @@
+{
+  "title": "Sinalização de Segurança",
+  "parentLabel": "Departamento",
+  "description": "Produtos da marca AR ARQUINO neste departamento.",
+  "breadcrumbs": [
+    {
+      "label": "Sinalização de Segurança"
+    }
+  ],
+  "children": [
+    {
+      "name": "Placas de Advertência e Emergência",
+      "slug": "placas-de-advertencia-e-emergencia",
+      "path": "/sinalizacao-de-seguranca/placas-de-advertencia-e-emergencia",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Sinalização Viária, Tráfego e Delimitação",
+      "slug": "sinalizacao-viaria-trafego-e-delimitacao",
+      "path": "/sinalizacao-de-seguranca/sinalizacao-viaria-trafego-e-delimitacao",
+      "count": 0,
+      "categories": []
+    },
+    {
+      "name": "Adesivo Refletivo Grau Prismático Iii",
+      "slug": "adesivo-refletivo-grau-prismatico-iii",
+      "path": "/sinalizacao-de-seguranca/adesivo-refletivo-grau-prismatico-iii",
+      "count": 1,
+      "categories": []
+    },
+    {
+      "name": "Placas E Dispositivos",
+      "slug": "placas-e-dispositivos",
+      "path": "/sinalizacao-de-seguranca/placas-e-dispositivos",
+      "count": 179,
+      "categories": [
+        {
+          "name": "SINALIZAÇÃO DE EXTINTORES",
+          "slug": "sinalizacao-de-extintores",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-extintores",
+          "count": 27
+        },
+        {
+          "name": "SINALIZAÇÃO DE PROIBIÇÃO E ALERTA",
+          "slug": "sinalizacao-de-proibicao-e-alerta",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-de-proibicao-e-alerta",
+          "count": 7
+        },
+        {
+          "name": "SINALIZAÇÃO EQUIPAMENTOS",
+          "slug": "sinalizacao-equipamentos",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-equipamentos",
+          "count": 2
+        },
+        {
+          "name": "SINALIZAÇÃO ROTA DE FUGA",
+          "slug": "sinalizacao-rota-de-fuga",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-rota-de-fuga",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÃO VIÁRIA",
+          "slug": "sinalizacao-viaria",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacao-viaria",
+          "count": 36
+        },
+        {
+          "name": "SINALIZAÇÕES DIVERSAS",
+          "slug": "sinalizacoes-diversas",
+          "path": "/sinalizacao-de-seguranca/placas-e-dispositivos/sinalizacoes-diversas",
+          "count": 71
+        }
+      ]
+    }
+  ],
+  "activeBrand": {
+    "code": "630",
+    "name": "AR ARQUINO"
+  },
+  "products": [
+    {
+      "code": "9237",
+      "title": "PLACA FOTOLUM 12X24CM APERTE E EMPURRE",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.007-7",
+      "category": "SINALIZAÇÃO ROTA DE FUGA",
+      "categorySlug": "sinalizacao-rota-de-fuga",
+      "path": "/placa-fotolum-12x24cm-aperte-e-empurre-9237",
+      "image": "/products/images/0092/9237.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "9238",
+      "title": "PLACA FOTOLUM 15X15CM ALARME SONORO",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.008-8",
+      "category": "SINALIZAÇÃO ROTA DE FUGA",
+      "categorySlug": "sinalizacao-rota-de-fuga",
+      "path": "/placa-fotolum-15x15cm-alarme-sonoro-9238",
+      "image": "/products/images/0092/9238.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "9235",
+      "title": "PLACA FOTOLUMINECENTE 15X20CM ABC",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.005-5",
+      "category": "SINALIZAÇÃO DE EXTINTORES",
+      "categorySlug": "sinalizacao-de-extintores",
+      "path": "/placa-fotoluminecente-15x20cm-abc-9235",
+      "image": "/products/images/0092/9235.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "9236",
+      "title": "PLACA FOTOLUMINECENTE 15X20CM AGUA",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.006-6",
+      "category": "SINALIZAÇÃO DE EXTINTORES",
+      "categorySlug": "sinalizacao-de-extintores",
+      "path": "/placa-fotoluminecente-15x20cm-agua-9236",
+      "image": "/products/images/0092/9236.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "9234",
+      "title": "PLACA FOTOLUMINECENTE 15X20CM CO2",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.004-4",
+      "category": "SINALIZAÇÃO DE EXTINTORES",
+      "categorySlug": "sinalizacao-de-extintores",
+      "path": "/placa-fotoluminecente-15x20cm-co2-9234",
+      "image": "/products/images/0092/9234.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "9287",
+      "title": "PLACA PVC CRISTAL TRANSP 2MM IMP DIG NEG",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "AQUINO SERVICE PRODUTOS E SINALIZACAO INDUSTRIAL",
+      "supplierCode": "1379",
+      "manufacturerCode": "000.001",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-pvc-cristal-transp-2mm-imp-dig-neg-9287",
+      "image": "/products/images/0092/9287.jpg",
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "8882",
+      "title": "PLACA AVISO DE PARE + CUIDADO",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "0001",
+      "category": "SINALIZAÇÕES DIVERSAS",
+      "categorySlug": "sinalizacoes-diversas",
+      "path": "/placa-aviso-de-pare-cuidado-8882",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    },
+    {
+      "code": "8883",
+      "title": "PLACA ESTACIONAMENTO 30X42 CM",
+      "brand": "AR ARQUINO",
+      "brandCode": "630",
+      "supplier": "MARCELO CESARIO SOARES",
+      "supplierCode": "580",
+      "manufacturerCode": "8310.00.00",
+      "category": "SINALIZAÇÃO VIÁRIA",
+      "categorySlug": "sinalizacao-viaria",
+      "path": "/placa-estacionamento-30x42-cm-8883",
+      "image": null,
+      "department": "Sinalização de Segurança",
+      "departmentSlug": "sinalizacao-de-seguranca",
+      "section": "Placas E Dispositivos",
+      "sectionSlug": "placas-e-dispositivos"
+    }
+  ],
+  "pagination": {
+    "pageSize": 50,
+    "pageCount": 1,
+    "total": 8,
+    "pageBase": "sinalizacao-de-seguranca--marca-630"
+  }
+}

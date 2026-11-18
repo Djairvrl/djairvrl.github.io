@@ -23,6 +23,62 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "851",
+      "name": "ADESIVO",
+      "count": 2,
+      "file": "uso-especifico--marca-851.json"
+    },
+    {
+      "code": "70",
+      "name": "BOSCH",
+      "count": 1,
+      "file": "uso-especifico--marca-70.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 40,
+      "file": "uso-especifico--marca-1.json"
+    },
+    {
+      "code": "227",
+      "name": "NILKO",
+      "count": 1,
+      "file": "uso-especifico--marca-227.json"
+    },
+    {
+      "code": "139",
+      "name": "RIOMAR",
+      "count": 1,
+      "file": "uso-especifico--marca-139.json"
+    },
+    {
+      "code": "459",
+      "name": "ROTOMASTER",
+      "count": 1,
+      "file": "uso-especifico--marca-459.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 10,
+      "file": "uso-especifico--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 1,
+      "file": "uso-especifico--marca-47.json"
+    },
+    {
+      "code": "575",
+      "name": "WIDE STOCK",
+      "count": 1,
+      "file": "uso-especifico--marca-575.json"
+    }
+  ],
   "products": [
     {
       "code": "8049",

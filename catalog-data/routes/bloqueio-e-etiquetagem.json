@@ -220,6 +220,92 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "740",
+      "name": "4SAFE",
+      "count": 2,
+      "file": "bloqueio-e-etiquetagem--marca-740.json"
+    },
+    {
+      "code": "86",
+      "name": "ABB",
+      "count": 1,
+      "file": "bloqueio-e-etiquetagem--marca-86.json"
+    },
+    {
+      "code": "898",
+      "name": "AFP LACRES",
+      "count": 2,
+      "file": "bloqueio-e-etiquetagem--marca-898.json"
+    },
+    {
+      "code": "703",
+      "name": "BLESSED SEALS LACRES",
+      "count": 1,
+      "file": "bloqueio-e-etiquetagem--marca-703.json"
+    },
+    {
+      "code": "45",
+      "name": "BRADY",
+      "count": 5,
+      "file": "bloqueio-e-etiquetagem--marca-45.json"
+    },
+    {
+      "code": "187",
+      "name": "BRAUCH",
+      "count": 3,
+      "file": "bloqueio-e-etiquetagem--marca-187.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 15,
+      "file": "bloqueio-e-etiquetagem--marca-1.json"
+    },
+    {
+      "code": "216",
+      "name": "FARIA",
+      "count": 9,
+      "file": "bloqueio-e-etiquetagem--marca-216.json"
+    },
+    {
+      "code": "1174",
+      "name": "GROUPTEC",
+      "count": 2,
+      "file": "bloqueio-e-etiquetagem--marca-1174.json"
+    },
+    {
+      "code": "280",
+      "name": "LACREFIX",
+      "count": 2,
+      "file": "bloqueio-e-etiquetagem--marca-280.json"
+    },
+    {
+      "code": "556",
+      "name": "OSHALOCK",
+      "count": 1,
+      "file": "bloqueio-e-etiquetagem--marca-556.json"
+    },
+    {
+      "code": "44",
+      "name": "TAGOUT",
+      "count": 49,
+      "file": "bloqueio-e-etiquetagem--marca-44.json"
+    },
+    {
+      "code": "447",
+      "name": "THERMAX",
+      "count": 2,
+      "file": "bloqueio-e-etiquetagem--marca-447.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 10,
+      "file": "bloqueio-e-etiquetagem--marca-73.json"
+    }
+  ],
   "products": [
     {
       "code": "2097",

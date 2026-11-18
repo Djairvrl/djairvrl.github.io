@@ -628,6 +628,1184 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "2",
+      "name": "3M",
+      "count": 97,
+      "file": "acessorios-e-consumiveis--marca-2.json"
+    },
+    {
+      "code": "108",
+      "name": "954",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-108.json"
+    },
+    {
+      "code": "25",
+      "name": "ACO CEARENÇE",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-25.json"
+    },
+    {
+      "code": "331",
+      "name": "ACTIOIL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-331.json"
+    },
+    {
+      "code": "206",
+      "name": "ADERE",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-206.json"
+    },
+    {
+      "code": "586",
+      "name": "AKZO",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-586.json"
+    },
+    {
+      "code": "843",
+      "name": "ALLTEX",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-843.json"
+    },
+    {
+      "code": "80",
+      "name": "AMANCO",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--marca-80.json"
+    },
+    {
+      "code": "1213",
+      "name": "APOLLO LIGHTING",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1213.json"
+    },
+    {
+      "code": "664",
+      "name": "ARCHEM",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-664.json"
+    },
+    {
+      "code": "1029",
+      "name": "ARDUT",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1029.json"
+    },
+    {
+      "code": "247",
+      "name": "ARPREX",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--marca-247.json"
+    },
+    {
+      "code": "321",
+      "name": "ATLAS",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-321.json"
+    },
+    {
+      "code": "351",
+      "name": "ATRIOM",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-351.json"
+    },
+    {
+      "code": "117",
+      "name": "AVANTI",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-117.json"
+    },
+    {
+      "code": "198",
+      "name": "AXT",
+      "count": 41,
+      "file": "acessorios-e-consumiveis--marca-198.json"
+    },
+    {
+      "code": "204",
+      "name": "BADEN",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--marca-204.json"
+    },
+    {
+      "code": "240",
+      "name": "BELENUS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-240.json"
+    },
+    {
+      "code": "477",
+      "name": "BIMEXPAR",
+      "count": 13,
+      "file": "acessorios-e-consumiveis--marca-477.json"
+    },
+    {
+      "code": "205",
+      "name": "BLUMENAU",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-205.json"
+    },
+    {
+      "code": "479",
+      "name": "BOMBRIL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-479.json"
+    },
+    {
+      "code": "70",
+      "name": "BOSCH",
+      "count": 293,
+      "file": "acessorios-e-consumiveis--marca-70.json"
+    },
+    {
+      "code": "210",
+      "name": "BRALIMPIA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-210.json"
+    },
+    {
+      "code": "136",
+      "name": "BRANCO",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-136.json"
+    },
+    {
+      "code": "757",
+      "name": "BRASCOLA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-757.json"
+    },
+    {
+      "code": "746",
+      "name": "BRASILUX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-746.json"
+    },
+    {
+      "code": "958",
+      "name": "BRASIMPAR",
+      "count": 27,
+      "file": "acessorios-e-consumiveis--marca-958.json"
+    },
+    {
+      "code": "966",
+      "name": "BULBO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-966.json"
+    },
+    {
+      "code": "1007",
+      "name": "C&B CONECTORES",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1007.json"
+    },
+    {
+      "code": "1154",
+      "name": "CABOS NBR",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-1154.json"
+    },
+    {
+      "code": "992",
+      "name": "CALAS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-992.json"
+    },
+    {
+      "code": "37",
+      "name": "CARBOGRAFITE",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-37.json"
+    },
+    {
+      "code": "1198",
+      "name": "CASA VANDO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1198.json"
+    },
+    {
+      "code": "861",
+      "name": "CEMAR",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-861.json"
+    },
+    {
+      "code": "364",
+      "name": "CHEMICOLOR",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-364.json"
+    },
+    {
+      "code": "789",
+      "name": "COBRECOM",
+      "count": 19,
+      "file": "acessorios-e-consumiveis--marca-789.json"
+    },
+    {
+      "code": "429",
+      "name": "COLORART",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-429.json"
+    },
+    {
+      "code": "784",
+      "name": "CON-FIO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-784.json"
+    },
+    {
+      "code": "516",
+      "name": "CONDEAL",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-516.json"
+    },
+    {
+      "code": "414",
+      "name": "CONDEX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-414.json"
+    },
+    {
+      "code": "209",
+      "name": "CONDOR",
+      "count": 39,
+      "file": "acessorios-e-consumiveis--marca-209.json"
+    },
+    {
+      "code": "571",
+      "name": "CONDUTECK",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-571.json"
+    },
+    {
+      "code": "782",
+      "name": "CONEXEL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-782.json"
+    },
+    {
+      "code": "644",
+      "name": "CORAX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-644.json"
+    },
+    {
+      "code": "926",
+      "name": "CORTEC",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-926.json"
+    },
+    {
+      "code": "1052",
+      "name": "CRIMPER",
+      "count": 28,
+      "file": "acessorios-e-consumiveis--marca-1052.json"
+    },
+    {
+      "code": "812",
+      "name": "DECORLUX",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--marca-812.json"
+    },
+    {
+      "code": "961",
+      "name": "DIDATICA LABOR",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-961.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 107,
+      "file": "acessorios-e-consumiveis--marca-1.json"
+    },
+    {
+      "code": "540",
+      "name": "DIVERSOS",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-540.json"
+    },
+    {
+      "code": "29",
+      "name": "DM REFLETIVO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-29.json"
+    },
+    {
+      "code": "366",
+      "name": "DNI",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-366.json"
+    },
+    {
+      "code": "92",
+      "name": "DORMER",
+      "count": 44,
+      "file": "acessorios-e-consumiveis--marca-92.json"
+    },
+    {
+      "code": "722",
+      "name": "DRAGAO DOS PARAFUSOS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-722.json"
+    },
+    {
+      "code": "169",
+      "name": "DREMEL",
+      "count": 12,
+      "file": "acessorios-e-consumiveis--marca-169.json"
+    },
+    {
+      "code": "863",
+      "name": "EAGLE BURGMANN",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-863.json"
+    },
+    {
+      "code": "190",
+      "name": "ECCOFER",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-190.json"
+    },
+    {
+      "code": "326",
+      "name": "EDDING",
+      "count": 13,
+      "file": "acessorios-e-consumiveis--marca-326.json"
+    },
+    {
+      "code": "715",
+      "name": "EIOMR",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-715.json"
+    },
+    {
+      "code": "28",
+      "name": "ELGIN",
+      "count": 18,
+      "file": "acessorios-e-consumiveis--marca-28.json"
+    },
+    {
+      "code": "1025",
+      "name": "EPOXI",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-1025.json"
+    },
+    {
+      "code": "274",
+      "name": "ESAB",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-274.json"
+    },
+    {
+      "code": "783",
+      "name": "ETANIZ",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-783.json"
+    },
+    {
+      "code": "916",
+      "name": "FABRIFIX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-916.json"
+    },
+    {
+      "code": "718",
+      "name": "FAME",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-718.json"
+    },
+    {
+      "code": "587",
+      "name": "FERTAK",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-587.json"
+    },
+    {
+      "code": "701",
+      "name": "FIBERTEX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-701.json"
+    },
+    {
+      "code": "590",
+      "name": "FIX ALL",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-590.json"
+    },
+    {
+      "code": "253",
+      "name": "FLACH",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-253.json"
+    },
+    {
+      "code": "74",
+      "name": "FLUKE",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-74.json"
+    },
+    {
+      "code": "503",
+      "name": "FORCE LINE",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-503.json"
+    },
+    {
+      "code": "111",
+      "name": "FORCELINE",
+      "count": 21,
+      "file": "acessorios-e-consumiveis--marca-111.json"
+    },
+    {
+      "code": "228",
+      "name": "FORTLEV",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-228.json"
+    },
+    {
+      "code": "1004",
+      "name": "FOXLUX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1004.json"
+    },
+    {
+      "code": "272",
+      "name": "FRONTEC",
+      "count": 13,
+      "file": "acessorios-e-consumiveis--marca-272.json"
+    },
+    {
+      "code": "81",
+      "name": "GEDORE",
+      "count": 16,
+      "file": "acessorios-e-consumiveis--marca-81.json"
+    },
+    {
+      "code": "119",
+      "name": "GEDORE RED",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-119.json"
+    },
+    {
+      "code": "475",
+      "name": "GENCO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-475.json"
+    },
+    {
+      "code": "608",
+      "name": "GRAFF",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--marca-608.json"
+    },
+    {
+      "code": "666",
+      "name": "GREE",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-666.json"
+    },
+    {
+      "code": "106",
+      "name": "GROSS",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-106.json"
+    },
+    {
+      "code": "282",
+      "name": "HANSATECNICA",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--marca-282.json"
+    },
+    {
+      "code": "291",
+      "name": "HELLERMANN",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-291.json"
+    },
+    {
+      "code": "956",
+      "name": "HENKEL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-956.json"
+    },
+    {
+      "code": "1038",
+      "name": "HIDROMACACOS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1038.json"
+    },
+    {
+      "code": "611",
+      "name": "HILTI",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-611.json"
+    },
+    {
+      "code": "1171",
+      "name": "HITA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1171.json"
+    },
+    {
+      "code": "921",
+      "name": "HTON",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-921.json"
+    },
+    {
+      "code": "405",
+      "name": "IMPLASTEC",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-405.json"
+    },
+    {
+      "code": "499",
+      "name": "INTELLI",
+      "count": 25,
+      "file": "acessorios-e-consumiveis--marca-499.json"
+    },
+    {
+      "code": "931",
+      "name": "IQUINE",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--marca-931.json"
+    },
+    {
+      "code": "256",
+      "name": "IRWIN",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-256.json"
+    },
+    {
+      "code": "446",
+      "name": "ISOQUID",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-446.json"
+    },
+    {
+      "code": "260",
+      "name": "ITAQUA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-260.json"
+    },
+    {
+      "code": "1202",
+      "name": "IV PLAST",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1202.json"
+    },
+    {
+      "code": "862",
+      "name": "KANAFLEX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-862.json"
+    },
+    {
+      "code": "1071",
+      "name": "LAMPADINHA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-1071.json"
+    },
+    {
+      "code": "314",
+      "name": "LAZZURIL",
+      "count": 9,
+      "file": "acessorios-e-consumiveis--marca-314.json"
+    },
+    {
+      "code": "619",
+      "name": "LEOLEO",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-619.json"
+    },
+    {
+      "code": "189",
+      "name": "LOCTITE",
+      "count": 49,
+      "file": "acessorios-e-consumiveis--marca-189.json"
+    },
+    {
+      "code": "622",
+      "name": "LOTOS PLUS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-622.json"
+    },
+    {
+      "code": "463",
+      "name": "LOTUS PLUS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-463.json"
+    },
+    {
+      "code": "660",
+      "name": "LUKMA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-660.json"
+    },
+    {
+      "code": "304",
+      "name": "LUXENS",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-304.json"
+    },
+    {
+      "code": "846",
+      "name": "M2",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-846.json"
+    },
+    {
+      "code": "254",
+      "name": "MAKITA",
+      "count": 25,
+      "file": "acessorios-e-consumiveis--marca-254.json"
+    },
+    {
+      "code": "358",
+      "name": "MANUKS",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-358.json"
+    },
+    {
+      "code": "634",
+      "name": "MARE MANSA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-634.json"
+    },
+    {
+      "code": "607",
+      "name": "MAURIZIO & CIA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-607.json"
+    },
+    {
+      "code": "775",
+      "name": "MAXIRUBBER",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-775.json"
+    },
+    {
+      "code": "531",
+      "name": "METAL CHECK",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-531.json"
+    },
+    {
+      "code": "968",
+      "name": "METHA",
+      "count": 29,
+      "file": "acessorios-e-consumiveis--marca-968.json"
+    },
+    {
+      "code": "1027",
+      "name": "METHAFIX",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--marca-1027.json"
+    },
+    {
+      "code": "995",
+      "name": "MFL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-995.json"
+    },
+    {
+      "code": "102",
+      "name": "MTX",
+      "count": 61,
+      "file": "acessorios-e-consumiveis--marca-102.json"
+    },
+    {
+      "code": "266",
+      "name": "MULTILASER",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-266.json"
+    },
+    {
+      "code": "716",
+      "name": "MUNDIAL PRIME",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-716.json"
+    },
+    {
+      "code": "462",
+      "name": "MXITA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-462.json"
+    },
+    {
+      "code": "1236",
+      "name": "NANO",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1236.json"
+    },
+    {
+      "code": "471",
+      "name": "NATRIELLI",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-471.json"
+    },
+    {
+      "code": "1176",
+      "name": "NEW FIX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1176.json"
+    },
+    {
+      "code": "178",
+      "name": "NOLL",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--marca-178.json"
+    },
+    {
+      "code": "693",
+      "name": "NORTON",
+      "count": 10,
+      "file": "acessorios-e-consumiveis--marca-693.json"
+    },
+    {
+      "code": "932",
+      "name": "NOVACOR",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-932.json"
+    },
+    {
+      "code": "670",
+      "name": "NOVE 54",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-670.json"
+    },
+    {
+      "code": "222",
+      "name": "NOVE54",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-222.json"
+    },
+    {
+      "code": "299",
+      "name": "OEX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-299.json"
+    },
+    {
+      "code": "144",
+      "name": "ORBI",
+      "count": 16,
+      "file": "acessorios-e-consumiveis--marca-144.json"
+    },
+    {
+      "code": "257",
+      "name": "OSG",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-257.json"
+    },
+    {
+      "code": "1153",
+      "name": "OUROLUX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1153.json"
+    },
+    {
+      "code": "920",
+      "name": "PADRAO FORTE",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-920.json"
+    },
+    {
+      "code": "333",
+      "name": "PEQUI",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-333.json"
+    },
+    {
+      "code": "894",
+      "name": "PETRO CABOS",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-894.json"
+    },
+    {
+      "code": "527",
+      "name": "PHILIPS",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-527.json"
+    },
+    {
+      "code": "686",
+      "name": "PHOSPODONT",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-686.json"
+    },
+    {
+      "code": "723",
+      "name": "PIAL LEGRAND",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-723.json"
+    },
+    {
+      "code": "1032",
+      "name": "PLUGAR",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1032.json"
+    },
+    {
+      "code": "837",
+      "name": "PVCTEC",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-837.json"
+    },
+    {
+      "code": "186",
+      "name": "QUIMATIC",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--marca-186.json"
+    },
+    {
+      "code": "344",
+      "name": "RADILUB",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-344.json"
+    },
+    {
+      "code": "177",
+      "name": "ROCAST",
+      "count": 61,
+      "file": "acessorios-e-consumiveis--marca-177.json"
+    },
+    {
+      "code": "1156",
+      "name": "ROMA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1156.json"
+    },
+    {
+      "code": "174",
+      "name": "ROTHENBERGER",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-174.json"
+    },
+    {
+      "code": "854",
+      "name": "ROYAL FIX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-854.json"
+    },
+    {
+      "code": "743",
+      "name": "RUST OLEUM",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-743.json"
+    },
+    {
+      "code": "942",
+      "name": "SAFE PARK",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-942.json"
+    },
+    {
+      "code": "1207",
+      "name": "SAGUARAGI",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1207.json"
+    },
+    {
+      "code": "1089",
+      "name": "SAINT",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1089.json"
+    },
+    {
+      "code": "163",
+      "name": "SATA",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--marca-163.json"
+    },
+    {
+      "code": "566",
+      "name": "SCHNEIDER",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-566.json"
+    },
+    {
+      "code": "113",
+      "name": "SCHULZ",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-113.json"
+    },
+    {
+      "code": "879",
+      "name": "SEGURIMAX",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-879.json"
+    },
+    {
+      "code": "35",
+      "name": "SERVEQ",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-35.json"
+    },
+    {
+      "code": "1026",
+      "name": "SHERWIN WILLIAMS",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1026.json"
+    },
+    {
+      "code": "933",
+      "name": "SHERWIN- WILLIAMS",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-933.json"
+    },
+    {
+      "code": "245",
+      "name": "SIEMENS",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-245.json"
+    },
+    {
+      "code": "55",
+      "name": "SIGMA",
+      "count": 10,
+      "file": "acessorios-e-consumiveis--marca-55.json"
+    },
+    {
+      "code": "694",
+      "name": "SIKA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-694.json"
+    },
+    {
+      "code": "428",
+      "name": "SIKAFLEX",
+      "count": 6,
+      "file": "acessorios-e-consumiveis--marca-428.json"
+    },
+    {
+      "code": "589",
+      "name": "SIL",
+      "count": 10,
+      "file": "acessorios-e-consumiveis--marca-589.json"
+    },
+    {
+      "code": "251",
+      "name": "SKF",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-251.json"
+    },
+    {
+      "code": "75",
+      "name": "SKIL",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-75.json"
+    },
+    {
+      "code": "469",
+      "name": "SOLAR LIGHT",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-469.json"
+    },
+    {
+      "code": "328",
+      "name": "SOLUT",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-328.json"
+    },
+    {
+      "code": "354",
+      "name": "SOMAR",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-354.json"
+    },
+    {
+      "code": "408",
+      "name": "SOPRANO",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-408.json"
+    },
+    {
+      "code": "423",
+      "name": "SORTE LUZ",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-423.json"
+    },
+    {
+      "code": "104",
+      "name": "SPARTA",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-104.json"
+    },
+    {
+      "code": "137",
+      "name": "STANLEY",
+      "count": 8,
+      "file": "acessorios-e-consumiveis--marca-137.json"
+    },
+    {
+      "code": "1120",
+      "name": "STARFER",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-1120.json"
+    },
+    {
+      "code": "79",
+      "name": "STARRETT",
+      "count": 11,
+      "file": "acessorios-e-consumiveis--marca-79.json"
+    },
+    {
+      "code": "444",
+      "name": "STECK",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-444.json"
+    },
+    {
+      "code": "105",
+      "name": "STELS",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-105.json"
+    },
+    {
+      "code": "860",
+      "name": "SUMARÉ",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-860.json"
+    },
+    {
+      "code": "518",
+      "name": "SUVINIL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-518.json"
+    },
+    {
+      "code": "639",
+      "name": "TASCHIBRA",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-639.json"
+    },
+    {
+      "code": "1183",
+      "name": "TEBERA",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1183.json"
+    },
+    {
+      "code": "143",
+      "name": "TECNOTEXTIL",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-143.json"
+    },
+    {
+      "code": "318",
+      "name": "TEK BOND",
+      "count": 7,
+      "file": "acessorios-e-consumiveis--marca-318.json"
+    },
+    {
+      "code": "498",
+      "name": "TEKBOND",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-498.json"
+    },
+    {
+      "code": "387",
+      "name": "TF7",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-387.json"
+    },
+    {
+      "code": "476",
+      "name": "TIGRE",
+      "count": 5,
+      "file": "acessorios-e-consumiveis--marca-476.json"
+    },
+    {
+      "code": "1212",
+      "name": "TPA2- 3",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1212.json"
+    },
+    {
+      "code": "83",
+      "name": "TRAMONTINA",
+      "count": 19,
+      "file": "acessorios-e-consumiveis--marca-83.json"
+    },
+    {
+      "code": "38",
+      "name": "TRAÇO FORTE",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-38.json"
+    },
+    {
+      "code": "597",
+      "name": "TYTAN",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-597.json"
+    },
+    {
+      "code": "128",
+      "name": "ULTRA SAFE",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-128.json"
+    },
+    {
+      "code": "116",
+      "name": "VABENE",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-116.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-73.json"
+    },
+    {
+      "code": "1231",
+      "name": "VOLTER",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-1231.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 98,
+      "file": "acessorios-e-consumiveis--marca-47.json"
+    },
+    {
+      "code": "220",
+      "name": "WD40",
+      "count": 1,
+      "file": "acessorios-e-consumiveis--marca-220.json"
+    },
+    {
+      "code": "537",
+      "name": "WEG",
+      "count": 4,
+      "file": "acessorios-e-consumiveis--marca-537.json"
+    },
+    {
+      "code": "737",
+      "name": "WEIDMULLER CONEXEL",
+      "count": 3,
+      "file": "acessorios-e-consumiveis--marca-737.json"
+    },
+    {
+      "code": "421",
+      "name": "WORKER",
+      "count": 2,
+      "file": "acessorios-e-consumiveis--marca-421.json"
+    },
+    {
+      "code": "61",
+      "name": "WURTH",
+      "count": 18,
+      "file": "acessorios-e-consumiveis--marca-61.json"
+    }
+  ],
   "products": [
     {
       "code": "13319",

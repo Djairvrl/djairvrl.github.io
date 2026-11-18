@@ -162,6 +162,170 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "25",
+      "name": "ACO CEARENÇE",
+      "count": 15,
+      "file": "material-de-construcao--marca-25.json"
+    },
+    {
+      "code": "690",
+      "name": "ALUMIFER",
+      "count": 4,
+      "file": "material-de-construcao--marca-690.json"
+    },
+    {
+      "code": "80",
+      "name": "AMANCO",
+      "count": 4,
+      "file": "material-de-construcao--marca-80.json"
+    },
+    {
+      "code": "94",
+      "name": "CELITE",
+      "count": 2,
+      "file": "material-de-construcao--marca-94.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 51,
+      "file": "material-de-construcao--marca-1.json"
+    },
+    {
+      "code": "845",
+      "name": "DURATEX",
+      "count": 1,
+      "file": "material-de-construcao--marca-845.json"
+    },
+    {
+      "code": "824",
+      "name": "EDA",
+      "count": 1,
+      "file": "material-de-construcao--marca-824.json"
+    },
+    {
+      "code": "118",
+      "name": "ENERPAC",
+      "count": 1,
+      "file": "material-de-construcao--marca-118.json"
+    },
+    {
+      "code": "213",
+      "name": "FERRARI",
+      "count": 1,
+      "file": "material-de-construcao--marca-213.json"
+    },
+    {
+      "code": "228",
+      "name": "FORTLEV",
+      "count": 10,
+      "file": "material-de-construcao--marca-228.json"
+    },
+    {
+      "code": "815",
+      "name": "GERDAU",
+      "count": 1,
+      "file": "material-de-construcao--marca-815.json"
+    },
+    {
+      "code": "1230",
+      "name": "HIDRACOMP",
+      "count": 1,
+      "file": "material-de-construcao--marca-1230.json"
+    },
+    {
+      "code": "520",
+      "name": "JAMAD",
+      "count": 2,
+      "file": "material-de-construcao--marca-520.json"
+    },
+    {
+      "code": "804",
+      "name": "LARILAR",
+      "count": 1,
+      "file": "material-de-construcao--marca-804.json"
+    },
+    {
+      "code": "254",
+      "name": "MAKITA",
+      "count": 1,
+      "file": "material-de-construcao--marca-254.json"
+    },
+    {
+      "code": "634",
+      "name": "MARE MANSA",
+      "count": 2,
+      "file": "material-de-construcao--marca-634.json"
+    },
+    {
+      "code": "598",
+      "name": "MULTISEG",
+      "count": 1,
+      "file": "material-de-construcao--marca-598.json"
+    },
+    {
+      "code": "595",
+      "name": "NETAFIM",
+      "count": 3,
+      "file": "material-de-construcao--marca-595.json"
+    },
+    {
+      "code": "893",
+      "name": "PEAD BRASIL",
+      "count": 1,
+      "file": "material-de-construcao--marca-893.json"
+    },
+    {
+      "code": "1187",
+      "name": "PILLARTECH",
+      "count": 1,
+      "file": "material-de-construcao--marca-1187.json"
+    },
+    {
+      "code": "844",
+      "name": "ROLDANA",
+      "count": 1,
+      "file": "material-de-construcao--marca-844.json"
+    },
+    {
+      "code": "744",
+      "name": "ROLIX",
+      "count": 1,
+      "file": "material-de-construcao--marca-744.json"
+    },
+    {
+      "code": "131",
+      "name": "STAUFF",
+      "count": 1,
+      "file": "material-de-construcao--marca-131.json"
+    },
+    {
+      "code": "224",
+      "name": "UNIMETAIS",
+      "count": 6,
+      "file": "material-de-construcao--marca-224.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 1,
+      "file": "material-de-construcao--marca-73.json"
+    },
+    {
+      "code": "683",
+      "name": "WALSYWA",
+      "count": 1,
+      "file": "material-de-construcao--marca-683.json"
+    },
+    {
+      "code": "353",
+      "name": "WEBPLASTICO",
+      "count": 1,
+      "file": "material-de-construcao--marca-353.json"
+    }
+  ],
   "products": [
     {
       "code": "566",

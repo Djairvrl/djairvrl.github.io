@@ -404,6 +404,1988 @@
       ]
     }
   ],
+  "brands": [
+    {
+      "code": "2",
+      "name": "3M",
+      "count": 29,
+      "file": "suprimentos-corporativos--marca-2.json"
+    },
+    {
+      "code": "707",
+      "name": "5+",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-707.json"
+    },
+    {
+      "code": "773",
+      "name": "A R AQUINO",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-773.json"
+    },
+    {
+      "code": "973",
+      "name": "ACER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-973.json"
+    },
+    {
+      "code": "1134",
+      "name": "ACO FORTE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1134.json"
+    },
+    {
+      "code": "912",
+      "name": "ADFLOR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-912.json"
+    },
+    {
+      "code": "1177",
+      "name": "ADVANTECH",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1177.json"
+    },
+    {
+      "code": "401",
+      "name": "AGRATTO",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-401.json"
+    },
+    {
+      "code": "1197",
+      "name": "ALEGRE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1197.json"
+    },
+    {
+      "code": "911",
+      "name": "ALICE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-911.json"
+    },
+    {
+      "code": "868",
+      "name": "ALLEN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-868.json"
+    },
+    {
+      "code": "1008",
+      "name": "ANDORINHA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1008.json"
+    },
+    {
+      "code": "1135",
+      "name": "ANJGG",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1135.json"
+    },
+    {
+      "code": "1050",
+      "name": "ANTARTICA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1050.json"
+    },
+    {
+      "code": "399",
+      "name": "APPLE",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-399.json"
+    },
+    {
+      "code": "1163",
+      "name": "AQUARIO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1163.json"
+    },
+    {
+      "code": "630",
+      "name": "AR ARQUINO",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-630.json"
+    },
+    {
+      "code": "662",
+      "name": "ARCHER AX72",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-662.json"
+    },
+    {
+      "code": "500",
+      "name": "ARNO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-500.json"
+    },
+    {
+      "code": "1126",
+      "name": "ARTEZANET",
+      "count": 12,
+      "file": "suprimentos-corporativos--marca-1126.json"
+    },
+    {
+      "code": "158",
+      "name": "ASA SUL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-158.json"
+    },
+    {
+      "code": "494",
+      "name": "ASSUGRIN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-494.json"
+    },
+    {
+      "code": "924",
+      "name": "ASTRAL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-924.json"
+    },
+    {
+      "code": "990",
+      "name": "ASTRO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-990.json"
+    },
+    {
+      "code": "1178",
+      "name": "ATENAS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1178.json"
+    },
+    {
+      "code": "856",
+      "name": "AURORA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-856.json"
+    },
+    {
+      "code": "1082",
+      "name": "BAOFENG",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1082.json"
+    },
+    {
+      "code": "803",
+      "name": "BAZZE",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-803.json"
+    },
+    {
+      "code": "831",
+      "name": "BECKER",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-831.json"
+    },
+    {
+      "code": "902",
+      "name": "BECKPLATER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-902.json"
+    },
+    {
+      "code": "874",
+      "name": "BETTANIN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-874.json"
+    },
+    {
+      "code": "457",
+      "name": "BIC",
+      "count": 6,
+      "file": "suprimentos-corporativos--marca-457.json"
+    },
+    {
+      "code": "1002",
+      "name": "BIG ROLL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1002.json"
+    },
+    {
+      "code": "885",
+      "name": "BLUPACK",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-885.json"
+    },
+    {
+      "code": "482",
+      "name": "BOM AR",
+      "count": 6,
+      "file": "suprimentos-corporativos--marca-482.json"
+    },
+    {
+      "code": "70",
+      "name": "BOSCH",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-70.json"
+    },
+    {
+      "code": "535",
+      "name": "BRAKEY",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-535.json"
+    },
+    {
+      "code": "210",
+      "name": "BRALIMPIA",
+      "count": 12,
+      "file": "suprimentos-corporativos--marca-210.json"
+    },
+    {
+      "code": "1099",
+      "name": "BRAMOV",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1099.json"
+    },
+    {
+      "code": "175",
+      "name": "BRASTEMP",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-175.json"
+    },
+    {
+      "code": "487",
+      "name": "BRILHOTEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-487.json"
+    },
+    {
+      "code": "515",
+      "name": "BRILHUS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-515.json"
+    },
+    {
+      "code": "646",
+      "name": "BRITANIA",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-646.json"
+    },
+    {
+      "code": "123",
+      "name": "BROTHER",
+      "count": 20,
+      "file": "suprimentos-corporativos--marca-123.json"
+    },
+    {
+      "code": "1087",
+      "name": "BRW",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1087.json"
+    },
+    {
+      "code": "514",
+      "name": "CABLETIME",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-514.json"
+    },
+    {
+      "code": "1094",
+      "name": "CADENCE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1094.json"
+    },
+    {
+      "code": "453",
+      "name": "CAMPESTRE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-453.json"
+    },
+    {
+      "code": "654",
+      "name": "CANMAX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-654.json"
+    },
+    {
+      "code": "361",
+      "name": "CANON",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-361.json"
+    },
+    {
+      "code": "509",
+      "name": "CANON",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-509.json"
+    },
+    {
+      "code": "458",
+      "name": "CARBRINK",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-458.json"
+    },
+    {
+      "code": "581",
+      "name": "CARRIER",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-581.json"
+    },
+    {
+      "code": "427",
+      "name": "CASIO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-427.json"
+    },
+    {
+      "code": "94",
+      "name": "CELITE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-94.json"
+    },
+    {
+      "code": "309",
+      "name": "CETRO",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-309.json"
+    },
+    {
+      "code": "1084",
+      "name": "CHAMEX",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-1084.json"
+    },
+    {
+      "code": "1169",
+      "name": "CHL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1169.json"
+    },
+    {
+      "code": "511",
+      "name": "CIF",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-511.json"
+    },
+    {
+      "code": "1142",
+      "name": "CIFA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1142.json"
+    },
+    {
+      "code": "1119",
+      "name": "CIRILO CABOS",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-1119.json"
+    },
+    {
+      "code": "1085",
+      "name": "CIS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1085.json"
+    },
+    {
+      "code": "914",
+      "name": "CLEAN PAPER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-914.json"
+    },
+    {
+      "code": "465",
+      "name": "CLEANER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-465.json"
+    },
+    {
+      "code": "810",
+      "name": "CLIMA SOFT",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-810.json"
+    },
+    {
+      "code": "486",
+      "name": "CLORITO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-486.json"
+    },
+    {
+      "code": "557",
+      "name": "COALA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-557.json"
+    },
+    {
+      "code": "759",
+      "name": "COCA COLA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-759.json"
+    },
+    {
+      "code": "840",
+      "name": "COLLI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-840.json"
+    },
+    {
+      "code": "887",
+      "name": "COLORMAQ",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-887.json"
+    },
+    {
+      "code": "1045",
+      "name": "COMPACTOR",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-1045.json"
+    },
+    {
+      "code": "209",
+      "name": "CONDOR",
+      "count": 15,
+      "file": "suprimentos-corporativos--marca-209.json"
+    },
+    {
+      "code": "869",
+      "name": "CONDUTI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-869.json"
+    },
+    {
+      "code": "319",
+      "name": "CONSUL",
+      "count": 6,
+      "file": "suprimentos-corporativos--marca-319.json"
+    },
+    {
+      "code": "1127",
+      "name": "COPOBRAS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1127.json"
+    },
+    {
+      "code": "1023",
+      "name": "CRISTAL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1023.json"
+    },
+    {
+      "code": "758",
+      "name": "CRISTALINA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-758.json"
+    },
+    {
+      "code": "1100",
+      "name": "DAVELY",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1100.json"
+    },
+    {
+      "code": "1081",
+      "name": "DCALU",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1081.json"
+    },
+    {
+      "code": "1234",
+      "name": "DELIKASA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-1234.json"
+    },
+    {
+      "code": "386",
+      "name": "DELL",
+      "count": 10,
+      "file": "suprimentos-corporativos--marca-386.json"
+    },
+    {
+      "code": "621",
+      "name": "DELLO",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-621.json"
+    },
+    {
+      "code": "1020",
+      "name": "DESIDRAT",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1020.json"
+    },
+    {
+      "code": "1047",
+      "name": "DETAILER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1047.json"
+    },
+    {
+      "code": "965",
+      "name": "DIMMER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-965.json"
+    },
+    {
+      "code": "1",
+      "name": "DIVERSOS",
+      "count": 865,
+      "file": "suprimentos-corporativos--marca-1.json"
+    },
+    {
+      "code": "540",
+      "name": "DIVERSOS",
+      "count": 9,
+      "file": "suprimentos-corporativos--marca-540.json"
+    },
+    {
+      "code": "849",
+      "name": "DJ LED",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-849.json"
+    },
+    {
+      "code": "249",
+      "name": "DOMINA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-249.json"
+    },
+    {
+      "code": "906",
+      "name": "DRAGÃO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-906.json"
+    },
+    {
+      "code": "491",
+      "name": "DUBELLE",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-491.json"
+    },
+    {
+      "code": "677",
+      "name": "DUMEL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-677.json"
+    },
+    {
+      "code": "449",
+      "name": "DUOFFICE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-449.json"
+    },
+    {
+      "code": "974",
+      "name": "DURACELL",
+      "count": 7,
+      "file": "suprimentos-corporativos--marca-974.json"
+    },
+    {
+      "code": "562",
+      "name": "DURAMAX",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-562.json"
+    },
+    {
+      "code": "1086",
+      "name": "DUREX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1086.json"
+    },
+    {
+      "code": "545",
+      "name": "EATON MOELLER",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-545.json"
+    },
+    {
+      "code": "359",
+      "name": "ELECTROLUX",
+      "count": 7,
+      "file": "suprimentos-corporativos--marca-359.json"
+    },
+    {
+      "code": "377",
+      "name": "ELETROLUX",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-377.json"
+    },
+    {
+      "code": "896",
+      "name": "ELG",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-896.json"
+    },
+    {
+      "code": "28",
+      "name": "ELGIN",
+      "count": 17,
+      "file": "suprimentos-corporativos--marca-28.json"
+    },
+    {
+      "code": "229",
+      "name": "ELITE ACO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-229.json"
+    },
+    {
+      "code": "544",
+      "name": "EPSON",
+      "count": 10,
+      "file": "suprimentos-corporativos--marca-544.json"
+    },
+    {
+      "code": "1193",
+      "name": "ERCAPLAST",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-1193.json"
+    },
+    {
+      "code": "235",
+      "name": "ESMALTEC",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-235.json"
+    },
+    {
+      "code": "355",
+      "name": "EXBOM",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-355.json"
+    },
+    {
+      "code": "310",
+      "name": "EXCENTRIX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-310.json"
+    },
+    {
+      "code": "1157",
+      "name": "FALCOMEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1157.json"
+    },
+    {
+      "code": "675",
+      "name": "FATTO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-675.json"
+    },
+    {
+      "code": "397",
+      "name": "FENIX",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-397.json"
+    },
+    {
+      "code": "1216",
+      "name": "FERTIBOM",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1216.json"
+    },
+    {
+      "code": "949",
+      "name": "FIBERLOCK",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-949.json"
+    },
+    {
+      "code": "726",
+      "name": "FIBRACEM",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-726.json"
+    },
+    {
+      "code": "563",
+      "name": "FLEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-563.json"
+    },
+    {
+      "code": "734",
+      "name": "FLEXFORM",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-734.json"
+    },
+    {
+      "code": "1068",
+      "name": "FONPLAST",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1068.json"
+    },
+    {
+      "code": "864",
+      "name": "FOOD BIKE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-864.json"
+    },
+    {
+      "code": "111",
+      "name": "FORCELINE",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-111.json"
+    },
+    {
+      "code": "998",
+      "name": "FORT COM",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-998.json"
+    },
+    {
+      "code": "713",
+      "name": "FORTCOM",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-713.json"
+    },
+    {
+      "code": "697",
+      "name": "FORTREK",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-697.json"
+    },
+    {
+      "code": "473",
+      "name": "FORTSAN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-473.json"
+    },
+    {
+      "code": "627",
+      "name": "FRISBEL",
+      "count": 9,
+      "file": "suprimentos-corporativos--marca-627.json"
+    },
+    {
+      "code": "875",
+      "name": "FTDI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-875.json"
+    },
+    {
+      "code": "1165",
+      "name": "FTEC",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1165.json"
+    },
+    {
+      "code": "771",
+      "name": "FTTH",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-771.json"
+    },
+    {
+      "code": "708",
+      "name": "FUJIKURA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-708.json"
+    },
+    {
+      "code": "790",
+      "name": "FURUKAWA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-790.json"
+    },
+    {
+      "code": "1021",
+      "name": "FWB",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1021.json"
+    },
+    {
+      "code": "492",
+      "name": "GABOARDI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-492.json"
+    },
+    {
+      "code": "903",
+      "name": "GALLO",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-903.json"
+    },
+    {
+      "code": "624",
+      "name": "GAZECHIMP",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-624.json"
+    },
+    {
+      "code": "1233",
+      "name": "GERMER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1233.json"
+    },
+    {
+      "code": "1186",
+      "name": "GIGABYTE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1186.json"
+    },
+    {
+      "code": "528",
+      "name": "GLADE",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-528.json"
+    },
+    {
+      "code": "1164",
+      "name": "GMC METAIS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1164.json"
+    },
+    {
+      "code": "1220",
+      "name": "GP RACKS",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-1220.json"
+    },
+    {
+      "code": "666",
+      "name": "GREE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-666.json"
+    },
+    {
+      "code": "489",
+      "name": "GUARANI",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-489.json"
+    },
+    {
+      "code": "834",
+      "name": "GUILHOTINA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-834.json"
+    },
+    {
+      "code": "490",
+      "name": "HARPIC",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-490.json"
+    },
+    {
+      "code": "13",
+      "name": "HENLAU",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-13.json"
+    },
+    {
+      "code": "88",
+      "name": "HERCULES",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-88.json"
+    },
+    {
+      "code": "1088",
+      "name": "HERWEG",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-1088.json"
+    },
+    {
+      "code": "505",
+      "name": "HIKARI",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-505.json"
+    },
+    {
+      "code": "1122",
+      "name": "HOLD ON",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1122.json"
+    },
+    {
+      "code": "939",
+      "name": "HOLLYLAND",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-939.json"
+    },
+    {
+      "code": "970",
+      "name": "HP",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-970.json"
+    },
+    {
+      "code": "1226",
+      "name": "IBBL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1226.json"
+    },
+    {
+      "code": "405",
+      "name": "IMPLASTEC",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-405.json"
+    },
+    {
+      "code": "760",
+      "name": "INDAIA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-760.json"
+    },
+    {
+      "code": "1136",
+      "name": "INKANTO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1136.json"
+    },
+    {
+      "code": "848",
+      "name": "INOVEN",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-848.json"
+    },
+    {
+      "code": "519",
+      "name": "INSTRUTHERM",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-519.json"
+    },
+    {
+      "code": "300",
+      "name": "INTELBRAS",
+      "count": 22,
+      "file": "suprimentos-corporativos--marca-300.json"
+    },
+    {
+      "code": "1061",
+      "name": "IPIRANGA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1061.json"
+    },
+    {
+      "code": "1173",
+      "name": "ITATIAIA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1173.json"
+    },
+    {
+      "code": "955",
+      "name": "JBL",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-955.json"
+    },
+    {
+      "code": "661",
+      "name": "JBR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-661.json"
+    },
+    {
+      "code": "768",
+      "name": "JETFLEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-768.json"
+    },
+    {
+      "code": "850",
+      "name": "JOAPE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-850.json"
+    },
+    {
+      "code": "596",
+      "name": "KALA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-596.json"
+    },
+    {
+      "code": "941",
+      "name": "KETER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-941.json"
+    },
+    {
+      "code": "901",
+      "name": "KIMIMO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-901.json"
+    },
+    {
+      "code": "599",
+      "name": "KINGSTON",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-599.json"
+    },
+    {
+      "code": "502",
+      "name": "KOC",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-502.json"
+    },
+    {
+      "code": "983",
+      "name": "LASSANE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-983.json"
+    },
+    {
+      "code": "393",
+      "name": "LENOVO",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-393.json"
+    },
+    {
+      "code": "619",
+      "name": "LEOLEO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-619.json"
+    },
+    {
+      "code": "564",
+      "name": "LG",
+      "count": 11,
+      "file": "suprimentos-corporativos--marca-564.json"
+    },
+    {
+      "code": "452",
+      "name": "LIMPOL",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-452.json"
+    },
+    {
+      "code": "189",
+      "name": "LOCTITE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-189.json"
+    },
+    {
+      "code": "301",
+      "name": "LOGITECH",
+      "count": 8,
+      "file": "suprimentos-corporativos--marca-301.json"
+    },
+    {
+      "code": "962",
+      "name": "LOTTUS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-962.json"
+    },
+    {
+      "code": "415",
+      "name": "LOTUS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-415.json"
+    },
+    {
+      "code": "1131",
+      "name": "LUBRAX",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-1131.json"
+    },
+    {
+      "code": "1232",
+      "name": "LYOR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1232.json"
+    },
+    {
+      "code": "977",
+      "name": "MACHFLOSS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-977.json"
+    },
+    {
+      "code": "779",
+      "name": "MALLORY",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-779.json"
+    },
+    {
+      "code": "36",
+      "name": "MAMUTH",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-36.json"
+    },
+    {
+      "code": "1009",
+      "name": "MARATA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1009.json"
+    },
+    {
+      "code": "841",
+      "name": "MARCHESONE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-841.json"
+    },
+    {
+      "code": "578",
+      "name": "MARCHESONI",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-578.json"
+    },
+    {
+      "code": "938",
+      "name": "MARES",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-938.json"
+    },
+    {
+      "code": "905",
+      "name": "MARILUX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-905.json"
+    },
+    {
+      "code": "342",
+      "name": "MARINA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-342.json"
+    },
+    {
+      "code": "925",
+      "name": "MARLIN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-925.json"
+    },
+    {
+      "code": "601",
+      "name": "MARTIFLEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-601.json"
+    },
+    {
+      "code": "1064",
+      "name": "MASTERPRINT",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1064.json"
+    },
+    {
+      "code": "761",
+      "name": "MAXPRINT",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-761.json"
+    },
+    {
+      "code": "602",
+      "name": "MAXWIPE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-602.json"
+    },
+    {
+      "code": "1192",
+      "name": "MAZZILLI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1192.json"
+    },
+    {
+      "code": "504",
+      "name": "MD9",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-504.json"
+    },
+    {
+      "code": "872",
+      "name": "MEGATRON",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-872.json"
+    },
+    {
+      "code": "616",
+      "name": "MEMORYTEC",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-616.json"
+    },
+    {
+      "code": "620",
+      "name": "MERCUR",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-620.json"
+    },
+    {
+      "code": "531",
+      "name": "METAL CHECK",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-531.json"
+    },
+    {
+      "code": "1060",
+      "name": "MICROLINE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1060.json"
+    },
+    {
+      "code": "1034",
+      "name": "MIDEA",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-1034.json"
+    },
+    {
+      "code": "917",
+      "name": "MIMO STYLE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-917.json"
+    },
+    {
+      "code": "935",
+      "name": "MINASPLAST",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-935.json"
+    },
+    {
+      "code": "522",
+      "name": "MOBILEPRINTER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-522.json"
+    },
+    {
+      "code": "727",
+      "name": "MONDIAL",
+      "count": 11,
+      "file": "suprimentos-corporativos--marca-727.json"
+    },
+    {
+      "code": "671",
+      "name": "MOSKA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-671.json"
+    },
+    {
+      "code": "636",
+      "name": "MOTOROLA",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-636.json"
+    },
+    {
+      "code": "385",
+      "name": "MOURA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-385.json"
+    },
+    {
+      "code": "102",
+      "name": "MTX",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-102.json"
+    },
+    {
+      "code": "985",
+      "name": "MULTI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-985.json"
+    },
+    {
+      "code": "266",
+      "name": "MULTILASER",
+      "count": 26,
+      "file": "suprimentos-corporativos--marca-266.json"
+    },
+    {
+      "code": "1182",
+      "name": "MULTIPANO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1182.json"
+    },
+    {
+      "code": "1017",
+      "name": "MULTITOC",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1017.json"
+    },
+    {
+      "code": "1140",
+      "name": "MVIRTUAR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1140.json"
+    },
+    {
+      "code": "1024",
+      "name": "NADIR",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-1024.json"
+    },
+    {
+      "code": "403",
+      "name": "NAGANO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-403.json"
+    },
+    {
+      "code": "953",
+      "name": "NAUTILUS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-953.json"
+    },
+    {
+      "code": "493",
+      "name": "NECTAR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-493.json"
+    },
+    {
+      "code": "1013",
+      "name": "NESTLE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1013.json"
+    },
+    {
+      "code": "986",
+      "name": "NEVADO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-986.json"
+    },
+    {
+      "code": "928",
+      "name": "NEW HORIZON",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-928.json"
+    },
+    {
+      "code": "785",
+      "name": "NEWMAQ",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-785.json"
+    },
+    {
+      "code": "951",
+      "name": "NEXT FIBER",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-951.json"
+    },
+    {
+      "code": "523",
+      "name": "NHS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-523.json"
+    },
+    {
+      "code": "765",
+      "name": "NIIMBOT",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-765.json"
+    },
+    {
+      "code": "296",
+      "name": "NIKON",
+      "count": 6,
+      "file": "suprimentos-corporativos--marca-296.json"
+    },
+    {
+      "code": "227",
+      "name": "NILKO",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-227.json"
+    },
+    {
+      "code": "989",
+      "name": "NOBRE",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-989.json"
+    },
+    {
+      "code": "183",
+      "name": "NOVICA",
+      "count": 9,
+      "file": "suprimentos-corporativos--marca-183.json"
+    },
+    {
+      "code": "623",
+      "name": "OCEANO TI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-623.json"
+    },
+    {
+      "code": "299",
+      "name": "OEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-299.json"
+    },
+    {
+      "code": "485",
+      "name": "OMO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-485.json"
+    },
+    {
+      "code": "144",
+      "name": "ORBI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-144.json"
+    },
+    {
+      "code": "827",
+      "name": "OSTER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-827.json"
+    },
+    {
+      "code": "698",
+      "name": "OVERTEK",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-698.json"
+    },
+    {
+      "code": "400",
+      "name": "PAIS E FILHOS",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-400.json"
+    },
+    {
+      "code": "945",
+      "name": "PALOMA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-945.json"
+    },
+    {
+      "code": "738",
+      "name": "PANDIN",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-738.json"
+    },
+    {
+      "code": "1000",
+      "name": "PANEW",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1000.json"
+    },
+    {
+      "code": "913",
+      "name": "PAPERX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-913.json"
+    },
+    {
+      "code": "426",
+      "name": "PARAMOUNT",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-426.json"
+    },
+    {
+      "code": "819",
+      "name": "PATO",
+      "count": 6,
+      "file": "suprimentos-corporativos--marca-819.json"
+    },
+    {
+      "code": "495",
+      "name": "PERFEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-495.json"
+    },
+    {
+      "code": "488",
+      "name": "PEROBA",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-488.json"
+    },
+    {
+      "code": "289",
+      "name": "PERROTTI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-289.json"
+    },
+    {
+      "code": "496",
+      "name": "PERSONAL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-496.json"
+    },
+    {
+      "code": "375",
+      "name": "PHILCO",
+      "count": 12,
+      "file": "suprimentos-corporativos--marca-375.json"
+    },
+    {
+      "code": "527",
+      "name": "PHILIPS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-527.json"
+    },
+    {
+      "code": "946",
+      "name": "PILAR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-946.json"
+    },
+    {
+      "code": "625",
+      "name": "PILOT",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-625.json"
+    },
+    {
+      "code": "731",
+      "name": "PIMPO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-731.json"
+    },
+    {
+      "code": "1130",
+      "name": "PINHO SOL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1130.json"
+    },
+    {
+      "code": "497",
+      "name": "PINHO TROP",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-497.json"
+    },
+    {
+      "code": "866",
+      "name": "PIRELLI",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-866.json"
+    },
+    {
+      "code": "802",
+      "name": "PLASBIL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-802.json"
+    },
+    {
+      "code": "742",
+      "name": "PLASTPAN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-742.json"
+    },
+    {
+      "code": "1141",
+      "name": "PLASUTIL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1141.json"
+    },
+    {
+      "code": "376",
+      "name": "PLENUS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-376.json"
+    },
+    {
+      "code": "1006",
+      "name": "PLESTIN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1006.json"
+    },
+    {
+      "code": "303",
+      "name": "PLUSCABLE",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-303.json"
+    },
+    {
+      "code": "1172",
+      "name": "POLASEAL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1172.json"
+    },
+    {
+      "code": "618",
+      "name": "POLIBRAS",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-618.json"
+    },
+    {
+      "code": "466",
+      "name": "PORTS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-466.json"
+    },
+    {
+      "code": "550",
+      "name": "POTIGUAR",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-550.json"
+    },
+    {
+      "code": "536",
+      "name": "PREMISSE",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-536.json"
+    },
+    {
+      "code": "960",
+      "name": "PROPTIC",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-960.json"
+    },
+    {
+      "code": "981",
+      "name": "PULSE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-981.json"
+    },
+    {
+      "code": "907",
+      "name": "PURO AR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-907.json"
+    },
+    {
+      "code": "1132",
+      "name": "QUALINE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1132.json"
+    },
+    {
+      "code": "454",
+      "name": "RAINHA DO VALE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-454.json"
+    },
+    {
+      "code": "963",
+      "name": "RATTAN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-963.json"
+    },
+    {
+      "code": "1022",
+      "name": "RDSCOMP",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1022.json"
+    },
+    {
+      "code": "934",
+      "name": "REDENTOR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-934.json"
+    },
+    {
+      "code": "1214",
+      "name": "REDRAGON",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1214.json"
+    },
+    {
+      "code": "987",
+      "name": "REGINA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-987.json"
+    },
+    {
+      "code": "533",
+      "name": "RELIZA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-533.json"
+    },
+    {
+      "code": "1124",
+      "name": "RESERVA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1124.json"
+    },
+    {
+      "code": "1191",
+      "name": "RICOH",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-1191.json"
+    },
+    {
+      "code": "844",
+      "name": "ROLDANA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-844.json"
+    },
+    {
+      "code": "1069",
+      "name": "SADIO",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-1069.json"
+    },
+    {
+      "code": "152",
+      "name": "SAMSUNG",
+      "count": 23,
+      "file": "suprimentos-corporativos--marca-152.json"
+    },
+    {
+      "code": "847",
+      "name": "SANDISK",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-847.json"
+    },
+    {
+      "code": "480",
+      "name": "SANTA CLARA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-480.json"
+    },
+    {
+      "code": "821",
+      "name": "SANTA CRUZ",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-821.json"
+    },
+    {
+      "code": "936",
+      "name": "SCALA",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-936.json"
+    },
+    {
+      "code": "1137",
+      "name": "SCARPARO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1137.json"
+    },
+    {
+      "code": "551",
+      "name": "SCHIN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-551.json"
+    },
+    {
+      "code": "568",
+      "name": "SECAR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-568.json"
+    },
+    {
+      "code": "561",
+      "name": "SECCON",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-561.json"
+    },
+    {
+      "code": "1206",
+      "name": "SERIDO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1206.json"
+    },
+    {
+      "code": "940",
+      "name": "SERTPLASTICOS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-940.json"
+    },
+    {
+      "code": "1042",
+      "name": "SIWF PACK",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1042.json"
+    },
+    {
+      "code": "1101",
+      "name": "SONY",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1101.json"
+    },
+    {
+      "code": "582",
+      "name": "SPRINGER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-582.json"
+    },
+    {
+      "code": "1010",
+      "name": "STALO",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1010.json"
+    },
+    {
+      "code": "137",
+      "name": "STANLEY",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-137.json"
+    },
+    {
+      "code": "1120",
+      "name": "STARFER",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1120.json"
+    },
+    {
+      "code": "678",
+      "name": "STER BOM",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-678.json"
+    },
+    {
+      "code": "1083",
+      "name": "SUDRACT",
+      "count": 7,
+      "file": "suprimentos-corporativos--marca-1083.json"
+    },
+    {
+      "code": "1167",
+      "name": "SUGON",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1167.json"
+    },
+    {
+      "code": "472",
+      "name": "TACK TAPE",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-472.json"
+    },
+    {
+      "code": "659",
+      "name": "TARGET",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-659.json"
+    },
+    {
+      "code": "435",
+      "name": "TARGUS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-435.json"
+    },
+    {
+      "code": "450",
+      "name": "TCL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-450.json"
+    },
+    {
+      "code": "346",
+      "name": "TECFIL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-346.json"
+    },
+    {
+      "code": "1113",
+      "name": "TECNO MOBILI",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1113.json"
+    },
+    {
+      "code": "524",
+      "name": "TERMOLAR",
+      "count": 4,
+      "file": "suprimentos-corporativos--marca-524.json"
+    },
+    {
+      "code": "1181",
+      "name": "THAIS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1181.json"
+    },
+    {
+      "code": "617",
+      "name": "TILIBRA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-617.json"
+    },
+    {
+      "code": "1110",
+      "name": "TOOLS&CIA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1110.json"
+    },
+    {
+      "code": "999",
+      "name": "TOPCLEAR",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-999.json"
+    },
+    {
+      "code": "749",
+      "name": "TOSHIBA",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-749.json"
+    },
+    {
+      "code": "909",
+      "name": "TOTAL PLAST",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-909.json"
+    },
+    {
+      "code": "937",
+      "name": "TOTALPLAST",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-937.json"
+    },
+    {
+      "code": "83",
+      "name": "TRAMONTINA",
+      "count": 8,
+      "file": "suprimentos-corporativos--marca-83.json"
+    },
+    {
+      "code": "835",
+      "name": "TRIFLEX",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-835.json"
+    },
+    {
+      "code": "1227",
+      "name": "TS SHARA",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-1227.json"
+    },
+    {
+      "code": "1115",
+      "name": "UGREEN",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1115.json"
+    },
+    {
+      "code": "483",
+      "name": "ULTRA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-483.json"
+    },
+    {
+      "code": "116",
+      "name": "VABENE",
+      "count": 5,
+      "file": "suprimentos-corporativos--marca-116.json"
+    },
+    {
+      "code": "910",
+      "name": "VALENÇA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-910.json"
+    },
+    {
+      "code": "1106",
+      "name": "VENTISILVA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1106.json"
+    },
+    {
+      "code": "629",
+      "name": "VENTISOL",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-629.json"
+    },
+    {
+      "code": "954",
+      "name": "VIX",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-954.json"
+    },
+    {
+      "code": "73",
+      "name": "VOGAN",
+      "count": 36,
+      "file": "suprimentos-corporativos--marca-73.json"
+    },
+    {
+      "code": "47",
+      "name": "VONDER",
+      "count": 3,
+      "file": "suprimentos-corporativos--marca-47.json"
+    },
+    {
+      "code": "357",
+      "name": "WALEU",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-357.json"
+    },
+    {
+      "code": "461",
+      "name": "WAP",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-461.json"
+    },
+    {
+      "code": "61",
+      "name": "WURTH",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-61.json"
+    },
+    {
+      "code": "1155",
+      "name": "XCOLDS",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-1155.json"
+    },
+    {
+      "code": "709",
+      "name": "YOKOGAWA",
+      "count": 1,
+      "file": "suprimentos-corporativos--marca-709.json"
+    },
+    {
+      "code": "478",
+      "name": "YPE",
+      "count": 2,
+      "file": "suprimentos-corporativos--marca-478.json"
+    }
+  ],
   "products": [
     {
       "code": "12343",

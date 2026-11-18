@@ -1,0 +1,39 @@
+{
+  "page": 3,
+  "products": [
+    {
+      "code": "5558",
+      "title": "OLHAL GIRATÓRIO M30  4,2T GRAU 8 FS 4:1 - TECNOTEXTIL 208506",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "208506",
+      "category": "OLHAIS",
+      "categorySlug": "olhais",
+      "path": "/olhal-giratorio-m30-42t-grau-8-fs-41--tecnotextil-208506-5558",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    },
+    {
+      "code": "5559",
+      "title": "OLHAL GIRATÓRIO M36  11T GRAU 8  FS 4:1 - TECNOTEXTIL 208508",
+      "brand": "TECNOTEXTIL",
+      "brandCode": "143",
+      "supplier": "TECNOTEXTIL IND E COM DE CINTAS LTDA",
+      "supplierCode": "461",
+      "manufacturerCode": "208508",
+      "category": "OLHAIS",
+      "categorySlug": "olhais",
+      "path": "/olhal-giratorio-m36-11t-grau-8-fs-41--tecnotextil-208508-5559",
+      "image": null,
+      "department": "Amarração e Elevação",
+      "departmentSlug": "amarracao-e-elevacao",
+      "section": "Elevação de Carga",
+      "sectionSlug": "elevacao-de-carga"
+    }
+  ]
+}
