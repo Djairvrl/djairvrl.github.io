@@ -37,26 +37,6 @@
       ]
     }
   ],
-  "suppliers": [
-    {
-      "code": "1916",
-      "name": "ESSENTRA INDUSTRIA E COMERCIO LTDA.",
-      "count": 1,
-      "file": "compositos--fornecedor-1916.json"
-    },
-    {
-      "code": "772",
-      "name": "FELIX INDUSTRIA E COMERCIO DE PRODUTOS DE PAPEL LTDA",
-      "count": 1,
-      "file": "compositos--fornecedor-772.json"
-    },
-    {
-      "code": "1276",
-      "name": "N C OLIVEIRA TINTAS LTDA",
-      "count": 1,
-      "file": "compositos--fornecedor-1276.json"
-    }
-  ],
   "products": [
     {
       "code": "11400",

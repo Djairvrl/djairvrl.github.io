@@ -29,20 +29,6 @@
       ]
     }
   ],
-  "suppliers": [
-    {
-      "code": "4918",
-      "name": "DANHYDRA INC.",
-      "count": 10,
-      "file": "equipamentos-industriais--fornecedor-4918.json"
-    },
-    {
-      "code": "4",
-      "name": "MEDEIROS GALVAO SOLUCOES LTDA - MTZ",
-      "count": 1,
-      "file": "equipamentos-industriais--fornecedor-4.json"
-    }
-  ],
   "products": [
     {
       "code": "11846",
